@@ -1,0 +1,2643 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ XCIogqyShSBfuKUI0EUH94i3QpB7bTANgEiaK5XEfBbt6H/kHZVYg4552wMDlH5Z
+ NiWgUiiaTUs/cO/iqSYP+Q==
+
+<IMS-DOCUMENT>0000051103-94-000009.txt : 19940927
+<IMS-HEADER>0000051103-94-000009.hdr.sgml : 19940927
+ACCESSION NUMBER:		0000051103-94-000009
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940926
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTERNATIONAL ALUMINUM CORP
+		CENTRAL INDEX KEY:			0000051103
+		STANDARD INDUSTRIAL CLASSIFICATION:	3442
+		IRS NUMBER:				952385235
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07256
+		FILM NUMBER:		94550285
+
+	BUSINESS ADDRESS:	
+		STREET 1:		767 MONTEREY PASS RD
+		CITY:			MONTEREY PARK
+		STATE:			CA
+		ZIP:			91754
+		BUSINESS PHONE:		2132641670
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K FOR YEAR ENDED JUNE 30, 1994
+<TEXT>
+
+=================================================================
+=============
+
+                    SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON, D.C. 20549
+
+                                 FORM 10-K
+
+                   ANNUAL REPORT PURSUANT TO SECTION 13
+                  OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended June 30, 1994           Commission File
+Number 1-7256
+
+                    INTERNATIONAL ALUMINUM CORPORATION
+          (Exact name of Registrant as specified in its charter)
+
+
+     California                                        95-2385235 
+            
+(State of incorporation)                 (I.R.S. Employer
+Identification No.)
+
+
+767 Monterey Pass Road, Monterey Park, California 91754     
+(213) 264-1670
+         (Address of principal executive office           
+(Telephone Number)
+
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+        Title of Each Class          Name of Each Exchange on
+Which Registered
+
+        Common Stock ($1.00 Par Value)         New York Stock
+Exchange, Inc.    
+                                                Pacific Stock
+Exchange, Inc.    
+
+
+Securities registered pursuant to Section 12(g) of the Act:  None 
+     
+
+
+Indicate by check mark whether the Registrant (1) has filed all
+reports required
+to be filed by Section 13 of the Securities Exchange Act of 1934
+during the
+preceding 12 months and (2) has been subject to such filing
+requirements for 
+the past 90 days.  Yes  X    No    
+
+Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 
+405 of Regulation S-K is not contained herein, and will not be
+contained, to 
+the best of Registrant's knowledge, in definitive proxy or
+information 
+statements incorporated by reference in Part III of this Form
+10-K or any 
+amendment to this Form 10-K.      
+
+At September 7, 1994 there were 4,234,762 shares of Registrant's
+Common Stock
+outstanding.  The aggregate market value of shares held by
+non-affiliates was
+$64,258,369 based on the Composite Tape closing price on that
+date.
+
+
+                    DOCUMENTS INCORPORATED BY REFERENCE
+
+1. Registrant's Annual Report to Shareholders for the fiscal year
+ended 
+   June 30, 1994, pages 4 through 16, are incorporated by
+reference into 
+   Parts I and II.
+
+2. Registrant's Proxy Statement dated September 22, 1994 for the
+Annual 
+   Meeting of Shareholders to be held on October 27, 1994 is
+incorporated by
+   reference, other than the performance graph and Compensation
+Committee 
+   Report, into Part III.
+
+=================================================================
+===<PAGE>
+  <PAGE> 
+                       PART I
+  
+  
+  ITEM 1.  BUSINESS
+  
+  a. GENERAL DEVELOPMENT OF BUSINESS
+  
+       International Aluminum Corporation is an integrated
+manufacturer and
+  supplier of a broad line of quality aluminum, wood, vinyl and
+glass products. 
+  The Company was incorporated in California in 1963 as successor
+to an aluminum
+  fabricating business begun in 1957 and maintains its executive
+offices at 767
+  Monterey Pass Road, Monterey Park, California 91754.  The
+Company's telephone
+  number is (213) 264-1670.  Reference to the "Registrant",
+"International 
+  Aluminum Corporation" or the "Company" includes International
+Aluminum 
+  Corporation and its subsidiaries unless the context indicates
+otherwise.
+  
+  b. INDUSTRY SEGMENTS, LINES OF BUSINESS AND CLASSES OF PRODUCTS
+  
+       This information is included on pages 4 and 13
+respectively, of the
+  Registrant's 1994 Annual Report to Shareholders and is hereby
+incorporated by
+  reference.
+  
+  c. NARRATIVE DESCRIPTION OF BUSINESS
+  
+  Processes and Products
+  
+    Building Products
+  
+      Residential.  Residential products are fabricated from
+aluminum, wood and
+  vinyl into a broad line of sliding windows, single hung
+windows, double hung
+  windows, casement windows, garden windows, bay and bow windows,
+special
+  configuration windows, louvre windows, storm sash, patio doors,
+tub 
+  enclosures, shower doors, wardrobe mirror doors and related
+products.  
+  These products are used in new residential construction and in
+remodeling,
+  home improvement and replacement.
+  
+      Commercial.  Commercial products are fabricated from
+aluminum into curtain
+  walls, window walls, storefront framing, commercial windows,
+entrance doors
+  and frames, interior doors and frames and interior wall
+systems.  These 
+  products are utilized in varying combinations to produce
+systems used for
+  office and commercial construction, remodeling and tenant
+improvement
+  applications.
+  
+      Aluminum Extrusions.  In the extrusion process, heated
+aluminum billets
+  are hydraulically forced through steel dies to produce a piece
+of metal of
+  the desired length and cross-section shape.  The extrusions are
+then cut and,
+  when requested, anodized or painted in a variety of finishes in
+the Company's
+  anodizing and painting departments.
+  
+      The Company currently has five extrusion presses at its
+Alhambra, 
+  California plant and three presses at its plant in Waxahachie,
+Texas.
+  
+  
+  
+                                   - 1 -<PAGE>
+<PAGE>
+      Aluminum extrusions produced by the Company are used in
+fabricating
+  substantially all of its other aluminum products.  In addition,
+during fiscal
+  1994 approximately 52% of the extrusions produced were sold to
+users in its
+  own or other industries, including manufacturers of fixtures,
+electronic 
+  equipment, fitness products, sailboats, skylights and truck
+bodies.  The 
+  Company furnishes design services to assist its customers in
+developing or
+  better utilizing custom extrusions.
+  
+  Glass Products
+  
+      This product group shapes, bends, bevels, etches, polishes
+and tempers
+  bulk flat glass.  The fabricated glass is primarily utilized in
+the Company's
+  glass furniture lines and in its line of modular store display
+systems.
+  Glass is also processed to customer specifications for
+incorporation into 
+  their end products, which include residential, patio and office
+furniture,
+  truck and recreational vehicle windows, light fixtures and
+appliances.
+  
+  Sales and Distribution
+  
+      The Company markets its residential and commercial building
+products
+  primarily to independent dealers and distributors, with whom
+the Company
+  has no long-term contracts.  Aluminum extrusions are marketed
+principally
+  by direct sales to other manufacturers, some of which produce
+aluminum 
+  products of the Company's design.  The Company's glass products
+are 
+  marketed to manufacturers, distributors and retailers.
+  
+      Each of the Company's subsidiaries has its own
+administrative and sales
+  organizations.  Sales are made largely in the United States,
+Europe and 
+  Mexico.
+  
+      No customer accounted for more than 3% of net sales in
+1994, and no 
+  material part of the business is dependent upon a single
+customer or a few 
+  customers, the loss of any one or more of whom would have a
+materially 
+  adverse effect on the business of the Company.  The Company
+does business 
+  on a current basis and has no significant backlog of unfilled
+firm orders.
+  
+  Materials
+  
+      The Company purchases its aluminum ingot requirements from
+primary 
+  aluminum producers or spot metal brokers.  Although increased
+worldwide 
+  demand produces periods of tight supply of aluminum ingot and
+scrap, the 
+  Company has had satisfactory experience to date in obtaining
+sufficient raw
+  materials to meet its requirements and does not anticipate
+material 
+  shortages which would significantly hamper its operations.
+  
+      Bulk glass is purchased from domestic glass manufacturers. 
+The Company
+  has had satisfactory experience to date in obtaining sufficient
+glass to 
+  meet its requirements.
+  
+      The Company produces the aluminum extrusions used in the
+products it
+  manufactures and sells.  Wood, vinyl, hardware, fasteners and
+screening are
+  purchased from outside sources.
+  
+  
+                                   - 2 -<PAGE>
+<PAGE>
+  Seasonality
+  
+      Sales of products designed for residential and commercial
+applications are
+  subject to cyclical swings in new construction and seasonal
+fluctuations 
+  due to reduced construction activity in some marketing areas
+during the 
+  winter months (second and third quarters).
+  
+  Working Capital
+  
+      To maintain an adequate supply of aluminum to meet customer
+delivery
+  requirements and to assure itself of a continuous allotment of
+materials 
+  from its suppliers, the Company at times carries a significant
+inventory of
+  aluminum ingot.  Depending on price and availability, bulk
+quantities of 
+  ingot are purchased from either primary aluminum producers or
+from spot 
+  metal brokers.
+  
+      The Company does not believe there are any abnormal working
+capital
+  requirements associated with any of its product groups as
+merchandise is 
+  normally produced for specific customer orders or shipped from
+inventory 
+  and as a general practice extended payment terms are not
+granted to customers.
+  
+  Patents
+  
+      The Company has no material patents, either issued or
+pending, and is 
+  not a party to any significant licensing agreements.
+  
+  Competition and Risk
+  
+      The business of International Aluminum is highly
+competitive.  Competition
+  in all product lines is on the basis of price, service and
+product quality.
+  The manner and extent of such competition depends on the
+product being 
+  marketed and the relevant marketing area.  In selling its
+residential 
+  products to dealers and distributors, the Company faces
+competition 
+  primarily from numerous fabricators. The Company's major
+competitors in 
+  selling commercial products and aluminum extrusions are
+substantially 
+  larger, more diversified and have greater resources than the
+Company.
+  
+      The Company anticipates that expansion of its product lines
+may result 
+  in its competing with certain of its present customers.  While
+the Company 
+  cannot accurately predict the effect, if any, that such
+development will 
+  have on its business, the Company anticipates no material
+adverse effect.
+  
+      Since a substantial portion of the Company's business is
+connected with
+  residential and commercial building construction, any
+significant decrease
+  in new or remodeling construction could adversely affect
+revenues.  
+  Experience has shown that high interest rates for construction
+financing 
+  and residential mortgage and home improvement loans may
+adversely affect 
+  revenues.
+  
+  
+  
+  
+  
+  
+  
+                                   - 3 -<PAGE>
+<PAGE>
+  Environmental Controls
+  
+      The Company's domestic aluminum extrusion, anodizing,
+painting and
+  manufacturing facilities are subject to water and air pollution
+control 
+  standards mandated by federal, state and local law.  While the
+Company 
+  anticipates no material capital expenditures to meet
+established 
+  environmental quality control standards, there can be no
+assurance that 
+  more stringent standards will not be established which might
+require such 
+  expenditures.
+  
+  Employees
+  
+      As of June 30, 1994, the Company had approximately 1,900
+full-time 
+  employees.
+  
+  d.    FINANCIAL INFORMATION ABOUT FOREIGN AND DOMESTIC
+OPERATIONS
+  
+      The information concerning sales, net income and
+identifiable assets of
+  foreign and domestic operations for fiscal years 1994, 1993 and
+1992 is set
+  forth in Note 10 to the consolidated financial statements
+included on page 
+  13 of the Company's 1994 Annual Report incorporated herein by
+reference.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                                   - 4 -<PAGE>
+<PAGE> <TABLE>
+  ITEM 2.  PROPERTIES
+  
+      The following table sets forth information concerning the
+location, 
+  size and use of the Company's present facilities:
+  <CAPTION>
+                                    Square
+            Location               Feet (1)                   Use 
+            
+  <S>                              <C>           <C>
+  Building Products:
+    Alhambra, California            214,000      Aluminum
+extrusions, foundry,
+                                                    anodizing and
+painting
+    Waxahachie, Texas               206,000      Aluminum
+extrusions, foundry,
+                                                    anodizing and
+painting
+    South Gate, California          189,000      Residential
+products
+    Hayward, California             103,000      Residential
+products
+    Phoenix, Arizona                 57,000      Residential
+products
+    Riverside, California            40,000(L)   Residential
+products
+    Vernon, California              134,000      Commercial
+products
+    Bedford Park, Illinois           81,000      Commercial
+products
+    Waxahachie, Texas               134,000      Commercial
+products
+    Denver, Colorado                 16,000(L)   Commercial
+Products
+    Rock Hill, South Carolina        74,000(E)   Commercial
+products
+    Bridgeport, New Jersey           81,000      Commercial
+products
+    Houston, Texas                   57,000      Commercial
+products
+    Dallas, Texas                    15,000      Commercial
+products
+    Waxahachie, Texas                60,000      Commercial
+products
+    Amsterdam, the Netherlands      165,000      Commercial and
+residential
+                                                    products
+  
+  Glass Products:
+    South Gate, California           86,000(L)   Glass
+fabrication and tempering
+    Rock Hill, South Carolina        84,000(E)   Glass
+fabrication and tempering
+  
+  Administration:
+    Monterey Park, California        19,000(L)   Executive
+offices
+  <FN>
+  ______________________
+  
+  (1)  Includes manufacturing, warehouse and office space;
+excludes construction
+  in process, parking and yard storage space.
+  
+  (E)  Indicates encumberment of real property.
+  
+  (L)  Indicates leased premises.
+  
+  
+       Of the 1,815,000 square feet exhibited above, 1,654,000
+square feet are
+  owned by the Company.  The balance of 161,000 square feet is
+leased under
+  agreements expiring at various dates.  The Company believes
+that its 
+  facilities are adequate for anticipated levels of operations.
+  </TABLE>
+  
+  
+                                   - 5 -<PAGE>
+<PAGE>
+  ITEM 3.  LEGAL PROCEEDINGS
+  
+       The Company has litigation pending, both offensive and
+defensive, arising
+  from the conduct of its business, none of which are expected to
+have any 
+  material effect on the Company's financial position.
+  
+  ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+  
+       No matters have been submitted to a vote of security
+holders which are
+  required to be reported under the instructions to this item.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                                   - 6 -<PAGE>
+<PAGE>                          PART II
+  
+  ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED
+STOCK
+           HOLDER MATTERS
+  
+       The market and dividend information is included on pages
+14 and 16 of the
+  Company's 1994 Annual Report to Shareholders and is
+incorporated herein by
+  reference.
+  
+            There are no restrictions of future cash dividends.
+  
+       There were approximately 600 shareholders of record of the
+Company's 
+  common stock at June 30, 1994.
+  
+  ITEM 6.  SELECTED FINANCIAL DATA
+  
+       Selected financial data pertaining to the Company for the
+last five years
+  is set forth on page 4 of the Company's 1994 Annual Report to
+Shareholders and
+  is incorporated herein by reference.
+  
+  ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION
+           AND RESULTS OF OPERATIONS
+  
+       This information is set forth on pages 4 and 5 of the
+Company's 1994 
+  Annual Report to Shareholders and is incorporated herein by
+reference.
+  
+  ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+  
+            See Part IV, Item 14.
+  
+  ITEM 9.  DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+  
+       There have been no disagreements which are required to be
+reported 
+  under the instructions to this item.
+  
+  
+                               PART III
+  
+       The information required under Part III is contained in
+the Company's 
+  Proxy Statement for the Annual Meeting of Shareholders to be
+held 
+  October 27, 1994, which information is incorporated herein by
+reference.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                                   - 7 -<PAGE>
+<PAGE>                        PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON
+FORM 8-K
+
+                                                                  
+      Page
+(a)  1.  Financial Statements
+           Consolidated Financial Statements (See Note):
+             Balance sheets - June 30, 1994 and 1993
+             Statements for the three years ended June 30, 1994 -
+               Income
+               Shareholders' equity
+               Cash flows
+             Notes to consolidated financial statements
+
+     2.  Financial Statement Schedules
+           Report of Independent Accountants on Financial
+             Statement Schedules                                  
+       F-1
+           Schedules for the three years ended June 30, 1994 -
+                V  Property, plant and equipment                  
+       F-2
+               VI  Accumulated depreciation of property, plant
+                      and equipment                               
+       F-3
+             VIII  Valuation and qualifying accounts              
+       F-4
+                X  Supplementary income statement information     
+       F-5
+
+     3.  Exhibits
+
+3.  Articles of incorporation and by-laws.  This information is
+set forth as
+Exhibits 2.2 and 2.3 to the September 9, 1977 Registration
+Statement on Form 
+S-7, and was amended by Proxy Statements dated September 26, 1978
+and 
+September 21, 1988 furnished to shareholders in connection with
+the related 
+Annual Meeting of Shareholders held on October 26, 1978 and
+October 27, 1988,
+respectively.  These documents were filed by the Registrant with
+the 
+Securities and Exchange Commission and are incorporated herein by
+reference.
+
+4.  Instruments defining the rights of security holders,
+including indentures.
+This information is set forth on page 10 of the August 1, 1968
+Registration 
+Statement on Form S-1, as amended, filed by the Registrant with
+the 
+Securities and Exchange Commission and is incorporated herein by
+reference.
+
+13.  Annual report to security holders, Form 10-Q or quarterly
+report to 
+security holders.
+
+22.  Subsidiaries of the registrant.
+
+(b)  No reports on Form 8-K were required to be filed during the
+last quarter of
+1994.
+
+
+NOTE:  The consolidated statements referred to above are included
+in the 1994
+       Annual Report to Shareholders and are incorporated herein
+by reference.
+       No section of the Annual Report to Shareholders other than
+pages 4 
+       through 16 is deemed to be filed with the Commission.
+
+
+                                    - 8 -<PAGE>
+<PAGE>
+<TABLE>
+                           SIGNATURES
+
+
+   Pursuant to the requirements of Section 13 or 15(d) of the
+Securities 
+Exchange Act of 1934, the Registrant has duly caused this report
+to be signed
+on its behalf by the undersigned, thereto duly authorized.
+
+                                             INTERNATIONAL
+ALUMINUM CORPORATION
+
+Date:  September 20, 1994                    By:       DAVID C.
+TREINEN        
+                                                       David C.
+Treinen
+                                              Vice
+President-Finance; Secretary
+                                                 and Chief
+Financial Officer
+
+
+   Pursuant to the requirements of the Securities Exchange Act of
+1934, this
+report has been signed below by the following persons on behalf
+of the 
+Registrant and in the capacities and on the dates indicated.
+<CAPTION>
+       Signature                             Title                
+             Date       
+<S>                               <C>                             
+      <C>
+
+
+CORNELIUS C. VANDERSTAR           Chairman of the Board and       
+      September 20, 1994
+Cornelius C. Vanderstar             Chief Executive Officer
+
+
+JOHN P. CUNNINGHAM                Director, President and         
+      September 20, 1994
+John P. Cunningham                  Chief Operating Officer
+
+
+HUGH E. CURRAN                    Director and Vice President-    
+      September 20, 1994
+Hugh E. Curran                      Sales
+
+
+DAVID C. TREINEN                  Director and Vice President-    
+      September 20, 1994
+David C. Treinen                    Finance; Secretary and 
+                                    Chief Financial Officer
+
+MITCHELL K. FOGELMAN              Asst. Vice President-Finance;   
+      September 20, 1994
+Mitchell K. Fogelman                Controller and Chief
+                                    Accounting Officer
+
+JOEL F. McINTYRE                  Director                        
+      September 20, 1994
+Joel F. McIntyre
+
+
+ALEXANDER VAN DE POL              Director                        
+      September 20, 1994
+Alexander van de Pol
+
+
+DONALD J. WILLFONG                Director                        
+      September 20, 1994
+Donald J. Willfong
+
+</TABLE>
+                                    - 9 -<PAGE>
+  <PAGE>
+  REPORT OF INDEPENDENT ACCOUNTANTS ON FINANCIAL STATEMENT
+SCHEDULES
+  
+  
+  
+  To the Board of Directors of
+  International Aluminum Corporation
+  
+  
+  Our audits of the consolidated financial statements referred to
+in our report
+  dated August 17, 1994 appearing on page 15 of the 1994 Annual
+Report to
+  Shareholders of International Aluminum Corporation (which
+report and 
+  consolidated financial statements are incorporated by reference
+in this 
+  Annual Report on Form 10-K) also included an audit of the
+Financial 
+  Statement Schedules listed in Item 14(a)2 of this Form 10-K. 
+In our 
+  opinion, these Financial Statement Schedules present fairly, in
+all 
+  material respects, the information set forth therein when read
+in 
+  conjunction with the related consolidated financial statements.
+  
+  
+  
+  
+  PRICE WATERHOUSE LLP
+  
+  
+  Los Angeles, California
+  August 17, 1994
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+                                    F-1<PAGE>
+ 
+<PAGE> 
+<TABLE>
+                     INTERNATIONAL ALUMINUM CORPORATION AND
+SUBSIDIARIES
+     
+                          SCHEDULE V - PROPERTY, PLANT AND
+EQUIPMENT
+     
+                            For The Three Years Ended June 30,
+1994
+     
+     <CAPTION>
+                                      Balance at                  
+                                                 Balance at
+                                       Beginning      Additions   
+  Retirements                    Translation         End
+            Classification              of Year        at Cost    
+   and Sales      Transfers      Adjustment        of Year  
+     <S>                              <C>             <C>         
+  <C>             <C>            <C>             <C>
+     Year ended June 30, 1994
+       Land                           $ 6,925,000     $  340,000  
+  $    -          $    -         $  (13,000)     $ 7,252,000
+     
+       Buildings and improvements      27,766,000         83,000  
+      10,000         214,000       (138,000)      27,915,000
+     
+       Machinery and equipment         49,878,000      3,652,000  
+     925,000         270,000       (121,000)      52,754,000
+     
+       Construction in process              -            484,000  
+       -            (484,000)         -                -    
+                                      $84,569,000     $4,559,000  
+  $  935,000      $    -         $ (272,000)     $87,921,000
+     
+     
+     Year ended June 30, 1993
+       Land                           $ 6,919,000     $    -      
+  $    -          $    -         $    6,000      $ 6,925,000
+     
+       Buildings and improvements      27,096,000        133,000  
+       -             469,000         68,000       27,766,000
+     
+       Machinery and equipment         48,523,000      2,851,000  
+   1,584,000          29,000         59,000       49,878,000
+     
+       Construction in process             25,000        495,000  
+      15,000        (498,000)        (7,000)           -    
+                                      $82,563,000     $3,479,000  
+  $1,599,000      $    -         $  126,000      $84,569,000
+     
+     
+     Year ended June 30, 1992
+       Land                           $ 6,945,000     $   92,000  
+  $  155,000      $    -         $   37,000      $ 6,919,000
+     
+       Buildings and improvements      26,468,000         48,000  
+       -             288,000        292,000       27,096,000
+     
+       Machinery and equipment         47,004,000      1,542,000  
+   1,143,000         863,000        257,000       48,523,000
+     
+       Construction in process            618,000        558,000  
+       -          (1,151,000)         -               25,000
+                                      $81,035,000     $2,240,000  
+  $1,298,000      $    -         $  586,000      $82,563,000
+          /TABLE
+<PAGE>
+<PAGE>
+<TABLE>
+                      INTERNATIONAL ALUMINUM CORPORATION AND
+SUBSIDIARIES
+     
+                    SCHEDULE VI - ACCUMULATED DEPRECIATION AND
+AMORTIZATION
+                                      OF PROPERTY, PLANT AND
+EQUIPMENT
+     
+                            For The Three Years Ended June 30,
+1994
+     
+     <CAPTION>
+                                         Balance at     
+Additions                                       Balance at
+                                          Beginning      Charged
+to     Retirements     Translation         End
+            Classification                 of Year       Income
+(1)      and Sales      Adjustment        of Year  
+     <S>                                 <C>             <C>      
+     <C>             <C>             <C>
+     Year ended June 30, 1994
+       Buildings and improvements        $ 9,840,000     $ 
+754,000     $    1,000      $  (93,000)     $10,500,000
+     
+       Machinery and equipment            34,688,000     
+3,809,000        764,000        (100,000)      37,633,000
+                                         $44,528,000    
+$4,563,000     $  765,000      $ (193,000)     $48,133,000
+     
+     
+     
+     Year ended June 30, 1993
+       Buildings and improvements        $ 9,020,000     $ 
+780,000     $    -          $   40,000      $ 9,840,000
+     
+       Machinery and equipment            32,229,000     
+3,694,000      1,283,000          48,000       34,688,000
+                                         $41,249,000    
+$4,474,000     $1,283,000      $   88,000      $44,528,000
+     
+     
+     
+     Year ended June 30, 1992
+       Buildings and improvements        $ 8,035,000     $ 
+795,000     $    -          $  190,000      $ 9,020,000
+     
+       Machinery and equipment            29,046,000     
+3,861,000        886,000         208,000       32,229,000
+                                         $37,081,000    
+$4,656,000     $  886,000      $  398,000      $41,249,000
+     
+     
+     <FN>
+     ____________________________
+     
+     (1)  The annual provisions for depreciation have been
+computed using estimated useful lives as follows:
+     
+                  Buildings and improvements ...................
+20-40 years
+                  Machinery and equipment ...................... 
+3-16 years<PAGE>
+</TABLE>
+
+<PAGE>
+<TABLE>
+            INTERNATIONAL ALUMINUM CORPORATION AND SUBSIDIARIES
+
+             SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+
+                  For The Three Years Ended June 30, 1994
+
+
+<CAPTION>
+                                   Balance at    Amounts    
+Amounts    Balance at
+                                   Beginning     Charged    
+Written       End
+          Description               of Year     to Income     
+Off       of Year    
+<S>                                <C>          <C>         <C>   
+     <C>
+
+Reserves for doubtful accounts -
+
+    1994                             $673,000    $647,000   
+$505,000    $815,000
+
+    1993                              669,000     766,000    
+762,000     673,000
+
+    1992                              723,000     619,000    
+673,000     669,000
+
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    F-4<PAGE>
+<PAGE>
+<TABLE>
+            INTERNATIONAL ALUMINUM CORPORATION AND SUBSIDIARIES
+
+          SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+
+                  For The Three Years Ended June 30, 1994
+
+
+<CAPTION>
+       Description                             1994          
+1993           1992   
+<S>                                         <C>            <C>    
+       <C>
+
+Maintenance and repairs                     $4,992,000   
+$4,333,000     $4,578,000
+
+Depreciation of property,
+  plant and equipment                        4,563,000    
+4,474,000      4,656,000
+
+Taxes other than income -
+  Payroll                                    5,474,000    
+5,323,000      5,435,000
+  Property and other                         1,571,000    
+1,554,000      1,548,000
+
+
+<FN>
+_________________________
+
+Note:  Amounts for rents, royalties and advertising costs are not
+presented as such  
+       amounts are less than 1% of total sales and revenues.
+
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    F-5<PAGE>
+<PAGE>
+                    INTERNATIONAL ALUMINUM CORPORATION
+                               SUBSIDIARIES
+
+
+
+The following is a list of the significant subsidiaries of the
+Registrant 
+and the jurisdiction under which each is organized.  The Company
+owns 100 
+percent of the voting securities of each such subsidiary.
+[CAPTION]
+                                                               
+Jurisdiction of
+              Name of Subsidiary                                
+Organization  
+
+
+International Window Corporation                                
+California
+International Extrusion Corporation                             
+California
+United States Aluminum Corporation                              
+California
+General Window Corporation*                                     
+California
+International California Glass Corporation                      
+California
+United States Aluminum Corporation-Illinois                     
+California
+International Window-Arizona, Inc.                              
+California
+United States Aluminum Corporation-Texas                        
+Texas
+International Extrusion Corporation-Texas                       
+California
+United States Aluminum Corporation-Carolina                     
+California
+International Carolina Glass Corporation                        
+California
+Ragland Manufacturing Company, Inc.                             
+Texas
+United States Aluminum Corporation-Northeast                    
+California
+Maestro Products, Inc.                                          
+California
+Eland-Brandt, B.V.                                              
+The Netherlands
+
+
+______________________________________________
+* dba International Window-Northern California
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Exhibit 22
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<DESCRIPTION>ANNUAL REPORT FOR YEAR ENDED JUNE 30, 1994
+<TEXT>
+
+INTERNATIONAL 
+
+  ALUMINUM 
+
+ CORPORATION
+
+
+
+
+
+
+
+
+
+
+                                 1994
+
+                               ANNUAL
+
+                               REPORT<PAGE>
+<PAGE>
+COMPANY PROFILE
+
+
+INTERNATIONAL ALUMINUM CORPORATION is an integrated manufacturer
+and supplier
+of a broad line of quality aluminum, wood, vinyl and glass
+products.  The 
+Company is headquartered in Monterey Park, California and has
+approximately 
+1,900 employees.  Operations are conducted through fourteen
+domestic 
+subsidiaries and one foreign subsidiary.
+
+COMMERCIAL PRODUCTS - Curtain walls, window walls, storefront
+framing, 
+commercial windows, entrance doors and frames, interior doors and
+frames and
+interior glazing systems.
+
+RESIDENTIAL PRODUCTS - Aluminum, wood, vinyl and composite
+products including
+sliding windows, single hung windows, double hung windows,
+casement windows,
+garden windows, bay and bow windows, special configuration
+windows, louvre 
+windows, storm sash, patio doors, wardrobe mirror doors, tub
+enclosures and
+showers.
+
+ALUMINUM EXTRUSIONS - Mill finish, anodized, painted and
+fabricated extrusions.
+
+GLASS PRODUCTS - Distinctive lines of glass furniture, modular
+display 
+systems, tempering, etching and fabrication of flat glass.
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+
+
+Financial Highlights                                              
+         1
+Letter to Shareholders                                            
+         2
+Selected Financial Data                                           
+         4
+Management's Discussion and Analysis of Financial
+  Condition and Results of Operations                             
+         4
+Consolidated Financial Statements                                 
+         6
+Notes to Consolidated Financial Statements                        
+        10
+Quarterly Stock Information                                       
+        14
+Report of Independent Accountants                                 
+        15
+Corporate Information                                             
+        16
+List of Subsidiaries                                              
+        17
+<PAGE>
+<PAGE>
+<TABLE>
+FINANCIAL HIGHLIGHTS
+Fiscal Years Ended June 30, 1994, 1993 and 1992                   
+           
+
+<CAPTION>
+                                                                  
+1994             1993             1992    
+<S>                                                           
+<C>              <C>              <C>
+Net sales                                                     
+$174,773,000     $152,195,000     $158,323,000
+
+Income from operations                                         $
+11,128,000     $  4,148,000     $    860,000
+
+Net income                                                     $ 
+8,795,000     $  3,602,000     $    876,000
+
+
+
+Per Share Data:
+
+   Net income                                                    
+$2.08            $ .85            $ .21    
+
+   Dividends                                                     
+$1.00            $1.00            $1.00    
+
+/TABLE
+<PAGE>
+                     <PAGE>
+TO OUR SHAREHOLDERS                                               
+      
+                     
+As fiscal 1994 unfolded we experienced progressive improvement in
+most of our
+markets.  Construction activity of all types accelerated
+throughout much of
+the United States as the year progressed with the only
+significant exception
+being here in California.  While we received some minimal local
+benefit from
+reconstruction activity related to the January earthquake, the
+quake's
+greatest effect was to add to California's already major economic
+woes and
+further dampen the State's already lagging emergence from the
+recession. 
+Since historically roughly 45 percent of our revenues have been
+derived from
+construction related activities in California, the slow recovery
+here has
+somewhat dampened our overall rebound from the market stagnation
+of the past
+several years.  Notwithstanding the above, we are generally
+satisfied with
+the progress made during the past year.  On a revenue increase of
+15 percent,
+we were able to more than double net income from operations to
+$1.74 per
+share.  While this is still far short of that recorded in 1989
+and 1990, we
+feel it represents acceptable achievement and supports the moves
+which we
+have made to adapt to vastly different market conditions.
+                     
+The resurgence of our Commercial Products Group contributed
+significantly to
+our improved profitability.  Not only did this Group generate
+dramatically
+improved earnings but the increased volume of aluminum extrusions
+channeled
+through it helped both of our extrusion plants to return to a
+profitable
+position.  The conversion of our eastern United States Aluminum
+facilities
+into warehouse service centers has further proven to have been
+the right
+move.  We are currently in the process of opening a satellite
+storefront
+warehouse facility in Houston which follows the one opened in
+mid-year in
+Denver.  We are planning to establish additional outlets in the
+East and
+Southeast in the months to come.
+                     
+Our aluminum extrusion and finishing plants in California and
+Texas both
+achieved remarkable turnarounds.  They are extremely dependent on
+heavy
+sustained volume due to the large fixed costs with which they are
+burdened. 
+Improved intercompany purchases combined with major increases in
+outside
+volume at both plants was the primary reason for this Group's
+improved
+results.  Also as a result of the extrusion industry throughout
+the United
+States operating at close to full capacity and with extended lead
+times, we
+have found it possible to partially restore eroded margins.
+                     
+The lack of recovery of our Residential Products Group has been a
+disappointment.  This Group is heavily dependent on the
+California building
+market which, while up slightly, still badly lags the rest of the
+Country. 
+Conversely, Arizona is experiencing a true building boom and our
+plant in
+Phoenix is doing extremely well.  As previously announced, we
+will be
+breaking ground there shortly on a new 100,000 square foot plant
+to enable
+us to better serve this expanding market.<PAGE>
+<PAGE>
+Ragland Manufacturing, our interior door frame and wall system
+subsidiary
+headquartered in Houston, continued to do well.  During the year
+Ragland,
+Mitsubishi Kasei and Lasco Systems of Dallas co-developed an
+advanced "clean
+room" product line which shows good promise for use in the
+electronic
+component and pharmaceutical industries.
+
+Results from both International California Glass and
+International Carolina
+Glass showed marked improvement.  These glass fabricating
+companies are
+redirecting their marketing efforts more in the direction of the
+relatively
+stable display industry and away from dependence on the somewhat
+trendy heavy
+glass furniture business.  Our venture into the retail factory
+outlet mall
+business in South Carolina was less than a resounding success and
+has been
+dropped.
+
+Eland-Brandt in Amsterdam had another poor year.  Construction
+activity in
+Europe remains extremely soft and Eland-Brandt's ability to
+downsize and
+reduce its labor cost is constrained by government regulations. 
+Finally,
+after eight months of negotiations, it has been given
+authorization to lay
+off approximately ten percent of its workforce.  In March we sold
+our metal
+distribution company in Tijuana, Mexico to our resident manager. 
+We have an
+ongoing supply agreement with the new management.  As a result,
+our sales
+volume into that market should be essentially unaffected.
+
+Financially the Company remains in good shape.  Working capital
+at yearend
+stood at $63.4 million while total shareholders' equity increased
+to $103.4
+million.  At June 30 our current ratio was 4.2 to 1 and our long
+term debt
+had declined to $1.1 million.  Early in the year the mandatory
+adoption of
+Financial Accounting Standards No. 109 resulted in a one-time tax
+benefit of
+$1,430,000 or $.34 per share.
+
+Our major task in the coming year will be to attempt to return
+our California
+residential operations to their former levels of income
+contribution.  To
+this end, new product development and redirected marketing
+efforts are
+currently under way.  While in the past year we made some
+progress in the
+direction of non-construction diversification, it will be our
+intent to
+continue this search in the year to come in order to reduce our
+heavy
+dependency on cyclical construction markets.
+
+
+
+Cornelius C. Vanderstar                                 John P.
+Cunningham
+Chairman                                                President
+
+September 2, 1994<PAGE>
+<PAGE>
+<TABLE>
+SELECTED FINANCIAL DATA
+
+<CAPTION>
+     Year Ended June 30             1994            1993          
+ 1992            1991            1990    
+<S>                             <C>             <C>            
+<C>             <C>             <C>
+Sales and Earnings -
+  Building products
+    Commercial                  $ 66,843,000    $ 60,340,000    $
+62,179,000    $ 73,552,000    $ 93,133,000
+    Residential                   52,081,000      49,308,000     
+52,696,000      55,749,000      70,769,000
+    Extrusions                    38,616,000      28,585,000     
+28,963,000      30,397,000      32,420,000
+                                 157,540,000     138,233,000    
+143,838,000     159,698,000     196,322,000
+  Glass products                  17,233,000      13,962,000     
+14,485,000      14,657,000      15,831,000
+Total net sales                 $174,773,000    $152,195,000   
+$158,323,000    $174,355,000    $212,153,000
+
+Income before
+  accounting change             $  7,365,000    $  3,602,000    $ 
+  876,000    $  6,243,000    $ 15,772,000
+Accounting change                  1,430,000                      
+                                         
+Net income                      $  8,795,000    $  3,602,000    $ 
+  876,000    $  6,243,000    $ 15,772,000
+
+Per common share:
+  Income before
+    accounting change                  $1.74           $ .85      
+    $ .21           $1.46           $3.52
+  Accounting change                      .34                      
+                                         
+  Net income                           $2.08           $ .85      
+    $ .21           $1.46           $3.52
+
+  Dividends declared                   $1.00           $1.00      
+    $1.00           $1.00           $1.00
+
+
+Financial Data at Year End -
+  Working capital               $ 63,452,000    $ 61,447,000    $
+61,044,000    $ 61,655,000    $ 63,507,000
+  Total assets                   129,030,000     123,938,000    
+122,286,000     129,377,000     134,701,000
+  Long-term debt                   1,103,000       1,665,000      
+2,226,000       2,787,000       3,355,000
+  Shareholders' equity           103,435,000      98,947,000     
+99,427,000     102,188,000     105,039,000
+</TABLE>
+
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION 
+AND RESULTS OF OPERATIONS
+
+Significant Changes in Results of Operations
+1994 vs. 1993
+Fiscal year 1994 net sales increased by $22,578,000 or 14.8% from
+the fiscal
+year 1993 level.  This increase is comprised of a $24,165,000
+increase in 
+domestic sales which was offset by a $1,587,000 decrease in
+foreign sales.
+The domestic sales increase reflects improvements posted by each
+of the 
+Company's domestic product groups.  The most significant domestic
+increases 
+were posted by the Aluminum Extrusion Group and the Commercial
+Products Group
+which reflect the upswing in activity in the manufacturing and
+commercial 
+construction segments of the economy.
+<PAGE>
+<PAGE>
+Gross profit was 29.2% of sales in 1994 as compared with 27.9% in
+1993, 
+primarily reflecting the production cost efficiencies in the
+Aluminum 
+Extrusion and Commercial Products lines resulting from
+significantly increased
+volume.  This increase was offset by increases in production
+costs at the two
+California residential products companies necessitated by the
+introduction of
+a new line of more energy efficient products required to meet
+stringent energy 
+standards mandated by the California Energy Commission.
+
+Selling, general and administrative expenses were 22.8% of sales
+in 1994 as 
+compared with 25.2% in 1993.  Expenses in the current year have
+risen by 
+$1,548,000 primarily due to additional distribution costs
+associated with the
+increased volumes of business.  
+
+The decrease in investment income relates to significant
+decreases in the 
+market values of interest rate sensitive securities during the
+year.
+
+1993 vs. 1992
+Net sales for fiscal 1993 decreased by $6,128,000 or 3.9% from
+net sales of 
+fiscal 1992.  This decrease consists of a $3,582,000 decrease in
+domestic sales 
+and a $2,546,000 decrease in foreign sales.  The overall sales
+decrease 
+reflects the continued stagnant economies of the United States
+and Western 
+Europe.  The prolonged domestic recession has stifled the demand
+for 
+residential and commercial construction and has created an
+oversupply of
+buildings across the United States.
+
+Cost of sales decreased to 72.1% of sales in 1993 as compared
+with 74.9% in 
+1992.  This decrease is primarily related to two factors.  The
+Aluminum 
+Extrusion Group decreased costs of production through operating
+efficiencies
+attained from enhanced production procedures.  The Commercial
+Products Group 
+decreased their costs of sales through a restructuring of the
+eastern plants 
+into warehouse service centers supplied by the Texas plant.
+
+Selling, general and administrative expenses in 1993 were
+$504,000 below 
+those of 1992.  This decrease is primarily related with decreased
+selling 
+costs due to reduced expenditures for advertising.
+
+The increase in investment income directly relates to
+significantly 
+increased rates of return on the Company's investable funds.
+
+Liquidity and Capital Resources
+Working capital at June 30, 1994 was $63,452,000, an increase of
+$2,005,000 
+or 3.3% over the June 30, 1993 level and an increase of
+$2,408,000 or 3.9% 
+over the June 30, 1992 level.  The ratio of current assets to
+current
+liabilities was 4.2 at the end of 1994 compared to 4.6 at the end
+of 1993 and
+5.2 at the end of 1992.  Thus, the Company continues to be in
+excellent 
+position to meet its short-term requirements.  Funds in excess of
+current
+operating requirements are invested in marketable securities and
+short-term 
+interest-bearing instruments.
+
+Capital expenditures for property, plant and equipment of
+approximately 
+$4,559,000 in 1994, $3,479,000 in 1993 and $2,240,000 in 1992
+were financed 
+through internal cash flow.  The Company's projected capital
+expenditures
+for fiscal 1995 include $3,000,000  for scheduled expansion of
+production 
+capacity in addition to the normal annual expenditures for
+replacement items.  
+The Company anticipates financing these expenditures through
+internal cash flow.
+
+The Company had $10,000,000 in available credit at the end of
+1994 under a 
+short-term borrowing arrangement witha bank.<PAGE>
+<PAGE>
+<TABLE>
+CONSOLIDATED BALANCE SHEETS
+June 30, 1994 and 1993                                            
+                                         
+
+<CAPTION>
+Assets                                                            
+           1994                  1993    
+<S>                                                               
+       <C>                   <C>
+Current assets:
+  Cash                                                            
+       $  5,973,000          $  4,847,000
+  Short-term investments                                          
+          9,727,000            14,407,000
+  Accounts receivable, less reserve of
+    $815,000 in 1994 and $673,000 in 1993                         
+         34,715,000            29,620,000
+  Unbilled receivables                                            
+          1,055,000             1,441,000
+  Inventories                                                     
+         28,741,000            25,942,000
+  Prepaid expenses                                                
+          1,580,000             1,529,000
+  Future income tax benefits                                      
+          1,326,000               827,000
+       Total current assets                                       
+         83,117,000            78,613,000
+
+
+
+
+Property, plant and equipment, at cost:
+  Land                                                            
+          7,252,000             6,925,000
+  Buildings and improvements                                      
+         27,915,000            27,766,000
+  Machinery and equipment                                         
+         52,754,000            49,878,000
+                                                                  
+         87,921,000            84,569,000
+  Less - Accumulated depreciation                                 
+         48,133,000            44,528,000
+                                                                  
+         39,788,000            40,041,000
+
+
+
+
+
+
+Other assets:
+  Costs in excess of net assets of purchased businesses           
+          4,972,000             5,105,000
+  Other                                                           
+          1,153,000               179,000
+                                                                  
+          6,125,000             5,284,000
+                                                                  
+       $129,030,000          $123,938,000
+
+
+<FN>
+See accompanying notes to consolidated financial statements.
+/TABLE
+<PAGE>
+<PAGE>
+<TABLE>
+CONSOLIDATED BALANCE SHEETS
+June 30, 1994 and 1993                                            
+                                         
+
+<CAPTION>
+Liabilities and Shareholders' Equity                              
+           1994                  1993    
+<S>                                                               
+       <C>                   <C>
+Current liabilities:
+  Accounts payable                                                
+       $  8,449,000          $  7,860,000
+  Accrued liabilities                                             
+          8,877,000             8,720,000
+  Current portion of long-term debt                               
+            562,000               422,000
+  Income taxes payable                                            
+          1,777,000               164,000
+       Total current liabilities                                  
+         19,665,000            17,166,000
+
+Long-term debt                                                    
+          1,103,000             1,665,000
+
+Other liabilities:
+  Deferred income taxes                                           
+          4,466,000             5,827,000
+  Other                                                           
+            361,000               333,000
+                                                                  
+          4,827,000             6,160,000
+
+Commitments (Note 7)
+
+
+Shareholders' equity:
+  Capital Stock -
+    Preferred, $10.00 par value -
+      Authorized - 500,000 shares
+      Outstanding - none
+    Common, $1.00 par value -
+      Authorized - 10,000,000 shares
+      Outstanding - 4,230,780 shares in 1994
+         and 4,220,463 shares in 1993                             
+          4,704,000             4,694,000
+  Paid-in capital                                                 
+          3,359,000             3,230,000
+  Retained earnings, including cumulative
+    translation adjustment of $2,228,000
+    in 1994 and $2,446,000 in 1993                                
+         95,372,000            91,023,000
+                                                                  
+        103,435,000            98,947,000
+                                                                  
+       $129,030,000          $123,938,000
+
+/TABLE
+<PAGE>
+<PAGE>
+<TABLE>
+CONSOLIDATED STATEMENTS OF INCOME
+For the years ended June 30, 1994, 1993 and 1992                  
+                                         
+
+<CAPTION>
+                                                                 
+1994             1993             1992    
+<S>                                                           <C> 
+            <C>              <C>
+Net sales                                                    
+$174,773,000     $152,195,000     $158,323,000
+Cost of sales                                                 
+123,725,000      109,675,000      118,587,000
+   Gross profit                                                
+51,048,000       42,520,000       39,736,000
+Selling, general and administrative expenses                   
+39,920,000       38,372,000       38,876,000
+   Income from operations                                      
+11,128,000        4,148,000          860,000
+Investment income                                                 
+479,000        1,428,000          771,000
+Interest expense                                                 
+(102,000)        (134,000)        (225,000)
+   Income before income taxes and cumulative effect of
+      accounting change                                        
+11,505,000        5,442,000        1,406,000
+Provision for income taxes                                      
+4,140,000        1,840,000          530,000
+   Income before cumulative effect of accounting change         
+7,365,000        3,602,000          876,000
+Cumulative effect of accounting change for income taxes         
+1,430,000                                  
+Net income                                                    $ 
+8,795,000     $  3,602,000     $    876,000
+
+Earnings per common share:
+   Income before cumulative effect of accounting change           
+  $1.74             $.85             $.21
+   Cumulative effect of accounting change                         
+    .34                                  
+   Net income                                                     
+  $2.08             $.85             $.21
+/TABLE
+<PAGE>
+<TABLE>
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+For the years ended June 30, 1994, 1993 and 1992                  
+                                         
+
+<CAPTION>
+                                             Common Stock      
+                                         Number                   
+ Paid-in       Retained
+                                        of Shares      Amount     
+ Capital       Earnings          Total   
+<S>                                     <C>          <C>          
+<C>           <C>            <C>
+Balance, June 30, 1991                  4,204,939    $4,678,000   
+$3,092,000    $94,418,000    $102,188,000
+   Exercise of stock options               13,484        14,000   
+   115,000                        129,000
+   Translation adjustment                                         
+                  448,000         448,000
+   Cash dividends                                                 
+               (4,214,000)     (4,214,000)
+   Net income                                                     
+                  876,000         876,000
+Balance, June 30, 1992                  4,218,423     4,692,000   
+ 3,207,000     91,528,000      99,427,000
+   Exercise of stock options                2,040         2,000   
+    23,000                         25,000
+   Translation adjustment                                         
+                  113,000         113,000
+   Cash dividends                                                 
+               (4,220,000)     (4,220,000)
+   Net income                                                     
+                3,602,000       3,602,000
+Balance, June 30, 1993                  4,220,463     4,694,000   
+ 3,230,000     91,023,000      98,947,000
+   Exercise of stock options               10,317        10,000   
+   129,000                        139,000
+   Translation adjustment                                         
+                 (218,000)       (218,000)
+   Cash dividends                                                 
+               (4,228,000)     (4,228,000)
+   Net income                                                     
+                8,795,000       8,795,000
+Balance, June 30, 1994                  4,230,780    $4,704,000   
+$3,359,000    $95,372,000    $103,435,000
+
+
+<FN>
+See accompanying notes to consolidated financial statements.
+/TABLE
+<PAGE>
+<PAGE>
+<TABLE>
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+For the years ended June 30, 1994, 1993 and 1992                  
+                                         
+
+<CAPTION>
+                                                                
+1994              1993              1992   
+<S>                                                          <C>  
+            <C>               <C>
+Cash flows from operating activities:
+   Net income                                                $
+8,795,000       $ 3,602,000       $   876,000
+   Adjustments for noncash transactions:
+     Depreciation and amortization                            
+4,696,000         4,607,000         4,790,000
+     Change in deferred income taxes                           
+(699,000)          (94,000)         (110,000)
+     Change in accounting for income taxes                   
+(1,430,000)
+   Changes in assets and liabilities:
+     Receivables                                             
+(4,883,000)          743,000         1,376,000
+     Inventories                                             
+(2,846,000)       (1,552,000)        5,086,000
+     Prepaid expenses and other                              
+(1,020,000)           40,000           586,000
+     Accounts payable                                           
+646,000         1,842,000        (3,435,000)
+     Accrued liabilities and other                              
+221,000         1,265,000          (666,000)
+     Income taxes payable                                     
+1,871,000          (293,000)          441,000
+     Net cash provided by operating activities                
+5,351,000        10,160,000         8,944,000
+
+Cash flows from investing activities:
+   Capital expenditures                                      
+(4,559,000)       (3,479,000)       (2,240,000)
+   Proceeds from sales of capital assets                        
+170,000           317,000           412,000
+     Net cash used in investing activities                   
+(4,389,000)       (3,162,000)       (1,828,000)
+
+Cash flows from financing activities:
+   Repayment of long-term debt                                 
+(422,000)         (700,000)         (707,000)
+   Exercise of stock options                                    
+139,000            25,000           129,000
+   Dividends paid to shareholders                            
+(4,228,000)       (4,220,000)       (4,214,000)
+     Net cash used in financing activities                   
+(4,511,000)       (4,895,000)       (4,792,000)
+
+Effect of exchange rate changes on cash                          
+(5,000)         (100,000)          (50,000)
+Net change in cash and short-term investments                
+(3,554,000)        2,003,000         2,274,000
+Cash and short-term investments at beginning of year         
+19,254,000        17,251,000        14,977,000
+Cash and short-term investments at end of year              
+$15,700,000       $19,254,000       $17,251,000
+
+
+<FN>
+See accompanying notes to consolidated financial statements.
+/TABLE
+<PAGE>
+<PAGE>
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1.  Significant accounting policies and procedures -
+
+(a)  Principles of consolidation
+
+The accompanying consolidated financial statements include the
+accounts of 
+the Company and all its domestic and foreign subsidiaries.  All
+significant 
+intercompany transactions and accounts have been eliminated in
+consolidation.  
+To expedite reporting, the Company follows the practice of
+consolidating its 
+foreign subsidiary using a year ending one month prior to the
+June 30th year
+end of its domestic subsidiaries.
+
+(b)  Short-term Investments
+
+Short-term investments include preferred stocks, certificates of
+deposit and 
+money market funds.
+
+During fiscal year 1993, the Company adopted Statement of
+Financial 
+Accounting Standards No. 115 - Accounting For Certain Investments
+in Debt and 
+Equity Securities.  The preferred stocks are classified as
+"Trading
+Securities"; consequently, unrealized holding gains/losses are
+being 
+currently recognized.  Investment income includes unrealized
+holding losses of 
+$581,000 in 1994 and unrealized holding gains of $487,000 in
+1993.
+
+(c)  Long-term contracts
+
+Certain sales of the Company's Netherlands subsidiary, Eland-
+Brandt, B.V., 
+are made under contracts covering extended periods of time. 
+These contracts 
+are accounted for by the percentage-of-completion method on the
+basis of total 
+costs of shipments compared to total estimated costs.  Costs and
+estimated 
+earnings in excess of billings on uncompleted contracts are
+classified as 
+"Unbilled receivables".  It is anticipated that all such
+receivables will be 
+collected within one year.
+
+(d)  Inventories
+
+Inventories, stated at the lower of cost (first-in, first-out) or
+market, are 
+summarized as follows:
+
+                                                      1994        
+   1993   
+Raw materials                                     $21,415,000    
+$18,424,000
+Work in process                                     2,332,000     
+ 3,374,000
+Finished goods                                      4,994,000     
+ 4,144,000
+                                                  $28,741,000    
+$25,942,000
+
+(e)  Depreciation and amortization policies
+
+Depreciation and amortization are provided over the estimated
+useful lives of
+the assets or the remaining terms of the leases, whichever is
+shorter, using 
+the straight-line method for financial reporting purpose
+accelerated methods 
+for tax purposes.
+
+The excess of the purchase price over the underlying book value
+of the 
+companies acquired is classified as "Costs in excess of net
+assets of purchased 
+businesses."  The related amounts of $6,095,000 are generally
+being amortized
+using the straight-line method over periods of up to forty years. 
+Accumulated 
+amortization totalled $1,123,000 at June 30, 1994 and $990,000 at 
+June 30, 1993.<PAGE>
+<PAGE>
+Note 2.  Earnings per common share -
+
+Earnings per common share have been computed based upon the
+weighted average 
+number of shares outstanding; 4,226,733 shares in 1994, 4,219,401
+shares in 
+1993 and 4,211,372 shares in 1992.
+
+
+Note 3.  Statement of Cash Flows - 
+
+All short-term investments qualify as cash equivalents.
+
+Cash payments for interest were $81,000 in 1994, $168,000 in 1993
+and 
+$246,000 in 1992.  Cash payments for income taxes were $2,957,000
+in 1994, 
+$2,214,000 in 1993 and $196,000 in 1992.
+
+
+Note 4.  Short-term debt and line of credit - 
+
+The Company has a loan agreement with a domestic bank providing
+for a 
+$10,000,000 unsecured short-term line of credit at 55 basis
+points below the 
+bank's prevailing prime interest rate (6.70 percent at June 30,
+1994).  There
+was no amount outstanding under the agreement at June 30, 1994.
+
+
+Note 5.  Accrued Liabilities -
+
+Components of accrued liabilities at June 30, 1994 and 1993 are:
+
+                                                       1994       
+   1993   
+Wages and compensated absences                      $4,666,000    
+$3,770,000
+Taxes, other than income taxes                       1,411,000    
+ 1,211,000
+Insurance                                              752,000    
+ 1,928,000
+Dividends                                            1,058,000    
+ 1,055,000
+Other                                                  990,000    
+   756,000
+                                                    $8,877,000    
+$8,720,000
+<PAGE>
+<PAGE>
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+Note 6.  Long-term debt -
+
+Long-term debt consists primarily of an Industrial Development
+Revenue Bond 
+that financed the development of two plant facilities in Rock
+Hill, South 
+Carolina.  The bond is secured by first mortgage liens on the two
+properties. 
+Interest payments, at 73% of the floating prime rate, and
+principal 
+installments of $138,000 are paid quarterly.
+
+Future payments due on the long-term debt total $562,000 for
+1995, $562,000 
+for 1996 and $541,000 for 1997.
+
+
+Note 7.  Commitments -
+
+The Company is committed under lease agreements expiring at
+various dates to 
+1998.  Certain of the leases have renewal options for periods
+ranging from two 
+to ten years and others provide for rent revisions at various
+dates. Under the 
+leases the Company is obligated to pay property taxes, insurance
+and 
+maintenance.  All facility leases are classified as operating
+leases.
+
+Real property rental expense for the three years ended June 30,
+1994 was 
+$645,000 in 1994, $606,000 in 1993 and $555,000 in 1992.  Real
+property 
+rental commitments for the next three fiscal years are $574,000
+in 1995, 
+$291,000 in 1996 and $108,000 in 1997.
+
+
+Note 8.  Stock options -
+
+At June 30, 1994 there were 572,676 common shares reserved and
+available for 
+issuance to certain executive and managerial employees under the
+Company's 
+Stock Option Plans.  All options outstanding under the plans are
+immediately 
+exercisable and expire in fiscal year 1998.
+
+At June 30, 1994 there were 72,676 incentive stock options
+outstanding.  
+Payment upon exercise may be either cash or the delivery of
+Company common 
+stock of equivalent value.  Shares surrendered by optionees
+(2,133 shares in
+1994 and 900 in 1993) are immediately retired.
+
+The transactions for shares under options for the two years ended 
+June 30, 1994 were:
+
+                                                    Option price  
+  Number of
+                                                      per share   
+    shares 
+Outstanding, June 30, 1992                             $15.38     
+    88,066
+   Exercised                                            15.38     
+   ( 2,940)
+Outstanding, June 30, 1993                              15.38     
+    85,126
+   Exercised                                            15.38     
+   (12,450)
+Outstanding, June 30, 1994                             $15.38     
+    72,676 
+<PAGE>
+<PAGE>
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 9. Income taxes -
+
+In July 1993, the Company adopted Statement of Financial
+Accounting Standards
+No. 109 (FAS 109), Accounting for Income Taxes.  The adoption of
+FAS 109 
+changed the Company's method of accounting for income taxes
+deferral method to 
+an asset and liability approach which requires the recognition of
+deferred 
+tax liabilities and assets for the expected future consequences
+of temporary 
+differences between the carrying amounts for financial reporting
+purposes and
+the tax bases of assets and liabilities.  As of July 1, 1993, the
+Company
+recorded a tax benefit of $1,430,000 or $.34 per share, which
+represents the 
+net decrease to the deferred tax liability as of that date.  This
+amount has 
+been reflected in current year net income as the cumulative
+effect of a change 
+in accounting principle.
+<TABLE>
+The components of income before United States and foreign income
+taxes are:
+<CAPTION>
+                                                                  
+   1994           1993           1992   
+<S>                                                              
+<C>             <C>            <C>
+Domestic                                                         
+$12,210,000     $6,624,000     $1,084,000
+Foreign                                                           
+  (705,000)    (1,182,000)       322,000
+                                                                 
+$11,505,000     $5,442,000     $1,406,000
+
+The provision for income taxes is comprised of the following:
+                                                                  
+   1994           1993           1992   
+Current -
+   Federal                                                       
+$ 4,142,000     $1,978,000     $  428,000
+   State                                                          
+   770,000        333,000         79,000
+   Foreign                                                        
+   (73,000)      (377,000)       133,000
+                                                                  
+ 4,839,000      1,934,000        640,000
+Deferred -
+   Federal                                                        
+  (588,000)       (70,000)       (77,000)
+   State                                                          
+   (73,000)        20,000        (31,000)
+   Foreign                                                        
+   (38,000)       (44,000)        (2,000)
+                                                                  
+  (699,000)       (94,000)      (110,000)
+                                                                 
+$ 4,140,000     $1,840,000     $  530,000
+
+A reconciliation between the provisions for income taxes,
+computed by applying the Federal statutory rate to
+income before taxes, and the book provisions for income taxes
+follows:
+
+                                                                  
+   1994           1993           1992   
+Taxes on book income at statutory rate                           
+$ 3,912,000     $1,850,000     $  478,000
+Increases (decreases) resulting from:
+   State income taxes, net of Federal income tax benefit          
+   460,000        233,000         32,000
+   Dividend exclusion                                             
+  (195,000)      (134,000)        (7,000)
+   Foreign tax credit carryforward                                
+  (157,000)      (129,000)
+   Other                                                          
+   120,000         20,000         27,000
+Provision for income taxes                                       
+$ 4,140,000     $1,840,000     $  530,000
+/TABLE
+<PAGE>
+<PAGE>
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+<TABLE>
+Deferred income taxes result from temporary differences in the
+recognition of income and expenses for tax and
+financial statement purposes.  The tax effects of the significant
+temporary differences which comprise the
+deferred tax assets and liabilities at June 30, 1994 are as
+follows: 
+<CAPTION>
+<S>                                                               
+                              <C>
+Accounts receivable                                               
+                              $  316,000
+Inventory                                                         
+                                 309,000
+Accrued liabilities                                               
+                                 623,000
+Other                                                             
+                                  78,000
+   Net deferred tax asset                                         
+                              $1,326,000
+
+Property, plant and equipment                                     
+                              $4,389,000
+Other                                                             
+                                  77,000
+   Net deferred tax liability                                     
+                              $4,466,000
+</TABLE>
+No provision for U.S. taxes has been made for undistributed
+earnings of 
+foreign subsidiaries since it is expected that the major portion
+of such 
+earnings will continue to be reinvested for an indefinite period
+of time.
+
+<TABLE>
+Note 10.  Segment and geographical information -
+
+The Company is a vertically integrated manufacturer of building
+products with
+international operations in The Netherlands.
+<CAPTION>
+Sales, net income and identifiable assets for domestic and
+foreign operations for the last three years are as
+follows:
+                                                                  
+1994             1993             1992    
+<S>                                                           
+<C>              <C>              <C>
+Sales:
+  United States                                               
+$163,238,000     $139,073,000     $142,655,000
+  Foreign                                                       
+11,535,000       13,122,000       15,668,000
+                                                              
+$174,773,000     $152,195,000     $158,323,000
+
+Net income:
+  United States                                                $ 
+9,390,000     $  4,360,000     $    684,000
+  Foreign                                                         
+(595,000)        (758,000)         192,000
+                                                               $ 
+8,795,000     $  3,602,000     $    876,000
+
+Identifiable assets:
+  United States                                               
+$121,127,000     $114,799,000     $112,200,000
+  Foreign                                                        
+7,903,000        9,139,000       10,086,000
+                                                              
+$129,030,000     $123,938,000     $122,286,000
+<FN>
+The Company's equity investment in its consolidated foreign
+subsidiary was $5,254,000 at June 30, 1994.
+/TABLE
+<PAGE>
+<PAGE>
+<TABLE>
+Note 11.  Unaudited quarterly financial information - 
+
+Quarterly financial information for the fiscal years ended June
+30, 1994 and 1993 is summarized as follows:
+<CAPTION>
+                                   First          Second          
+Third          Fourth           Fiscal   
+                                  Quarter         Quarter        
+Quarter         Quarter           Year    
+<S>                             <C>             <C>            
+<C>             <C>             <C>
+1994
+Net sales                       $42,132,000     $44,539,000    
+$40,426,000     $47,676,000     $174,773,000
+Cost of sales                    30,853,000      32,281,000     
+27,857,000      32,734,000      123,725,000
+Net income                        2,629,000       1,526,000      
+1,528,000       3,112,000        8,795,000
+Earnings per share                      .62             .36       
+     .36             .74             2.08
+
+1993
+Net sales                       $40,706,000     $38,189,000    
+$33,642,000     $39,658,000     $152,195,000
+Cost of sales                    29,374,000      27,650,000     
+24,537,000      28,114,000      109,675,000
+Net income (loss)                 1,234,000         896,000       
+(126,000)      1,598,000        3,602,000
+Earnings (loss) per share               .29             .21       
+    (.03)            .38              .85
+
+<FN>
+During the first quarter of fiscal 1994, the Company adopted
+Statement of 
+Financial Accounting Standards No. 109 - Accounting for Income
+Taxes which 
+increased net income by $1,430,000 or $.34 per share.
+
+During the third quarter of fiscal 1994, the Company sold its
+International 
+Aluminum, S. de R.L. de C.V.subsidiary.  This operation, which
+was located in 
+Tijuana, Mexico, was sold for its approximate net book carrying
+value.
+</TABLE>
+
+
+
+
+
+<TABLE>
+QUARTERLY STOCK INFORMATION
+
+<CAPTION>
+                                                 1994             
+                       1993               
+                                     High         Low      
+Dividend          High         Low       Dividend
+<S>                                 <C>         <C>         <C>   
+          <C>         <C>         <C>
+First Quarter                       $24 1/2     $22 1/8       $
+.25          $20 3/8     $18 3/8       $ .25 
+Second Quarter                       24 3/8      21 5/8        
+.25           21 1/2      19 1/8         .25 
+Third Quarter                        28          23 5/8        
+.25           24          20 5/8         .25 
+Fourth Quarter                       26 3/4      23 7/8        
+.25           23 7/8      23 1/4         .25 
+Year                                $28         $21 5/8      
+$1.00          $24         $18 3/8       $1.00 
+/TABLE
+<PAGE>
+<PAGE>
+       REPORT OF INDEPENDENT ACCOUNTANTS
+       
+       
+       
+       
+       
+                                                                  
+         P
+       PRICE WATERHOUSE LLP                                       
+         W
+       
+       
+       
+       
+       
+       
+       To the Board of Directors and Shareholders of
+       International Aluminum Corporation
+       
+       
+       In our opinion, the accompanying consolidated balance
+sheets and the 
+       related consolidated statements of income, shareholders'
+equity and 
+       cash flows present fairly, in all material respects, the
+financial 
+       position of International Aluminum Corporation and its
+subsidiaries at 
+       June 30, 1994 and 1993, and the results of their
+operations and their 
+       cash flows for each of the three years in the period ended
+June 30, 1994,
+       in conformity with generally accepted accounting
+principles.  These 
+       financial statements are the responsibility of the
+Company's 
+       management; our responsibility is to express an opinion on
+these 
+       financial statements based on our audits.  We conducted
+our audits
+       of these statements in accordance with generally accepted
+auditing 
+       standards which require that we plan and perform the audit
+to obtain 
+       reasonable assurance about whether the financial
+statements are free 
+       of material misstatement.  An audit includes examining, on
+a test basis, 
+       evidence supporting the amounts and disclosures in the
+financial 
+       statements, assessing the accounting principles used and
+significant
+       estimates made by management, and evaluating the overall
+financial 
+       statement presentation.  We believe that our audits
+provide a reasonable 
+       basis for the opinion expressed above.
+       
+       As discussed in Note 9 to the consolidated financial
+statements, the 
+       Company changed its method of accounting for income taxes
+during the 
+       year ended June 30, 1994.
+       
+       
+       PRICE WATERHOUSE
+       
+       400 South Hope Street
+       Los Angeles, CA 90071-2889
+       August 17, 1994
+              <PAGE>
+<PAGE>
+CORPORATE INFORMATION
+
+DIRECTORS                                  OFFICERS
+
+Cornelius C. Vanderstar                    John P. Cunningham
+Chairman of the Board                      President
+
+John P. Cunningham                         Hugh E. Curran
+                                           Vice President - Sales
+Hugh E. Curran
+                                           David C. Treinen
+David C. Treinen                           Vice President -
+Finance; Secretary
+
+Joel F. McIntyre                           Ronald L. Rudy
+Partner in the Law Firm of                 Vice President -
+Manufacturing
+McIntyre & Lubeck
+                                           Mitchell K. Fogelman
+Alexander van de Pol                       Asst. Vice President -
+Finance;
+Retired President and                      Controller
+Chairman of the Board of
+Commonwealth Metals-Pacific                Michael S. Snodgrass
+                                           Asst. Vice President -
+Personnel &
+Donald J. Willfong                         Industrial Relations
+Executive Vice President of
+Sutro & Co.                                Roland A. Young
+                                           Treasurer; Assistant
+Secretary
+
+
+
+
+
+
+STOCK TRANSFER AGENT AND REGISTRAR
+
+Continental Stock Transfer
+2 Broadway
+New York, N.Y.  10004
+(212) 509-4000
+
+
+                                            ANNUAL SHAREHOLDERS
+MEETING
+STOCK EXCHANGE LISTINGS                     2 p.m., Thursday,
+October 27, 1994
+New York Stock Exchange                     International
+Extrusion Corporation
+Pacific Stock Exchange                      1000 Meridian Avenue
+Trading Symbol - IAL                        Alhambra, California
+91803
+<PAGE>
+<PAGE>
+<TABLE>
+SUBSIDIARIES BY PRODUCT GROUP
+<CAPTION>
+COMMERCIAL -                                        RESIDENTIAL -
+<S>                                                 <C>
+United States Aluminum Corporation                  International
+Window Corporation
+   Vernon, California                                  South
+Gate, California
+
+United States Aluminum Corporation-Illinois         International
+Window-Northern California
+   Bedford Park, Illinois                              Hayward,
+California
+
+United States Aluminum Corporation-Texas            International
+Window-Arizona, Inc.
+   Waxahachie, Texas                                   Phoenix,
+Arizona
+   Denver, Colorado
+                                                    Maestro
+Products, Inc.
+United States Aluminum Corporation-Carolina            Riverside,
+California
+   Rock Hill, South Carolina                               
+                                                    Eland-Brandt,
+B.V.
+United States Aluminum Corporation-Northeast           Amsterdam,
+The Netherlands
+   Bridgeport, New Jersey                                  
+
+Ragland Manufacturing Company, Inc.                  
+   Houston, Texas                                    
+   Dallas, Texas
+   Waxahachie, Texas
+
+
+ALUMINUM EXTRUSIONS -                               GLASS -
+
+International Extrusion Corporation                 International
+California Glass Corporation
+   Alhambra, California                                South
+Gate, California
+
+International Extrusion Corporation-Texas           International
+Carolina Glass Corporation
+   Waxahachie, Texas                                   Rock Hill,
+South Carolina
+</TABLE>
+
+
+
+
+
+
+
+
+
+767 Monterey Pass Road
+Monterey Park, California 91754
+(213) 264-1670
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

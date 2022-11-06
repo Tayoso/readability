@@ -1,0 +1,3342 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ ESqnFrDQ3qx0c/oSIsNhU0CmbdehO4WTPl++9cl4QjKGEi9bDYyXr3jbZYnfkN4O
+ ZQkrtsW36iuyu7MDq5hgrw==
+
+<IMS-DOCUMENT>0000006207-94-000003.txt : 19940803
+<IMS-HEADER>0000006207-94-000003.hdr.sgml : 19940803
+ACCESSION NUMBER:		0000006207-94-000003
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19940430
+FILED AS OF DATE:		19940729
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMREP CORP
+		CENTRAL INDEX KEY:			0000006207
+		STANDARD INDUSTRIAL CLASSIFICATION:	1531
+		IRS NUMBER:				590936128
+		STATE OF INCORPORATION:			OK
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04702
+		FILM NUMBER:		94540745
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10 COLUMBUS CIRCLE
+		STREET 2:		SUITE 1300
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		2125417300
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICAN REALTY & PETROLEUM CORP
+		DATE OF NAME CHANGE:	19671019
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>
+                SECURITIES AND EXCHANGE COMMISSION
+                      WASHINGTON, D.C.  20549
+                                       
+                             FORM 10-K
+[ X ] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+                            ACT OF 1934
+      
+For the fiscal year ended April 30, 1994      Commission File Number 1-4702
+                          --------------                             ------
+                                      OR
+   [  ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                  SECURITIES EXCHANGE ACT OF 1934
+      
+For the transition period from              to
+                               ------------    -----------
+      
+  AMREP CORPORATION
+  ----------------------------------------------------- 
+  (Exact name of registrant as specified in its Charter)
+      
+  Oklahoma                                        59-0936128
+  -------------------------------------------------------------
+  (State or other jurisdiction of              (I.R.S. Employer
+  incorporation or organization)              Identification No.)
+      
+  10 Columbus Circle, New York, New York                       10019
+  ---------------------------------------------------------------------
+  (Address of principal executive offices)                   (Zip Code)
+      
+Registrant's telephone number, including area code:  212-541-7300
+                                                     ------------
+      
+Securities registered pursuant to Section 12(b) of the Act:
+                                           Name of Each Exchange
+   Title of Each Class                     on Which Registered
+   -------------------                     ---------------------- 
+Common Stock $.10 par value                New York Stock Exchange
+                                           Pacific Stock Exchange
+                                           Chicago Stock Exchange
+      
+Securities registered pursuant to Section 12(g) of the Act:  None
+      
+Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.   Yes   X   No
+                                                -----     -----
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [   ]
+      
+Aggregate market value of voting stock held by non-affiliates of Registrant,
+computed by reference to the last sales price of such Common Stock on July 20,
+1994, on the New York Stock Exchange Composite Tape:  $40,263,477.
+      
+Number of shares of Common Stock, par value $.10 per share, outstanding at July
+20, 1994 - 7,297,625.
+<PAGE>
+<PAGE>
+                DOCUMENTS INCORPORATED BY REFERENCE
+      
+   Portions of the following documents of Registrant are incorporated by
+reference into the indicated parts of this report:  Definitive Proxy Statement
+for 1994 Annual Meeting Part III
+
+
+<PAGE>
+<PAGE>      
+                              PART I
+
+
+
+Item 1.   Business
+- - ------------------
+
+                              GENERAL
+                              -------
+
+      The Company* is a real estate developer and builder of housing, a
+national distributor of magazines and a provider of subscription fulfillment
+services for publishers.  It is the developer of, and major builder of
+single-family homes at, Rio Rancho, New Mexico.  Since February 1992, the
+Company has been providing environmental consulting services.
+
+      Data concerning Industry Segments is set forth in Note 13 of Notes to
+Consolidated Financial Statements.  The Company's foreign sales and activities
+are not significant.
+
+                      REAL ESTATE OPERATIONS
+                      ----------------------
+
+      Real Estate Operations consist of (i) the construction and sale of
+housing, (ii) the development and sale of housing sites, and (iii) the sale of
+tracts for residential, industrial and commercial uses.
+
+
+HOUSING OPERATIONS
+- - ------------------
+      
+      The Company builds and markets low to medium priced housing, principally
+single-family homes ranging in size from approximately 750 to 2,600 square
+feet.  It presently is building at Rio Rancho, New Mexico; Broomfield,
+Colorado; Parker, Colorado; and Freehold, New Jersey.
+      
+      A substantial majority of the Company's building is at Rio Rancho, where
+the prices of the homes presently being sold by the Company range from
+approximately $58,000 to $190,000, although most are in the $70,000 to $90,000
+range.  In fiscal l994, the Company delivered 637 homes at Rio Rancho at an
+average price of $81,600 whereas in fiscal l993 it delivered 543 homes there at
+an average price of $74,600.   The Company does the development work at Rio
+Rancho.   See "DEVELOPMENT OPERATIONS - Rio Rancho" for information concerning
+Rio Rancho.
+
+
+
+
+
+*  As used herein "Company" includes the Registrant and its subsidiaries unless
+the context indicates otherwise.
+<PAGE>
+<PAGE>
+     The Company recently entered and has three projects in the Colorado
+market.  One is in Broomfield (a suburb of Denver), and it has a total of 196
+lots, 70 of which were acquired developed in February 1993 and the balance in
+March l994.  The Company is building homes there designed to sell at prices
+ranging from $119,000 to $134,000.  Construction at the project commenced in
+July, 1993, and in fiscal l994 26 homes were delivered at an average price of
+$116,000.
+
+      In November 1993, the Company acquired l0l partially developed lots in a
+project at Parker (also a suburb of Denver) on which it has completed the
+development work on 50 lots, and in March l994 commenced building.  The homes
+here are designed to sell for prices ranging from approximately $117,000 to
+$140,000.
+
+      In March l994 the Company purchased 484 acres of undeveloped residential
+property at a second location in Parker which has been zoned for approximately
+1800 homes.  The Company anticipates it will begin the development work during
+the current fiscal year and plans to build homes there designed to sell in the
+$110,000 to $180,000 range.  It may sell lots or tracts from this property to
+other builders or developers.
+
+      The Company was a limited partner with a one-third interest in a limited
+partnership which in 1990 commenced construction of a 390-unit townhouse
+project in Freehold, New Jersey.  The project encountered financial
+difficulties and in August 1992 the partnership was restructured with a
+subsidiary of the Company becoming the sole general partner with a 50%
+interest.  Pursuant to New Jersey law, 20% of the units must be priced
+substantially below market, but the remaining 312 units may be sold at market
+(the "Market Price Units") and are designed to sell in the $115,000 to $155,000
+range.   From inception through April 1993, 70 units were delivered.  In fiscal
+l994, 67 Market Price Units were delivered for an average price of $149,600 and
+25 of the below market units were delivered at an average price of $53,850.
+
+      Until January 1994, the Company was the general partner and majority
+owner of a limited partnership which owns a 300 unit "congregate living" rental
+facility in West Palm Beach, Florida. The facility, which was completed in
+fiscal l99l, was designed to provide alternative housing for active seniors. 
+In January l994, an unrelated third party became the general partner of the
+partnership and the Company became a limited partner, but as a limited partner
+it continues to have a significant equity interest in the partnership.  A
+subsidiary of the Company is continuing to manage the facility for an extended
+period. Approximately 250 units currently are rented for terms of up to twelve
+months.  An additional 30 units are being converted for operation as an
+Assisted Care Living Facility, and it is anticipated that the facility will
+commence operations in August.
+<PAGE>
+<PAGE>
+     A limited partnership of which, until recently, AMREP and a subsidiary
+held all of the partnership interests, owns 247 units of moderately-priced
+rental housing in Orlando, Florida.   There has been a restructuring of that
+partnership in which an unrelated third party became the general partner and
+the Company became a limited partner with a 50% equity interest.  A subsidiary
+of the Company continues to manage the project under a year-to-year contract. 
+Substantially all of the units currently are leased for terms of from 7 to 12
+months.
+
+      The Company participates in a joint venture which builds single-family
+homes in Eldorado at Santa Fe, New Mexico ("Eldorado"), although the Company is
+not the builder.  In fiscal l994 the venture sold 22 homes.   The Company
+builds medium- priced condominiums at Rio Rancho, and in l994 sold 37 units at
+an average price of $70,700.
+
+      The Company builds a number of different models of houses at each of its
+developments, which it changes periodically based on experience and market
+research.  At Rio Rancho the houses are designed by the Company's own staff. 
+The Company acts as general contractor, supervising all development and
+building activities, but employs subcontractors for most construction work. 
+However, the Company performs some site preparation work with its own equipment
+and personnel and its employees do final preparation and cleaning work on
+housing units.
+
+      At the Colorado developments the houses are designed by an outside
+architect.  The Company acts as general contractor but employs subcontractors
+for all construction and site preparation work.
+
+      The houses at the Freehold project are designed by an outside architect. 
+An 75% owned subsidiary of the Company is the general contractor, but it
+employs subcontractors for all construction and site preparation work.
+
+      The Company's housing is of frame construction and the Company has no
+reason to anticipate difficulty in obtaining all necessary materials as needed. 
+At Rio Rancho and the Colorado projects, the Company enters into contracts with
+subcontractors and suppliers of materials pursuant to which prices are
+established for a specific period (generally not exceeding six months).  Such
+contracts are generally used for all subcontractors or all suppliers.  The
+Company generally uses more than one subcontractor for each trade and more than
+one supplier of each type of material.  However, at Rio Rancho particularly, a
+substantial increase in orders and a shortage of subcontractors has caused
+production problems during the past year.  The Company is addressing the
+situation with a number of measures.  They include the adoption of a program of
+metered construction starts and flow based on the availability of all trades to
+complete a house once started.
+
+      The Company's construction and development departments are headquartered
+at Rio Rancho, New Mexico, but it has local project managers for its building
+activities elsewhere.
+<PAGE>
+<PAGE>
+DEVELOPMENT OPERATIONS
+- - ----------------------
+
+      The Company develops the housing sites at Rio Rancho and will develop the
+sites at the 484 acre tract in Parker, Colorado. The development activity
+includes the obtaining of necessary governmental approvals, installation of
+utilities and necessary storm drains, and building or improving the roads.  The
+engineering work is performed by both outside firms and Company employees, but
+development work generally is performed by outside contractors.
+
+      The Company sells developed residential lots to outside builders at both
+Rio Rancho and Eldorado.  In fiscal 1994, outside builders purchased
+approximately 110 lots at Rio Rancho for an aggregate of $2,830,000 and 242 
+lots at Eldorado for an aggregate of $5,975,000.
+
+  Rio Rancho
+  ----------
+
+      This project consists of 91,049 contiguous acres in Sandoval County, New
+Mexico, near Albuquerque, of which some 71,800 acres have been platted into
+approximately 107,400 homesite and commercial lots and 16,000 acres are
+dedicated to community facilities, roads and drainage.  At April 30, 1994, a
+total of approximately 76,500 of the lots had been sold.   The Company
+currently owns approximately 25,000 acres at Rio Rancho of which some 9,000
+acres are in contiguous blocks suitable for development.  The balance is in
+scattered lots which require the purchase of a sufficient number of adjoining
+lots to create tracts suitable for development.  Rio Rancho (most of the
+populated portion of which is in an incorporated city) has a population of over
+40,000.
+
+      Piped water, electricity and telephone service are supplied by
+independent public utility companies to all homes, and most are also serviced
+by piped gas and sewage utilities. Sewage disposal for lots not serviced by the
+utility system is by individual septic tank.
+
+      The Company is required to make deposits with the electric, gas, water
+and sewage companies when their utility lines are extended to new sections.  A
+substantial part of such deposits are returned as houses are built and the
+utility service commences.
+
+      Since early 1977, no lots have been sold except with houses on them or to
+outside builders.  Over 50,000 lots were sold prior to 1977 and most of these
+are in areas where utilities have not yet been installed.  However, under the
+contracts pursuant to which the lots were sold if, when the purchaser is ready
+to build a home utilities have not reached the site of his lot, the Company is
+obligated to exchange a lot in an area then serviced by water, telephone and
+electric utilities for a lot of the purchaser, without cost to the purchaser. 
+The Company has not incurred significant costs related to such exchanges.
+<PAGE>
+<PAGE>
+     The commercial areas at Rio Rancho presently house in excess of 320
+business and professional offices, seven shopping centers with over 900,000
+square feet of store and office space, and a 55,000 square foot office building
+largely occupied by the Company.  In addition, a number of individual office
+buildings and stores are located throughout the community.  Six financial
+institutions have offices at Rio Rancho.  The industrial areas presently have
+approximately 70 buildings with over 2,000,000 square feet, including a
+manufacturing facility containing approximately 1,225,000 square feet built and
+used by Intel Corporation.  Intel currently is constructing an additional
+1,300,000 square feet for the facility.
+
+  Eldorado at Santa Fe
+  --------------------
+
+      This subdivision, consisting of approximately 6,000 acres platted into
+lots, is located 10 miles southeast of Santa Fe, New Mexico.  Approximately
+1,550 single-family homes have been built and sold at this subdivision.  If the
+current rate of sales continues, the remaining inventory of approximately 280
+lots at Eldorado will be sold during fiscal l996.
+
+
+SALE OF NON-RESIDENTIAL TRACTS
+- - ------------------------------
+
+      The Company sells developed and undeveloped tracts at Rio Rancho and may
+sell tracts from its 484 acre property in Parker, Colorado.  In fiscal 1994 six 
+tracts were sold at Rio Rancho at prices ranging from approximately $60,000 to
+over $1,000,000.
+
+
+MARKETING
+- - ---------
+
+      The Company's homes are generally purchased as principal residences.  The
+designs of the various models built by the Company are based on market
+research, which is done principally by Company personnel.  At Rio Rancho the
+Company sells its housing almost entirely from models on-site, both directly
+and through brokers.  At Freehold, the Company sells directly from models
+on-site without brokers.  At the Colorado developments the Company sells its
+housing through brokers operating out of on- site sales offices.
+
+
+      Industrial and commercial tracts at Rio Rancho are marketed by a separate
+department, both directly and through brokers.
+
+      There is no significant seasonality to either housing or tract sales.  
+However, unusually severe winter weather can disrupt construction activities,
+and when this occurs there can be a slow down in housing sales in the
+immediately ensuing months followed by a "bunching" as deliveries catch up. 
+<PAGE>
+<PAGE>
+BACKLOG
+- - -------
+
+      Almost all contracts for the sale of housing sold by the Company are
+subject to the buyer's ability to obtain financing. The Company thus does not
+consider any such contracts to be firm, although during the past year
+approximately 80% of persons who signed contracts to purchase housing actually
+closed their purchase.
+
+      At July 1, l994, the Company had signed contracts for the purchase of 623
+units of housing for an aggregate purchase price of approximately $60,900,000 
+whereas at July l, l993 it had signed contracts for 522 units with an aggregate
+purchase price of approximately $44,900,000.
+
+      At July l, l994, the Company had contracts for the sale of 238 lots to
+builders for an aggregate purchase price of $7,200,000 and four contracts for
+the sale of unimproved real estate for an aggregate purchase price of
+$1,030,000.  At July 1, l993 it had two contracts for the sale of unimproved
+real estate for an aggregate purchase price of $l,500,000. 
+
+
+COMPETITION
+- - -----------
+
+      The construction and sale of homes is a highly competitive business. 
+Each of the Company's housing projects competes with other builders who offer
+similarly priced housing. To a limited extent the Rio Rancho development
+competes with developments in other places having climates attractive to those
+who wish to escape the rigorous climates of the north, although a large
+majority of the housing there is purchased by New Mexico residents.
+
+      Historically, the Company has generally concentrated on the construction
+of affordable housing with relatively few options, leaving custom house
+building and relatively expensive houses generally to other builders.  While it
+has no plans to do custom building, the Company gradually has been increasing
+the upper price level of its houses to accommodate a full spectrum of middle
+income buyers.
+
+
+MORTGAGE FINANCING
+- - ------------------
+
+      The ability of the Company to sell houses is dependent upon the
+availability of adequate mortgage financing on terms prospective customers can
+afford.  At Rio Rancho, the Company arranges mortgages principally with funds
+made available or guaranteed by State Housing Authorities and the Federal
+Housing Administration, and at all locations with various conventional mortgage
+lenders.
+<PAGE>
+<PAGE>
+               DISTRIBUTION AND FULFILLMENT OPERATIONS
+               ---------------------------------------
+
+        Through its wholly-owned subsidiary, Kable News Company, Inc., the
+Company (i) distributes periodicals nationally and in Canada and, to a small
+degree, overseas, and (ii) performs subscription fulfillment and related
+services.  Kable employs approximately 820 persons, approximately 220 of whom
+are involved in its distribution activities and 600 in fulfillment activities.
+Kable maintains state of the art computer hardware and software in support of
+its distribution and fulfillment operations. 
+
+DISTRIBUTION
+- - ------------
+
+        In its distribution operation, Kable annually distributes magazines for
+over 240 publishers.  No distribution client accounted for as much as 10% of
+distribution revenues in fiscal 1994.  Among the titles are many special
+interest magazines, including automotive, crossword puzzles, men's
+sophisticates, comics, romance and sports.  In a typical month, Kable
+distributes to wholesalers nearly 34,500,000 copies of the various titles. 
+Typical of the industry, Kable purchases the publications from its publishers
+and sells them to approximately 365 independent wholesale distributors in the
+United States and Canada.  The wholesale distributors in turn sell the
+publications to individual retail outlets.  All parties generally have full
+return rights for unsold copies.  In fiscal 1994, distribution activities
+accounted for 46% of Kable's revenues.
+
+        While Kable does not handle all publications of all of its publisher
+clients, it usually is the exclusive distributor for the publications it
+distributes.  Kable generally does not physically handle any product.  It
+determines in consultation with the wholesalers and publishers the number of
+copies of each issue to be distributed, and generates and delivers to each
+publisher's printer shipping instructions with the addresses of the wholesalers
+and the number of copies of product to be shipped to each.  All magazines have
+an "off sale" date (generally the on- sale date of the next issue) following
+which the retailers return unsold copies to the wholesalers, who destroy them
+after accounting for returned merchandise in a manner satisfactory to Kable.
+
+        Kable has a distribution sales and marketing force of about 100
+persons, the responsibility of which is to work with wholesalers and retailers
+to promote product sales and to assist in determining the number of copies of
+product to be delivered to each retailer.
+
+        Kable generally makes substantial advances to publishers against future
+sales, mostly for printing, paper and production costs prior to the product
+going on sale, but is usually not paid by wholesalers for product until some
+time after the product has gone on sale.  Kable is therefore exposed to
+potential credit risks with both the publishers and the wholesalers.  Its
+ability to make a profit is dependent in part on its skill in estimating the
+number of copies of an issue which should be printed and distributed and
+limiting its advance to the publisher accordingly.
+<PAGE>
+<PAGE>
+     There are six national distributors with whom Kable competes.  Since
+publishers utilize only a single distributor to distribute a particular line,
+there is intensive competition between distributors to obtain distribution
+rights from publishers.  All six of these large competitors are owned by or
+affiliated with a magazine publishing company.  Such companies publish a
+substantial portion of all magazines published in the United States, and the
+competition for the distribution rights to the remaining publications thus has
+intensified.
+
+FULFILLMENT SERVICES
+- - --------------------
+
+        Kable's Fulfillment Services Division performs a number of fulfillment
+and fulfillment related activities, principally magazine subscription
+fulfillment services for publishers, list services and product fulfillment
+services.  In fiscal 1994, this Division accounted for 54% of Kable's revenues. 
+
+        In its magazine subscription fulfillment service, this Division
+processes new orders, receives and accounts for payments, prepares labels for
+mailing each issue, handles subscriber telephone inquiries and correspondence,
+prepares renewal and statement notifications, maintains the client publisher's
+subscriber list and database, generates marketing and statistical reports, and
+prints forms and promotional materials for its client publishers.  Although by
+far the largest number of magazine titles for which Kable performs fulfillment
+services are consumer publications, Kable also performs services for a number
+of trade (business) publications utilizing the broad capabilities of its
+extensive database system.
+
+        List services clients are primarily publishers.  In this activity the
+Division maintains clients' customer lists, selects names for clients who rent
+their lists, merges rented lists with the client's lists to eliminate
+duplication for clients' promotional mailings, and sorts and sequences mailing
+labels to provide optimum postal discounts for clients. 
+
+        This Division provides product fulfillment services primarily for its
+publishers clients.  In this activity it receives, warehouses, processes and
+ships merchandise.
+
+        Kable now performs fulfillment services for approximately 315 different
+magazine titles for some 225 clients. No fulfillment client accounted for as
+much as 10% of fulfillment revenues in fiscal l994.  Kable maintains more than
+14,400,000 active subscriber names for its client publishers.  In a typical
+month Kable produces almost 12,350,000 mailing labels for its client
+publishers' printers and also produces and mails approximately 4,150,000
+billing and renewal statements. 
+
+        There are a large number of companies which perform fulfillment
+services and with which Kable competes, two of which are many times larger than
+Kable.  Since publishers utilize only a single fulfillment service for a
+particular publication, there is intensive competition to obtain fulfillment
+contracts with pub lishers.  Kable has a staff whose primary duty is to solicit
+fulfillment business.
+<PAGE>
+<PAGE>
+               CONSULTING SERVICES
+               -------------------
+
+        In February 1992 the Company began providing environmental consulting
+services, and has expanded this operation to include economic development
+consulting and project management services.
+
+
+               COMPANY OFFICES
+               ---------------
+
+        Although the Company's principal executive offices are in New York
+City, its operations (other than Kable News) are centralized in Rio Rancho in a
+modern office building owned by the Company.  Kable News has an executive and
+sales office in New York City separate from AMREP's, but its operations are
+centered in Mt. Morris, Illinois.
+
+
+               EMPLOYEES
+               ---------
+
+        The Company has approximately 1,100 employees (including Kable), none
+of whom is represented by a union.  The Company provides retirement, health and
+other benefits for its employees and considers its employee relations to be
+good.
+
+
+Item 2.  Properties.
+- - --------------------
+
+        The information contained in Item 1 of this report with respect to
+properties owned by the Company is hereby incorporated herein by reference.
+
+
+Item 3.  Legal Proceedings.
+- - ---------------------------
+
+     The Registrant and/or its subsidiaries are involved in various claims and
+legal actions incident to their operations, which in the opinion of management
+based upon advice of counsel, will not materially affect the consolidated
+financial position or results of operations of the Registrant and its
+subsidiaries.
+
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+- - ------------------------------------------------------------
+
+        Not Applicable.
+
+<PAGE>
+<PAGE>
+Executive Officers of Registrant
+- - --------------------------------
+
+        Set forth below is certain information concerning persons who are
+executive officers of Registrant.
+
+   Name                     Office Held                   Age
+   ----                     -----------                   ---
+
+Anthony B. Gliedman         Chairman of the Board,         52
+                            President and Chief
+                            Executive Officer of the
+                            Registrant since July
+                            1991; Executive
+                            Vice President of Regis-
+                            trant from December
+                            1990 until July 1991;
+                            Executive Vice President
+                            of the Trump Organization,
+                            real estate development,
+                            from prior to 1989 to
+                            December 1990.
+      
+Daniel Friedman             Chairman of the Board          59
+                            of Kable News Company, Inc.,
+                            a wholly owned subsidiary of
+                            Registrant, since prior to
+                            1989; Senior Vice President
+                            of the Registrant since
+                            prior to 1989.
+
+James Wall                  President of AMREP Southwest   57
+                            Inc. ("ASI"), and of AMREP
+                            Southeast, Inc., wholly
+                            owned subsidiaries of
+                            Registrant, since January
+                            1991; Vice President of
+                            ASI from prior to 1989
+                            to January 1991; General
+                            Manager of Southwest
+                            Operations since prior
+                            to 1989; Senior Vice
+                            President of Registrant
+                            since September 1991.
+<PAGE>
+<PAGE>
+  Name                 Office Held                        Age
+  ----                 -----------                        ---
+      
+Harvey W. Schultz      Senior Vice President of           53
+                       Registrant since March
+                       1992; President of AMREP
+                       Solutions, Inc., a wholly-
+                       owned subsidiary of the
+                       Registrant, since March
+                       1992; President of HWS
+                       Solutions, Inc.,
+                       environmental consultants
+                       from 1991 to March 1992;
+                       President of Ocean View
+                       Associates, real estate
+                       development, and Senior
+                       Vice President of Forest City
+                       Ratner Companies, real estate
+                       development, during 1990;
+                       Commissioner of the Department
+                       of Environmental Protection of
+                       the City of New York from
+                       prior to 1989 to December 1989.
+
+Mohan Vachani          Senior Vice President -            52
+                       Chief Financial Officer
+                       of the Registrant since June
+                       1993; Consultant to the
+                       Registrant from September
+                       1992 to June 1993;
+                       Vice President-
+                       Chief Financial Officer
+                       of Bedford Properties,
+                       Inc., real estate manage-
+                       ment and development,
+                       from prior to 1989 until
+                       June 1993.
+
+Valerie Asciutto       Vice President-General             41
+                       Counsel of Registrant since
+                       July 1992; Vice President -
+                       Real Estate Lending of
+                       Community Capital Bank
+                       (commercial bank) from
+                       September 1991 to May
+                       1992; attorney in private
+                       practice from prior to
+                       1989 to September 1991.
+<PAGE>
+<PAGE>
+  Name                 Office Held                        Age
+  ----                 -----------                        ---
+      
+Rudolph J. Skalka      Vice President-Finance of          62
+                       Registrant since
+                       prior to 1989;
+                       Treasurer of Registrant
+                       since prior to 1989.
+
+       Each executive officer holds office until the first meeting of directors
+following the annual meeting of stockholders and until his successor is duly
+chosen and qualified.
+
+<PAGE>
+<PAGE>
+
+                              PART II
+
+
+Item 5. Market for Registrant's Common Equity and Related Stockholder Matters.
+- - ------------------------------------------------------------------------------
+
+        The Registrant's Common Stock is traded on the New York Stock Exchange,
+the Chicago Stock Exchange and the Pacific Stock Exchange under the symbol AXR. 
+On July 19, 1994, there were approximately 2,835 holders of record of
+Registrant's Common Stock.  Registrant has not paid any cash dividends, and it
+has agreed in connection with certain long term borrowings not to pay cash
+dividends in amounts exceeding one-half of the Registrant's net worth.  The
+range of high and low closing prices for the last two years by fiscal quarter
+is presented below:
+
+           FIRST        SECOND         THIRD          FOURTH
+        ----------     ----------     ----------     ----------
+        High   Low     High   Low     High   Low     High   Low
+        ----------     ----------     ----------     ----------
+
+1994   7 1/2   5 1/2  10 1/8  6 1/4   9 3/4  7       9     7 5/8
+1993   7 5/8   5 1/2   5 5/8  4 1/2   6      4 1/2   6     5
+<PAGE>
+<PAGE>
+Item 6.  Selected Financial Data.
+- - ---------------------------------
+<TABLE>
+<CAPTION>
+                                     (In thousands of dollars except per share amounts)
+                                                   Year Ended April 30,
+                             -----------------------------------------------------------------
+                                  1994         1993         1992         1991         1990
+                             ------------  -----------  -----------  -----------  ------------
+<S>                           <C>          <C>          <C>          <C>          <C> 
+Revenues                      $  126,088   $   93,660   $   73,365   $   69,567   $   84,588
+Income (Loss)                                               
+  Continuing operations       $    2,372   $       41   $   (6,826)  $   (6,161)  $   (2,448)
+  Discontinued operations              -            -            -            -          104
+  Gain on sale of                                             
+   discontinued operations             -            -            -        1,873            -
+                              -----------  -----------  -----------  -----------  -----------
+Net Income (Loss)             $    2,372   $       41   $   (6,826)  $   (4,288)  $   (2,344)
+                              ===========  ===========  ===========  ===========  ===========
+                                                            
+Income (Loss) Per Share
+  Continuing operations       $     0.33   $     0.01   $    (1.03)  $    (0.93)  $    (0.37)
+  Discontinued  operations             -            -            -            -         0.02
+  Gain on sale of                                             
+   discontinued operations             -            -            -         0.28            -
+                              -----------  -----------  -----------  -----------  -----------
+Net Income (Loss) Per Share   $     0.33   $     0.01   $    (1.03)  $    (0.65)  $    (0.35)
+                              ===========  ===========  ===========  ===========  ===========
+                                                            
+Total Assets                  $  178,857   $  179,944   $  168,390   $  181,361   $  196,755
+Notes Payable                     50,738       31,899       34,462       37,914       47,276
+Project Financing                  6,205       41,228       32,164       32,251       31,361
+Collateralized Mortgage
+ Obligations (A)                   4,406        6,473        7,390        8,407        8,873
+Shareholders' Equity              61,429       54,102       54,055       60,881       65,169
+Cash Dividends                         -            -            -            -            -
+
+<FN>
+(A)  As discussed in Note 1 to Notes to Consolidated Financial Statements
+certain amounts have been reclassified to conform with fiscal year 1994
+presentation.
+</TABLE>
+<PAGE>
+<PAGE>
+Item  7.   Management's Discussion and Analysis of Financial
+             Condition and Results of Operations
+- - ------------------------------------------------------------
+
+Liquidity and Capital Resources.
+- - -------------------------------
+
+     At April 30, 1994, the Company had line-of-credit arrangements with
+several financial institutions collateralized by various assets.  One of
+these lines was $25,000,000 (against which approximately $22,500,000 was
+drawn) which is restricted to Kable News  Company (Kable) operations, must
+be collateralized 125% or more by certain Kable accounts receivable and is
+due August 31, 1995.  The line-of-credit agreement restricts the payment of
+dividends by, and loans from, Kable to the Company.
+
+     The other lines-of-credit are used principally to support real estate
+construction in New Mexico.  At April 30, 1994, they totalled $15,250,000
+against which approximately $8,600,000 was drawn.  These lines-of-credit are
+collateralized by certain real estate assets and are subject to certain
+financial performance and other covenants.  A large majority of the loans
+mature in late 1994, but based on management's discussions with the lenders,
+the Company believes these lines-of-credit will be renewed as they mature. 
+The Company also has borrowed in excess of $15,000,000 in land acquisition,
+development and construction loans for its New Jersey and Colorado projects.
+
+     The Company believes that cash provided from operations together with
+existing cash, its lines-of-credit and development and construction loans
+will be sufficient to maintain liquidity at a satisfactory level.
+
+     The Company believes that its available funds also will be adequate to
+provide for capital expenditures, which are not expected to exceed
+$1,600,000 in fiscal 1995.
+
+     The Company was out of compliance during the year with certain of its
+debt convenants for which waivers have been obtained.
+
+     As discussed in Note 10 of Notes to Consolidated Financial Statements
+("Note 10"), in fiscal 1992 the Internal Revenue Service ("IRS") completed a
+Revenue agent Review of the Company's tax returns for fiscal years 1984
+through 1989.  The Company believes it has reached agreement with the IRS on
+all but one adjustment and does not expect significant additional tax
+liability or payments from those issues.  The remaining issue concerns the
+method by which the Company utilizes a provision of the Internal Revenue
+Code pursuant to which it excludes from income the amount related to the
+return of magazines to Kable within a specified period following the close
+of the tax year.  The Company, its outside accountants and its outside
+counsel believe the Company's method is correct and if it is ultimately
+necessary the Company will defend its position in litigation.  The matter is
+now being reviewed by the appellate division of the IRS.  The Company has
+<PAGE>
+been informed that the IRS has issued a notice of deficiency to at least one
+other taxpayer in which the IRS contests that taxpayer's exclusions from
+income which rely on the same Code provision and use the same method as that
+used by the Company and that the taxpayer is planning to commence litigation
+on the issue against the IRS.  That litigation will likely not be resolved
+for two or three years or more. To date, the appellate review of the Company
+remains open although the Company's representative reports that there is no
+likelihood of imminent attention to the Review by the IRS agent assigned. 
+As set forth in Note 10, substantial amounts of taxes and interest could be
+payable should the IRS ultimately prevail in all respects.  However, the
+Company has decided not to identify a source of funds because the Company,
+its outside accountants and its outside counsel are of the view both that
+the Company's method is correct under the Code and that it is more likely
+than not that the Company will prevail and because the matter is years from
+resolution.
+
+
+RESULTS OF OPERATIONS 
+- - ---------------------
+
+     The improvement in the results for fiscal 1994, as compared to 1993,
+reflects an increase in gross profit from housing and land sales of
+approximately $4,000,000; an improvement in pretax income from Kable News
+operations of approximately $1,900,000; and a gain of $1,245,000 recorded in
+connection with the sale of the Company's general partnership interest in
+the Colonial Pointe Apartments Limited Partnership on April 29, 1994 (see
+Note 4 of Notes to Consolidated Financial Statements).
+
+     These operating improvements were offset by a decrease of approximately
+$1,300,000 in income from interest and other operations due primarily to a
+$440,000 decrease in interest income from land sales receivables and
+mortgages securing collateralized mortgage obligations, a nonrecurring
+$200,000 gain from the sale of a commercial building in fiscal 1993, and
+lower earnings from the Rio Rancho Country Club; a $1,170,000 increase in
+general and administrative expenses related to real estate operations and
+corporate, primarily because last year included a refund of general
+insurance premiums and other nonrecurring cost reductions and this year
+reflects increases in legal and certain other nonrecurring expenses; and a
+valuation provision of $1,100,000 on Florida real estate inventory not under
+current development.
+
+     The improvement in the results for fiscal 1993, as compared to 1992,
+reflects an increase in gross profit from housing and land sales of
+approximately $2,700,000; an improvement in the results from Kable News
+operations of approximately $900,000; a decrease in general and
+administrative expenses related to real estate operations and corporate of
+$1,449,000 primarily from payroll and related benefit reductions, reduced
+group insurance, a refund of general insurance premiums and other cost
+reductions.  Also, the fiscal 1993 results include a loss of $1,837,000 from
+rental projects, principally The Classic at West Palm Beach, which was an
+improvement of $1,160,000 from the loss in fiscal 1992.  In addition, fiscal
+1992 reflects a decision to reduce the carrying value of Denver and Florida
+real estate inventory and a Florida rental project by a total of $4,425,000.
+<PAGE>
+<PAGE>
+     The increases in gross profit from housing and land sales were due to
+increased volume and increases in housing prices, although the price
+increases were offset by increased costs.  The Company closed 758 housing
+units in fiscal 1994, compared to 570 units in 1993, and 420 units in 1992.
+
+     The increase in pretax income from Kable News operations in fiscal
+1994, as compared to 1993, (approximately $4,300,000 in 1994 and $2,400,000
+in 1993) primarily reflects substantially improved results from newsstand
+revenues primarily related to the acquisition of newsstand distribution
+contracts of Capital Distributing Company in August 1993.
+
+     The increase in pretax income from Kable News operations in fiscal
+1993, as compared to 1992, (approximately $2,400,000 in 1993 and $1,500,000
+in 1992) primarily reflects an increase in subscription fulfillment revenues
+resulting from increased volume.
+
+     The decrease in interest expense in fiscal 1994, as compared to 1993,
+is primarily due to capitalization of interest on construction projects
+partially offset by increased interest on larger borrowings.  The decrease
+in interest expense in fiscal 1993, as compared to 1992, primarily reflects
+a decrease in general purpose borrowing and a reduction in the prime
+interest rate.
+
+     During the past three years, revenues and costs have been affected to a
+modest extent by inflation.
+
+
+
+Item  8.   Financial Statements and Supplementary Data.
+- - -------------------------------------------------------
+
+                     [See Next Page]
+<PAGE>
+<PAGE>                              
+          Report of Independent Public Accountants
+          ----------------------------------------
+                              
+                              
+                              
+                              
+                              
+To the Shareholders and
+ Board of Directors of
+ AMREP Corporation
+
+
+We have audited the accompanying consolidated balance sheets of AMREP
+CORPORATION and subsidiaries as of April 30, 1994 and 1993, and the related
+consolidated statements of operations, shareholders' equity and cash flows
+for each of the three years in the period ended April 30, 1994.  These
+consolidated financial statements and the schedules referred to below are
+the responsibility of the Company's management. Our responsibility is to
+express an opinion  on these consolidated financial statements and schedules
+based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audits to
+obtain reasonable assurance about whether the financial statements are free
+of material misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. 
+An audit also includes assessing the accounting principles used and
+significant estimates made my management, as well as evaluating the overall
+financial statements presentation.  We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of AMREP Corporation and
+subsidiaries as of April 30, 1994 and 1993, and the results of their
+operations and their cash flows for each of the three years in the period
+ended April 30, 1994, in conformity with generally accepted accounting
+principles.
+
+Our audits were made for the purpose of forming an opinion on the basic
+financial statements taken as a whole.  The schedules listed in the index of
+financial statements are presented for purposes of complying with the
+Securities and Exchange Commission's rules and are not part of the basic
+financial statements.  These schedules have been subjected to the auditing
+procedures applied in the audits of the basic financial statements and, in
+our opinion, fairly state in all material respects the financial data
+required to be set forth therein in relation to the basic financial
+statements taken as a whole.
+
+
+
+
+
+
+
+
+New York, New York                      ARTHUR ANDERSEN & CO.
+June 22, 1994
+
+<PAGE>
+<PAGE>
+             AMREP CORPORATION AND SUBSIDIARIES
+             ----------------------------------
+         CONSOLIDATED BALANCE SHEETS  (Page 1 of 2)
+         ------------------------------------------
+                   APRIL 30, 1994 AND 1993
+                   -----------------------
+                (Dollar amounts in thousands)
+                -----------------------------
+
+
+                  ASSETS                       1994       1993
+                  ------                    ----------- ----------
+CASH AND TEMPORARY CASH INVESTMENTS         $   6,623   $   6,856
+                                                                 
+RECEIVABLES, net:                                                
+ Real estate operations                        13,122      14,809
+ Magazine circulation operations               34,281      20,885
+                                                                 
+REAL ESTATE INVENTORY                          71,102      48,010
+                                                                 
+RENTAL AND OTHER REAL ESTATE PROJECTS          14,174      49,266
+                                                                 
+INVESTMENT PROPERTY                             8,604      14,670
+                                                                 
+PROPERTY, PLANT AND EQUIPMENT,                                   
+ at cost, net of accumulated                                     
+ depreciation and amortization                 12,103      11,518
+                                                                 
+OTHER ASSETS                                   13,643       8,725
+                                                                 
+EXCESS OF COST OF SUBSIDIARY                                     
+ OVER NET ASSETS ACQUIRED                       5,205       5,205
+                                            ---------   ---------
+  TOTAL ASSETS                              $ 178,857   $ 179,944
+                                            =========   =========
+
+
+
+The accompaning notes to consolidated financial statements are an integral
+part of these consolidated statements.
+
+<PAGE>
+<PAGE>
+             AMREP CORPORATION AND SUBSIDIARIES
+             ----------------------------------
+         CONSOLIDATED BALANCE SHEETS  (Page 2 of 2)
+         ------------------------------------------
+                   APRIL 30, 1994 AND 1993
+                   -----------------------
+       (Dollar amounts in thousands except par value)
+       ----------------------------------------------
+
+   LIABILITIES AND SHAREHOLDERS' EQUITY         1994        1993
+   ------------------------------------      ----------- -----------
+  
+ACCOUNTS PAYABLE, DEPOSITS AND                                      
+ ACCRUED EXPENSES                            $   31,915  $   23,851
+                                                                   
+NOTES PAYABLE:                                                     
+ Amounts due within one year                     12,725       8,044
+ Amounts subsequently due                        38,013      23,855
+                                                                   
+RENTAL AND OTHER REAL ESTATE PROJECT                               
+ FINANCING                                        6,205      41,228
+                                                                   
+COLLATERALIZED MORTGAGE OBLIGATIONS               4,406       6,473
+                                                                   
+DEFERRED INCOME TAXES                            24,164      22,391
+                                             ----------  ----------
+  TOTAL LIABILITIES                             117,428     125,842
+                                             ----------  ----------
+COMMITMENTS AND CONTINGENCIES                                      
+                                                                   
+SHAREHOLDERS' EQUITY:                                              
+ Common stock, $.10 par value;                                     
+  shares authorized--20,000,000;                                   
+  shares issued and outstanding--                                  
+  7,297,625 in 1994 and 6,619,292 in 1993           730         662
+ Capital contributed in excess of par value      44,435      39,548
+ Retained earnings                               16,264      13,892
+                                             ----------  ----------
+                                                                   
+TOTAL SHAREHOLDERS' EQUITY                       61,429      54,102
+                                             ----------  ----------
+                                                                   
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY   $  178,857  $  179,944
+                                             ==========  ==========
+
+
+
+The accompaning notes to consolidated financial statements are an integral
+part of these consolidated statements.
+
+<PAGE>
+<PAGE>
+             AMREP CORPORATION AND SUBSIDIARIES
+             ----------------------------------
+            CONSOLIDATED STATEMENTS OF OPERATIONS
+            -------------------------------------
+      (Amounts in thousands, except per share amounts)
+
+                                                 Year ended April 30,
+                                           --------------------------------
+                                               1994       1993       1992 
+                                           ---------- ---------- ----------
+REVENUES:                                                                 
+  Real estate operations-                                                 
+   Home and condominium sales              $  67,501  $  43,944  $  30,347
+   Land sales                                 13,126      8,004      5,843
+   Rental projects                             3,741      5,845      4,569
+   Gain on partnership restructuring           1,245          -          -
+                                           ---------  ---------  ---------
+                                              85,613     57,793     40,759
+                                                                          
+  Magazine circulation operations             35,029     29,529     27,034
+  Interest and other operations                5,446      6,338      5,572
+                                           ---------  ---------  ---------
+                                                                          
+                                             126,088     93,660     73,365
+                                           ---------  ---------  ---------
+                                                                          
+COSTS AND EXPENSES:                                                       
+  Real estate cost of sales                   64,439     39,800     26,756
+  Operating expenses-                                                     
+   Magazine circulation operations            24,859     21,532     20,049
+   Rental projects                             5,525      7,682      7,566
+   Real estate commissions and selling         5,475      5,008      4,672
+   Other operations                            4,340      3,880      3,228
+  General and administrative-                                             
+   Real estate operations and corporate        8,710      7,536      8,989
+   Magazine circulation operations             5,179      5,128      4,847
+  Interest, net                                2,635      3,028      3,843
+  Real estate valuation provision              1,100          -      4,425
+                                           ---------  ---------  ---------
+                                                                          
+                                             122,262     93,594     84,375
+                                           ---------  ---------  ---------
+                                                                          
+     Income (loss) before income taxes         3,826         66    (11,010)
+                                                                          
+PROVISION (BENEFIT) FOR INCOME                                            
+  TAXES                                        1,454         25     (4,184)
+                                           ---------  ---------  ---------
+                                                                          
+NET INCOME (LOSS)                          $   2,372  $      41  $  (6,826)
+                                           =========  =========  =========
+                                                                          
+NET INCOME (LOSS) PER SHARE                $    0.33  $    0.01  $   (1.03)
+                                           =========  =========  =========
+                                                                          
+WEIGHTED AVERAGE NUMBER OF 
+  COMMON SHARES OUTSTANDING                    7,091      6,618      6,618
+                                           =========  =========  =========
+
+
+The accompaning notes to consolidated financial statements are an integral
+part of these consolidated statements.
+<PAGE>
+<PAGE>
+             AMREP CORPORATION AND SUBSIDIARIES
+             ----------------------------------
+       CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+       -----------------------------------------------
+                   (Amounts in thousands)
+<TABLE>
+<CAPTION>
+                                                     Capital
+                                                   Contributed
+                                                        In
+                                                      Excess
+                                      Common Stock      of    
+                                      ------------      Par    Retained
+                                   Shares    Amount    Value   Earnings    Total
+                                   ------    ------    -----   --------   ------
+
+<S>                              <C>       <C>       <C>       <C>       <C>
+BALANCE, April 30, 1991             6,618  $    662  $ 39,542  $ 20,677  $ 60,881
+                                                                    
+  Net loss                              -         -         -    (6,826)   (6,826)
+                                 --------  --------  --------   --------  -------
+BALANCE, April 30, 1992             6,618       662    39,542    13,851    54,055
+                                                                     
+  Net income                            -         -         -        41        41
+  Stock issuance                        1         -         6         -         6
+                                 --------  --------  --------   --------  --------
+                                                                    
+BALANCE, April 30, 1993             6,619       662    39,548    13,892    54,102
+                                                                    
+  Net income                            -         -         -     2,372     2,372
+                                                                    
+  Stock issuance in connection 
+   with purchase of magazine
+   circulation operations assets      576        58     4,043         -     4,101
+                                                                               
+  Stock issuance in connection 
+   with restructuring of
+   general partnership interest
+   in The Classic                      66         7       589         -       596
+                                                                     
+  Exercise of stock options and
+   other stock issuance                37         3       255         -       258
+                                 --------  --------  --------  --------  --------
+                                                                     
+BALANCE, April 30, 1994             7,298  $    730  $ 44,435  $ 16,264  $ 61,429
+                                 ========  ========  ========  ========  ========
+
+<FN>
+
+The accompaning notes to consolidated financial statements are an integral
+part of these consolidated statements.
+</TABLE>
+<PAGE>
+<PAGE>                              
+             AMREP CORPORATION AND SUBSIDIARIES
+             ----------------------------------
+     CONSOLIDATED STATEMENTS OF CASH FLOWS (Page 1 of 2)
+     ---------------------------------------------------
+                   (Amounts in thousands)
+<TABLE>
+<CAPTION>
+                                                                  Year ended April 30,
+                                                          -----------------------------------
+                                                              1994        1993        1992
+                                                          ----------  ----------  -----------
+<S>                                                       <C>         <C>         <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:                               
+  Cash received from real estate operations and other     $  88,766   $  66,730   $  48,252
+  Cash received from magazine circulation operations,
+   net of publisher payments                                 25,912      27,755      27,179
+  Interest received                                           1,022       1,586       1,755
+  Cash paid to suppliers and employees                     (115,476)    (84,942)    (69,428)
+  Cash paid to acquire land                                  (9,847)       (743)        (14)
+  Interest paid                                              (3,736)     (7,207)     (7,984)
+  Income taxes (paid) refunded                                  (29)      1,353         577
+                                                          ---------   ---------   ---------
+     Net cash provided (used) by operating activities       (13,388)      4,532         337
+                                                          ---------   ---------   ---------
+                                                                             
+CASH FLOWS FROM INVESTING ACTIVITIES:                                        
+  Capital expenditures                                       (1,852)     (1,591)     (2,098)
+  Proceeds from sale of property, plant and equipment              -      1,671           -
+  Other, net                                                    400         319         (26)
+                                                          ---------   ---------   ---------
+                                                                             
+     Net cash provided (used) by investing activities        (1,452)        399      (2,124)
+                                                          ---------   ---------   ---------
+                                                                             
+CASH FLOWS FROM FINANCING ACTIVITIES:                                        
+  Proceeds from debt financing                               33,551      15,966      15,786
+  Principal debt payments                                   (19,798)    (18,744)    (19,647)
+  Proceeds from the sale of stock and exercise of                                       
+   stock options                                                854          -            -
+                                                          ---------   ---------   ---------
+                                                                             
+     Net cash provided (used) by financing activities        14,607      (2,778)     (3,861)
+                                                          ---------   ---------   ---------
+                                                                             
+     Increase (decrease) in cash and temporary                                         
+       cash investments                                        (233)      2,153      (5,648)
+                                                                             
+CASH AND TEMPORARY CASH INVESTMENTS,                                        
+  beginning of year                                           6,856       4,703      10,351
+                                                          ---------   ---------   ---------
+                                                                            
+CASH AND TEMPORARY CASH INVESTMENTS,                                        
+  end of year                                             $   6,623   $   6,856   $   4,703
+                                                          =========   =========   =========
+
+<FN>
+
+The accompaning notes to consolidated financial statements are an integral
+part of these consolidated statements.
+</TABLE>
+<PAGE>
+<PAGE>
+             AMREP CORPORATION AND SUBSIDIARIES
+             ----------------------------------
+      CONSOLIDATED STATEMENTS OF CASH FLOWS (Page 2 of 2)
+      ---------------------------------------------------
+                   (Amounts in thousands)
+<TABLE>
+<CAPTION>
+                                                                  Year ended April 30,
+                                                          ----------------------------------
+                                                              1994        1993        1992
+                                                          ----------  ----------  ----------
+<S>                                                       <C>         <C>         <C>
+RECONCILIATION OF NET INCOME (LOSS) TO NET
+  CASH PROVIDED (USED) BY OPERATING ACTIVITIES:
+  Net income (loss)                                       $   2,372   $      41   $  (6,826)
+                                                          ---------   ---------   --------- 
+  Adjustments to reconcile net income (loss)
+   to net cash provided (used) by operating activities-
+   Gain on restructuring of general partnership interest
+    in Colonial Pointe (1994) and sale of property,
+    plant and equipment (1993)                               (1,245)       (201)          -
+   Depreciation and amortization and other                    5,478       4,507       4,842
+   Real estate valuation provision                            1,100           -       4,425
+   Changes in assets and liabilities-
+    Receivables, net                                        (11,709)      2,611       5,159
+    Real estate inventory                                   (20,107)      2,102      (1,135)
+    Rental and other real estate projects                     2,710      (1,233)        857
+    Investment property                                       2,592         320        (613)
+    Other assets                                             (5,137)     (4,408)     (4,088)
+    Accounts payable, deposits and accrued expenses           8,785        (181)      1,276
+    Deferred income taxes                                     1,773         974      (3,560)
+                                                          ---------   ---------   --------- 
+                                                                                              
+     Total adjustments                                      (15,760)      4,491       7,163
+                                                          ---------   ---------   --------- 
+                                                                                
+     Net cash provided (used) by operating activities     $ (13,388)  $   4,532   $     337
+                                                          =========   =========   =========
+                                                                                
+SUPPLEMENTAL INFORMATION REGARDING NON-                                         
+  CASH INVESTING AND FINANCING ACTIVITIES:
+  Assets and liabilities assumed upon                                          
+   consolidation of PERMA                                 $       -   $  14,290   $       -
+                                                          =========   =========   =========
+  Investment property received in                                              
+   satisfaction of receivables                            $       -   $   4,430   $       -
+                                                          =========   =========   =========
+  Stock issuance in connection with purchase of                                  
+   of magazine circulation operations assets              $   4,101   $       -   $       -
+                                                          =========   =========   =========
+  Restructuring of general partnership interests in 
+   The Classic and Colonial Pointe resulting in
+   decreases in the following:
+    Rental and other real estate projects                 $  31,880   $       -   $       -
+    Accounts payable, deposits and accrued expenses             721           -           -
+    Project financing                                        32,004           -           -
+
+<FN>
+
+The accompaning notes to consolidated financial statements are an integral
+part of these consolidated statements.
+</TABLE>
+<PAGE>
+<PAGE>
+             AMREP CORPORATION AND SUBSIDIARIES
+             ----------------------------------
+         NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+         ------------------------------------------
+
+(1)  SUMMARY OF SIGNIFICANT ACCOUNTING AND FINANCIAL
+     -----------------------------------------------
+     REPORTING POLICIES:
+     -------------------
+
+     Principles of consolidation-
+     ---------------------------
+
+The consolidated financial statements include the accounts of AMREP
+Corporation (Company) an Oklahoma corporation, and its subsidiaries.  All
+significant intercompany accounts and transactions have been eliminated in
+consolidation.  The consolidated balance sheets are presented in an
+unclassified format, since the Company operates in the real estate industry
+and its operating cycle is greater than one year. 
+
+     Home and condominium sales-
+     --------------------------
+
+Sales of homes and condominiums and related costs and expenses are recorded
+using the accrual method at the time of closing.  Payments received from
+buyers prior to closing are recorded as deposits.
+
+     Land sales-
+     ----------
+
+Land sales are recorded when the parties are bound by the terms of the
+contract, all consideration (including adequate cash) has been exchanged and
+all conditions precedent to closing have been performed.  Profit is recorded
+either in its entirety or on the installment method depending upon, among
+other things, the ability to estimate the collectibility of the unpaid sales
+price.  In the event the buyer defaults on his obligation, the property is
+taken back into inventory or investment property at its receivable balance,
+net of any deferred profit, but not in excess of fair market value.  Until a
+sale has been recorded, revenues are deferred and total customer payments
+are reflected as deposits.  Interest on contracts recorded on the
+installment method is included in income when it is received.
+
+     Magazine circulation operations-
+     -------------------------------
+
+Revenues from distribution of periodicals and subscription fulfillment
+activities represent commissions earned from the distribution of
+publications for client publishers and fees earned from subscription
+fulfillment activities.  Magazine distribution revenues are recorded at the
+time the publications go on sale and subscription revenues are recorded when
+earned.  The publications generally are sold on a fully returnable basis,
+which is in accordance with prevailing trade practice.  All publications are
+billed after shipment but, since they are fully returnable if not ultimately
+sold to consumers, the Company provides for estimated returns by charges to
+income which are based on sales experience. 
+<PAGE>
+<PAGE>
+     Environmental management and consulting-
+     ---------------------------------------
+
+On February 1, 1992, the Company commenced operations to provide
+environmental consulting, planning and project management.  Revenues
+associated with these operations are included in "Interest and other
+operations" and the associated expenses are included in "Operating expenses-
+Other operations" in the accompanying consolidated statements of operations. 
+Income from these services is recognized on a percentage completion basis
+throughout the completion of the related contract.
+
+     Real estate inventory-
+     ---------------------
+
+Homes and condominiums completed or under construction are stated at cost,
+including interest costs capitalized during construction.
+
+Land and improvements are stated at the lower of net realizable value or
+cost (except in certain instances where property is repossessed as discussed
+under "Land sales") which includes the cost of certain amenities,
+capitalized interest and real estate taxes.  These costs are allocated to
+individual homesites based upon the relative sales value of salable
+homesites within each section of a community. 
+
+     Investment property-
+     -------------------
+
+Investment property represents vacant, undeveloped land not held for sale in
+the normal course of business.  Investment property is stated at cost,
+except in certain instances where property is repossessed as discussed under
+"Land sales".
+
+     Property, plant and equipment-
+     -----------------------------
+
+Items capitalized as part of property, plant and equipment are recorded at
+cost. Expenditures for maintenance and repair and minor renewals are charged
+to expense as incurred, while those expenditures which improve or extend the
+useful life of existing assets are capitalized. 
+
+Upon sale or other disposition of assets, their cost and the related
+accumulated depreciation or amortization are removed from the accounts and
+the resulting gain or loss, if any, is reflected in operations. 
+Depreciation and amortization of property, plant and equipment are provided
+principally by the straight-line method at various rates calculated to
+amortize the book values of the respective assets over their estimated
+useful lives which range from 5 to 50 years for utility plant and equipment
+and 3 to 40 years for all other property, plant and equipment.
+
+<PAGE>
+<PAGE>
+     Excess of cost of subsidiary over net assets acquired-
+     -----------------------------------------------------
+
+The excess of cost of subsidiary over assets acquired reflects a purchase
+made prior to October 31, 1970, the effective date of APB Opinion No. 17. 
+Such excess of cost is not being amortized to operations as management is of
+the opinion that there has been no diminution of value.
+
+     Federal income taxes-
+     --------------------
+
+The Company and its subsidiaries file a consolidated Federal income tax
+return.  Deferred taxes are provided for the income tax effect of temporary
+differences in reporting transactions for financial and tax purposes. 
+
+     Net income (loss) per share-
+     ---------------------------
+
+Net income (loss) per common share outstanding is based on the weighted
+average number of common shares outstanding during each year.  Common share
+equivalents (stock options) were excluded from the income (loss) per share
+computations because of their insignificant and/or anti-dilutive effect for
+all years presented.
+
+     Consolidated statements of cash flows-
+     -------------------------------------
+
+Temporary cash investments which have a maturity of ninety days or less are
+considered cash equivalents for purposes of these statements.
+
+     Financial statement presentation-
+     --------------------------------
+
+Certain amounts in the 1993 and 1992 consolidated financial statements have
+been reclassified to conform with the 1994 presentation.
+
+<PAGE>
+<PAGE>
+(2)  RECEIVABLES:
+     -----------
+
+Receivables consist of:
+                                                  April 30,
+                                         ---------------------------
+                                             1994           1993
+                                         ------------   ------------
+                                                 (Thousands)
+Real estate operations-                                                     
+ Mortgage and other receivables          $    9,358     $    9,201
+ Allowance for doubtful accounts               (693)        (1,000)
+                                         ------------   ------------
+                                                     
+                                              8,665          8,201
+                                                     
+ Mortgages securing collateralized 
+  mortgage obligations (see Note7)            4,457          6,608
+                                         ------------   ------------
+       
+                                         $   13,122     $   14,809
+                                         ============   ============
+                                                     
+Magazine circulation operations-                                               
+ Accounts receivable (maturing within
+  one year)                              $   88,636     $   66,325
+ Allowances for-
+  Estimated returns                         (53,035)       (44,165)
+  Doubtful accounts                          (1,320)        (1,275)
+                                         ------------   ------------
+                                                     
+                                         $   34,281     $   20,885
+                                         ============   ============
+                                                            
+Mortgage and other receivables bear interest at rates ranging from 5.5% to
+12% and result primarily from land sales.  Magazine circulation operations
+receivables collateralize a general purpose line-of-credit utilized for the
+magazine circulation operations (See Note 7).
+
+<PAGE>
+<PAGE>
+Maturities of principal on the real estate receivables, exclusive of
+mortgages securing collateralized mortgage obligations, at April 30, 1994,
+are as follows:
+
+      Year Ending April 30,
+- - ----------------------------------
+           (Thousands)                     
+   1995                              $   5,896
+   1996                                  1,135
+   1997                                  1,020
+   1998                                    141
+   1999                                     98
+   Thereafter                            1,068
+                                     -----------
+                                     $   9,358
+                                     ===========
+
+(3) REAL ESTATE INVENTORY:
+    ---------------------
+Real estate inventory consists of:
+
+                                                   April 30,
+                                           ------------------------
+                                              1994          1993
+                                           -----------   ----------
+                                                  (Thousands)
+Land and improvements held for sale or
+ development, net of valuation reserves 
+ of $2,580 and $2,825 at April 30, 1994
+ and 1993,respectively                     $  45,895     $  33,354
+                                                     
+Homes-                                               
+ Land and improvements                         8,410         5,780
+ Construction costs                           14,991         7,502
+                                                     
+Condominiums-                                        
+ Land improvements                               448           455
+ Construction costs                            1,358           919
+                                           ----------    ----------
+                                           $  71,102     $  48,010
+                                           ==========    ==========
+
+Accumulated capitalized interest costs included in real estate inventory at
+April 30, 1994 and 1993 were $2,089,000 and $1,344,000, respectively. 
+Interest costs capitalized during fiscal 1994, 1993 and 1992 were $940,000,
+$207,000 and $287,000, respectively.  Accumulated capitalized real estate
+taxes included in the inventory of land and improvements at April 30, 1994
+and 1993 were $5,064,000 and $5,225,000, respectively.  Real estate taxes
+capitalized during fiscal 1994, 1993 and 1992 were $63,000, $485,000 and
+$589,000, respectively.  Previously capitalized interest costs and real
+estate taxes charged to real estate cost of sales were $509,000, $417,000
+and $432,000 in fiscal 1994, 1993 and 1992, respectively.
+
+<PAGE>
+<PAGE>
+Due to weaknesses in several real estate markets in which the Company has
+projects, the carrying value of inventory was reduced by $2,025,000 through
+a net realizable value provision during fiscal 1992.
+
+During fiscal 1994, the Company charged off certain real estate development
+costs totaling $1,700,000 on projects not under current development.  This
+charge-off resulted from a 1994 provision of $1,100,000 and utilization of
+$600,000 of existing valuation reserves recorded in fiscal 1992 and 1991.
+
+
+(4)  RENTAL AND OTHER REAL ESTATE PROJECTS:
+     -------------------------------------
+
+Investments in rental and other real estate projects consist of the following:
+
+                                              April 30,
+                                     -------------------------
+                                         1994          1993
+                                     ----------    -----------
+                                            (Thousands)
+Rental projects -                                      
+ The Classic                         $   1,862     $  25,140
+ Colonial Pointe                             -         8,842
+PERMA, (the Freehold Clark                                  
+ Limited Partnership)                   12,312        15,284
+                                     ----------    ----------
+                                                            
+                                     $  14,174     $  49,266
+                                     ==========    ==========
+
+     The Classic-
+     -----------
+
+The Classic in West Palm Beach, Florida, a 300 unit congregate living
+facility was completed in fiscal year 1991.  In November 1993, the Company
+converted its general partner interest in The Classic at West Palm Beach
+Limited Partnership (The Classic) to a 50% limited partner interest for
+consideration of $400,000 paid by the new general partner.  In addition, the
+project financing of The Classic was restructured as discussed in Note 7. 
+Accordingly, the Company discontinued consolidating The Classic into the
+accompanying consolidated financial statements and carries its net
+investment of $1,862,000 (which will be realized through excess cash flows,
+as defined, of The Classic) on the cost recovery basis.  In order to protect
+its net investment, the Company, thus far, is funding the cash shortfalls of 
+The Classic, and in this regard, during fiscal year 1994, the Company
+established a $275,000 accrual for estimated future cash shortfalls.
+
+<PAGE>
+<PAGE>
+At April 30, 1993, the investment in The Classic and related project financing
+were as follows (thousands):
+                                   
+Land and improvements, buildings and 
+ amenities, net of accumulated depreciation
+ and amortization                               $  22,536
+                                           
+Other assets                                        2,604
+                                                ----------
+     Total investment                           $  25,140
+                                                ==========
+
+Project financing (see Note 7)                  $  22,504
+                                                ==========
+
+     Colonial Pointe-
+     ---------------
+
+Colonial Pointe in Orlando, Florida, a 247 unit apartment complex was
+completed in fiscal year 1990.  On April 29, 1994, the Company entered into
+an agreement to sell its general partner interest in the Colonial Pointe
+Apartments Limited Partnership (Colonial Pointe) for a purchase price of
+$100,000 and became a 50% limited partner.  In addition, the Company was
+relieved from its obligations under the Colonial Pointe project financing
+arrangements (see Note 7). Accordingly, the Company discontinued
+consolidating Colonial Pointe into the accompanying consolidated financial
+statements and recognized a gain of $1,245,000. 
+
+At April 30, 1993, the investment in Colonial Pointe and related project
+financing were as follows (thousands):
+
+                                   
+Land and improvements,  buildings and
+ amenities, net of accumulated depreciation
+ and amortization                               $  7,768
+                                           
+Other assets                                       1,074
+                                                ---------
+   Total investment                             $  8,842
+                                                =========
+ 
+Project financing (see Note 7)                  $  9,565
+                                                =========
+
+
+
+     PERMA, (the Freehold Clark Limited Partnership)-
+     -----------------------------------------------
+
+During fiscal 1990, the Company became a 33 1/3% limited partner of the
+Freehold Clark Associates Limited Partnership (Partnership).  The
+Partnership was formed to develop and market a 390 unit condominium housing
+project in Freehold, New Jersey.
+
+<PAGE>
+<PAGE>
+On August 24, 1992, PERMA Corporation (PERMA), a consolidated subsidiary of
+the Company, became the general partner of the Partnership with a 50%
+ownership interest. In connection therewith, PERMA obtained a 75% ownership
+interest in a related construction company and formed a 100% owned sales
+company.  As a result, the financial statements of these entities
+(collectively the PERMA Project) are included in the Company's consolidated
+financial statements.
+
+The investment in the PERMA Project and related project financing are as
+follows:
+
+                                              April 30,
+                                     -------------------------
+                                         1994          1993
+                                     ----------    -----------
+                                            (Thousands)
+                                             
+Land and improvements                $   6,618     $   6,308
+Homes inventory                          3,769         6,941
+                                     ----------    ----------
+                                        10,387        13,249
+                                                      
+Other-                                                
+  Deposits in escrow and 
+    collateral accounts                  1,012         1,324
+  Other assets                             913           711
+                                     ----------    ----------
+       Total investment              $  12,312     $  15,284
+                                     ==========    ==========
+                                                      
+Project financing (see Note 7)       $   6,205     $   9,159
+                                     ==========    ==========
+
+
+
+Initial home closings began in June, 1991.  As of April 30, 1994, 162 units
+had been completed and closed.  An additional 228 units remain to be closed,
+of which 58 are currently under construction.  There is a backlog of 54
+units sold but not yet closed. 
+
+Accumulated capitalized interest costs included in this project at April 30,
+1994 and 1993 were $2,189,000 and $2,528,000, respectively.  Interest costs
+capitalized during fiscal years 1994 and 1993 were $716,000 and $418,000,
+respectively.  Accumulated capitalized real estate taxes included in this
+project at April 30, 1994 and 1993 were $238,000 and $143,000, respectively. 
+Real estate taxes capitalized during fiscal years 1994 and 1993 were $95,000
+and $21,000, respectively.  Previously capitalized interest costs and real
+estate taxes charged to real estate cost of sales were $1,055,000 and
+$284,000 in fiscal years 1994 and 1993, respectively. 
+
+<PAGE>
+<PAGE>
+(5)  PROPERTY, PLANT AND EQUIPMENT:
+     ------------------------------
+
+Property, plant and equipment consists of:
+
+                                              April 30,
+                                     -------------------------
+                                         1994          1993
+                                     ----------    -----------
+                                            (Thousands)
+                                             
+Land, buildings and improvements     $  10,167     $   9,692
+Furniture and fixtures                   6,830         6,394
+Utility plant and equipment              4,017         3,983
+Other                                    1,863         1,581
+                                     ----------    ----------
+                                        22,877        21,650
+
+Accumulated depreciation and                          
+ amortization                          (10,774)      (10,132)
+                                     ----------    ----------
+                                     $  12,103     $  11,518
+                                     ==========    ==========
+
+Depreciation and amortization (including amounts for rental and other real
+estate projects - see Note 4) charged to operations amounted to $1,671,000,
+$1,859,000 and $1,835,000 in fiscal 1994, 1993 and 1992, respectively.
+
+(6)  OTHER ASSETS:
+     -------------
+
+Other assets are comprised of:
+
+                                              April 30,
+                                     -------------------------
+                                         1994          1993
+                                     ----------    -----------
+                                            (Thousands)
+                                             
+Prepaid and deferred expenses        $   3,837     $   3,624
+Purchased magazine distribution                      
+ contracts, net of accumulated
+ amortization of $321                    3,958             -
+Security deposits                        2,010         1,608
+Unamortized note and loan costs            151           105
+Escrow monies and collateral deposits    2,166         2,483
+Other                                    1,521           905
+                                     ----------    -----------
+                                     $  13,643     $   8,725
+                                     ==========    ===========
+
+During fiscal year 1994, the Company purchased certain magazine distribution
+contracts from an unrelated party for 575,595 shares of the Company's common
+stock valued at $4,101,000.  The total costs incurred in the purchase of the
+magazine distribution contracts including $178,100 of legal fees have been
+capitalized and are being amortized over the related contract terms of ten
+years. 
+
+<PAGE>
+<PAGE>
+(7)  DEBT FINANCING:
+     ---------------
+
+Debt financing consists of:
+
+                                              April 30,
+                                     -------------------------
+                                         1994          1993
+                                     ----------    -----------
+                                            (Thousands)
+                                             
+Notes payable -                               
+ Fixed rate long-term note           $   4,515     $   6,000
+ Line-of-credit borrowings -                          
+  Real estate operations and other       8,557         3,825
+  Magazine circulation operations       22,530        14,623
+ Denver real estate operations           7,745             -
+ Utility note payable                    1,496         1,686
+ Mortgages and other notes payable       5,895         5,765
+                                      ---------    ----------
+                                        50,738        31,899
+                                                      
+PERMA Project financing (see Note 4)     6,205         9,159
+                                                      
+Rental project financing (see Note 4)        -        32,069
+                                                      
+Collateralized mortgage
+ obligations (see Note 2)                4,406         6,473
+                                      ---------    ----------
+                                     $  61,349     $  79,600
+                                     ==========    ==========
+
+The aggregate amounts of debt maturities (after giving effect to extensions
+and renewals subsequent to April 30, 1994) are as follows:
+
+                                  PERMA 
+                                 Project
+                              Financing and
+                              Collateralized
+  Year Ending       Notes       Mortgage    
+   April 30,       Payable     Obligations     Total
+ --------------  -----------   -----------   ----------
+                        (Thousands)               
+                                            
+     1995        $   12,725    $       -     $  12,725
+     1996            26,811        6,205        33,016
+     1997             4,310            -         4,310
+     1998             3,972            -         3,972
+     1999             1,437            -         1,437
+  Thereafter          1,483        4,406         5,889
+                 -----------   ----------     ---------
+                 $   50,738    $  10,611      $ 61,349
+                 ===========   ==========     =========
+
+<PAGE>
+<PAGE>
+     Fixed Rate Long Term Note-
+     -------------------------
+
+During fiscal 1993, the Company exercised its option to exchange a
+$5,644,000 variable rate note maturing August 1, 1992 for a five-year,
+8.464% fixed rate note with quarterly interest payments beginning November
+1, 1992 and annual principal payments beginning August 1, 1993.  As of April
+30, 1994, the outstanding balance on this note was $4,515,000.  This
+borrowing imposes restrictions on, among other things, consolidated debt,
+the sale of assets and properties other than in the ordinary course of
+business, mergers and liens, and the payment of cash dividends in amounts
+exceeding one-half of the Company's net worth.  In addition, the Company had
+a 10% fixed rate long-term borrowing of $356,000 at April 30, 1993, which
+was paid off during fiscal year 1994.
+
+     Line-of-Credit Borrowings-
+     -------------------------
+
+The Company has several line-of-credit arrangements with various financial
+institutions to support general corporate and real estate operations.  These
+lines have a maximum amount available for borrowings of approximately $15.25
+million, against which approximately $8.56 million were drawn as of April
+30, 1994.  These lines-of-credit are collateralized by certain real estate
+assets and are subject to certain financial performance and other covenants.
+Borrowings pursuant to these line-of-credit agreements are due at various
+dates during fiscal 1995.  The president of one of the Company's
+subsidiaries, who is also a member of the Board of Directors of the Company,
+serves as a member of the board of directors of the financial institution
+from which $8.8 million of these lines-of-credit were obtained.
+
+The Company anticipates renewing, extending or replacing these
+lines-of-credit as they become due in fiscal 1995. The Company is also
+having discussions with other lenders seeking additional working capital,
+although there are no assurances these discussions will be fruitful.
+
+At April 30, 1994, the Company had drawn $22.53 million against a $25
+million line-of-credit arrangement which is restricted to magazine
+circulation operations.  This line-of- credit agreement is collateralized by
+accounts receivable arising from magazine circulation operations and
+contains various restrictive covenants which, among other things, restrict
+the payments of dividends and loans from the magazine circulation subsidiary
+to the Company.  Borrowings pursuant to this line-of-credit agreement are
+due August 31, 1995.
+
+<PAGE>
+<PAGE>
+The following relate to the Company's line-of-credit borrowings:
+
+                                                Year ended April 30,
+                                        -------------------------------------
+                                           1994          1993         1992
+                                        ----------    ----------   ----------
+                                            (Dollar amounts in thousands)
+                                                   
+Balance at year end                     $  31,087     $  18,448    $  19,496
+Maximum amount outstanding at any                                 
+ month end                              $  31,087     $  18,448    $  19,500
+Average monthly outstanding balance     $  18,273     $  15,700    $  17,800
+Weighted average interest rate at                                  
+ year end                                   7.47%         6.60%        7.10%
+Weighted average interest rate 
+ during the fiscal year                     6.72%         6.68%        8.47%
+
+
+    Denver real estate operations-
+    -----------------------------
+
+During fiscal 1994 the Company entered into several construction loan
+agreements with financial institutions to finance certain of its real estate
+construction operations in Denver, Colorado.  As of April 30, 1994, the
+outstanding balance on these construction loan agreements totaled
+$1,102,000.  These borrowings bear interest at prime plus 1.5% to 2.5% per
+annum and are payable as related home sales close, with the entire remaining
+balance due at various dates during fiscal 1995.  These borrowings are
+secured by the related real estate inventory.
+
+During fiscal 1994 the Company entered into a note payable to a partnership
+in connection with the acquisition of land in Denver, Colorado.  As of April
+30, 1994, the outstanding balance on this note was $6,643,000.  This note
+bears interest at prime (6.75% at April 30, 1994), not to exceed 8% or less
+than 6% per annum and is payable in annual principal payments (ranging from
+$1,200,000 to $1,400,000) and quarterly interest payments through maturity
+on February 1, 2000.  This note is secured by the related land.      
+
+    Utility note payable-
+    --------------------
+
+The Company has a ten year note in the amount of $1,496,000 at April 30,
+1994, maturing September 1, 1996 with monthly installments of principal and
+interest  at 1.5% above the prime rate (6.75% at April 30, 1994).  This note
+is collateralized by certain utility plant and equipment and other utility
+assets.
+
+    Mortgages and other notes payable-
+    ---------------------------------
+
+Mortgages and other notes payable had interest rates ranging from 6% to
+11.5% at April 30, 1994, and are primarily collateralized by property, plant
+and equipment and certain land inventory. 
+
+<PAGE>
+<PAGE>
+    PERMA Project financing-
+    -----------------------
+
+The Company had outstanding borrowings related to the PERMA Project totaling
+$6,205,000 at April 30, 1994 and $9,159,000 at April 30, 1993.  Payments are
+due as sales occur, including principal and interest at prime plus 1%, until
+maturity.  Subsequent to April 30, 1994, the maturity dates were extended
+from July 1, 1994 to December 31, 1995.
+
+    Rental project financing-
+    ------------------------
+
+The Company utilized financing arrangements for The Classic and Colonial
+Pointe projects (see Note 4) which included certain non-recourse provisions. 
+The notes payable entered into pursuant to these arrangements are secured by
+all real and personal property and all future rent receipts of The Classic
+and Colonial Pointe.
+
+The financing arrangements for The Classic and Colonial Pointe were amended
+in connection with the restructuring of the partnership agreements (See Note
+4) whereby the Company was released from its obligations under these
+financing arrangements.  In connection with the release from The Classic
+obligation, the Company paid $387,000 cash and issued 66,193 shares of the
+Company's common stock valued at $595,737 to the holder of The Classic
+obligation primarily for accrued interest.
+
+    Collateralized mortgage obligations-
+    -----------------------------------
+
+In fiscal years 1986 through 1988, AMREP Financial Corporation, a subsidiary
+of the Company, participated in the issuance of collateralized mortgage
+obligations (CMO's), with original principal balances aggregating
+$13,750,000, through an unrelated financial intermediary.  Each series, (12
+in total) was issued in three to five classes bearing interest at rates
+ranging from 7.6% to 12.5% per annum, with stated maturities, assuming no
+prepayments, from January, 2015 to October, 2017.  CMO payment schedules
+vary with each series, and payments are due quarterly, semi-annually and
+annually.  Actual maturities vary to the extent of principal prepayments on
+the mortgage loans collateralizing the CMO's. These CMO's are collateralized
+only by the principal and the accrued interest receivable (see Note 2) of
+the related mortgage loans.
+
+The Company was out of compliance with certain of its debt covenants for
+which waiver letters have been obtained.
+
+<PAGE>
+<PAGE>
+(8)  BENEFIT PLANS:
+     --------------
+
+     Stock option plans-
+     ------------------
+
+A summary of activity in the Company's 1992 Stock Option Plan, the
+Non-Employee Directors Option Plan and the 1982 Incentive Stock Option Plan
+is presented below:
+
+                                              Year Ended April 30,
+                                       -----------------------------------
+                                          1994        1993        1992
+                                       ----------  ----------  -----------
+Common stock options outstanding                                     
+ at beginning of year                    248,000     285,250     302,850
+                                                         
+Granted at $4.06 to $8.88 per share       43,000       5,000      90,100
+                                                         
+Options exercised at $4.06 to $7.44
+ per share                               (16,547)     (1,500)          -
+                                                         
+Expired or cancelled                     (25,128)    (40,750)   (107,700)
+                                       ----------  ----------  -----------
+                                                         
+Common stock options outstanding
+ at end of year                          249,325     248,000     285,250
+                                       ==========  ==========  ===========
+Available for future grant at 
+ year end                                282,500     325,000     151,747
+                                       ==========  ==========  ===========
+
+During fiscal 1993, the shareholders approved the 1992 Stock Option Plan as
+well as the Non-Employee Directors Option Plan for which 315,000 and 15,000
+shares, respectively, were reserved.  At April 30, 1994, options to purchase
+42,000 shares under the Stock Option Plan and 5,500 shares under the
+Non-Employee Directors Option Plan were outstanding at prices ranging from
+$5.13 to $8.88 per share and 273,000 and 9,500 shares were available for
+future grant, respectively. 
+
+The 1982 Incentive Stock Option Plan expired on June 30, 1992.  However,
+options to purchase 201,825 shares remain outstanding at April 30, 1994 at
+prices ranging from $4.06 to $6.88 per share.
+
+Under the Company's 1992 Stock Option Plan shares are reserved for issuance
+to key employees.  Options may be granted in such amounts, at such times,
+and with such exercise prices as the stock option committee may determine. 
+
+Options heretofore granted are exercisable over a two to four year period
+beginning one year from date of grant and certain of them are immediately
+exercisable under certain circumstances as stated in the respective plans. 
+
+<PAGE>
+<PAGE>
+The Non-Employee Directors Option Plan provides for an automatic issuance of
+options to purchase 500 shares of common stock to each non-employee director
+annually at the fair market value at the date of grant.  The options are
+exercisable one year after the date of grant and expire five years after the
+date of grant. 
+
+     Stock ownership plan-
+     --------------------
+
+During the fiscal year, the Company's stock ownership plan was merged with
+the Company's savings plan.  The net assets available for stock ownership
+plan benefits at July 29, 1993, were transferred to the savings plan. 
+
+     Savings plan-
+     ------------
+
+The Company has a savings plan to which the Company makes contributions. 
+The plan provides for Company contributions of 16 2/3% of eligible
+employees' defined contributions up to a maximum of 1% of such employees'
+compensation.  The Company's contributions to the plan amounted to $113,000,
+$99,000 and $89,000, in fiscal 1994, 1993 and 1992, respectively.
+
+     Retirement plan-
+     ---------------
+
+The Company's retirement plan is a non-contributory, defined benefit plan
+which covers substantially all full-time employees.  The plan provides
+retirement benefits based on length of service and a percentage of
+qualifying compensation during employment.  In fiscal 1994, 1993 and 1992,
+the Company contributed $693,000, $806,000 and $270,000, respectively, to
+the plan.  Plan assets are invested primarily in United States Treasury
+obligations, equity securities and money market funds.  Net periodic pension
+cost for fiscal 1994, 1993 and 1992 was comprised of the following
+components:
+
+                                       Year Ended April 30,
+                                ---------------------------------
+                                   1994        1993        1992
+                                ----------  ----------  ---------
+                                     (Thousands)
+Service cost - benefits 
+ earned during the period        $   762     $   709     $   582
+Interest cost on projected 
+ benefit obligation                1,122       1,012         892
+Actual return on assets             (673)     (1,022)     (1,160)
+Net amortization and deferral       (599)       (132)         71
+                                 --------    --------    --------
+                                                         
+Net periodic pension cost        $   612     $   567     $   385
+                                 ========    ========    ========
+
+<PAGE>
+<PAGE>
+Assumptions used in the accounting were:
+
+                                            Year Ended April 30,
+                                      --------------------------------
+                                        1994        1993        1992
+                                      --------   --------    ---------
+                                                 
+Discount rates                          8.00%       8.25%       8.25%
+Rates of increase in compensation
+ levels                                 5.00%       5.25%       5.25%
+Expected long-term rate of return 
+ on assets                              9.00%       9.00%       9.00%
+
+The following table sets forth the plan's funded status and amounts
+recognized in the Company's consolidated balance sheets:
+
+                                                            April 30,
+                                                     -------------------------
+                                                        1994          1993
+                                                     -----------   -----------
+                                                            (Thousands)
+Actuarial present value of benefit obligations:
+  Vested benefit obligation                          $  11,377     $  10,093
+                                                     ===========   ===========
+
+  Accumulated benefit obligation                     $  12,153     $  10,732
+                                                     ===========   ===========
+                                                           
+  Projected benefit obligation                       $  15,468     $  13,671
+Plan assets at fair value                               13,736        13,042
+                                                     -----------   -----------
+                                                           
+Excess of projected benefit obligation 
+ over plan assets                                       (1,732)         (629)
+Unrecognized net loss                                    2,472         1,416
+Unrecognized prior service cost                             99           110
+Unrecognized net transition asset                         (417)         (556)
+                                                     -----------   -----------
+                                                           
+Prepaid pension cost                                 $     422     $     341
+                                                     ===========   ===========
+
+<PAGE>
+<PAGE>
+(9)   INCOME TAXES:
+      ------------
+
+Effective May 1, 1993, the Company adopted Statement of Financial Accounting
+Standards (SFAS) No. 109, "Accounting for Income Taxes".  Adoption of SFAS
+No. 109 had no impact on the tax liability recorded by the Company as of the
+date of adoption.  The Company accounted for income taxes under SFAS No. 96
+during fiscal years 1993 and 1992.
+
+The provision (benefit) for income taxes consists of the following:
+
+                                                     Year Ended April 30,
+                                              ----------------------------------
+                                                  1994        1993       1992
+                                              ----------  ----------  ----------
+                                                          (Thousands)
+Current:                                            
+ Federal                                      $   (405)   $   (960)   $   (647)
+ State                                              86          11          23
+                                              ----------  ----------  ----------
+                                                              
+                                                  (319)       (949)       (624)
+                                              ----------  ----------  ----------
+Deferred:                                                     
+ Federal                                         3,980         982      (2,773)
+ State                                             384          (8)       (787)
+ Benefit for operating loss carry forwards      (5,826)          -           -
+ Net change in valuation allowance               3,235           -           -
+                                              ----------  ----------  ----------
+                                                               
+                                                 1,773         974      (3,560)
+                                              ----------  ----------  ----------
+                                                               
+Total provision (benefit) for income taxes    $  1,454    $     25    $ (4,184)
+                                              ==========  ==========  ==========
+
+<PAGE>
+<PAGE>
+Components of net deferred income tax liability are as follows:
+
+                                                     Year ended April 30,
+                                               --------------------------------
+                                                    1994              1993
+                                                -------------     -------------
+                                                          (Thousands)
+Deferred income tax assets-                        
+  Tax loss carryforwards (Federal and state)    $    5,826        $        -
+  Real estate inventory valuation                    1,607             1,004
+  Other                                                708                 -
+                                                ------------      ------------
+  Total deferred income tax assets                   8,141             1,004
+                                                ------------      ------------
+Deferred income tax liabilities-                           
+  Installment sales                                 (2,843)           (3,268)
+  Reserve for periodicals and paperbacks           (16,853)          (10,653)
+  Gain on partnership restructuring                   (473)                -
+  Depreciable assets                                (1,138)           (2,104)
+  Expenses capitalized for financial                        
+   reporting purposes, expensed for tax             (1,967)           (1,144)
+  Differences related to timing of
+   partnership income                               (1,033)             (132)
+  Other                                             (4,763)           (6,094)
+                                                ------------      ------------
+                                                           
+  Total deferred income tax liability              (29,070)          (23,395)
+                                                ------------      ------------
+                                                           
+  Valuation allowance for realization of
+   state tax loss carryforwards                     (3,235)                -
+                                                ------------      ------------
+                                                           
+ Net deferred income tax liability              $  (24,164)       $  (22,391)
+                                                ============      ============
+
+The following table reconciles taxes at the U.S. Federal statutory income tax
+rate to the Company's actual tax provision (benefit):
+
+                                                     Year ended April 30,
+                                              ----------------------------------
+                                                 1994        1993        1992
+                                              ----------  ----------  ----------
+                                                         (Thousands)
+Computed tax provision (benefit) at 
+  statutory rate                              $   1,301   $      23   $  (3,743)
+Increase (reduction) in tax resulting from:                                    
+  State income taxes, net of Federal
+   income tax effect                                153           2        (504)
+  Other                                               -           -          63
+                                              ----------  ----------  ----------
+                                                              
+Actual tax provision (benefit)                $   1,454   $      25   $  (4,184)
+                                              ==========  ==========  ==========
+
+
+<PAGE>
+<PAGE>
+At April 30, 1994, the Company had Federal net operating loss carryforwards
+totaling $5,347,189, of which $1,000,944 expire in fiscal year 2007 and
+$4,346,245 in fiscal year 2009.
+
+(10) COMMITMENTS AND CONTINGENCIES:
+     -----------------------------
+
+     Noncancellable leases-
+     ---------------------
+
+The Company is obligated under long-term noncancellable leases for equipment
+and various real estate properties. Certain real estate leases provide that
+the Company will pay for taxes, maintenance and insurance costs and include
+renewal options.  Rental expense for fiscal 1994, 1993 and 1992 was
+approximately $3,144,000, $3,216,000 and $3,500,000, respectively.  The
+approximate minimum rental commitments for years subsequent to April 30,
+1994, are as follows:
+
+         Year Ending April 30,
+         ---------------------
+              (Thousands)
+                                     
+                 1995                   $   1,117
+                 1996                         689
+                 1997                         389
+                 1998                         175
+                 1999                          55
+                                        ----------
+
+              Total future minimum      $   2,425
+                rental payments         ==========
+
+     Revenue agent review-
+     --------------------
+
+During fiscal year 1992, the Internal Revenue Service completed reviewing
+tax returns for fiscal years 1984 through 1989, and issued a report thereon
+on January 23, 1992.  Management vigorously objected to all the significant
+proposed adjustments and believes it was successful in reaching an agreement
+with the IRS on all but one of those adjustments.  No significant additional
+tax liability or payments are expected from the adjustments to which the
+Company believes the IRS has agreed.  Were the remaining contested
+adjustment to be decided in favor of the IRS in every respect, an obligation
+for taxes, which has already been recorded in the Company's financial
+statements as a deferred tax liability, at an estimated amount for all tax
+years from 1984 through 1994 of approximately $16 million plus interest
+thereon, which has not been recorded but has been estimated through fiscal
+1994, of approximately $15 million could result.  Management continues to
+vigorously object to this entire proposed adjustment.  Management plans to
+continue using the methods of reporting transactions for income tax purposes
+which it has used in prior years. Management, its tax advisors and its
+outside counsel believe the Company's methods are and have been correct
+under the Internal Revenue Code.  In addition, no amount is expected to be
+payable to the IRS as a result of the review within the coming year.
+
+<PAGE>
+<PAGE>
+The Company has been notified by the IRS that an audit of fiscal years 1990
+through 1992 will commence soon.
+
+     Rio Rancho lot exchanges-
+     ------------------------
+
+In connection with homesite sales at Rio Rancho, New Mexico, if water,
+electric and telephone utilities have not reached the lot site when a
+purchaser is ready to build a home, the Company is obligated to exchange a
+lot in an area then serviced by such utilities for a lot of the purchaser,
+without cost to the purchaser.  The Company does not incur significant costs
+related to the exchange of lots. 
+
+(11) LITIGATION:
+     ----------
+
+The Company and/or its subsidiaries are involved in various claims and legal
+actions incident to their operations, which in the opinion of management,
+based upon advice of counsel, will not materially affect the consolidated
+financial position or results of operations of the Company and its
+subsidiaries.
+
+(12) FAIR VALUE OF FINANCIAL INSTRUMENTS:
+     -----------------------------------
+
+Statement of Financial Accounting Standards No. 107, "Disclosures about Fair
+Value of Financial Instruments" (SFAS 107), requires the Company to disclose
+the estimated fair value of its financial instruments.  The following
+methods and assumptions were used to estimate the fair value of each class
+of financial instruments for which the fair value differs from the carrying
+value. 
+
+     Mortgage receivables-
+     --------------------
+
+The fair value of the Company's long-term fixed-rate mortgage receivables is
+estimated to be $6.4 million versus a carrying amount of $6.2 million as of
+April 30, 1994 and $5.8 million versus a carrying amount of $5.7 million as
+of April 30, 1993, based on the discounted value of future cash flows using
+the current rates at which similar loans would be made.
+
+     Notes payable and rental and other real estate project financing-
+     ----------------------------------------------------------------
+
+The fair value of the Company's long-term fixed-rate notes payable and
+rental and other real estate project financing, is estimated to be $8.9
+million versus a carrying amount of $9.0 million  as of April 30, 1994 and
+$43.6 million versus $41.3 million as of April 30, 1993, based on the
+discounted value of future cash flows using the current rates at which the
+Company believes it could obtain similar financing.
+
+<PAGE>
+<PAGE>
+     CMO's (liabilities) and related mortgages securing CMO's (assets)-
+     -----------------------------------------------------------------
+
+The fair value of the Company's mortgages securing CMO's (assets) of $4.6
+million at April 30, 1994 and $6.7 million at April 30, 1993 (versus a
+carrying amount of $4.5 million at April 30, 1994 and $6.6 million at April
+30, 1993) was estimated based on the present value of residual cash flows
+plus the fair value of the CMO's.  The fair value of the CMO's (liabilities)
+was assumed to be equal to the outstanding principal balance plus accrued
+interest totaling $4.5 million at April 30, 1994 and $6.6 million at April
+30, 1993.
+
+     Futures Contracts-
+     -----------------
+
+During fiscal 1994, the Company entered into futures contracts to hedge
+price fluctuations associated with lumber costs incurred by the Company's
+construction subsidiaries. The gains and losses resulting from the futures
+contracts transactions are accounted for as real estate cost of sales. Open
+futures contracts at April 30, 1994, totaling $361,000, are reflected at
+their fair market values. 
+
+
+(13) INFORMATION ABOUT THE COMPANY'S OPERATIONS IN DIFFERENT INDUSTRY SEGMENTS:
+     -------------------------------------------------------------------------
+
+The Company operates principally in two industries, real estate and magazine
+circulation operations.  Real estate operations involve the construction and
+sale of single- family homes, condominiums and other projects, as well as
+the subdivision of large tracts of land for sale to individuals, builders
+and others.  Magazine circulation operations involve national and
+international distribution of periodicals and paperback books, and
+subscription fulfillment activities on behalf of various client publishers. 
+Total revenue by industry includes revenues from unaffiliated customers as
+reported in the accompanying consolidated statements of operations. 
+Operating income represents total revenue less operating expenses.  
+
+In computing operating income, general corporate expenses, interest expense
+and income taxes are excluded.  Selling expense is allocated between
+industry segments based on the Company's evaluation of the work performed
+for each segment. 
+
+Identifiable assets by industry are those assets that are used in the
+Company's operations in each industry segment. 
+
+The following schedules set forth summarized data relative to the industry
+segments:
+
+<PAGE>
+<PAGE>
+                              
+<TABLE>
+<CAPTION>
+                                             Magazine    
+                              Real Estate   Circulation     Other  
+                              Operations    Operations    Operations   Corporate   Eliminations   Consolidated
+                              ----------    ----------    ----------   ---------   ------------   ------------
+<S>                           <C>           <C>           <C>          <C>         <C>            <C> 
+1994 (Thousands):                                                                   
+ Net revenues from                                                                  
+   unaffiliated customers     $   90,113    $   35,128    $      847   $       -   $         -    $   126,088
+ Intersegment revenues                 -            79            72           -          (151)             -
+                              ----------    ----------    ----------   ---------   ------------   ------------
+                                                                                    
+   Total revenue              $   90,113    $   35,207    $      919   $       -   $      (151)   $   126,088
+                              ==========    ==========    ==========   =========   ============   ============
+
+
+ Operating income             $    7,013    $    5,169    $      169   $       -   $      (151)   $    12,200
+                              ==========    ==========    ==========   =========   ============ 
+
+ Corporate expenses                                                                                    (3,684)
+ Interest (including
+   $2,055 in operating 
+   expenses-rental projects)                                                                           (4,690)
+                                                                                                  -------------
+    Income before           
+      provision for income
+      taxes                                                                                       $     3,826
+                                                                                                  ============
+ Identifiable assets at 
+   April 30, 1994             $  125,620    $   51,135    $      405   $   1,697   $          -   $   178,857
+                              ==========    ==========    ==========   =========   ============   ============
+                                                                                    
+ Identifiable depreciation    $    1,151    $      482    $        -   $      38   $          -   $     1,671
+                              ==========    ==========    ==========   =========   ============   ============
+
+ Identifiable capital 
+   expenditures               $      996    $      848    $        -   $       8   $          -   $     1,852
+                              ==========    ==========    ==========   =========   ============   ============
+</TABLE>
+<PAGE>
+<PAGE>
+                              
+<TABLE>
+<CAPTION>
+                                             Magazine    
+                              Real Estate   Circulation     Other  
+                              Operations    Operations    Operations   Corporate   Eliminations   Consolidated
+                              ----------    ----------    ----------   ---------   ------------   ------------
+<S>                           <C>           <C>           <C>          <C>         <C>            <C>  
+1993 (Thousands):                                                                   
+ Net revenues from                                                                  
+   unaffiliated customers     $   63,244    $   29,627    $      789   $       -   $         -    $    93,660
+ Intersegment revenues                 -           230            90           -          (320)             -
+                              ----------    ----------    ----------   ---------   ------------   ------------
+                                                                                    
+   Total revenue              $   63,244    $   29,857    $      879   $       -   $      (320)   $    93,660
+                              ==========    ==========    ==========   =========   ============   ============
+
+
+ Operating income             $    6,952    $    3,197    $      218   $       -   $      (320)   $    10,047
+                              ==========    ==========    ==========   =========   ============ 
+
+ Corporate expenses                                                                                    (3,730)
+ Interest (including
+   $3,223 in operating 
+   expenses-rental projects)                                                                           (6,251)
+                                                                                                  ------------
+    Income before           
+      provision for income
+      taxes                                                                                       $        66
+                                                                                                  ============
+ Identifiable assets at 
+   April 30, 1993             $  142,593    $   35,093    $      277   $   1,981   $          -   $   179,944
+                              ==========    ==========    ==========   =========   ============   ============
+                                                                                    
+ Identifiable depreciation    $    1,387    $      435    $        -   $      37   $          -   $     1,859
+                              ==========    ==========    ==========   =========   ============   ============
+
+ Identifiable capital 
+   expenditures               $    1,315    $      255    $        -   $      21   $          -   $     1,591
+                              ==========    ==========    ==========   =========   ============   ============
+</TABLE>
+<PAGE>
+<PAGE>
+                              
+<TABLE>
+<CAPTION>
+                                             Magazine    
+                              Real Estate   Circulation     Other  
+                              Operations    Operations    Operations   Corporate   Eliminations   Consolidated
+                              ----------    ----------    ----------   ---------   ------------   ------------
+<S>                           <C>           <C>           <C>          <C>         <C>            <C>  
+1992 (Thousands):                                                                   
+ Net revenues from                                                                  
+   unaffiliated customers     $   45,967    $   27,260    $      138   $       -   $         -    $    73,365
+ Intersegment revenues                 -           283             -           -          (283)             -
+                              ----------    ----------    ----------   ---------   ------------   ------------
+                                                                                    
+   Total revenue              $   45,967    $   27,543    $      138   $       -   $      (283)   $    73,365
+                              ==========    ==========    ==========   =========   ============   ============
+
+
+ Operating income             $   (2,720)   $    2,648    $       50   $       -   $      (283)   $      (305)
+                              ==========    ==========    ==========   =========   ============ 
+
+ Corporate expenses                                                                                    (3,779)
+ Interest (including
+   $3,083 in operating 
+   expenses-rental projects)                                                                           (6,926)
+                                                                                                  -------------
+    Loss before           
+      benefit for income
+      taxes                                                                                       $   (11,010)
+                                                                                                  ============
+ Identifiable assets at 
+   April 30, 1992             $  135,218    $   31,483    $       52   $   1,637   $          -   $   168,390
+                              ==========    ==========    ==========   =========   ============   ============
+                                                                                    
+ Identifiable depreciation    $    1,332    $      466    $        -   $      37   $          -   $     1,835
+                              ==========    ==========    ==========   =========   ============   ============
+
+ Identifiable capital 
+   expenditures               $    1,915    $      176    $        -   $       7   $          -   $     2,098
+                              ==========    ==========    ==========   =========   ============   ============
+</TABLE>
+<PAGE>
+<PAGE>
+Selected Quarterly Financial Data (Unaudited)
+- - ---------------------------------------------
+
+                              (In thousands of dollars except per share amounts)
+                                                   Quarter Ended
+                              --------------------------------------------------
+                                  July 31,   October 31, January 31,  April 30,
+                                    1993        1993        1994        1994
+                              -------------  ----------  ----------  -----------
+
+Revenues                         $  31,012   $  29,092   $  31,382   $  34,602
+Real estate cost of sales           15,782      14,150      16,305      18,202
+Operating expenses                  10,360       9,514      10,746       9,579
+                                                    
+Net Income (A)                   $     634   $     164   $     664   $     910
+                                 ==========  ==========  ==========  ===========
+                                                    
+Net Income Per Share (A)         $    0.10   $    0.02   $    0.09   $    0.12
+                                 ==========  ==========  ==========  ===========
+                                                    
+                                                    
+
+
+                                                   Quarter Ended
+                              --------------------------------------------------
+                                  July 31,   October 31, January 31,  April 30,
+                                    1992        1992        1993        1993
+                              -------------  ----------  ----------  -----------
+
+Revenues                         $  21,979   $  23,529   $  22,431   $  25,721
+Real estate cost of sales            8,879      10,175       9,360      11,386
+Operating expenses (B)               8,972       9,292       9,632      10,206
+                                                    
+Net Income (Loss)                $     237   $      61   $    (393)  $     136
+                                 ==========  ==========  ==========  ===========
+                                                    
+Net Income (Loss) Per Share      $    0.04   $    0.01   $   (0.06)  $    0.02
+                                 ==========  ==========  ==========  ===========
+                                                    
+                                                    
+
+(A)  As discussed in Note 3 of Notes to Consolidated Financial Statements,
+during the fourth quarter of fiscal year 1994, the Company reduced the carrying
+value of real estate inventory by $1,100,000.
+
+(B)  As discussed in Note 1 of Notes to Consolidated Financial Statements
+certain amounts have been reclassified to conform with fiscal year 1994
+presentation.
+
+<PAGE>
+<PAGE>
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+         Financial Disclosure.
+- - ------------------------------------------------------------------------
+
+             Not Applicable.
+
+
+                              PART III
+
+        The information called for by Part III is hereby incorporated by
+reference from the information set forth and under the headings "Voting
+Securities", "Security Ownership of Management", "Election of Directors", and
+"Executive Compensation" in Registrant's definitive proxy statement for the
+1994 Annual Meeting of Shareholders, which meeting involves the election of
+directors, such definitive proxy statement to be filed with the Securities and
+Exchange Commission pursuant to Regulation 14A within 120 days after the end of
+the fiscal year covered by this Annual Report on Form 10-K.  In addition,
+information on Registrant's executive officers has been included in Part I
+above under the caption "Executive Officers of the Registrant".
+
+<PAGE>
+<PAGE>
+                              PART IV
+
+Item 14.     Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+- - ------------------------------------------------------------------------------
+
+             (a)  1.  The following financial statements and supplementary
+financial information are filed as part of this report:
+
+                  AMREP Corporation and Subsidiaries:
+
+                       Report of Independent Public
+                            Accountants -
+                            Arthur Andersen & Co.
+                       Consolidated Balance Sheets - April 30,
+                            1994 and 1993
+                       Consolidated Statements of Operations for
+                            the Three Years Ended April 30,
+                            1994
+                       Consolidated Statements of Shareholders'
+                            Equity for the Three Years Ended
+                            Apri1 30, 1994
+                       Consolidated Statements of Cash Flows
+                            for the Three Years Ended
+                            April 30, 1994
+                       Notes to Consolidated Financial
+                            Statements
+                       Selected Quarterly Financial Data
+
+             2.  The following financial statement schedules are filed as part
+of this report:
+
+                       AMREP Corporation and Subsidiaries:
+
+
+                       Schedule II          Amounts Receivable
+                                            from Related Parties
+                                            and Underwriters,
+                                            Promoters, and
+                                            Employees other than
+                                            Related Parties
+
+                       Schedule VIII        Valuation and Qualifying
+                                            Accounts
+
+                       Schedule X           Supplementary Income
+                                            Statement Information
+
+
+       Financial statement schedules not included in this Annual Report on Form
+10-K have been omitted because they are not applicable or the required
+information is shown in the financial statements or notes thereto.
+
+                  3.  Exhibits:
+
+                          The exhibits filed in this report are listed in the  
+                  Exhibit Index.
+<PAGE>
+<PAGE>
+                          The Registrant agrees, upon request of the
+                  Securities and Exchange Commission, to file as an exhibit
+                  each instrument defining the rights of holders of
+                  long-term debt of the Registrant and its consolidated
+                  subsidiaries which has not been filed for the reason that
+                  the total amount of securities authorized thereunder does
+                  not exceed 10% of the total assets of the Registrant and
+                  its subsidiaries on a consolidated basis.
+
+        (b)  During the quarter ended April 30, 1994, Registrant filed:  (i) a
+Current Report on Form 8-K (Date of earliest event reported: January 13, 1994)
+reporting under Item 5. Other Events and (ii) a Current Report on Form 8-K
+(Date of earliest event reported: March 1, 1994) reporting under Item 1.  -
+Changes in Control of Registrant and Item 5.  Other Events. 
+<PAGE>
+<PAGE>                            SIGNATURES
+
+      Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                               AMREP CORPORATION
+                                  (Registrant)
+
+Dated:  July 28, 1994         By  /s/ Anthony B. Gliedman
+                                 ------------------------
+                                 Anthony B. Gliedman
+                                 Chairman of the Board and President
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of Registrant
+and in the capacities and on the dates indicated.
+
+  /s/ Anthony B. Gliedman           /s/ Mohan Vachani
+  -----------------------           -----------------
+  Anthony B. Gliedman               Mohan Vachani
+  Chairman of the Board,            Senior Vice President - Chief
+  President and Director            Financial Officer and Director
+  Principal Executive Officer       Principal Financial
+                                    Officer
+
+Dated:  July 28, 1994             Dated:  July 28, 1994
+
+  /s/ Rudolph J. Skalka
+  ---------------------             -------------------
+  Rudolph J. Skalka                 Mitchell Roberts
+  Vice President-Finance            Director
+  Principal Accounting Officer
+
+Dated:  July 28, 1994             Dated:  July       , 1994
+
+  /s/ Jerome Belson                 /s/ Samuel N. Seidman
+  -----------------                 ---------------------
+  Jerome Belson                     Samuel N. Seidman
+  Director                          Director
+
+Dated:  July 28, 1994             Dated:  July 28, 1994
+
+  /s/ Joseph Cohen                                    
+  ----------------                  ------------------
+  Joseph Cohen                      S. Fred Singer
+  Director                          Director
+
+Dated:  July 28, 1994             Dated:  July       , 1994
+
+  /s/ Daniel Friedman               /s/ James Wall
+  -------------------               --------------
+  Daniel Friedman                   James Wall
+  Director                          Director
+
+Dated:  July 28, 1994             Dated:  July 28, 1994
+
+
+  ----------------
+  Nick G. Karabots
+  Director
+
+Dated:  July       , 1994
+<PAGE>
+<PAGE>
+                              
+             AMREP CORPORATION AND SUBSIDIARIES
+             ----------------------------------
+    SCHEDULE II - AMOUNTS RECEIVABLE FROM RELATED PARTIES
+    -----------------------------------------------------
+         AND UNDERWRITERS, PROMOTERS, AND EMPLOYEES
+         ------------------------------------------
+                 OTHER THAN RELATED PARTIES
+                 --------------------------
+
+
+
+                         Balance at
+                         beginning                                Balance at end
+Name of debtor           of period     Additions     Deductions     of period
+- - ----------------------   ----------   -----------   ------------  --------------
+
+Anthony Gliedman, CEO,
+loan to acquire AMREP 
+Corporation stock, due 
+12/17/98, interest
+payments due annually
+at 6.896%                 $      -     $ 150,500      $       -      $ 150,500
+
+
+<PAGE>
+<PAGE>
+             AMREP CORPORATION AND SUBSIDIARIES
+             ----------------------------------
+SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS (Page 1 of 2)
+- - ---------------------------------------------------------------
+                         (Thousands)
+<TABLE>
+<CAPTION>
+                                                 Additions
+                                          ------------------------
+                                            Charges 
+                              Balance at  (Credits) to   Charged                     Balance
+                              Beginning    Costs and     to Other                    at End 
+                              of Period    Expenses      Accounts   Deductions(A)   of Period
+                              ---------    --------      --------   -------------   ---------
+     Description 
+     -----------
+
+<S>                           <C>           <C>          <C>         <C>            <C>      
+FOR THE YEAR ENDED
+ APRIL 30, 1994:
+  Allowance for doubtful
+   accounts (included in
+   receivables - real 
+   estate operations on
+   the consolidated
+   balance sheet)             $   1,000     $    116     $      -    $      423     $     693
+                              ---------     --------     --------    ----------     ---------
+
+  Allowance for estimated
+   returns and doubtful
+   accounts (included in
+   receivables - magazine
+   circulation operations
+   on the consolidated
+   balance sheet)             $  45,440     $  9,230     $      -    $      315     $  54,355
+                              ---------     --------     --------    ----------     ---------
+
+
+FOR THE YEAR ENDED
+APRIL 30, 1993:
+  Allowance for doubtful
+   accounts (included in
+   receivables - real 
+   estate operations on
+   the consolidated
+   balance sheet)             $     878     $    158     $      -    $       36     $   1,000
+                              ---------     --------     --------    ----------     ---------
+
+  Allowance for estimated
+   returns and doubtful
+   accounts (included in
+   receivables - magazine
+   circulation operations
+   on the consolidated
+   balance sheet)             $  46,483     $   (76)     $      -    $      967     $  45,440
+                              ---------     --------     --------    ----------     ---------
+</TABLE>
+<PAGE>
+<PAGE>
+             AMREP CORPORATION AND SUBSIDIARIES
+             ----------------------------------
+SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS (Page 2 of 2)
+- - ---------------------------------------------------------------
+                         (Thousands)
+<TABLE>
+<CAPTION>
+                                                 Additions
+                                          ------------------------
+                                            Charges 
+                              Balance at  (Credits) to   Charged                     Balance
+                              Beginning    Costs and     to Other                    at End 
+                              of Period    Expenses      Accounts   Deductions(A)   of Period
+                              ---------    --------      --------   -------------   ---------
+     Description 
+     -----------
+
+<S>                           <C>           <C>          <C>         <C>            <C>      
+FOR THE YEAR ENDED
+ APRIL 30, 1992:
+  Allowance for doubtful
+   accounts (included in
+   receivables - real 
+   estate operations on
+   the consolidated
+   balance sheet)             $     681     $    210     $      -    $       13     $     878
+                              ---------     --------     --------    ----------     ---------
+
+  Allowance for doubtful
+   accounts (included in
+   receivables - magazine
+   circulation operations
+   on the consolidated
+   balance sheet)             $  43,654     $  3,102     $      -    $      273     $  46,483
+                              ---------     --------     --------    ----------     ---------
+<FN>
+NOTE:  (A) Uncollectible accounts written off and cancellations elated to
+installment sales.
+</TABLE>
+<PAGE>
+<PAGE>
+             AMREP CORPORATION AND SUBSIDIARIES
+             ----------------------------------
+         SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT
+         -------------------------------------------
+                         INFORMATION
+                         -----------
+                              
+                                                          Amount
+                                                          Charged
+                                                        To Costs and
+                                                          Expenses
+                                                         (Thousands)
+               Description                              ---------------
+               -----------
+
+FOR THE YEAR ENDED APRIL 30, 1994:                            
+ Amortization of deferred costs                         $       3,709
+                                                              
+FOR THE YEAR ENDED APRIL 30, 1993:                            
+ Maintenance and repairs                                $       1,020
+ Amortization of deferred costs                         $       2,617
+ Taxes, other than payroll and income taxes             $         916
+                                                              
+FOR THE YEAR ENDED APRIL 30, 1992:                            
+ Maintenance and repairs                                $         949
+ Amortization of deferred costs                         $       2,962
+ Taxes, other than payroll and income taxes             $         758
+                                                              
+                              
+                              
+Note:  The above schedule includes only those costs for each fiscal year which
+exceeds one percent of total sales and revenues as required by Regulation S-X
+Rule 12-11.
+
+<PAGE>
+<PAGE>
+
+                           EXHIBIT INDEX
+
+
+
+
+           (3)(i)(a)  Articles of Incorporation, as amended - Incorporated
+                      by reference to Exhibit (3)(i)(a) to Annual
+                      Report on Form 10-K of Registrant for the
+                      fiscal year ended April 30, 1993.
+           
+           (3)(i)(b)  Certificate of Merger - Incorporated by
+                      reference to Exhibit (3)(i)(b) to Annual
+                      Report on Form 10-K of Registrant for the
+                      fiscal year ended April 30, 1993.
+           
+           (3)(ii)    By-Laws as restated July 2, 1991 -
+                      Incorporated by reference to Exhibit (3)(d)
+                      to Annual Report on Form 10-K of Registrant
+                      for the fiscal year ended April 30, 1991.
+           
+           (4)(a)     Loan Agreement between American National
+                      Bank and Trust Company of Chicago and Kable
+                      News Company, Inc. dated as of September 30,
+                      1992 - Incorporated by reference to Exhibit
+                      4(a) to Registrant's Quarterly Report on
+                      Form 10-Q for the quarter ended October 31,
+                      1992.
+           
+           (4)(b)     First Amendment to Loan Agreement between
+                      American National Bank and Trust Company of
+                      Chicago and Kable News Company, Inc. dated
+                      as of July 12, 1993 - Incorporated by
+                      reference to Exhibit 4(a) to Registrant's
+                      Quarterly Report on Form 10-Q for the
+                      quarter ended July 31, 1993.
+           
+           (4)(c)     Second Amendment to Loan Agreement between
+                      American National Bank and Trust Company of
+                      Chicago and Kable News Company, Inc. dated
+                      as of November 15, 1993 - Incorporated by
+                      reference to Exhibit 4 to Registrant's
+                      Quarterly Report on Form 10-Q for the
+                      quarter ended October 31, 1993.
+           
+           (10)(a)    Agreement and Plan of Reorganization between
+                      Registrant and Capital Distributing Company,
+                      Kappa Publishing Group, Inc. and Nick G.
+                      Karabots dated August 4, 1993 - Incorporated
+                      by reference to Exhibit 10 to Registrant's
+                      Quarterly Report on Form 10-Q for the
+                      quarter ended October 31, 1993.
+<PAGE>
+<PAGE>           
+           (10)(b)    Employment Agreement
+                      dated as of October 1, 1993 between
+                      Registrant and Anthony B. Gliedman, Chief
+                      Executive Officer, Chairman and President of
+                      Registrant - Incorporated by reference to
+                      Exhibit 10(a) to Registrant's Quarterly
+                      Report on Form 10-Q for the quarter ended
+                      January 31, 1994.
+           
+           (10)(c)    Employment Agreement dated as of October 1,
+                      1993 between Registrant and Daniel Friedman,
+                      Senior Vice President of Registrant -
+                      Incorporated by reference to Exhibit 10(b)
+                      to Registrant's Quarterly Report on Form 10-Q
+                      for the quarter ended January 31, 1994.
+           
+           (10)(d)    Employment Agreement dated as of October 1,
+                      1993 between Registrant and James Wall,
+                      Senior Vice President of Registrant -
+                      Incorporated by reference to Exhibit 10(c)
+                      to Registrant's Quarterly Report on Form 10-Q
+                      for the quarter ended January 31, 1994.
+           
+           (10)(e)    Employment Agreement dated as of October 1,
+                      1993 between Registrant and Harvey W.
+                      Schultz, Senior Vice President of Registrant
+                      - Incorporated by reference to Exhibit 10(d)
+                      to Registrant's Quarterly Report on Form 10-Q
+                      for the quarter ended January 31, 1994.
+           
+           (10)(f)    Employment Agreement dated as of October 1,
+                      1993 between Registrant and Mohan Vachani,
+                      Senior Vice President - Chief Financial
+                      Officer of Registrant - Incorporated by
+                      reference to Exhibit 10(e) to Registrant's
+                      Quarterly Report on Form 10-Q for the
+                      quarter ended January 31, 1994.
+           
+           (10)(g)    Employment Agreement dated as of October 1,
+                      1993 between Registrant and Rudolph J.
+                      Skalka, Vice President-Finance of Registrant
+                      - Incorporated by reference to Exhibit 10(f)
+                      to Registrant's Quarterly Report on Form 10-Q
+                      for the quarter ended January 31, 1994.
+           
+           (10)(h)    1982 Incentive Stock Option Plan -
+                      Incorporated by reference to Exhibit (10)(s)
+                      to Annual Report on Form 10-K of Registrant
+                      for the fiscal year ended April 30, 1993.
+<PAGE>
+<PAGE>           
+           (10)(i)    1992 Stock Option Plan -
+                      Incorporated by reference to Exhibit A to
+                      the Proxy Statement of Registrant for the
+                      Annual Meeting of Shareholders held on
+                      September 24, 1992.
+           
+           (10)(j)    Non-Employee Directors Option Plan -
+                      Incorporated by reference to Exhibit B to
+                      the Proxy Statement of Registrant for the
+                      Annual Meeting of Shareholders held on
+                      September 24, 1992.
+           
+           (10)(k)    Loan Agreement dated December 17, 1993
+                      between Registrant and Anthony B. Gliedman,
+                      filed herewith.
+           
+           (10)(l)    Bonus Plan for Executives and Key Employees
+                      of Registrant, filed herewith.
+           
+           (21)       Subsidiaries of Registrant, filed herewith.
+           
+           (23)       Consent of Arthur Andersen & Co., filed
+                      herewith.
+           
+           
+<PAGE>
+<PAGE>
+
+EXHIBIT A
+
+
+
+
+
+
+
+
+                                   [Date]
+
+
+
+AMREP Corporation
+10 Columbus Circle
+Suite l300
+New York, NY  10019
+
+
+
+Dear Sirs:
+
+      Reference is made to the Loan Agreement dated ___________  , 1993 between
+you and the undersigned.  I hereby request you lend me the sum of $ __________
+pursuant to that Agreement on ______________, 199_ .
+
+      I hereby certify that the entire amount of such sum will be used by me to
+pay for shares of Common Stock of AMREP Corporation I intend to purchase.
+
+
+                                   Very truly yours,
+
+
+
+
+                                   -------------------
+                                   Anthony B. Gliedman
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<DESCRIPTION>EXHIBITS 10(K) AND 10(L)
+<TEXT>
+
+<PAGE>
+Exhibit 10(k)
+
+
+
+
+
+                          LOAN AGREEMENT
+
+
+
+       AGREEMENT, made this 17th day of December, 1993 between AMREP
+CORPORATION ("AMREP") and  ANTHONY B. GLIEDMAN ("Borrower").
+ 
+       1.  In reliance upon Borrower's agreements and representations herein
+contained, AMREP hereby agrees to lend  to Borrower up to an aggregate of THREE
+HUNDRED SIXTY-THOUSAND  and no/100 DOLLARS ($360,000.00) (the "Loan") at the
+times and  subject to the terms and conditions hereinafter set forth.
+ 
+       2.  (a)  The proceeds of the Loan shall be used by Borrower only to
+purchase shares of AMREP Common Stock for his own account, and Borrower hereby
+represents and agrees that he will so use the proceeds. 
+           (b)  Borrower hereby confirms his oral representation to the Board
+of Directors of AMREP that his net worth is in excess of $500,000.
+ 
+       3.  The Loan shall be unsecured and shall be made either at one time or
+in installments from time to time on  onsuch date or dates as Borrower shall
+request by letter substantially in the form of Exhibit "A" hereto, provided
+that no portion of the Loan shall be made after September 23, 1998, nor after
+such date as Borrower ceases to be an employee of AMREP.
+ 
+       4.  (a) Borrower shall pay interest on the amount of the Loan from time
+to time outstanding at a rate equal to the average rate of interest paid by
+AMREP and its subsidiaries (on a weighted basis) for borrowed money during the
+twelve months ending the September 30th next preceding the interest payment
+date as determined by the Treasurer of AMREP.  In determining such rate of
+interest there shall be excluded origination fees, commitment fees, the effect
+of compensating balances and similar costs.
+           (b) Interest shall be paid monthly on the first day of each month. 
+The interest payment due on each October 1st shall be computed at the rate
+payable during the preceding twelve months and an appropriate adjustment shall
+be made when the current rate has been determined.
+ 
+       5.  Borrower shall repay to AMREP on each anniversary of the first
+borrowing hereunder an amount equal to ten percent (10%) of the aggregate
+amount borrowed prior to such payment date.  The entire unpaid balance of
+principal of the Loan shall be repaid on the fifth anniversary of the first
+borrowing hereunder.
+ 
+       6.  The principal may be repaid without premium or penalty in whole or
+in part at any time or from time to time, at the option of Borrower.  Optional
+prepayments shall be applied to reduce mandatory payments in the inverse order
+of their due dates.
+<PAGE>
+<PAGE> 
+       7.  Anything herein to the contrary notwithstanding:
+           (a) The entire unpaid balance of principal of the Loan shall become
+immediately due and payable if Borrower shall be in default in the making of
+any payment of interest or principal when due and such default shall continue
+for five days after notice of such default shall be given Borrower.
+           (b) The entire unpaid balance of principal shall be payable ninety
+(90) days following the occurrence of any of the following:
+           (i)    Borrower shall die.
+          (ii)    Borrower shall voluntarily leave the
+    employ of AMREP for reasons other than illness or
+    disability.
+         (iii)    Borrower shall be discharged as an
+    employee of AMREP for cause.
+ 
+  8.  This Loan Agreement shall be governed by and construed in accordance with
+the laws of the State of New York.
+ 
+                           AMREP CORPORATION
+
+
+                           By /s/ Rudolph J. Skalka
+                              ---------------------
+                                  Vice President
+
+
+
+                           /s/ Anthony B. Gliedman
+                           -----------------------
+                                  Anthony B. Gliedman
+
+<PAGE>
+<PAGE>
+Exhibit 10(l)
+
+
+
+
+
+                         AMREP CORPORATION
+                         -----------------
+
+            BONUS PLAN FOR EXECUTIVES AND KEY EMPLOYEES
+            -------------------------------------------
+
+
+
+
+1. PURPOSE
+   -------
+
+      The Plan is intended to expand and improve the profitability and
+prosperity of AMREP Corporation for the benefit of its stockholders by
+including in the total compensation of certain executives and other key
+employees of the Corporation and its subsidiaries, incentive compensation
+measured by the profits of the Corporation to the extent such profits exceed
+certain formula amounts.
+
+
+2. DEFINITIONS
+   -----------
+
+      (a)  As used herein the following terms shall have the meanings set
+forth:
+
+      "Year" means the fiscal year of the Corporation.
+
+      "Net Income" for a Year means the after-tax
+   consolidated income of the Corporation and its subsidiaries
+   for such Year from continuing operations determined in
+   accordance with generally accepted accounting principles
+   consistently applied but without deduction for the Bonus
+   Pool (hereafter defined).
+
+      "CPI" means the Consumer Price Index for All Urban
+   Consumers (CPI-U) United States City Averages (l967=100)
+   issued by the Bureau of Labor Statistics of the United
+   States Department of Labor or, if such Index shall be
+   changed or discontinued, such other comparable or revised
+   index as may be issued by the Bureau of Labor Statistics or
+   another Agency of the United States Government.
+
+      "Shareholders' Equity" for a Year means the share-
+   holders' equity in the Corporation determined in accordance
+   with generally accepted accounting principles consistently
+   applied as at April 30 of the preceding Year.
+<PAGE>
+<PAGE>
+       "Inflation Adjustment" for a Year means the product of (x) the
+   Shareholders' Equity for such Year times (y) the percentage
+   by which the CPI for the April of such Year exceeds the CPI
+   for the April of the preceding Year.  If the CPI for the
+   April of a Year is less than the CPI for the April of the
+   preceding Year, the Inflation Adjustment for such Year
+   shall be 0.
+
+      "Return on Equity" for a Year means 5.l% of the
+   Shareholders' Equity for such Year.
+
+      "Rate" for a Year shall mean the provision in the
+   consolidated statements of income of the Corporation and
+   its Subsidiaries for income taxes for such Year divided by
+   the income before provision for income taxes for such Year.
+
+      "Bonus Pool Earnings" for a Year means the amount
+   determined by first deducting from the Net Income for such
+   Year both the Inflation Adjustment for such Year and the
+   Return on Equity for such Year and then multiplying the
+   resulting sum by     1
+                     ----
+                1 - Rate.
+
+      "Bonus Pool" for a Year shall mean l5% of the Bonus
+   Pool Earnings, if any, for such Year.
+
+
+3. ALLOCATION OF BONUS POOL
+   ------------------------
+
+      (a) From the Bonus Pool for a Year, there shall be paid to the Chief
+Executive Officer of the Corporation an amount equal to the lesser of (i) the
+salary of the Chief Executive Officer paid with respect to said Year and (ii)
+25% of the Bonus Pool.
+
+      (b) The portion of the Bonus Pool for a Year remaining after the payment
+to the Chief Executive Officer  shall be distributed amongst the other
+executives and key employees of the Corporation and its subsidiaries in such
+percentages as the Chief Executive Officer of the Corporation shall determine,
+provided that the maximum amount distributed to any person shall not exceed
+that person's salary for that Year. 
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 21
+<TEXT>
+
+<PAGE>
+EXHIBIT 21
+
+
+
+                                           State of
+Subsidiary                               Incorporation
+- - ----------                               -------------
+
+AMREP Southwest Inc.                     New Mexico
+  AMREP Construction Corporation         New Mexico
+  AMREP Financial Corp.                  New Mexico
+  AMREP Metro Works, Inc.                New York
+    Perma Corp.                          New York
+       Strickland Construction Corp.     New Jersey
+       Strickland Sales Corp.            New Jersey
+  AMREP Printing Corp.                   New York
+  AMREP Southeast, Inc.                  Florida
+    AMREP Saratoga Square Homes, Inc.    Florida
+    The Meads Property Owners'
+      Association, Inc.                  Florida
+  AMREPCO Inc.                           Colorado
+  Advance Financial Corp.                New Mexico
+  Carity-Hoffman Associates, Inc.        New York
+  Double R Realty, Inc.                  New Mexico
+  Eldorado at Sante Fe, Inc.             New Mexico
+  M.F.G. Realty Corp.                    New York
+  Marion Realty, Inc.                    Florida
+  New Mexico Foreign Trade Zone
+    Corporation                          New Mexico
+  Panorama Inn of Florida, Inc.          Florida
+  Rancho Homes, Inc.                     New Mexico
+  Rio Rancho Golf & Country Club, Inc.   New Mexico
+  S.G.R. Realty Corp.                    New Jersey
+  Shasta Real Estate Company             California
+  Sun Oaks Realty Corp.                  Florida
+  Rio Venture Corp.                      New Mexico
+  Rio Venture XII, Inc.                  New Mexico
+  Rio Venture XV, Inc.                   New Mexico
+Albuquerque Utilities Corporation        New Mexico
+Florida Ridge Utilities Corp.            Florida
+Kable News Company, Inc.                 Illinois
+  Kable News Export, Ltd.                Delaware
+  Kable News Company of Canada, Ltd.     Ontario
+El Dorado Utilities, Inc.                New Mexico
+AMREP Metro Services, Inc.               New York
+AMREP Saratoga Construction, Inc.        New York
+AMREP Solutions, Inc.                    New York
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT 23
+<TEXT>
+
+<PAGE>
+
+Exhibit 23
+
+
+
+
+             CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+             -----------------------------------------
+
+
+The Board of Directors
+  AMREP Corporation:
+
+
+        As independent public accountants, we hereby consent to the
+incorporation of our report included in this Form 10-K, into AMREP
+Corporation's previously filed Registration Statements on Form S-8 Nos.
+33-09852, 33-19430, 33-40281, 33-67114 and 33-67116.
+
+
+                                      ARTHUR ANDERSEN & CO.
+
+                                      New York, New York
+                                      July 26, 1994
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

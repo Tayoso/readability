@@ -1,0 +1,3016 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ Wnv3hYDZBwy/SlmYCkrgwL4wb8ZjXJOwTmLpCKmXsF4heYywcDyIuH804heWM2ND
+ m7yl7L/C5lQs6Tex9QIPww==
+
+<IMS-DOCUMENT>0000804269-94-000012.txt : 19941017
+<IMS-HEADER>0000804269-94-000012.hdr.sgml : 19941017
+ACCESSION NUMBER:		0000804269-94-000012
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940928
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICREDIT CORP
+		CENTRAL INDEX KEY:			0000804269
+		STANDARD INDUSTRIAL CLASSIFICATION:	6141
+		IRS NUMBER:				752291093
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10667
+		FILM NUMBER:		94550745
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 BAILEY AVENUE
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76107
+		BUSINESS PHONE:		817-332-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 BAILEY AVENUE
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76107
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	URCARCO INC
+		DATE OF NAME CHANGE:	19920703
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+
+
+                               UNITED STATES
+                    SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON, D.C.  20549
+                                 FORM 10-K
+(Mark One)
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934 [FEE REQUIRED]
+
+               For the fiscal year ended    June 30, 1994        
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+For the transition period from                      to                      
+
+Commission file number                    1-10667                           
+
+                             AmeriCredit Corp.                              
+          (Exact name of registrant as specified in its charter)
+
+           Texas                                              75-2291093       
+(State or other jurisdiction of                            (I.R.S. Employer
+incorporation or organization)                            Identification No.)
+
+  200 Bailey Avenue, Fort Worth, Texas                         76107          
+(Address of principal executive offices)                    (Zip Code)
+
+Registrant's telephone number, including area code:     (817)  332-7000      
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                             Name of each exchange on
+        Title of each class                      which registered
+    Common Stock, $.01 par value             New York Stock Exchange      
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                                    None                                    
+                             (Title of class)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.   Yes   X     No      .
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ X ]
+
+The aggregate market value of 25,095,757 shares of the Registrant's Common Stock
+held by non-affiliates based upon the closing price of the Registrant's Common
+Stock on the New York Stock Exchange on September 16, 1994 was approximately 
+$159,985,451.  For purposes of this computation, all officers, directors and 5
+percent beneficial owners of the Registrant are deemed to be affiliates.  Such
+
+<PAGE>
+determination should not be deemed an admission that such officers, directors
+and beneficial owners are, in fact, affiliates of the Registrant.
+
+There were 28,749,773 shares of Common Stock, $.01 par value outstanding as of
+September 16, 1994.
+
+                    DOCUMENTS INCORPORATED BY REFERENCE
+
+The Registrant's Annual Report to Shareholders for the year ended June 30,
+1994 ("the Annual Report") furnished to the Commission pursuant to Rule 14a-
+3(b) and the definitive Proxy Statement pertaining to the 1994 Annual Meeting
+of Shareholders ("the Proxy Statement") and filed pursuant to Regulation 14A
+are incorporated herein by reference into Parts II and IV, and Part III,
+respectively.
+<PAGE>
+
+                             AMERICREDIT CORP.
+
+                            INDEX TO FORM 10-K
+
+ITEM                                                     PAGE
+ NO.                                                      No.
+                                  PART I 
+
+1.  Business                                                3
+2.  Properties                                             12
+3.  Legal Proceedings                                      12
+4.  Submission of Matters to a Vote of Security Holders    12
+
+                                  PART II
+
+5.  Market for Registrant's Common Equity and Related
+      Stockholder Matters                                  13
+6.  Selected Financial Data                                13
+7.  Management's Discussion and Analysis of Financial
+      Condition and Results of Operations                  13
+8.  Financial Statements and Supplementary Data            13
+9.  Changes in and Disagreements with Accountants on
+      Accounting and Financial Disclosure                  13
+
+                                 PART III
+
+10. Directors and Executive Officers of the Registrant     14
+11. Executive Compensation                                 14
+12. Security Ownership of Certain Beneficial Owners and
+      Management                                           14
+13. Certain Relationships and Related Transactions         14
+
+                                  PART IV
+
+14. Exhibits, Financial Statement Schedules, and Reports
+      on Form 8-K                                          15
+
+                                SIGNATURES                 16
+
+<PAGE>
+                                  PART I
+
+Item 1.  Business
+- - -----------------
+General
+- - -------
+AmeriCredit Corp. was incorporated in Texas on May 18, 1988 and succeeded to
+the business, assets and liabilities of a predecessor corporation formed under
+the laws of Texas on August 1, 1986.  The Company's predecessor began the
+Company's business in March 1987, and the business has been operated
+continuously since that time.  As used herein, the term "Company" refers to
+the Company, its wholly owned subsidiaries and its predecessor corporation. 
+The Company's principal executive offices are located at 200 Bailey Avenue,
+Fort Worth, Texas, 76107 and its telephone number is (817) 332-7000.
+
+On July 22, 1992, the Company formed a subsidiary, AmeriCredit Financial
+Services, Inc. ("AFSI"), a Delaware corporation, to engage in the indirect
+consumer lending business.  AFSI began operating in the indirect consumer
+lending business in September 1992.  Through AFSI's branch offices and
+marketing representatives, the Company serves as a funding source for
+franchised and independent dealers to finance their customers' purchases of
+primarily used cars.  The Company targets customers who are typically unable
+to obtain financing from traditional sources.  Consumer finance contracts
+originated by the dealers which conform to the Company's credit policies  are
+purchased by the Company, generally for a non-refundable acquisition fee and
+without recourse to the dealer.   Such consumer finance loans typically range
+in amount from $6,000 to $12,000, with repayment terms usually ranging from 24
+to 60 months.  The Company services its consumer loan portfolio at its central
+facility using automated servicing and collection systems.
+
+The Company formed another subsidiary, AmeriCredit Premium Finance, Inc.
+("APFI"), a Delaware corporation, on September 15, 1992 to engage in the
+premium finance business.  APFI began operating in the premium finance
+business in April 1993.  APFI finances insurance premiums for consumers
+purchasing car liability and physical damage insurance through independent
+insurance agents.  Such loans typically range in amount from $300 to $1,200
+with repayment terms ranging from four to ten months.
+
+The Company previously operated a chain of "we finance" used car retail lots
+in Texas, selling used cars and typically financing sales to its customers. 
+However, in connection with a restructuring during the year ended June 30,
+1993, the Company withdrew from the retail used car sales business effective
+December 31, 1992.  The finance receivables originated in this previous
+business are referred to as the direct lending portfolio and are being
+liquidated over time as the contracts are collected or charged-off.
+
+On April 24, 1991, the Company entered into a management services agreement
+with Rainwater Management Partners, Ltd., ("RMP").  Pursuant to such
+agreement, RMP provided certain consulting services related to strategic
+analysis of the Company's operations and major policy actions and directions. 
+As part of the transaction, the Company issued to RMP a stock option to
+purchase up to 3.5 million shares of the Company's common stock at an exercise
+price of $3.218 per share.  Ten percent of the option was exercisable at the
+time of issuance, and the balance became exercisable over an 18-month period. 
+
+<PAGE>
+On April 4, 1994, the Company purchased and cancelled this stock option for
+$1.782 per option share, or $6,237,000.  The management services agreement with
+RMP was also terminated. 
+
+On October 25, 1990, the Company entered into a joint venture arrangement with
+certain entities and individuals for the purpose of establishing and operating
+retail used car sales lots in the state of California.  The joint venture en-
+tity, Pacific Automart Inc., was owned 50% by the Company and 50% by the other
+investors.  On August 3, 1993, the Company sold its entire interest in the joint
+venture to Pacific Automart Inc. for $11,300,000 in cash.  No gain or loss was
+recognized on the sale.
+
+Indirect Consumer Finance Operations
+- - ------------------------------------
+Target Market.  The Company's indirect lending programs are designed to serve
+consumers who have limited access to traditional car financing.  The Company's
+typical borrower may have had previous financial difficulties, but is now
+attempting to re-establish credit, or may not yet have a sufficient credit
+history.  Because the Company serves consumers who are unable to meet the credit
+standards  imposed by most traditional car financing sources, the Company
+generally charges interest at rates which are higher than those charged by
+traditional car financing sources.  The Company also expects to sustain a higher
+level of credit losses than that experienced by traditional car financing
+sources since the Company provides financing in a relatively high risk market.
+
+Dealer Relationships.  When buying a car, consumers are customarily directed to
+a dealer's finance and insurance department to finalize their purchase agreement
+and review potential financing sources.  If the consumer elects to pursue
+financing at a dealer, an application is taken for submission to the dealer's
+financing sources.  The dealers are generally familiar with the lending policies
+of their financing sources and develop both traditional and secondary financing
+sources.  In the event that a consumer may not qualify for traditional car
+financing, a dealer typically submits such buyer's application to one or more
+secondary financing sources, such as the Company, for review.
+
+Since the Company is an indirect lender, the Company's financing programs are
+marketed directly to the dealers rather than to the consumer.  The marketing
+process involves personal contacts with the owners, general managers and finance
+managers of the dealers and distribution of the Company's promotional
+materials. The Company also establishes relationships with dealers through
+referrals from other participating dealers.
+
+The Company has established relationships with a variety of car dealers located
+in the markets in which the Company has branch offices or marketing
+representatives.  While the Company occasionally finances purchases of new cars,
+substantially all of the Company's finance receivables are originated in
+connection with consumers' purchases of used cars.  Of the finance contracts
+purchased by the Company during the year ended June 30, 1994, approximately 76%
+were originated by manufacturer-franchised dealers with used car operations and
+24% by independent dealers specializing in used car sales.  The Company pur-
+chased contracts from 429 dealers during the year ended June 30, 1994.  No
+dealer accounted for more than 10% of the total volume of contracts purchased
+by the Company for the year ended June 30, 1994.
+
+<PAGE>
+Prior to entering into a relationship with a dealer, the Company evaluates the
+dealer's operating history.  The credit profile and performance of contracts
+purchased from a dealer are continually monitored to determine the viability of
+the Company's relationship with the dealer.  Dealer relationships are maintained
+through frequent contacts by the Company's representatives and by providing a
+high level of service, including prompt and consistent credit application
+processing, timely contract funding and competitive financing terms and fees.
+
+Finance contracts are generally purchased by the Company without recourse to the
+dealer, and accordingly, the dealer usually has no liability to the Company if
+the consumer defaults on the finance contract.  To mitigate the Company's risk
+from potential credit losses, the Company charges the dealers an acquisition fee
+when purchasing finance contracts.  Such acquisition fees are negotiated with
+dealers on a contract-by-contract basis and are usually non-refundable.  Al-
+though finance contracts are purchased without recourse to the dealer, the deal-
+er typically makes certain representations as to the validity of the contract
+and compliance with certain laws, and indemnifies the Company against any
+claims, defenses and set-offs that may be asserted against the Company because
+of assignment of the contract.
+
+Branch Offices.  The Company's branch offices are responsible for solicitation
+and development of dealer relationships and execution of credit decisions. 
+Branch locations are typically staffed by an area general manager and one or
+more customer service representatives.  Larger branches may also have an 
+assistant area manager and/or a dealer marketing representative.  Area general
+managers are compensated with base salaries, annual incentives based on overall
+branch performance and stock option grants.  The area general managers report to
+a regional manager.
+
+The Company's regional managers monitor branch office compliance with the
+Company's underwriting guidelines and review and approve all transactions that
+exceed the underwriting guidelines.  The Company's automated application
+processing system and loan accounting system provide the regional managers
+access to credit application information enabling them to consult with the area
+general managers on day to day credit decisions.  The regional managers also
+make periodic visits to the branch offices to conduct operating reviews.  The
+regional managers report to the Senior Vice President and Director of Consumer
+Finance.
+
+As of June 30, 1994, the Company operated eighteen indirect consumer finance
+branch offices in thirteen states.  The Company's branch offices are located in
+Dallas-Fort Worth, Houston, San Antonio, Phoenix, Colorado Springs, Denver, Salt
+Lake City, Atlanta, Chicago, Kansas City, San Jose, Indianapolis, Detroit,
+Oklahoma City, Las Vegas, St. Louis, San Diego and Nashville.
+
+The Company selects markets for branch office locations based upon the
+availability of qualified area general managers and evaluation of regulatory,
+competitive and demographic factors.  Branch offices are typically situated in
+office buildings which are accessible to consumers and local car dealers.
+
+Marketing Representatives.  The Company initiated a marketing representative
+program in fiscal 1994 and as of June 30, 1994, the Company had ten marketing
+representatives.  These marketing representatives cover territories in
+Washington, Oregon, Texas, Oklahoma, Missouri and Maryland.
+
+<PAGE>
+The marketing representatives are responsible for solicitation and development
+of dealer relationships primarily in markets where the Company does not have a
+branch presence.  Unlike the Company's area general managers, the marketing
+representatives do not have credit authority.  Credit applications solicited by
+the marketing representatives are underwritten at a central purchasing office.
+
+The Company's marketing representatives may be either employees or independent
+contractors.  After a training and development period, the marketing
+representatives are compensated based primarily upon finance contract
+originations.  The Company's marketing representative program is managed by the
+Vice President and Director of Sales and Marketing.
+
+Finance Contract Acquisition.  The Company purchases individual finance con-
+tracts through its branch offices based on a decentralized credit approval
+process tailored to local market conditions.  The Company's central purchasing
+office, which underwrites applications solicited by the marketing representa-
+tives, operates in a manner similar to the branch office network.
+
+All credit extensions are executed at the branch level.  Each area general
+manager has a specific credit authority based upon their experience and
+historical loan portfolio results.  Any extension of credit outside these limits
+is reviewed and approved by a regional manager.  Although the credit approval
+process is decentralized, all credit decisions are guided by the Company's
+overall credit and underwriting policies and procedures.
+
+The Company implemented a credit scoring system across its branch network in
+late fiscal 1994.  The credit scoring system is designed to empirically assess
+the credit quality of a consumer applicant.  While the Company's use of credit
+scoring is still evolving, the system is intended to supplement the branch level
+judgmental credit approval process.
+
+Loan application packages completed by prospective borrowers are received via
+facsimile at the branch offices from the dealers.  Application data is entered
+into the Company's automated application processing system.  A credit bureau
+report is automatically generated and a credit score is computed.  Depending on
+the credit quality of the applicant, a customer service representative may then
+investigate the residence, employment and credit history of the applicant or
+forward the application package directly to the area general manager.  In either
+case, all applications are investigated prior to loan funding.  The area general
+manager reviews the application package and determines whether the applicant has
+been approved, approved subject to any conditions that must be met, or denied. 
+In certain cases, a regional manager may review and approve the area general
+manager's credit decision.  The Company estimates that approximately 50% of
+applicants are denied credit by the Company typically because of their credit
+histories or because their income levels are not sufficient to support the
+proposed level of monthly car payments.  The dealer is contacted regarding
+credit decisions by telefax and/or telephone.  Declined applicants are also
+provided with appropriate notification of the decision.
+
+Once a credit approval has been received from the Company and any other financ-
+ing sources to which the application package was submitted, the dealer selects a
+financing source.  The ability of the financing source to provide a rapid credit
+decision and the amount of the contract fees and customer advance are of primary
+importance to the dealer in choosing a financing source.  The interest rate in
+the finance contract is generally of secondary importance.
+
+<PAGE>
+Completed loan packages are received from the dealers at the branch office. 
+Loan terms are reverified with the consumer by branch personnel and the loan
+packages are forwarded to the Company's centralized loan services department
+where the package is reviewed for proper documentation and regulatory
+compliance.  The loans are entered into the Company's loan accounting system and
+a daily report of loans is generated.  The loan services department issues a
+funding check to the dealer.  Upon funding of the contract, the Company acquires
+a perfected security interest in the car that was financed.  All of the
+Company's finance contracts are fully amortizing with substantially equal
+monthly installments.  Consumers receive monthly statements from the Company and
+remit payments directly to the Company.  Payments are processed centrally by the
+loan services department.
+
+Collections and Repossessions.  Collection activity on finance contracts is
+performed by the Company's collection personnel ("collectors") at the Company's
+headquarters facility.  The collectors follow standardized collection policies
+and procedures.  Collectors monitor the finance receivables portfolio through a
+computer assisted collection system and typically take action on delinquencies
+on the fifth day after delinquency occurrence.
+
+A collector's action is typically telephone contact with the consumer utilizing
+the Company's automated predictive dialing system.  This system dials multiple
+telephone numbers simultaneously based upon parameters set by management.  When
+a telephone connection is made, the delinquent consumer's account information is
+displayed on a collector's computer terminal.  The collector then attempts to
+work out the delinquency with the consumer.
+
+If a consumer continues to be delinquent, the Company's policy is to work out
+suitable payment arrangements with the consumer.  However, if the consumer
+becomes seriously delinquent or deals in bad faith with the Company, the Company
+may ultimately have to repossess the consumer's car and generally will take
+prompt action to do so.  Repossessions are handled by independent repossession
+firms engaged by the Company.  All repossessions are approved by collection
+managers.
+
+The Company follows prescribed legal procedures for repossessions, which include
+peaceful repossession, one or more consumer notifications, a prescribed waiting
+period prior to disposition of the repossessed car, and return of personal items
+to the consumer.
+
+Upon repossession and after any prescribed waiting period, the repossessed car
+is typically sold at auction.  Unearned finance charges and any recoveries are
+credited against the finance contract, and the remaining balance is charged off
+against the Company's allowance for losses.  The Company will pursue collection
+of deficiencies when it deems such action to be appropriate.
+
+Insurance and Other Products.  The Company requires all consumers to obtain or
+provide evidence that they carry current comprehensive and collision insurance. 
+Through a third party administrator, the Company tracks the insurance status of
+each finance contract and sends notices to consumers when collateral becomes
+uninsured.  If no action is taken by the borrower to insure the collateral,
+continuing efforts are made to persuade the consumer to comply with the insur-
+ance requirements of the finance contract.  Although it has the right, the
+
+<PAGE>
+Company rarely repossesses a car due to it being uninsured.  The Company also
+does not typically force place insurance coverage and add the premium to the
+consumer's obligation, although it has the right to do so under the terms of the
+finance contracts.
+
+The Company will also finance other insurance products including credit life,
+credit accident and health and extended service contracts at the option of the
+consumer.  The consumer may obtain such products from sources provided by the
+Company, dealers or from other third parties.  The Company may receive
+compensation related to these products, but the Company does not assume any
+primary insurance risk.
+
+Risk Management.  With its decentralized credit approval process, the Company
+has developed procedures to evaluate and supervise the operations of each branch
+office.  The Company's centralized risk management department is responsible for
+monitoring the origination process and supporting the supervisory role of branch
+management.  This group tracks key variables via databases that contain loan
+applicant data, credit bureau and credit score information, loan structures and
+terms and payment history.  The residual value of the collateral underlying the
+Company's loan portfolio is updated monthly with a loan by loan link to national
+wholesale auction values.  This data is used for evaluating collateral
+disposition activities as well as for reserve analysis models.
+
+The risk management department prepares a periodic credit indicator package
+reviewing portfolio performance at various levels of detail including total
+company, branch and dealer.  A sample of loans are reviewed periodically to
+audit compliance with policies and procedures.  Various daily reports and
+analytical data are also generated by the Company's management information
+systems.  This information is used to monitor credit quality as well as to
+constantly refine the structure and mix of new loan production.  Projected
+portfolio returns are reviewed not only on a consolidated basis, but also at
+the branch, dealer and transaction levels.
+
+Premium Finance Operations
+- - --------------------------
+The Company's premium finance receivables portfolio and related assets
+represented approximately 5% of the Company's total assets as of June 30, 1994. 
+While the Company has grown the premium finance business through June 30, 1994,
+the Company has determined that it will reduce its investment in this business
+in the future in order to concentrate its resources on its core indirect consum-
+er lending business.  The size of the market for indirect consumer lending is
+substantially greater than the market for premium finance, and the Company
+believes that the potential returns are more favorable in the indirect consumer
+lending business as compared to the premium finance business.
+
+The Company offers financing primarily to consumers who purchase non-standard
+car liability and physical damage coverages and who are unable or unwilling
+to pay the full amount of their insurance premium in advance.  Consumers
+generally look to their agent to locate a financing source for their insurance
+premiums.  While many large insurance agencies operate captive premium finance
+companies, other agents refer their customers to independent premium finance
+sources such as the Company.
+
+The Company markets its financing program to insurance agents in Texas and
+Louisiana.  The key factors in obtaining business from agents include frequent
+contacts, quality service, delivering materials and instructions that facilitate
+the financing transaction, providing a steady source of funding and offering
+competitive payment terms.
+
+<PAGE>
+Insurance agents participating in the Company's referral program are provided a
+supply of premium finance contracts and the Company's rate books and are trained
+to initiate notes on behalf of the Company.  The agent assists the customer in
+completing the premium finance contract by using the Company's rate books, which
+set forth payment terms and finance charge rates by premium amount.  The Company
+has minimum down payment requirements and generally charges the maximum allow-
+able interest rate.
+
+Under the terms of the finance contract, the customer is required to repay the
+loan in equal monthly installments over four to ten months depending upon the
+term of the insurance policy.  Customers receive monthly statements and mail
+payments directly to the Company.  The finance contract provides the Company the
+right to cancel the insurance policy and obtain a refund of the unearned premium
+directly from the insurance carrier in the event of a payment default.  Upon
+receipt of the unearned premium from the insurance company, the Company deducts
+the principal balance of the note and applicable late charges and returns the
+excess, if any, to the customer.  While the Company's down payment requirements
+and monthly payment schedule are designed so that the unearned premium value of
+the policy generally exceeds the unpaid principal balance of the note, charge-
+offs may still result from untimely policy cancellations, short rate premium
+refunds, non-refundable fees, insurance company or agency insolvencies or other
+factors.
+
+Direct Lending Portfolio
+- - ------------------------
+Prior to September 1992, the Company's finance receivables consisted solely of
+finance contracts originated in connection with the sale of used cars at the
+Company's former retail locations.  These finance receivables are referred to as
+the direct lending portfolio.  Since the Company has exited the retail used car
+business, the direct lending portfolio is being liquidated over time as the
+contracts are collected or charged-off.
+
+Distressed Receivables Joint Ventures
+- - -------------------------------------
+During fiscal 1994, the Company entered into certain joint venture arrangements
+with third parties to acquire and collect distressed receivables portfolios. 
+While the Company's capital investment in these joint ventures is not material,
+the Company has provided office facilities, computer systems and administrative
+support to the joint ventures.
+
+Trade Names
+- - -----------
+The Company has obtained federal trademark protection for the "AmeriCredit" name
+and the logo that incorporates the "AmeriCredit" name.
+
+Competition
+- - -----------
+Because the Company's target market consists of consumers who generally have
+limited access to traditional financing sources, the Company usually does not
+compete directly with banks, savings and loans, credit unions, the manufactur-
+ers' captive finance companies and other traditional sources of consumer
+credit. 
+
+<PAGE>
+However, the Company encounters intense competition in its segment of the market
+from other local, regional and national consumer finance companies, some of
+which have access to greater financial resources than the Company.  In addition,
+there can be no assurance that traditional financial institutions will not, in
+the future, become more active in providing financing to the Company's targeted
+customer base.
+
+The Company plans to expand its indirect consumer finance business by adding
+additional branch offices and marketing representatives and expanding loan
+production capacity at existing branches.  The success of this strategy is
+dependent upon the Company's ability to hire and retain qualified area general
+managers and other personnel and develop relationships with more dealers.  The
+Company confronts intense competition in attracting key personnel and
+establishing relationships with dealers.  Dealers often already have favorable
+secondary financing sources, which may restrict the Company's ability to develop
+dealer relationships and delay the Company's growth.  In addition, the
+competitive conditions in the Company's markets may result in a reduction in the
+contract fees that the Company charges the dealers or a decrease in contract
+acquisition volume, which would adversely affect the Company's profitability.
+
+Regulation
+- - ----------
+The Company's operations are subject to regulation, supervision, and licensing
+under various federal, state and local statutes, ordinances and regulations.  
+
+The consumer credit authority in each state in which the Company operates has
+primary responsibility for regulation and enforcement of laws relating to
+consumer lenders and sales finance agencies such as the Company.  Such rules and
+regulations generally provide for licensing of lenders, limitations on the
+amount, duration and charges, including interest rates, for various categories
+of loans, requirements as to the form and content of finance contracts and other
+documentation and restrictions on collection practices and creditors' rights. 
+In certain states, the Company's branch offices are subject to periodic
+examination by state regulatory authorities.
+
+The Company is also subject to extensive federal regulation, including the Truth
+in Lending Act, the Equal Credit Opportunity Act and the Fair Credit Reporting
+Act.  These laws require the Company to provide certain disclosures to
+prospective borrowers, prohibit misleading advertising and protect against
+discriminatory lending practices and unfair credit practices.  The principal
+disclosures required under the Truth in Lending Act include the terms of
+repayment, the total finance charge and the annual percentage rate charged on
+each loan.  The Equal Credit Opportunity Act prohibits creditors from
+discriminating against loan applicants on the basis of race, color, sex, age or
+marital status.  Pursuant to Regulation B promulgated under the Equal Credit
+Opportunity Act, creditors are required to make certain disclosures regarding
+consumer rights and advise consumers whose credit applications are not approved
+of the reasons for the rejection.  The Fair Credit Reporting Act requires the
+Company to provide certain information to consumers whose credit applications
+are not approved on the basis of a report obtained from a consumer reporting
+agency.
+
+The dealers who originate car loans purchased by the Company also must comply
+with both state and federal credit and trade practice statutes and regulations. 
+Failure of the dealers to comply with such statutes and regulations could result
+in consumers having rights of rescission and other remedies that could have an
+adverse effect on the Company.
+
+<PAGE>
+Management believes that it maintains all licenses and permits required for its
+current operations and is in substantial compliance with all applicable local,
+state, and federal regulations.  There can be no assurance, however, that the
+Company will be able to maintain all requisite licenses and permits and the
+failure to satisfy those and other regulatory requirements could have a material
+adverse effect on the operations of the Company.  Further, the adoption of
+additional, or the revision of existing rules and regulations could have a
+material adverse effect on the Company's business.
+
+Employees
+- - ---------
+At June 30, 1994, the Company employed 183 persons.
+
+Executive Officers
+- - ------------------
+The following sets forth certain data concerning the executive officers of the
+Company and AFSI, all of whom are elected on an annual basis.
+
+     Name                 Age              Position
+
+Clifton H. Morris, Jr.     59      Chairman of the Board, Chief
+                                     Executive Officer and President
+
+Dennis R. Adams            39      Senior Vice President, Director of
+                                     Collections of AFSI
+
+Michael R. Barrington      35      Vice President and President and
+                                     Chief Operating Officer of AFSI
+
+Daniel E. Berce            40      Vice President, Chief Financial
+                                     Officer and Treasurer
+     
+Chris A. Choate            31      General Counsel and Secretary
+
+Edward H. Esstman          53      Senior Vice President, Director of
+                                     Consumer Finance of AFSI
+
+CLIFTON H. MORRIS, JR. has been Chairman of the Board and Chief Executive 
+Officer of the Company since May 1988, and was also President of the Company
+from such date until April 1991 and from April 1992 to the present.  Mr. Morris
+is also a director of Service Corporation International, a publicly held company
+that owns and operates funeral homes and related businesses, and Cash America
+International, Inc., a publicly held pawn brokerage company.
+
+DENNIS R. ADAMS has been Senior Vice President, Director of Collections of AFSI
+since AFSI's formation in July 1992.   Mr. Adams was also Vice President,
+Director of Collections and Customer Service of the Company from July 1991 until
+July 1992.  From September 1985 until July 1991, Mr. Adams acted in various
+management capacities at Citicorp National Services, most recently as Collection
+Center Manager for Citicorp's National P&L Recovery Center in Dallas, Texas.
+
+<PAGE>
+MICHAEL R. BARRINGTON has been President and Chief Operating Officer of AFSI
+since AFSI's formation in July 1992.  Mr. Barrington has also been Vice
+President of the Company since May 1991.  Mr. Barrington was Assistant to the
+Chairman of the Company from July 1989 until May 1991 and Vice President, Credit
+and Finance Operations from July 1990 until May 1991.  From December 1984 until
+July 1989, Mr. Barrington was employed at Bank One, Texas, N.A. (previously
+MBank Fort Worth, N.A.) in various capacities, most recently as Senior Vice
+President and Manager of Commercial Lending.
+
+DANIEL E. BERCE is a certified public accountant and has been Vice President,
+Chief Financial Officer and Treasurer for the Company since May 1991.  Mr. Berce
+was Vice President, Chief Financial Officer from May 1990 until May 1991.  Prior
+to that, he was a partner of Coopers & Lybrand, certified public accountants,
+for four years and with such firm for fifteen years.
+
+CHRIS A. CHOATE has been General Counsel and Secretary of the Company since
+January 1993.  From July 1991 until January 1993, Mr. Choate was Assistant
+General Counsel.  Prior to that, he was an associate with the law firm of Jones,
+Day, Reaves & Pogue in Dallas, Texas from January 1990 until July 1991 and an
+associate with the law firm of Jenkens & Gilchrist in Dallas, Texas from
+September 1988 until January 1990.
+
+EDWARD H. ESSTMAN has been Senior Vice President, Director of Consumer Finance
+of AFSI since AFSI's formation in July 1992.  From April 1984 until June 1992,
+Mr. Esstman acted in various management capacities at Mercury Finance Company,
+most recently as Vice President of Administration.
+
+Item 2.  Properties
+- - -------------------
+The Company's executive offices are located at 200 Bailey Avenue, Fort Worth,
+Texas, in a 43,000 square foot building purchased by the Company in February
+1994.  All of the Company's branch office facilities are leased under lease
+agreements with original terms of two to four years.
+
+Item 3.  Legal Proceedings
+- - --------------------------
+Four lawsuits were filed against the Company, several of its current and former
+officers and directors, and certain other defendants, alleging violations of
+federal securities and other laws.  The suits were originally filed in July
+1990, and in October 1991, the four lawsuits were consolidated into one action.
+In May 1993, the U.S. District Court for the Northern District of Texas, Dallas
+Division, dismissed with prejudice all claims alleging violations of federal
+securities laws.  The plaintiffs' state claims were dismissed for want of
+jurisdiction.  The plaintiffs appealed the dismissal to the Court of Appeals for
+the Fifth Circuit.  On August 8, 1994, the Court of Appeals for the Fifth
+Circuit affirmed the U.S. District Court's dismissal of the lawsuit.
+
+The Company is involved in other lawsuits in the normal course of business.  In
+the opinion of management, resolution of these matters will not have a material
+adverse effect on the Company's consolidated financial position, results of
+operations or liquidity.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+- - ------------------------------------------------------------
+There were no matters submitted to a vote of the Company's security holders
+during the fourth quarter ended June 30, 1994.
+<PAGE>
+                                  PART II
+
+Item 5.  Market for Registrant's Common Equity and Related Stockholder Matters
+- - ------------------------------------------------------------------------------
+The Company has never paid cash dividends on its common stock.  The Company's
+bank line of credit contains certain restrictions on the payment of dividends. 
+While the Company has an accumulated deficit at June 30, 1994, the Company
+presently intends to retain future earnings, if any, for purposes of funding
+operations.
+
+Information contained under the caption "Common Stock Data" in the Annual
+Report is incorporated herein by reference in further response to this Item 5.
+
+Item 6.  Selected Financial Data
+- - --------------------------------
+Information contained under the caption "Summary Financial and Operating
+Information" in the Annual Report is incorporated herein by reference in
+response to this Item 6.
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+     Results of Operations
+- - ------------------------------------------------------------------------
+Information contained under the caption "Financial Review" in the Annual Report
+is incorporated herein by reference in response to this Item 7.
+
+Item 8.  Financial Statements and Supplementary Data
+- - ----------------------------------------------------
+The Consolidated Financial Statements of the Company included in the Annual
+Report and information contained under the caption "Quarterly Data" in the
+Annual Report are incorporated herein by reference in response to this Item 8.
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+     Financial Disclosure
+- - -------------------------------------------------------------------------
+The Company had no disagreements on accounting or financial disclosure matters
+with its independent accountants to report under this Item 9.
+
+<PAGE>
+                                 PART III
+
+Item 10.  Directors and Executive Officers of the Registrant
+- - ------------------------------------------------------------
+Information contained under the caption "Election of Directors" in the Proxy
+Statement is incorporated herein by reference in response to this Item 10. 
+See Item 1.  "Business - Executive Officers" for information concerning
+executive officers.
+
+Item 11.  Executive Compensation
+- - --------------------------------
+Information contained under the captions "Executive Compensation" and
+"Election of Directors" in the Proxy Statement is incorporated herein by
+reference in response to this Item 11.
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management
+- - ------------------------------------------------------------------------
+Information contained under the caption "Principal Shareholders and Stock
+Ownership of Management" in the Proxy Statement is incorporated herein by
+reference in response to this Item 12.
+
+Item 13.  Certain Relationships and Related Transactions
+- - --------------------------------------------------------
+Information contained under the caption "Certain Transactions" in the Proxy
+Statement is incorporated herein by reference in response to this Item 13.
+
+<PAGE>
+                                  PART IV
+
+Item 14.  Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+- - --------------------------------------------------------------------------
+(1)  The following Consolidated Financial Statements of the Company and Report
+     of Independent Accountants are contained in the Annual Report and are
+     incorporated herein by reference.
+
+Consolidated Financial Statements:
+
+     Consolidated Balance Sheets as of June 30, 1994 and 1993.
+
+     Consolidated Statements of Operations for the years ended June 30, 1994,
+     1993 and 1992.
+
+     Consolidated Statements of Shareholders' Equity for the years ended June
+     30, 1994, 1993 and 1992.
+
+     Consolidated Statements of Cash Flows for the years ended June 30, 1994,
+     1993 and 1992.
+
+Notes to Consolidated Financial Statements
+
+Report of Independent Accountants
+
+(2)  All schedules for which provision is made in the applicable accounting
+     regulation of the Securities and Exchange Commission are either not
+     required under the related instructions, are inapplicable, or the required
+     information is included elsewhere in the Consolidated Financial Statements
+     and incorporated herein by reference.
+
+(3)  The exhibits filed in response to Item 601 of Regulation S-K are listed
+     in the Index to Exhibits on pages 17 and 18.
+
+(4)  The Company did not file any reports on Form 8-K during the quarterly
+     period ended June 30, 1994.
+
+<PAGE>
+                                SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized, on September 27, 1994.
+
+                           AmeriCredit Corp.
+
+                           BY:     /s/ Clifton H. Morris, Jr.    
+                                   Clifton H. Morris, Jr.
+                                   Chairman of the Board, Chief
+                                     Executive Officer and President
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed by the following persons on behalf of the Registrant and in the
+capacities and on the dates indicated.
+
+     SIGNATURE                      TITLE                 DATE
+
+/s/ Clifton H. Morris, Jr.   Chairman of the Board,   September 27, 1994
+Clifton H. Morris, Jr.         Chief Executive
+                               Officer and President
+
+/s/ Daniel E. Berce          Vice President, Chief    September 27, 1994
+Daniel E. Berce                Financial Officer and
+                               Treasurer and Director
+
+/s/ Michael R. Barrington    Vice President and       September 27, 1994
+Michael R. Barrington          Director
+
+/s/ James H. Greer                  Director          September 27, 1994
+James H. Greer
+
+/s/ Gerald W. Haddock               Director          September 27, 1994
+Gerald W. Haddock
+
+/s/ Kenneth H. Jones, Jr.           Director          September 27, 1994
+Kenneth H. Jones, Jr.
+<PAGE>
+                             INDEX TO EXHIBITS
+
+The following documents are filed as a part of this report.  Those exhibits
+previously filed and incorporated herein by reference are identified below. 
+Exhibits not required for this report have been omitted.
+
+ Exhibit
+ Number                        Description
+
+    *3.1 --    Articles of Incorporation of the Company, filed May 18,
+               1988, and Articles of Amendment to Articles of Incorporation,
+               filed August 24, 1988 (Exhibit 3.1)
+    *3.2 --    Amendment to Articles of Incorporation, filed October 18,
+               1989 (Exhibit 3.2)
+  ###3.3 --    Articles of Amendment to the Articles of Incorporation of
+               the Company, filed November 12, 1992 (Exhibit 3.3)
+    *3.4 --    Bylaws of the Company (Exhibit 3.4)
+    #4.1 --    Specimen stock certificate evidencing the Common Stock
+               (Exhibit 4.1)
+    *4.2 --    Amended Warrant Agreement, dated September 6, 1989, between
+               the Company and Alex Brown & Sons Incorporated and Amendment
+               to Warrant Agreement, dated October 24, 1989 (Exhibit 4.3)
+    *4.3 --    Amended Warrant Agreement, dated September 6, 1989, between
+               the Company and Cazenove Inc. and Amendment to Warrant
+               Agreement, dated October 24, 1989 (Exhibit 4.3)
+   *10.1 --    1989 Stock Option Plan for Non-Employee Directors of the
+               Company (Exhibit 10.4)
+   *10.2 --    1989 Stock Option Plan (with Stock Appreciation Rights) for
+               the Company (Exhibit 10.5)
+  **10.3 --    Amendment No. 1 to the 1989 Stock Option Plan (with Stock
+               Appreciation Rights) for the Company (Exhibit 4.6)
+   *10.4 --    1987 Incentive Stock Option Plan for the Company (Exhibit
+               10.6)
+ ***10.5 --    1990 Stock Option Plan for Non-Employee Directors of the
+               Company (Exhibit 10.14)
+   #10.6 --    1991 Key Employee Stock Option Plan of the Company (Exhibit
+               10.10)
+   #10.7 --    1991 Non-employee Director Stock Option Plan of the Company
+               (Exhibit 10.11)
+   #10.8 --    Executive Employment Agreement, dated January 30, 1991,
+               between the Company and Clifton H. Morris, Jr. (Exhibit 10.18)
+   #10.9 --    Executive Employment Agreement, dated January 30, 1991,
+               between the Company and Michael R. Barrington (Exhibit 10.19)
+  #10.10 --    Executive Employment Agreement, dated January 30, 1991,
+               between the Company and Daniel E. Berce (Exhibit 10.20)
+###10.11 --    Executive Employment Agreement, dated May 20, 1993, between
+               the Company and Edward H. Esstman
+###10.12 --    Executive Employment Agreement, dated August 18, 1993,
+               between the Company and Dennis R. Adams
+ ##10.13 --    Stock Purchase Agreement By and Between AmeriCredit Corp.,
+               as Seller, and Pacific Automart Inc., as Buyer, dated April
+               30, 1993 (Exhibit 10.1)
+ ##10.14 --    Stock Purchase, Release and Confidentiality Agreement By
+               and Between AmeriCredit Corp. and Pacific Automart Inc., dated
+               August 3, 1993 (Exhibit 10.2)
+<PAGE>
+                             INDEX TO EXHIBITS
+
+                                (Continued)
+
+  ^10.15 --    Revolving Credit Agreement, dated October 18, 1993, between 
+               AmeriCredit Corp. and subsidiaries and First Interstate Bank
+               of Texas, N.A. (Exhibit 10.1)
+  @10.16 --    Stock Option Purchase Agreement, dated April 4, 1994, between
+               AmeriCredit Corp. and Rainwater Management Partners, Ltd.
+   @11.1 --    Schedule Re Computation of Per Share Earnings
+   @13.1 --    1994 Annual Report to Shareholders of the Company
+   @21.1 --    Subsidiaries of the Company
+   @23.1 --    Consent of Coopers & Lybrand
+   @27.1 --    Financial Data Schedule
+   _____________________________________________________________________
+
+*        Incorporated by reference to the exhibit shown in parenthesis
+         included in Registration Statement No. 33-31220 on Form S-1 filed by
+         the Company with the Securities and Exchange Commission.
+**       Incorporated by reference to the exhibit shown in parenthesis
+         included in Registration Statement No. 33-41203 on Form S-8 filed by
+         the Company with the Securities and Exchange Commission.
+***      Incorporated by reference to the exhibit shown in parenthesis
+         included in the Company's Annual Report on Form 10-K for the year
+         ended June 30, 1990 filed by the Company with the Securities and
+         Exchange Commission.
+#        Incorporated by reference to the exhibit shown in parenthesis
+         included in the Company's Annual Report on Form 10-K for the year
+         ended June 30, 1991 filed by the Company with the Securities and
+         Exchange Commission.
+##       Incorporated by reference to the exhibit shown in parenthesis
+         included in the Company's Current Report on Form 8-K dated August 3,
+         1993 filed by the Company with the Securities and Exchange
+         Commission.
+###      Incorporated by reference to the exhibit shown in parenthesis included
+         in the Company's Annual Report on Form 10-K for the year ended June
+         30, 1993 filed by the Company with the Securities and Exchange
+         Commission.
+^        Incorporated by reference to the exhibit shown in parenthesis included
+         in the Company's Quarterly Report on Form 10-Q for the quarterly
+         period ended September 30, 1993 filed by the Company with the
+         Securities and Exchange Commission.
+@        Filed herewith.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<DESCRIPTION>STOCK OPTION PURCH AGRMT
+<TEXT>
+
+                                                            EXHIBIT 10.16
+
+
+                      STOCK OPTION PURCHASE AGREEMENT
+
+     THIS STOCK OPTION PURCHASE AGREEMENT (the "Agreement"), dated as of
+April 4, 1994, is between AMERICREDIT CORP., a Texas corporation formerly named
+URCARCO, Inc., ("AmeriCredit"), and RAINWATER MANAGEMENT PARTNERS, LTD.,
+a Texas limited partnership "RMP").
+
+                                 RECITALS
+
+     WHEREAS, AmeriCredit has issued to RMP an option "Option") to purchase 3.5
+million shares of its Common Stock, par value $.01 per share, pursuant to a
+Stock Option Agreement, dated as of April 24, 1991, between AmeriCredit and
+RMP (the "Stock Option Agreement"), and AmeriCredit desires to purchase the
+Option from RMP and cancel the Stock Option Agreement and the related
+Registration Rights Agreement and the Management Services Agreement, each
+entered into as of April 24, 1991, between AmeriCredit and RMP (herein
+referred to as the Registration Rights Agreement and the Management Services
+Agreement), and RMP desires to sell the Option to AmeriCredit and to cancel
+each of such agreements.
+
+                                 AGREEMENT
+
+     NOW, THEREFORE, for an in consideration of the mutual agreements herein
+and for other good and valuable consideration, the receipt and sufficiency of
+which is hereby acknowledged, the parties agree as follows:
+
+<PAGE>
+     Section 1.  Sale of Option.  RMP hereby sells, assigns, transfers, conveys,
+sets over and delivers to AmeriCredit the Option and all rights, title, interest
+and claims possessed by RMP under the Option and the Stock Option Agreement,
+together with all other right, title and interest and claim in and to the
+Common Stock of AmeriCredit issuable thereunder and all rights, title and
+interest and claims accrued and/or accruing under the Registration Rights
+Agreement and the Management Services Agreement, in consideration for $6,237,000
+in hand paid in good funds on this date (the "Sale").  The payment made by
+AmeriCredit hereunder is in full and final settlement and satisfaction of all
+obligations of whatsoever nature now or hereafter due by AmeriCredit to RMP,
+its partners, legal representatives, successors and assigns under the Option,
+the Stock Option Agreement, the Registration Rights Agreement and the
+Management Services Agreement (other than indemnifications obligations, if
+any, relating to this transaction or facts or circumstances occurring prior to
+this transaction).  RMP hereby surrenders unto AmeriCredit the Stock Option
+Agreement for cancellation in accordance with the terms hereof, and
+AmeriCredit hereby acknowledges receipt of the original Stock Option Agreement,
+and hereby agrees to promptly mark it "cancelled".  RMP hereby acknowledges
+receipt of $6,237,000 in good funds from AmeriCredit, and RMP, on its own
+behalf and on behalf of its partners, legal representatives and its
+successors and assigns, hereby unconditionally and forever waives, relinquishes
+and releases all right, title, interest and claim accrued or accruing to the
+benefit of RMP under the Option and the Stock Option Agreement and under the
+Management Services Agreement and the Registration Rights Agreement.
+
+     Section 2.  Representations of AmeriCredit.  AmeriCredit represents that it
+has full power and authority to execute, deliver and perform this Agreement;
+this Agreement has been duly authorized by all requisite corporate action on the
+part of AmeriCredit and has been duly executed and delivered by AmeriCredit;
+AmeriCredit has obtained all consents and approvals requisite to the
+transactions contemplated hereby; and this Agreement constitutes a legal,
+valid and binding obligation of AmeriCredit, enforceable against AmeriCredit,
+its legal representatives, successors and assigns, in accordance with its terms.
+
+     Section 3.  Representations of RMP.  RMP represents that:
+
+     (a) Any and all rights RMP, its partners and its and their legal
+representatives, successors and assigns, possess in and to the Option and in
+and to shares of Common Stock issuable upon exercise of the Option or in and to
+any other rights accrued or accruing under the Option, the Stock Option
+Agreement, the Registration Rights Agreement and/or the Management Services
+Agreement, are hereby and shall hereafter be null and void and are of no further
+force or effect.
+
+     (b) RMP has full power and authority to execute, deliver and perform this
+Agreement; this Agreement has been duly authorized by all requisite partnership
+action on the part of RMP; RMP has obtained all consents and approvals requisite
+to the transactions contemplated hereby; and this Agreement has been duly
+executed and delivered by RMP, and constitutes a legal, valid and binding
+obligation of RMP, enforceable against RMP, its partners and its and their legal
+representatives, successors and assigns, in accordance with its terms.
+
+     (c) RMP is the true and lawful owner of the Option and no part of the
+Option is in any respect encumbered or committed to be encumbered, and there are
+no other persons or entities claiming an interest therein, and RMP has not
+assigned to any person or entity any interest or rights under the Stock Option
+Agreement, the Registration Rights Agreement and the Management Services
+Agreement, and no other persons or entities have a claim or any interest or
+rights thereunder.
+
+<PAGE>
+     Section 4.  Miscellaneous.
+
+     (a) Binding Effect.  This Agreement may not be assigned by either party
+hereto.  Subject to the foregoing, this Agreement shall be binding upon and
+inure to the benefit of the parties hereto and their respective successors or
+permitted assigns.
+
+     (b) Severability.  Any provision of this Agreement which is prohibited or
+unenforceable in any jurisdiction shall, in such jurisdiction, be ineffective to
+the extent of such prohibition or unenforceability without invalidating the
+remaining provision hereof, and any such prohibition or unenforceability in any
+jurisdiction shall not invalidate or render unenforceable such provision in any
+other jurisdiction.
+
+     (c) Entire Agreement; Modifications.  This instrument contains the entire
+agreement between the parties hereto with respect to the transactions
+contemplated hereby.  Neither this Agreement nor any provisions hereof may be
+waived, modified, amended, discharged or terminated except by an instrument in
+writing signed by the party to be charged, and then only to the extent set forth
+in such instrument.
+
+     (d) Headings.  Descriptive headings contained herein are for convenience of
+reference only and shall not affect the meaning or interpretation hereof.
+
+     (e) Counterparts.  This Agreement may be executed simultaneously or in two
+or more counterparts, each of which together shall constitute one and the same
+instrument.
+
+     (f) Applicable Law.  The rights and obligations of the parties to this
+Agreement shall be governed by the laws of the State of Texas applicable to
+contracts made or to be performed entirely within such state.
+
+     (g) Further Assurances.  Each party hereto agrees to execute any and all
+documents, and to perform such other acts, whether before or after the date
+hereof, that may be reasonably necessary or expedient to further the purposes of
+this Agreement or to further assure the benefits intended to be conferred
+hereby.
+
+     (h) Survival.  All representations, warranties, obligations and under-
+takings of the parties set forth herein shall survive the execution and delivery
+of this Agreement and Sale and other transactions contemplated hereby.
+
+<PAGE>
+     The parties execute this Agreement as of the date first above written.
+
+                        AMERICREDIT CORP.
+
+
+                        By:        /s/ Clifton H. Morris, Jr.             
+                             Clifton H. Morris, Jr., Chairman of the
+                             Board of Directors, President and 
+                             Chief Executive Officer
+
+                        RAINWATER MANAGEMENT PARTNERS, LTD.
+
+                        By:  Rainwater, Inc., its sole general partner
+
+                             By:            /s/ John C. Goff           
+                                   John C. Goff, Vice President
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>3
+<TEXT>
+
+                                                             EXHIBIT 11.1
+                             AMERICREDIT CORP.
+              STATEMENT RE COMPUTATION OF PER SHARE EARNINGS
+             (dollars in thousands, except per share amounts)
+
+<TABLE>
+<CAPTION>
+                                       Years Ended              
+                            June 30,     June 30,    June 30,
+                              1994         1993        1992  
+<S>                       <C>          <C>          <C>           
+PRIMARY:
+
+Average common shares
+ outstanding . . . . . . . 29,067,323   29,267,419   31,482,225
+
+Common share equivalents
+ resulting from
+ assumed exercise
+ of stock options
+ and warrants. . . . . . .  2,750,760                          
+                           ----------   ----------   ----------
+Average common shares 
+ and share equivalents
+ outstanding . . . . . . . 31,818,083   29,267,419   31,482,225
+                           ==========   ==========   ==========
+FULLY DILUTED:
+
+Average common shares
+ outstanding . . . . . . . 29,067,323   29,267,419   31,482,225
+
+Common share equivalents
+ resulting from
+ assumed exercise 
+ of stock options
+ and warrants. . . . . . .  2,750,760                          
+                           ----------   ----------   ----------
+Average common shares
+ and share equiv-
+ alents outstanding. . . . 31,818,083   29,267,419   31,482,225
+                           ==========   ==========   ==========
+NET INCOME (LOSS). . . . .$     5,065 ($    19,366)($    24,201)
+                           ==========   ==========   ==========
+EARNINGS (LOSS) PER SHARE:
+
+ Primary . . . . . . . . .$       .16 ($       .66)($       .77)
+                           ==========   ==========   ========== 
+ Fully diluted . . . . . .$       .16 ($       .66)($       .77)
+                           ==========   ===========  ==========
+</TABLE>
+
+Primary earnings (loss) per share has been computed by dividing net income
+(loss) by the average common shares and share equivalents outstanding.  Common
+share equivalents were computed using the treasury stock method.  The average
+common stock market price for the period was used to determine the number of
+common share equivalents.
+
+Fully diluted earnings (loss) per share has been computed in the same manner as
+primary earnings (loss) per share except that the higher of the average or end
+of period common stock market price was used to determine the number of common
+share equivalents.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<TEXT>
+
+                                                                         
+                                                                         
+                                                                         
+                                                             EXHIBIT 21.1
+
+
+
+                             AMERICREDIT CORP.
+
+                        SUBSIDIARIES OF THE COMPANY
+
+
+
+
+
+                                                     State of
+     Subsidiary                 Ownership %        Incorporation
+
+URCARCO Operating Co., Inc.        100%             Delaware
+
+Crestpointe General Agency, Inc.   100%             Texas
+
+AmeriCredit Financial Services,
+  Inc.                             100%             Delaware
+
+ACF Investment Corp.               100%             Delaware
+
+AmeriCredit Premium Finance, Inc.  100%             Delaware
+
+URCARCO Enterprises, Inc.          100%             Texas
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<TEXT>
+
+                                                                         
+                                                                         
+                                                                         
+                                                             EXHIBIT 23.1
+
+
+
+
+
+                    CONSENT OF INDEPENDENT ACCOUNTANTS
+
+
+
+We consent to the incorporation by reference in the registration statements of
+AmeriCredit Corp. on Form S-8 (File Nos. 33-41203 and 33-48162) of our report
+dated August 9, 1994, on our audits of the consolidated financial statements as
+of June 30, 1994 and 1993, and for the years ended June 30, 1994, 1993 and 1992,
+which report is incorporated by reference in this Annual Report on Form 10-K.
+
+
+
+
+COOPERS & LYBRAND L.L.P.
+
+
+
+
+Fort Worth, Texas
+September 27, 1994
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>6
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+CONSOLIDATED FINANCIAL STATEMENTS OF AMERICREDIT CORP. INCORPORATED BY REFERENCE
+INTO THE COMPANY'S ANNUAL REPORT ON FORM 10-K FOR THE YEAR ENDED JUNE 30, 1994
+AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1994
+<PERIOD-START>                             JUL-01-1993
+<PERIOD-END>                               JUN-30-1994
+<CASH>                                          15,756
+<SECURITIES>                                    26,506
+<RECEIVABLES>                                   81,480
+<ALLOWANCES>                                   (9,330)
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                     0
+<PP&E>                                           9,153
+<DEPRECIATION>                                 (3,808)
+<TOTAL-ASSETS>                                 122,215
+<CURRENT-LIABILITIES>                                0
+<BONDS>                                            388
+<COMMON>                                           318
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                     119,183
+<TOTAL-LIABILITY-AND-EQUITY>                   122,215
+<SALES>                                              0
+<TOTAL-REVENUES>                                15,882
+<CGS>                                                0
+<TOTAL-COSTS>                                    9,400
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                 1,249
+<INTEREST-EXPENSE>                                 168
+<INCOME-PRETAX>                                  5,065
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                                  0
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     5,065
+<EPS-PRIMARY>                                      .16
+<EPS-DILUTED>                                      .16
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>7
+<TEXT>
+
+
+[TEXT]
+<PAGE>
+Letter to Shareholders
+
+We are pleased to report that AmeriCredit Corp. posted a profit in our first
+full year in the indirect automobile lending business.    The Company earned
+$5.1 million or $0.16 per share for the year ended June 30, 1994, compared to
+a loss of $19.4 million or $0.66 per share for the year ended June 30, 1993. 
+The prior year's results included charges of $20.4 million related to a
+restructuring of the Company.  We have now reported six consecutive profitable
+quarters since the restructuring.
+
+These positive financial results reflect the performance of our core indirect
+lending business.  The financial measures of our growth in indirect lending
+are evident.  We originated $65.9 million of loans during fiscal 1994,
+increasing the size of our indirect lending portfolio by 325% to $67.6 million
+at June 30, 1994 from $16.0 million at the beginning of the year.  Finance
+charge income from indirect lending  was $7.8 million for the year ended June
+30, 1994, compared to $1.1 million for the previous year.
+
+Other steps we are taking to build the indirect lending business are just as
+important to our long-term success.  We are creating a solid foundation of
+people and systems to support our future growth plans.
+
+We opened 13 branch offices in fiscal 1994 bringing our branch network to 18
+offices in 13 states as of June 30, 1994.  In addition to attracting
+experienced branch managers for each of these new locations, we also added
+four seasoned regional managers to supervise our expanding branch operations.
+
+In the latter part of the fiscal year, we hired ten marketing
+representatives who are responsible for marketing our lending programs to auto
+dealerships primarily located outside our existing branch territories.  Unlike
+our branch managers, the marketing representatives do not have credit
+authority.  A central purchasing office has been set up at our headquarters
+facility in Fort Worth to underwrite finance contracts generated by these
+marketing representatives.  We believe that this initiative creates excellent
+growth opportunities for us in new markets and may enable us to expedite our
+national presence.
+
+We have made further investments in technology in an effort to increase our
+operating efficiency and strengthen controls.  We recently installed an
+automated application processing system in the branch network.  This system
+streamlines the credit application process, while allowing management to have
+central access to all applications.  In addition, a credit scoring system has
+been developed which is designed to empirically assess the credit quality of
+our applicant base.  Credit scoring should enhance the credit skills of our
+branch managers and could allow us, over time, to participate in a wider
+spectrum of the market.  We believe that our credit scoring technology is
+unique among secondary finance lenders.
+<PAGE>
+Consistent with our emphasis on the risk management aspects of our business,
+we have continued to upgrade our analytical systems and skills.  While there
+is no way to eliminate the risks inherent in our business, it is critical that
+secondary finance lenders, such as AmeriCredit, develop the tools to assess 
+risk and potential returns.  We are monitoring key variables of the loan
+origination process and portfolio performance.  We also review cash-on-cash
+returns not only on a consolidated basis, but also at the branch, dealer and
+transaction levels.  Our objective is to attain a proper balance of credit
+risk and projected returns.  The companies with the best risk management
+capabilities should ultimately have the greatest long-term success in our
+business.
+
+With a sound infrastructure in place, we believe that AmeriCredit is poised to
+pursue a greater share of our large, highly fragmented industry.  Although
+competition is intense, we believe that our technological investments and
+personnel expertise provide us a competitive advantage.  We plan to open one
+branch per month, add additional marketing representatives and expand loan
+production capacity at existing branch offices in fiscal 1995.
+
+The Company's current financial position is strong with over $42 million in
+cash, cash equivalents and investment securities and virtually no debt as of
+June 30, 1994.  Our growth plans for fiscal 1995 will, however, require us to
+obtain additional external capital.  We are pursuing an expansion of our bank
+line of credit, which is currently $20 million, and a securitization of a
+portion of our finance receivables portfolio.  We will keep you informed of
+our progress in this area.
+
+AmeriCredit has generated new shareholder interest and analyst coverage in
+recent months.  These shareholders and analysts have helped us communicate our
+strategies and goals.  We appreciate their support.
+
+The past year was an important rebuilding period for AmeriCredit.  We thank
+all of our employees, dealer customers and consumer customers for the
+excellent relationships we have developed.  Management is committed, with the
+help of these relationships, to creating significant long-term shareholder
+value.
+
+
+Sincerely,
+
+
+
+Clifton H. Morris, Jr.
+Chairman of the Board,
+Chief Executive Officer and President
+
+September 16, 1994
+<PAGE>
+Corporate Profile
+
+AmeriCredit Corp. is a consumer finance company specializing primarily in
+financing automobile sales contracts.  The Company is headquartered in Fort
+Worth, Texas.  As of September 15, 1994, the Company operated 20 consumer
+lending branch offices located in 15 states and had ten marketing
+representatives soliciting contracts underwritten at its central purchasing
+office.
+
+Through its branch offices and marketing representatives, the Company serves
+as a funding source for franchised and independent dealers to finance their
+customers' purchases of primarily used automobiles.  The Company targets
+consumers who are typically unable to obtain financing from traditional
+sources.  Consumer finance contracts originated by the dealers which conform
+to the Company's credit policies are purchased by the Company, generally for a
+non-refundable acquisition fee and without recourse to the dealer.  Such
+consumer finance loans typically range in amount from $6,000 to $12,000, with
+repayment terms usually ranging from 24 to 60 months.  The Company services
+its consumer loan portfolio at its central facility using automated loan
+servicing and collection systems.
+<PAGE>
+                                AMERICREDIT CORP.
+                   SUMMARY FINANCIAL AND OPERATING INFORMATION
+                  (dollars in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+                                            Years Ended                       
+                           June 30,  June 30,  June 30,   June 30,  June 30,
+                             1994      1993(a)   1992      1991      1990 
+<S>                      <C>        <C>       <C>        <C>        <C>
+Operating Data:
+
+  Finance charge income  $  12,788  $  13,904  $  23,989  $  30,737  $  12,452
+
+  Sales                                 8,271     48,454    155,924    150,417
+
+  Net income (loss)          5,065 (   19,366)(   24,201)(   36,188)    15,802
+
+  Earnings (loss) per
+    share                      .16 (      .66)(      .77)(     1.15)       .68
+
+  Weighted average
+    shares and share
+    equivalents         31,818,083 29,267,419 31,482,225 31,388,686 23,303,989
+
+<CAPTION>
+                           June 30,  June 30,  June 30,   June 30,  June 30,
+                             1994      1993      1992      1991      1990 
+
+<S>                      <C>       <C>        <C>        <C>        <C>
+Balance Sheet Data:
+
+  Cash and cash equivalents
+   and investment
+   securities             $ 42,262  $  68,425  $  39,303  $  14,255  $  71,894
+
+  Finance receivables,
+   net                      72,150     43,889     69,527    115,399    112,109
+
+  Total assets             122,215    131,127    153,564    181,388    223,371
+
+  Total liabilities          2,714      8,343      6,224      9,486     15,282
+
+  Shareholders' equity     119,501    122,784    147,340    171,902    208,089
+
+</TABLE>
+
+
+    (a)   As further described in the Financial Review, the Company withdrew
+          from the retail used car sales business effective December 31, 1992.<PAGE>
+
+
+                             FINANCIAL REVIEW
+GENERAL
+
+Since September 1992, the Company has been in the business of purchasing
+finance contracts originated by franchised and independent car dealers,
+generally referred to as indirect consumer lending.  Beginning April 1993, the
+Company has also financed insurance premiums for consumers purchasing car
+insurance through independent insurance agents.
+
+The Company previously engaged in the retail used car sales and finance
+business.  However, in connection with a restructuring during the year ended
+June 30, 1993, the Company withdrew from the retail used car sales business
+effective December 31, 1992.  The finance receivables originated in this
+previous business are referred to as the direct lending portfolio and are
+being liquidated over time as the contracts are collected or charged off.
+
+RESULTS OF OPERATIONS
+- - -----------------------
+Year Ended June 30, 1994 as compared to Year Ended June 30, 1993
+- - -------------------------------------------------------------------
+Revenue:
+
+The Company's overall finance charge income consisted of the following (in
+thousands):
+<TABLE>
+<CAPTION>
+                                          Years Ended           
+                                   June 30,          June 30,
+                                     1994              1993   
+<S>                             <C>       <C>    <C>        <C>
+Indirect consumer lending        $ 7,820   61%    $ 1,125     8%
+Direct lending                     3,711   29      12,718    92
+Premium finance                    1,257   10          61      
+                                  ------  ---      ------   --- 
+                                 $12,788  100%    $13,904   100%
+                                  ======  ===      ======   ===
+</TABLE>
+
+The increase in finance charge income for the indirect consumer lending
+business is a result of growth in average net finance receivables outstanding. 
+The Company purchased $65.9 million of indirect loans during fiscal 1994
+increasing the size of its indirect consumer lending portfolio to $67.6
+million at June 30, 1994 from $16.0 million at June 30, 1993.  This growth
+resulted from loan production at branches open at the beginning of the fiscal
+year as well as expansion of the Company's loan production capacity.  The
+Company opened thirteen branch offices in fiscal 1994 compared to five new
+locations opened during fiscal 1993.  Ten marketing representatives were also
+added in fiscal 1994.  The decrease in direct lending finance charge income is
+due to liquidation of the direct lending portfolio.  The Company's overall
+effective yield on its finance receivables increased to 20.4% from 18.5%
+primarily as a result of higher finance charge rates realized in the Company's
+indirect consumer lending business.  The effective yield on indirect consumer
+lending receivables was 20.8% for the year ended June 30, 1994, while the
+effective yield on direct lending receivables was 17.6% for the same period.
+
+Investment income increased as a result of higher average cash and cash
+equivalents and investment securities balances in fiscal 1994.  The Company's
+yield on its cash and cash equivalents and investment securities was 3.8% for
+the year ended June 30, 1994 as compared to 3.6% for the year ended June 30,
+1993.
+
+<PAGE>
+Other income for the year ended June 30, 1994 included $105,000 related to the
+Company's participation in certain joint ventures which acquire and collect
+distressed receivables portfolios.  These joint ventures were formed during
+fiscal  1994.
+
+As described under the caption "General" above, the Company exited the retail
+used car sales business effective December 31, 1992, and thus did not have
+sales in fiscal 1994.
+
+The Company's share of operating results of its former affiliate, Pacific
+Automart Inc., resulted in income of $392,000 for the year ended June 30,
+1993.  The Company sold its entire interest in Pacific Automart Inc. for
+$11,300,000 in cash on August 3, 1993.  No gain or loss was recognized on the
+sale.
+
+Costs and Expenses:
+
+Operating expenses as a percentage of average net finance receivables
+outstanding decreased to 15.0% for the year ended June 30, 1994 as compared to
+18.2% for the year ended June 30, 1993.  The ratio improved as a result of the
+Company's ability to leverage its fixed overhead costs by growing its finance
+receivables portfolio.  The dollar amount of operating expenses decreased by
+31%, or $4.3 million, to $9.4 million from $13.7 million.  The overall
+operating expense reduction was a result of the Company's exit from the retail
+used car sales business.
+
+The provision for losses decreased to $1.2 million as compared to $8.0
+million.  Further discussion concerning the provision for losses is included
+in the paragraph below and under the caption, "Finance Receivables".
+
+The restructuring charges of $15.4 million in the year ended June 30, 1993
+related to the Company's exit from the retail used car sales business.  These
+restructuring charges included an accrual of future retail lease and other
+facility costs, a write-down of used car inventories, a write-down of property
+and equipment and other assets and an accrual of other costs necessary to
+complete the liquidation of the retail sales operations.  In addition, the
+Company recorded a provision for losses of $5.0 million in connection with the
+restructuring in light of the impact that closure of the Company's retail
+sales locations could have on the Company's direct finance customer base.
+
+Year Ended June 30, 1993 as compared to Year Ended June 30, 1992
+- - -------------------------------------------------------------------
+Revenue:
+
+The Company's overall finance charge income decreased to $13.9 million as
+compared to $24.0 million because of a decrease in average net finance
+receivables outstanding.  The overall finance receivables portfolio decreased
+to $56.5 million at June 30, 1993 from $107.0 million at June 30, 1992.  This
+decline in portfolio size during fiscal 1993 was due to the Company's phase
+down and subsequent exit from the retail used car sales business, which was
+the Company's sole source for finance contracts prior to its entry into
+indirect consumer lending and premium finance.  The Company's indirect
+consumer lending and premium finance businesses, which were formed in fiscal
+1993, contributed $1,125,000 and $61,000, respectively, of finance charge
+income for the year ended June 30, 1993.  The Company's overall effective
+yield on its finance receivables increased to 18.5% from 16.9%.
+
+<PAGE>
+Investment income increased as a result of higher average cash and cash
+equivalents and investment securities balances in fiscal 1993.  The Company's
+yield on its cash and cash equivalents and investment securities was 3.6% for
+both the years ended June 30, 1993 and 1992.
+
+Other income for the year ended June 30, 1992 consisted primarily of
+commissions earned by the Company's wholly-owned subsidiary, Crestpointe
+General Agency, Inc., based upon the claims loss experience from certain
+collateral insurance policies financed by the Company through April 1991. 
+Since these policies had only a one-year term, the amount of commissions
+earned during the year ended June 30, 1993 decreased compared to the year
+ended June 30, 1992.
+
+Sales decreased due to the Company's phase down and exit from the retail used
+car sales business effective December 31, 1992.
+
+The Company's share of operating results of its former affiliate, Pacific
+Automart Inc., resulted in income of $392,000 for the year ended June 30, 1993
+compared to a loss of $777,000 for the year ended June 30, 1992.
+
+Costs and Expenses:
+
+Operating expenses as a percentage of average net finance receivables
+outstanding remained constant at 18.2% for both fiscal years.  The dollar
+amount of operating expenses decreased by 47%, or $12.1 million, to $13.7
+million from $25.8 million.  These expenses decreased due to the Company's
+phase down and exit from the retail used car sales business.
+
+The provision for losses decreased to $8.0 million as compared to $39.4
+million.  Further discussion concerning the provision for losses is included
+under the caption, "Finance Receivables".
+
+FINANCE RECEIVABLES
+
+The Company provides financing in relatively high-risk markets, and therefore,
+charge-offs and related losses are anticipated.  The Company records a
+periodic provision for losses as a charge to operations and a related
+allowance for losses in the consolidated balance sheet as a reserve against
+estimated future losses in the finance receivables portfolio.  In the indirect
+consumer lending business, the Company typically purchases individual finance
+contracts for a non-refundable acquisition fee on a non-recourse basis, and
+such acquisition fees are recorded  in the consolidated balance sheet as an
+allowance for losses.  The Company reviews historical origination and charge-
+off relationships, charge-off experience factors, collections information,
+delinquency reports, estimates of the value of the underlying collateral,
+economic conditions and trends and other information in order to make the
+necessary judgments as to the appropriateness of the periodic provision for
+losses and the allowance for losses.  Although the Company uses many resources
+to assess the adequacy of the allowance for losses, there is no precise method
+for accurately estimating the ultimate losses in the finance receivables
+portfolio.
+<PAGE>
+Net finance receivables represented 59.0% of the Company's total assets at
+June 30, 1994.  The following table presents certain data related to the
+finance receivables portfolio (dollars in thousands):
+<TABLE>
+<CAPTION>
+                                     June 30, 1994                        
+                        Indirect    Direct    Premium      Total  
+<S>                     <C>       <C>        <C>         <C>
+Gross finance
+  receivables            $80,507   $ 8,467    $ 6,631     $95,605
+Unearned finance
+ charges and fees       ( 12,871) (    770)  (    484)   ( 14,125)
+                          ------    ------     ------      ------
+Finance receivables
+ (principal amount)       67,636     7,697      6,147      81,480
+Allowance for losses    (  7,721) (  1,173)  (    436)   (  9,330)
+                          ------    ------     ------      ------
+ Finance receivables,
+   net                   $59,915   $ 6,524    $ 5,711     $72,150
+                          ======    ======     ======      ======
+Number of outstanding
+ contracts                 9,375     4,232     11,867      25,474
+                          ======    ======     ======      ======
+Allowance for losses as
+ a percentage of finance
+ receivables (principal
+ amount)                    11.4%     15.2%       7.1%       11.5%
+                          ======    ======     ======      ======  
+Average amount of 
+ outstanding contract
+ (principal amount)
+ (in dollars)            $ 7,215   $ 1,819    $   518     $ 3,199
+                          ======    ======     ======      ======
+</TABLE>
+
+Indirect Finance Receivables:
+
+The following is a summary of indirect consumer lending contracts which are
+more than 60 days delinquent (dollars in thousands):
+<TABLE>
+<CAPTION>
+                                           June 30,   June 30,
+                                             1994       1993  
+<S>                                        <C>        <C>
+Principal amount of delinquent contracts    $1,269     $  137
+Principal amount of delinquent contracts as
+ a percentage of total net indirect finance
+ receivables outstanding                       1.9%        .9%
+
+</TABLE>
+<PAGE>
+The following table presents charge-off data with respect to the Company's
+indirect finance receivables portfolio (dollars in thousands):
+<TABLE>
+<CAPTION>
+                                               Years Ended      
+                                          June 30,      June 30,
+                                            1994          1993  
+<S>                                       <C>           <C>
+Net charge-offs                            $1,432        $ 49
+Net charge-offs as a percentage of 
+ average net indirect finance
+ receivables outstanding                      3.8%         .7%
+
+</TABLE>
+
+The Company recorded periodic provisions for losses of $1,062,000 and $435,000
+related to its indirect finance receivables portfolio for the years ended June
+30, 1994 and 1993, respectively.  The Company also accounts for acquisition
+fees on indirect consumer lending contracts as additional allowances for
+losses.
+
+The Company began its indirect consumer lending business in September 1992. 
+Accordingly, the delinquency and charge-off data above is not necessarily
+indicative of delinquency and charge-off experience that could be expected for
+a more seasoned portfolio.
+
+Direct Finance Receivables:
+
+The following is a summary of direct lending contracts which are more than
+three payments delinquent if payment terms are weekly, bi-weekly or semi-
+monthly, and 60 days delinquent if payment terms are monthly (dollars in
+thousands):
+
+<TABLE>
+<CAPTION>
+                                           June 30,       June 30,
+                                             1994           1993  
+<S>                                        <C>            <C>
+Number of delinquent contracts                319            811
+Number of delinquent contracts as a 
+  percentage of the total number of
+  contracts outstanding                       7.5%           6.9%
+
+Amount of delinquent contracts *           $  897         $4,104
+Amount of delinquent contracts as a
+  percentage of total gross direct
+  finance receivables outstanding *          10.6%           9.1%
+
+</TABLE>
+
+*
+    Includes unearned finance charges
+<PAGE>
+The following table presents repossession and charge-off data with respect to
+the Company's direct finance receivables portfolio:
+<TABLE>
+<CAPTION>
+                                          Years Ended             
+                                 June 30,   June 30,     June 30,
+                                   1994       1993         1992 
+<S>                             <C>        <C>         <C>
+Repossessions and other
+  charge-offs                      2,613      7,780       8,617
+Repossessions and other
+  charge-offs as a percentage
+  of the average number of
+  contracts outstanding             32.9%      49.4%       37.7%
+Net charge-offs
+  (in thousands)                 $ 7,626    $34,191     $48,578
+Average net charge-off           $ 2,918    $ 4,395     $ 5,637
+Net charge-offs as a percentage
+ of average direct finance
+ receivables outstanding, less
+ unearned finance charges           36.2%      49.0%       34.2%
+
+</TABLE>
+
+Net charge-offs as a percentage of average direct finance receivables
+outstanding has decreased as the portfolio has become more seasoned and
+average outstanding contract balances have decreased.
+
+The Company recorded provisions for losses of $7,522,000 and $39,350,000
+related to its direct lending portfolio for the years ended June 30, 1993 and
+1992, respectively.  No provision for losses was recorded for the year ended
+June 30, 1994.  As of June 30, 1994, the Company reassigned $2,000,000 of
+allowances for losses from the direct lending portfolio to the indirect
+consumer lending and premium finance portfolios based upon an evaluation of
+the level of reserves necessary for the remaining liquidation of the direct
+lending finance receivables.
+
+
+Premium Finance Receivables:
+
+Premium finance loans made by the Company are collateralized by the unearned
+premium value of the car insurance policies financed.  If the consumer
+defaults on the payment terms of the loan, the Company has the right to cancel
+the insurance policy and obtain a refund of unearned premiums from the
+insurance carrier.  While the Company generally requires a sufficient down
+payment and limits the terms of loans so that the unearned premium value
+typically exceeds the outstanding principal balance of the loan, charge-offs
+may still result from untimely policy cancellations, short rate insurance
+premium refunds, non-refundable policy fees, insurance company or agency
+insolvencies or other factors.  The Company recorded periodic provisions for
+losses of $187,000 and $7,000 related to its premium finance receivables
+portfolio for the years ended June 30, 1994 and 1993, respectively.
+<PAGE>
+The following table presents charge-off data with respect to the Company's
+premium finance receivables portfolio (dollars in thousands):
+<TABLE>
+<CAPTION>
+                                    Years Ended     
+                                 June 30,  June 30,
+                                   1994      1993  
+<S>                              <C>       <C>
+Net charge-offs                   $158        -
+
+Net charge-offs as a percentage
+ of average net premium finance
+ receivables outstanding           3.7%       -
+
+</TABLE>
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Company's cash flows are summarized as follows (in thousands):
+<TABLE>
+<CAPTION>
+                                             Years Ended            
+                                 June 30,   June 30,    June 30,
+                                   1994       1993        1992  
+<S>                            <C>         <C>         <C>
+Operating activities             $ 3,900     $17,332    $21,434
+Investing activities            ( 12,174)   (  8,121)  (  3,889)
+Financing activities            (  9,238)   (  5,705)  (  2,038)
+                                  ------      ------     ------
+Net increase (decrease) in
+ cash and cash equivalents      ($17,512)    $ 3,506    $15,507
+                                  ======      ======     ======
+</TABLE>
+
+In addition to the net change in cash and cash equivalents shown above, the
+Company also had a net decrease in investment securities of $8,651,000 for the
+year ended June 30, 1994 and net increases in investment securities of
+$25,616,000 and $9,541,000 for the years ended June 30, 1993 and 1992,
+respectively.  Such amounts are included as investing activities in the above
+table.
+
+The Company's primary source of cash has been collections and recoveries on
+its finance receivables portfolio.  The Company also received an income tax
+refund of $10.5 million in October 1992 and proceeds from the sale of its
+interest in Pacific Automart Inc. of $11.3 million in August 1993.
+
+The Company's primary use of cash has been purchases and originations of
+finance receivables.  The Company entered the indirect consumer lending
+business in September 1992 and has grown the indirect finance receivables
+portfolio to $67.6 million as of June 30, 1994.  The Company operated eighteen
+indirect consumer lending branches in thirteen states and had ten marketing
+representatives as of June 30, 1994.  The Company plans to open twelve
+additional consumer lending branches, add additional marketing
+representatives, and expand loan production capacity at existing branch
+offices in fiscal 1995.  While the Company has been able to establish and grow
+this business thus far, there can be no assurance that future expansion will
+be successful due to competitive, regulatory, market, economic or other
+factors.
+
+<PAGE> 
+The Company's Board of Directors has authorized the repurchase of up to
+6,000,000 shares of the Company's common stock.  A total of 3,017,300 shares
+of common stock at an aggregate purchase price of $8,743,000 had been
+purchased pursuant to this program through June 30, 1994.
+
+On April 4, 1994, the Company purchased and cancelled the stock option to
+purchase up to 3,500,000 shares of its common stock held by Rainwater
+Management Partners, Ltd. for $1.782 per option share or $6,237,000.  The
+stock option had an exercise price of $3.218 per share and was exercisable
+through April 24, 1994.
+
+As of June 30, 1994, the Company had $42.3 million in cash and cash
+equivalents and investment securities.  The Company also has a revolving
+credit agreement with a bank under which the Company may borrow up to $20
+million.  The Company estimates that it will require additional external
+capital in fiscal 1995 in addition to these existing capital resources and
+collections and recoveries on its finance receivables portfolio in order to
+fund expansion of its indirect consumer lending business, capital
+expenditures, any additional common stock repurchases and other costs and
+expenses.
+
+The Company anticipates that such funding will be in the form of an expanded
+bank line of credit and securitization of a portion of its finance receivables
+portfolio.  There can be no assurance that external funding will be available,
+or if available, that it will be on terms acceptable to the Company.
+
+<PAGE>
+                             AMERICREDIT CORP.
+                        CONSOLIDATED BALANCE SHEETS
+                          (dollars in thousands)
+
+<TABLE>
+<CAPTION>
+                                       June 30,     June 30,
+                                         1994         1993  
+<S>                                    <C>          <C>
+ASSETS
+Cash and cash equivalents              $ 15,756     $ 33,268
+Investment securities                    26,506       35,157
+Finance receivables, net                 72,150       43,889
+Property and equipment, net               5,345        5,582
+Other assets                              2,458        1,931
+Investment in affiliate                               11,300
+                                        -------      -------
+           Total assets                $122,215     $131,127
+                                        =======      =======
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Liabilities:
+ Notes payable                         $    388     $  1,278
+ Accounts payable                           281          204
+ Accrued taxes and expenses               2,045        6,861
+                                        -------      -------
+           Total liabilities              2,714        8,343
+                                        -------      -------
+Commitments and contingencies
+
+Shareholders' equity:
+ Preferred stock, $.01 par value
+    per share, 20,000,000 shares
+    authorized; none issued
+ Common stock, $.01 par value per 
+    per share, 120,000,000 shares          
+    authorized; 31,757,333 and
+    31,723,733 shares issued                318          317
+ Additional paid-in capital             183,588      189,695
+ Accumulated deficit                  (  55,717)   (  60,782)
+                                        -------      -------
+                                        128,189      129,230
+     
+ Treasury stock, at cost (3,008,360
+    and 2,614,200 shares)             (   8,688)   (   6,446)
+                                        -------      -------
+    Total shareholders' equity          119,501      122,784
+                                        -------      -------
+    Total liabilities and shareholders'
+      equity                           $122,215     $131,127
+                                        =======      =======
+
+</TABLE>
+
+                The accompanying notes are an integral part
+                of these consolidated financial statements
+<PAGE>
+
+                             AMERICREDIT CORP.
+                   CONSOLIDATED STATEMENTS OF OPERATIONS
+               (dollars in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+                                          Years Ended              
+                               June 30,     June 30,     June 30,
+                                 1994         1993         1992  
+<S>                         <C)          <C>          <C>
+                            
+Revenue:
+ Finance charge income       $    12,788  $    13,904  $    23,989
+ Investment income                 2,550        2,052          857
+ Other income                        544          262        1,694
+ Sales                                          8,271       48,454
+ Equity in income (loss) of
+    affiliate                                     392 (        777)
+                              ----------   ----------   ----------
+                                  15,882       24,881       74,217
+                              ----------   ----------   ----------
+Costs and expenses:
+ Operating expenses                9,400       13,672       25,816
+ Provision for losses              1,249        7,964       39,350
+ Interest expense                    168          221          322
+ Cost of sales                                  6,986       31,986
+ Restructuring charges                         15,404                 
+                              ----------   ----------   ----------
+                                  10,817       44,247       97,474
+                              ----------   ----------   ----------
+Income (loss) before income
+ taxes                             5,065 (     19,366)(     23,257)
+
+Provision for income taxes                            (        944)
+                              ----------   ----------   ----------
+Net income (loss)            $     5,065 ($    19,366)($    24,201)
+                              ==========   ==========   ==========
+Earnings (loss) per share    $       .16 ($       .66)($       .77)
+                              ==========   ==========   ==========
+Weighted average shares and
+ share equivalents            31,818,083   29,267,419   31,482,225
+                              ==========   ==========   ========== 
+
+</TABLE>
+
+
+                The accompanying notes are an integral part
+                of these consolidated financial statements
+
+<PAGE>
+                                AMERICREDIT CORP.
+                 CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                              (dollars in thousands)
+
+<TABLE>
+<CAPTION>                                               Additional
+                         Common Stock    Treasury Stock  Paid-in   Accumulated
+                        hares   Amount   Shares Amount   Capital     Deficit
+<S>                 <C>         <C>   <C>       <C>    <C>         <C>
+
+Balance at
+ July 1, 1991        31,388,901  $314                   $188,803   ($17,215)
+
+Common stock 
+ issued on exercise
+ of option              112,665     1                        232
+
+Purchase of
+  treasury stock                        220,500 ($  594)
+
+Net loss                                                           ( 24,201)
+                     ----------   --- ---------   -----  -------     ------
+Balance at
+ June 30, 1992       31,501,566   315   220,500 (   594) 189,035   ( 41,416)
+
+Common stock
+ issued on exercise
+ of options             222,167     2                        660
+
+Purchase of
+  treasury stock                      2,393,700 ( 5,852)
+
+Net loss                                                           ( 19,366)
+                     ----------  ---  ---------   -----   -------    ------
+Balance at
+ June 30, 1993       31,723,733  317  2,614,200 ( 6,446)  189,695  ( 60,782)
+
+Common stock
+ issued on exercise
+ of options              33,600    1                          130
+
+Purchase of
+ treasury stock                         403,100 ( 2,297)
+
+Purchase and
+ cancellation of
+ stock option                                            (  6,237)
+
+Contribution of
+  common stock
+  to employee
+  benefit plan                       (    8,940)     55
+
+Net income                                                            5,065
+                    ----------   ---  ---------   -----   -------    ------
+Balance at
+ June 30, 1994      31,757,333  $318  3,008,360 ($8,688) $183,588  ($55,717)
+                    ==========   ===  =========   =====   =======    ====== 
+</TABLE>
+                   The accompanying notes are an integral part
+                    of these consolidated financial statements
+
+<PAGE>
+                                AMERICREDIT CORP.
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                              (dollars in thousands)
+<TABLE>
+<CAPTION>
+                                                       Years Ended             
+                                              June 30,   June 30,    June 30,
+                                                1994       1993        1992 
+<S>                                          <C>        <C>         <C>
+Cash flows from operating activities:
+  Net income (loss)                           $ 5,065    ($19,366)  ($24,201)
+  Adjustments to reconcile net income
+    (loss) to net cash provided by 
+    operating activities:
+     Depreciation and amortization              1,274       1,862      2,067
+     Provision for losses                       1,249       7,964     39,350
+     Equity in (income) loss of affiliate                (    392)       777
+     Deferred income taxes                                            12,082
+     Restructuring charges                                  2,401
+     Changes in assets and liabilities:
+       Decrease in other assets                 1,051      11,683        906
+       Decrease (increase) in income tax
+         refunds receivable                                10,546   (  7,359)
+       Increase (decrease) in accounts
+         payable and accrued taxes and
+         expenses                            (  4,739)      2,634   (  2,188)
+                                               ------      ------     ------
+           Net cash provided by
+             operating activities               3,900      17,332     21,434
+                                               ------      ------     ------
+Cash flows from investing activities:
+  Purchases and originations of finance
+    receivables                              ( 76,208)   ( 24,716)  ( 45,893)
+  Principal collections and recoveries
+    on finance receivables                     46,698      42,390     52,415
+  Purchases of property and equipment        (  3,255)   (    544)  (  1,187)
+  Proceeds from disposition of property
+    and equipment                                 640         365        317
+  Purchases of investment securities         ( 19,183)   ( 31,692)  ( 10,543)
+  Proceeds from sales and maturities of
+    investment securities                      27,834       6,076      1,002
+  Proceeds from sale of investment in
+    affiliate                                  11,300                     
+                                               ------      ------     ------
+           Net cash used by investing
+             activities                      ( 12,174)   (  8,121)  (  3,889)
+                                               ------      ------     ------
+Cash flows from financing activities:
+  Payments on notes payable                  (    890)   (    515)  (  1,677)
+  Proceeds from issuance of common stock          186         662        233
+  Purchase of treasury stock                 (  2,297)   (  5,852)  (    594)
+  Purchase and cancellation of stock option  (  6,237)                      
+                                               ------      ------     ------ 
+           Net cash used by financing
+             activities                      (  9,238)   (  5,705)  (  2,038)
+                                               ------      ------     ------   
+Net increase (decrease) in cash 
+  and cash equivalents                       ( 17,512)      3,506     15,507
+
+Cash and cash equivalents at
+  beginning of year                            33,268      29,762     14,255
+                                               ------      ------     ------ 
+Cash and cash equivalents at end of year      $15,756     $33,268    $29,762
+                                               ======      ======     ======
+</TABLE>
+
+                   The accompanying notes are an integral part
+                    of these consolidated financial statements
+
+<PAGE>
+                             AMERICREDIT CORP.
+                NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.  Summary of Significant Accounting Policies
+
+History and Operations
+
+AmeriCredit Corp. ("the Company") was formed on August 1, 1986 and began
+operations in March 1987.  Since September 1992, the Company has been in the
+business of purchasing finance contracts originated by franchised and
+independent car dealers, generally referred to as indirect consumer lending.
+The Company operated 18 indirect consumer lending branch offices in thirteen
+states and had ten marketing representatives as of June 30, 1994.  Beginning
+April 1993, the Company has also financed insurance premiums for consumers
+purchasing car insurance through independent insurance agents.
+
+The Company previously engaged in the retail used car sales and finance
+business.  However, in connection with a restructuring during the year ended
+June 30, 1993 (see Note 10), the Company withdrew from the retail used car
+sales business effective December 31, 1992.  The finance receivables
+originated in this previous business are referred to as the direct lending
+portfolio and are being liquidated over time as the contracts are collected
+or charged-off.
+
+Consolidation
+
+The consolidated financial statements include the accounts of the Company and
+its wholly-owned subsidiaries.  All significant intercompany transactions and
+accounts have been eliminated in consolidation.
+
+Cash Equivalents
+
+Investments in highly liquid securities with original maturities of 90 days or
+less are included in cash and cash equivalents.
+
+Investment Securities
+
+Investment securities are considered held-to-maturity and are carried at
+amortized cost.
+
+Finance Receivables
+
+Finance charge income related to finance receivables is recognized using the
+interest method.  Accrual of finance charge income is suspended on finance
+contracts which are the lesser of three payments or 60 days delinquent.  Fees
+and commissions received and direct costs of originating loans are deferred
+and amortized over the term of the related finance contracts also using the
+interest method.
+
+Provisions for losses are charged to operations in amounts sufficient to
+maintain the allowance for losses at a level considered adequate to cover
+estimated future losses in the existing finance receivables portfolio.  In
+the indirect lending business, the Company typically purchases individual
+finance contracts for a non-refundable acquisition fee on a non-recourse
+basis, and such acquisition fees are also added to the allowance for losses.
+
+<PAGE>
+The Company reviews charge-off experience, delinquency reports, estimates of
+the value of the underlying collateral, economic conditions and trends and
+other information in order to make the necessary judgments as to the
+appropriateness of the periodic provision for losses and the allowance for
+losses.  Finance contracts are charged-off to the allowance for losses when
+the Company repossesses the collateral or the account is otherwise deemed
+uncollectible.
+
+Property and Equipment
+
+Property and equipment are carried at cost.  Depreciation is generally provided
+on a straight-line basis over the estimated useful lives of the assets.
+
+The cost of assets sold or retired and the related accumulated depreciation are
+removed from the accounts at the time of disposition, and any resulting gain or
+loss is included in operations.  Maintenance, repairs, and minor replacements
+are charged to operations as incurred; major replacements and betterments are
+capitalized.
+
+Income Taxes
+
+Deferred income taxes are provided, when appropriate, in accordance with the
+asset and liability method of accounting for income taxes as prescribed by
+Statement of Financial Accounting Standards No. 109, "Accounting for Income
+Taxes", to recognize the tax effects of temporary differences between financial
+statement and income tax accounting.
+
+Earnings (Loss) Per Share
+
+Earnings (loss) per share is based upon the weighted average number of shares
+outstanding during each year, adjusted for any dilutive effect of warrants and
+options using the treasury stock method.
+
+2. Investment Securities
+
+The amortized cost and estimated market value of investment securities as of
+June 30, 1994, by issuer type, are as follows (in thousands):
+<TABLE>
+<CAPTION>
+                                   Gross     Gross    Estimated
+                    Amortized   Unrealized Unrealized   Market
+                       Cost        Gains     Losses     Value  
+<S>                <C>           <C>       <C>       <C>
+U.S. Government
+ obligations        $ 5,600       $          $347     $ 5,253
+State and local
+ government
+ obligations            550                               550
+Corporate debt
+ securities          10,152                    30      10,122
+Mortgage-backed
+ securities          10,204         3         188      10,019
+                     ------        --         ---      ------
+                    $26,506       $ 3        $565     $25,944
+                     ======        ==         ===      ======
+</TABLE>
+<PAGE>
+
+
+
+The amortized cost and estimated market value of investment securities as of
+June 30, 1993, by issuer type, are as follows (in thousands):
+<TABLE>
+<CAPTION>
+                                   Gross     Gross    Estimated
+                    Amortized   Unrealized Unrealized   Market
+                       Cost        Gains     Losses     Value  
+<S>                <C>           <C>       <C>       <C>
+U.S. Government
+ obligations        $ 5,602       $  2      $         $ 5,604
+State of Utah
+ government
+ obligations          4,674         32                  4,706
+Other state and 
+ local government
+ obligations          2,550         12                  2,562
+Corporate debt
+ securities           4,303         32                  4,335
+Mortgage and other
+ asset-backed
+ securities          18,028        214        32       18,210
+                     ------        ---       ---       ------
+                    $35,157       $292      $ 32      $35,417
+                     ======        ===       ===       ======
+</TABLE>
+
+The amortized cost and estimated market value of investment securities as of
+June 30, 1994, by contractual maturity, are shown below.  Expected maturities
+will differ from contractual maturities because borrowers may have the right
+to call or prepay obligations with or without call or prepayment penalties.
+
+<TABLE>
+<CAPTION>
+                                                   Estimated
+                                       Amortized     Market
+                                          Cost       Value  
+<S>                                    <C>         <C>
+Due in one year or less                 $10,302     $10,294
+Due after one year through five years     6,000       5,631
+                                         ------      ------                                                    
+                                         16,302      15,925
+                        
+Mortgage-backed securities               10,204      10,019
+                                         ------      ------
+                                        $26,506     $25,944
+                                         ======      ======
+</TABLE>
+
+Proceeds from the sale of investment securities during the years ended June 30,
+1994, 1993 and 1992 were $1,857,275, $942,000 and $1,002,000, respectively.  No
+material gain or loss was realized on those sales.
+
+<PAGE>
+
+3. Finance Receivables
+
+Finance receivables consist of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                       June 30,      June 30,
+                                         1994          1993  
+<S>                                    <C>           <C>
+Indirect consumer lending:
+ Precomputed interest                   $55,617       $17,892
+ Simple interest                         24,890         2,180
+                                         ------        ------ 
+                                         80,507        20,072
+Direct lending                            8,467        45,071
+Premium finance                           6,631         1,700
+                                         ------        ------
+ Total finance receivables               95,605        66,843
+                               
+Less unearned finance charges and fees ( 14,125)     ( 10,373)
+                                         ------        ------ 
+Principal amount of finance receivables  81,480        56,470
+                          
+Less allowance for losses              (  9,330)     ( 12,581)
+                                         ------        ------ 
+Finance receivables, net                $72,150       $43,889
+                                         ======        ====== 
+</TABLE>
+
+The Company's finance contracts typically provide for finance charges on
+either a precomputed or simple interest basis.  Precomputed interest finance
+receivables include principal and unearned finance charges.  Simple interest
+finance receivables include principal only.  All direct lending and premium
+finance contracts are precomputed interest finance receivables.
+
+Direct and indirect consumer lending finance contracts are collateralized by
+car titles and the Company has the right to repossess the car in the event
+that the consumer defaults on the payment terms of the contract.  A
+significant portion of such finance receivables are with consumers located in
+the state of Texas.
+
+The accrual of finance charge income has been suspended on $2,244,000 and
+$3,589,000 of delinquent finance contracts as of June 30, 1994 and 1993,
+respectively.
+
+Contractual maturities of finance receivables for years ending June 30 are as
+follows (in thousands):
+<TABLE>
+                        <C>        <C>
+                         1995       $34,828
+                         1996        22,682
+                         1997        15,455
+                         1998         6,121
+                         1999         2,394
+                                     ------
+                                    $81,480
+                                     ======
+</TABLE> 
+<PAGE>
+The Company's experience has been that a portion of the scheduled payments
+will be received prior to contractual maturity dates.
+
+A summary of the allowance for losses is as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                         Years Ended              
+                             June 30,      June 30,    June 30,
+                               1994          1993        1992  
+<S>                          <C>           <C>         <C>
+Balance at beginning of year  $12,581       $37,468     $46,696
+Provision for losses            1,249         7,964      39,350
+Acquisition fees on indirect
+ consumer lending contracts     4,716         1,389
+Net charge-offs              (  9,216)     ( 34,240)   ( 48,578)
+                               ------        ------      ------  
+ Balance at end of year       $ 9,330       $12,581     $37,468
+                               ======        ======      ======    
+</TABLE>
+
+4. Property and Equipment
+
+Property and equipment consists of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                           June 30,     June 30,
+                                             1994         1993  
+<S>                                        <C>          <C>
+Land                                        $  700       $ 1,246
+Buildings and improvements                   2,279         1,175
+Leasehold improvements                                       453
+Equipment                                    5,307         7,073
+Furniture and fixtures                         867         1,021
+                                             -----        ------
+                                             9,153        10,968
+
+Less accumulated depreciation
+  and amortization                         ( 3,808)     (  5,386)
+                                             -----        ------
+                                            $5,345       $ 5,582
+                                             =====        ======
+
+</TABLE>
+
+Included in property and equipment is certain leased equipment with a cost of 
+$780,000 and $2,234,000, and accumulated amortization of $417,000  and
+$1,429,000 as of June 30, 1994 and 1993, respectively.
+
+5. Investment in Affiliate
+
+The Company had a joint venture arrangement with certain entities and
+individuals for the purpose of establishing and operating retail used car
+sales lots in the state of California.  The joint venture entity, Pacific
+Automart Inc., was owned 50% by the Company and 50% by the other investors. 
+On August 3, 1993, the Company sold its entire interest in the joint venture
+to Pacific Automart Inc. for $11,300,000 in cash.  No gain or loss was
+recognized on the sale.
+
+<PAGE>
+The joint venture investment was being accounted for using the equity method,
+whereby the Company recorded its 50% share of earnings or losses of the joint
+venture in its consolidated financial statements.
+
+6.  Notes Payable
+
+Notes payable consist of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                          June 30,   June 30,
+                                            1994       1993  
+<S>                                       <C>        <C>
+Obligations under capital leases,
+  interest at varying rates,
+  due in monthly installments
+  including interest through
+  November 1996, collateralized
+  by certain equipment                     $385       $  792
+
+Mortgage notes payable, interest
+  at 10%, due in monthly install-
+  ments including interest through
+  March 1995, collateralized by
+  certain land                                3          486
+                                            ---        -----
+                                           $388       $1,278
+                                            ===        =====
+
+</TABLE>
+
+Maturities of notes payable for years ending June 30 are as follows (in
+thousands):
+
+<TABLE>
+                      <C>           <C>
+                       1995         $165
+                       1996          163
+                       1997           60
+                                     ---
+                                    $388
+                                     ===
+
+</TABLE>
+
+The Company has a revolving credit agreement with a bank under which the
+Company may borrow up to $20,000,000, subject to a defined borrowing base.  No
+borrowings were outstanding as of June 30, 1994.  Borrowings under the credit
+agreement will be collateralized by the indirect consumer lending finance
+receivables portfolio and will bear interest at the bank's prime rate (7.25%
+at June 30, 1994) plus 1/2%.  The Company is also required to pay an annual
+commitment fee equal to 3/8% of the unused portion of the credit agreement. 
+The credit agreement, which expires on October 18, 1994, contains various
+restrictive covenants requiring certain minimum financial ratios and placing
+certain limitations on the incurrence of additional debt and capital
+expenditures.
+
+<PAGE>
+
+7.  Accrued Taxes and Expenses
+
+Accrued taxes and expenses consist of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                           June 30,     June 30,
+                                             1994         1993  
+<S>                                       <C>           <C>
+
+Accrued facility closing costs             $  153        $4,499
+Accrued sales and use taxes                   244           794
+Accrued legal costs                           718           794
+Accrued payroll                               517           148
+Other                                         413           626
+                                            -----         -----
+                                                 
+                                           $2,045        $6,861
+                                            =====         =====
+</TABLE>
+
+8. Commitments and Contingencies
+
+Indirect consumer lending branch offices are generally leased for terms of up
+to three years with certain rights to extend for additional periods.   Lease
+expense, including amounts related to the retail sales locations prior to the
+Company's exit from the retail used car sales business, was $419,000,
+$1,259,000 and $2,034,000 for the years ended June 30, 1994, 1993 and 1992,
+respectively.  Lease commitments for years ending June 30 are as follows
+(in thousands):
+<TABLE>
+                       <C>           <C>
+                        1995          $297   
+                        1996           253   
+                        1997           169   
+                        1998            32  
+                        1999            21
+                                       ---                        
+                                      $772
+                                       ===
+</TABLE>
+
+Four lawsuits were filed against the Company, several of its current and former
+officers and directors, and certain other defendants, alleging violations of
+federal securities and other laws.  The suits were originally filed in July
+1990, and in October 1991, the four lawsuits were consolidated into one
+action.  In May 1993, the U.S. District Court for the Northern District of
+Texas, Dallas Division, dismissed with prejudice all claims alleging
+violations of federal securities laws.  The plaintiffs' state law claims were
+dismissed for want of jurisdiction.  The plaintiffs appealed the dismissal to
+the Court of Appeals for the Fifth Circuit.  On August 8, 1994, the Court of
+Appeals for the Fifth Circuit affirmed the U.S. District Court's dismissal of
+the lawsuit.
+
+The Company is involved in other lawsuits arising in the normal course of
+business.  In the opinion of management, the resolution of these matters will
+not have a material adverse effect on the Company's consolidated financial
+position, results of operations or liquidity.
+<PAGE>
+
+9.  Stock Options and Warrants
+
+The Company has certain stock option plans for key employees.  The plans
+generally provide for options to be granted, become exercisable, and terminate
+upon terms established by a committee of the Board of Directors.
+
+The Company also has certain stock option plans for non-employee directors. 
+Except for the 1989 Stock Option Plan for Non-Employee Directors which has been
+terminated as to future grants, the terms under which options are to be
+granted, become exercisable and terminate are established by the plans.
+
+A summary of stock option activity under these plans is as follows:
+
+<TABLE>
+<CAPTION>
+                               Options        Options Outstanding    
+                              Available    Shares     Price Per Share
+<S>                          <C>        <C>          <C>
+Balance at July 1, 1991
+ (495,965 shares
+  exercisable)                2,268,669  3,770,131    $1.50 - 14.50
+Granted                      (1,315,000) 1,315,000     2.50 -  4.00
+Canceled                      1,480,668 (1,496,668)    1.50 - 11.75
+Exercised                               (  112,665)    1.50 -  3.00
+                              ---------  ---------     ------------
+Balance at June 30, 1992
+ (634,133 shares
+  exercisable)                2,434,337  3,475,798     1.80 - 14.50
+Granted                      (  545,000)   545,000     3.00 -  4.26
+Canceled                        396,300 (  741,100)    2.88 -  4.38
+Exercised                               (  222,167)    1.80 -  4.63
+                              ---------  ---------     ------------
+Balance at June 30, 1993
+ (1,893,400 shares
+  exercisable)                2,285,637  3,057,531     2.50 - 14.50
+Granted                      (  814,880)   814,880     5.63 -  7.50
+Canceled                         78,900 (   78,900)    2.88 - 14.50
+Exercised                               (   33,600)    2.50 -  5.75
+                              ---------  ---------     ------------
+ Balance at June 30, 1994
+  (2,259,465 shares
+  exercisable)                1,549,657  3,759,911    $2.50 - 14.50
+                              =========  =========     ============
+</TABLE>
+
+On April 24, 1991, the Company entered into a management services agreement
+with Rainwater Management Partners, Ltd. ("RMP").  Pursuant to such agreement,
+RMP provided certain consulting services related to strategic analysis of the
+Company's operations and major policy actions and directions.  As part of the
+transaction, the Company issued to RMP a stock option to purchase up to
+3,500,000 shares of its common stock at an exercise price of $3.218 per share. 
+Ten percent of the option was exercisable at the time of issuance, and the
+balance of the option became exercisable over an 18-month period. On April 4,
+1994, the Company purchased and canceled this stock option for $1.782 per
+option share or $6,237,000.  The management services agreement with RMP was
+also terminated.
+
+In connection with a private stock offering in November 1989, the placement
+agents received warrants to purchase 244,185 shares of the Company's common
+stock at an exercise price of $7.33 per share.  These warrants expire in
+September 1994.
+
+<PAGE>
+
+10.     Restructuring Charges
+
+Restructuring charges consist of the following for the year ended June 30,
+1993 (in thousands):
+
+<TABLE>
+<S>                                      <C>
+Facility closing costs                    $ 4,892
+Write-down of inventories                   4,123
+Write-down of retail car sales assets       2,401
+Severance pay and other retail car sales
+ phase out costs                            1,813
+Other                                       2,175
+                                           ------
+                                          $15,404
+                                           ======
+</TABLE>
+
+11. Income Taxes
+
+The provision for income taxes consists of the following for the year ended
+June 30, 1992(in thousands):
+
+<TABLE>
+
+<S>                              <C>
+Current                           $11,138
+Deferred                         ( 12,082)
+                                   ------                                 
+                                 
+                                 ($   944)
+                                   ======  
+</TABLE>
+
+The Company's effective income tax rate on income (loss) before income taxes
+differs from the U.S. statutory tax rate as follows:
+
+<TABLE>
+<CAPTION>
+                                           Years Ended           
+                                   June 30,  June 30,   June 30,
+                                     1994      1993       1992 
+<S>                                <C>        <C>        <C>
+U.S. statutory tax rate              34%       (34%)      (34%)
+Utilization of net operating loss
+ carryforwards                      (34 )
+Losses providing no income tax
+ benefit                                         34        34
+Alternative minimum tax and other                           4
+                                     --         --         --
+                                      0%         0%         4%
+                                     ==         ==         ==
+</TABLE>
+
+
+<PAGE>
+The deferred income tax provision consists of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                           Years Ended           
+                                   June 30,  June 30,   June 30,
+                                     1994      1993       1992 
+<S>                                <C>       <C>        <C>
+Provision for losses               ($2,285)  ($7,592)   ($ 3,751)
+Losses with no deferred income
+ tax effect                          4,168     6,097    (  8,192)
+Other                              (   186)        6    (    139)
+Restructuring charges              ( 1,697)    1,489            
+                                     -----     -----      ------
+                                    $    0    $    0    ($12,082)
+                                     =====     =====      ======
+</TABLE>
+
+The deferred tax asset consists of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                           June 30,   June 30,
+                                             1994       1993  
+<S>                                       <C>         <C>
+Income tax net operating loss
+ carryforwards                             $17,715     $16,323
+Allowance for losses                         1,078       3,805
+Other, net                                   1,254       2,258
+                                            ------      ------
+                                            20,047      22,386
+                                  
+Valuation allowance                       ( 20,047)   ( 22,386)
+                                            ------      ------
+                                           $     0     $     0
+                                            ======      ======
+</TABLE>      
+
+As of June 30, 1994, the Company has net operating loss carryforwards of
+$52,000,000 for income tax reporting purposes which expire between 2007 and
+2009 and an alternative minimum tax carryforward of $900,000 with no
+expiration date.
+
+12. Supplemental Information
+
+Cash payments (receipts) for interest costs and income taxes consist of the
+following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                            Years Ended            
+                                   June 30,   June 30,    June 30,
+                                     1994       1993        1992 
+<S>                               <C>        <C>         <C>
+Interest costs (none capitalized)  $   168    $   221     $   322
+Income taxes                                 ( 10,546)   (  3,779)
+                 
+</TABLE>
+
+<PAGE>
+During the year ended June 30, 1994, the Company sold certain property and
+equipment for cash and a note receivable of $740,000.
+
+During the year ended June 30, 1992, a capital lease obligation of $603,000
+was incurred when the Company entered into a lease for equipment.
+
+Effective July 1, 1993, the Company established a defined contribution
+retirement plan covering substantially all employees.  The Company's
+contribution to the plan, which was made in Company common stock, was $55,000
+for the year ended June 30, 1994.
+
+The Company incurred advertising costs of $465,000 and $1,880,000 during the
+years ended June 30, 1993 and 1992, respectively.
+<PAGE>
+
+REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+Board of Directors and Shareholders
+  AmeriCredit Corp.
+
+  We have audited the accompanying consolidated balance sheets of
+AmeriCredit Corp. as of June 30, 1994 and 1993, and the related consolidated
+statements of operations, shareholders' equity, and cash flows for each of the
+three years in the period ended June 30, 1994.  These financial statements are
+the responsibility of the Company's management.  Our responsibility is to
+express an opinion on these financial statements based on our audits.
+
+  We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+
+  In our opinion, the financial statements referred to above present fairly,
+in all material respects, the consolidated financial position of AmeriCredit
+Corp. as of June 30, 1994 and 1993, and the consolidated results of its
+operations and its cash flows for each of the three years in the period ended
+June 30, 1994, in conformity with generally accepted accounting principles.
+
+COOPERS & LYBRAND L.L.P.
+
+
+
+
+
+Fort Worth, Texas
+August 9, 1994
+
+
+<PAGE>
+                            AMERICREDIT CORP.
+                            Common Stock Data
+
+The Company's common stock trades on the New York Stock Exchange under the
+symbol ACF.  There were 28,748,973 shares of common stock outstanding as of
+June 30, 1994. 
+
+The following table sets forth the range of the high, low and closing sale
+prices for the Company's common stock as reported on the Composite Tape of New
+York Stock Exchange Listed Issues.
+
+<TABLE>
+<CAPTION>
+                                 High      Low        Close
+<S>                           <C>        <C>         <C>
+Fiscal year ended June 30, 1994:
+  First Quarter                $ 6.50     $ 5.00     $ 5.88
+  Second Quarter                 8.00       5.75       7.75        
+  Third Quarter                  8.13       5.38       6.50      
+  Fourth Quarter                 6.50       5.13       5.88
+
+Fiscal year ended June 30, 1993: High      Low        Close
+  First Quarter                $ 3.75     $ 2.13     $ 3.50
+  Second Quarter                 4.13       2.88       4.00
+  Third Quarter                  4.50       3.38       3.63
+  Fourth Quarter                 5.38       3.25       5.13
+
+                                                  
+</TABLE>
+
+As of June 30, 1994, there were approximately 626 shareholders of record of
+the Company's common stock.
+
+
+<PAGE>
+                                AMERICREDIT CORP.
+                                 Quarterly Data
+                                   (Unaudited)
+                  (dollars in thousands, except per share data)
+
+
+
+<TABLE>
+<CAPTION>
+                          First       Second      Third       Fourth
+                         Quarter      Quarter    Quarter      Quarter
+<S>                   <C>         <C>          <C>        <C>
+Fiscal year ended
+  June 30, 1994:
+
+Finance charge income  $    2,896  $    3,006  $    3,099  $    3,787
+Provision for losses          288         264         336         361
+Net income                  1,135       1,334       1,210       1,386
+Earnings per share            .04         .04         .04         .05
+Weighted average
+  shares and share
+  equivalents          31,842,088  32,614,405  32,487,816  30,345,589
+                       
+                          First       Second      Third       Fourth
+                         Quarter      Quarter    Quarter      Quarter
+Fiscal year ended
+  June 30, 1993:
+
+Finance charge income  $    4,263   $    3,638  $    3,123  $    2,880
+Sales (a)                   5,468        2,803 
+Provision for losses        1,680        6,045          78         161
+Restructuring charges                   15,404  
+Net income (loss)      (      191)  (   21,260)      1,169         916
+Earnings (loss)
+  per share            (      .01)  (      .73)        .04         .03
+Weighted average
+  shares and share
+  equivalents          30,093,629   28,936,768  30,148,691  30,709,141
+
+</TABLE>
+    
+(a)  The Company withdrew from the retail used car sales business effective   
+    December 31, 1992.
+<PAGE>
+SHAREHOLDER INFORMATION
+
+Corporate Headquarters:
+200 Bailey Avenue
+Fort Worth, Texas 76107
+(817) 332-7000
+
+Investor Relations Information:
+For financial/investment data and general information about AmeriCredit Corp.,
+write the Investor Relations Department at the above address, or telephone
+(817) 882-7009.
+
+Shareholder Services:
+For shareholder account information and other shareholder services, write the
+Corporate Secretary at the above address, or telephone (817) 882-7009.
+
+Annual Meeting:
+The Annual Meeting of the Company will be held on November 9, 1994 at 10:00
+a.m. in the Trinity Room on the 12th floor of the Fort Worth Club, 306 West
+7th Street, Fort Worth, Texas.  All shareholders are cordially invited to
+attend.
+
+Transfer Agent and Registrar:
+Society National Bank
+c/o Society Shareholder Services, Inc.
+1201 Elm Street, #5050
+Dallas, Texas 75270-2014
+Direct Dial  (214) 871-8844
+Toll Free (800) 527-7844
+
+Independent Accountants:
+Coopers & Lybrand L.L.P.
+301 Commerce Street, Suite 1900
+Fort Worth, Texas 76102-4119
+
+Form 10-K:
+Shareholders may obtain without charge a copy of the company's Annual Report
+on Form 10-K, as filed with the Securities and Exchange Commission, by writing
+to the Investor Relations Department at the Corporate Headquarters address.  
+
+<PAGE>
+Directors
+
+Clifton H. Morris, Jr.
+Chairman of the Board,
+Chief Executive Officer and President
+AmeriCredit Corp.
+
+Michael R. Barrington
+Vice President
+AmeriCredit Corp.
+President and Chief Operating Officer
+AmeriCredit Financial Services, Inc.
+
+Daniel E. Berce
+Vice President,
+Chief Financial Officer and Treasurer
+AmeriCredit Corp.
+
+James H. Greer
+President
+Shelton W. Greer Co., Inc.
+
+Gerald W. Haddock
+President and Chief Operating Officer
+Crescent Real Estate Equities Limited, L.P.
+
+Kenneth H. Jones, Jr.
+Attorney
+Decker, Jones, McMackin, McClane, 
+Hall & Bates, P.C.
+
+<PAGE>
+EXECUTIVE OFFICERS
+
+AmeriCredit Corp.:
+
+Clifton H. Morris, Jr.
+Chairman of the Board,
+Chief Executive Officer and President
+
+Michael R. Barrington
+Vice President
+
+Daniel E. Berce
+Vice President,
+Chief Financial Officer and Treasurer
+
+Chris A. Choate
+General Counsel and Secretary
+
+AmeriCredit Financial Services, Inc.:
+
+Michael R. Barrington
+President and Chief Operating Officer
+
+Dennis R. Adams
+Senior Vice President and 
+Director of Collections
+
+Edward H. Esstman
+Senior Vice President and Director of 
+Consumer Finance
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

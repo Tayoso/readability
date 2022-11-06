@@ -1,0 +1,3732 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ CsR+6Ksznze0yHHBDRQQ4TQEOyUnsqgZUOAa/TVJAyaWgW3kywizc0z2cQTCRGS5
+ POM5nGf68PoFOFOdtCOXWQ==
+
+<IMS-DOCUMENT>0000950152-94-000996.txt : 19941007
+<IMS-HEADER>0000950152-94-000996.hdr.sgml : 19941007
+ACCESSION NUMBER:		0000950152-94-000996
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19940702
+FILED AS OF DATE:		19940930
+SROS:			CSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RINI REGO SUPERMARKETS INC
+		CENTRAL INDEX KEY:			0000037180
+		STANDARD INDUSTRIAL CLASSIFICATION:	5140
+		IRS NUMBER:				340222970
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0629
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06068
+		FILM NUMBER:		94551174
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5300 RICHMOND RD
+		CITY:			BEDFORD HEIGHTS
+		STATE:			OH
+		ZIP:			44146
+		BUSINESS PHONE:		2162927000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FISHER FOODS INC /OH/
+		DATE OF NAME CHANGE:	19910716
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>RINI-REGO SUPERMARKETS, INC. 10-K
+<TEXT>
+
+<PAGE>   1
+                                      
+                                      
+ ===========================================================================
+                                      
+                                UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                           WASHINGTON, D.C.  20549
+                                         
+                                   FORM 10-K
+                                          
+         [X]     ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+                 SECURITIES EXCHANGE ACT OF 1934
+
+                     FOR THE FISCAL YEAR ENDED JULY 2, 1994
+                                               ------------
+                                       OR
+
+         [ ]     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+                 SECURITIES EXCHANGE ACT OF 1934
+
+                     FOR THE TRANSITION PERIOD FROM   N/A 
+                                                      ---
+
+                       COMMISSION FILE NUMBER     1-6068
+                                                  ------
+
+                         RINI-REGO SUPERMARKETS, INC.
+            ------------------------------------------------------
+            (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+             OHIO                                       34-0222970
+- - - ---------------------------------------      ---------------------------------
+   (STATE OR OTHER JURISDICTION OF           (IRS EMPLOYER IDENTIFICATION NO.)
+   INCORPORATION OR ORGANIZATION)
+
+
+5300 RICHMOND ROAD, BEDFORD HEIGHTS, OHIO                    44146 
+- - - -----------------------------------------      --------------------------------
+(ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)                   (ZIP CODE)
+
+REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE:        (216) 292-7000
+                                                      -------------------------
+                             --------------------
+
+         SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+
+     9.75% SUBORDINATED DEBENTUES DUE
+     DECEMBER 30, 2001                         CINCINNATI STOCK EXCHANGE
+     ------------------------------------      -------------------------
+             (TITLE OF EACH CLASS)              (NAME OF EACH EXCHANGE 
+                                                 ON WHICH REGISTERED)
+
+         SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT:
+
+          6.5% CONVERTIBLE SUBORDINATED DEBENTURES DUE JUNE 1, 1994
+          ---------------------------------------------------------
+                               (TITLE OF CLASS)
+
+         INDICATE BY CHECK MARK WHETHER THE REGISTRANT (1) HAS FILED ALL
+REPORTS REQUIRED TO BE FILED BY SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+ACT OF 1934 DURING THE PRECEDING 12 MONTHS (OR FOR SUCH SHORTER PERIOD THAT THE
+REGISTRANT WAS REQUIRED TO FILE SUCH REPORTS), AND (2) HAS BEEN SUBJECT TO SUCH
+FILING REQUIREMENTS FOR THE PAST 90 DAYS.  YES   X     NO 
+                                               -----      -----
+         INDICATE BY CHECK MARK IF DISCLOSURE OF DELINQUENT FILERS PURSUANT TO
+ITEM 405 OF REGULATION S-K IS NOT CONTAINED HEREIN, AND WILL NOT BE CONTAINED,
+TO THE BEST OF REGISTRANT'S KNOWLEDGE, IN DEFINITIVE PROXY OR INFORMATION
+STATEMENTS INCORPORATED BY REFERENCE IN PART III OF THIS FORM 10-K OR ANY
+AMENDMENT TO THIS FORM 10-K.  [X]
+
+ ===========================================================================
+<PAGE>   2
+
+================================================================================
+
+
+         THE TOTAL MARKET VALUE OF REGISTRANT'S COMMON STOCK, WITHOUT PAR
+VALUE, HELD BY PERSONS WHO ARE NOT AFFILIATES OF REGISTRANT WAS $263.63.*
+
+         THE REGISTRANT HAD 3,536,577 SHARES OF COMMON STOCK, WITHOUT PAR
+VALUE, ISSUED AND OUTSTANDING ON SEPTEMBER 16, 1994.
+
+
+
+________________________________
+
+   *     This value assumes that the Common Stock, without par value has the
+         same market value as the Class A Common Stock, $.01 par value of
+         Riser Foods, Inc. of $7-1/8 per share.
+
+
+================================================================================
+<PAGE>   3
+                                     PART I
+
+ITEM 1.  BUSINESS
+
+         Rini-Rego Supermakets, Inc ("RRS" or the "Company") was incorporated 
+under the laws of the State of Ohio on May 25, 1908.  The Company and its
+subsidiaries are engaged in the distribution of groceries and related items.
+All references to RRS or the Company include RRS and its consolidated 
+subsidiaries.
+
+Retail Supermarket Operations
+- - - -----------------------------
+         As of July 2, 1994 the Company operated 42 stores in the greater
+Cleveland area, 40 of which operate under the "Rini-Rego Stop-N-Shop" format,
+one as an "Apple's Supermarket" and one as a "Jax Deep Discounts and
+Closeouts".
+
+         The Company's merchandising strategy is to offer a broad selection of
+quality products at competitive prices with an emphasis on superior customer
+service, quality and convenience.  The Company sells most nationally known
+brands of merchandise, regional brands and a variety of private label products.
+The private label products are generally sold at prices lower than those of
+nationally known products.
+
+         The Company-owned retail stores offer a large selection of food items,
+including dry groceries, meat, dairy, produce and frozen foods, as well as a
+number of non-food items such as greeting cards and health and beauty care
+items.  Many of the Company's stores also contain specialty departments such as
+delicatessens, in-store bakeries, and certain locations offer "fresh to go"
+prepared foods, service meat, service seafood, floral and general merchandise
+departments.  Services including, video tape rental, pharmacies, banking and
+debit and credit card payment options are also available in certain locations.
+
+         During the past fiscal year, the Company introduced its "Marketplace"
+format with the opening of three new or expanded supermarket locations. The
+Company's Marketplace stores are larger than the Company's conventional stores,
+ranging in size from approximately 60,000 to 70,000 square feet, and feature
+updated decor packages and fixturing with broader selections of traditional
+merchandise and additional emphasis on fresh, high quality perishables,
+prepared food items and a variety of service departments such as one-hour photo
+processing and full service in-store banking.  The Company is currently in the
+process of converting two of its conventional Rini-Rego Stop-N-Shop stores to
+the Marketplace format.
+
+
+
+
+
+                                       2
+<PAGE>   4
+         Advertising and promotion are important factors in the Company's
+merchandising strategy.  The Company's stores affiliated with the Association
+of Stop-N-Shop Supermarkets, an association of independent grocery retailers
+established as a cooperative advertising and purchasing organization
+("Stop-N-Shop Association"), advertise primarily through joint advertisements.
+The Stop-N-Shop Association advertises in newspapers, circulars, and television
+and radio advertising comparable to the other supermarket companies which
+operate in the northeast Ohio market area.  This advertising generally features
+high demand products at competitive prices.
+
+         The Company acquired two supermarket locations in May 1994 and one
+supermarket location in June 1994 from an unaffiliated company.  Two of these
+locations are currently operated by the Company and a sale is pending to a
+wholesale customer for one location.  In connection with the opening of these
+two larger stores, (82,000 and 75,000 square feet) the Company closed three
+smaller stores as part of the Company's long range retail restructuring plan
+which, in general, involves the closing of certain underperforming smaller
+outdated retail stores and replacing them with fewer larger stores operated by
+the Company or its wholesale customers.
+
+Wholesale Operations
+- - - --------------------
+         The Company operates one of the largest wholesale grocery distribution
+operations in the Midwest doing business as "Seaway".  The Company supplies
+national brand, regional brand and private label products to Company-owned
+stores, other independently-owned retail grocery chains and independent grocers
+in northeastern and central Ohio and western Pennsylvania.
+
+         The Company is continually in the process of expanding its wholesale
+customer base by upgrading its available product lines to include a wider
+assortment of grocery, frozen foods, dairy, meat, produce and bakery items.
+The Company offers its wholesale customers a wide variety of operational
+support services which include advertising, promotion, marketing and
+merchandising services, retail operations counseling, and technical and
+information systems support.  In addition, the Company assists wholesale
+customers in the upgrading and/or enlargement of their stores by providing
+inventory and equipment financing, store layout, equipment planning and design,
+and engineering and construction services.
+
+         The Company utilizes an on-line computerized buying and inventory
+control system for the purchase and sale of its inventory.  The Company
+purchases the majority of its products from large, national manufacturers of
+consumer foods and grocery-related products and the remainder of its products
+from several other suppliers.  The Company is also a member of several
+purchasing cooperatives which provide the Company with enhanced purchasing
+
+
+
+
+
+                                       3
+<PAGE>   5
+opportunities and assistance with the development of its private label program.
+
+         In August 1993, the Company purchased from an unaffiliated company
+certain inventory, equipment and a warehouse facility which it now uses in the
+operation of its own health and beauty care/general merchandise ("HBC/GM")
+distribution facility.  This facility supplies the Company-owned retail stores,
+other independently-owned retail grocery chains, independent grocers and a mass
+merchandising chain.
+
+         The Company also operates the Eagle Ice Cream Company, which
+manufactures branded ice cream and distributes purchased ice cream and novelty
+products to Company-owned retail stores, other independently-owned retail
+grocery chains, independent stores and a national food service distribution
+company.
+
+         Consistent with the industry practices of other food distribution
+retailers and wholesalers, the Company maintains inventory levels at its
+distribution centers and retail locations at levels which minimize out of stock
+products for its customers.  The Company permits the return of damaged or
+defective products from customers.
+
+Competition
+- - - -----------
+         The supermarket industry is highly competitive.  During the past
+several years, competition in the northeast Ohio market area has been extremely
+intense due in part to a stagnant or declining consumer population and the
+entry of a number of significant new competitors.  The Company estimates that
+it is one of the largest retailers, in terms of grocery sales, in the northeast
+Ohio market area.
+
+         Company-owned retail stores principally compete with regional
+supermarket chains and voluntary supermarket associations.  The Company also
+competes with warehouse/wholesale clubs, convenience stores, deep discount drug
+stores and general merchandise stores that also sell grocery products.  The
+principal areas of competition pertain to price, selection and quality of
+perishables and other food products, customer service and store location.
+
+         In addition to competition from two national "price-cutting"
+competitors, which operate superstores containing grocery departments and
+conventional supermarkets in the northeast Ohio market, the Company may
+encounter competition from a regional company which has announced plans to
+develop superstores containing grocery departments in the area.  These
+companies compete with the Company-owned stores at the retail level and the
+Company's wholesale customers on the wholesale level.
+
+
+
+
+
+                                       4
+<PAGE>   6
+         Since demographic trends reflect a shift in consumer population from
+those heavy-industry based regions of the U.S., like northeastern Ohio, to
+service oriented and sun-belt regions, the Company must continually emphasize
+customer service and value to maintain its market share and compensate for the
+lack of population growth in the Company's market area.
+
+         The wholesale food distribution industry is also highly competitive in
+the market area served by the Company.  Management believes that the principal
+competitive factors include price, breadth of product line and the availability
+of support services to its wholesale customers.  The Company competes directly
+with  regional and national wholesalers.
+
+Corporate Background
+- - - --------------------
+         On June 2, 1988, the Company's common and preferred shareholders
+approved a Plan and Agreement of Merger dated as of April 7, 1988 providing for
+the merger of Cleveland Food Sub, Inc., a wholly owned subsidiary of Riser
+Foods, Inc. ("Riser"), with and into the Company (then known as Fisher Foods,
+Inc. ("Fisher")), wherein the Company became the surviving corporation and a
+subsidiary of Riser (the "Merger").  Simultaneously with the Merger, Riser also
+became the parent company of Rini Holding Company ("Rini"), Rego Supermarkets,
+Inc. ("Rego"), and American Seaway Foods, Inc. and two of its affiliated
+partnerships ("Seaway"), through the exchange of Riser stock for the stock of
+Fisher, Rini, Rego and Seaway, and a merger which was effective June 8, 1988
+(the "Effective Date").
+
+         On June 8, 1988, the Company's Common Stock, without par value
+("Common Stock") ceased trading on the New York Stock Exchange.  Each share of
+Fisher Common Stock issued and outstanding at the Effective Date was exchanged
+for one share of Riser Class A Common Stock, $.01 par value, and each share of
+Fisher Preferred Stock, without par value, was exchanged for one share of Riser
+Series A Cumulative Convertible Preferred Stock, $100 par value.  Following the
+Effective Date, the Company consolidated the wholesale operations of Seaway and
+Fisher into one operating unit and consolidated its retail operations through
+the merger of Rini and Rego into Fisher and changed Fisher's name to Rini-Rego
+Supermarkets, Inc.
+
+         In connection with the Company's sale of certain assets of its food
+service division in May 1992, the Company purchased for $9,000,000 a portion of
+the former Seaway warehouse complex which the Company had leased from Seaway
+Development Company ("Seaway Development"), an Ohio general partnership whose
+partners were shareholders of Seaway prior to the Combination.  Simultaneously
+with the purchase of this complex, the Company resold this property along with
+certain assets of the Company's food service division for $11,750,000 to Sysco
+Food Services of Cleveland, Inc.
+
+
+
+
+
+
+                                       5
+<PAGE>   7
+Employees
+- - - ---------
+         As of July 2, 1994, the Company employed approximately 5,000 persons,
+on both a full and part-time basis.  The majority of the Company's work force
+is unionized and are members of either the United Food and Commercial Workers
+Union, Local No. 880 (retail) ("Local 880") or the International Brotherhood of
+Teamsters, Local No. 507 (wholesale) ("Local 507").  The Company's contract
+with Local 880, which is negotiated through the Cleveland Food Industry
+Committee whose members include other members of the Stop-N-Shop Association
+and the Company's primary competitors, First National Supermarkets, Inc. and
+Heinen's, is in effect until September 8, 1996.  A contract between the Company
+and Local 507 which expired on April 1, 1994 has been extended indefinitely
+during the pendency of contract renegotiations. This contract can be terminated
+by Local 507 upon seven days' notice.  Wholesale operations have not been 
+negatively impacted by this situation.
+
+ITEM 2.  PROPERTIES
+
+         The Company owns a warehouse and office facility in Bedford Heights, 
+Ohio containing approximately 850,000 square feet which serves as the Company's
+corporate headquarters and principal distribution center.  The Company also
+owns the following properties:  a warehouse, office facility and garage in
+Maple Heights, Ohio containing approximately 356,000 square feet, approximately
+349,000 square feet of which is used in its HBC/GM operations and approximately
+7,000 square feet is subleased to an unaffiliated company; a warehouse and
+office facility in Cuyahoga Heights, Ohio containing approximately 187,000
+square feet of which approximately 140,000 square feet is leased to others and
+the remainder used in its wholesale operations and an ice cream plant in
+Bedford, Ohio containing approximately 39,000 square feet.  A warehouse
+facility owned by the Company in Cleveland, Ohio containing approximately
+68,200 square feet is currently leased by an unaffiliated party which has
+notified the Company that it intends to exercise its  option to purchase such
+facility in fiscal 1995.  The Company leases approximately 305,000 square feet
+of a warehouse facility in Bedford Heights, Ohio, 245,000 square feet of which
+is subleased to unaffiliated parties.
+
+         Five retail store properties are owned by the Company. Most of the
+Company's leased properties are under long-term leases of varying terms, the
+majority of which obligate the Company to pay certain increases in property
+taxes and insurance and to pay additional rent based on a percentage of sales
+at that particular location.  As of July 2, 1994, the aggregate minimum annual
+rentals of all operating and capital leases with initial noncancellable terms
+of more than one year were approximately $18,635,000.
+        
+
+
+
+
+
+                                       6
+<PAGE>   8
+ITEM 3.  LEGAL PROCEEDINGS
+
+         Not Applicable
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         Not Applicable
+
+                                    PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER
+         MATTERS
+
+Market Information
+- - - ------------------
+         The Company's Common Stock ceased trading on the New York Stock
+Exchange on June 8, 1988.  As such, the Company's Common Stock has no market
+value.
+
+Shareholders
+- - - ------------
+         As of August 25, 1994 there were 2 shareholders of record of the 
+Company's Common Stock.
+
+Dividends
+- - - ---------
+         It is the Company's current policy to retain earnings of the Company
+in order to fund capital expenditures, which have primarily been used to expand
+or remodel its existing retail store locations.  The Company has not paid any 
+dividends on its Common Stock in the last two fiscal years.  The payment of
+dividends is prohibited by the Company's credit facility if the Company does 
+not meet certain financial and other covenants contained therein and limits the 
+amount of common stock dividends to $2,424,000, $2,828,000 and $3,232,000 
+during the fiscal years ending in 1995, 1996 and 1997, respectively.
+
+
+
+
+
+                                       7
+<PAGE>   9
+<TABLE>
+ITEM 6.  SELECTED FINANCIAL DATA
+                                     (in millions, except per share data, locations & ratios)
+
+<CAPTION>
+                                  7-2-94          7-3-93          6-27-92         6-29-91         6-30-90
+                                (52 Weeks)      (53 Weeks)      (52 Weeks)      (52 Weeks)      (52 Weeks)
+                                ----------      ----------      ----------      ----------      ----------
+<S>                             <C>             <C>             <C>             <C>             <C>
+Operations
+- - - ----------
+  Net sales                     $  1,121.6      $  1,108.2      $    979.3      $  1,022.0      $  1,054.5
+  Net income before
+    extraordinary
+    item and cumulative
+    effect of change in
+    accounting principle               1.5             6.2             8.1             9.7             5.6
+  Extraordinary item:
+    Utilization of net
+      operating loss
+      carryforwards                    -                .3             -               -               2.7
+  Net income before
+    cumulative effect of
+    change in accounting
+    principle                          1.5             6.5             8.1             9.7             8.3
+  Cumulative effect of
+    change in accounting
+    principle:
+    Accounting
+       for income taxes                6.9             -               -               -               -
+  Net income                           8.4             6.5             8.1             9.7             8.3
+
+  Per share data:
+    Net income from
+    continuing operations              .18             .75             .99            1.20             .68
+  Extraordinary item                   -               .03             -               -               .34
+  Cumulative effect of
+    change in accounting
+    principle                          .85             -               -               -               -
+                                ----------      ----------      ----------      ----------      ----------
+Net income                      $     1.03      $      .78      $      .99      $     1.20      $     1.02
+                                ==========      ==========      ==========      ==========      ==========
+  Dividends per common
+    share                              -             -                 -               -               -
+  Retail locations - avg.               44              48              51              51              51
+
+Financial Position
+- - - ------------------
+  Working capital               $     43.0      $     24.3      $     24.2      $     30.1      $     26.3
+  Property, equipment &
+    capital leases, net              108.5           101.1            91.0            79.6            77.9
+  Total assets                       257.5           233.4           204.8           200.6           196.7
+  Long-term obligations
+    Debt                              71.3            56.3            51.9            53.1            58.8
+    Capital leases                    12.4            10.6            10.7            10.9            11.8
+  Liabilities-to-equity
+    ratio                              3.0             3.1             3.1             3.8             5.2
+
+</TABLE>
+
+
+
+                                                                 8
+<PAGE>   10
+ITEM 7.        MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                  CONDITION AND RESULTS OF OPERATIONS.
+
+<TABLE>
+RESULTS OF OPERATIONS
+
+       The following table sets forth items from the Company's Consolidated
+Statements of Income as a percentage of net sales:
+
+
+<CAPTION>
+                                                          1994                   1993                  1992
+                                                       (52 Weeks)             (53 Weeks)            (52 Weeks)
+                                                        --------               --------              --------
+   <S>                                                   <C>                <C>                   <C>
+   Net sales                                             100.00                 100.00                100.00
+   Cost of goods sold                                     80.73                  80.47                 78.31           
+                                                        --------               --------              --------
+   Gross profit                                           19.27                  19.53                 21.69
+   SG&A                                                   17.35                  17.60                 19.54
+   Restructuring charge                                    1.07                    .45                   .10           
+                                                        --------               --------              --------
+   Operating income                                         .85                   1.48                  2.05
+   Interest expense, net                                    .63                    .57                   .65           
+                                                        --------               --------              --------
+   Income before taxes                                      .22                    .91                  1.40
+   Provision for income taxes                               .08                    .35                   .57           
+                                                        --------               --------              --------
+   Net income before extraordinary
+     item and accounting change                             .14                    .56                   .83           
+                                                        ========               ========              ========
+</TABLE>
+
+
+       The Company's results of operations for the past three fiscal years are
+indicative of the pressures that many food distributors face under the current
+economic climate.  The food distribution industry has encountered little or no
+inflation over the past three years while operating costs, particularly labor
+and occupancy, have contractually risen.  This, coupled with increased
+competition from non-traditional sources, has squeezed overall industry
+operating margins.
+
+       The Company's primary market area, northeast and central Ohio and
+western Pennsylvania, has seen new non-union competitors enter the marketplace
+which has negatively impacted both Company-owned retail store sales and sales
+to independently-owned retail stores.  The Company has been able to more than
+offset sales declines attributed to competition with additional sales gained as
+a result of the acquisition of a new health and beauty care/general merchandise
+(HBC/GM) distribution facility and the expansion of its wholesale distribution
+territory.
+
+
+
+
+
+                                       9
+<PAGE>   11
+Net Sales
+- - - ---------
+       Net sales increased 1.2% to $1.122 billion in 1994, 13.2% to $1.108
+billion in 1993 and decreased 4.2% to $.979 billion in 1992.  Sales in 1993
+included an extra week of sales giving that year two Fourth of July sell-weeks.
+The Company has embarked on programs to enhance its overall sales.  These
+programs include consolidation and modernization of Company-owned retail
+distribution points and expansion of sales to independently-owned retail
+stores.  The following details the number of Company-owned retail stores over
+the last three years:
+
+<TABLE>
+<CAPTION>
+                                                         1994                      1993               1992 
+                                                       ------                    ------             ------
+     <S>                                             <C>                    <C>                    <C>
+     Open at beginning of year                            45                        51                 50
+     Opened                                                2                         1                  2
+     Closed                                               (5)                       (7)                (1)       
+                                                       ------                    ------             ------
+     Open at end of year                                  42                        45                 51        
+                                                       ======                    ======             ======
+</TABLE>
+
+       Adjusted for the 53rd week of sales in 1993, sales to
+independently-owned retail stores rose 13.9% in 1994, 40.3% in 1993 and
+declined 3.1% in 1992.  Sales declines in 1992 were attributed to the general
+economic climate in the Company's primary market area.  Sales increases in 1993
+were primarily attributed to new customers gained as a result of a major
+competitor closing its northeast Ohio distribution center in the spring of
+1992.  This offset the loss of sales attributed to the Company's closing of its
+food service distribution center, also in the spring of 1992.  Sales increases
+in 1994 were primarily due to new customers and expanded product lines
+resulting from the Company's acquisition of an HBC/GM distribution facility
+from its former HBC/GM supplier.
+
+       The Company is continuing to seek new wholesale customers, many of whom
+are outside existing distribution channels, to expand its distribution
+territory.  The Company also seeks to increase sales to existing wholesale
+customers by increasing perishable and HBC/GM sales penetration.  Concurrent
+with the acquisition of the HBC/GM distribution facility, the Company began
+servicing approximately 150 Hills Department Stores throughout the eastern
+third of the United States.
+
+       Total sales in Company-owned retail stores have declined in each of the
+last three years because of same-store sales declines and less units in
+operation in each year.  Adjusted for the 53rd week of sales in 1993, total
+sales in Company-owned retail stores declined 5.4% in 1994, 5.3% in 1993 and
+4.8% in 1992.  During that same period, same-store sales also declined; .39% in
+1994, 2.6% in
+
+
+
+
+
+                                       10
+<PAGE>   12
+1993 and 4.7% in 1992.  Same-store sales declines in Company owned retail
+stores are primarily attributed to increased competition, particularly
+non-union and non-traditional grocery retailers.  Contributing to the Company's
+same-store sales declines is an overall lack of inflation related to food
+products, with certain categories experiencing deflation.
+
+       Programs to remodel and remerchandise Company-owned retail stores have
+been successful at increasing same-store sales in these locations and such
+programs are continuing.  The Company plans to have a core group of 35 to 40
+new or newly remodeled Company-owned retail stores by the end of fiscal 1997.
+
+Gross Profit
+- - - ------------
+       Gross profit, as a percentage of sales, declined in each of the last
+three years: 21.69% in 1992, 19.53% in 1993 and 19.27% in 1994.  These
+decreases reflect the Company's shift in sales mix from sales in Company-owned
+retail stores to sales to independently-owned retail stores.  Sales to
+independently-owned retail stores carry a lower gross profit percentage than
+sales in Company-owned retail stores.  The percentage of Company sales
+generated by sales to independently-owned retail stores has grown from 35.3% in
+1992, to 44.7% in 1993 and 49.4% in 1994.
+
+       The Company has been able to maintain both retail and wholesale gross
+profit percentages despite recent competitive pressures.  During the third
+quarter of 1994, the Company's primary retail competitor initiated a price
+reduction program targeted at certain retail sales categories.  Although this
+strategy was targeted principally at warehouse clubs, discount and drug stores,
+it has impacted the Company's retail gross profits.  The impact of this pricing
+strategy was to lower overall retail gross profits within the northeast Ohio
+market.
+
+       The Company has been able to mitigate the impact of these factors on its
+gross profits through remerchandising Company-owned retail stores and improved
+buying opportunities resulting from its increased wholesale customer base.  The
+Company's provision for Last-in, First-out (LIFO) inventories was as follows
+over the last three years:  income of $486,000, in 1994 and expense of $211,000
+and $988,000, in 1993 and 1992, respectively.  This decrease in the Company's
+LIFO provision is due to lack of inflation and the lowering of certain LIFO
+inventory levels.
+
+
+
+
+
+                                       11
+<PAGE>   13
+Selling, General and Administrative (SG&A) Expenses
+- - - ---------------------------------------------------
+       SG&A expenses, as a percentage of sales, also declined in each of the
+last three years: 19.54% in 1992, 17.60% in 1993 and 17.35% in 1994.  These
+decreases again reflect the shift in sales mix to independent retail customers.
+While providing lower gross profits, these sales also require lower SG&A
+expenses.  Additionally, the Company-owned retail stores which were closed
+between years operated at relatively higher SG&A percentages and their
+disposition benefited the Company's overall SG&A percentage.  These trends
+offset the impact of increased labor and occupancy costs in the Company's
+operating stores.
+
+Restructuring Charge
+- - - --------------------
+       The Company has recorded charges in the last three years reflecting
+costs associated with the Company's long range strategic plans to restructure
+its Company-owned retail store operations.  These plans included the
+disposition of non-core stores, increased capital expenditures to expand and/or
+modernize core stores (Rini-Rego Stop-N-Shop) and the consolidation of certain
+Company owned retail store locations in larger retail facilities.
+
+       In 1994, the Company recorded a $12 million restructuring charge to
+account for its store consolidation plan.  This charge included a $4 million
+non-cash charge to write down net assets to their net realizable value and $8
+million charge for future cash expenditures, principally occupancy costs net of
+expected sublease income related to the closing of five stores in fiscal 1994
+and plans to close nine additional Company-owned retail stores over the next
+three to four years.  This reflected the Company's plan to close and
+consolidate Company-owned retail stores replacing them with new or expanded
+Company-owned retail stores or new or remodeled stores to be operated by
+independently-owned wholesale customers.  The plan will replace approximately
+456,000 square feet of small, outdated retail locations with 431,000 square
+feet of new, modernized facilities.  The Company's plan is to operate
+approximately 35 to 40 expanded or newly remodeled Company-owned retail stores
+by the end of fiscal 1997 which is expected to result in a limited reduction of
+overall employee levels.
+
+       The Company also acquired two grocery store locations in May 1994 from a
+competitor which was exiting the Cleveland market.  These locations (82,000 and
+75,000 square feet) met the Company's long range strategic plan of operating
+larger stores.  The stores were converted to Rini-Rego Stop-N-Shop stores and
+replaced three small, outdated Rini-Rego Stop-N-Shop stores closed in
+conjunction with this acquisition.  Additionally, the Company also closed a
+small, outdated Company-owned retail store which was replaced by a new, larger
+store operated by an independently-owned wholesale customer and one other
+non-Rini-Rego store.
+
+
+
+
+
+                                       12
+<PAGE>   14
+       The $5 million restructuring charge recorded in 1993 reflected the
+Company's plan to dispose of other non-core store formats.  The 1993 charge
+included a $1.8 million non-cash charge to write down net assets to their net
+realizable value and a $3.8 million charge for future cash expenditures,
+principally occupancy costs net of expected sublease income and pension
+withdrawal liabilities.  The Company decided to close its remaining five Carl's
+stores in the Akron-Canton area along with a former Carl's location.  The
+Company also declined to renew its lease on a Food Centre location.  The
+Company was able to sell four of the Akron-Canton locations to
+independently-owned wholesale customers who now operate the locations under the
+Apple's name.  Overall employee levels were reduced as a result of the
+Company's decision to exit the Akron-Canton market.
+
+       The 1992 restructuring charge reflected the costs, primarily expected
+future cash expenditures for occupancy costs, associated with the closing of
+one of the Company's former Carl's locations.
+
+       Taken as a whole, the Company's restructuring charges reflect the
+Company's overall plan to restructure its Company-owned retail stores focusing
+on its core-store format.  This restructuring included the disposition of
+non-core stores and expansion and consolidation of its Rini-Rego stores.  The
+Company does not currently anticipate any future restructuring charges.
+
+Interest Expense, Net
+- - - ---------------------
+       Interest expense, net, increased $646,000 to $7.0 million in 1994 and
+$82,000 to $6.4 million in 1993 after declining $1.6 million to $6.3 million in
+1992.  The 1992 decline was primarily attributed to lower debt levels due to
+scheduled debt repayments and a reduction in the bank's prime rate.  Increases
+in 1994 and 1993 are attributed to planned increased borrowings required to
+fund the Company's capital expenditure programs and fluctuations in the bank's
+prime rate.  The bank's prime rate at the end of each of the last four years
+was as follows:  1991-8.50%, 1992-6.00%, 1993-6.00% and 1994-7.25%.  The
+Company earned .25% interest rate reductions in 1993 and 1992.   The Company's
+current borrowing rate under its bank credit facility is prime plus .5%
+
+Income Taxes
+- - - ------------
+       The Company provided taxes at an effective tax rate of 37.0% in 1994,
+38.3% in 1993 and 40.9% in 1992.  The lowering of the Company's effective tax
+rate represents a lower provision for state income taxes associated with the
+Company's lower book income.  The Company accounts for the franchise tax
+portion of the Company's state income tax provision as an operating expense.
+
+
+
+
+
+                                       13
+<PAGE>   15
+Accounting Change
+- - - -----------------
+       The Company currently accounts for income taxes in accordance with
+Statement of Financial Accounting Standards No. 109, "Accounting for Income
+Taxes" (SFAS No. 109).  This statement requires that the liability method of
+accounting for income taxes be used rather than the deferred method previously
+used.  The Company adopted the provision of SFAS No. 109 in 1994.  The Company
+elected not to restate prior year's financial statements and recorded the
+cumulative effect of the accounting change.  As a result, the Company has
+recorded a one-time income item of $6.9 million to reflect the cumulative
+effect of the change in accounting for income taxes.  The one-time income item
+is principally the result of benefiting the expected utilization of tax net
+operating loss carryforwards (NOL) and the adjustment of deferred tax balances
+to reflect changes in statutory rates.  See Note 4 of the Notes to Consolidated
+Financial Statements for a further discussion.
+
+Extraordinary Item
+- - - ------------------
+       The Company recorded an extraordinary income item of $253,000 in 1993
+benefiting a portion of its pre-acquisition NOL.  In prior years, utilization
+of its pre-acquisition NOL was used to reduce the values assigned to
+non-current assets in purchase accounting.  In 1993, a portion of the
+pre-acquisition NOL was used to write-off the remaining values assigned to
+non-current assets in purchase accounting with the remainder benefited as an
+extraordinary item.  The amount of utilization of NOL was $627,000 in 1994,
+$736,000 in 1993 and $1,541,000 in 1992.  See Note 4 of the Notes to
+Consolidated Financial Statements for a further discussion.
+
+CAPITAL RESOURCES AND LIQUIDITY
+
+       The Company's primary source of capital has traditionally come from
+internally generated funds.  Greater working capital requirements associated
+with higher levels of capital expenditures, the Company's HBC/GM acquisition
+and new wholesale customer financing increased the Company's utilization of its
+bank credit facilities during 1994.
+
+       Operating activities generated $13.6 million of cash, compared to $16.5
+million in 1993 and $26.1 million in 1992.  This decrease is attributed to
+lower earnings between years coupled with increased working capital
+requirements.  Net income of $8.6 million contained a non-cash credit related
+to the adoption of SFAS No. 109 of $6.9 million and included non-cash charges
+for depreciation and amortization of $14.8 million and a restructuring charge
+of $12 million.  Significant balance sheet changes included decreases in
+accounts payable of $1.6 million and increases in accounts and notes receivable
+of $6.7 million and FIFO inventories of $1.3 million.
+
+
+
+
+
+                                       14
+<PAGE>   16
+       The food distribution industry requires a significant investment in
+receivables and inventories to meet customer needs.  Increased levels of
+inventory were required to support the new HBC/GM distribution facility and
+forward buy opportunities.  Additional wholesale customer financing was also
+made available to support the acquisition by two independently-owned wholesale
+customers of four former Company-owned retail stores in the Akron-Canton area.
+Increased retail store size associated with Company programs to remodel and
+expand existing retail locations also increased working capital requirements.
+
+       Working capital, exclusive of deferred income taxes, increased from
+$24.3 million at the end of 1993 to $36.4 million at the end of 1994.  The
+Company's ratio of current assets to current liabilities, exclusive of deferred
+income taxes, increased from 1.26:1 at the end of 1993 to 1.43:1 at the end of
+1994.  These increases reflect the increased working capital demands noted
+above.
+
+       The Company's ratio of liabilities to equity decreased from 3.14:1 at
+the end of 1993 to 2.98:1 at the end of 1994.  This ratio was favorably
+impacted by the Company's adoption of SFAS No. 109.
+
+       The Company utilized $27.1 million of 1994 cash flow for capital
+expenditures.  This amount is comparable to 1993 and 1992 levels of capital
+expenditures and reflect Company programs to enhance its retail core-store
+format ($22.3 million), upgrade its data processing systems and equipment ($1.4
+million), acquire a warehouse facility and improve distribution equipment ($3.4
+million)
+
+       Retail capital expenditures were made to acquire, modernize and expand
+retail locations.  At the end of 1994, the Company operated 42 retail locations
+compared to 45 retail locations at the same time last year.  During 1994, the
+Company acquired three new retail locations, of which sale is pending on one
+store to a wholesale customer, and closed five other Company-owned stores.  The
+stores which were closed continue the Company's plans to focus on its
+core-store format.
+
+       The level of capital expenditures for 1995 is expected to be slightly
+higher than the 1994 level.  The Company plans to expand or remodel six
+Company-owned retail stores during 1995.  Additionally, the Company is
+required, pursuant to the terms of its leases, to purchase its Aurora Road
+warehouse facility and Cash-N-Carry branch in June 1995.  The Company believes
+that cash flow from operations and the unused portion of the bank credit
+facilities will supply adequate funds for planned capital expenditures, normal
+ongoing business activities, and debt principal repayments.  Available unused
+borrowing capacity under the Company's bank credit facility was approximately
+$10.1 million at the end of 1994.
+
+
+
+
+
+                                       15
+<PAGE>   17
+IMPACT OF INFLATION
+
+       Inflation increases the Company's major costs: inventory and labor.
+Because of the high velocity of inventory turnover in the food distribution
+industry and the Company's use of the LIFO valuation method for a majority of
+its inventory, the impact of inflation is normally reflected very quickly in
+results of operations.  The impact of inflation on cost of sales has been
+relatively insignificant in recent years.  Experience indicates that highly
+competitive market conditions may prevent the Company from fully recovering
+inflation-driven costs through retail pricing alone.
+
+
+ITEM 8.        FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The Consolidated Financial Statements of the Company are set forth in Item
+14 of this Report.
+
+
+ITEM 9.        CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+               ACCOUNTING AND FINANCIAL DISCLOSURE
+
+               None
+
+                                      16
+<PAGE>   18
+                                    PART III
+
+ITEM 10.       DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+       The following is a description of the directors and executive officers
+of the Company:
+
+       CHARLES A. RINI, SR., 56, has served as President of the Company since
+February 4, 1994 and as a Director of the Company since July 16, 1988.  From
+July 16, 1988 until February 4, 1994, Mr. Rini served as Secretary of the
+Company.  Mr. Rini is also the President, Chief Operating Officer and a
+Director of Riser.
+
+       ANTHONY C. REGO, 53, has served as Vice President and Secretary of the
+Company since February 4, 1994 and as a Director of the Company since July 16,
+1988.  From July 16, 1988 until February 4, 1994, Mr. Rego served as President
+of the Company.  Mr. Rego is also Chairman of the Board of Directors and Chief
+Executive Officer to Riser.
+
+       RONALD W. OCASEK, 48, has served as Chief Financial Officer and
+Treasurer of the Company since June, 1989.  From September, 1988 through May,
+1989 he served as Vice President-Financial Operations of Riser.  Mr. Ocasek is
+also a Senior Vice President, Chief Financial Officer, Treasurer and a Director
+of Riser.
+
+ITEM 11.       EXECUTIVE COMPENSATION
+
+       For the fiscal year ended July 2, 1994, none of the Company's executive
+officers or directors were compensated by RRS.  As a result, pursuant to Rule
+402(a)(6) promulgated under the Securities Exchange Act of 1934, the summary
+compensation table, option/SAR grants and exercises tables, long term incentive
+plans table and defined benefit or actuarial plan disclosure are not included
+in this report.  The Company's executive officers and directors are paid by
+Riser in their capacities as Riser executives.
+
+                                      17
+<PAGE>   19
+
+ITEM 12.       SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+               AND MANAGEMENT
+
+       The following table sets forth the number of shares and percentage of
+shares of RRS Common Stock owned by persons beneficially owning more than five
+percent and the shares owned by the directors and officers as a group, as of
+September 16, 1994.
+
+<TABLE>
+<CAPTION>
+                                                     Percentage of
+       Name and Address         Number of Shares        Shares
+       ----------------         ----------------        ------
+       <S>                      <C>                     <C>
+       Riser Foods, Inc.            3,536,540           99.99%
+       5300 Richmond Road
+       Bedford Heights, OH  44146
+
+       Directors and Officers
+        as a group (3 persons)          -0-               -0-
+
+</TABLE>
+
+
+       The following table sets forth certain information, as of September 16,
+1994, regarding beneficial ownership of Riser's Class A Common Stock ("Class A
+Common Stock") and Class B Common Stock owned by each director and officer of
+RRS:
+
+<TABLE>
+<CAPTION>
+                           Number of    Percentage         Number of  Percentage
+                            Class A     of Class A          Class B   of Class B
+Name of Beneficial Owner     Shares       Shares             Shares      Shares
+- - - ------------------------   ---------    ---------          ---------   ---------
+<S>                         <C>         <C>                <C>         <C>
+Anthony C. Rego(1)          187,212         2.2%             36,583        3.8%
+Charles A. Rini, Sr. (2)    199,657         2.3%            264,495       27.7%
+Ronald W. Ocasek (3)         11,000          .1%                  0          0%
+
+Directors and Officers
+ as a group (3 persons)     397,869         4.6%            301,078       31.5%
+
+<F/N>
+    _________________________________
+
+        (1)Includes 100 shares of Class A Common Stock owned by Mr. Rego's wife,
+    64,497 shares of Class A Common Stock owned by his children and assumes the
+    exercise of options to purchase 9,000 shares of Class A Common Stock at
+    $7.31 per share beginning July 28, 1994.
+
+        (2)Includes 173,558 shares of Class A Common Stock owned by 11 trusts of
+    which Mr. Rini has sole power as trustee to direct the voting and
+    disposition of such shares, 3,599 shares of Class A Common Stock owned by
+    Mr. Rini's wife and assumes the exercise of options to purchase 9,000
+    shares of Class A Common Stock at $7.31 per share beginning July 28, 1994. 
+    Business address is Riser Foods, Inc., 5300 Richmond Road, Bedford Heights,
+    Ohio  44146.
+
+        (3)Assumes the exercise of options to purchase 5,000 shares of Class A
+    Common Stock at $10.31 per share beginning October 4, 1993 and the exercise
+    of options to purchase 6,000 shares of Class A Common Stock at $7.31 per
+    share beginning July 28, 1994.
+
+</TABLE>
+
+
+                                       18
+
+<PAGE>   20
+ITEM 13.       CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+       Since the Effective Date, the Company has continued to lease from Seaway
+Development a warehouse on Aurora Road and its Cash-n-Carry facility on
+Woodland Avenue upon lease terms which were amended in April 1992 reducing the
+term of the leases to end on July 14, 1995 and granting the Company the right
+to purchase and Seaway Development the right to put to the Company these
+properties.  Monthly base rental is $58,477.88 and $6,608.79 for the Aurora
+Road and Woodland Avenue properties, respectively.  Payments under such leases,
+on an annual basis, total $781,040.  The Company believes the terms and
+conditions of the leases from Seaway Development reflect current market rental
+rates and are at least as favorable to the Company as could be obtained from
+persons not related to the Company.  Seaway Development has notified the
+Company of its intent to put these buildings to the Company pursuant to the
+lease terms for each property in the current fiscal year.
+
+       Since the Effective Date, the Company has leased five retail supermarket
+locations from Rini Realty Company ("Rini Realty"), an Ohio corporation which
+is owned by affiliates of RRS, which include Charles A. Rini, Sr., a Director 
+and President of RRS and a Director, President and Chief Operating Officer of
+Riser, Anthony Rini, a Director of Riser, Charles A. Rini, a Director of
+Riser and Charles A. Rini, Jr., a Director of Riser.  Since the Effective Date,
+the Company has also leased two retail supermarket locations from Rego Realty
+Company ("Rego Realty Company"), an Ohio limited partnership, which is owned by
+affiliates of RRS and Riser, including Anthony C. Rego, the Vice President and
+Secretary of RRS and the Chairman and Chief Executive Officer of Riser, Thomas
+A. Rego, Senior Vice President and a Director of Riser, Joseph E. Crimaldi,
+Senior Vice President, Secretary and a Director of Riser and Charles A. Rego,
+Senior Vice President and a Director of Riser.  The Company's management
+believes that the terms and provisions of such leases reflect terms and
+conditions which are customary in the retail grocery industry and are at least
+as favorable to RRS as could be obtained from persons unrelated to RRS.  Each
+of the leases provides for a base rent plus additional percentage rent based on
+the lessee's gross sales from such location and allows for an adjustment in the
+base rent every five years.  Each lease provides that the tenant will pay real
+estate taxes, assessments, common area maintenance charges, insurance charges
+and utility expenses.  During the fiscal year ended July 2, 1994, the Company
+paid Rini Realty and Rego Realty annual fixed rent of $1,344,091 and $399,384,
+respectively.
+                                      19
+<PAGE>   21
+        
+       As of September 24, 1994 the Company had accounts and notes receivable
+of approximately $3,146,000 due from other members of the Stop-N-Shop
+Association.  The Company has a 69% ownership and 38% voting interest in the
+Stop-N-Shop Association.  The accounts and notes receivable are primarily
+related to arms length purchases of grocery related products and gift
+certificates from other members of the Stop-N-Shop Association.
+
+       During the fiscal year ended July 2, 1994, the Company engaged Kohrman
+Jackson & Krantz as legal counsel.  S. Lee Kohrman, a former director of the
+Company and director of Riser, is a partner in such law firm.  In addition,
+Kohrman Jackson & Krantz serves as legal counsel to Riser and its subsidiaries.
+
+                                    PART IV
+
+ITEM 14.       EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS
+               ON FORM 8-K
+
+(A)    LIST OF DOCUMENTS FILED AS PART OF THIS REPORT:
+
+<TABLE>
+<CAPTION>
+
+       1.      Financial Statements                              Page
+               --------------------
+       <S>     <C>                                               <C>
+               Report of Independent Public Accountants           25
+                                                                  
+               Consolidated Balance Sheets as of July 2, 1994     
+               and July 3, 1993                                   26
+                                                                  
+               Consolidated Statements of Income for the          
+               three fiscal years ended July 2, 1994              28
+                                                                  
+               Consolidated Statements of Stockholders' Equity    
+               for the three fiscal years ended July 2, 1994      30
+                                                                  
+               Consolidated Statements of Cash Flows for the      
+               three fiscal years ended July 2, 1994              31
+                                                                  
+               Notes to Consolidated Financial Statements         33
+</TABLE>                                                                  
+
+       2.      Financial Statement Schedules
+               -----------------------------
+               Financial Statement Schedules of the Company and its
+       subsidiaries as required at the appropriate dates above are 
+       contained in the Notes to Financial Statements herein at the 
+       indicated locations.
+
+                                       20
+
+<PAGE>   22
+               All other Financial Statement Schedules to the Consolidated
+       Financial Statements required by Article 12 of Regulation S-X are not
+       required under the related instruction or are inapplicable and therefore
+       have been omitted.
+
+<TABLE>
+<CAPTION>
+               <S>             <C>                                <C>
+               Schedule  II-   Amounts Receivable from 
+                               Related Parties and
+                               Underwriters, Promoters 
+                               and Employees other than 
+                               Related Parties                     50
+
+               Schedule  V-    Property, Plant and
+                               Equipment                           51
+
+               Schedule  VI-   Accumulated Depreciation,
+                               Depletion, and Amortization
+                               of Property, Plant and
+                               Equipment                           52
+
+               Schedule VIII-  Valuation and Qualifying
+                               Accounts                            53
+
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+       3.      Exhibits
+               --------
+       <S>>         <C>
+          3.1       Articles of Incorporation (1)
+
+          3.2       Code of Regulations (1)
+
+          4.2       6-1/2% Convertible Subordinated Debentures due June 1, 1994
+                    of Rini-Rego Supermarkets, Inc. ("Rini-Rego") (2)
+
+          4.3       9-3/4% Subordinated Debentures due December 30, 2001 of 
+                    Rini-Rego (2)
+
+          4.4       Trust Indenture between American Seaway Foods, Inc.
+                    ("American") and Ameritrust Company National Association
+                    ("Ameritrust") as Trustee dated as of December 1, 1991 (2)
+
+         10.38      Purchase Agreement between Seaway Development Company, 
+                    American and Riser dated April 2, 1992 (2)
+          
+
+
+</TABLE>
+
+
+
+                                       21
+
+<PAGE>   23
+
+          10.39           Asset Purchase Agreement between Sysco Food Services
+                          of Cleveland, Inc., Sysco Corporation, Seaway Food
+                          Service, Inc. ("Seaway") and Riser dated April 1,
+                          1992 (2)
+
+          10.40           Note Purchase Agreement between Automated Cash
+                          Management Trust and American dated December 30, 
+                          1991 (2)
+
+          10.41           Remarketing Agreement between American and Ameritrust
+                          dated as of December 1, 1991 (2)
+
+          10.42           Amended and Restated Credit Agreement by and among
+                          Rini-Rego, Society National Bank as agent ("Society")
+                          for Society, The Bank of New York Commercial
+                          Corporation, PNC Bank, National Association and Star
+                          Bank, N.A.  (collectively, the "Banks") dated as of
+                          May 27, 1993 (3)
+
+          10.43           Amended and Restated Credit Agreement by and among
+                          American, Society and the Banks dated as of May 27, 
+                          1993 (3)
+
+          10.44           Amended and Restated Security Agreement by and among
+                          Rini-Rego, Society and the Banks dated as of May 27,
+                          1993 (3)
+
+          10.45           Amended and Restated Security Agreement by and among
+                          American, Society and the Banks dated as of May 27, 
+                          1993 (3)
+
+          10.46           Amended and Restated Security Agreement by and among
+                          Seaway, Society and the Banks dated as of May 27, 
+                          1993 (3)
+
+          10.47           Amended and Restated Security Agreement by and among
+                          Fisher Properties, Inc. ("Fisher"), Society and the
+                          Banks dated as of May 27, 1993 (3)
+
+          10.48           Amended and Restated Guaranty Agreement by Riser
+                          dated as of May 27, 1993 (3)
+
+
+
+
+
+                                       22
+
+<PAGE>   24
+          10.49           Amended and Restated Guaranty Agreement by Rini-Rego
+                          dated as of May 27, 1993 (3)
+
+          10.50           Amended and Restated Guaranty Agreement by American
+                          dated as of May 27, 1993 (3)
+
+          10.51           Amended and Restated Guaranty Agreement by Seaway
+                          dated as of May 27, 1993 (3)
+
+          10.52           Amended and Restated Guaranty Agreement by Fisher
+                          dated as of May 27, 1993 (3)
+
+          10.53           Amendment No. 1 to Amended and Restated Guaranty 
+                          Agreement by Riser dated May 16, 1994
+
+          10.54           Amendment No. 1 to Amended and Restated Credit 
+                          Agreement by and among Rini-Rego, Society and
+                          the Banks dated May 16, 1994
+
+          21              Subsidiaries of the Registrant
+
+          27              Financial Data Schedules (submitted to SEC for
+                          informational purposes only)
+
+
+(B)  REPORTS ON FORM 8-K:
+
+          None
+
+
+
+___________________________
+
+(1)      Incorporated by reference from the Company's Annual Report on Form
+         10-K as filed with the Securities and Exchange Commission on October
+         17, 1988.
+
+(2)      Incorporated by reference from the Company's Annual Report on Form
+         10-K of Riser Foods, Inc. (Commission File No. 1-9914) as filed with 
+         the Securities and Exchange Commission on September 25, 1992.
+
+(3)      Incorporated by reference from the Company's Annual Report on Form
+         10-K of Riser Foods, Inc. (Commission File No. 1-9914) as filed with 
+         the Securities and Exchange Commission on October 1, 1993.
+
+
+
+
+
+                                       23
+
+<PAGE>   25
+                                   SIGNATURES
+
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+
+                                        RINI-REGO SUPERMARKETS, INC.
+
+                                        By: /s/ Charles A. Rini, Sr.
+                                            ------------------------------
+                                            Charles A. Rini, Sr.
+                                            President and Director
+
+
+   Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+
+        Name                            Title                Date
+        ----                            -----                ----
+<S>                        <C>                        <C>
+/s/ Charles A. Rini, Sr.   President                  September 23, 1994
+- - - ------------------------   and Director
+Charles A. Rini, Sr.
+
+/s/ Anthony C. Rego        Vice President, Secretary  September 23, 1994
+- - - ------------------------   and Director
+Anthony C. Rego            
+
+/s/ Ronald W. Ocasek       Chief Financial            September 23, 1994
+- - - ------------------------   Officer and Treasurer 
+Ronald W. Ocasek           (Principal Accounting 
+                           Officer)
+
+</TABLE>
+
+
+                                       24
+
+<PAGE>   26
+                    Report of Independent Public Accountants
+
+To Rini-Rego Supermarkets, Inc. and Subsidiaries:
+
+       We have audited the accompanying consolidated balance sheets of RINI-
+REGO SUPERMARKETS, INC. (an Ohio corporation and subsidiary of Riser Foods,
+Inc.) AND SUBSIDIARIES as of July 2, 1994 and July 3, 1993, and the related 
+consolidated statements of income, shareholders' equity and cash flows for 
+each of the three fiscal years in the period ended July 2, 1994.  These 
+financial statements and the schedules referred to below are the responsibility 
+of the Company's management.  Our responsibility is to express an opinion on 
+these financial statements and schedules based on our audits.
+
+       We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+
+       In our opinion, the financial statements referred to above present
+fairly, in all material respects, the financial position of Rini-Rego
+Supermarkets, Inc. and Subsidiaries as of July 2, 1994, and July 3, 1993, and 
+the results of their operations and their cash flows for each of the three 
+fiscal years in the period ended July 2, 1994, in conformity with generally 
+accepted accounting principles.
+
+       As explained in Note 4 to the financial statements, effective July 4,
+1993 the Company changed its method of accounting for income taxes as required
+by Statement of Financial Accounting Standards No. 109.
+
+       Our audits were made for the purpose of forming an opinion on the basic
+financial statements taken as a whole.  The schedules contained in Note 14 to
+the financial statements are presented for purposes of complying with the
+Securities and Exchange Commission's rules and are not a required part of the
+basic financial statements.  These schedules have been subjected to the
+auditing procedures applied in the audit of the basic financial statements and,
+in our opinion, fairly state in all material respects the financial data
+required to be set forth therein in relation to the basic financial statements
+taken as a whole.
+
+ARTHUR ANDERSEN LLP
+Cleveland, Ohio,
+September 12, 1994
+
+
+
+
+
+                                       25
+
+<PAGE>   27
+<TABLE>
+                                                   RINI-REGO SUPERMARKETS, INC.
+                                                   ----------------------------
+                                                         AND SUBSIDIARIES
+                                                         ----------------        
+                                                    CONSOLIDATED BALANCE SHEETS
+                                                    ---------------------------
+                                                      (dollars in thousands)
+                                                                 
+                                                              ASSETS
+                                                              ------
+<CAPTION>
+                                                                             July 2,                    July 3, 
+                                                                               1994                     1993
+                                                                           ---------                  ---------
+<S>                                                                         <C>                        <C>
+CURRENT ASSETS:
+         Cash and cash equivalents                                          $  4,376                   $  4,394
+         Trade accounts receivable, net                                       38,460                     36,039
+         Inventories                                                          74,279                     72,482
+         Prepaid expenses                                                      4,854                      4,607
+         Deferred income taxes                                                 6,583                        -
+                                                                           ---------                  ---------
+                 Total current assets                                        128,552                    117,522
+
+PROPERTY, EQUIPMENT AND CAPITAL LEASES:
+         Land                                                                  4,255                      4,128 
+         Buildings and improvements                                           42,408                     44,012
+         Equipment                                                            71,723                     63,218 
+         Leasehold improvements                                               55,455                     45,685
+                                                                           ---------                  ---------
+                                                                             173,841                    157,043 
+         Less - Allowances for depreciation,
+           amortization and loss on disposal
+           of fixed assets                                                    65,308                     55,965
+                                                                           ---------                  ---------
+                                                                             108,533                    101,078
+
+OTHER ASSETS:
+         Notes receivable                                                     10,851                      6,529
+         Deferred income taxes                                                 7,062                      5,921
+         Other                                                                 2,519                      2,379
+                                                                           ---------                  ---------
+                                                                              20,432                     14,829 
+                                                                           ---------                  ---------
+TOTAL ASSETS                                                                $257,517                   $233,429
+                                                                           =========                  =========                   
+<FN>
+         The accompanying Notes to Consolidated Financial Statements are an
+           integral part of these consolidated balance sheets.
+</TABLE>
+
+
+
+
+
+                                       26
+
+<PAGE>   28
+                         RINI-REGO SUPERMARKETS, INC.
+                         ----------------------------
+                               AND SUBSIDIARIES
+                               ----------------
+                          CONSOLIDATED BALANCE SHEETS
+                          ---------------------------
+                   (dollars in thousands, except share data)
+
+                      LIABILITIES AND SHAREHOLDERS' EQUITY
+                      ------------------------------------
+<TABLE>
+<CAPTION>
+                                                                            July 2,                    July 3,
+                                                                             1994                       1993
+                                                                           ---------                  ---------
+<S>                                                                        <C>                         <C>
+CURRENT LIABILITIES:
+         Accounts payable                                                   $ 45,614                   $ 47,188
+         Accrued expenses                                                     29,911                     31,675
+         Current portion of-
+           Debt                                                                4,306                      8,601
+           Capital lease obligations                                           1,979                      1,569
+           Self insurance reserves                                             3,750                      4,147
+                                                                           ---------                  ---------
+               Total current liabilities                                      85,560                     93,180 
+                                                                                                                
+
+LONG-TERM PORTION OF:
+         Debt                                                                 71,274                     56,318 
+         Capital lease obligations                                            12,404                     10,591
+         Self insurance reserves                                              10,531                      9,660
+                                                                           ---------                  ---------
+                                                                              94,209                     76,569 
+
+OTHER LIABILITIES                                                             13,067                      6,349
+
+DEFERRED INCOME TAXES                                                            -                          952
+
+SHAREHOLDERS' EQUITY:
+   Series A Preferred Shares - $100 par value;
+         $8.00 cumulative convertible, nonvoting;
+         30,000 shares authorized; 18,044
+         shares outstanding in 1994 and 1993.                                  1,804                      1,804
+   Common Shares - $.01 par value:
+         Class A - 20,000,000 shares authorized;
+           7,125,287 and 7,125,288 shares
+           outstanding in 1994 and 1993,
+           respectively.                                                          71                         71
+         Class B - 5,000,000 shares authorized;
+           955,613 shares outstanding in
+           1994 and 1993.                                                         10                         10
+   Paid-in capital                                                            35,546                     35,546
+   Retained earnings                                                          27,250                     18,948
+                                                                           ---------                  ---------
+                                                                              64,681                     56,379 
+                                                                           ---------                  ---------
+                                                                            $257,517                   $233,429 
+                                                                           =========                  =========
+<FN>
+                        The accompanying Notes to Consolidated Financial Statements are an
+                               integral part of these consolidated balance sheets.
+</TABLE>
+
+
+
+
+
+                                       27
+
+<PAGE>   29
+                         RINI-REGO SUPERMARKETS, INC.
+                         ----------------------------
+                                AND SUBSIDIARIES
+                                ----------------
+                       CONSOLIDATED STATEMENTS OF INCOME
+                       ---------------------------------
+                 (in thousands, except share and per share data)
+
+
+<TABLE>
+<CAPTION>
+                                                                         Fiscal Year Ended          
+                                                         ------------------------------------------------
+                                                           July 2,            July 3,           June 27, 
+                                                            1994               1993               1992
+                                                         (52 Weeks)         (53 Weeks)         (52 Weeks)
+                                                         ----------         ----------          ---------
+<S>                                                     <C>                 <C>                <C>      
+NET SALES                                                $1,121,604         $1,108,178         $  979,277 
+
+COST OF GOODS SOLD                                          905,456            891,666            766,896
+                                                         ----------         ----------          ---------
+         Gross profit                                       216,148            216,512            212,381
+
+SELLING, GENERAL AND ADMINISTRATIVE
+  EXPENSES                                                  194,626            195,079            191,390
+
+RESTRUCTURING CHARGE                                         12,000              5,000                960
+                                                         ----------         ----------          ---------
+         Operating income                                     9,522             16,433             20,031
+
+OTHER INCOME (EXPENSE):
+         Interest expense                                    (7,802)            (6,879)            (7,034)
+         Interest income                                        788                511                748
+                                                         ----------         ----------          ---------
+                                                           
+NET INCOME BEFORE INCOME TAXES,
+  EXTRAORDINARY ITEM AND
+  CHANGE IN ACCOUNTING PRINCIPLE                              2,508             10,065             13,745
+
+PROVISION FOR INCOME TAXES:
+         State and local                                         46                520              1,017
+         Federal                                                882              3,335              4,605
+                                                         ----------         ----------          ---------
+                                                                928              3,855              5,622
+NET INCOME BEFORE EXTRAORDINARY
+  ITEM AND CUMULATIVE EFFECT OF
+  CHANGE IN ACCOUNTING PRINCIPLE                         $    1,580         $    6,210         $    8,123
+
+</TABLE>
+
+
+
+
+                                      28
+
+<PAGE>   30
+
+<TABLE>
+<CAPTION>
+                                                                                    Fiscal Year Ended        
+                                                                   ---------------------------------------------------
+                                                                    July 2,               July 3,            June 27,
+                                                                      1994                 1993               1992
+                                                                   (52 Weeks)           (53 Weeks)          (52 Weeks)
+                                                                   ----------           ----------          ----------
+<S>                                                                <C>                  <C>                 <C>
+NET INCOME BEFORE EXTRAORDINARY
+  ITEM AND CUMULATIVE EFFECT OF
+  CHANGE IN ACCOUNTING PRINCIPLE                                        1,580                6,210               8,123
+
+EXTRAORDINARY ITEM:
+         Utilization of net operating loss
+           carryforwards                                                  -                    253                 -
+                                                                   ----------           ----------          ----------
+NET INCOME BEFORE CUMULATIVE
+  EFFECT OF CHANGE IN ACCOUNTING
+  PRINCIPLE                                                             1,580                6,463               8,123
+
+CUMULATIVE EFFECT OF CHANGE IN
+  ACCOUNTING PRINCIPLE:
+           Accounting for income taxes                                  6,866                  -                   -
+                                                                   ----------           ----------          ----------
+NET INCOME                                                              8,446                6,463               8,123
+
+LESS PREFERRED STOCK DIVIDENDS                                            144                  144                 144
+                                                                   ----------           ----------          ----------
+NET INCOME FOR COMMON SHAREHOLDERS                                 $    8,302           $    6,319          $    7,979            
+                                                                   ==========           ==========          ==========            
+NET INCOME PER COMMON SHARE:
+         Net income before extraordinary
+           item and cumulative effect
+           of change in accounting
+           principle                                               $      .18           $      .75          $      .99
+         Extraordinary item:
+           Utilization of net operating
+             loss carryforwards                                           -                    .03                 -
+         Cumulative effect of change in
+             accounting principle:
+             Accounting for income taxes                                  .85                  -                   -
+                                                                   ----------           ----------          ----------
+NET INCOME PER COMMON SHARE                                        $     1.03           $      .78          $      .99            
+                                                                   ==========           ==========          ==========            
+WEIGHTED AVERAGE NUMBER OF COMMON
+  SHARES OUTSTANDING                                                8,080,901            8,080,901           8,080,885
+                                                                   ==========           ==========          ==========            
+
+<FN>
+The accompanying Notes to Consolidated Financial Statements are an
+                 integral part of these statements.
+
+</TABLE>
+
+
+
+                                       29
+
+<PAGE>   31
+
+
+                         RINI-REGO SUPERMARKETS, INC.
+                         ----------------------------
+                               AND SUBSIDIARIES
+                               ----------------
+               CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+               -----------------------------------------------
+                                (in thousands)
+
+
+<TABLE>
+<CAPTION>
+                                     Preferred       Class A         Class B         Paid-In         Retained
+                                       Stock          Common          Common         Capital         Earnings 
+                                     ---------       --------       ---------        --------        --------
+<S>                                  <C>             <C>             <C>             <C>             <C>
+BALANCE AT JUNE 29, 1991             $   1,805       $     71        $     10        $ 35,546        $  4,650
+
+  Net income                                 -              -               -               -           8,123
+  Preferred stock
+    dividends of
+    $8 per share                             -              -               -               -            (144)
+  Stock conversions                         (1)            -                -               -               -
+                                     ---------       --------       ---------        --------        --------
+BALANCE AT JUNE 27, 1992                 1,804             71              10          35,546          12,629
+
+  Net income                                -               -               -               -           6,463
+  Preferred stock
+    dividends of
+    $8 per share                            -               -               -               -            (144)    
+                                     ---------       --------       ---------        --------        --------
+BALANCE AT JULY 3, 1993                  1,804             71              10          35,546          18,948
+
+  Net Income                                 -              -               -               -           8,446
+  Preferred stock
+    dividends of
+    $8 per share                             -              -               -               -            (144) 
+                                     ---------       --------       ---------        --------        --------
+BALANCE AT JULY 2, 1994              $   1,804       $     71       $      10        $ 35,546        $ 27,250 
+                                     =========       ========       =========        ========        ========
+
+<FN>
+The accompanying Notes to Consolidated Financial Statements are an
+               integral part of these statements.
+
+</TABLE>
+
+
+
+
+                                       30
+
+<PAGE>   32
+                         RINI-REGO SUPERMARKETS, INC.
+                         ----------------------------
+                                AND SUBSIDIARIES
+                                ----------------
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                     -------------------------------------
+                                 (in thousands)
+
+
+
+
+
+<TABLE>
+<CAPTION>
+                                                                      Fiscal Year Ended
+                                                       -------------------------------------------------
+                                                          July 2,           June 27,          June 27,
+                                                           1994               1993              1992
+                                                        (52 Weeks)         (53 Weeks)        (52 Weeks)
+                                                       ------------       ------------      ------------     
+<S>                                                      <C>               <C>               <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:                 
+  Net income                                             $   8,446         $   6,463         $   8,123
+     Adjustments to reconcile net income
+         to net cash provided by
+         operating activities:
+            Cumulative effect of change in
+              accounting principle                          (6,866)              -                 -
+            Depreciation and amortization                   14,804            13,585            12,198
+            Utilization of pre-acquisition
+              NOL carryforward                                 627               483             1,541
+            Loss on sale of assets                             639                82               131
+            Deferred income taxes                           (3,896)           (1,765)           (1,335)
+            Changes in assets and liabilities:
+               Decrease (increase) in accounts
+                 and notes receivable                       (6,743)          (10,278)              513
+               Decrease (increase) in
+                 inventories                                (1,797)           (5,985)            6,905
+               Decrease (increase) in
+                 prepaid expenses                             (247)             (602)            1,637
+               Increase in other assets                       (763)             (477)             (259)
+               Increase (decrease) in accounts
+                 payable                                    (1,574)            6,298            (2,271)
+               Increase (decrease) in self
+                 insurance reserves                            474               731              (656)
+               Increase (decrease) in accrued
+                 expenses and other liabilities             10,395             7,786              (497)
+               Change in other                                  95               136               109
+                                                         ---------        ----------        ----------
+     Net cash provided by
+         operating activities                            $  13,594         $  16,457         $  26,139
+                                                         ---------         ---------         ---------
+</TABLE>
+
+
+
+
+
+                                       31
+
+<PAGE>   33
+<TABLE>
+<CAPTION>
+                                                                                       Fiscal Year Ended
+                                                                        ----------------------------------------------
+                                                                         July 2,           July 3,           June 27,
+                                                                          1994              1993               1992
+                                                                        (52 Weeks)        (53 Weeks)        (52 Weeks)
+                                                                        ----------        ----------        ----------
+<S>                                                                     <C>               <C>                <C>
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Purchases of fixed assets                                             $ (27,132)        $ (25,807)         $ (25,849)
+  Proceeds from sale of fixed assets                                          876             1,003              3,445
+  Purchase of intangibles                                                     -                 -               (2,064)
+                                                                        ----------        ----------         ----------
+     Net cash used for investing activities                               (26,256)          (24,804)           (24,468)
+                                                                        ----------        ----------         ----------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Borrowings on revolving lines of credit                                 917,069           633,021            437,451
+  Repayments of revolving lines of credit                                (900,290)         (630,821)          (437,258)
+  Repayment of term loans                                                     -                 -              (13,123)
+  Borrowings through term loan                                                -              12,000                -
+  Issuance of Variable Rate Demand Notes                                      -                 -               15,000
+  Additions to mortgage notes payable                                       2,896               -                  -
+  Additions to notes payable                                                  -                 -                  648
+  Debt repayments                                                          (9,180)           (5,034)            (4,045)
+  Additions to capital lease obligations                                    4,018             1,498              1,019
+  Repayment of capital lease obligations                                   (1,725)           (1,234)              (983)   
+  Preferred stock dividends                                                  (144)             (144)              (144)
+  Other                                                                       -                 -                 (474)
+                                                                        ----------        ----------         ----------
+     Net cash provided by (used for)
+         financing activities                                              12,644             9,286            ( 1,909)
+                                                                        ----------        ----------         ----------
+NET INCREASE (DECREASE) IN CASH AND
+  CASH EQUIVALENTS                                                            (18)              939               (238)
+CASH AND CASH EQUIVALENTS, AT BEGINNING
+  OF YEAR                                                                   4,394             3,455              3,693
+                                                                        ----------        ----------         ----------
+CASH AND CASH EQUIVALENTS, AT END
+  OF YEAR                                                               $   4,376         $   4,394          $   3,455
+                                                                        ==========        ==========         ==========
+
+SUPPLEMENTAL DATA:
+  Interest paid                                                         $   7,627         $   7,585          $   6,528
+                                                                        ==========        ==========         ==========
+
+  Income taxes paid                                                     $   6,417         $   4,334          $   5,287
+                                                                        ==========        ==========         ==========
+<FN>
+
+  The accompanying Notes to Consolidated Financial Statements are an
+    integral part of these statements.
+
+</TABLE>
+
+
+
+
+
+                                       32
+
+<PAGE>   34
+                                      
+                                      
+                         RINI-REGO SUPERMARKETS, INC.
+                         ----------------------------
+                              AND SUBSIDIARIES
+                              ----------------
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                  ------------------------------------------
+
+(1)  Summary of Significant Accounting Policies:
+     -------------------------------------------
+         PRESENTATION -- Rini-Rego Supermarkets, Inc. (RRS or the Company),
+formerly known as  Fisher Foods, Inc. (Fisher), is a wholly-owned subsidiary of
+Riser Foods, Inc. (Riser).  The accompanying financial statements of the
+Company are presented on the "push down accounting" basis, for financial
+reporting purposes only, with the equity section of the accompanying balance
+sheet reflecting the equity of Riser.
+
+         The separate financial statements of the Company would reflect the
+following shareholder equity amounts (in thousands):
+
+                        July 2,         July 3,
+                         1994            1993
+                        -------         -------
+
+Preferred stock         $ 1,811         $ 1,811
+Common Stock              1,403           1,403
+Paid-in capital          22,714          22,714
+Retained earnings        37,279          28,977
+                        -------         -------
+                        $63,207         $54,905
+                        =======         =======
+
+         SEGMENT INFORMATION -- The Company is engaged in one business segment, 
+the food distribution industry.  The Company distributes national brand and 
+private label products through Company-owned and other independently-owned 
+retail stores throughout northeast and central Ohio and western Pennsylvania.  
+The Company operates 42 retail locations in northeast Ohio.  The following is 
+a detail of the number of Company-owned stores by year:
+
+<TABLE>
+<CAPTION>
+                             1994       1993       1992
+                             ----       ----       ----       
+     <S>                      <C>        <C>        <C>
+     Beginning of year        45         51         50
+     Opened                    2          1          2
+     Closed                   (5)        (7)        (1)
+                             ----       ----       ----
+     End of year              42         45         51 
+                             ====       ====       ====
+
+</TABLE>
+                                       33
+
+
+<PAGE>   35
+
+         PRINCIPLES OF CONSOLIDATION -- The consolidated financial statements
+include the accounts of RRS and its subsidiaries.  All material intercompany
+accounts and transactions have been eliminated.
+
+         FISCAL YEAR -- The Company's fiscal year ends on the Saturday closest
+to June 30.  Fiscal 1994 consists of the 52 weeks ended July 2, 1994.  Fiscal
+1993 consists of the 53 weeks ended July 3, 1993.  Fiscal 1992 consists of the
+52 weeks ended June 27, 1992.
+
+         CASH EQUIVALENTS -- The Company considers all highly liquid
+investments with an initial maturity of three months or less to be cash
+equivalents.
+
+         INVENTORIES-- Inventories are stated at the lower of cost or market.
+Cost is determined through the use of the last-in, first-out (LIFO) method for
+a majority of consolidated inventories:  72% at July 2, 1994 and 83% at July 3,
+1993.  The first-in, first-out (FIFO) method is used to determine cost for the
+remaining inventories which consist principally of perishable products and
+warehouse health and beauty care and general merchandise products.
+
+         If the FIFO method had been used to determine cost for all Company
+inventories, total inventories would have been higher than reported by
+approximately $6,383,000 at July 2, 1994 and $6,869,000 at July 3, 1993.
+
+         PROPERTY, EQUIPMENT AND CAPITAL LEASES-- Property and equipment are
+recorded at cost and depreciated using the straight-line method at annual rates
+sufficient to amortize the cost of the assets during their estimated useful
+lives.  Accelerated depreciation methods are used for income tax purposes.
+Amortization of property under capital leases is computed using the
+straight-line method over the shorter of the estimated life of the asset or the
+term of the lease.  The following range of depreciable lives are used:
+
+                 Buildings and Improvements        19 to 40 years
+                 Leasehold Improvements             5 to 20 years
+                 Equipment                          3 to 15 years
+
+                                      34
+
+<PAGE>   36
+
+         SELF INSURANCE RESERVES -- The Company is primarily self insured for
+property loss, general liability costs and workers' compensation.  Estimated
+costs of these self insurance programs are accrued at current cost based on
+projected settlements for claims and include estimates for claims incurred but
+not reported.   Any adjustments made to previously recorded reserves are
+reflected in current operating results.  Amounts charged to expense for self
+insured liabilities were $4,209,000, $4,529,000 and $3,029,000 in 1994, 1993
+and 1992, respectively.
+
+         REVENUE RECOGNITION -- Revenues from product sales are recognized upon
+shipment of the product from warehouse distribution to independently-owned
+retail stores and at the point of sale for Company-owned retail stores.
+
+         STORE PRE-OPENING COSTS -- Store pre-opening costs, primarily employee
+training, inventory stocking and advertising, are charged to expense concurrent
+with store openings.
+
+         RECLASSIFICATIONS -- Certain reclassifications have been made to prior
+year financial statements to conform with current year presentation.  These
+reclassifications did not affect results of operations previously reported.
+
+         NET INCOME PER SHARE -- Net income per share is computed by dividing
+net income less preferred stock dividends by the weighted average number of
+common shares outstanding.  Outstanding stock options do not have a significant
+dilutive effect on net income per share.
+
+
+(2)      Trade Accounts and Notes Receivable:
+         ------------------------------------
+         The Company's trade accounts and notes receivable are primarily with
+various wholesale customers which are engaged in  retail food distribution in
+northeast and central Ohio and western Pennsylvania.
+
+         The Company's notes receivable principally arise from the  financing
+of store leaseholds, inventory and fixed assets related to the operations of
+the Company's independently-owned wholesale customers.  Loans to independent
+retailers, as well as trade accounts receivable, are primarily collateralized
+by the retailers' inventory, equipment and fixtures.  The notes range in length
+from 1 to 7 years and primarily bear interest at prime plus 1.0% or 1.5%.  The
+estimated fair market value of the notes approximates their net carrying value
+at July 2, 1994 and July 3, 1993.
+
+                                      35
+<PAGE>   37
+
+         Trade accounts receivable include $4,664,000 and $3,736,000 of the
+current portion of notes receivable at July 2, 1994 and July 3, 1993,
+respectively.  Trade accounts receivable were net of an allowance for doubtful
+accounts of $3,295,000 at July 2, 1994 and $3,985,000 at July 3, 1993,
+respectively.
+
+(3)      Accrued Expenses:
+         -----------------
+         Accrued expenses included the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                      1994          1993
+                                                    ---------    ---------
+                 <S>                                <C>          <C>
+                 Accrued payroll and related
+                  expenses                          $  8,742     $  8,658
+                 State and local taxes                 5,496        5,151
+                 Accrued income taxes                  1,498        4,591
+                 Closed facilities reserve,
+                  current portion                      2,125        1,720 
+                 Other accrued expenses               12,050       11,555
+                                                    ---------    ---------
+                                                    $ 29,911     $ 31,675
+                                                    =========    =========
+</TABLE>
+
+(4)     Income Taxes:
+        -------------
+        At the beginning of 1994, the Company adopted the provisions
+of SFAS No. 109 "Accounting for Income Taxes".  This statement requires that
+the liability method of accounting for income taxes be used rather than the
+deferred method previously used.  The Company elected not to restate prior
+years' financial statements and the cumulative effect of this accounting change
+was to increase 1994 net income by $6,866,000 or $.85 per share.  The
+cumulative effect is principally the result of benefiting the expected
+utilization of tax net operating loss carryforwards (NOL) and the adjustment of
+deferred tax balances to reflect changes in statutory rates.
+        
+
+                                       36
+
+<PAGE>   38
+        The income tax provision in the accompanying consolidated 
+statements of income differs from the provision at statutory rates as
+follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                                               1994             1993             1992
+                                                                            ---------        ---------        ---------
+         <S>                                                                <C>              <C>              <C>
+         Income before income taxes,
+           extraordinary item and
+           change in accounting principle                                   $  2,508         $ 10,065         $ 13,745
+                                                                            =========        =========        =========
+         Tax provision at federal
+           statutory rate - 34%                                             $    853         $  3,422         $  4,673
+
+         State and local income taxes, net of
+           federal income tax benefit                                             30              341              671
+         Difference in financial reporting and
+           tax basis of net assets acquired                                       -               270              120
+         Excise tax on pension curtailment                                        -                -               144
+         Stock option exercised                                                   -              (165)              -
+         Other                                                                    45              (13)              14
+                                                                            ---------        ---------        ---------
+         Provision for income taxes                                         $    928         $  3,855         $  5,622
+                                                                            =========        =========        =========
+
+</TABLE>
+
+         The Company's income tax provision consists of the following components
+(in thousands):
+
+<TABLE>
+<CAPTION>
+                                                                               1994             1993             1992
+                                                                            ---------        ---------        ---------
+         <S>                                                                <C>              <C>              <C>
+         Current:
+           Federal                                                          $  3,351         $  4,364         $  4,399
+           State and local                                                       846              520            1,017
+                                                                            ---------        ---------        ---------
+                                                                               4,197            4,884            5,416
+         Deferred:
+           Federal                                                            (3,096)          (1,765)          (1,335)
+           State and local                                                      (800)             -                -
+                                                                            ---------        ---------        ---------
+                                                                              (3,896)          (1,765)          (1,335)
+         Utilization of NOL                                                      627              736            1,541
+                                                                            ---------        ---------        ---------
+         Provision for income taxes                                         $    928         $  3,855         $  5,622 
+                                                                            =========        =========        =========
+</TABLE>
+
+
+
+
+
+                                       37
+
+<PAGE>   39
+<TABLE>
+<CAPTION>
+                 Deferred Taxes Resulted from:
+                                                                               1994             1993             1992
+                                                                            ---------        ---------        ---------
+     <S>                                                                    <C>              <C>              <C>
+     Property depreciation and amortization                                 $     94         $   (124)        $   (476)
+     Closed facilities reserve                                                (3,820)            (856)            (163)
+     Self insurance reserves                                                    (170)            (254)             337
+     Accruals not currently deductible                                          (183)            (273)            (382)
+     Reserves currently (not currently)
+       deductible                                                                252             (223)            (184)
+     Other                                                                       (69)             (35)            (467)
+                                                                            ---------        ---------        ---------
+                                                                            $ (3,896)        $ (1,765)        $ (1,335)
+                                                                            ---------        ---------        ---------
+
+</TABLE>
+
+
+                 Significant components of the Company's net deferred tax 
+         asset at July 2, 1994 and July 3, 1993, after giving effect to SFAS
+         No. 109, are as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                                                                At
+                                                                               1994           Adoption
+                                                                            ---------        ---------
+         <S>                                                                <C>              <C>
+         DEFERRED TAX LIABILITIES:
+           Property, equipment and capital
+             leases                                                         $ (5,619)        $ (5,459)
+           State and local taxes other
+             than income                                                        (459)            (402)
+           Other                                                                 -                 (9)
+                                                                            ---------        ---------
+                                                                              (6,078)          (5,870)
+
+         DEFERRED TAX ASSETS:
+           Reserve for uncollectible accounts                                  1,280            1,440
+           Closed facilities reserve                                           6,123            2,303
+           Self insurance reserves                                             4,858            4,688
+           Employees' retirement benefits                                      1,058            1,123
+           Accruals not currently deductible                                   2,296            2,085
+           Net operating loss carryforwards                                    7,782            8,409
+           Other                                                                 974              814
+                                                                            ---------        ---------
+                                                                              24,371           20,862
+         VALUATION ALLOWANCE                                                  (4,648)          (4,648)
+                                                                            ---------        ---------
+         NET DEFERRED TAX ASSET                                             $ 13,645         $ 10,344 
+                                                                            =========        =========
+</TABLE>
+
+
+
+
+
+                                       38
+
+<PAGE>   40
+
+         The Company has gross NOL totaling $22,890,000 which expire as follows
+(in thousands):
+
+<TABLE>
+<CAPTION>
+                     Year                NOL
+                     ----              --------
+                     <S>               <C>
+                     2000              $   643
+                     2001               16,859
+                     2002                5,388
+                                       --------
+                                       $22,890 
+                                       ========
+
+</TABLE>
+
+SFAS No. 109 requires that the tax benefit of such NOL be recognized as an
+asset to the extent the Company assesses the utilization of such NOL to be
+"more likely than not".  Based upon the Company's history of prior earnings,
+expectations for future earnings and tax regulations which limit the annual
+amount of NOL available for deduction, the Company does not currently believe
+it is more likely than not that the entire amount of NOL will be utilized
+before they expire.  As such, a valuation allowance of $4,648,000 has been
+established due to the uncertainty of future NOL realization.
+
+         Prior to the Company's adoption of SFAS No. 109, realization of these
+NOL was recognized as a reduction of purchase accounting for non-current
+assets until such time as the carrying values were written off.  The Company
+utilized $2,166,000 and $4,532,000 of NOL in 1993 and 1992.  On an after tax
+basis, $253,000 of the 1993 utilization was recognized as an extraordinary item
+after $483,000 was utilized to write-off the remaining balance of non-current
+purchase price assets.  All of the 1992 utilization reduced non-current
+purchase price assets.
+
+
+
+
+
+                                       39
+
+<PAGE>   41
+(5)      Long-Term Debt:
+         ---------------
+         Long-term debt is comprised of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                                                         1994            1993  
+                                                                                       --------       -------- 
+         <S>                                                                           <C>            <C>
+         Borrowings under bank credit facility:
+            Revolving lines of credit                                                  $37,802        $21,024
+            Term loan                                                                    9,857         12,000
+
+         Taxable Variable Rate Demand Notes                                             11,000         13,000
+
+         9.75% Subordinated Debentures, less
+            unamortized issuance discount of
+            $1,362,000 and $1,484,000 at 1994
+            and 1993, respectively, $655,000
+            due annually beginning December 30,
+            1997, with remainder due in 2001                                            11,730         11,608
+
+         6.5% Convertible Subordinated
+            Debentures due in June, 1994                                                   -            4,486
+
+         Real estate mortgages at rates
+            ranging from 7% to 10%                                                       4,588          2,074
+
+         Other Notes Payable                                                               603            727 
+                                                                                       -------        -------
+                                                                                        75,580         64,919
+         Less - Current maturities                                                       4,306          8,601 
+                                                                                       -------        -------
+                                                                                       $71,274        $56,318 
+                                                                                       --------       -------
+</TABLE>
+
+         The Company's bank credit facilities (Facilities) provide for
+revolving lines of credit, letters of credit and a term loan up to an aggregate
+of $75 million.  Borrowings under the revolving lines of credit are due in June
+1996 but may be extended to June 1998 upon consent of the banks.  The term loan
+is payable in quarterly installments of $428,571 over five years with a balloon
+payment due in April 1998.  Borrowings under the lines of credit and term loan
+accrue interest at .5% over the Bank's Prime Interest Rate and are paid
+monthly.  Commitment fees representing .25% per annum of the unused facilities
+plus agency fees of $2,500 per month are also paid monthly.  Available unused
+borrowing capacity under these Facilities at July 2, 1994 was approximately
+$10.1 million.
+
+         The Facilities consist of separate credit agreements for each of the
+Company's significant operating entities (collectively the Consolidated Credit
+Agreement).  Borrowings under each individual facility cannot exceed 85% of the
+respective entities qualified receivables, plus from 55% to 65% of eligible
+inventory and 100% of
+
+
+
+
+
+                                       40
+
+<PAGE>   42
+eligible cash and cash equivalents, less certain reserves and obligations, all
+as defined in the Consolidated Credit Agreement.  The Facilities are secured by
+substantially all the assets of RRS and each individual credit facility is
+cross-guaranteed by all other subsidiaries and guaranteed by Riser.
+
+         Among other covenants, the Consolidated Credit Agreement requires that
+the Company maintain, on a consolidated basis,  minimum levels of tangible net
+worth and cash flows and minimum ratios of liabilities to tangible net worth
+and capital expenditures to cash flows, which vary each fiscal year.  The
+agreement further provides for limitations on dividends and capital
+expenditures.  The Company is in compliance with or has obtained Bank waiver
+for all covenants at July 2, 1994.
+
+         The Company's Taxable Variable Rate Demand Notes (Notes) bear interest
+at a variable rate based on the higher of the average 30-day or 90-day
+commercial paper rate, plus a market increment which at July 2, 1994 was .125%,
+payable monthly.  Principal under the Notes is payable in annual installments
+of $2,000,000 through December 1, 1997 and $3,000,000 on December 1, 1998.  The
+Notes are secured by a bank letter of credit.  The bank letter of credit
+expires in June 1996, has an annual fee of 1% on the outstanding note balance,
+and is secured by the Facilities.
+
+         Concurrent with the issuance of the Notes, the Company entered into an
+exchange transaction which fixed the higher of the 30-day or 90- day commercial
+paper rate at 6.50% through December 1, 1994 at dollar amounts which correspond
+to the Notes outstanding.  The Company records interest expense on the Notes as
+if the interest rate was fixed at 6.5% and charges expense currently.
+
+         The 9.75% Subordinated Debentures are recorded net of an original
+issue discount, based on an imputed interest rate of 12%, which is being
+amortized over the term of the indebtedness using the effective interest
+method.  These debentures, originally issued by a subsidiary of the Company,
+require semiannual interest payments and may be redeemed at the Company's
+option at 100% of the principal amount.
+
+         The Company redeemed the entire outstanding principal balance of the
+6.5% Convertible Subordinated Debentures at their maturity date, June 1, 1994.
+One bondholder exercised the option to convert the debenture into 37 shares of
+the Company's common stock.
+
+         Certain property and equipment, with an aggregate net value for
+financial reporting purposes of $25,284,000, was pledged to secure real estate
+first mortgages on July 2, 1994.
+
+
+
+
+
+                                       41
+
+<PAGE>   43
+
+         Future maturities of long-term debt as of July 2, 1994, are
+summarized as follows (in thousands):
+
+<TABLE>
+              <S>                               <C>
+              1995                              $ 4,306
+              1996                               42,140
+              1997                                4,343
+              1998                                8,025 
+              1999                                3,355
+              2000 and thereafter                13,411
+                                                -------
+                                                $75,580
+                                                =======
+</TABLE>
+
+     No quoted market prices are available for any of the Company's long-term
+debt as it is not actively traded.  Management, however believes the carrying
+values of the Company's borrowings under its bank credit facility, the notes
+and real estate mortgages approximate their fair values as all bear interest at
+current market rates.  It was not practical to estimate the fair value of the
+Company's 9.75% subordinated debentures because of the inability to estimate
+fair value without incurring excessive costs.
+
+(6)      Leases:
+         ------
+         The Company leases many of its retail store locations, warehouse
+facilities and certain operating equipment under capital and operating leases.
+Most of the retail store leases contain contingent rent clauses based on sales
+levels.  In most instances, the Company has the option to extend the term of
+the lease.  Some of the retail store locations and the warehouse facilities are
+leased from parties that are related through common ownership and control.
+
+         Leased property under capital leases, which is included in property,
+equipment and capital leases, consisted of the following amounts (in
+thousands):
+<TABLE>
+                 <S>                                   <C>
+                 Building                              $11,916
+                 Equipment                               6,535
+                                                       -------
+                                                        18,451
+                 Less - Allowance for amortization      (8,106)  
+                                                       -------
+                                                       $10,345
+                                                       =======
+</TABLE>
+
+
+
+                                       42
+
+<PAGE>   44
+         The following is a schedule of future minimum lease payments under
+noncancelable operating and capital leases as of July 3, 1993 (in thousands):
+
+<TABLE>
+<CAPTION>
+                             Operating Leases                       Capital Leases                                         
+                        Related            Unrelated          Related             Unrelated
+                        -------            ---------          -------             ---------
+<S>                    <C>                 <C>               <C>                  <C>
+1995                    $ 3,940             $ 11,166          $   166              $  3,363
+1996                      3,052               10,865              166                 3,209
+1997                      2,999               10,543              166                 2,942
+1998                      2,794                9,445              180                 2,393
+1999                      2,553                8,766              193                 2,082
+Thereafter                8,747               57,867            1,646                 5,869
+                        -------             --------          -------              -------- 
+                        $24,085             $108,652            2,517                19,858 
+                        =======             ========
+Less -
+  Amounts representing
+    executory costs                                                 -                  624
+  Imputed interest                                              1,684                5,684
+                                                              -------             -------- 
+  Present value of net minimum
+    lease payments                                                833               13,550
+
+Less - Current portion                                              -                1,979
+                                                              -------             --------
+                                                              $   833             $ 11,571
+                                                              =======             ========
+                                                                                                               
+</TABLE>
+
+         The Company also subleases certain of its leased retail store
+locations and a portion of its warehouses.  Future minimum rental
+income under subleases of operating and capital leases at July 2, 1994
+and July 3, 1993 amounted to $21,059,000 and $19,708,000,
+respectively.
+
+         Total rental expense for unrelated operating leases was as
+follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                  1994               1993              1992
+                                ---------         ---------          --------                                                    
+<S>                             <C>               <C>                <C>
+Minimum rental                  $  8,656          $  8,184           $ 6,211
+Contingent rental                    141               322               638
+Sublease rental income            (1,976)           (1,538)           (1,386)
+                                ---------         ---------          --------
+                                $  6,821          $  6,968           $ 5,463
+                                =========         =========          ========
+</TABLE>
+
+
+
+
+
+                                       43
+
+<PAGE>   45
+<TABLE>
+
+        Total rental expense for related operating leases was as follows (in
+thousands):
+
+<CAPTION>
+                                    1994               1993            1992
+                                 ---------          ---------        ---------
+ <S>                             <C>               <C>               <C>
+ Minimum rental                  $  2,211           $  2,557          $  2,723 
+ Contingent rental                     35                 72                69 
+ Sublease rental income              (591)              (464)             (395)
+                                 ---------          ---------         --------
+                                 $  1,655           $  2,165          $  2,397 
+                                 =========          =========         ========
+                                                             
+</TABLE>
+
+(7)     Disposition of Facilities:
+        --------------------------
+
+        The Company provides for the estimated costs of closing facilities
+concurrent with making the decision to close.  The types of costs provided
+include expected losses on disposal of assets, employee severance payments and
+other benefits for terminated employees, estimated withdrawal liabilities from
+multi-employer pension plans, certain fixed costs and future lease payments net
+of estimated sublease income.
+
+        An analysis of the activity in the closed facilities reserve is as 
+follows (in thousands): 
+        
+
+<TABLE>
+<CAPTION>
+                                    1994               1993             1992 
+                                  --------            -------         --------
+<S>                                <C>                <C>              <C> 
+Beginning balance                 $  5,923           $  3,566         $  3,483
+Restructuring charges               12,000              5,000              960
+Payments and other
+ deductions                         (3,036)            (2,643)            (877)
+                                  --------            -------         --------
+Ending balance                    $ 14,887            $ 5,923         $  3,566
+                                  ========            =======         ========
+</TABLE>
+
+
+        The 1994 restructuring charge represents estimated costs associated
+with the Company's retail store consolidation plan in which the Company plans
+to close 14 small, outdated Company-owned retail stores representing
+approximately 456,000 square feet.  These stores will be replaced by seven
+newer, larger stores representing approximately 431,000 square feet.  Two of
+these newer stores will be operated by wholesale customers and the remaining
+five stores will be new or expanded Company-owned retail stores.  At July 2,
+1994, the Company had closed five of the stores included in the 1994
+restructuring charge with the remaining nine stores to be closed over the next
+four years.
+
+
+
+
+
+                                       44
+
+<PAGE>   46
+              The 1993 restructuring charge represented the estimated costs
+   associated with the closing of seven retail stores including six Carl's or
+   former Carl's stores.  The 1992 restructuring charge represented the
+   estimated costs associated with the closing of a former Carl's location.
+   These closings were the result of the Company's decision to focus efforts on
+   its core store format, Rini-Rego Stop-N-Shop.
+
+              At July  2, 1994 the net book value of fixed assets and property
+   pertaining to closed facilities was $7,741,000.  An allowance to reduce
+   these assets to their estimated net realizable value is included in the
+   allowance for depreciation, amortization and loss on disposal, while the
+   long-term portion of the reserve for closing facilities is classified in
+   other liabilities on the accompanying balance sheets.
+
+   (8)   Employee Benefit Plans:
+         -----------------------
+              The Company sponsors an employee savings plan (401(k)) for all
+   non-union employees.  Contributions to the plan are in the form of employee
+   salary deferrals and Company matching funds.  Amounts contributed and
+   expensed for Company matching funds was $229,000 in 1994 and $65,000 in
+   1993.  There were no Company matching funds in 1992.
+
+              The Company also participates in various multi-employer pension
+   plans.  The plans provide for defined benefits to substantially all of the
+   Company's union employees.  Amounts charged to pension cost and contributed
+   to the plans were approximately $4,789,000, $4,860,000, and $4,932,000 for
+   1994, 1993 and 1992, respectively.  At the dates of the latest actuarial
+   valuations, the aggregate withdrawal liability for the multi-employer
+   pension plans totaled approximately $1,495,000.
+
+              In December 1990, Statement of Financial Accounting Standards No.
+   106 "Accounting for Post-retirement Benefits other than Pensions" was
+   issued.  This standard requires that the expected cost of these benefits
+   must be charged to expense during the years the employees render service.
+   The Company does not have any significant post retirement benefits other
+   than those disclosed in Note 11 which have been fully accrued.
+
+   (9)   Capital Stock:
+         --------------
+         Each share of Series A Preferred stock is convertible, at the option
+    of the holder, into 9.79 shares of Class A Common Stock and is redeemable,
+    at the option of Riser, at $105 per share.
+
+         The holders of Class A Common Stock are entitled to one vote per
+    share and holders of Class B Common Stock are entitled to 10 votes per
+    share, except with respect to the election of Riser directors, at which time
+    holders of Class A Common Stock will vote as a
+
+
+
+
+
+                                       45
+
+<PAGE>   47
+     separate class and be entitled to elect 25% of the total number of Riser
+     directors and the Class B Common Stockholders will elect the remaining
+     Riser directors.  Amounts shown on the balance sheet are net of 1,553,630 
+     shares of Class A Common stock outstanding that are held by a Riser 
+     subsidiary.
+
+          Riser has a Stock Incentive Plan which provides for both
+     qualified and non-qualified stock options, as well as stock appreciation
+     rights and restricted stock grants for employees, officers and directors
+     of Riser.  Under the terms of the plan, up to 500,000 Class A Common
+     Shares may be the subject of options, stock appreciation rights or
+     restricted stock grants.  Stock options must be issued at not less than
+     fair value of the Class A Common Stock at the date of grant and are
+     exercisable for up to ten years from the date of grant.  Options
+     outstanding under this plan are as follows:
+
+<TABLE>
+<CAPTION>
+                                      Class A
+                                      Common         Option Price
+                                      Shares           Per Share 
+                                     --------        ------------          
+     <S>                             <C>             <C>
+     Balance - June 29, 1991             -
+       Granted                        91,600            $10.31
+       Forfeited                     (11,700)           $10.31
+       Exercised                         -                 -
+                                     --------               
+     Balance - June 27, 1992          79,900            $10.31
+       Granted                       184,700            $ 7.31
+       Forfeited                     (10,600)        $7.31-$10.31
+       Exercised                         -                 -
+                                     --------               
+     Balance - July 3, 1993          254,000         $7.31-$10.31
+       Granted                           -                 -
+       Forfeited                     (20,400)        $7.31-$10.31
+       Exercised                         -                 -
+                                     --------               
+     Balance - July 2, 1994          233,600 
+                                     =======
+
+     Available for future grants     266,400 
+                                     =======
+</TABLE>
+
+          The options granted in 1993 and 1992 are non-qualified options for
+     federal income tax purposes and are not exercisable until two years after
+     grant.
+
+          At the date of Riser's business combination, options to purchase 
+     shares of RRS common stock, issued pursuant to the RRS Stock Option Plan, 
+     were converted into options to acquire Riser Class A Common Stock.  These 
+     outstanding options, totaling 7,000 at July 2, 1994, are at option prices 
+     ranging from $9.25 to $15.13.
+
+
+
+
+
+                                       46
+
+<PAGE>   48
+(10)     Investment in Stop-N-Shop Supermarkets:
+         ---------------------------------------
+         The Company has a 69% ownership and 38% voting interest in the
+Association of Stop-N-Shop Supermarkets (Association), an association of
+Cleveland grocery retailers that provides combined advertising and other
+services to members.  The Company accounts for this investment using the equity
+method of accounting.
+
+         Amounts paid to the Association for services provided to the Company
+totaled approximately $7,265,000, $6,604,000, and $4,161,400 for 1994, 1993 and
+1992, respectively.  The trade accounts payable balance in the accompanying
+balance sheet includes amounts due the Association of approximately $895,000 at
+July 2, 1994 and $994,000 at July 3, 1993.  The trade accounts receivable
+balance in the accompanying balance sheet includes amounts due from the
+Association of approximately $744,000 at July 2, 1994 and $216,000 at July 3,
+1993.
+
+(11)     Employees' Retirement Benefit:
+         ------------------------------
+         The Company maintains retirement benefit arrangements for certain
+former key executives of the Company.  The plans primarily provide for payments
+to these executives for life with a three-year extension for surviving spouses.
+The Company recorded expense of $472,000 in 1993 and no expense in 1994 and
+1992 related to these agreements.  The amount accrued for these plans was
+$2,711,000 at July 2, 1994 and $2,898,000 at July 3, 1993.
+
+(12)     Contingent Liabilities:
+         ----------------------
+         The Company is the guarantor of certain lease obligations and 
+mortgages of Dominick's Finer Foods, Inc., a former subsidiary. The lease 
+obligations covered total approximately $17,106,000 over the noncancelable 
+term of the obligations, some of which extend to the year 2006.  The Company 
+has no collateral or security interests in the lease obligations or mortgages.  
+Management believes that the contingent liability, if any, resulting from the 
+guarantee of the obligations will not have a material adverse effect on the 
+Company's consolidated financial position.
+
+
+
+
+
+                                       47
+
+<PAGE>   49
+         Effective September 1988, Riser entered into an agreement with
+Electronic Data Systems Corporation (EDS) for the management and operation of
+the Company's data center.  This agreement provides for minimum payments
+summarized as follows (in thousands):
+
+                  1995                                $  3,259
+                  1996                                   3,423
+                  1997                                   3,584
+                  1998                                   3,750
+                  1999                                   1,948
+                                                      --------
+                                                       $15,964
+                                                      ========
+
+         The agreement expires in December, 1998 and may be terminated by
+either party upon six months notice and upon the payment of certain fees for
+termination.
+
+         The Company is also involved in a number of other legal proceedings
+incidental to its business.  Management believes that the liability, if any,
+resulting from all pending legal proceedings will not have a material adverse
+effect on the Company's consolidated financial position or the results of its
+operations.
+
+(13)     Quarterly Financial Data (Unaudited):
+         -------------------------------------
+          (in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+                                                                        Quarter Ended              
+                                                   -----------------------------------------------------------
+                                                   October          January          April 9,         July 2,
+                                                   23, 1993         15, 1994            1994            1994
+                                                  (16 Weeks)       (12 Weeks)       (12 Weeks)       (12 Weeks)        
+                                                   ---------        ---------        ---------        ---------
+<S>                                               <C>              <C>              <C>              <C>
+Net sales                                         $327,973         $270,765         $259,490         $263,376
+Gross profit                                        63,061           51,330           49,214           52,543
+Income (loss) before taxes
+  accounting change                                  3,436            3,944           (9,564)           4,692
+Net income (loss)
+  before accounting change                           2,086            2,394           (5,874)           2,974
+Accounting change                                    6,866              -                -                -
+Net income (loss)                                    8,952            2,394           (5,874)           2,974
+
+Net income (loss) per common
+  share:
+  Before accounting change                             .25              .29             (.73)             .37
+  Accounting change                                    .85              -                -                -    
+                                                 ---------        ---------        ---------        ---------
+Net income (loss) per common
+  share                                           $   1.10         $    .29         $   (.73)         $   .37 
+                                                 =========        =========         ========        =========
+</TABLE>
+
+
+
+
+
+                                       48
+
+<PAGE>   50
+<TABLE>
+<CAPTION>
+                                                                            Quarter Ended              
+                                                   ----------------------------------------------------------
+                                                   October          January          April 3,         July 3,
+                                                   17, 1992         9, 1993             1993            1993
+                                                  (16 Weeks)      (12 Weeks)       (12 Weeks)        (13 Weeks)                
+                                                   ---------        ---------        ---------        ---------
+<S>                                               <C>              <C>              <C>              <C>
+Net sales                                         $330,780         $263,626         $245,980         $267,792
+Gross profit                                        65,042           50,978           47,423           53,069
+Income (loss) before taxes
+  and extraordinary item                             3,434           (1,707)           2,490            5,848
+Net income (loss)
+  before extraordinary item                          2,034           (1,007)           1,490            3,693
+Extraordinary item                                     -                -                -                253
+Net income (loss)                                    2,034           (1,007)           1,490            3,946
+
+Net income (loss) per common
+  share:
+  Before extraordinary item                            .25             (.13)             .18              .45
+  Extraordinary item                                   -                -                -                .03  
+                                                 ---------        ---------        ---------        ---------
+Net income (loss) per common
+  share                                           $    .25         $   (.13)        $    .18         $    .48 
+                                                 =========         ========         ========        =========
+</TABLE>
+
+
+
+
+<TABLE>
+<CAPTION>
+                                                                          Quarter Ended               
+                                                   -----------------------------------------------------------
+                                                   October          January          April 4,         June 27,
+                                                   19, 1991         11, 1992            1992             1992
+                                                  (16 Weeks)       (12 Weeks)       (12 Weeks)      (12 Weeks)             
+                                                   ---------        ---------        ---------        ---------
+<S>                                               <C>              <C>              <C>              <C>
+Net sales                                         $303,096         $230,641         $223,518         $222,022
+Gross profit                                        65,613           50,004           47,779           48,985
+Income before income taxes                           4,276            3,779            2,233            3,457
+Net income                                           2,476            2,179            1,333            2,135
+
+Net income per common share                            .30              .27              .16              .26
+</TABLE>
+
+
+
+
+
+                                       49
+
+<PAGE>   51
+<TABLE>
+
+(14)  Form 10-K Financial Schedules:
+      ------------------------------
+
+A.    Amounts Receivable from Related Parties, Underwriters, Promoters 
+      -----------------------------------------------------------------
+      and Employees other than Related Parties (Form 10-K, Schedule II)
+      -----------------------------------------------------------------
+
+
+
+<CAPTION>
+                                              Balance                                                               Balance
+                                              July 3,                                                               July 2,
+Name of debtor                                 1993                 Additions           Deductions                    1994       
+- - - --------------                               ----------             ----------           ----------                ----------
+<S>                                          <C>                    <C>                  <C>                      <C>
+Rego Realty Company                          $  985,000             $    8,000            $ 209,000               $   784,000
+Association of
+  Stop-N-Shop
+  Supermarkets                                  650,000                 10,000              660,000                      -    
+                                             ----------             ----------           ----------                ----------
+                                             $1,635,000             $   18,000           $  869,000                $  784,000 
+                                             ==========             ==========           ==========                ==========
+</TABLE>
+
+<TABLE>    
+<CAPTION>                                    
+                                             Balance                                                                Balance 
+                                             June 27,                                                                July 3,
+Name of debtor                                1992                 Additions            Deductions                    1993
+- - - --------------                               ----------             ----------           ----------                ----------
+<S>                                          <C>                    <C>                  <C>                       <C>
+Rego Realty Company                          $1,124,000             $   15,000           $ 154,000                 $  985,000
+Association of
+  Stop-N-Shop
+  Supermarkets                                1,107,000                 57,300             514,300                    650,000
+                                             ----------             ----------           ----------                ----------
+                                             $2,231,000             $   72,300           $ 668,300                 $1,635,000
+                                             ==========             ==========           =========                 ==========
+</TABLE>
+<TABLE>
+<CAPTION>
+                                                                                                                    
+                                                Balance                                                             Balance
+                                                June 29,                                                            June 27,
+Name of debtor                                    1991              Additions            Deductions                   1992
+- - - --------------                               ----------             ----------           ----------                ----------
+<S>                                          <C>                    <C>                  <C>                       <C>
+Rini Realty Company                          $  318,000             $   14,000           $  332,000                 $    -
+Rego Realty Company                           1,203,000                 89,000              168,000                 1,124,000
+Association of
+  Stop-N-Shop
+  Supermarkets                                    -                  1,355,000              248,000                 1,107,000 
+                                             ----------             ----------           ----------                ----------
+                                             $1,521,000             $1,458,000           $  748,000                $2,231,000 
+                                             ==========             ==========           ==========                ==========
+<FN>
+
+                                 In all years, these amounts have been classified in other assets.
+</TABLE>
+
+
+
+
+
+                                      50
+
+<PAGE>   52
+
+B.   Property, Plant and Equipment (Form 10-K, Schedules V and VI)
+     -------------------------------------------------------------
+     (dollars in thousands) 
+     ----------------------
+
+        Capitalized leases and construction in progress have been grouped with
+the appropriate asset classifications.
+
+<TABLE>
+<CAPTION>
+                                    Balance                                                          Balance
+                                    July 3,      Additions         Retire-            Other          July 2,
+Classification                       1993         at Cost           ments            Changes          1994  
+- - - ---------------                   ---------      ---------        ---------         ---------       ---------
+<S>                                <C>            <C>              <C>               <C>             <C>
+Land                               $  4,128       $    127         $     -           $    -          $  4,255
+Buildings                            44,012          1,273            2,877               -            42,408           
+Equipment                            63,218         15,093            6,588               -            71,723
+Leasehold
+  improvements                       45,685         10,639              869               -            55,455 
+                                   --------       --------         --------          --------        --------
+                                   $157,043       $ 27,132         $ 10,334          $    -          $173,841 
+                                   ========       ========         ========          ========        ========
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                    Balance                                                          Balance
+                                    June 27,      Additions         Retire-          Other            July 3,
+Classification                       1992         at Cost           ments           Changes            1993 
+- - - ---------------                   ---------      ---------        ---------        ---------        ---------
+<S>                                <C>            <C>              <C>               <C>             <C>
+Land                               $  4,089       $    418         $    379          $    -          $  4,128
+Buildings                            45,118             55            1,161               -            44,012
+Equipment                            54,885         10,188            1,855               -            63,218
+Leasehold
+ improvements                        30,688         15,146              149               -            45,685           
+                                   --------       --------         --------          --------        --------
+                                   $134,780       $ 25,807         $  3,544          $    -          $157,043 
+                                   ========       ========         ========          ========        ========
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                    Balance                                                          Balance
+                                   June 29,      Additions         Retire-           Other           June 27,
+Classification                       1991         at Cost           ments           Changes            1992 
+- - - ---------------                   ---------      ---------        ---------        ---------        ---------
+<S>                                <C>            <C>              <C>               <C>             <C>
+Land                               $  3,654       $    926         $    491          $    -          $  4,089
+Buildings                            44,120          3,611            2,613               -            45,118
+Equipment                            50,915         14,030           10,060               -            54,885
+Leasehold
+ improvements                        27,130          7,282            3,724               -            30,688           
+                                   --------       --------         --------          --------        --------
+                                   $125,819       $ 25,849         $ 16,888          $    -          $134,780 
+                                   ========       ========         ========          ========        ========
+</TABLE>
+
+
+
+                                       51
+
+<PAGE>   53
+    Accumulated depreciation and amortization of property, plant and equipment
+were as follows:
+
+<TABLE>
+<CAPTION>
+                                                  Additions
+                                                  Charged
+                                    Balance       to Costs                                          Balance
+                                    July 3,          and            Retire-           Other         July 2,
+Classification                       1993         Expenses           ments           Changes          1994  
+- - - ---------------                   ---------      ---------         ---------        ---------       ---------
+<S>                                <C>             <C>              <C>               <C>            <C>
+Buildings                          $ 16,523        $  1,865         $  3,852          $    -         $ 14,536
+Equipment                            26,432           7,896            4,051               -           30,277
+Leasehold
+  improvements                       10,747           5,126              546               -           15,327           
+                                   --------        --------         --------          -------        --------
+                                   $ 53,702        $ 14,887         $  8,449          $    -         $ 60,140   
+                                   ========        ========         ========          =======        ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                  Additions
+                                                  Charged
+                                    Balance       to Costs                                          Balance
+                                    June 27,         and            Retire-           Other         July 3,
+Classification                       1992         Expenses           ments           Changes          1993  
+- - - ---------------                   ---------      ---------         ---------        ---------       ---------
+<S>                                <C>             <C>              <C>               <C>            <C>
+Buildings                          $ 14,523        $  2,577         $    577          $    -         $ 16,523
+Equipment                            20,902           7,122            1,592               -           26,432
+Leasehold
+  improvements                        7,460           3,287                -               -           10,747           
+                                   --------        --------         --------          -------        --------
+                                   $ 42,885        $ 12,986         $  2,169          $    -         $ 53,702 
+                                   ========        ========         ========          =======        ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                  Additions
+                                                  Charged
+                                    Balance       to Costs                                          Balance
+                                    June 29,         and            Retire-            Other        June 27,
+Classification                       1991         Expenses           ments            Changes         1992  
+- - - ---------------                   ---------      ---------         ---------         ---------      ---------
+<S>                                <C>             <C>              <C>               <C>            <C> 
+Buildings                          $ 12,950        $  2,669         $  1,096          $    -         $ 14,523
+Equipment                            24,078           6,427            9,603               -           20,902
+Leasehold
+  improvements                        7,959           1,814            2,313               -            7,460           
+                                   --------        --------         --------          -------        --------
+                                   $ 44,987        $ 10,910         $ 13,012          $    -         $ 42,885 
+                                   ========        ========         ========          =======        ========
+                                                                                                               
+</TABLE>
+
+
+        Allowance for depreciation, amortization and loss on disposal of fixed
+assets included a reserve for loss on disposal of fixed assets of $5,168,000 at
+July 2, 1994 and $2,263,000 at July 3, 1993.
+
+
+
+
+
+                                       52
+
+<PAGE>   54
+
+
+
+
+         C.         Valuation and Qualifying Accounts (Form 10-K, Schedule VIII)
+                   -------------------------------------------------------------
+                    (dollars in thousands)
+
+
+
+<TABLE>
+<CAPTION>
+                                        Balance         Additions         Recov-
+                                          at             Charged          eries                              Balance
+                                       Beginning        to Costs          Charged                            at End
+                                          of              and            to Other                              of
+       Description                      Period          Expenses         Accounts         Deductions         Period   
+- - - --------------------------             --------         --------         --------         ----------        ---------
+<S>                                    <C>              <C>              <C>              <C>                <C>
+Year Ended July 2, 1994
+ Reserves deducted from
+  asset accounts -
+  Allowance for doubtful
+   accounts                            $ 3,985          $ 1,898          $   -            $   2,588          $ 3,295
+
+Year Ended July 3, 1993
+ Reserves deducted from
+  asset accounts -
+  Allowance for doubtful               $ 3,339          $ 1,269          $   -            $     623          $ 3,985
+   accounts
+
+Year Ended June 27, 1992
+ Reserves deducted from
+ asset accounts -
+  Allowance for doubtful
+   accounts                            $ 2,432          $ 1,316          $   -            $     409          $ 3,339
+</TABLE>
+
+
+
+
+
+                                       53
+
+<PAGE>   55
+
+                                EXHIBIT INDEX
+
+
+10.53  Amendment No. 1  to Amended and Restated Guaranty Agreement by
+       Riser dated May 16, 1994
+
+10.54  Amendment No. 1 to Amended and Restated credit Agreement by and
+       among Rini-Rego, Society and the Banks dated May 16, 1994
+
+21     Subsidiaries of the Registrant
+
+27     Financial Data Schedule (Submitted to SEC for informational purposes
+       only)
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.53
+<SEQUENCE>2
+<DESCRIPTION>RINI-REGO SUPERMARKETS, INC. 10-K EX-10.53
+<TEXT>
+
+<PAGE>   1
+                                EXHIBIT 10.53
+
+
+
+<PAGE>   2
+
+
+
+                                AMENDMENT NO. 1
+                                       TO
+                              AMENDED AND RESTATED
+                               GUARANTY AGREEMENT
+
+
+   This Amendment No. 1 to Amended and Restated Guaranty Agreement (this
+"Amendment"), made as of the 16th day of May, 1994, among RISER FOODS, INC., a
+Delaware corporation (herein the "Guarantor"), the Banks (as hereinafter
+defined), and SOCIETY NATIONAL BANK, as agent for the Banks (herein the
+"Agent"),
+
+                                  WITNESSETH:
+                                  -----------
+   WHEREAS, the Guarantor has executed and delivered to the financial
+institutions which are a party to the Credit Agreements (as defined below) (the
+"Banks"), that certain Amended and Restated Guaranty Agreement, dated as of May
+27, 1993 (the "Guaranty Agreement"), pursuant to which the Guarantor
+unconditionally guaranteed the payment of all of the Obligations (as defined in
+the Guaranty Agreement); and
+
+   WHEREAS, Rini-Rego Supermarkets, Inc. (formerly known as Fisher Foods,
+Inc.), an Ohio corporation ("Rini-Rego"), the Banks and the Agent have entered
+into that certain Amended and Restated Credit Agreement, dated as of May 27,
+1993, as amended by that certain Amendment No. 1 to Amended and Restated Credit
+Agreement (the "Amendment No. 1"), dated as of the date hereof (the "Rini-Rego
+Agreement"), pursuant to which the Banks have made certain financial
+accommodations available to Rini-Rego; and
+
+   WHEREAS, American Seaway Foods, Inc., an Ohio corporation ("American"), the
+Banks and the Agent have entered into that certain Amended and Restated Credit
+Agreement, dated as of May 27, 1993 (the "American Agreement" and, together
+with the Rini-Rego Agreement, the "Credit Agreements");
+
+   WHEREAS, the Banks which are signatories hereto constitute Majority Banks
+for the purpose of amending the Guaranty Agreement pursuant to Section 8.22 of
+the American Agreement and Section 8.21 of the Rini-Rego Agreement;
+
+   WHEREAS, the Guarantor, the Banks and the Agent desire further to amend the
+Guaranty Agreement as set forth herein;
+
+
+
+
+
+<PAGE>   3
+   NOW, THEREFORE, in consideration of the mutual promises and agreements
+contained herein and other good and valuable consideration, the receipt and
+adequacy of which are hereby acknowledged, the Guarantor, the Banks and the
+Agent do hereby agree as follows:
+
+                           SECTION 1.  DEFINED TERMS.
+                           --------------------------
+   Each defined term used herein and not otherwise defined herein shall have
+the meaning  ascribed to such term in the Guaranty Agreement.
+
+              SECTION 2.  AMENDMENTS TO THE GUARANTY AGREEMENT.
+              -------------------------------------------------
+   The Guarantor, the Banks and the Agent hereby agree that Section 14 of the
+Guaranty Agreement shall be amended, effective as of the date hereof and
+subject to the terms and conditions hereof, as follows:
+
+          AMENDMENT TO SECTION 14.  Section 14 shall be amended to delete the
+definitions of "Consolidated Net Income" and "MetLife Agreement" each in its
+entirety to substitute in lieu thereof the following:
+
+   "CONSOLIDATED NET INCOME" means, for any period, the aggregate net income of
+   the Guarantor and its Subsidiaries for such period (after taxes and after
+   extraordinary items, but without giving effect to any gain from any
+   re-appraisal or write-up of any asset after December 31, 1992), as
+   determined on a consolidated basis in accordance with generally accepted
+   accounting principles; PROVIDED, HOWEVER, that, solely with respect to the
+   Fiscal Quarter of the Guarantor ending October 23, 1993, the "Consolidated
+   Net Income" of the Guarantor shall be calculated giving effect to the
+   Guarantor's adoption of Statement of Financial Accounting Standard No. 109.
+
+   "METLIFE AGREEMENT" means each loan and security agreement, each in form and
+   substance reasonably satisfactory to the Agent and the Majority Banks,
+   entered into between Rini-Rego and MetLife Capital Corporation evidencing
+   indebtedness in the aggregate principal amount not to exceed Six Million
+   Dollars ($6,000,000), pursuant to which Rini-Rego will finance the purchase
+   of Capital Expenditures.
+
+                 SECTION 3.  REPRESENTATIONS AND WARRANTIES.
+                 -------------------------------------------
+   The Guarantor hereby represents and warrants to the Banks and the Agent as
+follows:
+
+
+
+
+
+                                      -2-
+<PAGE>   4
+   3.1  THE AMENDMENT.  This Amendment has been duly and validly executed by an
+authorized executive officer of the Guarantor and constitutes the legal, valid
+and binding obligation of the Guarantor enforceable against the Guarantor in
+accordance with its terms.
+
+   3.2  GUARANTY AGREEMENT.  The Guaranty Agreement, as amended by this
+Amendment, remains in full force and effect and remains the valid and binding
+obligation of the Guarantor enforceable against the Guarantor in accordance
+with its terms.  The Guarantor hereby ratifies and confirms the Guaranty
+Agreement, as amended by this Amendment.
+
+   3.3   NONWAIVER.  The execution, delivery, performance and effectiveness of
+this Amendment shall not operate nor be deemed to be nor construed as a waiver
+(i) of any right, power or remedy of the Banks or the Agent under the Guaranty
+Agreement, nor (ii) of any term, provision, representation, warranty or
+covenant contained in the Guaranty Agreement or any other documentation
+executed in connection therewith.  Further, none of the provisions of this
+Amendment shall constitute, be deemed to be or construed as, a waiver of any
+Default or Event of Default under the Guaranty Agreement as amended by this
+Amendment.
+
+   3.4  REFERENCE TO AND EFFECT ON THE GUARANTY AGREEMENT.  Upon the
+effectiveness of this Amendment, each reference in the Guaranty Agreement to
+"this Agreement", "hereunder", "hereof", "herein", or words of like import
+shall mean and be a reference to the Guaranty Agreement, as amended hereby and
+each reference to the Guaranty Agreement in any other document, instrument or
+agreement executed and/or delivered in connection with the Guaranty Agreement
+shall mean and be a reference to the Guaranty Agreement, as amended by this
+Amendment.
+
+              SECTION 4.  CONDITIONS PRECEDENT TO EFFECTIVENESS
+              -------------------------------------------------
+                           OF THIS AMENDMENT NO. 1.
+                           ------------------------
+   In addition to all of the other conditions and agreements set forth herein,
+the effectiveness of this Amendment is subject to the following conditions
+precedent:
+
+   4.1  THE AMENDMENT.  The Banks and the Agent shall have received this
+Amendment No. 1 to Amended and Restated Guaranty Agreement, executed and
+delivered by a duly authorized officer of the Guarantor.
+
+   4.2 AMENDMENT NO. 1 TO RINI-REGO AGREEMENT.  The Banks and the Agent shall
+have received an Amendment No. 1 to Amended and Restated Credit Agreement from
+Rini-Rego, executed and delivered by a duly authorized officer of Rini-Rego,
+and all of the respective conditions precedent to such Amendment shall have
+been satisfied.
+
+
+
+
+
+                                      -3-
+<PAGE>   5
+   4.3  ACKNOWLEDGEMENT OF BORROWERS.  The Banks and the Agent shall have
+received the Acknowledgement of Borrowers attached to this Amendment, executed
+and delivered by a duly authorized officer of each of Rini-Rego and American
+Seaway Foods, Inc.
+
+   4.4 GUARANTOR'S CERTIFICATE.  The Banks and the Agent shall have received a
+certificate, in form and substance satisfactory to the Agent, executed for and
+on behalf of the Guarantor by the Chief Executive Officer and the Secretary of
+the Guarantor and dated as of the date of this Amendment, certifying (i) the
+Director's Resolutions of the Guarantor, authorizing this Amendment, and each
+document or other instrument executed in connection with the Amendment, (ii)
+the names and signatures of the officers of the Guarantor, and (iii) compliance
+by the Guarantor with all representations, warranties, covenants and conditions
+under the Guaranty, as amended by this Amendment.
+
+   4.5  OTHER DOCUMENTS.  The Banks and the Agent shall have received each
+additional document, instrument or piece of information reasonably requested by
+the Agent, including, without limitation, any financing statements as may be
+necessary to continue the perfection of the security interests created by the
+Security Agreements.
+
+                          SECTION 5.  MISCELLANEOUS.
+                          --------------------------
+   5.1  GOVERNING LAW.  This Amendment shall be governed by and construed in
+accordance with the laws of the State of Ohio.
+
+   5.2  SEVERABILITY.  In the event any provision of this Amendment should be
+invalid, the validity of the other provisions hereof and of the Guaranty
+Agreement shall not be affected thereby.
+
+   5.3  COUNTERPARTS.  This Amendment may be executed in one or more
+counterparts, each of which, when taken together, shall constitute but one and
+the same agreement.
+
+
+
+
+
+                                      -4-
+<PAGE>   6
+   IN WITNESS WHEREOF, the Guarantor has caused this Amendment No. 1 to Amended
+and Restated Guaranty Agreement to be duly executed and delivered by its duly
+authorized officer as of the date first above written.
+
+                                 RISER FOODS, INC.
+
+                                /s/ Ronald W. Ocasek
+                                -----------------------------------
+                                By: Ronald W. Ocasek
+                                   --------------------------------
+                                Title: Senior V.P., CFO & Treasurer
+                                      -----------------------------
+
+
+
+
+ACCEPTED AND AGREED as of this
+ 16 day of May, 1994:
+- - - ---
+
+SOCIETY NATIONAL BANK, as a Bank and as Agent
+/s/ Todd B. Boney
+- - - -------------------------------
+By: Todd B. Boney
+   ----------------------------
+Title: Vice President
+      -------------------------
+
+NATIONAL CITY BANK, as a Bank
+/s/ Terry Wolford
+- - - -------------------------------
+By: Terry Wolford
+   ----------------------------
+Title: Vice President
+      -------------------------
+
+NBD BANK, N.A., as a Bank
+_______________________________
+By:____________________________
+Its:___________________________
+
+
+
+
+
+                                      -5-
+<PAGE>   7
+PNC BANK, NATIONAL ASSOCIATION
+
+_______________________________
+By:____________________________
+Title:_________________________
+
+
+STAR BANK, N.A.
+
+
+_______________________________
+By:____________________________
+Its:___________________________
+
+
+
+
+
+
+
+
+
+                                      -6-
+<PAGE>   8
+                          ACKNOWLEDGEMENT OF BORROWERS
+                          ----------------------------
+
+   Each of the undersigned, RINI-REGO SUPERMARKETS, INC. (formerly known as
+Fisher Foods, Inc.), and AMERICAN SEAWAY FOODS, INC. (formerly known as
+Heritage Wholesalers, Inc.), each of which being a borrower of certain sums
+from the Banks under the Agreements (as defined in the Guaranty Agreement),
+hereby acknowledges and agrees to the terms of the foregoing Amendment No. 1 to
+Amended and Restated Guaranty Agreement.  Each of the undersigned represents
+and warrants to the Banks and the Agent that the respective Agreements (as
+amended), executed and delivered by each of the undersigned, each dated as of
+May 27, 1993, remain the valid and binding obligations of each of the
+undersigned, respectively, enforceable against it in accordance with their
+terms.
+
+
+
+                               RINI-REGO SUPERMARKETS, INC. (formerly known 
+                               as Fisher Foods, Inc.)
+
+                               By: /s/ Ronald W. Ocasek
+                                  ------------------------------
+                               Title: CFO & Treasurer
+                                     ---------------------------
+
+                               AMERICAN SEAWAY FOODS, INC. (formerly
+                               known as Heritage Wholesalers, Inc.)
+
+                               By: /s/ Ronald W. Ocasek
+                                  ------------------------------
+                               Title: CFO & Treasurer
+                                     ---------------------------
+
+
+
+Executed:  May 16, 1994
+               --
+
+
+
+
+
+
+                                      -7-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.54
+<SEQUENCE>3
+<DESCRIPTION>RINI-REGO SUPERMARKETS, INC. 10-K EX-10.54
+<TEXT>
+
+<PAGE>   1
+                                EXHIBIT 10.54
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>   2
+
+
+
+
+                                AMENDMENT NO. 1
+                                       TO
+                              AMENDED AND RESTATED 
+                                CREDIT AGREEMENT
+
+
+   This Amendment No. 1 to Amended and Restated Credit Agreement (this
+"Amendment"), made as of the 16th day of May, 1994, between RINI-REGO
+SUPERMARKETS, INC. (formerly known as Fisher Foods, Inc.), an Ohio corporation
+(herein the "Borrower"), the Banks (as hereinafter defined) and SOCIETY
+NATIONAL BANK, as agent for the Banks (in such capacity, the "Agent"),
+
+                                  WITNESSETH:
+                                  -----------
+
+   WHEREAS, the Borrower has been extended certain financial accommodations
+pursuant to that certain Amended and Restated Credit Agreement, dated as of May
+27, 1993 (the "Credit Agreement"), among the Borrower, the financial
+institutions which are a party thereto (the "Banks") and the Agent; and
+
+   WHEREAS, the Borrower, the Banks and the Agent desire to amend the Credit
+Agreement as set forth herein to permit the Borrower to increase the amount of
+the Borrower's permitted indebtedness to MetLife Capital Corporation;
+
+   WHEREAS, the Banks which are the signatories hereto constitute Majority
+Banks for the purposes of amending the Credit Agreement pursuant to Section
+8.21 thereof;
+
+   NOW, THEREFORE, in consideration of the mutual promises and agreements
+contained herein and other good and valuable consideration, the receipt and
+adequacy of which are hereby acknowledged, the Borrower, the Banks and the
+Agent do hereby agree as follows:
+
+
+                          SECTION 1.  DEFINED TERMS.
+                          --------------------------
+
+   Each defined term used herein and not otherwise defined herein shall have
+the meaning ascribed to such term in the Credit Agreement.
+
+
+               SECTION 2.  AMENDMENTS TO THE CREDIT AGREEMENT.
+               -----------------------------------------------
+
+<PAGE>   3
+        The Borrower, the Banks and the Agent hereby agree that the Credit
+Agreement shall be amended, effective as of the date hereof and subject to the
+terms and conditions hereof, as follows: 
+
+        2.1  AMENDMENT TO SECTION 1.01.  The following definition found in
+Section 1.01 shall be amended in its entirety to read as follows:
+
+        "METLIFE INDEBTEDNESS" means the indebtedness incurred by the Borrower
+    and guaranteed by Riser, in the principal amount not to exceed Six
+    Million Dollars ($6,000,000), pursuant to certain loan and security
+    agreements to be executed by the Borrower and Riser in favor of MetLife
+    Capital Corporation from time to time which loan and security agreements
+    shall be in form and substance reasonably satisfactory to the Agent and the
+    Majority Banks.
+
+        2.2  AMENDMENT TO SECTION 5.02(b)(iii).  Section 5.02(b) shall be
+amended to delete clause (iii) in its entirety and to substitute the following
+in lieu thereof:
+
+        "(iii) the MetLife Indebtedness, so long as the aggregate
+        principal amount of such Indebtedness shall not at any time exceed Six
+        Million Dollars ($6,000,000),"
+
+
+        SECTION 3.  REPRESENTATIONS AND WARRANTIES.
+        -------------------------------------------
+
+   The Borrower hereby represents and warrants to the Banks and the Agent as
+follows:
+
+        3.1  THE AMENDMENT.  This Amendment has been duly and validly executed
+by an authorized executive officer of the Borrower and constitutes the legal,
+valid and binding obligation of the Borrower enforceable against the Borrower
+in accordance with its terms.
+
+        3.2  CREDIT AGREEMENT.  The Credit Agreement, as amended by this
+Amendment, remains in full force and effect and remains the valid and binding
+obligation of the Borrower enforceable against the Borrower in accordance with
+its terms. The Borrower hereby ratifies and confirms the Credit Agreement, as
+amended by this Amendment.
+
+        3.3   NONWAIVER.  The execution, delivery, performance and
+effectiveness of this Amendment shall not operate nor be deemed to be nor
+construed as a waiver (i) of any right, power or remedy of the Banks or the
+Agent under the Credit Agreement, nor (ii) of any term, provision,
+representation, warranty or covenant contained in the Credit Agreement or any
+other documentation executed in connection therewith.  Further, none of the
+provisions of this Amendment shall constitute, be deemed to be or construed as,
+
+
+
+
+
+                                      -2-
+<PAGE>   4
+a waiver of any Default or Event of Default under the Credit Agreement as
+amended by this Amendment.
+
+        3.4  REFERENCE TO AND EFFECT ON THE CREDIT AGREEMENT.  Upon the
+effectiveness of this Amendment, each reference in the Credit Agreement to
+"this Agreement", "hereunder", "hereof", "herein", or words of like import
+shall mean and be a reference to the Credit Agreement, as amended hereby and
+each reference to the Credit Agreement in any other document, instrument or
+agreement executed and/or delivered in connection with the Credit Agreement
+shall mean and be a reference to the Credit Agreement, as amended hereby.
+
+
+              SECTION 4.  CONDITIONS PRECEDENT TO EFFECTIVENESS
+              -------------------------------------------------
+                           OF THIS AMENDMENT NO. 1.
+                           ------------------------
+
+        In addition to all of the other conditions and agreements set forth
+herein, the effectiveness of this Amendment is subject to the following
+conditions precedent:
+
+        4.1  THE AMENDMENT.  The Banks and the Agent shall have received this
+Amendment No. 1 to Amended and Restated Credit Agreement, executed and
+delivered by a duly authorized officer of the Borrower.
+
+        4.2  AMENDMENT NO. 1 TO RISER GUARANTY.  The Banks and the Agent shall
+have received Amendment No. 1 to Amended and Restated Guaranty Agreement,
+executed and delivered by a duly authorized officer of Riser Foods, Inc., and
+all of the conditions precedent to such Amendment shall have been satisfied.
+
+        4.3  ACKNOWLEDGEMENT OF GUARANTORS.  The Banks and the Agent shall have
+received the Acknowledgement of Guarantors attached to this Amendment, executed
+and delivered by a duly authorized officer of each of the Guarantors of the
+indebtedness of the Borrower to the Banks and the Agent.
+
+        4.4 BORROWER'S CERTIFICATE.  The Banks and the Agent shall have
+received a certificate, in form and substance satisfactory to the Agent,
+executed for and on behalf of the Borrower by the Chief Executive Officer and
+the Secretary of the Borrower and dated as of the date of this Amendment,
+certifying (i) the Director's Resolutions of the Borrower, authorizing this
+Amendment, and each document or other instrument executed in connection with
+the Amendment, (ii) the names and signatures of the officers of the Borrower,
+and (iii) compliance by the Borrower with all representations, warranties,
+covenants and conditions under the Credit Agreement, as amended by this
+Amendment.
+
+        4.5  OTHER DOCUMENTS.  The Banks and the Agent shall have received each
+additional document, instrument or piece of information reasonably requested by
+the Agent, including, without limitation, any financing statements as may be
+necessary to continue the perfection of the security interests created by the
+Security Agreements.
+
+
+
+
+
+                                      -3-
+<PAGE>   5
+                          SECTION 5.  MISCELLANEOUS.
+                          --------------------------
+
+        5.1  GOVERNING LAW.  This Amendment shall be governed by and construed
+in accordance with the laws of the State of Ohio.
+
+        5.2  SEVERABILITY.  In the event any provision of this Amendment should
+be invalid, the validity of the other provisions hereof and of the Credit
+Agreement shall not be affected thereby.
+
+        5.3  COUNTERPARTS.  This Amendment may be executed in one or more
+counterparts, each of which, when taken together, shall constitute but one and
+the same agreement.
+
+        IN WITNESS WHEREOF, the Borrower has caused this Amendment No. 1 to
+Amended and Restated Credit Agreement to be duly executed and delivered by its
+duly authorized officer as of the date first above written.
+
+                        RINI-REGO SUPERMARKETS, INC. (formerly known 
+                        as Fisher Foods, Inc.)
+
+                        /s/ Ronald W. Ocasek
+                        -----------------------------------
+
+                        By: Ronald W. Ocasek
+                           --------------------------------
+                        Title: CFO & Treasurer
+                              -----------------------------
+
+ACCEPTED AND AGREED as of this
+ 16  day of May, 1994:
+- - - ----
+SOCIETY NATIONAL BANK, as a Bank and as Agent
+
+/s/ Todd B. Boney
+- - - -------------------------------
+
+By: Todd B. Boney
+   ----------------------------
+Title: Vice President
+      -------------------------
+
+NATIONAL CITY BANK, as a Bank
+
+/s/ Terry Wolford
+- - - -------------------------------
+
+By: Terry Wolford
+   ----------------------------
+Title: Vice President
+      -------------------------
+
+
+
+
+                                      -4-
+<PAGE>   6
+NBD BANK, N.A., as a Bank
+
+_______________________________
+By:____________________________
+Its:___________________________
+
+
+
+PNC BANK, NATIONAL ASSOCIATION
+
+_______________________________
+By:____________________________
+Title:_________________________
+
+
+STAR BANK, N.A.
+
+
+_______________________________
+By:____________________________
+Its:___________________________
+
+
+
+
+
+
+
+
+                                      -5-
+<PAGE>   7
+                        ACKNOWLEDGEMENT OF GUARANTORS
+                        -----------------------------
+
+   Each of the undersigned, RISER FOODS, INC., SEAWAY FOOD SERVICE, INC.
+(formerly known as American Seaway Foods, Inc.), FISHER PROPERTIES, INC., and
+AMERICAN SEAWAY FOODS, INC. (formerly known as Heritage Wholesalers, Inc.),
+each of which being a guarantor of indebtedness of the Borrower to the Banks
+and the Agent, hereby acknowledges and agrees to the terms of the foregoing
+Amendment No. 1 to Amended and Restated Credit Agreement.  Each of the
+undersigned represents and warrants to the Banks and the Agent that the
+respective Amended and Restated Guaranty Agreements (as amended), executed and
+delivered by each of the undersigned, each dated as of May 27, 1993, remain the
+valid and binding obligations of each of the undersigned, respectively,
+enforceable against it in accordance with their terms.
+
+                                 RISER FOODS, INC.
+
+                                 /s/ Ronald W. Ocasek
+                                 --------------------------------
+                                 By: Ronald W. Ocasek
+                                    -----------------------------
+                                 Title: Sr. V.P., CFO & Treasurer
+                                       --------------------------
+
+                                 SEAWAY FOOD SERVICE, INC. 
+                                 (formerly known as American Seaway Foods, Inc.)
+
+                                 /s/ Ronald W. Ocasek
+                                 ---------------------------------
+                                 By: Ronald W. Ocasek
+                                    ------------------------------
+                                 Title: CFO & Treasurer
+                                       ---------------------------
+
+                                 AMERICAN SEAWAY FOODS, INC. 
+                                 (formerly known as Heritage Wholesalers, Inc.)
+
+                                 /s/ Ronald W. Ocasek
+                                 ---------------------------------
+                                 By: Ronald W. Ocasek
+                                    ------------------------------
+                                 Title: CFO & Treasurer
+                                       ---------------------------
+
+
+
+
+                                      -6-
+<PAGE>   8
+                                         FISHER PROPERTIES, INC.
+
+                                         /s/ Ronald W. Ocasek
+                                         ----------------------------------
+                                         By: Ronald W. Ocasek
+                                            -------------------------------
+                                         Title: CFO & Treasurer
+                                               ----------------------------
+
+
+
+Executed:  May __, 1994
+
+
+
+
+
+
+                                      -7-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<DESCRIPTION>RINI-REGO SUPERMARKETS, INC. 10-K EX-21
+<TEXT>
+
+<PAGE>   1
+
+                                  EXHIBIT 21
+<PAGE>   2
+                 SUBSIDIARIES OF RINI-REGO SUPERMARKETS, INC.
+                (fka Fisher Foods, Inc.), an Ohio corporation
+                 --------------------------------------------
+
+
+American Seaway Foods, Inc. (fka Heritage Wholesalers, Inc.), an Ohio
+corporation.
+
+
+Seaway Food Service, Inc. (fka American Seaway Foods, Inc.), an Ohio
+corporation.
+
+
+Fisher Properties, Inc. (fka Fisher Auto Leasing, Inc.), an Ohio corporation.
+
+
+5300 Richmond Road Corp., a Delaware corporation.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>RINI-REGO SUPERMARKETS, INC. 10-K EX-27
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+RINI-REGO SUPERMARKETS, INC. CONSOLIDATED BALANCE SHEET, CONSOLIDATED 
+STATEMENT OF INCOME AND THE NOTES TO CONSOLIDATED FINANCIAL STATEMENTS FOR THE 
+FISCAL YEAR ENDED JULY 2, 1994 AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO 
+SUCH FORM 10-K FOR THE FISCAL YEAR ENDED JULY 2, 1994.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUL-02-1994
+<PERIOD-END>                               JUL-02-1994
+<CASH>                                           4,376
+<SECURITIES>                                         0
+<RECEIVABLES>                                   41,755
+<ALLOWANCES>                                     3,295
+<INVENTORY>                                     74,279
+<CURRENT-ASSETS>                               128,552
+<PP&E>                                         173,841
+<DEPRECIATION>                                  65,308
+<TOTAL-ASSETS>                                 257,517
+<CURRENT-LIABILITIES>                           85,560
+<BONDS>                                         94,209
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                      1,804
+<COMMON>                                            81
+<OTHER-SE>                                      62,796
+<TOTAL-LIABILITY-AND-EQUITY>                   257,517
+<SALES>                                      1,121,604
+<TOTAL-REVENUES>                             1,121,604
+<CGS>                                          905,456
+<TOTAL-COSTS>                                  905,456
+<OTHER-EXPENSES>                               203,940
+<LOSS-PROVISION>                                 1,898
+<INTEREST-EXPENSE>                               7,802
+<INCOME-PRETAX>                                  2,508
+<INCOME-TAX>                                       928
+<INCOME-CONTINUING>                              1,580
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                        6,866
+<NET-INCOME>                                     8,446
+<EPS-PRIMARY>                                     1.03
+<EPS-DILUTED>                                     1.03
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

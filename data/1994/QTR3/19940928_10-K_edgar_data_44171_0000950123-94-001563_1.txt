@@ -1,0 +1,3852 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ qk8AGRGVj9K1isRmVP2DpW7Bl+OVrO47QHDrFXsWOJzj5y4zyfO8pLe8FnkcSziq
+ 6cfDTcRRgpI8nh3WSUVa5w==
+
+<IMS-DOCUMENT>0000950123-94-001563.txt : 19950530
+<IMS-HEADER>0000950123-94-001563.hdr.sgml : 19950530
+ACCESSION NUMBER:		0000950123-94-001563
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940928
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GROW GROUP INC
+		CENTRAL INDEX KEY:			0000044171
+		STANDARD INDUSTRIAL CLASSIFICATION:	2851
+		IRS NUMBER:				111665588
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04596
+		FILM NUMBER:		94550553
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 PARK AVENUE 49TH FL
+		STREET 2:		PAN AM BLDG
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10166
+		BUSINESS PHONE:		2125994400
+
+	MAIL ADDRESS:	
+		STREET 1:		PAN AM BLDG 49TH FL
+		STREET 2:		200 PARK AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10166
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GROW CHEMICAL CORP
+		DATE OF NAME CHANGE:	19790520
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GROW CORP
+		DATE OF NAME CHANGE:	19671212
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>GROW GROUP, INC. FORM 10-K
+<TEXT>
+
+<PAGE>   1
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON D.C. 20549
+                                   FORM 10-K
+
+ X  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+- - - - - - - --- EXCHANGE ACT OF 1934
+
+For the fiscal year ended June 30, 1994
+
+    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+- - - - - - - --- SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from                  to 
+                               ----------------    ---------------
+
+Commission File Number 1-4596
+
+                         GROW GROUP, INC.
+- - - - - - - ------------------------------------------------------------------
+         (Exact name of registrant as specified in its charter)
+
+           New York                                11-1665588         
+- - - - - - - -------------------------------            ------------------------
+(State or other jurisdiction of                  (IRS Employer
+ incorporation or organization)                Identification No.)
+
+      200 Park Avenue, New York, NY                      10166   
+- - - - - - - --------------------------------------------          ------------
+(Address of principal executive offices)               (Zip Code)
+
+Registrant's telephone number, including area code:  (212) 599-4400
+                                                     --------------
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                           Name of each exchange
+         Title of each class                on which registered 
+         -------------------               ---------------------
+
+Common Stock, $.10 par value,              New York Stock Exchange
+and related Common Stock
+Purchase Rights
+
+Securities registered pursuant to Section 12(g) of the Act:  None
+
+Indicate by check mark whether the registrant:  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                       Yes  X              No 
+                           ---                ---
+
+<PAGE>   2
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.  / X /
+
+         The aggregate market value of the Common Stock of the Company
+outstanding as of July 29, 1994 held by non-affiliates of the Company was
+approximately $181,400,000 calculated on the basis of the closing price of the
+Common Stock on the New York Stock Exchange Composite Transactions Tape on that
+date, as reported in The Wall Street Journal.  For purposes of this
+calculation, the Company has excluded the market value of the shares of its
+Common Stock beneficially owned by Corimon C.A. S.A.C.A. and the directors and
+executive officers of the Company as a group.  Such exclusion is not an
+admission that such persons are "affiliates" of the Company.  The aggregate
+market value of these excluded shares as of July 29, 1994 was approximately
+$74,300,000.
+
+         The number of shares of Common Stock of the Company outstanding as of
+July 29, 1994 was 16,105,838.
+
+             DOCUMENTS INCORPORATED BY REFERENCE
+
+         Portions of the following document are incorporated
+by reference into the parts of this report indicated below:
+
+         Proxy Statement for the Company's          Part III
+         1994 Annual Meeting of Shareholders
+
+
+
+
+
+                                       2
+<PAGE>   3
+Item 1           Business
+- - - - - - - ------           --------
+
+GENERAL
+
+                 The Company was organized under the laws of the State of New
+York in 1950.  The Company's principal executive offices are located at 200
+Park Avenue, New York, New York  10166, and its telephone number is (212)
+599-4400. The term "Company", as used herein, refers to Grow Group, Inc. and
+its subsidiaries and divisions, unless the context otherwise requires.
+
+                 The Company is one of the leading producers of coatings and
+paints and is also a producer of household products.  The Company believes that
+it is one of the ten largest manufacturers of architectural and special purpose
+paints and coatings and one of the two largest manufacturers of marine coatings
+in the United States.
+
+                 The Company operates through two groups:  the Coatings and
+Chemicals Group and the Consumer and Professional Products Group.  The Coatings
+and Chemicals Group produces and markets a complete line of architectural
+coatings, a broad line of special purpose coatings designed for industrial
+maintenance and maritime uses and a diverse line of specialty chemical products
+for the automotive industry.  The Consumer and Professional Products Group,
+whose restructuring began during the fiscal year ended June 30, 1992 and was
+completed during fiscal 1993, produces and markets a line of laundry,
+maintenance and cleaning products for household, professional and industrial
+use.
+
+DEVELOPMENTS DURING AND SUBSEQUENT TO THE FISCAL YEAR
+
+                 Business
+                 --------
+
+                 On August 3, 1993, the Company purchased all of the issued and
+outstanding capital stock of Zynolyte Products Company, a California
+corporation ("Zynolyte"), for approximately $16,300,000 in cash.  Zynolyte was
+affiliated with Standard Brands Paint Company which emerged from a Chapter 11
+proceeding on June 14, 1993.  Zynolyte is a leading producer of aerosol paint
+products and a distributor of brush-applied products.  Zynolyte's line of
+products is sold under recognized company-owned brand names and private labels
+domestically and internationally through mass merchandisers, hardware
+distributors and exporters.
+
+                 As of August 1, 1994, the Company, through a wholly-owned
+subsidiary, completed the acquisition of substantially all of the assets of
+Sinclair Paint Company ("Sinclair"), a division of Insilco Corporation, for
+
+
+
+
+
+                                       3
+<PAGE>   4
+approximately $51,000,000 in cash, subject to post-closing adjustments.  The
+purchase price was paid in full at the closing and was funded through a
+combination of cash and borrowings under an increased credit facility provided
+by the Company's banks.  In addition, the Company's subsidiary assumed certain
+obligations of Sinclair.  Sinclair is engaged in the manufacture and sale,
+through 49 company-operated stores in California, Nevada, Arizona and Hawaii,
+of architectural paints.  Sinclair generated over $95,000,000 in revenues in
+calendar 1993.
+
+                 Financial
+                 ---------
+
+                 On August 7, 1992, the Company sold 2,312,000 newly issued
+shares of the Company's Common Stock at a price of $16.75 per share, or an
+aggregate of $38,726,000, to Corimon Corporation, a subsidiary of Corimon C.A.
+S.A.C.A., an industrial company in Venezuela (collectively, "Corimon").  The
+shares represented approximately 16.6% of the Company's then outstanding Common
+Stock.  Under the agreements pursuant to which Corimon purchased the shares,
+three designees of Corimon have been elected to the Company's Board of
+Directors.  As of August 31, 1994, Corimon owned 4,025,341 shares, constituting
+approximately 25% of the Company's Common Stock.  Corimon has agreed to certain
+"standstill" provisions which will continue in effect until, in general,
+October 1995.  During the standstill period, Corimon will be permitted to
+increase its ownership position to a maximum of 28% of the Company's Common
+Stock.
+
+CERTAIN FINANCIAL INFORMATION
+
+                 Certain financial information concerning the Company's
+industry segments is contained in Note J of "Notes to Consolidated Financial
+Statements" in Item 8 of this Report.  For each of the Company's last three
+fiscal years, foreign operations and export sales have not been significant.
+
+COATINGS AND CHEMICALS GROUP
+
+                 Architectural Coatings
+                 ----------------------
+
+                 The Company produces and markets a full line of protective and
+decorative water and solvent thinnable trade or general purpose paints and
+coatings (enamels, varnishes and stains) for use by painting contractors,
+industrial and commercial users and the general public for the interior and
+exterior of homes, buildings and other structures.  Architectural coatings are
+formulated for brush, roller and spray application.  The Company also produces
+a specialty line of architectural coatings in aerosol dispensers.  In addition,
+the Company is engaged in the production and marketing of interior and exterior
+waterproofing coatings.  The Company also sells a variety of
+
+
+
+
+
+                                       4
+<PAGE>   5
+brushes, rollers, wallpaper and other decorating and painting equipment items
+purchased from others.
+
+                 The Company's architectural coatings primarily are marketed
+domestically through in excess of 1,000 independent retail dealers and 158
+Company-operated outlets (including the 49 company-operated stores of Sinclair
+Paint Company, substantially all of the assets of which were acquired by a
+wholly-owned subsidiary of the Company as of August 1, 1994).  See
+"Developments During and Subsequent to the Fiscal Year", above.  The Company's
+trade paint customers are primarily dealers and painting contractors, with
+additional sales to retail consumers and industrial, institutional, commercial
+maintenance and private label accounts.  The Company's architectural coatings
+are sold in most of the United States under such trademarks as AMERITONER,
+DEVOER, ZYNOLYTER, KLENK'SR and, since August 1, 1994, SINCLAIRR.
+
+                 Architectural coatings and sundries contributed 56%, 52% and
+42% of the Company's consolidated revenues during fiscal 1994, 1993 and 1992,
+respectively.
+
+                 Maintenance and Marine Coatings
+                 -------------------------------
+
+                 The Company produces and sells heavy duty, high performance
+coatings for industrial maintenance and marine applications, domestically and
+internationally.
+
+                 In industrial maintenance applications, these coatings are
+used for rust prevention, corrosion resistance and protective finishes on,
+among other things, industrial plants, mining equipment, water and sewage
+treatment facilities, pipelines, pulp and paper mills, bridges and storage
+tanks.  Industrial maintenance coatings are sold by the Company's salaried and
+commissioned sales representatives and through independent distributors.
+
+                 In marine markets, these coatings are used for ship exteriors
+and interiors, drilling rigs and other heavy marine purposes, including
+antifouling coatings for ship bottoms.  Marine coatings products are sold to
+shipowners, ship operators, shipyards and government agencies by the Company's
+salaried and commissioned sales representatives and through independent
+distributors.
+
+                 Maintenance and marine coatings contributed 18%, 19% and 20%
+of the Company's consolidated revenues during fiscal 1994, 1993 and 1992,
+respectively.
+
+
+
+
+
+                                       5
+<PAGE>   6
+                 Automotive Products
+                 -------------------
+
+                 The Company's automotive products include solvents, thinners,
+paint strippers, coatings, adhesives and sealants used primarily by automotive
+manufacturers, their suppliers of component parts, the automotive after-market
+and, to a lesser extent, non-automotive customers.  These products are marketed
+primarily by the Company's salaried sales representatives.
+
+                 The Company blends some virgin solvents and solvents from
+recycled materials for sale to automotive and other manufacturers for purging
+and cleaning specialized paint application equipment.  The Company also blends
+solvents and produces thinning agents for the automotive industry, primarily
+for use in applying coatings to automobile and truck bodies and parts.
+
+                 In order to comply with environmental regulations, the
+automotive industry has continued to move towards high solids coatings which
+require smaller volumes of thinners.  Such regulations have resulted in a
+decrease in the market for thinning agents. However, many coatings now in use
+require significant volumes of solvents for cleaning specialized paint
+application equipment.  Water-based topcoats that do not require thinners and
+also require less purge solvents are now being used at four automotive assembly
+plants which utilize the Company's products.
+
+                 The Company also produces a broad line of adhesives, sound
+deadeners, and plastisol sealants which were developed by the Company to meet
+specific needs of its automotive and industrial customers.  The adhesives are
+used by automotive manufacturers and their suppliers of component parts for
+bonding fiber flock as well as cloth and vinyl fabric to hardboard or plastic
+substrates to produce composites, such as automotive door panels, headliners
+and trim components.  The sound deadeners provide corrosion and abrasion
+resistance and vibration dampening to automotive underbody structures.  The
+sealants are used to protect vehicles against corrosion and road abrasion, to
+prevent air and water from entering automobiles, and to effect a cosmetically
+acceptable appearance for sheet metal joints.
+
+CONSUMER AND PROFESSIONAL PRODUCTS GROUP
+
+                 The Company's Consumer and Professional Products Group
+manufactures and sells a line of household cleaning and laundry products,
+professional maintenance products and aerosol products.
+
+
+
+
+
+                                       6
+<PAGE>   7
+                 Household Cleaning and Professional Products:  The
+Consumer and Professional Products Group produces and sells household and
+professional cleaning and laundry products, including soaps, detergents, floor
+finishes, furniture polishes, waxes, aerosol fresheners, spray disinfectants
+and other chemicals and products for cleaning, waxing, buffing, stripping and
+maintaining clothing, walls, windows, floors and furniture. The Company
+recently introduced Foam & FreshTM, a kitchen sink garbage disposal
+deodorizer/cleaner.  These products are sold by a direct sales force and
+through food brokers and distributors under various Company trade names and
+under private labels to warehouse and club stores, hardware and drug stores,
+supermarkets, mass merchandisers, specialty home care centers and convenience
+stores.
+
+                 Aerosol Products:  In addition, the Company produces and 
+sells a wide line of paint products and adhesives and specialty products in
+aerosol spray dispensers, which are sold under the Company's own trade names
+and under private labels by the Company's direct sales force and commissioned
+sales representatives to mass merchandisers, paint dealers, automotive
+aftermarket outlets and specialty shops.
+
+                 Restructuring Program
+                 ---------------------
+
+                 From April 1991 through May 1993, the Company was engaged in a
+restructuring of its Consumer and Professional Products Group to eliminate
+unprofitable West Coast operations and concentrate resources on its profitable
+professional maintenance and consumer products.  The major components of the
+Restructuring Program were in place by the end of the 1992 fiscal year and have
+positively impacted the operations of the Consumer and Professional Products
+Group.
+
+                 Under the Restructuring Program:
+
+                 Detergent Production:  The Company expanded and upgraded the
+powder detergent production capability in its Ft. Worth, Texas facility.  This
+expansion provides capacity to allow the Company to grow with this portion of
+its business and to absorb the production of its former facilities on the West
+Coast which were closed as part of the Restructuring Program.  In addition, the
+expanded capacity in Ft. Worth provides a more centrally located distribution
+point for this product line.
+
+                 Restructured Consumer and Professional Products Group:  The
+restructured Consumer and Professional Products Group continues to serve its
+remaining business elements from its Company-owned plants in Ft. Worth, Texas
+and Havre de Grace, Maryland and its leased plant in Los Angeles, California.
+It provides a wide variety of household cleaning and laundry
+
+
+
+
+
+                                       7
+<PAGE>   8
+products, professional janitorial products and aerosol products to customers.
+
+                 Asset Sales:  In late fiscal 1991, the Company sold the
+plastic injection molding production equipment located in its Commerce, CA
+manufacturing facility.  In connection with this sale, the Company entered into
+a contract to purchase certain minimum requirements for certain types of pails
+over a five year period at competitive prices.  The Company ceased all
+manufacturing at the Commerce facility on September 1, 1991.
+
+                 On September 20, 1991, in connection with the sale of certain
+assets at its Phoenix, Arizona facility, the Company ceased all operations at
+that facility.
+
+                 On January 29, 1992, the Company sold certain assets used in
+connection with the manufacture, marketing and sale of consumer bleach,
+ammonia, fabric rinse and bulk bleach at the Company's Ft. Worth, Texas
+facility.
+
+                 From February 1992 through May 1992, the Company sold certain
+assets and ceased all operations at its facilities in Auburn, Washington, Santa
+Fe Springs, California and Montebello, California.
+
+                 On May 3, 1993, the Company sold substantially all of the
+assets of its Aqua Chem Division.
+
+COMPETITIVE CONDITIONS
+
+                 Each of the fields in which the Company operates is highly
+competitive and the Company expects to continue to encounter strong competition
+in every phase of its business. The Company is one of the principal suppliers
+in the United States of solvents and thinners for the automotive original
+equipment market and of maintenance and marine coatings products.  In all other
+product areas of its business, except for architectural coatings, the Company
+is not, in terms of sales, a major factor.  In each of the fields in which the
+Company operates, it faces significant competition from other companies, some
+of which have greater assets and technical and financial resources than the
+Company.
+
+                 The architectural coatings market is extremely competitive,
+not only among manufacturers and distributors, but also with respect to
+unpainted structural and decorative materials, such as aluminum siding, brick,
+stone, plastic, glass, ceiling tile, prefinished wood and wall coverings.  In
+addition to large manufacturers who offer a complete product line, there are
+hundreds of regional and local manufacturers and distributors which compete
+with the Company's architectural coatings in specific geographic
+
+
+
+
+
+                                       8
+<PAGE>   9
+areas.  Competition in the architectural coatings market in which the Company
+operates is based, to a large extent, on quality and service at a competitive
+price and, to a lesser extent, on the promotion of recognizable trade names.
+In general, the Company competes in the automotive, marine and maintenance
+products areas through service, quality, product offering and product
+performance, and, to a lesser extent, by price.
+
+                 Competition in the markets for the Company's household
+cleaning and laundry products, professional maintenance products and aerosol
+products is based principally on price, quality of products, breadth of product
+line and customer service.  In addition, these products compete with those of
+companies marketing nationally advertised brands.
+
+SEASONALITY
+
+                 The Company's sales of architectural coatings are seasonal in
+nature, peaking in the early summer months, and are affected by the general
+level of economic activity, including activity in the construction industry,
+and the general level of redecoration and renovation by companies and
+homeowners.  The Company's sales of products to the automotive industry are
+directly tied to the production level of automobiles.  At times, particularly
+during the late summer and year-end holidays, automotive manufacturers have
+reduced or temporarily ceased production for vacations and model changeovers.
+Such cessations have, in turn, caused reduced sales of the Company's automotive
+products during such periods.  Although sales of marine and maintenance
+coatings are generally higher during periods of more optimum weather
+conditions, because of the global nature of the sales of these products, and
+the Company's technological leadership in coatings that cure at low
+temperatures, the impact of seasonality on this product line is not believed to
+be material.
+
+WORKING CAPITAL PRACTICES
+
+                 In accordance with trade practices in the various businesses
+in which it operates, the Company maintains higher levels of inventories,
+particularly with respect to architectural coatings, at certain times of the
+year and allows extended payment terms for receivables.  These needs have not
+had a material effect on the Company's operations or financial position.
+
+CUSTOMERS
+
+                 While no customer accounted for more than 10% of the Company's
+consolidated gross revenues for the fiscal year ended June 30, 1994, certain
+major customers of both of
+
+
+
+
+
+                                       9
+<PAGE>   10
+the Company's industry segments account for a significant amount of sales.
+
+RAW MATERIALS
+
+                 Most of the raw materials used by the Company are readily
+available in the open market.  A substantial portion of the raw materials used
+for the production of the Company's products is based on petrochemicals, and
+there have been occasional shortages of petrochemicals which have resulted in
+increased prices.  The Company has generally been able to procure such raw
+materials in quantities sufficient for its operations.  Any significant
+shortages of petroleum in the future could affect the availability and price of
+petrochemical based raw materials and thus adversely affect the Company's
+operations.
+
+                 The Company is dependent upon several suppliers for certain of
+the raw materials used in the production of most paints, including titanium
+dioxide and other pigments, resins, solvents and packaging materials.  The
+Company has entered into supply agreements with a number of suppliers of these
+raw materials.  Suppliers of certain of these raw materials, including
+suppliers to the Company, have in the past been subject to an allocation of
+product.  Allocations have resulted in occasional and temporary shortages and
+increased prices of such raw materials which have affected the Company's gross
+profit margins.  Such raw materials are currently in adequate supply, with no
+allocation system in effect.  If the Company were unable to procure one or more
+of such raw materials from such suppliers, the Company's paint manufacturing
+operations might be adversely affected if alternate sources of such raw
+materials were not found.
+
+                 Most of the raw materials used by the Company's Consumer and
+Professional Products Group are readily available in the open market.
+
+PATENTS, LICENSES AND TRADEMARKS
+
+                 The Company owns a number of patents and patent applications
+but does not consider any to be material to its present business.  In many
+areas of its business, the Company relies upon formulas developed by it and its
+experience in meeting customer requirements to retain its market position.
+
+                 The Company is a party to several license agreements under
+which it has the right to use certain chemical formulations.  The Company has
+granted licenses to use its formulas, know-how and technology in the
+manufacture of certain coatings and trade paints, in certain instances on an
+exclusive basis and in other instances on a
+
+
+
+
+
+                                       10
+<PAGE>   11
+non-exclusive basis, to certain foreign and domestic manufacturers under
+various license arrangements.
+
+                 During the 1993 fiscal year, the Company entered into a
+license agreement with a major international chemical company granting such
+company exclusive worldwide rights, subject to certain rights retained by the
+Company and its affiliates, to make, use and sell certain resins and waterborne
+coatings.  The Company also entered into license agreements with Corimon
+granting it rights to use the Company's architectural coatings technology and
+marine and industrial maintenance coatings technology.
+
+                 During the 1994 fiscal year, the Company executed a letter of
+intent with a wholly-owned subsidiary of Corimon for the distribution of the
+Company's industrial maintenance and marine products in most of South America,
+with an option to purchase the right to sublicense certain Corimon subsidiaries
+to make, use and sell such products.
+
+                 The Company owns a number of registered trademarks,
+principally AMERITONE(R), DEVOE(R), ZYNOLYTE(R) and KLENK'S(R) and has a 
+perpetual royalty-free license to use the trademark HARRISR in the United 
+States.  Those trademarks are considered to be of value principally in 
+identifying the Company and its products.  In August 1994, one of the 
+Company's wholly-owned subsidiaries purchased substantially all of the assets 
+of Sinclair Paint Company, including the SINCLAIRR trademark.  See 
+"Developments During and Subsequent to the Fiscal Year", above.
+
+                 Revenues for the 1994 fiscal year include royalty income of
+$2,912,000 compared to $3,309,000 for the 1993 fiscal year.
+
+RESEARCH, PRODUCT DEVELOPMENT AND QUALITY CONTROL
+
+                 The Company maintains laboratory facilities for quality
+control and special formulation of products required to meet its customers'
+needs, as well as for product improvement and new product and process
+development in related fields. During its fiscal years ended June 30, 1994,
+1993 and 1992, the Company spent approximately $4,760,000, $4,393,000 and
+$4,301,000, respectively, for product improvement and product development
+activities.
+
+ENVIRONMENTAL MATTERS
+
+                 The Company is endeavoring to comply with the Federal, state
+and local environmental laws, rules and regulations which affect various
+aspects of its businesses.  Compliance may include making capital expenditures
+at Company
+
+
+
+
+
+                                       11
+<PAGE>   12
+facilities and/or paying its proportionate share of costs associated with site
+cleanups where the Company has been identified as a potentially responsible
+party.  Typically, the Company is identified as one of many companies that sent
+materials to these sites for treatment, disposal or recycling.
+
+                 While the Company believes that the level of its
+responsibility at many of these sites is "de minimis", the Company cannot
+estimate the total costs for cleanup at a number of the sites or its share of
+such costs where it is found to be a responsible party.  Where a minimum cost
+or a reasonable estimate of the total costs of cleanup or compliance has been
+established, the applicable amount has been accrued.  Based upon management's
+present belief as to its relative involvement at these sites, other viable
+entities' responsibilities for cleanup, potential insurance coverage and the
+extended period over which many costs would be incurred, the Company presently
+believes that these matters will not have a material adverse effect on the
+Company's consolidated financial position.
+
+                 In instances where governmental agencies have alleged that a
+Company practice violates environmental regulations, the Company has met, or
+will meet, with the agency to discuss mutually acceptable methods of modifying
+or limiting the alleged offending practice.  In the past, the Company has been
+able to reach agreement with the relevant agencies on steps to be taken for
+compliance with the applicable regulations in a manner which has not materially
+adversely affected the Company's consolidated financial position or required a
+material capital outlay.
+
+                 Compliance with current laws concerning environmental
+protection is not expected to have a material adverse effect on the Company's
+consolidated financial position.  However, in view of the frequent changes in
+environmental laws, rules and regulations, the Company cannot predict the
+effect, if any, on its earnings, financial position and capital expenditures of
+compliance with environmental laws in the future.
+
+                 See "Legal Proceedings" in Item 3 of this Report,
+"Management's Discussion and Analysis" in Item 7 of this Report and Note I of
+"Notes to Consolidated Financial Statements" in Item 8 of this Report.
+
+EMPLOYEES
+
+                 As of August 1, 1994, the Company employed approximately 2,800
+persons, including those who joined the Company with the acquisition of
+Sinclair.  The Company considers its relationship with its employees to be
+satisfactory.  The Company has not had any significant work stoppage during the
+
+
+
+
+
+                                       12
+<PAGE>   13
+last five years.
+
+Item 2           Properties
+- - - - - - - ------           ----------
+
+                 As of June 30, 1994, the Company owned or leased a total of 16
+manufacturing facilities, many of which include warehouse, sales and
+administrative facilities.  Fourteen of such facilities, encompassing
+approximately 825,000 square feet, are owned by the Company.  Four of these
+Company-owned facilities are located in California, two owned facilities are
+located in each of Michigan and Texas, and one owned facility is located in
+each of Florida, Louisiana, Maryland, New Jersey, Oregon and The Netherlands.
+One of the owned facilities, located in Maryland, is subject to a mortgage on
+the property.  The two remaining manufacturing facilities, encompassing
+approximately 120,000 square feet, are subject to leases with expiration dates
+in September 1996 and December 1996, respectively.  One of these leased
+facilities is located in California and one is located in Kentucky.  Neither
+leased facility is believed material.
+
+                 In addition, as of June 30, 1994, the Company had offices and
+operated warehouses (encompassing approximately 894,000 square feet of leased
+space and 243,000 square feet of Company-owned space), which included 109
+Company-operated sales outlets.  The Company, through its Devoe & Raynolds Co.
+and Devoe Coatings Company Divisions, also operates a technical center
+(encompassing approximately 196,000 square feet of owned space).
+
+                 In connection with the acquisition of Sinclair, as of August
+1, 1994, the Company acquired an additional manufacturing facility in
+California which encompasses approximately 90,000 square feet of Company-owned
+space, and offices, warehouses and 49 Company-operated sales outlets
+(encompassing approximately 315,000 square feet of leased space and 343,000
+square feet of Company-owned space).  See "Developments During and Subsequent
+to the Fiscal Year", above.
+
+Item 3           Legal Proceedings
+- - - - - - - ------           -----------------
+
+                 (a)      Litigation Matters
+                          ------------------
+
+                          There are various legal proceedings and claims
+pending against the Company arising out of its business.  The Company
+vigorously defends the actions and claims against it.  In the opinion of
+management, these actions and claims are either without merit, protected by
+insurance coverage or rights to indemnification, or, based in part on opinions
+of counsel, will not have a material adverse effect on the Company's
+consolidated financial position.
+
+                 On April 13, 1994, the Company commenced an action in the
+Supreme Court of the State of New York, County of New York,
+
+
+
+
+
+                                       13
+<PAGE>   14
+against its former subsidiary, Perrigo Company, former executive officers of
+Perrigo Company and two banks for damages.  The action involves claims arising
+from a sale of Perrigo Company to the management group in 1988.
+
+                 (b)      Environmental and Regulatory Matters
+                          ------------------------------------
+
+                          (i)     The Company is involved in a number of
+environmentally related matters, the costs of which are not considered to be
+material or for which an accrual based on a minimum cost or a reasonable
+estimate of the total cost of cleanup or compliance has been made.  Among these
+matters are:
+
+                          (A)  In November 1987, a division and a subsidiary of
+the Company were named by the United States Environmental Protection Agency
+("EPA") as "potentially responsible parties" ("PRPs"), along with numerous
+other parties, with respect to certain hazardous waste disposals at a site in
+California.  The EPA and various PRPs, including the Company, have executed
+certain Consent Decrees with respect to financing certain stages of remedial
+action at the site.  On September 20, 1994, the Company was served with a
+complaint in an action commenced in the Superior Court of the State of
+California for the County of Los Angeles against the PRPs at the site by a
+group of individuals residing near the site.  The complaint alleges that the
+defendants are responsible for personal and property damages to the plaintiffs
+arising in connection with the site.
+
+                          (B)  On August 5, 1987, the Florida Department of
+Environmental Regulation submitted to the Company a proposed Consent Order
+concerning certain alleged groundwater contamination at the Company's Tampa,
+Florida paint manufacturing facility.  The Company has engaged environmental
+consultants and continues to investigate groundwater conditions.  To date, no
+Consent Order has been signed.
+
+                          (C)  On July 14, 1988, the Texas Natural Resource
+Conservation Commission ("TNRCC") notified the Company and several other
+companies, that they were PRPs for the cleanup of a site in Texas to which the
+Company sent certain solvents for recycling.  The Company and three other PRPs
+as a Task Force have hired an engineering consultant to perform an
+investigation and remediation at this site.  A waste removal action has been
+completed and reported to the TNRCC.  In September 1994, the TNRCC notified the
+Company and all other PRPs at the site that they had ninety (90) days to submit
+to the TNRCC a good faith offer to conduct the remedial
+investigation/feasibility study at the site.
+
+                          (D)  In August 1991, Cello Corp. ("Cello"), a 
+subsidiary of the Company, and the State of Maryland entered
+
+
+
+
+
+                                       14
+<PAGE>   15
+into a Settlement Agreement with respect to charges brought by the Maryland
+Department of the Environment in April 1990 alleging violations of the Maryland
+water pollution control laws and a 1989 Consent Order between the State of
+Maryland and Cello.  Under the terms of the Settlement Agreement, Cello,
+without any admission of liability, agreed to pay a civil penalty of $25,000
+and to make certain capital improvements to its Havre de Grace, Maryland
+facility at an estimated cost of $360,000.  All improvements have been
+completed.  Cello has also performed groundwater studies at that facility
+pursuant to the terms of the 1989 Consent Order and reported the findings and
+recommendations to the State in 1992.  To date, there has been no response.
+
+                          (E)  The EPA has notified the Company that it is one
+of hundreds of PRPs with respect to a cleanup of allegedly hazardous waste at a
+site in Maryland.  The Company settled a portion of this claim, relating to the
+removal of drums and other material left on the site by the operator, for
+approximately $31,600.  Further investigations at the site revealed the
+presence of soil and groundwater contamination, the cost of cleanup of which,
+and the Company's share of which, if any, is presently unknown.
+
+                          (F)  The Company understands that the State of
+Kentucky is investigating possible soil and groundwater contamination at a site
+to which waste solvents of the Company were transported.
+
+                          (G)  Following a determination by the Company that
+certain underground storage tanks containing certain solvents may have leaked
+at the Company's Riverside, California facility, the Company closed-in-place
+such storage tanks and initiated discussions with the California Regional Water
+Quality Control Board ("CRWQCB") and with the Riverside County Department of
+Health.  The Company has defined the extent of soil and groundwater
+contamination at its Riverside, CA facility and has completed the design for
+the vapor extraction of solvents from contaminated soils.  The Company has
+authorized its consultant to install the soil contamination remediation system
+which became operational in September 1994.  Semi-annual groundwater monitoring
+continues with the approval of the CRWQCB.
+
+                          (H)  In April 1986, the EPA advised the Company that
+it may be a PRP at a site in Indiana because a recycler used by a former
+affiliate allegedly sent materials to the site between 1969 and 1974.  In June
+1994, the EPA and the Indiana Dept. of Environmental Management made a de
+minimis settlement offer to approximately 2,000 PRPs, including the Company.
+The Company accepted the settlement and signed an Administrative Order on
+Consent reflecting such settlement.
+
+
+
+
+
+                                       15
+<PAGE>   16
+                          (I)  In late 1990, the EPA advised the Company that
+it is considered one of many PRPs at a site in Michigan.  The Company and
+certain other PRPs signed a Consent Decree with the EPA for the performance of
+remedial action at the site.  As part of an allocation process, the Company has
+been allocated .48% share of responsibility for the site.  The Company's final
+share of the costs will depend upon the actual costs of the cleanup and the
+amounts paid by other PRPs.  In June 1994, the Company and certain other PRPs
+signed an Administrative Order by Consent for the payment of past costs to the
+Michigan Dept. of Natural Resources.
+
+                          (J)  In June 1991, the Company and approximately
+twenty other PRPs received a letter from the New Jersey Department of
+Environmental Protection demanding that they pay the costs of removing
+materials at a site from which surplus building materials were sold.  The
+Company had previously voluntarily removed from the site materials which bore
+its labels or otherwise indicated that they might have been manufactured by the
+Company.
+
+                          (K)  At the Company's Detroit, Michigan facilities,
+all out-of-service underground tanks have either been removed or
+closed-in-place in accordance with all applicable laws and regulations.
+Accessible soil contamination has been removed, treated and replaced.  Certain
+additional, limited soil contamination that cannot be feasibly removed is being
+further investigated.  No groundwater contamination has been identified.
+Documentation of all tank closure activities is in process.
+
+                          (L)  The Company and other PRPs are engaged in the
+cleanup of a solvent reclamation/fuel blending site in Arkansas to which a
+former division of the Company sent certain wastes.
+
+                          (M)  The Company is in the process of implementing
+state approved measures at one of its former divisions in Missouri to remediate
+soil contamination at such site.  Groundwater quality will be monitored.
+
+                          (N)  In connection with the Company's former leased
+manufacturing facility in Commerce, California, the Company submitted a Closure
+Plan to the appropriate authorities which addressed, among other things,
+remediation of soil contamination at such site.  The Closure Plan has been
+approved and the Company is in the process of implementing the Plan's
+provisions.
+
+                          (O)  In connection with the Company's leased facility
+in Montebello, California, the Company has removed certain underground storage
+tanks and has recommended to State authorities that accessible soil
+contamination be excavated and
+
+
+
+
+
+                                       16
+<PAGE>   17
+treated or disposed.  One excavation will be backfilled and paved prior to the
+expiration of the lease in December 1994.
+
+                          (P)  The Company is presently conducting an
+investigation to determine the extent and source of soil and groundwater
+contamination at one of its former plants in Emeryville, California in
+connection with the closure of a formerly used underground storage tank.  A
+report was filed with the appropriate agency in March 1994; a response is
+awaited.
+
+                          (Q)  The Company has begun a phased program to
+replace and remove the underground storage tanks with aboveground units at its
+facility in Pennsauken, New Jersey.  The above ground replacement tanks have
+been installed and placed in service.  The closure process for the
+out-of-service underground storage tanks has begun by initiating the site
+assessment phase of work.  While some soil contamination has been identified,
+the extent of contamination is being investigated.  At present, the Company
+believes groundwater contamination is unlikely.
+
+                          (R)  In November 1992, the Company received a letter
+from the EPA advising that it is a PRP at a site in Connecticut based on
+approximately 8,000 gallons of waste solvents processed at the site in October
+and November 1981.  The Company expects to resolve its alleged liability
+through a de minimis settlement.
+
+                          (S)  In March 1990, the Company received an
+Administrative Unilateral Order from the EPA directed to it and approximately
+35 others designated by the EPA as PRPs at a landfill in Kentucky.  The Company
+believes that it arranged only for the disposal of a limited quantity of
+non-hazardous substances at this site, but is nevertheless continuing to work
+with other PRPs in an effort to negotiate a settlement with the EPA.
+
+                          (T)  The Company received a letter from the EPA in
+March 1990, informing it that it is considered to be a PRP at a site in New
+Jersey.  The Company believes it ceased using the services of the transporter
+of hazardous wastes to the site prior to the beginning of the time period in
+question.
+
+                          (U)  The Company and other third party defendants
+have entered into a Court approved Consent Agreement settling their alleged
+liability in a third party action brought in October 1991 by five original
+defendants in an action instituted by the EPA in the United States District
+Court for the Central District of Illinois.  The Company and the other PRPs
+continue to be defendants in related litigation brought by the State of
+Illinois to resolve its claims for past costs at the site at which wastes were
+allegedly disposed.
+
+
+
+
+
+                                       17
+<PAGE>   18
+                          (V)  In December 1991, the Company received a letter
+from the EPA requesting information regarding a facility in Utah previously
+leased by a subsidiary of the Company.  On September 20, 1993, the Company
+received a General Notice Letter from the EPA notifying the Company of
+potential liability in connection with past and possible future cleanup
+activities at the site.
+
+                          (W)  In May 1992, the Company was served with a
+complaint in an action commenced in the Superior Court of New Jersey Law
+Division Camden County, by the owners of certain property in New Jersey which
+has been identified by the EPA as a superfund site.  This action was
+subsequently dismissed.  On or about February 3, 1993, the Company received a
+third party complaint in an action involving the same site, which was commenced
+in the United States District Court for the District of New Jersey by the EPA.
+The Company and the defendants and third party defendants have to date been
+unsuccessful in attempting to determine and allocate responsibility at the site
+through mediation.
+
+                          (X)  In October 1993, a subsidiary of the Company
+received a letter from counsel for another party alleging that some of the
+subsidiary's hazardous wastes may have been taken to a superfund site in
+Maryland.
+
+                          (Y)  In October 1993, a division of the Company
+received an Information Request from the Michigan Department of Natural
+Resources with respect to wastes allegedly disposed of at a site in the State
+of Michigan.
+
+                          (Z)  The Company is participating with other parties
+in the investigation of a site in the State of Illinois to which wastes from a
+recycling facility were transported.  The Company has previously resolved its
+liability with respect to the recycling site.
+
+                          (AA) The Company was notified in January 1994 that it
+is considered a PRP at a former drum recycling facility in Michigan as a result
+of the use of this facility by a former subsidiary of the Company.  The Company
+and other PRPs have signed a Consent Order resolving past costs of the State of
+Michigan and agreeing to take appropriate response actions to address
+contamination at the site.
+
+                          (BB) In April 1994, the Company received a complaint
+naming it and numerous other parties as defendants in litigation pending in the
+United States District Court for the District of New Jersey, Camden Vicinage.
+The complaint alleges that the Company and other defendants are liable for
+cleanup at a site in the State of New Jersey by virtue of the transport to,
+treatment, or disposal of wastes at the site.
+
+
+
+
+
+                                       18
+<PAGE>   19
+                 (ii)     In addition:
+
+                          (A)  In September 1989, the Company received a notice
+from the Illinois EPA that a former subsidiary was identified as a PRP at a
+landfill site in Illinois.  In June 1992 and July 1994, further notices were
+received stating that the Illinois EPA had information indicating that the
+Company may be liable for costs of remedial action at the site.  At a meeting
+in August 1994, the Illinois EPA indicated that the Company would be expected
+to pay a substantial amount to resolve its alleged liability at the site.  The
+Company has not agreed to accept any determination of liability and is
+presently exploring the extent of its exposure and expects to continue
+discussions with the Illinois EPA.
+
+                          (B)  In May 1990, the EPA notified the Company that a
+subsidiary had been connected with a landfill site in Maryland.  The Company
+has no records showing disposals at this site.  However, at least one of the
+subsidiary's waste haulers is alleged to have transported waste materials to
+the site.  In August 1993, the Company received and subsequently responded to a
+letter from the EPA requesting additional information regarding products
+manufactured and waste disposal practices.
+
+                          (C)  In August 1990, the Company was notified by the
+Department of Environmental Resources of Pennsylvania that it is a PRP at a
+site in Pennsylvania.  The Company was one of the two largest users of the site
+in terms of volume of materials sent to the site for recycling.  The Company
+and other PRPs have completed waste characterization of substances contained in
+tanks and drums at the site and have commenced removal and disposal.
+
+                          (D)  In July 1991, the Company received a letter from
+the EPA advising that the Company is a PRP at a landfill site in Florida.  In
+January 1993, the Company and 17 other PRPs entered into an Administrative
+Order by Consent pursuant to which the PRPs have agreed to perform a remedial
+investigation and feasibility study at the site.
+
+                          (E)  In November 1992, the Company received a letter
+from the EPA requesting information regarding the Company's use of a drum
+reconditioner in Florida.  The Company responded to this letter and has heard
+nothing further from the EPA.
+
+                          (F)  A subsidiary of the Company has sued the prior
+owner of its production facility in connection with soil and groundwater
+contamination at that facility.  The prior owner has denied responsibility.
+
+
+
+
+
+                                       19
+<PAGE>   20
+                 The Company cannot estimate the total costs of cleanup at the
+above sites or its share of costs where it is found to be a responsible party.
+Where a minimum cost of cleanup has been established, the applicable amount has
+been accrued.  Based upon management's present belief as to its relative
+involvement at these sites, other viable entities' responsibilities for
+cleanup, potential insurance coverage and the extended period over which many
+costs would be incurred, the Company presently believes that these matters will
+not have a material adverse effect on the Company's consolidated financial
+position.
+
+Item 4           Submission of Matters to a Vote of Security Holders
+- - - - - - - ------           ---------------------------------------------------
+
+                 Not applicable.
+
+Executive Officers of the Registrant
+- - - - - - - ------------------------------------
+
+                 The following information is furnished with respect to each of
+the executive officers of the Company:
+
+<TABLE>
+<CAPTION>
+                                                  Year First
+                         Positions Presently      Elected an
+Name and Age                 with Company           Officer  
+- - - - - - - ------------             -------------------      ----------
+<S>                      <C>                        <C>
+Russell Banks (75)       President, Chief           1961
+                         Executive Officer and
+                         Director
+
+Joseph M. Quinn (57)     Executive Vice             1981
+                         President, Chief
+                         Operating Officer and
+                         Director
+
+John F. Gleason (65)     Executive Vice             1976
+                         President and Director
+
+Stephen L. Dearborn (39) Senior Vice President,     1994
+                         Strategic Planning and
+                         Operations
+
+Henry W. Jones (46)      Vice President,            1994
+                         Regulatory Affairs
+
+Frank V. Esser (55)      Treasurer, Chief           1981
+                         Financial and Principal
+                         Accounting Officer
+
+
+Lloyd Frank (69)         Secretary and Director     1963
+</TABLE>
+
+
+
+
+
+                                       20
+<PAGE>   21
+                 Russell Banks has been President and Chief Executive Officer
+of the Company since 1962.  Mr. Banks has served as a Director of the Company
+since 1960.
+
+                 Joseph M. Quinn has been an executive officer of the Company
+since 1981 and was elected Executive Vice President and Chief Operating Officer
+in August 1991.  Since January 1989, Mr. Quinn has served as Executive Vice
+President in charge of the Coatings and Chemicals Group and, for more than the
+five years prior thereto, Mr. Quinn served as Group Vice President of the
+Company and President of the Company's Devoe Marine Coatings Co. Division.  He
+also served as President of the Company's Devoe & Raynolds Co. Division from
+January 1988 until August 1992.  Mr. Quinn has served as a Director of the
+Company since 1989.
+
+                 John F. Gleason has been an executive officer of the Company
+since 1976 and has, for more than the past five years, served as an Executive
+Vice President of the Company.  Mr. Gleason has served as a Director of the
+Company since 1976.
+
+                 Stephen L. Dearborn was appointed Senior Vice President,
+Strategic Planning and Operations of the Company in June 1994.  For the 17
+years prior thereto, Mr. Dearborn served in a number of management capacities
+at PPG Industries, Inc. involving international and domestic strategic business
+planning, marketing and operations.
+
+                 Henry W. Jones was appointed Vice President, Regulatory
+Affairs of the Company in June 1994.  For one year prior thereto, Mr. Jones
+served as Director, Environmental Safety and Health Compliance of the Company.
+He also served as Corporate Manager, Environmental Affairs of the Company from
+August 1985 to April 1993.
+
+                 Frank V. Esser has been an executive officer of the Company
+since 1981 and was elected Treasurer and Chief Financial Officer of the Company
+in 1989.  Mr. Esser is a certified public accountant.
+
+                 Lloyd Frank has served as Secretary of the Company since 1963.
+Mr. Frank is an attorney admitted to practice in the State of New York and has
+been a member of the law firm of Parker Chapin Flattau & Klimpl for more than
+the past five years.  Mr. Frank has served as a Director of the Company since
+1987.
+
+                 There are no family relationships among any of the Company's
+executive officers or directors.  There are no arrangements or understandings
+between any executive officer
+
+
+
+
+
+                                       21
+<PAGE>   22
+and any other person pursuant to which such person was selected as an officer
+(although certain executive officers are parties to employment agreements with
+the Company).  Each executive officer is to hold office until the 1994 Annual
+Meeting of Directors (which is to be held immediately after the 1994 Annual
+Meeting of Shareholders), at which time the Board of Directors will elect
+officers for the ensuing year.
+
+                                    PART II
+
+Item 5           Market for the Registrant's Common Equity
+- - - - - - - ------           and Related Stockholder Matters          
+                 -----------------------------------------
+
+                 The Company's Common Stock is listed and traded on the New
+York Stock Exchange (stock symbol "GRO").  As of June 30, 1994, there were
+approximately 4,000 holders of record of the Company's Common Stock.  The
+quarterly market prices for the past two years are presented in the
+accompanying table.  The Company declared dividends of $.07 per share in each
+quarter of fiscal 1994 and $.06 per share in each quarter of fiscal 1993.  In
+determining whether future dividends will be paid, the Board of Directors will
+consider a number of factors, including the Company's results of operations,
+financial condition, capital requirements and projected cash flow.  As
+indicated in Note E of the "Notes to Consolidated Financial Statements",
+approximately $7.0 million was available for the payment of dividends
+subsequent to June 30, 1994.
+
+Quarterly Common Stock Data
+<TABLE>
+<CAPTION>
+                                 
+               Market  Price    Dividends
+- - - - - - - ----------------------------    Declared        
+1994           High      Low    Per Share
+- - - - - - - -----------------------------------------
+
+<S>              <C>      <C>     <C>
+1st Quarter      17-3/8   13-1/2  $.07
+2nd Quarter      16-3/4   13-3/4  $.07
+3rd Quarter      18-7/8   15      $.07
+4th Quarter      19-3/4   14-7/8  $.07
+
+                                        
+- - - - - - - ----------------------------------------
+1993                                    
+- - - - - - - ----------------------------------------
+
+1st Quarter      14       11-3/4  $.06
+2nd Quarter      14-1/2   11-3/8  $.06
+3rd Quarter      14-3/4   11-3/4  $.06
+4th Quarter      17-7/8   13-1/4  $.06
+</TABLE>
+
+
+
+
+
+                                       22
+<PAGE>   23
+Item 6           Selected Financial Data
+- - - - - - - ------           -----------------------
+<TABLE>
+<CAPTION>
+
+                               Year Ended June 30,              
+- - - - - - - -----------------------------------------------------------------
+                    1994     1993      1992      1991      1990  
+- - - - - - - -----------------------------------------------------------------
+                      (In thousands, except per share amounts)
+<S>              <C>       <C>       <C>       <C>       <C>
+Total revenues   $401,818  $365,464  $374,202  $368,376  $367,088
+Income (loss)
+ from continu-
+ ing operations
+ before
+ extraordinary
+ item (a)          14,056    10,842     7,502   (11,071)    9,933
+Income (loss)
+ from discon-
+ tinued
+ operations                   2,080     1,630    (2,317)   (1,400)
+Net income
+ (loss) (a)(b)     14,056    12,472     9,132   (13,111)    8,025
+Total assets      247,921   233,869   233,491   228,933   229,232
+Long-term debt,
+ including
+ current
+ installments       3,184     3,215    72,469    76,037    82,191
+Stockholders'
+ equity           138,683   128,569    54,955    47,272    58,200
+Per common
+ share-primary
+  Income (loss)
+   from 
+   continuing 
+   operations
+   before 
+   extra-
+   ordinary item      .87       .78       .64      (.98)      .87
+  Net income
+   loss (c)           .87       .90       .78     (1.16)      .69
+  Cash dividends    
+   declared           .28       .24       .05       .10        --
+  Book value         8.61      8.03      4.73      4.03      5.15
+Weighted average
+ shares            16,116    13,850    11,705    11,342    11,361
+=================================================================
+</TABLE>
+
+
+(a)      Includes unusual item gain of $600,000 (1993), $840,000 (1992), costs
+         of restructuring of $11,100,000 (1991) and gain on sale of U.S. Paint
+         of $10,000,000 (1990).
+
+(b)      Includes extraordinary charge of $450,000 in 1993, $277,000 gain in
+         1991, and $425,000 gain in 1990.
+
+(c)      $.87 fully diluted in 1993 and $.76 fully diluted in 1992.
+
+
+
+
+
+                                       23
+<PAGE>   24
+Item 7           Management's Discussion and Analysis of
+- - - - - - - ------           Financial Condition and Results of Operations
+                 ---------------------------------------------
+
+Fiscal 1994 Compared to Fiscal 1993:
+
+                 Revenues:  Revenues from continuing operations increased
+$36,354,000 (10%).  Approximately 61% of the increase was related to the
+inclusion of the sales of the Zynolyte Products Company acquired effective
+August 2, 1993.
+
+                 Excluding the sales of Zynolyte, revenues of the Coatings and
+Chemicals segment increased $13,395,000 (4.6%).  Royalty income recorded in
+this segment decreased to $2,782,000 from $3,069,000 in 1993.  This decrease
+was related to a higher level of initial royalties related to new licensing
+agreements in 1993.  Within the Coatings and Chemicals segment, revenues
+related to architectural paint products increased $11,812,000 (6.2%)
+principally due to higher unit volume which was offset somewhat by lower net
+pricing.
+
+                 For Marine and Maintenance Products the revenue increase was
+$2,440,000 (3.5%), which was primarily attributable to increased unit volume of
+9.2% offset partially by lower contracting revenue.  Automotive revenues
+decreased $857,000 (2.9%), principally due to lower unit volume.
+
+                 Consumer and Professional Products segment revenues were
+approximately equal to the prior year's.  A lower level of shipments and lower
+pricing of detergents sold to club stores and lower sales of professional
+cleaning products were offset by increases in unit volume of household products
+sold to mass retailers, grocery and drug chains and others.  The lower volume
+of shipments of detergents to club stores was caused in part by a reformulation
+of the product which increased the number of washes per unit.
+
+                 Costs of Product Sold:  Consolidated gross profit as a
+percentage of revenues decreased from 36.8% to 36.3%.  The inclusion of
+Zynolyte which has somewhat lower gross profit margin percentages than the
+other components in fiscal 1994, had the effect of decreasing the overall gross
+profit percentage by 3/10%.
+
+                 Excluding Zynolyte, the gross profit percentage for the
+Coatings and Chemicals segment decreased slightly from 38.1% to 37.8%.
+Promotional pricing (for architectural paint products), particularly in the
+fourth quarter of the year, was the primary reason for the lower gross profit
+percentage.
+
+                 In the Consumer and Professional Products Group, the gross
+profit percentage remained at approximately the same level as the prior year
+(2/10% increase).
+
+
+
+
+
+                                       24
+<PAGE>   25
+                 Competitive pricing adjustments and formula changes (which
+resulted in higher material costs) in the second half of the year resulted in
+somewhat lower gross margin percentages (a decrease of 7/10%) in the "club
+store" product line.  These reductions were offset by higher gross profit
+percentages in the other components of the Consumer and Professional Products
+Group.
+
+                 Storage and Delivery:  Storage and delivery costs increased
+$3,269,000 (25.7%).  Excluding Zynolyte, these costs increased by 9.0%,
+principally reflecting the higher unit volume, particularly in the
+architectural paint operations, and changes in the delivery pattern in the
+Consumer and Professional Products Group.
+
+                 Selling and Administrative:  Selling and administrative
+expenses increased $5,153,000 (5.4%).  Excluding Zynolyte, these expenses
+increased 2.6%, which is a lower rate of increase than the increase in
+revenues.  Among the factors having an impact on Selling and Administrative
+expenses are higher volume related expenses due to new branch openings and the
+acquisition of certain assets of Havco Paint Company (four stores), new product
+introduction costs, higher employee costs and higher environmental and
+corporate costs.  These increases were offset in part by lower casualty
+insurance expense and lower incentive compensation expense.
+
+                 Interest Expense:  Interest expense decreased from $5,701,000
+to $897,000, principally due to lower debt levels in 1994 caused by the
+redemption of approximately $43 million of 12-1/2% notes and the conversion of
+approximately $26 million of 8-1/2% debentures.
+
+                 Income Tax Expense:  The change in the effective tax rate from
+40.0% to 42.0% is primarily the result of the retroactive change in the Federal
+income tax rate to 35% from 34% enacted by Congress in August 1993.
+
+                 Net Income:  In addition to the factors enumerated above, the
+change in net income of $1,584,000 was impacted by an unusual gain in 1993
+related to insurance of $600,000 (after tax), discontinued operations in 1993
+of $2,080,000 (after tax) and an extraordinary charge in 1993 related to the
+redemption of debt of $450,000.
+
+                 In connection with the acquisition of Sinclair Paint Company
+("Sinclair") (see Note B) and with another contemplated acquisition, certain
+restructure charges are expected to be charged to earnings in fiscal 1995 or
+thereafter.  The amount of such charges may range from $2,000,000 to $4,000,000
+before tax.
+
+
+
+
+
+                                       25
+<PAGE>   26
+Fiscal 1993 Compared to Fiscal 1992:
+
+                 Revenues:  Revenues from continuing operations decreased
+$8,738,000.  However, after adjusting fiscal 1992 for revenues related to
+product lines disposed of, revenues from continuing operations increased
+$7,601,000 (2.1%).
+
+                 Revenues of the Coatings and Chemicals segment decreased by
+$665,000 (less than 1%).  Royalty income recorded in this segment increased
+from $1,097,000 in 1992 to $3,069,000 in 1993 principally due to new licensing
+agreements including initial royalties.  A decrease in revenue of the Devoe
+Coatings maintenance and marine product line of $12,547,000 (15.2%) was largely
+offset by an increase of $11,806,000 (6.7%) in revenues of architectural paint
+products.  In architectural coatings, unit volume was responsible for 53.4% of
+the increase with price/mix and royalty income increases accounting for the
+remaining 46.6%.  The decrease in the Devoe Coatings revenues was principally
+due to lower unit volume as a result of a substantial reduction in drydockings
+and other maintenance by the U.S. Navy and major oil and chemical companies.
+
+                 Consumer and Professional Products segment revenues, adjusted
+for the revenues of product lines disposed of during fiscal 1992, increased
+$8,266,000 (12.0%), primarily as a result of increased shipments of detergents
+and other products to mass merchants.
+
+                 Costs of Product Sold:  Consolidated gross profit as a
+percentage of revenues increased from 34.8% to 36.8%.  The higher revenues
+related to architectural products, which are sold at higher gross margin
+percentages than maintenance and marine products, decreased environmental
+charges, increased royalty income and lower raw material costs, were the
+primary factors contributing to the increase.
+
+                 In the Coatings and Chemicals segment, the gross profit
+percentage increased from 37.2% to 38.1% primarily due to the change in mix
+between architectural products and maintenance and marine coatings, decreased
+environmental charges, lower raw material prices and higher royalty income.
+
+                 In the Consumer and Professional Products segment, gross
+profit percentage increased from 30.9% to 31.8% after adjusting for the lower
+gross profit percentages related to product lines disposed of during fiscal
+1992.  The gross profit percentage in the segment was principally impacted by
+the beneficial production efficiencies of higher volume somewhat offset by
+product mix and price changes.
+
+                 Storage and Delivery:  Storage and delivery costs decreased
+$2,544,000.  The change in this category of expense is
+
+
+
+
+
+                                       26
+<PAGE>   27
+related primarily to changes in the product mix and restructuring in the
+Consumer and Professional Products segment.
+
+                 Selling and Administrative:  Selling and administrative
+expenses increased $5,357,000.  Higher levels of volume related and employee
+costs related in part to increased company operated store locations were
+experienced in the architectural operations and the Consumer and Professional
+Products segment.  These increases were offset somewhat by lower environmental
+costs, slightly lower selling and administrative costs in the maintenance and
+marine coatings product line and lower corporate expenses including reduction
+in legal costs.
+
+                 Interest Expense:  Interest expense decreased from $9,026,000
+to $5,701,000 principally due to lower debt levels in 1993.  Total long-term
+debt as of June 30, 1993 is $3,215,000.  See "Liquidity" for a discussion of
+the changes in debt.
+
+                 Unusual Items:  In fiscal 1993, based on a settlement with an
+insurance carrier, an accrual previously provided was adjusted and an unusual
+gain of $1,000,000 was recorded.
+
+                 Income Taxes (Expense) Credit:  The change in the effective
+tax rates from 46.2% to 40.0% is the result of, among other factors,
+differences in the percentage effect of non-deductible expenses, the tax basis
+of assets sold (or reserved for) and state income taxes.  See Note D of the
+"Notes to Consolidated Financial Statements."
+
+                      -------------------------------
+
+                 Environmental Matters:  The Company continues to incur and
+accrue its share of costs at Superfund and other sites related to compliance
+with environmental laws, rules and regulations.  The provision for such costs
+amounted to $2,769,000 and $2,092,000 for the years ended June 30, 1994 and
+1993, respectively.  The Company periodically reviews its estimates of, and
+accrues appropriate amounts for, costs of compliance with environmental laws
+and the cleanup of various sites, including sites as to which governmental
+agencies have designated the Company (or have indicated a possibility of
+designating the Company) a potentially responsible party.  The provision for
+environmental costs is not necessarily indicative of future provisions for such
+costs.
+
+                 Where a minimum cost or a reasonable estimate of the total
+costs of cleanup or compliance has been established, the applicable amount has
+been accrued.  The related accrued liability totalled $10,841,000 as of June
+30, 1994.  An anticipated $207,000 ($1,900,000 as of June 30, 1993) refund of
+remediation costs from a State agency is included in receivables as of June 30,
+1994.  In certain instances, estimates cannot be
+
+
+
+
+
+                                       27
+<PAGE>   28
+made of the total costs of cleanup or compliance, the Company's share, if any,
+of such costs, nor the timing thereof; accordingly, the Company is unable to
+predict the effect thereof on future results of operations.  In the event of
+one or more adverse determinations in any annual or interim period, the impact
+on results of operations for those periods could be material.  However, based
+upon management's present belief as to its relative involvement at these sites,
+other viable entities' responsibilities for cleanup, potential insurance
+coverage and the extended period over which any costs would be incurred, the
+Company presently believes that these matters will not have a material adverse
+effect on the Company's consolidated financial position.
+
+                 Liquidity:  During the year, the Company's net income, plus
+depreciation, amortization and provision for doubtful accounts, contributed
+$21,753,000 to cash flows.  Changes in operating assets and liabilities and
+other items used $7,354,000 in cash flow principally related to increased
+accounts receivable and inventories.  Payment of a loan against the cash
+surrender value of life insurance and cash dividends were the principal factors
+in the use of $8,672,000 for financing activities.
+
+                 The acquisition of the stock of Zynolyte Products Company and
+the purchase of certain assets of Havco Paint Company for an aggregate of
+$17,339,000 in cash and net purchases of fixed assets resulted in a use of cash
+for investing activities of $22,926,000.
+
+                 The Company renegotiated (effective August 1, 1994), its
+credit facility, which expires in March 1996 with Chemical Bank, New Jersey and
+two other banks.  The credit line entitles the Company to borrow, at prime (or,
+at the Company's option, LIBOR plus 2%) up to $60 million less the amount of
+outstanding letters of credit ($13,693,000 at June 30, 1994).  In connection
+with the acquisition of Sinclair subsequent to year-end, effective August 1,
+1994, the Company borrowed $26,000,000 under its line of credit and expended
+approximately $25,000,000 of its cash balances.  It is expected that further
+borrowings under the line of credit will be made to cover expenditures in
+connection with Sinclair during fiscal 1995 and 1996.  Future short-term and
+long-term liquidity requirements are expected to be satisfied from cash flow
+for operations, borrowings from banks or other lenders and/or equity sources.
+
+
+
+
+
+                                       28
+<PAGE>   29
+Item 8           Financial Statements and Supplementary Data
+- - - - - - - ------           -------------------------------------------
+
+                 The following consolidated financial statements
+of the Company and its subsidiaries are presented below:
+
+                 Report of Independent Auditors
+
+                 Consolidated Statement of Income - Years Ended
+                 June 30, 1994, 1993 and 1992
+
+                 Consolidated Statement of Stockholders' Equity -
+                 Years Ended June 30, 1994, 1993 and 1992
+
+                 Consolidated Balance Sheet - June 30, 1994 and 1993
+
+                 Consolidated Statement of Cash Flows - Years Ended
+                 June 30, 1994, 1993 and 1992
+
+                 Notes to Consolidated Financial Statements.
+
+
+
+
+
+                                       29
+<PAGE>   30
+                        REPORT OF INDEPENDENT AUDITORS
+
+
+To the Stockholders and Board of Directors
+Grow Group, Inc. and Subsidiaries.
+
+
+We have audited the accompanying consolidated balance sheets of Grow Group,
+Inc. as of June 30, 1994 and 1993, and the related consolidated statements of
+income, stockholders' equity, and cash flows for each of the three years in the
+period ended June 30, 1994.  Our audits also included the financial statement
+schedules listed in the Index at 14(a).  These financial statements and
+schedules are the responsibility of the Company's management.  Our
+responsibility is to express an opinion on these financial statements and
+schedules based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the financial statements listed in the accompanying index to
+financial statements (Item 14(a)) present fairly, in all material respects, the
+consolidated financial position of Grow Group, Inc. and subsidiaries at June
+30, 1994 and 1993, and the consolidated results of their operations and their
+cash flows for each of the three years in the period ended June 30, 1994, in
+conformity with generally accepted accounting principles.  Also, in our
+opinion, the related financial statement schedules, when considered in relation
+to the basic financial statements taken as a whole, present fairly in all
+material respects the information set forth therein.
+
+
+
+                                                ERNST & YOUNG LLP
+
+
+New York, New York
+August 8, 1994
+
+
+
+
+
+                                       30
+<PAGE>   31
+GROW GROUP, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF INCOME
+(In Thousands Except per Share Amounts)
+
+<TABLE>
+<CAPTION>
+                                              Year Ended
+                                                June 30,      
+- - - - - - - --------------------------------------------------------------
+                                      1994       1993     1992
+- - - - - - - --------------------------------------------------------------
+<S>                               <C>        <C>       <C>
+Revenues from continuing
+ operations                       $401,818   $365,464   $374,202
+
+Costs and expenses:
+ Cost of products sold             255,875    230,928    243,943
+ Research and development            4,760      4,393      4,301
+ Storage and delivery               16,007     12,738     15,282
+ Selling and administrative        101,071     95,918     90,561
+ Interest expense                      897      5,701      9,026
+ Corporate interest income          (1,027)    (1,284)    (1,162)
+ Unusual item - Note C                         (1,000)    (2,000
+- - - - - - - ----------------------------------------------------------------
+
+Total costs and expenses           377,583     347,394   359,951
+- - - - - - - ----------------------------------------------------------------
+
+ Income from continuing
+ operations before income taxes     24,235      18,070    14,251
+Income taxes (expense) credit -
+ Note D
+ Federal - current                  (8,977)     (4,628)   (3,709)
+         - deferred                    842      (1,146)   (1,693)
+ State and local                    (1,587)     (1,289)     (903)
+ Foreign                              (457)       (165)     (444)
+- - - - - - - -----------------------------------------------------------------
+
+Income taxes                       (10,179)     (7,228)   (6,749)
+- - - - - - - -----------------------------------------------------------------
+
+ Income from continuing
+ operations                         14,056      10,842     7,502
+Discontinued operations (less
+ applicable taxes)                               2,080     1,630 
+- - - - - - - -----------------------------------------------------------------
+ Income from operations
+ before extraordinary item          14,056      12,922     9,132
+Extraordinary item (less
+ applicable taxes)                                (450)          
+- - - - - - - -----------------------------------------------------------------
+
+Net income                         $14,056     $12,472    $9,132 
+=================================================================
+</TABLE>
+
+
+
+
+
+                                       31
+<PAGE>   32
+<TABLE>
+<S>                             <C>        <C>        <C>
+Net income per common and
+ common equivalent share:
+  (primary)
+Income from continuing
+ operations                          $.87       $.78     $.64
+Discontinued operations (less
+ applicable taxes)                               .15      .14
+Extraordinary item (less
+ applicable taxes)                              (.03)        
+- - - - - - - -------------------------------------------------------------
+
+Net income                           $.87       $.90     $.78
+=============================================================
+
+Net income per common and
+ common equivalent share:
+  (fully diluted)
+Income from continuing
+ operations                          $.87       $.77     $.64
+Discontinued operations (less
+ applicable taxes)                               .13      .12
+Extraordinary item (less
+ applicable taxes)                              (.03)        
+- - - - - - - -------------------------------------------------------------
+
+Net income                           $.87       $.87     $.76
+=============================================================
+
+Average number of shares        16,116,000 13,850,000 11,705,000
+================================================================
+
+Cash dividends declared on
+ common stock per share              $.28       $.24     $.05
+=============================================================
+</TABLE>
+
+
+
+See notes to financial statements.
+
+
+
+
+
+                                       32
+<PAGE>   33
+GROW GROUP, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY
+
+<TABLE>
+<CAPTION>
+For the                                                       Re-
+Three Years                                         De-       tained
+Ended                     Treas-           Equity   ferred    Earn-
+June 30, 1994     Common  ury     Paid-in  Adjust-  Compen-   ings
+(In thousands)    Stock   Stock   Capital  ments    sation    (Deficit)
+- - - - - - - -----------------------------------------------------------------------
+<S>               <C>    <C>       <C>     <C>      <C>       <C>
+Balance at
+June 30, 1991     1,191  (1,136)   60,174  (263)    (2,935)   (9,759)
+- - - - - - - -----------------------------------------------------------------------
+
+Common Stock
+ issued upon
+ exercise of
+ stock options               95       (35)
+Cash dividends -
+ Common Stock                        (581)
+Loan to ESOP
+ for purchase of
+ Common Stock                                         (110)
+Reduction of
+ ESOP loan                                             260
+Purchase of
+ Treasury Stock          (1,254)
+Equity adjustments
+ from foreign
+ currency
+ translation                                 176
+Net income                                                    9,132
+
+Balance at
+June 30, 1992     1,191  (2,295)   59,558   (87)    (2,785)    (627)
+- - - - - - - ----------------------------------------------------------------------
+
+Common Stock
+ issued upon
+ exercise of
+ stock options              243        62
+Cash dividends -
+ Common Stock                                                (3,470)
+Loan to ESOP          
+ for purchase of
+ Common Stock                                         (316)
+Reduction of                
+ ESOP loan                                             487
+</TABLE>
+
+
+
+
+
+                                       33
+<PAGE>   34
+<TABLE>
+<S>                    <C>     <C>       <C>       <C>   <C>      <C>
+Issuance of
+Common Stock
+ to Corimon               231              37,769
+Conversion of
+ Convertible
+ Debentures               205              25,848
+Equity adjustments
+ from foreign
+ currency translation                                83
+Net income                                                         12,472
+
+Balance at
+June 30, 1993          $1,627  $(2,052)  $123,237  $ (4) $(2,614) $ 8,375
+- - - - - - - -------------------------------------------------------------------------
+
+Common Stock
+ issued upon
+ exercise of
+ stock options                     707        191
+Cash dividends -
+ Common Stock                                                      (4,502)
+Loan to ESOP
+ for purchase of
+ Common Stock                                               (293)
+Equity adjustments
+ from foreign
+ currency translation                               (45)
+Net income                                                         14,056
+
+Balance at
+June 30, 1994          $1,627   $1,345   $123,428  $(49) $(2,907) $17,929
+=========================================================================
+</TABLE>
+
+
+See notes to financial statements
+
+
+
+
+
+                                       34
+<PAGE>   35
+GROW GROUP, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEET
+<TABLE>
+<CAPTION>
+                                                    June 30,  
+- - - - - - - --------------------------------------------------------------
+                                                  1994    1993
+- - - - - - - --------------------------------------------------------------
+                                                 (In thousands)
+<S>                                           <C>      <C>
+Assets
+Current Assets
+Cash and cash equivalents                      $38,816   $56,015
+Accounts receivable less allowance for
+ doubtful accounts of $3,667,000 and
+ $3,341,000
+                                                69,622    61,852
+Inventories, at lower of cost or market:
+ Finished and in-process products               48,490    40,938
+ Materials, containers and supplies             14,413    12,437
+- - - - - - - ----------------------------------------------------------------
+                                                62,903    53,375
+Prepaid expenses and other current assets       16,052    16,532
+- - - - - - - ----------------------------------------------------------------
+Total Current Assets                           187,393   187,774
+- - - - - - - ----------------------------------------------------------------
+
+Property, Plant and Equipment, at cost
+Land                                             9,785     2,202
+Buildings and improvements                      26,039    22,329
+Machinery and equipment                         63,507    60,419
+Less allowance for depreciation                (48,524)  (45,121)
+- - - - - - - -----------------------------------------------------------------
+                                                50,807    39,829
+Other Assets
+Cost in excess of net assets of acquired
+ businesses                                      1,677     1,125
+Deferred finance, patents and other assets       8,044     5,141
+- - - - - - - ----------------------------------------------------------------
+                                                 9,721     6,266
+- - - - - - - ----------------------------------------------------------------
+
+Total Assets                                  $247,921  $233,869
+================================================================
+</TABLE>
+
+
+
+
+
+                                       35
+<PAGE>   36
+<TABLE>
+<S>                                           <C>      <C>
+Liabilities and Stockholders' Equity
+Current Liabilities
+Accounts payable                               $37,532   $34,582
+Payroll and related taxes                        7,266     7,080
+Accrued expenses                                21,770    22,233
+Income taxes - Note D                           10,180    10,918
+Dividend payable                                 1,128       961
+Current installments on long-term debt           2,270     1,080
+- - - - - - - ----------------------------------------------------------------
+Total Current Liabilities                       80,146    76,844
+- - - - - - - ----------------------------------------------------------------
+
+Deferred Income Taxes and Other Liabilities     28,178    26,321
+Long-term debt
+Notes payable                                      914     2,135
+- - - - - - - ----------------------------------------------------------------
+Total Long-Term Debt                               914     2,135
+
+Stockholders' Equity - Notes E, F, G and H
+Preferred stock - Authorized 1,000,000
+ shares, none issued
+Common stock par value $.10 per share:
+Authorized 50,000,000 shares; issued
+ 16,271,831 and 11,909,085 shares                1,627     1,627
+Less treasury stock at cost (168,493 and
+ 258,538 shares)                                (1,345)   (2,052)
+Paid-in capital                                123,428   123,237
+Equity adjustments                                 (49)       (4)
+Deferred compensation (related to ESOP
+ loan)                                          (2,907)   (2,614)
+Retained earnings                               17,929     8,375 
+- - - - - - - -----------------------------------------------------------------
+                                               138,683   128,569 
+- - - - - - - -----------------------------------------------------------------
+
+Total Liabilities and Stockholders' Equity    $247,921  $233,869 
+=================================================================
+</TABLE>
+
+
+See notes to financial statements.
+
+
+
+
+
+                                       36
+<PAGE>   37
+GROW GROUP, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF CASH FLOWS
+<TABLE>
+<CAPTION>
+                                          Year Ended June 30,  
+- - - - - - - ---------------------------------------------------------------
+                                        1994      1993     1992
+- - - - - - - ---------------------------------------------------------------
+                                            (In thousands)
+<S>                                   <C>     <C>        <C>
+Operating Activities
+Net income                            $14,056  $12,472   $ 9,132
+Adjustments to reconcile net
+ income to net cash
+ provided (used) by operating
+ activities:
+Depreciation                            5,285    5,059     5,370
+Amortization of deferred charges        1,165    1,663     1,353
+Deferred income taxes                    (842)   1,146     1,693
+Provision for doubtful accounts         2,089    2,586     2,622
+Gain on sale of AquaChem                        (2,003)
+Changes in operating assets and
+ liabilities-net:
+ (Increase) in accounts
+  receivable                           (4,702)   3,512    (3,556)
+ (Increase) in inventories
+  and prepaid expenses
+  and other current assets             (4,027)  (5,082)   (4,280)
+ (Decrease) increase in accounts
+  payable and other current
+  liabilities                          (1,098)   7,211     4,965
+Other                                   2,473     (462)   (1,149)
+- - - - - - - -----------------------------------------------------------------
+
+Net cash provided by operating
+ activities                            14,399   11,680    16,150
+- - - - - - - ----------------------------------------------------------------
+
+Investing Activities
+Purchase of property, plant and
+ equipment                             (5,717)  (4,098)   (7,265)
+Disposals of plant and equipment          130    1,500     2,550
+Sale of AquaChem                                22,638
+Acquisition of Zynolyte and Havco     (17,339)                   
+- - - - - - - -----------------------------------------------------------------
+
+Net cash provided (used) by
+ investing activities                 (22,926)  20,040    (4,715)
+- - - - - - - -----------------------------------------------------------------
+</TABLE>
+
+
+
+
+
+                                       37
+<PAGE>   38
+<TABLE>
+<S>                                   <C>      <C>       <C>
+Financing Activities
+ Proceeds from borrowing                           829       145
+ Payments of debt                      (5,068) (44,222)   (8,713)
+ Proceeds from issuance of
+  Common Stock                            898   39,030        60
+ Purchase of Common Stock                                 (1,254)
+ Cash dividends                        (4,502)  (3,470)     (581)
+- - - - - - - -----------------------------------------------------------------
+
+ Net cash (used) by
+  financing activities                 (8,672)  (7,833)  (10,343)
+- - - - - - - -----------------------------------------------------------------
+
+(Decrease) increase in cash
+ and cash equivalents                 (17,199)  23,887     1,092
+
+Cash and cash equivalents at
+ beginning of year                     56,015   32,128    31,036
+- - - - - - - ----------------------------------------------------------------
+Cash and cash equivalents at end
+ of year                              $38,816  $56,015   $32,128
+================================================================
+
+Note: Interest and income taxes
+ paid were as follows:
+Interest                                  332   $8,333    $9,464
+- - - - - - - ----------------------------------------------------------------
+
+Income taxes                          $11,759   $7,225    $  272
+================================================================
+</TABLE>
+
+
+See notes to financial statements.
+
+
+
+
+
+                                       38
+<PAGE>   39
+Note A.  Summary of Significant Accounting Policies
+
+The consolidated financial statements include the accounts of the Company and
+all subsidiary companies.  Significant intercompany transactions and accounts
+have been eliminated in consolidation.  Cost in excess of net assets of
+acquired businesses is being amortized principally over 40 years.
+
+Plant and Equipment:
+
+The cost of plant and equipment is depreciated principally on the straight-line
+method over the estimated useful lives of the assets.  For income tax purposes,
+certain assets are depreciated on an accelerated basis.  The cost of leasehold
+improvements is amortized over the life of the leases.
+
+Inventories:
+
+Inventories are valued at the lower of cost (first-in, first-out method) or
+market.
+
+Environmental Costs:
+
+The Company periodically reviews its estimates of costs of compliance with
+environmental laws and the cleanup of various sites, including sites as to
+which governmental agencies have designated the Company (or have indicated a
+possibility of designating the Company) a potentially responsible party.  Where
+a minimum cost or a reasonable estimate of the cost of compliance has been
+established, the applicable amount has been accrued.  As of June 30, 1994, the
+Company has accrued $10,841,000 ($9,985,000 at June 30, 1993) related to
+environmental matters and the provision for such costs amounted to $2,769,000
+($2,092,000 for fiscal 1993) for the year then ended.  An anticipated $207,000
+($1,900,000 as of June 30, 1993) refund of remediation costs from a state
+agency is included in receivables as of June 30, 1994).
+
+Income Taxes:
+
+The Company has adopted Financial Accounting Standard Board Statement No. 109
+which mandates accounting for income taxes on the liability method.  (See Note
+D).
+
+
+
+
+
+                                       39
+<PAGE>   40
+Net Income Per Share:
+
+Net income (loss) per common and common equivalent share has been
+computed based on the average number of shares of Common Stock
+outstanding during the year and the common share equivalents applicable to
+stock options.  Supplementary net income per share (primary) would approximate
+fully diluted amounts if the conversion of the convertible debentures had
+occurred at the beginning of the year.
+
+Cash Equivalents:
+
+The Company considers all highly liquid investments with a maturity of three
+months or less when purchased to be cash equivalents.
+
+Restated Balance Sheet:
+
+As of June 30, 1994, certain accrued liabilities related to insurance claims
+and environmental matters were reclassified and are included in other long-term
+liabilities.  Prior year's amounts have been restated to conform to this
+treatment.
+
+Note B.  Acquisitions and Dispositions
+
+Subsequent to year-end and effective August 1, 1994, the Company acquired
+substantially all of the assets and assumed certain liabilities of Sinclair
+Paint Company ("Sinclair"), a division of Insilco Corporation in a purchase
+transaction for approximately $51,000,000 in cash (subject to adjustment based
+on closing audit).  Sinclair's revenues for calendar year 1993 amounted to
+approximately $95,000,000.  The transaction will result in approximately
+$15,000,000 in cost in excess of net assets acquired.  A portion of the funds
+required were obtained from the Company's revolving credit line with a group of
+banks (see Note E).
+
+In connection with the acquisition of Sinclair and with another proposed
+acquisition, certain restructure charges are expected to be charged to earnings
+in fiscal 1995.  The amount of such charges may range from $2,000,000 to
+$4,000,000 pre-tax.
+
+On August 2, 1993, the Company acquired the stock of Zynolyte Products Company
+("Zynolyte"), a producer and marketer of paint products (principally aerosols)
+headquartered in Carson, California.  The purchase price was approximately
+$16,300,000 in cash.
+
+
+
+
+
+                                       40
+<PAGE>   41
+On May 3, 1993, the Company sold its AquaChem pool products division.  The
+terms included a net cash payment of $10,371,000 and the assumption of current
+liabilities of $12,267,000 by the buyer.  The Company retained the accounts
+receivable of $4,653,000 and has collected that balance.  In addition, the
+Company is entitled to receive future payments based on percentage of certain
+net revenues generated by AquaChem for an additional period.  Details of
+discontinued operations are as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                           1993        1992 
+- - - - - - - ------------------------------------------------------------
+<S>                                       <C>        <C>
+Revenues                                  $19,746    $42,040
+Costs and expenses                        (19,618)   (39,323)
+Gain on sale                                4,805           
+- - - - - - - ------------------------------------------------------------
+                                            4,933      2,717
+Income tax (expense) credit                (2,853)    (1,087)
+- - - - - - - ------------------------------------------------------------ 
+Income (loss) from discontinued
+ operations                                $2,080     $1,630
+============================================================
+</TABLE>
+
+The income tax provision in 1993 varied from the statutory rate because the
+basis of certain assets was different for tax purposes.
+
+Note C.  Unusual Items
+
+In fiscal 1993, based on settlement with an insurance carrier, the Company
+adjusted an accrual previously provided in connection with the settlement of a
+lawsuit and has recorded an unusual gain of $1,000,000.
+
+In the second quarter of fiscal 1992, the Company recorded an unusual item
+related to recoveries of insurance claims net of provisions for other unusual
+items.
+
+
+
+
+
+                                       41
+<PAGE>   42
+Note D.  Federal Income Taxes
+
+The reasons for the difference between total tax (expense) and the amount
+computed by applying the statutory federal income tax rate to income from
+continuing operations before income taxes are as follows (in thousands except
+percentages):
+
+<TABLE>
+<CAPTION>
+               1994             1993             1992        
+- - - - - - - --------------------------------------------------------------
+              Amount    %      Amount    %      Amount    %  
+- - - - - - - --------------------------------------------------------------
+<S>          <C>       <C>     <C>       <C>    <C>      <C>
+Income tax
+ (expense)
+ credit at
+ statutory
+ rate        $(8,482)  (35.0)  $(6,144)  (34.0)  $4,682   34.0
+State and
+ local 
+ taxes,
+ net of
+ federal
+ income tax
+ benefit      (1,032)   (4.3)     (851)   (4.7)    (896)  (5.3)
+Other           (665)   (2.7)     (233)   (1.3)  (1,171)  (6.9)
+- - - - - - - ---------------------------------------------------------------
+Total       $(10,179)  (42.0)  $(7,228)  (40.0) $(6,749) (46.2)
+===============================================================
+</TABLE>
+
+Deferred tax expense credit from continuing operations results from timing
+differences between financial statement income and taxable income and includes
+(in thousands):
+
+<TABLE>
+<CAPTION>
+                                  1994       1993       1992
+- - - - - - - ------------------------------------------------------------
+<S>                             <C>        <C>       <C>
+Accelerated depreciation        $(177)     $(2,160)   $1,294
+Accrued restructuring reserve     229          877    (4,705)
+Other accrued liabilities         720         (478)    1,381
+Other timing differences           70          615       337
+- - - - - - - ------------------------------------------------------------
+Total                            $842      $(1,146)  $(1,693)
+=============================================================
+</TABLE>
+
+Deferred income taxes reflect the net tax effects of temporary differences
+between the carrying amounts of assets and liabilities for financial reporting
+purposes and the amounts used for income tax purposes.  Significant components
+of the Company's deferred tax liabilities and assets as of June 30, 1994 are as
+follows (in thousands):
+
+<TABLE>
+<S>                                             <C>
+Deferred tax liabilities
+  Depreciation                                  $6,420
+  Other                                          1,658
+- - - - - - - ------------------------------------------------------
+   Total deferred tax liabilities                8,078
+Deferred tax assets:
+  Accrued restructuring                          1,601
+  Insurance reserves                             3,907
+  Accrued employee benefits                      1,376
+  Accounts receivable allowance                  1,176
+  Other                                          1,427
+- - - - - - - ------------------------------------------------------
+   Total deferred tax assets                     9,487
+- - - - - - - ------------------------------------------------------
+   Net deferred tax assets                      $1,409
+======================================================
+</TABLE>
+
+
+
+
+
+                                       42
+<PAGE>   43
+Fiscal years from 1984 forward are undergoing examination by the IRS; however,
+management believes that the ultimate outcome will not have a material effect
+on the Company's financial position.
+
+Effective July 1, 1993, the Company adopted Financial Accounting Standards
+Board Statement No. 109 "Accounting for Income Taxes" which requires companies
+to change the method of accounting for income taxes from the deferred to the
+liability method.  The effect was not material.
+
+Note E. Long-Term Debt and Credit Agreements
+
+Subordinated Debt:
+
+During fiscal 1993, the Company redeemed all of its remaining 12-1/2% Senior
+Subordinated Notes ($20 million at 102% of par and the remainder at par).  The
+charge (representing the redemption premium and write off of deferred costs and
+discount) is included in extraordinary items.  During 1992, the Company
+repurchased $2,500,000 in principal amount of 12-1/2% Notes.  During fiscal
+1993, the Company called for redemption all of its 8-1/2% Convertible
+Subordinated Debentures.  This resulted in redemption of $145,000 and
+conversion of $25,861,000 into approximately 2,050,000 shares of Common Stock.
+
+On March 31, 1993, the Company entered into a Credit Agreement with three banks
+providing a three year revolving loan facility for an aggregate of $40 million
+less the amount of outstanding letters of credit ($13,693,000 at June 30, 1994)
+under a $17 million letter of credit sub-facility that is available for the
+Company's insurance program.  In connection with the acquisition of Sinclair
+(see Note B) effective August 1, 1994, the revolving loan facility was
+increased to $60,000,000 and $26,000,000 was borrowed thereunder.
+
+Loans under the facility will bear interest at prime or, at the Company's
+option, at the LIBOR rate plus 2% and the facility is secured by the Company's
+accounts receivable.
+
+The Credit Agreement requires the Company to maintain consolidated tangible net
+worth (as defined) of not less than $82 million on the last day of each quarter
+and defined levels of working capital, leverage and interest coverage; and
+provides for limits on cash dividends, stock repurchases and other restricted
+payments (as defined).  The most restrictive covenant would limit restricted
+payments made subsequent to June 30, 1994 to $7,028,000 (before consideration
+of subsequent earnings or other changes).
+
+
+
+
+
+                                       43
+<PAGE>   44
+Note F.  Shareholders' Equity
+
+Deferred compensation in the Stockholders' Equity section represents the
+unamortized portion of loans to the Company's Employee Stock Ownership Plan
+(ESOP).  The loans are being amortized over 5 to 15 years.  As of June 30,
+1994, the ESOP owns 560,592 shares of Common Stock.
+
+On August 7, 1992, pursuant to an agreement signed on July 21, 1992, Corimon
+C.A. (an industrial company in Venezuela) purchased 2,312,000 newly issued
+shares of the Company's Common Stock at a price of $16.75 per share, or an
+aggregate of $38,726,000.  As of June 30, 1994, Corimon owns approximately 25%
+of the Company's outstanding Common Stock, three of Corimon's designees have
+joined the Company's Board of Directors.  Corimon has also agreed to customary
+"standstill" provisions which will continue in effect until, in general,
+October 1995.  During the standstill period, Corimon is permitted to increase
+its ownership position to a maximum of 28% of the Company's stock.  See Note G
+with respect to the Company's Shareholder Rights Plan.  The Company has entered
+into certain immaterial arms length license and distribution agreements and
+other commercial transactions with Corimon.
+
+During fiscal 1993, holders of $25,861,000 principal amount of 8-1/2%
+Convertible Subordinated Debentures elected to convert to approximately
+2,050,000 shares of Common Stock.  This resulted in an increase in Common Stock
+of $205,000 and an increase in paid-in capital of $25,848,000 after adjustments
+for deferred costs, accrued interest and expenses of the transaction.
+
+Note G.  Stock Options and Reserved Shares
+
+In October 1990, the Stockholders approved the 1990 Stock Option Incentive Plan
+which provides that options may be designated as "Incentive Stock Options"
+under the Internal Revenue Code.  Under the Plan (which authorizes a total of
+500,000 shares), options are granted at not less than the greater of market
+price on the date of grant or book value.  Presently, outstanding options are
+for ten years from the date of grant and become exercisable in annual
+installments of 16-2/3% beginning two years after grant.  Options remain
+outstanding under a prior plan for the purpose of exercise only.
+
+
+
+
+
+                                       44
+<PAGE>   45
+Transactions during the three years are summarized as follows:
+
+<TABLE>
+<CAPTION>
+                                      Option         Number
+                                      Price            of
+                                    Per Share        Shares
+- - - - - - - -----------------------------------------------------------
+<S>                               <C>               <C>
+Outstanding (154,000 exercisable)
+ at June 30, 1991                 $4.44 to $12.69   257,000
+Granted                                9.81          25,000
+Exercised                          4.44 to   4.50   (13,000)
+Terminated or expired                  4.50          (1,000)
+- - - - - - - ------------------------------------------------------------
+Outstanding (154,000 exercisable)
+ at June 30, 1992                 $7.25 to $12.69   268,000
+Granted                           11.81 to  12.00    20,000
+Exercised                          7.25 to  10.94   (31,000)
+Terminated or expired              9.19 to  10.15   (10,000)
+- - - - - - - ------------------------------------------------------------
+Outstanding (147,000 exercisable)
+ at June 30, 1993                  $7.25 to$12.69   247,000
+Granted                            14.00 to 18.13    30,000
+Exercised                           9.19 to 11.56   (93,000)
+Terminated or expired                  8.33         (10,000)
+- - - - - - - ------------------------------------------------------------
+Outstanding (65,000 exercisable)
+ at June 30, 1994                 $7.25 to $18.13   174,000  
+============================================================
+</TABLE>
+
+At June 30, 1994, 124,000 outstanding options have been designated as
+"Incentive Stock Options."
+
+The Company adopted a Shareholder Rights Plan in February 1988 providing for
+the issuance of one Right for each share of the Company's Common Stock issued
+and outstanding.  Holders of Rights would be entitled, if certain events occur,
+to purchase Common Stock of the Company (or, in certain cases, Common Stock of
+an "Acquiring Person", who in general is a person or a group of affiliated or
+associated persons having beneficial ownership of 20% or more of the
+outstanding shares of the Company's Common Stock) at a 50% discount.  These
+events include, among others, the acquisition by an Acquiring Person of 30% or
+more of the then outstanding shares of Common Stock of the Company.  The
+Company is entitled to redeem the Rights at $ .01 per Right under certain
+circumstances and, if not redeemed, the Rights will expire on February 26,
+1998.  Pursuant to the terms of the agreement between the Company and Corimon
+described in Note F, the Company has amended the Shareholder Rights Plan to
+increase from 20% to 30% the beneficial ownership percentage threshold in the
+definition of "Acquiring Person" and to include a new "flip-in" provision (or
+Triggering Event) which would allow the Board of Directors of the Company to
+trigger a "flip-in" event if the Board declared a person with beneficial
+ownership of at least 20% of the Company's Stock to be an "Adverse Person."
+The Company has agreed that it will not declare Corimon or its affiliates to be
+an "Adverse Person" if their beneficial ownership is less than 30%.
+
+
+
+
+
+                                       45
+<PAGE>   46
+At June 30, 1994, the Company had reserved shares of Common Stock for issuance
+as follows:
+
+<TABLE>
+<S>                                                   <C>
+Issuance of stock related to rights                   17,000,000
+Options                                                  546,000
+- - - - - - - ----------------------------------------------------------------
+                                                      17,546,000
+================================================================
+</TABLE>
+
+Note H.  Employee Plans
+
+The Company and its domestic subsidiaries presently have trusteed
+non-contributory defined benefit pension plans covering non-union employees and
+union employees whose unions have bargained to be covered.  Benefits are based
+on years of service and average final compensation.  The funding policy is
+normally to pay at least the minimum amounts required by the Employee
+Retirement Income Security Act of 1974.
+
+The Company also has an Employee Stock Ownership Plan (ESOP) which covers most
+of its domestic employees (see Note F).   The Board of Directors decided not to
+make a contribution to the plan for fiscal 1994.  Expense under this plan was
+$318,000 (1993) and $260,000 (1992).
+
+The net pension expense for the Company's domestic pension plans includes the
+following components (in thousands):
+
+<TABLE>
+<CAPTION>
+                                          1994    1993    1992
+- - - - - - - --------------------------------------------------------------
+<S>                                     <C>       <C>     <C>
+Service cost-benefits earned
+ during the period                        $816    $667    $724
+Interest cost on projected
+ benefit obligation                      1,025     873     837
+Less actual return on plan assets         (812)   (813)   (918)
+Net amortization and deferral              140     142     283
+- - - - - - - --------------------------------------------------------------
+                                        $1,169    $869    $926 
+===============================================================
+</TABLE>
+
+The weighted average discount rate and rate of increase in future compensation
+used in determining the actuarial present value of the projected benefit
+obligation are 7.6% and 5% (1994), respectively, and 8.5% and 5% (1993),
+respectively.  The expected long-term rate of return is 8.0% (1994) and 8.5%
+(1993).
+
+The following table sets forth the funded status and amount recognized for the
+Company's domestic pension plans in the consolidated balance sheet at June 30,
+1994 and 1993 (in thousands):
+
+
+
+
+
+                                       46
+<PAGE>   47
+<TABLE>
+<CAPTION>
+                                             1994        1993
+- - - - - - - -------------------------------------------------------------
+<S>                                        <C>        <C>
+Actuarial present value of accumulated
+ plan benefits, including vested benefits
+ of $11,056 and $8,972                     $11,256     $9,147
+- - - - - - - -------------------------------------------------------------
+Plan assets at fair value, primarily
+ marketable securities                     $ 9,828     $9,588
+Projected benefit obligation for service
+ rendered to date                          (14,470)   (11,733)
+- - - - - - - --------------------------------------------------------------
+Projected benefit obligation in excess
+ of plan assets                             (4,642)    (2,145)
+Unrecognized net loss                        3,581      1,709
+Unrecognized net liability
+ (transition amount) being recognized
+ over approximately 18 years                  (245)      (255)
+- - - - - - - --------------------------------------------------------------
+Accrued pension liability (primarily
+ noncurrent)                               $(1,306)     $(691)
+==============================================================
+</TABLE>
+
+The Company has a retirement benefits program for certain directors who are not
+employees of the Company and a supplemental retirement benefits program for
+certain senior executive officers.  The Company funds obligations thereunder by
+life insurance contracts.  Expense under these programs amounted to $77,000
+(1994) and $296,000 (1993) and $260,000 (1992).  The amount of accrued
+liability was $2,042,000 and $2,108,000 as of June 30, 1994 and 1993,
+respectively.
+
+Note I.  Commitments and Contingencies
+
+Rental expense for continuing operations for all leases was $9.4 million, $8.8
+million and $8.9 million in 1994, 1993 and 1992, respectively.
+
+The future minimum rental commitment as at June 30, 1994 for all
+non-cancellable leases (principally buildings) is $28.8 million, which includes
+$7.7 million - 1995, $6.7 million - 1996, $5.4 million - 1997, $3.6 million -
+1998 and $1.7 million - 1999.
+
+Litigation Matters
+
+There are various legal proceedings and claims pending against the Company
+arising out of its business.  The Company vigorously defends the actions and
+claims against it.  In the opinion of management, these actions and claims are
+either without merit, protected by insurance coverage or rights to
+indemnification, or, based in part on opinions of counsel, will not have a
+material adverse effect on the Company's consolidated financial position.
+
+
+
+
+
+                                       47
+<PAGE>   48
+Environmental
+
+(a) The Company is involved in a number of environmentally related matters, the
+costs of which are not considered to be material or for which an accrual based
+on a minimum cost or a reasonable estimate of the total cost of cleanup or
+compliance has been made.
+
+(b) In addition:
+
+In September 1989, the Company received a notice from the Illinois EPA that a
+former subsidiary was identified as a potentially responsible party ("PRP") at
+a landfill site in Illinois.  In June 1992 and July 1994, further notices were
+received stating that the Illinois EPA had information indicating that the
+Company may be liable for costs of remedial action at the site.  At a meeting
+in August, 1994, the Illinois EPA indicated that the Company would be expected
+to pay a substantial amount to resolve its alleged liability at the site.  The
+Company has not agreed to accept any determination of liability and is
+presently exploring the extent of its exposure and expects to continue
+discussions with the Illinois EPA.
+
+In May 1990, the EPA notified the Company that a subsidiary had been connected
+with a landfill site in Maryland.  The Company has no records showing disposals
+at this site.  However, at least one of the subsidiary's waste haulers is
+alleged to have transported waste materials to the site.  In August 1993, the
+Company received and subsequently responded to a letter from the EPA requesting
+additional information regarding products manufactured and waste disposal
+practices.
+
+In August 1990, the Company was notified by the Department of Environmental
+Resources of Pennsylvania that it is a PRP at a site in Pennsylvania.  The
+Company was one of the two largest users of the site in terms of volume of
+materials sent to the site for recycling.  The Company and other PRPs have
+completed waste characterization of substances contained in tanks and drums at
+the site and have commenced removal and disposal.
+
+In July 1991, the Company received a letter from the EPA advising that the
+Company is a PRP at a landfill site in Florida.  In January 1993, the Company
+and 17 other PRPs entered into an Administrative Order by Consent pursuant to
+which the PRPs have agreed to perform a remedial investigation and feasibility
+study for the site.
+
+In November 1992, the Company received a letter from the EPA requesting
+information regarding the Company's use of a drum reconditioner in Florida.
+The Company responded to this letter, and has heard nothing further from the
+EPA.
+
+A subsidiary of the Company has sued the prior owner of its production facility
+in connection with soil and ground-water contamination at that facility.  The
+prior owner has denied responsibility.
+
+
+
+
+
+                                       48
+<PAGE>   49
+The Company cannot estimate the total costs of cleanup at the above sites or
+its share of costs where it is found to be a responsible party.  Where a
+minimum cost of cleanup has been established, the applicable amount has been
+accrued.  Based upon management's present belief as to its relative involvement
+at these sites, other viable entities' responsibilities for cleanup, potential
+insurance coverage and the extended period over which many costs would be
+incurred, the Company presently believes that these matters will not have a
+material adverse effect on the Company's consolidated financial position.
+
+
+
+
+
+                                       49
+<PAGE>   50
+Note J.  Industry Segment Data
+<TABLE>
+<CAPTION>
+                                        Year Ended June 30     
+- - - - - - - ---------------------------------------------------------------
+                                     1994        1993      1992
+- - - - - - - ---------------------------------------------------------------
+                                          (In thousands)
+<S>                                <C>       <C>       <C>
+Revenues from continuing
+ operations (a)
+ Coatings and chemicals             $324,203  $288,523  $289,188
+ Consumer and professional products   77,615    76,941    68,675
+                                     ---------------------------
+Sub total                            401,818   365,464   357,863
+ Consumer and professional products
+ Product lines disposed of                                16,339
+                                     ---------------------------
+Total revenues                      $401,818  $365,464  $374,202
+                                     ===========================
+
+Operating income
+ Coatings and chemicals (b)          $23,784   $19,929   $23,047
+ Consumer and professional products    9,225     8,739     5,703
+                                      --------------------------
+Total operating income                33,009    28,668    28,750
+Corporate expenses                    (8,904)   (7,181)   (8,635)
+Corporate interest income              1,027     1,284     1,162
+Unusual items (c)                                1,000     2,000
+Interest expense                        (897)   (5,701)   (9,026)
+                                      -------------------------- 
+Income (loss) from continuing        $24,235   $18,070   $14,251
+ operations before income taxes       ==========================
+                                
+</TABLE>
+
+
+(a)      Revenues include royalty income of $2,912,000 (1994), $3,309,000
+         (1993) and $1,310,000 (1992).
+
+(b)      Includes $186,000 (1994), $157,000 (1993) and $972,000 (1992) related
+         to foreign operations.
+
+(c)      See Note C to financial statements.
+
+
+
+
+
+                                       50
+<PAGE>   51
+<TABLE>
+<CAPTION>
+Identifiable Assets                  1994        1993      1992
+- - - - - - - ---------------------------------------------------------------
+                                           (In thousands)      
+- - - - - - - ---------------------------------------------------------------
+<S>                                 <C>       <C>       <C>
+Coatings and chemicals              $156,914  $126,126  $125,280
+Consumer and professional
+ products (a)                         31,554    31,989    58,996
+- - - - - - - ----------------------------------------------------------------
+                                     188,468   158,115   184,276
+Corporate                             59,453    75,754    49,215
+- - - - - - - ----------------------------------------------------------------
+                                    $247,921  $233,869  $233,491
+================================================================
+Depreciation                                                    
+- - - - - - - ----------------------------------------------------------------
+Coatings and chemicals                $3,870    $3,328    $3,690
+Consumer and professional
+ products (a)                          1,333     1,548     1,595
+- - - - - - - ----------------------------------------------------------------
+                                       5,203     4,876     5,285
+Corporate                                 82       183        85
+- - - - - - - ----------------------------------------------------------------
+                                      $5,285    $5,059    $5,370
+================================================================
+Capital Expenditures                                            
+- - - - - - - ----------------------------------------------------------------
+Coatings and chemicals                $4,760    $2,964    $4,778
+Consumer and professional
+ products (a)                            941     1,027     2,471
+- - - - - - - ----------------------------------------------------------------
+                                       5,701     3,991     7,249
+Corporate                                 16       107        16
+- - - - - - - ----------------------------------------------------------------
+                                      $5,717    $4,098    $7,265
+================================================================
+</TABLE>
+
+(a) Includes discontinued operations (AquaChem) in 1992.
+
+Product lines amounting to 10% or more of consolidated revenues from continuing
+operations were:
+
+<TABLE>
+<S>                                      <C>       <C>      <C>
+Architectural coatings                    56%       52%      42%
+Maintenance and marine coatings           18%       19%      20%
+</TABLE>
+
+Refer to "Industry Segment Data" on page 12 in this annual report for
+additional information relating to revenues and income (loss) before income
+taxes of the Company's principal business segments for the three years ended
+June 30, 1994 which is incorporated as part of the notes hereto.
+
+
+
+
+
+                                       51
+<PAGE>   52
+SUMMARY OF QUARTERLY RESULTS OF OPERATIONS (UNAUDITED)
+
+The following is a summary of the quarterly results of operations for the years
+ended June 30, 1994 and 1993:
+
+<TABLE>
+<CAPTION>
+                                         1994
+                                   Three Months Ended
+                     Sept. 30      Dec.31      March 31   June 30
+                     --------------------------------------------
+                        (In thousands except per share amounts)
+<S>                <C>         <C>         <C>      <C>
+Revenues from
+ continuing
+ operations        $103,928    $93,458     $91,180  $113,252
+                   -----------------------------------------
+Cost of products
+ sold                65,633     59,066      59,436    71,740
+                   -----------------------------------------
+Income from
+ continuing
+ operations           4,099      1,916       1,278     6,763(a)
+                   -----------------------------------------   
+Discontinued
+ operations
+Extraordinary item
+Net income           $4,099     $1,916      $1,278    $6,763
+                   =========================================
+
+Per share 
+  - primary:
+Income from
+ continuing
+ operations           $.25        $.12       $.08     $.42
+                      ------------------------------------
+Discontinued
+ operations
+Extraordinary item
+Net income            $.25        $.12       $.08     $.42
+                      ====================================
+</TABLE>
+
+
+
+
+
+                                       52
+<PAGE>   53
+<TABLE>
+<CAPTION>
+                                         1993
+                                   Three Months Ended
+                     Sept. 30      Dec.31      March 31   June 30
+                     --------------------------------------------
+                        (In thousands except per share amounts)
+<S>                 <C>          <C>          <C>       <C>
+Revenues from
+ continuing
+ operations         $96,813      $82,383      $82,787   $103,481
+                    --------------------------------------------
+Cost of products
+ sold                60,591       52,599       52,590     65,148
+                    --------------------------------------------
+Income
+ from continuing
+ operations           3,173 (b)      917 (c)    1,464      5,288
+                    --------------------------------------------
+Discontinued
+ operations             122         (391)         346      2,003
+                    --------------------------------------------
+Extraordinary
+ item                  (349)         (97)                    (4)
+                    --------------------------------------------
+Net income           $2,946         $429       $1,810     $7,287
+                    ============================================
+
+Per share 
+ - primary:
+(Income from
+  continuing
+  operations          $.23 (b)      $.07 (c)     $.11       $.37
+                      ------------------------------------------
+Discontinued
+ operations           $.01         ($.03)        $.02       $.15
+                      ------------------------------------------
+Extraordinary item   ($.02)        ($.01)                       
+                      ------------------------------------------
+Net income            $.22          $.03         $.13       $.52
+                      ==========================================
+</TABLE>
+
+
+(a)      Includes a credit related to an actuarial revision of prior quarters
+         insurance expense of $746,000 ($.05 per share).
+
+(b)      Includes unusual (after tax) gain of $150,000 ($.01 per share).
+
+(c)      Includes unusual (after tax) gain of $450,000 ($.03 per share).
+
+
+
+
+
+                                       53
+<PAGE>   54
+Item 9           Changes in and Disagreements with Accountants
+                 on Accounting and Financial Disclosure       
+                 ---------------------------------------------
+
+                 Not applicable.
+
+                                    PART III
+
+                 The information called for by Part III (Items 10, 11, 12, and
+13) of Form 10-K (except information as to the Company's executive officers,
+which information follows Item 4 in this Report) is incorporated herein by
+reference to such information which is to be contained in the Company's Proxy
+Statement to be used in connection with the Company's 1994 Annual Meeting of
+Shareholders, which Proxy Statement will be filed pursuant to Regulation 14A
+under the Securities Exchange Act of 1934, as amended.
+
+                                    PART IV
+
+Item 14          Exhibits, Financial Statement Schedules and Reports
+- - - - - - - -------          on Form 8-K                                        
+                 ---------------------------------------------------
+
+(a)(1)           The following consolidated financial statements of
+the Company and its subsidiaries are presented in Item 8 of this Report:
+
+                 Report of Independent Auditors
+
+                 Consolidated Statement of Income - Years Ended
+                 June 30, 1994, 1993 and 1992
+
+                 Consolidated Statement of Stockholders' Equity -
+                 Years Ended June 30, 1994, 1993 and 1992
+
+                 Consolidated Balance Sheet Income - June 30, 1994 and 1993
+
+                 Consolidated Statement Income of Cash Flows - Years Ended
+                 June 30, 1994, 1993 and 1992
+
+                 Notes to Consolidated Financial Statements
+
+(a)(2)           The following Financial Statement Schedules are presented on
+pages F-1 through F-2 of this Report:
+
+                 Schedule VIII -- Valuation and Qualifying Accounts
+
+                 Schedule IX -- Short-Term Borrowings
+
+
+
+
+
+                                       54
+<PAGE>   55
+All other schedules for which provision is made in the applicable accounting
+regulations of the Securities and Exchange Commission are not required under
+the related instructions or are inapplicable and, therefore, have been omitted.
+
+
+
+
+
+                                       55
+<PAGE>   56
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
+3(a)(1)          Restated Certificate of Incorporation of the Company filed with the New York Department of State on October 18,
+                 1965.  (Exhibit 2.2 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(2)          Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on August 12, 1966.  (Exhibit 2.3 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(3)          Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on August 19, 1968.  (Exhibit 2.4 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(4)          Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on November 20, 1968.  (Exhibit 2.5 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(5)          Certificate of Amendment of the Certificate of  Incorporation of the Company filed with the New York Department of
+                 State on August 18, 1969.  (Exhibit 2.6 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(6)          Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on February 1, 1972.  (Exhibit 2.7 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(7)          Certificate of Amendment of the Certificate of  Incorporation of the Company filed with the New York Department of
+                 State on May 14, 1973.  (Exhibit 3(a)(7) to the Company's Form 10-K Annual Report for the fiscal year ended June
+                 30, 1987, File No. 1-4596.)
+</TABLE>
+
+
+
+
+
+                                       56
+<PAGE>   57
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
+3(a)(8)          Certificate of Merger of Grow Chemical Company into the Company filed with the New York Department of State on
+                 January 14, 1975.  (Exhibit 3(a)(8) to the Company's Form 10-K Annual Report for the fiscal year ended June 30,
+                 1987, File No. 1-4596.)
+
+3(a)(9)          Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on June 1, 1976.  (Exhibit 3(a)(9) to the Company's Form 10-K Annual Report for the fiscal year ended June
+                 30, 1987, File No. 1-4596.)
+
+3(a)(10)         Certificate of Merger of Midland Adhesive and Chemical Corporation into the Company filed with the New York
+                 Department of State on June 29, 1976.  (Exhibit 3(a)(10) to the Company's Form 10-K Annual Report for the fiscal
+                 year ended June 30, 1987, File No. 1-4596.)
+
+3(a)(11)         Certificate of Amendment of the Certificate of  Incorporation of the Company filed with the New York Department of
+                 State on December 20, 1976.  (Exhibit 2.10 to Amendment No. 2 to the Company's Form S-7 Registration Statement,
+                 File No. 2-57632.)
+
+3(a)(12)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on January 17, 1977.  (Exhibit 2.11 to Amendment No. 2 to the Company's Form S-7 Registration Statement, File
+                 No. 2-57632.)
+
+3(a)(13)         Certificate of Correction filed with the New York Department of State on January 17, 1977.  (Exhibit 2.12 to
+                 Amendment No. 2 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(14)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on November 2, 1977.  (Exhibit 3(a)(14) to the Company's Form 10-K Annual Report for the fiscal year ended
+                 June 30, 1987, File No. 1-4596.)
+</TABLE>
+
+
+
+
+
+                                       57
+<PAGE>   58
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
+3(a)(15)         Certificate of Merger of Devoe & Raynolds Company, Inc., Grow Chemical Sealants Corp., Harris Paint Company and
+                 U.S. Paint, Lacquer & Chemical Company into the Company filed with the New York Department of State on June 26,
+                 1978.  (Exhibit 2.16 to the Company's Form S-7 Registration Statement, File No. 2-67686.)
+
+3(a)(16)         Certificate of Amendment of the Certificate of  Incorporation of the Company filed with the New York Department of
+                 State on April 20, 1979.  (Exhibit 3(a)(16) to the Company's Form 10-K Annual Report for the fiscal year ended June
+                 30, 1988, File No. 1-4596.)
+
+3(a)(17)         Certificate of Amendment of Certificate of     Incorporation of the Company filed with the New York Department of
+                 State on June 27, 1979.  (Exhibit 3(a)(17) to the Company's Form 10-K Annual Report for the fiscal year ended June
+                 30, 1988, File No. 1-4596.)
+
+3(a)(18)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on October 31, 1979.  (Exhibit 3(a)(18) to the Company's Form 10-K Annual Report for the fiscal year ended
+                 June 30, 1988, File No. 1-4596.)
+
+3(a)(19)         Certificate of Merger of Trewax Company into the Company filed with the New York Department of State on June 17,
+                 1980.  (Exhibit 4(a)(19) to the Company's Form S-16 Registration Statement, File No. 2-72089.)
+
+3(a)(20)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on June 25, 1980.  (Exhibit 3(a)(20) to the Company's Form 10-K Annual Report for the fiscal year ended June
+                 30, 1990, File No. 1-4596.)
+
+3(a)(21)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on February 6, 1986.  (Exhibit 3(a)(21) to the Company's Form 10-K Annual Report for the fiscal year ended
+                 June 30, 1986, File No. 1-4596.)
+</TABLE>
+
+
+
+
+
+                                       58
+<PAGE>   59
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
+3(a)(22)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State in October 1986.  Exhibit 3(a)(22) to Amendment No. 1 to the Company's Form 10-K Annual Report for the fiscal
+                 year ended June 30, 1987, File No. 1-4596.)
+
+3(a)(23)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on November 9, 1987. (Exhibit 4 to the Company's Form 10-Q Quarterly Report for the quarter ended September
+                 30, 1987, File No. 1-4596.)
+
+3(b)             By-Laws of the Company, as amended.  (Exhibit 3.2 to the Company's Current Report on Form 8-K, dated July 12, 1990,
+                 File No. 1-4596.)
+
+4(a)             Amended and Restated Rights Agreement, dated as of August 7, 1992, between the Company and The Bank of New York, as
+                 Rights Agent.  (Exhibit 1.1 to Amendment No. 1 to the Company's Registration Statement on Form 8-A, dated February
+                 23, 1988, File No. 1-4596.)
+
+4(b)(1)          Credit Agreement (the "Credit Agreement"), dated as of March 31, 1993, by and among the Company, Grow Group
+                 Insurance, Ltd., Chemical Bank New Jersey, N.A., Fleet Bank, PNC Bank, Kentucky, Inc. and Chemical Bank.  (Exhibit
+                 4.1 to the Company's Current Report on Form 8-K, date of earliest event reported:  March 31, 1993, File No.
+                 1-4596).
+
+4(b)(2)          Amendment No. 1, dated August 6, 1993, to the Credit Agreement, by and among the Company, Cello Corp., Ameritone
+                 Paint Corporation, Zynolyte Products Company, Chemical Bank New Jersey, N.A., Fleet Bank and PNC Bank, Kentucky,
+                 Inc. (Exhibit 4.1(b) to the Company's Current Report on Form 8-K, date of earliest event reported:  August 3, 1994,
+                 File No. 1-4596).
+</TABLE>
+
+
+
+
+
+                                       59
+<PAGE>   60
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
+4(b)(3)          Waiver, Consent and Amendment No. 2, dated August 3, 1994, to the Credit Agreement, by and among the Company, Grow
+                 Group Insurance, Ltd., Cello Corp., Sinclair Acquisition Corp. (formerly known as Ameritone Paint Corporation),
+                 Zynolyte Products Company, Chemical Bank New Jersey, N.A., Fleet Bank and PNC Bank, Kentucky, Inc. (Exhibit 4.1(c)
+                 to the Company's Current Report on Form 8-K, date of earliest event reported:  August 3, 1994, File No. 1-4596).
+
+**+10(a)(1)      Employment Agreement dated and effective as of October 31, 1992 between the Company and Russell Banks.
+
++10(a)(2)        Amended and Restated Employment Agreement dated effective as of September 15, 1988 between the Company and John F.
+                 Gleason.  (Exhibit 10(a)(2) to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1989, File
+                 No. 1-4596.)
+
++10(a)(3)(i)     Amended and Restated Employment Agreement dated effective as of September 15, 1988 between the Company and Joseph
+                 M. Quinn.  (Exhibit 10(a)(3) to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1989, File
+                 No. 1-4596.)
+
++10(a)(3)(ii)    Amendment No. 1 effective as of July 1, 1991 to Amended and Restated Employment Agreement dated effective as of
+                 September 15, 1988 between the Company and Joseph M. Quinn.  (Exhibit 10(a)(3)(ii) to the Company's Form 10-K
+                 Annual Report for the fiscal year ended June 30, 1992, File No. 1-4596.)
+
++10(a)(4)        Amended and Restated Employment Agreement dated effective as of September 15, 1988 between the Company and Lloyd
+                 Frank.  (Exhibit 10(a)(5) to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1989, File
+                 No. 1-4596.)
+</TABLE>
+
+
+
+
+
+                                       60
+<PAGE>   61
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
++10(a)(5)        Employment Agreement effective as of September  15, 1988 between the Company and Frank V. Esser.  (Exhibit 10(a)(7)
+                 to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1989, File No. 1-4596.)
+
++10(b)(1)        Amended and Restated 1976 Stock Option Incentive Plan.  (Exhibit 10(b) to the Company's Form 10-K Annual Report for
+                 the fiscal year ended June 30, 1989, File No. 1-4596.)
+
++10(b)(2)(i)     1990 Stock Option Incentive Plan.  (Exhibit 28 to the Company's Form S-8 Registration Statement, File No.
+                 33-41274.)
+
+**+10(b)(2)(ii)  1990 Stock Option Incentive Plan, as amended through August 18, 1994, which amendments are subject to shareholder
+                 approval.
+
++10(c)(1)        Form of Amended and Restated Supplemental Retirement and Death Benefit Agreement dated effective as of September
+                 15, 1988 between the Company and each of Russell Banks, John F. Gleason, Joseph M. Quinn and Lloyd Frank, together
+                 with a schedule setting forth the  material details in which each such agreement differs from the form filed
+                 herewith.  (Exhibit 10(c) to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1989, File
+                 No. 1-4596.)
+
++10(c)(2)        Supplemental Retirement and Death Benefits Agreement dated as of January 12, 1990, between the Company and Leslie
+                 Stott.  (Exhibit 10(c)(2) to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1990, File
+                 No. 1-4596.)
+
++10(d)           Amended and Restated Non-Employee Director Fee Continuation Plan.  (Exhibit 10(d) to the Company's Form 10-K Annual
+                 Report for the fiscal year ended June 30, 1989, File No. 1-4596.)
+
++10(e)           Fee Continuation Agreement dated as of September 15, 1988, between the Company and Robert J. Milano.  (Exhibit
+                 10(e)(ii) to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1992, File No. 1-4596.)
+</TABLE>
+
+
+
+
+
+                                       61
+<PAGE>   62
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
++10(f)           Grow Group, Inc. Management Incentive Compensation Program.  (Exhibit 10(i) to the Company's Form 10-K Annual
+                 Report for the fiscal year ended June 30, 1984, File No. 1-4596.)
+
+10(g)(1)         Stock Purchase Agreement dated July 21, 1992 by and among the Company, Corimon C.A. S.A.C.A. and Corimon
+                 Corporation.  (Exhibit 10(j)(i) to the Company's Current Report on Form 8-K dated July 27, 1992, File No. 1-4596.)
+
+10(g)(2)         Registration Rights Agreement dated August 7,  1992 by and between the Company and Corimon C.A. S.A.C.A.  (Exhibit
+                 10(j)(ii) to the Company's Current Report on Form 8-K dated August 12, 1992, File No. 1-4596.)
+
+10(g)(3)         Standstill Agreement dated July 21, 1992 by and among the Company, Corimon C.A. S.A.C.A. and Corimon Corporation.
+                 (Exhibit 10(j)(iii) to the Company's Current Report on Form 8-K dated July 27, 1992, File No. 1-4596.)
+
+10(g)(4)         Amendment dated May 24, 1993 to the Standstill Agreement.  (Exhibit 10(j)(iv) to the Company's Current Report on
+                 Form 8-K dated May 24, 1993, File No. 1-4596.)
+
+**10(h)          Coatings License Agreement dated as of March 24, 1993 by and between the Company and Montana, C.A.
+
+**10(i)          Coatings License Agreement dated as of April 21, 1993 by and between the Company and Montana, C.A.
+
+*11              Computation of Earnings Per Share.
+
+*22              Subsidiaries of Grow Group, Inc.
+
+*23              Consent of Independent Auditors.
+
+*27              Financial Data Schedule.
+
+**28             Grow Group, Inc. Employee Stock Ownership and Savings Plan Annual Report on Form 11-K for the year ended June 30,
+                 1992.
+</TABLE>
+
+- - - - - - - -----------------------------
+*   Filed herewith.
+**  To be filed by amendment.
++   Management contract or compensatory plan or arrangement.
+
+
+
+
+
+                                       62
+<PAGE>   63
+                 All exhibits, other than those filed herewith or to
+be filed by amendment, are incorporated herein by reference
+to the exhibit indicated in parenthetical references.
+
+                 (b)      Reports on Form 8-K
+                          -------------------
+
+                 During the fourth quarter of the Company's fiscal year ended
+June 30, 1994, the Company filed a Current Report on Form 8-K, date of earliest
+event reported:  May 7, 1994, reporting under Item 5, "Other Events."  No
+financial statements were filed with that Report.
+
+                                  UNDERTAKING
+
+                 The Company hereby undertakes to furnish to the Securities and
+Exchange Commission, upon request, all constituent instruments defining the
+rights of holders of long-term debt of the Company and its consolidated
+subsidiaries not filed herewith.  Such instruments have not been filed since
+none are, nor are being, registered under Section 12 of the Securities and
+Exchange Act of 1934 and the total amount of securities authorized under any of
+such instruments does not exceed 10% of the total assets of the Company and its
+subsidiaries on a consolidated basis.
+
+
+
+
+
+                                       63
+<PAGE>   64
+                 Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the Registrant has caused this Report to be
+signed on its behalf by the undersigned, thereunto duly authorized.
+
+                                           GROW GROUP, INC.
+
+Dated:  September 21, 1994        By:      RUSSELL BANKS
+                                           ------------------------
+                                           Russell Banks, President
+
+                 Pursuant to the requirements of the Securities Exchange Act of
+1934, this Report has been signed below by the following persons on behalf of
+the Registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+Signature                         Title                                      Date
+- - - - - - - ---------                         -----                                      ----
+<S>                       <C>                                       <C>
+RUSSELL BANKS             President (Principal Executive            September 21, 1994
+- - - - - - - -------------             Officer and Director)                                                            
+Russell Banks             
+
+FRANK V. ESSER            Treasurer (Chief Financial                September 21, 1994
+- - - - - - - --------------            Officer)                                                            
+Frank V. Esser            
+
+HAROLD G. BITTLE          Director                                  September 21, 1994
+- - - - - - - ----------------                                                                      
+Harold G. Bittle
+
+ARTHUR W. BROSLAT         Director                                  September 21, 1994
+- - - - - - - -----------------                                                                     
+Arthur W. Broslat
+
+PHILIPPE ERARD            Director                                  September 21, 1994
+- - - - - - - --------------                                                                        
+Philippe Erard
+
+LLOYD FRANK               Director                                  September 21, 1994
+- - - - - - - -----------                                                                           
+Lloyd Frank
+
+JOHN F. GLEASON           Director                                  September 21, 1994
+- - - - - - - ---------------                                                                       
+John F. Gleason
+
+PETER L. KEANE            Director                                  September 21, 1994
+- - - - - - - --------------                                                                        
+Peter L. Keane
+
+ANGUS MACDONALD           Director                                  September 21, 1994
+- - - - - - - ---------------                                                                       
+Angus MacDonald
+
+ROBERT J. MILANO          Director                                  September 21, 1994
+- - - - - - - ----------------                                                                      
+Robert J. Milano
+
+TULLY PLESSER             Director                                  September 21, 1994
+- - - - - - - -------------                                                                         
+Tully Plesser
+
+JOSEPH M. QUINN           Director                                  September 21, 1994
+- - - - - - - ---------------                                                                       
+Joseph M. Quinn
+
+WILLIAM H. TURNER         Director                                  September 21, 1994
+- - - - - - - -----------------                                                                     
+William H. Turner
+</TABLE>
+
+
+
+
+
+                                       64
+<PAGE>   65
+SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+GROW GROUP, INC. AND SUBSIDIARIES
+
+<TABLE>
+<CAPTION>
+- - - - - - - --------------------------------------------------------------------
+Col A        Col B              Col C            Col D       Col E  
+- - - - - - - --------------------------------------------------------------------
+                         ADDITIONS             
+            -----------------------------------
+
+Description  Balance at  Charged to  Charged to  Deductions  Balance
+             Beginning   Costs and   Other       Describe    End of
+             of Period   Expenses    Accounts-               Period
+                                      Describe                      
+- - - - - - - --------------------------------------------------------------------
+                                                   (a)
+<S>             <C>       <C>     <C>           <C>          <C>
+Deducted from
+ accounts
+ receivable:
+Allowance for
+ doubtful
+ accounts:
+
+Year ended
+June 30, 1994   $3,341    $2,089    $272 (b)    ($2,035)     $3,667 
+====================================================================
+
+Year ended
+June 30, 1993   $3,441    $2,586   ($100)(c)    ($2,586)     $3,341 
+====================================================================
+
+Year ended
+June 30, 1992   $3,962    $2,622   ($464)(d)    ($2,679)     $3,441 
+====================================================================
+</TABLE>
+
+
+(a)      Write-off of uncollectible accounts receivable less recoveries.
+(b)      Allowance for doubtful accounts of acquired company at acquisition
+         date.
+(c)      Reclassification to other accounts.
+(d)      Allownace for doubtful accounts of assets disposed of at disposal
+         date.
+
+
+
+
+
+                                      F-1
+<PAGE>   66
+SCHEDULE IX - SHORT-TERM BORROWINGS
+GROW GROUP, INC. AND SUBSIDIARIES
+
+<TABLE>
+<CAPTION>
+- - - - - - - --------------------------------------------------------------------
+Col. A        Col B        Col C      Col D      Col E(2)   Col F(3)
+- - - - - - - --------------------------------------------------------------------
+Category of   Balance at   Weighted   Maximum    Average    Weighted
+Aggregate     End of       Average    Amount     Amount     Average
+Short-Term    Period       Interest   Out-       Out-       Interest
+Borrowings                 Rate       standing   standing   Rate
+                                      During     During     During
+                                      the        the        the
+                                      Period     Period     Period  
+- - - - - - - --------------------------------------------------------------------
+<S>            <C>                 <C>          <C>         <C>
+Year Ended
+June 30, 1994
+ Loan payable
+ to Bank       $0                       $0        $0                
+====================================================================
+
+Year Ended
+June 30, 1993
+ Loan payable
+ to Bank       $0                       $0        $0                
+====================================================================
+
+Year Ended
+June 30, 1992
+ Loan payable
+ to Bank(1)    $0                  $5,000,000   $232,877    9.0%    
+====================================================================
+</TABLE>
+
+
+1)       The loan payable to bank was repaid July 17, 1991 and represented
+         borrowings under prior credit arrangements.
+
+2)       The average amount outstanding during the period was computed by
+         dividing the total daily outstanding principal balances by 365.
+
+3)       The weighted average interest rate during the period was computed by
+         dividing the actual interest expense by the average short-term
+         borrowings outstanding.
+
+
+
+
+
+                                      F-2
+<PAGE>   67
+        
+
+
+
+                                                                 File No. 1-4596
+
+
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                            Washington, D.C.  20549
+
+
+
+                          ---------------------------
+
+
+
+                                 ANNUAL REPORT
+
+                                       on
+
+                                   FORM 10-K
+
+                        FOR THE YEAR ENDED JUNE 30, 1994
+
+                                     under
+
+                    THE SECURITIES AND EXCHANGE ACT OF 1934
+
+
+                           --------------------------
+
+
+
+
+                                GROW GROUP, INC.
+             (Exact name of registrant as specified in its charter)
+
+
+
+
+
+                                    EXHIBITS
+                                    --------
+
+<PAGE>   68
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
+3(a)(1)          Restated Certificate of Incorporation of the Company filed with the New York Department of
+                 State on October 18, 1965.  (Exhibit 2.2 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(2)          Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on August 12, 1966.  (Exhibit 2.3 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(3)          Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on August 19, 1968.  (Exhibit 2.4 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(4)          Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on November 20, 1968.  (Exhibit 2.5 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(5)          Certificate of Amendment of the Certificate of  Incorporation of the Company filed with the New York Department of
+                 State on August 18, 1969.  (Exhibit 2.6 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(6)          Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on February 1, 1972.  (Exhibit 2.7 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(7)          Certificate of Amendment of the Certificate of  Incorporation of the Company filed with the New York Department of
+                 State on May 14, 1973.  (Exhibit 3(a)(7) to the Company's Form 10-K Annual Report for the fiscal year ended June
+                 30, 1987, File No. 1-4596.)
+</TABLE>
+<PAGE>   69
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
+3(a)(8)          Certificate of Merger of Grow Chemical Company into the Company filed with the New York Department of State on
+                 January 14, 1975.  (Exhibit 3(a)(8) to the Company's Form 10-K Annual Report for the fiscal year ended June 30,
+                 1987, File No. 1-4596.)
+
+3(a)(9)          Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on June 1, 1976.  (Exhibit 3(a)(9) to the Company's Form 10-K Annual Report for the fiscal year ended June
+                 30, 1987, File No. 1-4596.)
+
+3(a)(10)         Certificate of Merger of Midland Adhesive and Chemical Corporation into the Company filed with the New York
+                 Department of State on June 29, 1976.  (Exhibit 3(a)(10) to the Company's Form 10-K Annual Report for the fiscal
+                 year ended June 30, 1987, File No. 1-4596.)
+
+3(a)(11)         Certificate of Amendment of the Certificate of  Incorporation of the Company filed with the New York Department of
+                 State on December 20, 1976.  (Exhibit 2.10 to Amendment No. 2 to the Company's Form S-7 Registration Statement,
+                 File No. 2-57632.)
+
+3(a)(12)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on January 17, 1977.  (Exhibit 2.11 to Amendment No. 2 to the Company's Form S-7 Registration Statement, File
+                 No. 2-57632.)
+
+3(a)(13)         Certificate of Correction filed with the New York Department of State on January 17, 1977.  (Exhibit 2.12 to
+                 Amendment No. 2 to the Company's Form S-7 Registration Statement, File No. 2-57632.)
+
+3(a)(14)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on November 2, 1977.  (Exhibit 3(a)(14) to the Company's Form 10-K Annual Report for the fiscal year ended
+                 June 30, 1987, File No. 1-4596.)
+</TABLE>
+<PAGE>   70
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
+3(a)(15)         Certificate of Merger of Devoe & Raynolds Company, Inc., Grow Chemical Sealants Corp., Harris Paint Company and
+                 U.S. Paint, Lacquer & Chemical Company into the Company filed with the New York Department of State on June 26,
+                 1978.  (Exhibit 2.16 to the Company's Form S-7 Registration Statement, File No. 2-67686.)
+
+3(a)(16)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on April 20, 1979.  (Exhibit 3(a)(16) to the Company's Form 10-K Annual Report for the fiscal year ended June
+                 30, 1988, File No. 1-4596.)
+
+3(a)(17)         Certificate of Amendment of Certificate of Incorporation of the Company filed with the New York Department of
+                 State on June 27, 1979.  (Exhibit 3(a)(17) to the Company's Form 10-K Annual Report for the fiscal year ended June
+                 30, 1988, File No. 1-4596.)
+
+3(a)(18)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on October 31, 1979.  (Exhibit 3(a)(18) to the Company's Form 10-K Annual Report for the fiscal year ended
+                 June 30, 1988, File No. 1-4596.)
+
+3(a)(19)         Certificate of Merger of Trewax Company into the Company filed with the New York Department of State on June 17,
+                 1980.  (Exhibit 4(a)(19) to the Company's Form S-16 Registration Statement, File No. 2-72089.)
+
+3(a)(20)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on June 25, 1980.  (Exhibit 3(a)(20) to the Company's Form 10-K Annual Report for the fiscal year ended June
+                 30, 1990, File No. 1-4596.)
+
+3(a)(21)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on February 6, 1986.  (Exhibit 3(a)(21) to the Company's Form 10-K Annual Report for the fiscal year ended
+                 June 30, 1986, File No. 1-4596.)
+</TABLE>
+<PAGE>   71
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
+3(a)(22)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State in October 1986.  Exhibit 3(a)(22) to Amendment No. 1 to the Company's Form 10-K Annual Report for the fiscal
+                 year ended June 30, 1987, File No. 1-4596.)
+
+3(a)(23)         Certificate of Amendment of the Certificate of Incorporation of the Company filed with the New York Department of
+                 State on November 9, 1987. (Exhibit 4 to the Company's Form 10-Q Quarterly Report for the quarter ended September
+                 30, 1987, File No. 1-4596.)
+
+3(b)             By-Laws of the Company, as amended.  (Exhibit 3.2 to the Company's Current Report on Form 8-K, dated July 12, 1990,
+                 File No. 1-4596.)
+
+4(a)             Amended and Restated Rights Agreement, dated as of August 7, 1992, between the Company and The Bank of New York, as
+                 Rights Agent.  (Exhibit 1.1 to Amendment No. 1 to the Company's Registration Statement on Form 8-A, dated February
+                 23, 1988, File No. 1-4596.)
+
+4(b)(1)          Credit Agreement (the "Credit Agreement"), dated as of March 31, 1993, by and among the Company, Grow Group
+                 Insurance, Ltd., Chemical Bank New Jersey, N.A., Fleet Bank, PNC Bank, Kentucky, Inc. and Chemical Bank.  (Exhibit
+                 4.1 to the Company's Current Report on Form 8-K, date of earliest event reported:  March 31, 1993, File No.
+                 1-4596).
+
+4(b)(2)          Amendment No. 1, dated August 6, 1993, to the Credit Agreement, by and among the Company, Cello Corp., Ameritone
+                 Paint Corporation, Zynolyte Products Company, Chemical Bank New Jersey, N.A., Fleet Bank and PNC Bank, Kentucky,
+                 Inc. (Exhibit 4.1(b) to the Company's Current Report on Form 8-K, date of earliest event reported:  August 3, 1994,
+                 File No. 1-4596).
+</TABLE>
+<PAGE>   72
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
+4(b)(3)          Waiver, Consent and Amendment No. 2, dated August 3, 1994, to the Credit Agreement, by and among the Company, Grow
+                 Group Insurance, Ltd., Cello Corp., Sinclair Acquisition Corp. (formerly known as Ameritone Paint Corporation),
+                 Zynolyte Products Company, Chemical Bank New Jersey, N.A., Fleet Bank and PNC Bank, Kentucky, Inc. (Exhibit 4.1(c)
+                 to the Company's Current Report on Form 8-K, date of earliest event reported:  August 3, 1994, File No. 1-4596).
+
+**+10(a)(1)      Employment Agreement dated and effective as of October 31, 1992 between the Company and Russell Banks.
+
++10(a)(2)        Amended and Restated Employment Agreement dated effective as of September 15, 1988 between the Company and John F.
+                 Gleason.  (Exhibit 10(a)(2) to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1989, File
+                 No. 1-4596.)
+
++10(a)(3)(i)     Amended and Restated Employment Agreement dated effective as of September 15, 1988 between the Company and Joseph
+                 M. Quinn.  (Exhibit 10(a)(3) to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1989, File
+                 No. 1-4596.)
+
++10(a)(3)(ii)    Amendment No. 1 effective as of July 1, 1991 to Amended and Restated Employment Agreement dated effective as of
+                 September 15, 1988 between the Company and Joseph M. Quinn.  (Exhibit 10(a)(3)(ii) to the Company's Form 10-K
+                 Annual Report for the fiscal year ended June 30, 1992, File No. 1-4596.)
+
++10(a)(4)        Amended and Restated Employment Agreement dated effective as of September 15, 1988 between the Company and Lloyd
+                 Frank.  (Exhibit 10(a)(5) to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1989, File
+                 No. 1-4596.)
+</TABLE>
+<PAGE>   73
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
++10(a)(5)        Employment Agreement effective as of September  15, 1988 between the Company and Frank V. Esser.  (Exhibit 10(a)(7)
+                 to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1989, File No. 1-4596.)
+
++10(b)(1)        Amended and Restated 1976 Stock Option Incentive Plan.  (Exhibit 10(b) to the Company's Form 10-K Annual Report for
+                 the fiscal year ended June 30, 1989, File No. 1-4596.)
+
++10(b)(2)(i)     1990 Stock Option Incentive Plan.  (Exhibit 28 to the Company's Form S-8 Registration Statement, File No.
+                 33-41274.)
+
+**+10(b)(2)(ii)  1990 Stock Option Incentive Plan, as amended through August 18, 1994, which amendments are subject to shareholder
+                 approval.
+
++10(c)(1)        Form of Amended and Restated Supplemental Retirement and Death Benefit Agreement dated effective as of September
+                 15, 1988 between the Company and each of Russell Banks, John F. Gleason, Joseph M. Quinn and Lloyd Frank, together
+                 with a schedule setting forth the  material details in which each such agreement differs from the form filed
+                 herewith.  (Exhibit 10(c) to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1989, File
+                 No. 1-4596.)
+
++10(c)(2)        Supplemental Retirement and Death Benefits Agreement dated as of January 12, 1990, between the Company and Leslie
+                 Stott.  (Exhibit 10(c)(2) to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1990, File
+                 No. 1-4596.)
+
++10(d)           Amended and Restated Non-Employee Director Fee Continuation Plan.  (Exhibit 10(d) to the Company's Form 10-K Annual
+                 Report for the fiscal year ended June 30, 1989, File No. 1-4596.)
+
++10(e)           Fee Continuation Agreement dated as of September 15, 1988, between the Company and Robert J. Milano.  (Exhibit
+                 10(e)(ii) to the Company's Form 10-K Annual Report for the fiscal year ended June 30, 1992, File No. 1-4596.)
+</TABLE>
+<PAGE>   74
+<TABLE>
+<CAPTION>
+Exhibit
+Number                                                       Description
+- - - - - - - -------                                                      -----------
+<S>              <C>
++10(f)           Grow Group, Inc. Management Incentive Compensation Program.  (Exhibit 10(i) to the Company's Form 10-K Annual
+                 Report for the fiscal year ended June 30, 1984, File No. 1-4596.)
+
+10(g)(1)         Stock Purchase Agreement dated July 21, 1992 by and among the Company, Corimon C.A. S.A.C.A. and Corimon
+                 Corporation.  (Exhibit 10(j)(i) to the Company's Current Report on Form 8-K dated July 27, 1992, File No. 1-4596.)
+
+10(g)(2)         Registration Rights Agreement dated August 7,  1992 by and between the Company and Corimon C.A. S.A.C.A.  (Exhibit
+                 10(j)(ii) to the Company's Current Report on Form 8-K dated August 12, 1992, File No. 1-4596.)
+
+10(g)(3)         Standstill Agreement dated July 21, 1992 by and among the Company, Corimon C.A. S.A.C.A. and Corimon Corporation.
+                 (Exhibit 10(j)(iii) to the Company's Current Report on Form 8-K dated July 27, 1992, File No. 1-4596.)
+
+10(g)(4)         Amendment dated May 24, 1993 to the Standstill Agreement.  (Exhibit 10(j)(iv) to the Company's Current Report on
+                 Form 8-K dated May 24, 1993, File No. 1-4596.)
+
+**10(h)          Coatings License Agreement dated as of March 24, 1993 by and between the Company and Montana, C.A.
+
+**10(i)          Coatings License Agreement dated as of April 21, 1993 by and between the Company and Montana, C.A.
+
+*11              Computation of Earnings Per Share.
+
+*22              Subsidiaries of Grow Group, Inc.
+
+*23              Consent of Independent Auditors.
+
+*27              Financial Data Schedule.
+
+**28             Grow Group, Inc. Employee Stock Ownership and Savings Plan Annual Report on Form 11-K for the year ended June 30,
+                 1992.
+</TABLE>
+
+- - - - - - - -----------------------------
+*   Filed herewith.
+**  To be filed by amendment.
++   Management contract or compensatory plan or arrangement.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<DESCRIPTION>COMPUTATION OF EARNINGS PER SHARE
+<TEXT>
+
+<PAGE>   1
+
+
+                                                                      Exhibit 11
+GROW GROUP, INC. AND SUBSIDIARIES
+COMPUTATION OF EARNINGS PER SHARE
+(In thousands except per share amounts)
+
+<TABLE>
+<CAPTION>
+                                          Year Ended
+                                 1994        1993         1992    
+                              ------------------------------------
+<S>                          <C>          <C>          <C>
+Primary:
+Average shares outstanding    16,061,000   13,781,000   11,686,000
+Dilutive stock options
+  based on the treasury
+  stock method using the
+  average market price            45,000       69,000       19,000
+                              ------------------------------------
+                              16,106,000   13,850,000   11,705,000
+                              ====================================
+Income (loss) from
+  continuing operations      $14,056,000  $10,842,000   $7,502,000
+Discontinued operations                     2,080,000    1,630,000
+Extraordinary item                           (450,000)            
+                              ------------------------------------
+income (loss)                $14,056,000  $12,472,000   $9,132,000
+                              ====================================
+
+Per share:
+Income (loss) from
+  continuing operations             $.87         $.78         $.64
+Discontinued operations                           .15          .14
+Extraordinary item                               (.03)         .00
+                              ------------------------------------
+Net income (loss)                   $.87         $.90         $.78
+                              ====================================
+
+Fully diluted:
+Average shares outstanding                 13,781,000   11,686,000
+  dilutive stock options
+  based on the treasury
+  stock method using the
+  higher of period-end or
+  average market price                        100,312       57,000
+Assumed conversion of
+  convertible subordinated
+  debt                                      1,974,000    2,062,000
+                              ------------------------------------
+                                           15,855,312   13,805,000
+                              ====================================
+Income (loss) before                      $10,842,000  $ 7,502,000
+  extraordinary item
+
+Add back interest and
+  finance charges net of
+  taxes on subordinated
+  debt                                      1,307,000    1,357,000
+                              ------------------------------------
+
+Income (loss) from
+  continuing operations                    12,149,000    8,859,000
+Discontinued operations                     2,080,000    1,630,000
+Extraordinary item                           (450,000)           0
+                              ------------------------------------
+Net income (loss)                         $13,779,000  $10,489,000
+                              ====================================
+Per share:
+Income (loss) from
+  continuing operation                           $.77         $.64
+Discontinued operation                            .13          .12
+Extraordinary item                               (.03)         .00
+                              ------------------------------------
+Net income (loss)                                $.87         $.76
+                              ====================================
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-22
+<SEQUENCE>3
+<DESCRIPTION>SUBSIDIARIES OF GROW GROUP, INC.
+<TEXT>
+
+<PAGE>   1
+
+
+                                                                      EXHIBIT 22
+
+
+                        Subsidiaries of Grow Group, Inc.
+
+
+         Set forth below is a list of active subsidiaries of Grow Group, Inc.
+and their jurisdictions of incorporation.  All of these subsidiaries are
+wholly-owned.  All are included in the consolidated financial statements of the
+Company filed with this Report.  Certain other subsidiaries have been omitted
+as they do not, if considered in the aggregate as a single subsidiary,
+constitute a significant subsidiary.
+
+
+<TABLE>
+<CAPTION>
+                                                            Jurisdiction
+Name of Subsidiary                                          of Incorporation           
+- - - - - - - ------------------------------------                        ---------------------------
+<S>                                                                 <C>
+Sinclair-Ameritone Paint Corporation,
+(formerly known as Ameritone Paint
+ Corporation)                                                       California
+Cello Corp.                                                         Maryland
+Devoe Coatings B.V.                                                 Netherlands
+Zynolyte Products Company                                           California
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>4
+<DESCRIPTION>CONSENT OF INDEPENDENT AUDITORS
+<TEXT>
+
+<PAGE>   1
+
+
+                                                                      EXHIBIT 23
+
+
+
+                        CONSENT OF INDEPENDENT AUDITORS
+
+
+We consent to the incorporation by reference in Registration Statement Nos.
+33-41274, 33-25754 (the Prospectus which also relates to Registration Statement
+No. 2-65961), 33-25755 (the Prospectus which also relates to Registration
+Statement No. 2-91262) and 33-22923 (the Prospectus which also relates to
+Registration Statement Nos. 2-62814 and 2-58185) on the related Forms S-8 filed
+by Grow Group, Inc. on June 18, 1991, November 23, 1988, November 23, 1988 and
+July 11, 1988, respectively, of our report on the consolidated financial
+statements and schedules of Grow Group, Inc. for the year ended June 30, 1994.
+
+
+
+                                            ERNST & YOUNG LLP
+
+
+
+New York, New York
+September 23, 1994
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1994
+<PERIOD-END>                               JUN-30-1994
+<CASH>                                      38,816,000
+<SECURITIES>                                         0
+<RECEIVABLES>                               73,289,000
+<ALLOWANCES>                                 3,667,000
+<INVENTORY>                                 62,903,000
+<CURRENT-ASSETS>                           187,393,000
+<PP&E>                                      99,331,000
+<DEPRECIATION>                              48,524,000
+<TOTAL-ASSETS>                             247,921,000
+<CURRENT-LIABILITIES>                       80,146,000
+<BONDS>                                              0
+<COMMON>                                     1,627,000
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                 137,056,000
+<TOTAL-LIABILITY-AND-EQUITY>               247,921,000
+<SALES>                                    401,818,000
+<TOTAL-REVENUES>                           401,818,000
+<CGS>                                      255,875,000
+<TOTAL-COSTS>                              377,583,000
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                             2,089,000
+<INTEREST-EXPENSE>                             897,000
+<INCOME-PRETAX>                             24,235,000
+<INCOME-TAX>                                10,179,000
+<INCOME-CONTINUING>                         14,056,000
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                14,056,000
+<EPS-PRIMARY>                                      .87
+<EPS-DILUTED>                                      .87
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

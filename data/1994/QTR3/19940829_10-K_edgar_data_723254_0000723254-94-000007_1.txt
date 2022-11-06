@@ -1,0 +1,2663 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ BZ8pwTLBGqH75ktnLNakXyB8CprPjtJamYBFHTw4velLhY8w8s1fW+wh5TuILJYs
+ pb64VePSjcajonb9Psljtg==
+
+<IMS-DOCUMENT>0000723254-94-000007.txt : 19940908
+<IMS-HEADER>0000723254-94-000007.hdr.sgml : 19940908
+ACCESSION NUMBER:		0000723254-94-000007
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19940531
+FILED AS OF DATE:		19940829
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CINTAS CORP
+		CENTRAL INDEX KEY:			0000723254
+		STANDARD INDUSTRIAL CLASSIFICATION:	2320
+		IRS NUMBER:				311188630
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-11399
+		FILM NUMBER:		94547051
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6800 CINTAS BLVD PO BOX 625737
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45262
+		BUSINESS PHONE:		5134591200
+
+	MAIL ADDRESS:	
+		STREET 1:		6800 CINTAS BOULEVARD
+		STREET 2:		P O BOX 625737
+		CITY:			CINCINNATI
+		STATE:			OH
+		ZIP:			45262
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>10-KFINAL
+<TEXT>
+
+     
+     
+     
+     
+     
+     
+     
+     
+                                        August 26, 1994
+     
+     
+     
+     
+     
+     
+     1934 Act Filing Desk
+     Securities and Exchange
+       Commission
+     450 Fifth Street, N.W.
+     Washington, D.C.  20549
+     
+     Dear Sir or Madam:
+     
+            RE:  Cintas Corporation/File No. 011399
+     
+     
+          I am transmitting Cintas Corporation's Annual Report on Form
+     10-K for the fiscal year ended May 31, 1994.  A check in the
+     amount of $250 has been wire transferred.
+     
+          The financial statements in he Report do not reflect a change
+     from the preceding year in any accounting principles or practices
+     or in he method of applying any such principles or practices.
+     
+          By separate letter, three (3) complete copies of the
+     Company's Annual Report on Form 10-K are being filed with the
+     NASDAQ Stock Market.
+     
+          Contact the undersigned with any questions or comments.
+     
+                                        Very truly yours,
+     
+                                        CINTAS CORPORATION
+     
+     
+                                        Rhonda Fox
+                                        Field Controller
+     
+     
+          <PAGE>
+             SECURITIES AND EXCHANGE COMMISSION
+                       Washington, D.C.  20549
+                             FORM 10-K
+     
+           ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF 
+       X   THE SECURITIES EXCHANGE ACT OF 1934  For the Fiscal  
+      ---- Year Ended May 31, 1994
+     
+           TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)  
+      ---- OFTHE SECURITIES EXCHANGE ACT OF 1934
+     
+     Commission File No. 0-11399
+                       CINTAS CORPORATION
+      (Exact name of registrant as specified in its charter)
+     Incorporated under                     IRS Employer ID
+     the Laws of Washington                  No. 31-1188630
+     (State or other juris-
+     diction of incorporation 
+     or organization)       6800 Cintas Boulevard 
+                            P.O. Box 625737
+                            Cincinnati, Ohio  45262-5737
+                            Phone:  (513)  459-1200
+                    (Address of principal executive offices)
+     
+     Securities Registered Pursuant to Section 12(b) of the Act:
+     
+                              None
+     
+     Securities Registered Pursuant to Section 12(g) of the Act:
+     
+                    Common Stock, No Par Value
+                       (Title of class)
+     
+     Indicate by check mark whether the Registrant (1) has filed all
+     reports required to be filed by Section 13 or 15(d) of the
+     Securities Exchange Act of 1934 during the preceding 12 months,
+     and (2) has been subject to such filing requirements for the past
+     90 days.
+     
+                      YES              NO
+     
+                       X                
+     
+     Indicate by check mark if disclosure of delinquent filers pursuant
+     to Item 405 of Regulation S-K is not contained herein, and will
+     not be contained to the best of the Registrant's knowledge, in
+     definitive proxy or information statements incorporated by
+     reference in Part III of this Form 10-K or any amendment to the
+     Form 10-K.
+     
+                      YES              NO
+     
+                                       X  
+     
+     The aggregate market value of Common Stock held by nonaffiliates
+     is $853,177,973, based on a closing price of $31.50 on August 12,
+     1994.  As of August 12, 1994, 46,855,514 shares of no par value
+     Common Stock were issued and outstanding.
+               Documents Incorporated by Reference
+     
+     Portions of the Registrant's Annual Report to Shareholders for
+     1994 furnished to the Commission pursuant to Rule 14a-3(b) and
+     portions of the Registrant's Proxy Statement to be filed with the
+     Commission for its 1994 annual meeting are incorporated by
+     reference in Parts I, II and III as specified.
+     
+                     Page 1 of 48 Pages
+               Exhibit Index Appears on Page 19
+     
+     <PAGE>
+                    CINTAS CORPORATION
+                  INDEX TO ANNUAL REPORT
+                      ON FORM 10-K
+     
+     
+                                                       Page
+     
+     Part I
+     
+        Item 1 - Business                               3
+        Item 2 - Properties                             4
+        Item 3 - Legal Proceedings                      6
+        Item 4 - Submission of Matters to a Vote 
+                 of Security Holders                    6
+     
+     Part II
+     
+        Item 5 - Market for Registrant's Common 
+               Equity and Related Stockholder Matters   6
+     
+        Item 6 - Selected Financial Data                6
+        Item 7 - Management's Discussion and 
+                 Analysis of Financial                  6
+                 Condition and Results of Operations
+        Item 8 - Financial Statements and Supplementary 
+                 Data                                   7
+        Item 9 - Changes in and Disagreements with 
+                 Accountants on Accounting and 
+                 Financial Disclosure                   7
+     
+     Part III
+     
+        Item 10 - Directors and Executive Officers 
+                  of the Registrant                     7
+        Item 11 - Executive Compensation                7
+        Item 12 - Security Ownership of Certain 
+                  Beneficial Owners and Management      7
+                  
+        Item 13 - Certain Relationships and Related 
+                  Transactions                          7
+     
+     Part IV
+     
+        Item 14 - Exhibits, Financial Statement Schedules 
+                  and Reports on Form 8-K               7 
+                             -2-
+     <PAGE>
+                           PART I
+     
+                           ITEM 1.
+     
+                          BUSINESS
+     
+     The business discussion found on pages 2 through 9 of the
+     Registrant's Annual Report to Shareholders for 1994 is
+     incorporated herein by reference.  Information regarding revenues
+     from products and services, the number of employees and
+     competition are listed or described below:
+     
+     The table sets forth the revenues derived from each service
+     provided by Cintas.
+     
+                                       Year Ended May 31,
+                                    1994     1993      1992
+                                      (Amount in Thousands)
+     
+     Uniform Rental             $351,495  $307,904  $274,639
+     Uniform Sales                58,294    47,853    48,400
+     Non-Uniform Rentals         108,360    92,368    74,772
+     Other                         5,067     4,597     3,752
+                                --------  --------  --------
+                                $523,216  $452,722   $401,563
+     
+                                ========  ========   =======
+     The Company was organized as an Ohio corporation in 1929 and
+     changed its state of incorporation to Washington in 1986.  At May
+     31, 1994, the Company employed 8,581 employees of which 111 are
+     represented by labor unions.  The Company considers its
+     relationship with its employees to be satisfactory.
+     
+     Cintas provides a highly specialized service to businesses of all
+     types - from small service companies to major corporations that
+     employ thousands of people.  The Company designs, manufactures and
+     implements corporate identity uniform programs throughout the
+     United States.
+     
+     The rental markets served by the Company are highly fragmented and
+     competition for this business varies at each of the Company's
+     locations.  There are other companies in the uniform rental
+     business which have financial resources comparable to those of the
+     Company, although much of the competition consists of smaller
+     local and regional firms.  In certain instances, local competitors
+     may also have financial resources comparable to those deployed by
+     the Company in a particular market.
+     
+     The service provided to the rental markets served by the Company
+     principally consists of the rental and cleaning of uniforms as
+     well as providing on-going uniform upgrades to each customer.  The
+     Company also offers ancillary products which includes the rental
+     or sale of walk-off mats, fender covers, towels, mops and linen
+     products.  
+     
+     Due to its diverse customer base and average size account, the
+     loss of one account would not have a significant financial impact
+     on the Company.
+     
+     In its sale of customized uniforms, Cintas competes on a national
+     basis with other uniform suppliers and manufacturers, some of
+     which have financial resources comparable to the Company's.
+     
+     The Company operates four manufacturing facilities which provide
+     for a substantial amount of standard uniform needs.  Additional
+     products needed are purchased from one of several outside
+     suppliers.  Because of the Company's ability to manufacture much
+     of its own uniform needs, the loss of one vendor would not have
+     a significant effect on the Company.  In regard to the
+     availability of fabric for the manufacturing process, the Company
+     purchases fabric from several suppliers.  The Company is not aware
+     of any circumstances which would hinder its ability to obtain
+     these materials.
+     
+     The Company is not aware of any non-compliances with environmental
+     laws or any material capital expenditures for environmental
+     controls that have a material effect on its financial condition.
+     
+     The Company believes that the primary competitive factors that
+     affect its operations are quality, service, design and price, in
+     that order.
+                                    -3-
+     <PAGE>
+                               ITEM 2.
+     
+                             PROPERTIES
+     
+     The Company currently occupies 102 facilities located in 96
+     cities.  The corporate offices provide centrally located
+     administrative functions including accounting, finance, marketing
+     and data processing.  The Company operates processing plants that
+     house administrative, sales and service personnel and the
+     necessary equipment involved in the cleaning of uniforms and bulk
+     items.  Branch operations provide administrative, sales and
+     service functions.  Cintas operates two distribution facilities
+     and has four manufacturing plants, two of which produce uniform
+     trousers and two producing uniform shirts.  The Company considers
+     the facilities it operates to be adequate for their intended use. 
+     The Company owns or leases 2,150 vehicles.  
+     
+     The following chart provides additional information concerning
+     Cintas' facilities:
+     
+           Location            Type of Facility
+           --------            ----------------
+     Cincinnati, Ohio       Corporate Offices, National 
+                            Account Division, Distribution
+                            Center
+     Akron, Ohio            Processing Plant
+     Ashland, Kentucky      Processing Plant
+     Atlanta, Georgia       Processing Plant
+     Augusta, Georgia       Processing Plant
+     Austin, Texas          Processing Plant
+     Baltimore, Maryland    Processing Plant
+     Baton Rouge, Louisiana Processing Plant
+     Beaumont, Texas        Processing Plant
+     Birmingham, Alabama    Branch*
+     Boston, Massachusetts  Processing Plant
+     Buffalo, New York      Processing Plant*
+     Charlotte, North Carolina   Branch*
+     Chicago(South), Illinois  Processing Plant
+     Chicago(North), Illinois  Processing Plant
+     Cincinnati, Ohio        Processing Plant
+     Clay City, Kentucky     Manufacturing Facility*
+     Cleveland (West), Ohio  Processing Plant
+     Cleveland (East), Ohio  Processing Plant
+     Colorado Springs, Colorado    Branch*
+     Columbia, South Carolina  Processing Plant*
+     Columbus, Ohio           Processing Plant
+     Corpus Christi, Texas    Branch*
+     Dallas, Texas            Processing Plant
+     Dayton, Ohio             Processing Plant
+     Decatur, Georgia         Processing Plant
+     Denver, Colorado         Processing Plant*
+     Detroit, Michigan        Processing Plant
+     Evansville, Indiana      Branch*
+     Everett, Washington      Branch
+     Flint, Michigan          Branch*
+     Fort Smith, Arkansas     Processing Plant*
+     Grand Rapids, Michigan   Branch*
+     Greenville, South Carolina   Processing Plant
+     Greenwood, Mississippi   Branch*
+     Gulfport, Mississippi    Branch*
+     Hammond, Louisiana       Branch
+     Harrison, Arkansas       Branch*
+     Houston, Texas           Processing Plant
+     Indianapolis, Indiana    Branch*
+     Jackson, Mississippi     Branch*
+     Kansas City, Kansas      Processing Plant
+     Lafayette, Louisiana     Branch
+     Lake Charles, Louisiana  Processing Plant
+                         -4-     
+     <PAGE>
+     
+     Las Vegas, Nevada        Processing Plant
+     Lexington, Kentucky      Processing Plant
+     Little Rock, Arkansas    Branch*
+     Long Island, New York    Branch*
+     Los Angeles, California  Processing Plant
+     Louisville, Kentucky     Processing Plant
+     Lufkin, Texas            Branch
+     Madison, Alabama         Branch*
+     Madison, Wisconsin       Processing Plant
+     McAllen, Texas           Branch*
+     Memphis, Tennessee       Branch*
+     Miami, Florida           Processing Plant
+     Milwaukee, Wisconsin     Branch*
+     Mobile, Alabama          Branch*
+     Mt. Vernon, Kentucky     Manufacturing Facility*
+     Nashville, Tennessee     Processing Plant
+     New Haven, Connecticut   Processing Plant
+     New Orleans, Louisiana   Processing Plant
+     Oklahoma City, Oklahoma  Processing Plant
+     Orange, California       Branch*
+     Orlando, Florida         Processing Plant
+     Owingsville, Kentucky    Manufacturing Facility*
+     Perry, Kentucky          Manufacturing Facility*
+     Philadelphia, Pennsylvania   Processing Plant
+     Phoenix, Arizona         Branch*
+     Piscataway, New Jersey   Processing Plant
+     Pittsburgh, Pennsylvania Processing Plant
+     Portland, Maine          Branch
+     Portland, Oregon         Branch*
+     Portland, Oregon         Processing Plant
+     Reno, Nevada             Distribution Center*
+     Richmond, Virginia       Processing Plant
+     Sacramento, California   Branch*
+     San Antonio, Texas       Processing Plant
+     San Diego, California    Processing Plant
+     San Francisco(West), California   Branch*
+     San Francisco (East), California    Processing Plant*
+     San Jose, California      Processing Plant
+     Seattle, Washington       Processing Plant*
+     Shreveport, Louisiana     Processing Plant
+     Springdale, Arkansas      Processing Plant
+     Springfield, Missouri     Branch*
+     Tacoma, Washington        Branch*
+     Tampa, Florida            Processing Plant
+     Thibodaux, Louisiana      Processing Plant
+     Tulsa (North), Oklahoma   Processing Plant
+     Tulsa (South), Oklahoma   Processing Plant
+     Tuscaloosa, Alabama       Processing Plant
+     Tyler, Texas              Branch*
+     Victoria, Texas           Processing Plant
+     Vidalia, Georgia          Processing Plant                
+     Walden, New York          Branch*
+     Washington, D.C.          Processing Plant
+     Westland, Michigan        Processing Plant
+     West Palm Beach, Florida  Branch*
+     Wichita, Kansas           Branch*
+     Winston-Salem, North Carolina   Processing Plant
+     Youngstown, Ohio          Branch*
+     
+     *Leased for various terms ranging from monthly to 2019.  The
+     Company expects that it will be able to renew its leases on
+     satisfactory terms.  All other properties are owned.
+                              -5-
+     <PAGE>
+     
+                             ITEM 3.
+     
+                        LEGAL PROCEEDINGS
+     
+     In December 1992, the Company was served with an "Imminent and
+     Substantial Endangerment and Remedial Action Order" (the "Order")
+     by the California Department of Toxic Substances Control relating
+     to the facility leased by the Company in San Leandro, California. 
+     The Order requires Cintas and three other allegedly responsible
+     parties to respond to alleged soil and groundwater contamination
+     at and around the San Leandro facility.  Details surrounding the
+     claim are not yet known, and it is not possible at this time to
+     estimate the loss or range of loss associated with the claim. 
+     Based on information that has been made available to the Company,
+     however, it is not believed that the matter will have a material
+     adverse affect on the Company's financial condition or results of
+     its operations.
+     
+     The Company is also a party to incidental litigation brought in
+     the ordinary course of business, none of which individually or in
+     the aggregate, is considered to be material to its operations or
+     financial condition.  Cintas maintains insurance coverage against
+     certain liabilities that it may incur in its operations from time
+     to time.
+     
+     
+                                  ITEM 4.
+     
+         SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+     
+     None in the fourth quarter of fiscal 1994.
+     
+                                  PART II
+     
+                                   ITEM 5.
+     
+                  MARKET FOR REGISTRANT'S COMMON EQUITY
+                     AND RELATED STOCKHOLDER MATTERS
+     
+     "Market for Registrant's Common Stock and Related Security Holder
+     Matters" on page 25   of the Registrant's Annual Report to
+     Shareholders for 1994 is incorporated herein by reference. 
+     Dividend information is incorporated by reference to the
+     Consolidated Statement of Shareholders' Equity on page 13. 
+     Dividends on the outstanding Common Stock are paid annually and
+     amounted to $.17 and $.14 per share in fiscal 1994 and 1993,
+     respectively.
+     
+                                   ITEM 6.
+     
+                         SELECTED FINANCIAL DATA
+     
+     The "Eleven Year Financial Summary" on page 1 of the Registrant's
+     Annual Report to Shareholders for 1994 is incorporated herein by
+     reference.
+     
+                                   ITEM 7.
+     
+                 MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+              FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+     
+     "Management's Discussion and Analysis of Financial Condition and
+     Results of Operations" commencing on page 22 of the Registrant's
+     Annual Report to Shareholders for 1994 is incorporated herein by
+     reference.
+     
+                                  ITEM 8.
+     
+               FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+     
+     The following Financial Statements of the Registrant shown on
+     pages 11 through 21 of its Annual Report to Shareholders for 1994
+     are incorporated herein by reference:
+                                   -6-     
+     <PAGE>
+     
+     Consolidated Balance Sheets as of May 31, 1994 and 1993.
+     Consolidated Statements of Income for the years ended May 31,   
+       1994, 1993,and 1992.
+     Consolidated Statements of Shareholders' Equity for the years   
+       ended May 31, 1994, 1993 and 1992.
+     Consolidated Statements of Cash Flows for the years ended May   
+       31, 1994, 1993 and 1992.
+     Notes to Consolidated Financial Statements.
+     Report of Independent Auditors.
+     
+     
+                                   ITEM 9.
+                CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+                   ON ACCOUNTING AND FINANCIAL DISCLOSURE
+     
+     Not applicable.
+     
+     
+                                  PART III
+     
+     Items 10., 11., 12., and 13. of Part III are incorporated by
+     reference to the Registrant's Proxy Statement for its 1994 Annual
+     Shareholders' Meeting to be filed with the Commission pursuant to
+     Regulation 14A.
+     
+                                  PART IV
+     
+                                  ITEM 14.
+     
+     EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORT ON FORM 8-K
+     
+     (a) (1) Financial Statements.  All financial statements required
+     to be filed by Item 8. of this Form and included in this report
+     have been listed previously on page 7.  No additional financial
+     statements are being filed since the requirements for paragraph
+     (d) under Item 14 are not applicable to the Company.
+     
+              (a) (2) Financial Statement Schedules.
+     
+     
+     At May 31, 1994:
+     
+        Schedule I.  Marketable Securities - Other Investments
+     
+     For each of the three years in the period ended May 31, 1994
+     
+        Schedule V.  Property, Plant and Equipment
+     
+        Schedule VI. Accumulated Depreciation, Depletion and
+                     Amortization of Property, Plant and Equipment
+     
+        Schedule VIII. Valuation and Qualifying Accounts and
+                       Reserves
+     
+        Schedule X.   Supplementary Income Statement Information
+     
+     All other schedules are omitted because they are not applicable,
+     or not required, or because the required information is included
+     in the Consolidated Financial Statements or Notes thereto.
+                                  -7-     
+          PAGE
+<PAGE>
+(a) (3) Exhibits.
+     
+     Exhibit 
+     Number       Description of Exhibit           Filing Status
+     
+      3.1         Restated Articles of Incorporation     *
+     
+      3.3         Bylaws                                 *
+     
+     10.1         Incentive Stock Option Plan            * *
+     
+     10.2         Partners' Plan                         * * *
+     
+     10.3         1990 Directors' Stock Option Plan      * * * * 
+     
+     10.4         1992 Incentive Stock Option Plan       * * * * * 
+     
+       11         Statement re computation of         filed herewith
+                  per share earnings
+     
+       13         1994 Annual Report to Shareholders  filed herewith
+     
+       21         Subsidiaries of the Registrant      filed herewith
+     
+       23         Consent of Independent Auditors     filed herewith
+     
+     
+        * Incorporated by reference to the Company's Annual Report on
+     Form 10-K for the year ended May 31, 1989.
+     
+       ** Incorporated by reference to Registration Statement No. 33-
+     23228 filed under the Securities Act of 1933.
+     
+      ***Incorporated by reference to the Company's Annual Report on
+     Form 10-K for the year ended May 31, 1993.
+     
+     ****Incorporated by reference to the Company's Annual Report on
+     Form 10-K for the year ended May 31, 1991.
+     
+     *****Incorporated by reference to the Company's Annual Report on
+     Form 10-K for the year ended May 31, 1992.
+                                         -8-     
+          PAGE
+<PAGE>
+     
+                                 SIGNATURES
+     
+          Pursuant to the requirements of Section 13 or 15(d) of the
+     Securities Exchange Act of 1934, the Registrant has duly caused
+     this report to be signed on its behalf by the undersigned,
+     thereunto duly authorized.
+     
+                             CINTAS CORPORATION
+     
+     DATE SIGNED:  August 22, 1994          /s/ Robert J. Kohlhepp   
+                                                
+                                             By: Robert J. Kohlhepp
+                                                 President
+     
+          Pursuant to the requirements of the Securities Exchange Act
+     of 19 34, this report has been signed by the following persons on
+     behalf of the Registrant and in the capacities and on the dates
+     indicated.
+     
+     Signature                  Capacity               Date
+     
+     
+     
+     /s/Richard T. Farmer    Chairman of the Board
+     Richard T. Farmer       of Directors and Chief
+                             Executive Officer        August 22, 1994
+     
+     
+     
+     /s/Robert J. Kohlhepp   President, Secretary
+     Robert J. Kohlhepp      and Director            August 22, 1994
+     
+     
+     
+     /s/James J. Gardner     Director                August 22, 1994
+     James J. Gardner
+     
+     
+     /s/Donald P. Klekamp    Director                August 22, 1994
+     Donald P. Klekamp
+     
+     
+     
+     /s/David T. Jeanmougin  Senior Vice President-
+     David T. Jeanmougin     Finance (Principal 
+                             Financial and Accounting
+                             Officer)                August 22, 1994
+     
+     
+     
+     
+                                     -9-     
+     
+     <PAGE>
+     
+     
+          <PAGE>
+   <TABLE>
+                         CINTAS CORPORATION
+           Schedule I - Marketable Securities - Other Investments
+                           May 31, 1994
+                          (In Thousands)
+<CAPTION>
+                                                                
+                                 Number of Shares                       
+                                or Units-Principle      
+   Name of Issuer and              Amounts of                 Cost of  
+   Title of Each Issue           Bonds and Notes             Each Issue 
+        
+   <S>                                    <C>                    <C>
+   State and Municipal Government Revenue Bonds:
+   Cincinnati, Ohio                     1,500                  $1,523
+   Dayton, Ohio                           500                     558          
+                             
+   Ohio State Water Development Agency    500                     560
+   Oakwood Village, Ohio                  400                     401
+   Covington, Kentucky                    185                     185          
+    
+   Henderson County, Kentucky             480                     480
+   Hillsborough, Florida                  275                     275
+   Warren, Arkansas                       745                     745
+   Boone County, Kentucky                 490                     490
+   Florence, Kentucky                     350                     350
+   Kenton County, Kentucky                105                     105
+   Clermont County, Ohio                  200                     200
+   Cheyenne County, Wyoming               710                     710
+   Boone County, Kentucky                  65                      65
+   Butler County, Ohio                     95                      95
+   Fort Thomas, Kentucky                  470                     470
+   Hamilton County, Ohio                  190                     190
+   Boone County, Kentucky                 115                     115
+   Ohio State Water Development Agency    500                     504
+   Cincinnati and Hamilton County, Ohio   100                     100
+   Orange County, Florida                 615                     615
+   Fairfax, Ohio                           75                      75
+   Fort Mitchell, Kentucky                330                     330
+   Florence, Kentucky                     260                     260
+   University of Alabama                  500                     500
+   Kentucky Turnpike Authority            250                     258
+   Maricopa County, Arizona               500                     525
+   Maricopa County, Arizona               500                     503
+   Pima County, Arizona                   300                     306
+   Kentucky State Property and Buildings Commission  250          250
+   State of Illinois                      500                     510
+   Indiana State Educational Facilities   370                     370
+
+                                                    Amount at which 
+                                               Each Portfolio of Equity
+                                 Market Value        Security Issues
+                                 of Each Issue  and Each Other Security
+   Name of Issuer and             at Balance      Issue Carried in the  
+   Title of Each Issue            Sheet Date          Balance Sheet
+
+   State and Municipal Government Revenue Bonds:
+   Cincinnati, Ohio                   $1,507            $1,523
+   Dayton, Ohio                          553               558
+   Ohio State Water Development Agency   500               560
+   Oakwood Village, Ohio                 400               401
+   Covington, Kentucky                   184               185
+   Henderson County, Kentucky            478               480
+   Hillsborough, Florida                 274               275
+   Warren, Arkansas                      742               745
+   Boone County, Kentucky                488               490
+   Florence, Kentucky                    349               350
+   Kenton County, Kentucky               105               105
+   Clermont County, Ohio                 199               200
+   Cheyenne County, Wyoming              707               710
+   Boone County, Kentucky                 65                65
+   Butler County, Ohio                    95                95
+   Fort Thomas, Kentucky                 468               470
+   Hamilton County, Ohio                 189               190
+   Boone County, Kentucky                115               115
+   Ohio State Water Development Agency   547               504
+   Cincinnati and Hamilton County, Ohio  100               100
+   Orange County, Florida                613               615
+   Fairfax, Ohio                          75                75
+   Fort Mitchell, Kentucky               329               330
+   Florence, Kentucky                    259               260
+   University of Alabama                 500               500
+   Kentucky Turnpike Authority           251               258
+   Maricopa County, Arizona              501               525
+   Maricopa County, Arizona              500               503
+   Pima County, Arizona                  301               306
+   Kentucky State Property and Buildings Commission 249    250
+   State of Illinois                     503               510
+   Indiana State Educational Facilities  369               370
+                                    -10-
+   </TABLE>
+   <PAGE>
+<TABLE>  
+   
+   
+                        CINTAS CORPORATION
+      Schedule I - Marketable Securities - Other Investments
+                           May 31, 1994
+                          (In Thousands)
+<CAPTION> 
+                                 Number of Shares                       
+                               or Units-Principle      
+   Name of Issuer and              Amounts of                 Cost of  
+   Title of Each Issue           Bonds and Notes             Each Issue 
+        
+   <S>                                  <C>                   <C>
+   Akron, Ohio                          340                   358
+   State of Wisconsin                   250                   257
+   State of Hawaii                      500                   501
+   Dade County, Florida Health Facilities300                  307
+   Milwaukee, Wisconsin                 450                   465
+   Pierce County, Washington School District #401  250        254
+   Ohio Housing Finance Agency          400                   405
+   California Health Facilities          50                    53
+   State of California                  500                   503
+   Cherokee County, Georgia             100                   108
+   Chicago, Illinois Park District       75                    82
+   Delaware River Port Authority PA & NJ100                   107
+   Hillsborough County, Florida         100                   104
+   Houston, Texas                       220                   242
+   Lafayette, Louisiana                 190                   204
+   Lancanster County, Nebraska Hospital Authority  100        108
+   Miami Beach, Florida                  50                    51
+   New York State Power Authority       100                   106
+   Private Colleges and Universities    100                   108
+   San Antonio, Texas                   120                   132
+   South Colombia Basin                 100                   109
+   Cincinnati, Ohio                     500                   504
+   Alemeda County, California           500                   519
+   Baltimore County, Maryland         1,475                 1,500
+   Beaufort County, North Carolina      150                   152
+   Boston, Massachusetts                250                   251
+   Dade County, Florida                 100                   103
+   State of Delaware                  1,000                 1,054
+   Florida Housing Finance Agency       165                   166
+   Florida Housing Finance Agency       500                   504
+   Honolulu, Hawaii                   1,500                 1,500
+   Indiana Bond Bank                  1,500                 1,503
+   State of Indiana                   1,000                 1,000
+   Intermountain Power Agency, Utah   2,100                 2,100
+   Jacksonville, Florida Electric Authority  1,015          1,015
+
+                                                Amount at which 
+                                            Each Portfolio of Equity
+                              Market Value        Security Issues
+                              of Each Issue  and Each Other Security
+Name of Issuer and             at Balance      Issue Carried in the   
+Title of Each Issue            Sheet Date          Balance Sheet
+
+      Akron, Ohio                      347                358                  
+      State of Wisconsin               254                257
+      State of Hawaii                  496                501                  
+      Dade County, Florida Health Facilities  302         307                  
+      Milwaukee, Wisconsin             456                465                  
+      Pierce County, Washington 
+      School District #401            249                254                   
+      Ohio Housing Finance Agency      400                405                  
+      California Health Facilities      54                 53                  
+      State of California              500                503                  
+      Cherokee County, Georgia         108                108                  
+      Chicago, Illinois Park District   82                 82                  
+      Delaware River Port Authority PA & NJ  107          107                  
+      Hillsborough County, Florida     103                104                  
+      Houston, Texas                   241                242                  
+      Lafayette, Louisiana             203                204                  
+      Lancanster County, Nebraska 
+        Hospital Authority             107                108                  
+      Miami Beach, Florida              50                 51                  
+      New York State Power Authority   106                106                  
+      Private Colleges and Universities107                108                  
+      San Antonio, Texas               132                132                  
+      South Colombia Basin             108                109                  
+      Cincinnati, Ohio                 504                504                  
+      Alemeda County, California       524                519                  
+      Baltimore County, Maryland     1,494              1,500                  
+      Beaufort County, North Carolina  153                152                  
+      Boston, Massachusetts            257                251                  
+      Dade County, Florida             102                103                  
+      State of Delaware              1,059              1,054                  
+      Florida Housing Finance Agency   167                166                  
+      Florida Housing Finance Agency   505                504                  
+      Honolulu, Hawaii               1,504              1,500                  
+      Indiana Bond Bank              1,513              1,503                  
+      State of Indiana                 994              1,000                  
+      Intermountain Power Agency, Utah 2,105            2,100                  
+      Jacksonville, Florida Electric Authority 1,010    1,015                  
+                                  -11-               
+</TABLE>
+<PAGE>
+
+
+<TABLE>
+                               CINTAS CORPORATION
+             Schedule I - Marketable Securities - Other Investments
+                                  May 31, 1994
+                                 (In Thousands)
+
+<CAPTION>
+                              Amount at which 
+                              Number of Shares                                 
+                             or Units-Principle      
+Name of Issuer and              Amounts of                 Cost of  
+Title of Each Issue           Bonds and Notes             Each Issue  
+<S>                                   <C>                     <C>
+King County, Washington              2,000                  2,023
+ Louisa, Virginia Electric Power      400                    400
+ Maine State Housing Authority        150                    150
+ Metro Transporatation Authority, New York   75               84
+ Mount Vernon, Indiana                400                    400
+ Municipal Assistance Corporation for
+   City of New York                    80                     89
+ Northern California Power Agency     100                    100
+ Ohio Housing Finance Agency          400                    400
+ Phoenix, Arizona                     100                    100
+ Regional Transit Authority, Illinois 200                    203
+ San Diego, California                 30                     33
+ San Jose, California Redevelopment Agency 500               500
+ Santa Rosa, California                75                     85
+ Tacoma, Washington                   800                    800
+ Wake County, North Carolina        2,000                  2,000
+ State of Washington                1,845                  1,851
+ Washington State Health Care Facilities 1,000             1,000
+
+Subtotal - State and Municipal Government                  39,276
+   Revenue Bonds
+
+Money Market Investments:                                                      
+                          
+ Nuveen Tax-Free Mutual Funds       2,300                  2,300
+ 5/3rd Bank Fountain Square Government 
+       Cash Reserves Fund             401                   401
+ Intercapital Insurance Municipal Bond Trust  500            500
+ Munivest Fund II Incorporated         500                   500
+ Muniyield Michigan Insured Fund       500                   500
+ Van Kampen Merritt Advantage Municipal 
+    Income Trust                       500                   500
+
+Subtotal - Money Market Investments                         4,701
+
+                                               Amount at which 
+                                            Each Portfolio of Equity
+                              Market Value        Security Issues
+                              of Each Issue  and Each Other Security
+Name of Issuer and             at Balance      Issue Carried in the   
+Title of Each Issue            Sheet Date          Balance Sheet
+
+ King County, Washington          2,005                2,023
+ Louisa, Virginia Electric Power    400                  400
+ Maine State Housing Authority      151                  150
+ Metro Transporatation Authority, New York  80            84
+ Mount Vernon, Indiana              401                  400
+ Municipal Assistance Corporation for  
+         City of New York            85                   89
+ Northern California Power Agency   103                  100
+ Ohio Housing Finance Agency        401                  400
+ Phoenix, Arizona                   103                  100
+ Regional Transit Authority, Illinois 203                203
+ San Diego, California               32                   33
+ San Jose, California Redevelopment Agency 497           500
+ Santa Rosa, California              81                   85
+ Tacoma, Washington                 800                  800
+ Wake County, North Carolina      2,004                2,000
+ State of Washington              1,835                1,851
+ Washington State Health Care Facilities  996          1,000
+
+Subtotal - State and Municipal Government 39,095       39,276
+   Revenue Bonds
+
+Money Market Investments:                                                      
+                          
+Nuveen Tax-Free Mutual Funds        2,300              2,300
+5/3rd Bank Fountain Square Government  
+       Cash Reserves Fund             401                401
+Intercapital Insurance Municipal Bond Trust 500          500
+Munivest Fund II Incorporated         500                500
+Muniyield Michigan Insured Fund       500                500
+Van Kampen Merritt Advantage Municipal 
+   Income Trust                       500                500
+
+Subtotal - Money Market Investments   4,701              4,701
+                                    -12-
+</TABLE>
+<PAGE>                                                                         
+<TABLE>                               
+                                                                               
+                     
+                               CINTAS CORPORATION
+             Schedule I - Marketable Securities - Other Investments
+                                  May 31, 1994
+                                 (In Thousands)
+
+<CAPTION>
+                              Number of Shares                                 
+                             or Units-Principle      
+Name of Issuer and              Amounts of                 Cost of  
+Title of Each Issue           Bonds and Notes             Each Issue  
+<S>                                   <C>                     <C>
+Commercial Paper:
+   5/3rd Bank, Cincinnati, Ohio      4,000                   4,000
+
+ United States Government Securities 1,682                   1,720
+
+ Preferred Stocks                    1,500                   1,500
+
+ Other Investments                   1,151                   1,136
+
+Total Marketable Securities and Other Investments          $52,333
+
+                                                Amount at which 
+                                            Each Portfolio of Equity
+                              Market Value        Security Issues
+                              of Each Issue  and Each Other Security
+Name of Issuer and             at Balance      Issue Carried in the   
+Title of Each Issue            Sheet Date          Balance Sheet
+
+Commercial Paper:
+   5/3rd Bank, Cincinnati, Ohio    4,000                 4,000
+
+ United States Government Securities  1,691              1,720
+
+ Preferred Stocks                  1,505                 1,500
+                                                                               
+                                              
+ Other Investments                 1,137                 1,136
+                                                                               
+                                              
+Total Marketable Securities and 
+  Other Investments              $52,129               $52,333
+
+                                      -13-
+</TABLE>
+<PAGE>
+<TABLE>
+
+                               CINTAS CORPORATION
+                   Schedule V - Property, Plant, & Equipment
+                                 (In Thousands)
+
+<CAPTION>
+                             Balance At                                   
+                            Beginning of                                  
+   Classification               Year       Additions  Retirements      
+Year Ended May 31, 1992:
+<S>                              <C>           <C>     <C>
+Land                         $ 12,720      $    192   $    ---               
+Buildings and Improvements     68,811         5,457        400
+         Equipment             96,335      17,747        11,213
+         Leasehold Improvements   759           9            24
+         Construction in Progress          41,682         8,387            ---
+                              $220,307     $31,792       $11,637
+
+Year Ended May 31, 1993:
+
+     Land                     $ 12,912     $ 5,385    $      ---
+     Buildings and Improvements 83,644       2,155           400
+     Equipment                 119,656      14,601         8,324
+     Leasehold Improvements        744         150           159
+     Construction in Progress   23,506       9,183           ---
+                              $240,462     $31,474       $ 8,883
+
+Year Ended May 31, 1994:
+     
+     Land                     $ 18,297     $ 1,608     $      71
+     Buildings and Improvements100,261       2,106         1,536
+     Equipment                 136,347      21,230        10,287
+     Leasehold Improvements        735         206            10
+     Construction in Progress    7,413      12,103           ---
+                              $263,053     $37,253       $11,904
+
+                                                    Balance At
+                                                      End of
+Classification                          Other          Year      
+Year Ended May 31, 1992:
+          
+          Land                       $---         $12,912
+          Buildings and Improvements 9,776 (A)     83,644
+          Equipment                 16,787 (A)    119,656
+          Leasehold Improvements      ---             744
+          Construction in Progress (26,563)(B)     23,506
+                                       $   -0-      $240,462
+
+Year Ended May 31, 1993:
+
+     Land                            $  ---      $ 18,297       
+     Buildings and Improvements      14,862 (A)   100,261
+     Equipment                       10,414 (A)   136,347
+     Leasehold Improvements             ---           735
+     Construction in Progress       (25,276)(B)     7,413
+                                       $   -0-     $263,053
+
+Year Ended May 31, 1994:
+     
+     Land                           $   ---      $ 19,834
+     Buildings and Improvements       7,437 (A)   108,268
+     Equipment                        5,151 (A)   152,441
+     Leasehold Improvements             ---           931
+     Construction in Progress       (12,588)(B)     6,928
+                                      $   -0-      $288,402
+</TABLE>                                      
+Depreciation and Amortization
+Annual depreciation and amortization provisions have been computed on a
+straight-line basis
+in accordance with the following ranges in asset lives:
+Item                                            Years     
+Buildings and Improvements                  40-new; 20-used
+Equipment                                        2-10
+Leasehold Improvements             lesser of term of lease plus one renewal
+period or
+expected life of asset
+
+(A)  Transferred from Construction in Progress.
+(B)  Transferred to capital asset accounts.
+                                       -14-
+<PAGE>
+<TABLE>
+                               CINTAS CORPORATION
+
+
+             Schedule VI - Accumulated Depreciation, Depletion, and
+                 Amortization of Property, Plant, and Equipment
+                                 (In Thousands)
+
+
+<CAPTION>
+                                        Balance At  
+                                       Beginning of                            
+Classification                            Year        Additions  Retirements
+Year Ended May 31, 1992
+<S>                                        <C>            <C>          <C>
+ Buildings and Improvements              $15,104        $ 4,122        $ 521
+ Equipment                                42,295         15,107        9,027
+ Leasehold Improvements                      385            130           88
+                                         $57,784        $19,359      $ 9,636
+
+Year Ended May 31, 1993:
+Buildings and Improvements               $18,705        $ 4,834      $   399
+Equipment                                 48,375         18,230        7,897
+Leasehold Improvements                       427             85          154
+                                         $67,507        $23,149      $ 8,450
+
+Year Ended May 31, 1994:
+Buildings and Improvements               $23,140        $ 4,987      $   677
+          Equipment                       58,708         19,192        9,891
+          Leasehold Improvements             358             89            7
+                                         $82,206        $24,268      $10,575
+                                           
+
+                                                         Balance At 
+                                                           End of 
+Classification                               Other          Year        
+Year Ended May 31, 1992
+     Buildings and Improvements                          $18,705
+     Equipment                                            48,375
+     Leasehold Improvements                                  427
+                                                        $ 67,507
+
+Year Ended May 31, 1993:
+Buildings and Improvements                                $23,140
+Equipment                                                  58,708
+Leasehold Improvements                                        358
+                                                          $82,206
+
+Year Ended May 31, 1994:
+Buildings and Improvements                               $ 27,450
+Equipment                                                  68,009
+Leasehold Improvements                                        440
+                                                          $95,899
+                                      -15-
+</TABLE>
+<PAGE>
+<TABLE>
+                               CINTAS CORPORATION
+
+         Schedule VIII - Valuation and Qualifying Accounts and Reserves
+                                 (In Thousands)
+<CAPTION>
+                                                     Additions
+  
+                                                  (1)        (2)
+                              Balance At      Charged to  Charged to           
+                             Beginning of     Costs and      Other
+     Description                 Year          Expenses    Accounts
+May 31, 1992:
+<S>                                <C>            <C>         <C>
+Allowance for Doubtful Accounts   $ 2,056       $ 1,279
+                                         
+Accumulated Amortization of
+  Customer Service Contracts       15,307         3,394
+Accumulated Amortization of
+  Non-Compete Agreements           11,484         3,290
+Accumulated Amortization of Debt
+  Issue and Organization Costs        302            80
+                                $27,093         $ 6,764
+
+May 31, 1993
+
+Allowance for Doubtful Accounts   $ 1,375       $ 1,448     $   407
+                                         
+Accumulated Amortization of
+ Customer Service Contracts       17,659           4,574
+Accumulated Amortization of
+ Non-Compete Agreements           14,101           4,228
+Accumulated Amortization of Debt
+ Issue and Organization Costs        382             181
+Accumulated Amortization of
+ Goodwill                            -0-              92
+
+                                 $32,142         $ 9,075
+
+                                                            Balance At
+                                                               End of
+   Description                                Deductions        Year      
+May 31, 1992:
+
+Allowance for Doubtful Accounts               $ 1,960 (A)    $ 1,375
+                                         
+Accumulated Amortization of
+  Customer Service Contracts                    1,042 (B)     17,659
+Accumulated Amortization of
+  Non-Compete Agreements                          673 (B)     14,101
+Accumulated Amortization of Debt
+  Issue and Organization Costs                   -0-             382
+
+                                              $ 1,715        $32,142
+
+May 31, 1993
+
+Allowance for Doubtful Accounts              $  1,254 (A)    $ 1,976
+                                         
+Accumulated Amortization of
+ Customer Service Contracts                     4,184         18,049
+Accumulated Amortization of
+ Non-Compete Agreements                         4,574 (B)     13,755
+Accumulated Amortization of Debt
+ Issue and Organization Costs                     110 (B)      453
+Accumulated Amortization of
+ Goodwill                                         -0- (B)       92
+
+                                               $ 8,868      $32,349
+</TABLE>                                  -16-
+<PAGE>
+<TABLE>
+                               CINTAS CORPORATION
+
+         Schedule VIII - Valuation and Qualifying Accounts and Reserves
+                                 (In Thousands)
+<CAPTION>
+                                                     Additions
+  
+                                                  (1)        (2)
+                              Balance At      Charged to  Charged to           
+                             Beginning of     Costs and      Other
+     Description                 Year          Expenses    Accounts
+       <S>                                <C>             <C>          <C>
+May 31, 1994
+
+Allowance for Doubtful Accounts   $ 1,976         $ 998        $209
+                                         
+Accumulated Amortization of
+  Customer Service Contracts       18,049           5,608
+Accumulated Amortization of
+  Non-Compete Agreements & Consulting13,755         4,706
+Accumulated Amortization of Debt
+  Issue and Organization Costs        453             254
+Accumulated Amortization of
+  Goodwill                             92             222
+                                   $32,349       $ 10,790
+
+                                                            Balance At
+                                                               End of
+   Description                                Deductions        Year      
+
+May 31, 1994
+
+Allowance for Doubtful Accounts             $ 1,180(A)       $ 2,003
+                                         
+Accumulated Amortization of
+  Customer Service Contracts                  2,134 (B)       21,523
+Accumulated Amortization of
+  Non-Compete Agreements & Consulting         1,446 (B)       17,015
+Accumulated Amortization of Debt
+  Issue and Organization Costs                  284 (B)          423
+Accumulated Amortization of
+  Goodwill                                      314
+
+                                                $ 3,864     $39,275
+
+</TABLE>
+(A)Uncollectible Accounts Charged-off, Net of Recoveries.
+   (B) Elimination of Fully Amortized Amounts.
+                                        -17-   
+   <PAGE>
+<TABLE>   
+
+                            CINTAS CORPORATION
+
+          Schedule X - Supplemental Income Statement Information
+                              (In Thousands)
+
+
+<CAPTION>
+
+                                             Charged to Costs and Expenses
+       Item                                        Year Ended May 31,
+
+                                              1994         1993       1992    
+
+<S>                                           <C>           <C>        <C>
+Maintenance and Repairs                     $15,303       $14,150    $11,139
+
+Amortization of Deferred Charges            $10,790        $9,075     $6,764
+
+Advertising                                  $5,553           N/A       N/A
+
+
+                                    
+</TABLE>
+
+Amounts for taxes other than payroll and income taxes, and royalties are not
+presented as such amounts are less than 1% of total sales and revenues.  
+
+                                      -18-
+<PAGE>
+<PAGE>
+                                   EXHIBIT INDEX
+     
+     The following is a list of exhibits filed with this Form 10-K:
+     
+     Exhibit                                     Page No. In Sequential
+     Number       Description of Exhibit            Numbering System
+     
+       11         Statement re-computation
+                   of per share earnings                   20
+     
+       13         Annual Report to Shareholders            22
+     
+       21         Subsidiaries of Registrant               47
+     
+       23         Consent of Independent Auditors          48
+     
+                                         -19-
+     
+          PAGE
+<PAGE>
+                                    EXHIBIT 11
+     
+                   STATEMENT RE COMPUTATION OF PER SHARE EARNINGS
+     
+     
+     
+     
+     
+     A.    Weighted average shares outstanding basis:
+     
+                                   Fiscal year ended May 31        
+                               1994           1993            1992
+     
+           Net income         $52,170,000    $44,873,000    $39,195,000
+     
+     
+           Weighted average
+            shares outstanding$46,705,656     46,410,860     46,145,026
+     
+     
+           Earnings per share     $1.117          $.967          $.849
+     
+     
+     
+     B.    Primary basis:
+     
+                                    Fiscal year ended May 31       
+                              1994            1993           1992
+      
+           Net income        $52,170,000     $44,873,000    $39,195,000
+     
+     
+           Weighted average
+            shares outstanding46,705,656      46,410,860     46,145,026
+     
+           Plus - net shares to be
+            issued upon exercise
+            of dilutive stock options
+            after applying treasury
+            stock method         778,466         899,884      1,014,799
+     
+                           47,484,122      47,310,744     47,159,825
+     
+     
+           Earnings per share     $1.099           $.948          $.831
+     
+                                            -20-     
+     <PAGE>
+          
+C.    Fully diluted basis:
+     
+                                      Fiscal year ended May 31       
+                                1994            1993          1992
+     
+           Net income            $52,170,000   $44,873,000  $39,195,000
+     
+     
+           Weighted average
+            shares outstanding  46,705,656     46,410,860    46,145,026
+     
+           Plus - net shares to be
+            issued upon exercise of
+            dilutive stock options
+            after applying treasury
+            stock method           838,043        902,991     1,083,894
+     
+     
+     
+                                47,543,699     47,313,851    47,228,920
+     
+           Earnings per share       $1.097          $.948         $.830
+     
+     
+     
+     Note:  Reported earnings per share for each year was based upon
+     weighted average shares outstanding since neither the primary nor
+     fully diluted amounts of per share earnings resulted in a
+     reduction of 3% or more.  
+     
+     All share data and earnings per share amounts have been adjusted
+     to reflect a two-for-one stock split effective April 2, 1992.
+     
+                                    -21-     
+     <PAGE>
+          <PAGE>
+<TABLE>   
+
+   ELEVEN-YEAR FINANCIAL SUMMARY
+   Years Ended May 31
+   (in thousands except per share data)
+   
+   
+   <CAPTION>
+   
+                      1984   1985     1986      1987   1988     1989
+   <S>                <C>     <C>      <C>      <C>     <C>      <C>
+   Net Revenues    $93,814 $125,632 $144,621 $185,101 $228,091 $269,260
+   Net Income       $7,832    9,446   12,318   14,737   18,550   23,101
+   Earnings Per Share $.19      .23      .30      .35     .44      .52
+   Dividends Per Share$.02      .02      .02      .03     .04      .05
+   Total Assets    $85,406  124,960  165,474  194,847  213,958  228,000
+   Shareholders' Equity$52,957 61,621  72,961  86,646  104,710   138,079
+   Return on Avg. Equity18.8% 16.5%     18.3%    18.5%   19.4%   19.0%
+   Long-Term Debt $14,114 37,279  62,797   70,757   65,490  43,303
+   
+                                                                        
+                                                                10 Year
+                                                                 Compd
+                     1990     1991     1992     1993     1994   Growth
+   
+   Net Revenues     $311,776 $352,480 $401,563 $452,722 $523,216  18.8%
+   Net Income         27,994   31,339   39,195   44,873   52,170  20.9%
+   Earnings Per Share    .62     .69    .85(a)     .97      1.12  19.4%
+   Dividends Per Share   .07     .09     .11       .14      .17   23.9%
+   Total Assets      274,103  326,752  361,261  54,165   501,632  19.4%
+   Shareholders' Equity163,026 191,124 225,864 264,914   309,652  19.3%
+   Return on Avg. Equity18.6%   17.7%    18.8%    18.3%   18.2%
+   Long-Term Debt      54,079   68,974   67,790  103,611  84,184
+   
+   </TABLE>
+   (a) Includes earnings of $.06 per share due to the adoption of SFAS No.
+   96.
+   Note:  Results prior to October 1, 1991, have been restated to include
+   Rental Uniform Service of Greenville, S.C., Inc.
+   
+                                        -22-
+      PAGE
+<PAGE>
+     TO OUR SHAREHOLDERS AND FRIENDS,
+     
+     
+          This annual report celebrates our twenty-fifth consecutive
+     year of uninterrupted growth in sales and profits.  We have
+     reached significant milestones over these 25 years and have
+     highlighted some of them in this report.  During this 25-year
+     period, our sales have grown at a compound rate of 25% and profits
+     have grown at a compound rate of 35%.
+     
+          Our vision for the future is bigger and broader than our
+     vision of 25 years ago.  With sales of over a half billion dollars
+     and substantial management and financial resources, we are poised
+     to take advantage of the great opportunities available to us.
+     
+          There's hardly a business or an industry that doesn't use or
+     need a uniform service of some kind.  Cintas is in an excellent
+     position to fill that need.  We have grown to become the largest
+     public company specializing in the uniform service business.  We
+     are one of the few companies with a national presence and an
+     infrastructure which consists of design and manufacturing
+     capabilities, along with a national distribution system and
+     management structure.
+     
+          Cintas has only 13% of the served market and 5% of the
+     potential market which is estimated to be over $10 billion, so the
+     opportunity for continued growth is excellent.  We've become quite
+     adept at converting non-users to our service at a rapid rate.  In
+     fact, in fiscal 1994, 67% of our new customers were first-time
+     users.
+     
+          Acquisitions will continue to play an important role in our
+     future.  The industry is highly fragmented and most companies in
+     the business are smaller, family-owned and operated companies,
+     with limited financial and management resources.  New technology
+     and government regulations are making it more and more difficult
+     for these smaller companies to compete with larger, better
+     financed and managed firms.  Therefore, the reasons for them to
+     merge with or sell to these larger companies are more tangible
+     today than they have ever been.
+     
+          And so, the future looks quite promising.  The opportunities
+     are fantastic and Cintas is well positioned to take advantage of
+     them.
+     
+          Our founding principle has been, and continues to be: To
+     maximize the long-term value of Cintas for our shareholders and
+     working partners by exceeding our customers' expectations.  That's
+     more than just a slogan at Cintas - it's an overriding objective
+     that is the single, 
+                                     -23-
+     <PAGE>
+      most important aspect of our corporate
+     culture.  We also want everyone at Cintas to be an owner - and
+     everyone who has been with the Company for more than one year
+     shares in the ownership.
+     
+          The net worth of our top executives consists primarily of
+     Cintas stock.  Unlike many public companies where management is
+     motivated more by salaries and bonuses, Cintas people are owners
+     and focus on maximizing the long-term value of the Company.
+     
+          Our philosophy of sharing ownership has enabled us to attract
+     a special group of talented people who are united in a common
+     cause and enjoy what they do...people like Larry Harmon and Carl
+     Kettenacker, great sources of strength and energy, will help lead
+     us into the future.
+     
+          Larry Harmon, a 12-year partner, has been promoted to Vice
+     President of our Western Region after serving as the General
+     Manager of our Los Angeles operation.  Carl Kettenacker, who was
+     Vice President of the Western Region, is now the Vice President
+     of a newly created Research and Development Group, an organization        
+     expected to accelerate the implementation of technological innovations to
+     enhance our quality and improve our costs.  With 23 years of
+     experience, Carl is highly qualified for this key position.
+     
+          In addition to these senior executives, we have a core of
+     younger talented people who came to us through a management
+     trainee program that we instituted back in 1981.  That first class
+     of young, talented college graduates consisted of several bright,
+     ambitious people, most of whom continue to serve Cintas in
+     exciting positions today.  They make substantial contributions to
+     our Company in high level positions at early ages...people like
+     Scott Farmer, our youngest corporate officer, and other executives
+     including Todd Gregory, Jim Trucksess, Pete Gilreath, Steve Kling,
+     Steve Mitrione and Jeff Jones.  Their grass roots knowledge and
+     understanding of our business enabled them to take on important
+     management assignments, as well as serve as mentors for all of the
+     management trainees we've brought into our Company since then.
+     
+          The opportunities for continued growth are exciting, our
+     management team is stronger than it's ever been, and our financial
+     resources are substantial.  Therefore, we are confident that we
+     can maintain outstanding growth rates in the future as we have in
+     the past.
+     
+     
+     Sincerely yours,
+     
+     
+     
+     Richard T. Farmer                   Robert J. Kohlhepp
+     Chairman of the Board               President
+     Chief Executive Officer             Chief Operating Officer
+     
+                                    -24-     
+     PAGE
+<PAGE>
+ENHANCING THE IMAGE OF WORKING AMERICA
+     
+     Fiscal 1994 sales of $523.2 million increased 15.6% from $452.7
+     million last year.  Pretax income of $85.5 million increased 19.8%
+     from $71.3 million last year, while net income of $52.2 million
+     increased 16.3% over $44.9 million in fiscal 1993.  Earnings per
+     share increased 15.5% to $1.12 versus $.97 last year.
+     
+     We have broken out pretax income and net income separately to
+     highlight the impact of the new tax law which involved retroactive
+     taxes and some minor tax credits.  In the first quarter we
+     recorded a one-time tax expense of approximately $1.1 million or
+     $.02 per share.  Without this expense, our net income and earnings
+     per share increases would have been more in line with the increase
+     in pretax income.
+     
+     Our uniform rental operations, which represent approximately 90%
+     of our business, extended service to five new markets.  The
+     Company also completed construction of uniform rental facilities
+     in Kansas City, Kansas; Baton Rouge, Louisiana; and Akron, Ohio,
+     with facilities currently under construction in Portland, Oregon;
+     Phoenix, Arizona; Seattle, Washington; and Charlotte, North
+                                  -25-
+     <PAGE>
+     Carolina.  These  new facilities are all scheduled to open in
+     fiscal 1995.  Sites in other cities have also been purchased for
+     the construction of additional plants.  The plans for these
+     additional facilities are currently being finalized and they will
+     be fully operational in fiscal 1996.  Our impressive growth over 
+     the past 25 years has been both exciting and rewarding.  We now
+     have 100 uniform rental operations in 33 states, serving 91 of the
+     top 100 U.S. markets.
+     
+     The National Account Division continues to expand, posting a
+     dramatic increase in sales in fiscal 1994.  This increase is
+     attributable to existing customers converting to newly- designed
+     uniform programs and to the addition of many new customers to the
+     already impressive list of regional and national companies.  The
+     ability to implement major programs of this type is evidence of
+     Cintas' unique capabilities.  For example, during the fourth
+     quarter, we efficiently implemented newly-designed uniform
+     programs for three major national accounts and expanded the
+     product line for two other large customers.  As a result, our
+     National Account Division had a 41% increase in sales compared to
+     the fourth quarter 
+                                     -26-
+     <PAGE>
+     of fiscal 1993.  This is an example of how our
+     systems are able to accommodate demand in a relatively short
+     period of time.
+     
+     National presence and distribution capabilities are vital
+     competitive advantages, and are also key reasons for the success
+     of our catalog program.  This program was created to provide
+     customers and prospects with a convenient, user-friendly method
+     to order uniforms and any accessory that a person might need on
+     the job, including rain gear, caps, gloves, long underwear, socks
+     and work shoes.  When the catalog program first began, sales of
+     these types of products through the rental operations were quite
+     small.  However, over the three years since it began, sales have
+     grown dramatically and we anticipate this program becoming a
+     significant contributor to our growth over the next three to five
+     years.
+     
+     Acquisitions continue to play an important role in the Company's
+     continued growth.  Two acquisitions in fiscal 1994 helped Cintas
+     strengthen its market position in Pittsburgh and Baltimore.  A
+     third acquisition, the tailored uniform division of Palm Beach
+     Company, moves us in the direction of becoming a full 
+                                      -27-
+     <PAGE>
+     uniform
+     supplier for some of our customers who previously bought their
+     tailored uniforms and rented our line of industrial work clothes.
+       The number of acquisitions made in fiscal 1994 was relatively
+     small compared to recent years.  For example, in fiscal 1993, the
+     Company made 17 acquisitions, which exhausted our list of
+     prospects at that time.  Cintas will continue to devote
+     significant resources to identifying, evaluating and discussing
+     acquisition opportunities with many new prospects and we expect
+     acquisitions to continue to play a key role in the future growth
+     of our Company.
+     
+     As the economic recovery continues, employment levels are
+     rebounding.  The improving economy and the fact that we have
+     increased the size of our sales force during the year should
+     enable us to increase our rate of internal growth in fiscal 1995.
+     
+     In fiscal 1994 we continued to innovate and improve our products
+     by building new style and comfort into a diversified line of
+     uniforms.  Our fourth manufacturing facility came on stream late
+     in the year and will enable us to sustain growth by increasing our
+     manufacturing capacity.  Innovation and product 
+                                       -28-
+     <PAGE>
+     improvement continue to distinguish us from our competitors and play an
+     important role in our pursuit of new customers.  Our quality
+     process and our new training programs have enhanced our already
+     impressive customer retention.   As a matter of fact, our customer
+     retention improved substantially in a very competitive market
+     during fiscal 1994.  
+     
+     Cintas continues to be successful in convincing companies to adopt
+     a uniform program for the first time.  In fiscal 1994, 67% of our
+     new customers were companies that had never had a uniform program
+     before.  We began to focus on this undeveloped potential four
+     years ago and the percentage of new business generated from this
+     segment has increased each year since then.  We are encouraged by
+     our success in this area and will continue to pursue this
+     strategy.
+     
+     Cintas has grown to become the largest public company in this
+     business and one of the few with a national presence.  However,
+     we have never given up our "close to the customer" approach to
+     doing business.  Cintas is large - but the Company consists of 100
+     small, local operations.  Each operation concentrates on providing
+     personal customer service 
+                                     -29-
+     <PAGE>
+     in their community.  Serving customers is a daily mission carried out by  
+     1,350 service sales representatives - Cintas ambassadors who have close,  
+     personal relationships with their customers.  These ambassadors are       
+     Cintas' most important people.  They know their customers' needs and
+     expectations and fully understand that superior service is the
+     only way to guarantee life-time customers.
+     
+     We continue to dedicate ourselves to training our front-line
+     people.  Training programs are constantly being evaluated,
+     updated, expanded and implemented to meet the ever-changing needs
+     of our customers.  In addition, Cintas employs exciting new
+     technology to improve quality and efficiency, giving our front-
+     line people the necessary tools they need to deliver superior
+     service.
+     
+     We are proud of our past and excited about the prospects for our
+     future.  We continue to set new records in revenues and net income year   
+     after year.  Our dedication to customer satisfaction, attention to detail 
+     and commitment to improved quality is the key to our continued success
+     as the country's preferred uniform provider.
+                                        -30-
+          PAGE
+<PAGE>
+<TABLE>     
+                              Cintas Corporation
+     
+                          CONSOLIDATED STATEMENTS OF INCOME
+                       Years Ended May 31, 1994, 1993 and 1992
+                        (In thousands except per share data)
+     <CAPTION>
+                                          1994      1993       1992
+     <S>                                   <C>       <C>         <C> 
+    Revenues:
+       Net rentals                      $464,922   $404,869    $353,163
+       Net sales                        58,294     47,853      48,400
+     
+                                       523,216    452,722     401,563
+     
+     Cost and expenses (income):
+       Cost of rentals                 264,477    228,744    203,074
+       Cost of sales                    48,868     40,910     40,221
+       Selling and administrative 
+        expenses                       119,446    106,143     95,070
+       Interest income                  (1,690)    (1,424)      (580)
+       Interest expense                  6,664      7,046      5,572
+     
+                                       437,765    381,419    343,357
+     
+     Income before income taxes and cumulative effect of change in
+     accounting principle               85,451     71,303     58,206
+     Income taxes                       33,281     26,430     21,716
+     Income before cumulative effect of change in
+       accounting principle             52,170     44,873     36,490
+     Cumulative effect of change in method of
+       accounting for income taxes       ---        ---        2,705
+     Net income                        $52,170    $44,873    $39,195
+     
+     Weighted average number of 
+       shares outstanding               46,706     46,411     46,145
+     
+     
+     Earnings per share:
+       Income before cumulative effect of change in
+        accounting principle             $1.12       $.97       $.79
+       Cumulative effect of change in method of accounting 
+        for income taxes                  ---        ---         .06
+     
+       Net income                        $1.12       $.97       $.85
+     
+     Dividends per share                  $.17       $.14       $.11
+     
+ </TABLE>    
+                              See accompanying notes.
+                                        -32-     
+          PAGE
+<PAGE>
+     <TABLE>
+                       Cintas Corporation
+     
+                         CONSOLIDATED BALANCE SHEETS
+                        May 31, 1994 and May 31, 1993
+                       (In thousands except share data)
+     <CAPTION>
+                                                  1994          1993
+         <S>                                       <C>           <C>
+     Assets
+     Current assets:
+       Cash and cash equivalents                   $8,449      14,192
+       Marketable securities                       52,333      40,777
+       Accounts receivable, principally trade, 
+         less allowance of $2,003 and $1,976, 
+         respectively                              56,347      48,075
+       Inventories                                 29,059      21,452
+       Uniforms and other rental items in service  74,132      61,001
+       Prepaid expenses                             1,133       1,636
+     
+     Total current assets                         221,453     187,133
+     
+     Property, plant and equipment, at cost, net  192,503     180,847
+     Investments and other assets                  87,676      86,185
+     
+                                                 $501,632    $454,165
+     
+     Liabilities and Shareholders' Equity          1994        1993
+     
+     Current liabilities:
+       Accounts payable                           $18,795     $20,637
+       Accrued liabilities                         33,488      28,638
+       Income taxes:
+         Current                                    2,300       1,616
+         Deferred                                  21,159       9,823
+       Long-term debt due within one year          15,742       4,462
+     
+     Total current liabilities                     91,484       5,176
+     
+     Long-term debt due after one year             84,184     103,611
+     Deferred income taxes                         16,312      20,464
+     
+     Shareholders' equity:
+       Preferred stock, no par value;
+         100,000 shares authorized, none outstanding ---         ---
+       Common stock, no par value;
+         120,000,000 shares authorized, 46,801,173, and 46,578,791
+         shares issued and outstanding, respectively40,939       39,869
+       Retained earnings                          269,939     225,722
+       Cumulative translation adjustment           (1,226)      (677)
+     
+     Total shareholders' equity                   309,652     264,914
+     
+                                                 $501,632     $454,165
+     
+         </TABLE>
+                              See accompanying notes.
+
+                                      -33-
+          PAGE
+<PAGE>
+<TABLE>     
+                           Cintas Corporation
+     
+                  CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                      Years Ended May 31, 1994, 1993 and 1992
+                                 (In thousands)
+     
+   <CAPTION>
+                       Common Stock           Cumulative     Total
+                                     Retained Translation  Shareholders'
+                     Shares   Amount Earnings Adjustment     Equity
+   <S>                 <C>      <C>     <C>      <C>            <C>
+   Balance at 
+   May 31, 1991      46,067  $37,441 $153,630    $53        $191,124
+     Net income        ---     ---     39,195    ---          39,195
+     Dividends         ---     ---     (5,080)   ---          (5,080)
+     Stock options 
+     exercised net of 
+     shares surrendered 123      339    ---      ---             339
+     Tax benefit 
+     resulting from 
+     exercise of
+     employee stock options---   645    ---      ---             645
+     Translation adjustment---   ---    ---     (359)           (359)
+   
+   Balance at May 31, 
+      1992            46,190  38,425  187,745   (306)        225,864
+     Net Income        ---      ---    44,873    ---          44,873
+     Dividends         ---      ---    (6,519)   ---          (6,519)
+     Effects of 
+      acquisitions       180     401     (377)   ---              24
+     Stock options 
+      exercised net of
+      shares surrendered 209     288     ---     ---             288
+     Tax benefit resulting 
+      from exercise of
+     employee stock options---   755     ---     ---             755
+     Translation adjustment---   ---     ---    (371)           (371)
+   
+   Balance at May 31, 
+      1993             46,579 39,869  225,722   (677)        264,914
+     Net Income          ---    ---    52,170    ---          52,170
+     Dividends           ---    ---    (7,953)   ---          (7,953)
+     Stock options 
+      exercised net of
+     shares surrendered   222    750     ---     ---             750
+     Tax benefit resulting 
+      from exercise of
+     employee stock options---   320     ---     ---             320
+     Translation adjustment---   ---     ---    (549)           (549)
+   
+   Balance at May 31, 
+     1994               46,801 $40,939 $269,939 ($1,226)    $309,652
+
+</TABLE>   
+                               See accompanying notes.
+                                        -34-
+   <PAGE>
+   <TABLE>
+                              Cintas Corporation
+   
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                    Years Ended May 31, 1994, 1993 and 1992
+                               (In thousands)
+<CAPTION>
+                                             1994       1993      1992
+        <S>                                   <C>        <C>       <C>
+   Cash flows from operating activities:
+     Net income                             $52,170   $44,873   $39,195
+     Adjustments to reconcile net income 
+       to net cash provided by operating 
+       activities:
+         Depreciation                        24,271    23,149    19,359
+         Amortization of deferred charges    10,789     9,075     6,764
+         Provision for losses on accounts 
+          receivable                            998     1,448     1,279
+         Equity in earnings of affiliate       (347)     (159)     (92)
+         Change in current assets and liabilities:
+          Accounts receivable                (8,053)   (5,768)  (2,726)
+          Inventories                       (19,777)   (7,223)  (5,519)
+          Prepaid expenses                      503      (479)     (73)
+          Accounts payable                   (1,842)    5,770    1,977
+          Accrued liabilities                 4,850     4,879    2,332
+          Income taxes payable                  684    (1,601)     774
+          Deferred income taxes               7,184     7,644     (114)
+   
+   Net cash provided by operating activities 71,430    81,608   63,156
+   
+   Cash flows from investing activities:
+     Proceeds from sale of property, plant 
+       and equipment                          1,326       274    2,001
+     Capital expenditures                   (37,164)  (29,699) (31,597)
+     Additions to investments and other assets(2,753)  (5,325)  (6,468)
+     Proceeds from sale or redemption of 
+       marketable securities                 47,053    20,664   16,064
+     Purchase of marketable securities      (58,609)  (47,286) (18,158)
+     Acquisitions of businesses, net of 
+      cash acquired                         (11,796)  (42,384) (14,058)
+   
+   Net cash used by investing activities    (61,943) (103,756) (52,216)
+   
+   Cash flows from financing activities:
+     Proceeds from issuance of long-term debt    63    38,384   17,259
+     Repayment of long-term debt             (8,410)   (5,726) (22,459)
+     Issuance of common stock                   750       689      339
+     Tax benefit resulting from exercise 
+      of employee stock options options         320       755      645
+     Dividends paid                          (7,953)   (6,519)  (5,080)
+   
+   
+   Net cash provided from (used in) financing 
+     activities                             (15,230)   27,583   (9,296)
+   
+   Net increase (decrease) in cash and 
+     cash equivalents                        (5,743)    5,435    1,644
+   
+   Cash and cash equivalents at beginning 
+     of year                                 14,192     8,757    7,113
+   
+   Cash and cash equivalents at end of year  $8,449   $14,192   $8,757
+    
+  </TABLE> 
+                                   See accompanying notes.
+   
+                                       -35-
+      PAGE
+<PAGE>
+     
+                              CINTAS CORPORATION
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+            (Amounts in thousands except per share and share data)
+     
+     1.  SIGNIFICANT ACCOUNTING POLICIES
+     
+         Business description.  Cintas provides a highly specialized
+     service to businesses of all types--from small service companies
+     to major corporations that employ thousands of people.  The
+     Company designs, manufactures and implements corporate identity
+     uniform programs which it sells or rents to customers throughout
+     the United States.
+         Principles of consolidation.  The consolidated financial
+     statements include the accounts of Cintas Corporation and its
+     subsidiaries, all of which are wholly-owned. Intercompany balances
+     and transactions have been eliminated.
+         Earnings per share is calculated on the basis of the weighted
+     average number of shares of common stock outstanding during the
+     year, including the dilutive effect, if any, of assumed conversion
+     of common stock equivalents.
+         Cash flows.  For purposes of the statement of cash flows, the
+     Company considers all highly liquid investments with a maturity
+     of three months or less, at date of purchase, to be cash
+     equivalents.  
+         Marketable securities, which consist primarily of industrial
+     revenue bonds and securities issued by the federal government, are
+     carried at cost which approximates market.
+         Inventories are valued at the lower of cost (first-in, first-
+     out) or market.  Inventories primarily represent finished goods.
+         Uniforms and other rental items in service are valued at cost
+     less amortization, calculated using the straight-line method
+     generally over periods of eight to eighteen months.
+         Depreciation is calculated using the straight-line method over
+     the estimated useful lives of the assets.
+         Service contracts are obtained through the acquisition of
+     businesses and are amortized using the straight-line method over
+     periods of five to ten years.
+         Other assets consist primarily of non-compete or consulting
+     agreements obtained through the acquisition of businesses, which
+     are amortized by use of the straight-line method over the
+     estimated lives of the agreements which are generally five to ten
+     years.  Other assets also include the excess of purchase price
+     over the fair market value of net assets acquired which are
+     amortized using the straight-line method over forty years.
+<TABLE>     
+     <CAPTION>
+                  <S>                                  <C>        <C>
+     2.  PROPERTY, PLANT AND EQUIPMENT                 1994       1993
+   Land                                             $19,834   $18,297
+   Buildings and improvements                       108,268   100,261
+   Equipment                                        152,441   136,347
+   Leasehold improvements                               931       735
+   Construction in progress                           6,928     7,413
+                                                    288,402   263,053
+   Less accumulated depreciation                     95,899    82,206
+   
+                                                   $192,503  $180,847
+                                      -36-   
+<PAGE>
+
+   3.  INVESTMENTS AND OTHER ASSETS                  1994      1993
+   Equity investment in affiliate                   $6,662     $6,864
+   Service contracts, less accumulated amortization 
+     of $21,523 and $18,049, respectively           36,740     35,366
+   Other assets, less accumulated amortization of 
+     $17,752 and $14,300, respectively              44,274     43,955
+   
+                                                   $87,676    $86,185
+   </TABLE>
+   
+
+
+<TABLE>
+<CAPTION>
+             <S>                                      <C>        <C>   
+   4.  LONG-TERM DEBT                                1994       1993
+   9.98% senior note payable due 2003               $19,000   $20,000
+   Unsecured senior notes payable due through 
+     2002 at an average rate of 8.73%                20,000    20,000
+   Industrial development revenue bonds due through 
+     2003 at an average rate of 5.39%                 2,675     3,305
+   Industrial development revenue bonds, at variable 
+     interest rates, due through 2006                13,437    13,957
+   Unsecured notes due through 2000 at an average 
+     rate of 5.03%                                   21,039    22,800
+   4.80% unsecured note due 1996                     20,000    20,000
+   Other long-term obligations                        3,775     8,011
+                                                     99,926   108,073
+   Less amounts due within one year                  15,742     4,462
+   
+                                                    $84,184  $103,611
+   
+</TABLE>   
+         Debt in the amount of $38,887 is secured by assets with a
+     carrying value of $38,742 at May 31, 1994 and letters of credit
+     in the amount of $19,757.  Maturities of long-term debt during the
+     five years ending May 31, 1999 are:  $15,742, $24,536, $18,622,
+     $5,977 and $5,771, respectively.  At May 31, 1994, the fair value
+     of the Company's outstanding debt approximates its carrying value.
+     
+         Interest expense is net of capitalization of $449, $415 and
+     $545 for the years ended May 31, 1994, 1993 and 1992,
+     respectively.  Interest paid, net of amount capitalized, was
+     $7,008, $6,917 and $5,483 for the years ended May 31, 1994, 1993
+     and 1992, respectively.
+     
+     
+     5.  LEASES
+     
+        The Company conducts operations from several leased facilities
+     and leases certain equipment.  Most leases contain renewal options
+     for periods from one to ten years.  The lease agreements provide
+     for increases in rentals if the options are exercised based on
+     increases in certain price level factors or prearranged increases. 
+     The minimum rental payments for the five years ending May 31, 1999
+     are:  $3,245, $2,807, $2,286, $2,229 and $2,071, respectively. 
+     Rent expense under operating leases during the years ended May 31,
+     1994, 1993 and 1992 was approximately $4,258, $3,823 and $3,000,
+     respectively.
+
+                                       -37-     
+          PAGE
+<PAGE>
+<TABLE>
+     <CAPTION>
+            <S>                                 <C>      <C>      <C>
+   6.  INCOME TAXES                                                     
+                                               1994     1993     1992 
+   
+   Income taxes consist of the following components:
+     Current:
+       Federal                                 $21,900  $16,002 $15,966
+       State and local                           4,197    3,485   2,732
+                                                26,097   19,487  18,698
+       Deferred                                  7,184    6,943   3,018
+   
+   
+                                               $33,281  $26,430 $21,716
+   
+   Reconciliation of income tax expense using 
+    the statutory rate and actual income tax 
+    expense is as follows:
+      Income taxes at the U.S. federal
+        statutory rate                         $29,908  $24,243 $19,790
+      State and local income taxes, net
+        of federal benefit                       3,412    2,658   1,957
+      Non-taxable income earned                   (554)    (428)  (155)
+      Jobs tax credits                            (602)    (198)  (415)
+      Effect of tax rate changes on tax liabilities 1,064   ---    ---  
+      Other                                         53      155    539
+   
+   
+                                                $33,281 $26,430 $21,716
+   
+   Components of deferred federal and state 
+    income taxes are as follows:
+   
+      Uniforms and other rental items in service $4,748  $4,443 $1,839
+      Depreciation                                2,129   2,460  2,255
+      Other                                         307      40 (1,076)
+   
+                                                 $7,184  $6,943  $3,018
+</TABLE>   
+   
+   
+          In fiscal 1992, the Company recorded a $2.7 million ($.06 per
+     share) cumulative credit to earnings upon adoption of SFAS No. 96,
+     Accounting for Income Taxes.  SFAS No. 109, Accounting for Income
+     Taxes, which superseded SFAS No. 96, was adopted by the Company
+     effective June 1, 1993, without restatement of prior period
+     financial statements or recording of a cumulative adjustment.  The
+     adoption of SFAS No. 109 resulted primarily in the
+     reclassification of certain deferred tax balances.
+     
+          The components of deferred income taxes included on the
+     balance sheet at May 31, 1994 and 1993 are as follows:
+     
+                                                 1994          1993
+   Deferred tax assets:
+     Employee benefits                          $4,272        $3,333
+     Allowance for bad debts and other           2,667         2,447
+                                                 6,939         5,780
+   
+   Deferred tax liabilities:
+     In-service inventory                       27,575        22,827
+     Depreciation                               13,509        11,380
+     Other                                       3,326         1,860
+                                                44,410        36,067
+   
+   Net deferred tax liability                  $37,471       $30,287
+   
+          The enactment of the Omnibus Budget Reconciliation Act of
+     1993 (the Act) on August 10, 1993, resulted in increases to
+     corporate marginal tax rates, retroactive to January 1, 1993.  In
+     the first quarter of fiscal 1994, in accordance with the
+     requirements of SFAS No. 109, the Company recorded a charge to
+     earnings of $1,064 and adjusted current and deferred tax
+     liabilities to reflect the change in tax rates.  The Act also
+     reinstated jobs tax credits retroactive to July, 1992.  This
+     reinstatement amounted to $201, which partially offset the one-
+     time tax rate adjustment.
+     
+          Income taxes paid were $29,741, $20,938 and $17,924 for the
+     years ended May 31, 1994, 1993 and 1992, respectively.
+     
+
+                                   -38-
+          PAGE
+<PAGE>
+7.  ACQUISITIONS
+     
+          During fiscal 1994, 1993 and 1992, the Company acquired
+     eight, seventeen and eight uniform rental businesses,
+     respectively.  
+     
+          Information relating to the acquisitions of uniform rental
+     businesses which were accounted for as purchases is as follows:
+     
+                                               1994     1993     1992
+      Number of acquisitions                       8       16        7
+      Fair value of assets acquired          $11,996  $47,264  $14,058
+      Liabilities assumed and incurred           200    4,880     ---
+      Total cash paid for acquisitions       $11,796  $42,384  $14,058
+   
+   
+          The results of operations from the acquired businesses are
+     included in the consolidated statements of income from the dates
+     of acquisition.  The unaudited pro-forma results of operations for
+     the years ended May 31, 1994, 1993, and 1992, assuming the
+     acquisitions had occurred on June 1 of each respective fiscal year
+     would be approximately as follows:
+     
+                                               1994     1993     1992
+       Revenues                             $529,322  $483,819 $457,102
+       Net income                             52,614    45,517   39,867
+       Earnings per share                       1.13       .98      .86
+   
+   
+          The unaudited pro forma results of operations are not
+     necessarily indicative of the actual operating results that would
+     have occurred had the acquisitions been consummated on June 1 of
+     each respective fiscal year or of future operating results of the
+     combined companies.
+     
+          The Company acquired one business in fiscal 1993 in exchange
+     for 180,383 shares of common stock.  This acquisition was
+     accounted for as a pooling of interests.  The accompanying prior
+     year consolidated financial statements were not restated as the
+     results of operations of this acquisition were not material.
+     
+          In fiscal 1992, the Company acquired Rental Uniform Service
+     of Greenville, S.C., Inc. in exchange for 2,616,230 shares of
+     common stock.  
+     
+
+     
+     8.  CINTAS PARTNERS' PLAN
+     
+          The Cintas Partners' Plan (the Plan) is a non-contributory
+     profit sharing plan and ESOP for the benefit of Company employees
+     who have completed one year of service.  Contributions to the Plan
+     are determined at the discretion of the Company.  Effective June
+     1, 1993, the Company added a defined contribution feature to the
+     Plan covering substantially all employees.  A maximum 20% matching
+     contribution to the Plan may be made at the Company's discretion. 
+     Total contributions, including the Company's matching contribution
+     during fiscal 1994, were $4,300, $3,700 and $3,200 for the years
+     ended May 31, 1994, 1993 and 1992, respectively.
+
+                                       -39-
+     <PAGE>
+     9.  SHAREHOLDERS' EQUITY
+     
+          On February 24, 1992, the Board of Directors approved a two-
+     for-one common stock split, effective April 2, 1992.  All per
+     share data and other stock related disclosures appearing in these
+     consolidated financial statements have been adjusted to reflect
+     all stock splits.  
+     
+     10.  STOCK OPTIONS
+     
+          Under a stock option plan adopted by the Company in fiscal
+     1993, the Company may grant officers and key employees incentive
+     stock options and/or non-qualified stock options to purchase an
+     aggregate of 2,300,000 shares of the Company's common stock. 
+     Options are generally granted at the fair market value of the
+     underlying common stock on the date of grant and generally become
+     exercisable at the rate of 20% per year commencing five years
+     after grant, so long as the holder remains an employee of the
+     Company.
+     
+          The information presented in the table relates to incentive
+     stock options granted and outstanding under either the plan
+     adopted in fiscal 1993, or under a similar plan which expired in
+     June 1993.
+     
+     
+   
+                                                         Stock Option
+                                              Shares      Price Range
+   
+   Outstanding May 31, 1991 
+    (163,320 shares exercisable)             1,422,120   $2.67-$15.21
+   
+   Granted                                     199,730    21.38-28.25
+   Cancelled                                   (41,400)    3.46-23.50
+   Exercised                                  (131,126)     2.67-7.96
+   Outstanding May 31, 1992 
+     (278,170 shares exercisable)            1,449,324     2.67-28.25
+   
+   Granted                                     121,950    25.25-28.75
+   Cancelled                                   (54,120)    3.46-28.25
+   Exercised                                  (199,678)     2.67-9.42
+   Outstanding May 31, 1993 
+     (297,654 shares exercisable)            1,317,476     2.67-28.75
+   Granted                                     193,750    26.50-27.50
+   Cancelled                                   (48,710)    5.92-28.25
+   Exercised                                  (226,682)    2.67-12.17
+   Outstanding May 31, 1994 
+     (246,551 shares exercisable)            1,235,834   $3.46-$28.75
+   
+   
+   
+        In addition to the outstanding incentive stock options
+     reflected in the table, there were 188,750, 188,750 and 237,750
+     outstanding non-qualified stock options at May 31, 1994, 1993 and
+     1992, respectively.  During fiscal 1994, 18,000 non-qualified
+     stock options were granted and 18,000 were exercised.  At May 31,
+     1994, the exercise prices of these outstanding options range from
+     $5.92 to $26.50 and 117,120 of these outstanding options were
+     exercisable.
+     
+          At May 31, 1994, 4,257,000 shares of common stock are
+     reserved for future issuance.
+                                   -40-     
+     <PAGE>
+     
+     
+     11.  QUARTERLY FINANCIAL DATA (UNAUDITED)
+         (Amounts in thousands except per share data)
+     
+          Following is a summary of the results of operations for each
+     of the quarters within the years ended May 31, 1994 and 1993:
+     <TABLE>
+     <CAPTION>
+                                        First  Second    Third   Fourth
+   May 31, 1994                      Quarter Quarter  Quarter  Quarter
+   <S>                                   <C>    <C>      <C>      <C>
+   Revenues from rentals and sales  $122,224 $129,783 $129,385 $141,824
+   Gross profit                      $50,217   53,079   51,824   54,751
+   Net income                        $10,543   13,580   13,061   14,986
+   Earnings per share                  $ .23      .29      .28      .32
+   Weighted average number of 
+     shares outstanding               46,637   46,680   46,717   46,790
+   
+   May 31, 1993
+   
+   Revenues from rentals and sales  $104,662 $110,980 $112,804 $124,276
+   Gross profit                      $42,751   45,244   46,225   48,848
+   Net Income                         $9,565   11,647   11,014   12,647
+   Earnings per share                   $.21      .25      .24      .27
+   Weighted average number of 
+     shares outstanding               46,217   46,316   46,409   46,574
+</TABLE>   
+
+                                       -41-
+   <PAGE>
+   
+      <PAGE>
+     REPORT OF AUDIT COMMITTEE
+     
+     
+          The Audit Committee (the Committee) of the Board of Directors
+     is composed of three independent directors.  The Committee, which
+     held two audit meetings during fiscal year 1994, oversees the
+     Company's financial reporting process on behalf of the Board of
+     Directors.
+     
+          In fulfilling its responsibility, the Committee recommended
+     to the Board of Directors the selection of the Company's
+     independent auditors.  The Committee discussed with the
+     independent auditors the overall scope and specific plan for their
+     audits.  The Committee also discussed the Company's consolidated
+     financial statements and the adequacy of the Company's system of
+     internal control.
+     
+          The Committee meets with the Company's independent auditors,
+     without management present, to discuss the results of their
+     audits, their evaluation of the system of internal control and the
+     overall quality of the Company's financial reporting.  The
+     meetings also are designed to facilitate any private
+     communications with the Committee desired by the independent
+     auditors.
+     
+     
+     
+     
+     Roger L. Howe, Chairman
+     Audit Committee
+     July 15, 1994
+     
+     
+     
+     REPORT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+     
+     
+     The Board of Directors
+     Cintas Corporation
+     
+          We have audited the accompanying consolidated balance sheets
+     of Cintas Corporation as of May 31, 1994 and 1993, and the related
+     consolidated statements of income, shareholders' equity and cash
+     flows for each of the three years in the period ended May 31,
+     1994.  These financial statements are the responsibility of the
+     Company's management.  Our responsibility is to express an opinion
+     on these financial statements based on our audits.
+     
+          We conducted our audits in accordance with generally accepted
+     auditing standards.  Those standards require that we plan and
+     perform the audit to obtain reasonable assurance about whether the
+     financial statements are free of material misstatement.  An audit
+     includes examining, on a test basis, evidence supporting the
+     amounts and disclosures in the financial statements.  An audit
+     also includes assessing the accounting principles used and
+     significant estimates made by management, as well as evaluating
+     the overall financial statement presentation.  We believe that our
+     audits provide a reasonable basis for our opinion.
+     
+          In our opinion, the financial statements referred to above
+     present fairly, in all material respects, the consolidated
+     financial position of Cintas Corporation at May 31, 1994 and 1993,
+     and the consolidated results of its operations and its cash flows
+     for each of the three years in the period ended May 31, 1994, in
+     conformity with generally accepted accounting principles.
+     
+          As discussed in Note 6 to the consolidated financial
+     statements, the Company has given effect to the changes in
+     accounting for income taxes pursuant to Standards promulgated by
+     the Financial Accounting Standards Board.
+     
+     
+     Ernst & Young LLP
+     Cincinnati, Ohio
+     July 15, 1994
+                                       -42-     
+          PAGE
+<PAGE>
+                   CINTAS CORPORATION
+      MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                    AND RESULTS OF OPERATIONS
+     
+     
+     FISCAL 1994 COMPARED TO FISCAL 1993
+     
+          Total revenues for fiscal 1994 increased 15.6% to $523.2
+     million.  Net rental revenues increased 14.8%.  Revenues in
+     existing rental operations increased 9.5% while acquisitions
+     accounted for the remaining growth.  
+          Net sales revenues increased 21.8%.  The increase was
+     attributable to the implementation of new uniform programs for
+     several large national accounts and the conversion of existing
+     accounts to newly-designed uniform programs.
+         Income before taxes increased 19.8% to $85.5 million.  Pre-tax
+     margins improved during the year from 15.7% in fiscal 1993 to
+     16.3% in fiscal 1994.  Margins were impacted favorably primarily
+     by decreases in medical benefits costs and workers compensation
+     as the company continues to focus on cost control measures in
+     these areas.  Net interest expense decreased by $.6 million
+     reflecting the repayment of $8.4 million in debt and an increase
+     in interest income.  
+          The Company's effective tax rate increased from 37.1% to
+     38.9% as a result of an increase in the federal tax rate.
+     Return on equity of 18.2% was comparable with the prior year.
+       Cash, cash equivalents and marketable securities increased by
+     $5.8 million due to strong cash flow from internal operations. 
+     The cash, cash equivalents and marketable securities will be used
+     to finance future acquisitions and capital expenditures. 
+     Marketable securities consist primarily of industrial revenue
+          bonds and federal government securities.
+       Inventories increased $7.6 million in order to provide service
+     to recent acquisitions and to increase the service level to
+                     existing locations.
+       Net property, plant and equipment increased by $11.7 million. 
+     In fiscal 1994, the Company constructed three new uniform rental
+     facilities to accommodate growth in rental operations. 
+       The current portion of long-term debt increased $11.3 million,
+     in line with the scheduled maturities of long-term  debt.
+       All other changes in balance sheet accounts correlate with the
+              change in the Company's revenues.
+                              
+             FISCAL 1993 COMPARED TO FISCAL 1992
+                              
+       On December 28, 1992, the Company purchased Maryatt Industries
+     for approximately $30 million.  The Company financed a portion of
+     this acquisition by borrowing $20 million.  Prior to the
+     acquisition, Maryatt Industries had annual sales volume of
+     approximately $28 million and operations in 9 cities primarily in
+       the Pacific Northwest, Arizona and California.
+       Total revenues for fiscal year 1993 increased 12.7% to $452.7
+     million.  Net rental revenues increased 14.6%.  Revenues in
+     existing rental operations increased 7.5% while acquisitions
+             accounted for the remaining growth.
+       Net sales revenue decreased 1.1%.  The decrease was attributed
+     to the significant impact on the prior year's sales from the
+     implementation of new uniform programs for several large national
+     companies and the conversion of two major national accounts to
+              newly-designed uniform programs.
+       Income before income taxes increased 22.5% to $71.3 million. 
+     Pre-tax margins improved during the year from 14.5% in fiscal 1992
+     to 15.7% in fiscal 1993.  The margin improvement resulted from the
+     consolidation of certain Rental Uniform Service of Greenville,
+     S.C., Inc. operations which were in their start-up phase and were
+     incurring substantial losses prior to the acquisition by the
+     Company.  Margins were also impacted favorably by increased
+     efficiency due to continued investment in state-of-the-art
+     equipment and facilities as the Company continued to improve its
+     infrastructure.  
+       The Company's effective tax rate of 37.1% was comparable with
+     the prior year.
+       Return on equity of 18.3% compares to the previous year's
+     return of 18.8%.  The fiscal 1992 results reflect the impact of
+     adoption of SFAS No. 96, a change in accounting for income taxes
+     which resulted in a cumulative credit of $2.7 million.  Excluding
+     this credit to earnings, return on equity would have been 17.6%
+     in fiscal 1992.
+                                      -43-
+     <PAGE>
+       Cash, cash equivalents and marketable securities increased by
+     $32.1 million due to strong cash flow from internal operations and
+     $10.0 million borrowed through a private placement of notes.  The
+     cash, cash equivalents and marketable securities will be used to
+     finance future acquisitions and capital expenditures.  Marketable
+     securities consist primarily of industrial revenue bonds and
+     federal government securities.  Net property, plant and equipment
+     increased by $7.9 million.  In fiscal 1993, the Company
+     constructed four new uniform facilities to accommodate growth in
+     rental operations.
+       Investments and other assets increased by $36.6 million or
+     73.8% reflecting service contracts and non-compete or consulting
+     agreements obtained through the acquisition of other uniform
+     businesses.
+       All other changes in balance sheet accounts correlated with
+     the change in the Company's revenues.
+                              
+                     FINANCIAL CONDITION
+                              
+       At May 31, 1994, the Company had $60.8 million in cash, cash
+     equivalents and marketable securities.  The Company's investment
+     policy pertaining to marketable securities is conservative. 
+     Preservation of principal while earning an attractive yield are
+     the criteria used in making investments.  Working capital
+     increased $8.0 million to $130.0 million due primarily to an
+     increase in cash, cash equivalents and marketable securities.
+                              
+       Capital expenditures for fiscal 1994 totaled $37.2 million. 
+     The Company continues to reinvest profits into land, buildings and
+     equipment in order to expand capacity for future growth.  The
+     Company anticipates that capital expenditures for fiscal 1995 will
+                  approximate $48 million.
+                              
+       The Company's Board of Directors has authorized the repurchase
+     of up to two million shares of the Company's common stock.  The
+     stock may be purchased from time to time as market conditions
+                          dictate.
+                              
+       The Company believes that its current cash position, funds
+     anticipated to be generated from operations and the strength of
+     its banking relationships is sufficient to meet its anticipated
+      financing requirements in the foreseeable future.
+                              
+       The Company's percentage of debt to total capitalization was
+     24.4% at May 31, 1994, vs. 29.0% at May 31, 1993.  
+                              
+       During the fiscal year, the Company paid a dividend of $.17
+     per share.  This dividend is an increase of 21%over that paid in
+     fiscal 1993.  
+                              
+                          INFLATION
+                              
+       Management believes inflation has not had a material impact on
+     the Company's financial condition or a negative effect on
+     operations.
+ 
+                                    -44-                                   
+     <PAGE>
+    Shareholder Information
+                              
+                              
+     EXECUTIVE OFFICES                10-K REPORT
+     
+     Cintas Corporation           A copy of the Form 10-K annual     
+     6800 Cintas Boulevard        report filed with the Securities 
+     P.O. Box 625737              and Exchange Commission for the
+     Cincinnati, Ohio  45262-5737 year ended May 31, 1994, is        
+                                  available at no charge 
+                                  to shareholders.  Direct requests  
+                                  in writing for this report or      
+                                  other information to:
+     
+                      
+     AUDITORS                     David T. Jeanmougin
+                                  Senior Vice President, Finance
+     Ernst & Young LLP            Cintas Corporation
+     250 E. Fifth Street          6800 Cintas Boulevard
+     1300 Chiquita Center         P.O. Box 625737
+     Cincinnati, Ohio  45202      Cincinnati, Ohio  45262-5737
+                                  (513) 459-1200
+     
+     STOCK LISTING              MARKET FOR REGISTRANT'S COMMON STOCK
+                                AND RELATED SECURITY HOLDER MATTERS
+     Cintas Corporation Common 
+     Stock is traded on the       The Common Stock of Cintas
+     NASDAQ National Market       Corporation is traded
+     System.  The symbol is CTAS. in the over-the-counter market     
+                                  (NASDAQ National Market System,    
+                                  symbol: CTAS).  At May 31, 1994,
+                                  there were approximately 1,600     
+                                  stockholders of record of the
+                                  Corporation's Common Stock.  The 
+     REGISTRAR AND TRANSFER AGENT Company believes that this
+                                  represents approximately
+     The Fifth Third Bank         10,000 beneficial owners.
+     38 Fountain Square Plaza     The following table shows the high 
+     Cincinnati, Ohio  45263      and low closing prices by quarter  
+                                  during the last two fiscal
+     (513) 579-5300               years.
+     
+                      
+    ANNUAL MEETING               Fiscal 1994         Fiscal 1993               
+<TABLE>
+<CAPTION>
+October 13, 1994           <S>          <C>  <C>      <C>         <C>   <C>
+                        Quarter ended  High  Low Quarter ended  High   Low
+Cintas Corporate Office  May 1994     327/8 293/4  May 1993     31    251/4
+6800 Cintas Boulevard  February 1994  341/2 281/2 February 1993 301/4 251/2
+Cincinnati, Ohio        November 1993 311/2  25   November 1992 281/2 241/2
+10:00 a.m.               August 1993  291/4 243/4  August 1992  301/4 233/4
+
+                                         -45-
+
+PAGE
+<PAGE>
+                         
+                                           EXHIBIT 21
+     
+                  SUBSIDIARIES OF REGISTRANT
+     
+     
+                                                STATE/PROVINCE OF
+          NAME                                    INCORPORATION
+     
+     Cintas Corporation - East Coast             Massachusetts
+     
+     Cintas Corporation - Ohio                        Ohio
+     
+     Cintas Corporation No. 1                         Ohio
+     
+     Cintas Corp. No. 5                            Michigan
+     
+     Cintas Corp. No. 13                          Pennsylvania
+     
+     Cintas Corporation No. 41                      Maryland
+     
+     Cintas Sales Corporation                        Ohio
+     
+     Cintas Corp. No. 45                         North Carolina
+     
+     Corporate Business Services, Inc.             Illinois
+     
+     Cintas - R.U.S., Inc.                      South Carolina
+     
+     Cintas Corporation Canada, Inc.            Ontario, Canada
+     
+     Cintas Cleaning Service, Inc.                   Ohio
+     
+                                      -46-     
+          PAGE
+<PAGE>
+                                                  Exhibit 23
+     
+                      CONSENT OF INDEPENDENT AUDITORS
+     
+     We consent to the incorporation by reference in this Annual Report
+     on Form 10-K of Cintas Corporation of our report dated July 15,
+     1994, included in the 1994 Annual Report to Shareholders of Cintas
+     Corporation.
+     
+     Our audits also included the financial statement schedules of
+     Cintas Corporation listed in Item 14(a).  These schedules are the
+     responsibility of the Company's management.  Our responsibility
+     is to express an opinion based on our audits.  In our opinion, the
+     financial statement schedules referred to above, when considered
+     in relation to the basic financial statements as a whole,
+     present fairly in all material respects the information set forth
+     therein.
+     
+     We also consent to the incorporation by reference in the
+     Registration Statement Number 33-23228 on Form S-8 pertaining to
+     the Incentive Stock Option Plan and Registration Statement Number
+     33-71124 on Form S-8 pertaining to the 1990 Directors Plan and
+     1992 Stock Option Plan, of our report dated July 15, 1994, with
+     respect to the financial statements and schedules of Cintas
+     Corporation incorporated by reference in this Annual Report on
+     Form 10-K for the year ended May 31, 1994.
+     
+     
+     Ernst & Young LLP
+     Cincinnati, Ohio  
+     August 25, 1994
+     
+                                      -47-
+<PAGE>     
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

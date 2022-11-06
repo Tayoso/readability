@@ -1,0 +1,3179 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ OFyZAsaPLKYcdZesNXFrcDXIqw5SaD6vgpYW1XHOvxXyEbCHb1MjIhI5n2cnZuYh
+ auIn0Xot4wUXgtdNpYHuFA==
+
+<IMS-DOCUMENT>0000007084-94-000015.txt : 19940928
+<IMS-HEADER>0000007084-94-000015.hdr.sgml : 19940928
+ACCESSION NUMBER:		0000007084-94-000015
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940927
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARCHER DANIELS MIDLAND CO
+		CENTRAL INDEX KEY:			0000007084
+		STANDARD INDUSTRIAL CLASSIFICATION:	2070
+		IRS NUMBER:				410129150
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00044
+		FILM NUMBER:		94550480
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4666 FARIES PKWY
+		CITY:			DECATUR
+		STATE:			IL
+		ZIP:			62526
+		BUSINESS PHONE:		2174245200
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>1994 10K - ANNUAL REPORT
+<TEXT>
+
+                                
+          PAGE 1
+                            FORM 10-K
+                                
+               SECURITIES AND EXCHANGE COMMISSION
+                    Washington, D. C.  20549
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES     EXCHANGE ACT OF 1934
+
+For the fiscal year ended June 30, 1994
+                               OR
+
+[ ]TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+   SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from             to
+
+Commission file number 1-44
+
+                 ARCHER-DANIELS-MIDLAND COMPANY
+     (Exact name of registrant as specified in its charter)
+
+         Delaware                                  41-0129150
+(State or other jurisdiction of              (I. R. S. Employer
+incorporation or organization)              Identification No.)
+
+4666 Faries Parkway   Box 1470   Decatur, Illinois   62525
+(Address of principal executive offices)           (Zip Code)
+
+Registrant's telephone number, including area code217-424-5200
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                        Name of each exchange on
+   Title of each class                   which registered
+
+Common Stock, no par value              New York Stock Exchange
+                                        Chicago Stock Exchange
+                                        Stock Exchange of Basle,
+                                             Switzerland
+                                        Stock Exchange of
+Zurich,
+                                             Switzerland
+                                        Stock Exchange of
+Geneva,
+                                             Switzerland
+                                        Tokyo Stock Exchange
+                                        Frankfurt Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  Yes X       No ___
+State the aggregate market value of the voting stock held by non-
+affiliates of the registrant.
+
+          Common Stock, no par value--$7.3 billion
+(Based on the closing price of the New York Stock Exchange on
+August 22, 1994)
+
+Indicate the number of shares outstanding of each of the
+registrant's classes of common stock, as of the latest
+practicable date.
+
+          Common Stock, no par value--327,306,990 shares
+                    (August 22, 1994)
+
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the annual shareholders' report for the year ended
+June 30, 1994 are incorporated by reference into Parts I, II and
+IV.
+
+Portions of the annual proxy statement for the year ended June
+30, 1994 are incorporated by reference into Part III.
+1
+
+             PAGE 2
+PART I
+
+Item 1. BUSINESS
+
+        (a)    General Development of Business
+
+           Archer Daniels Midland Company was incorporated in
+           Delaware in 1923, successor to the Daniels Linseed
+           Co. founded in 1902.
+
+           During the last five years, the Company has
+           experienced significant growth, spending
+           approximately $3.3 billion for construction of new
+           plants, expansions of existing plants and the
+           acquisitions of plants and transportation equipment.
+           There have been no significant dispositions during
+           this period.
+
+        (b)    Financial Information About Industry Segments
+
+           The Company is in one business segment--procuring,
+           transporting, storing, processing and merchandising
+           agricultural commodities and products.
+
+        (c)    Narrative Description of Business
+
+           (i) Principal products produced and principal markets
+               for and methods of distribution of such products
+
+               The Company is engaged in the business of
+               procuring, transporting, storing, processing and
+               merchandising agricultural commodities and
+               products.  It is one of the world's largest
+               processors of oilseeds, corn and wheat.  The
+               Company also processes rice, milo, oats, barley,
+               peanuts and cane sugar.  Other operations include
+               transporting, merchandising and storing
+               agricultural commodities and products.  These
+               operations and processes produce products which
+               have primarily two end uses, either food or feed
+               ingredients.  Each commodity processed is in
+               itself a feed ingredient as are the by-products
+               produced during the processing of each commodity.
+
+               Production processes of all commodities are
+               capital intensive and similar in nature. These
+               processes involve grinding, crushing or milling
+               with further value added through extraction,
+               refining and fermenting.  Generally, each
+               commodity can be processed by any of these
+               methods to generate additional value added
+               products.  All commodities and related processed
+               products share the same network of commodity
+               procurement facilities, transportation services
+               (including rail, barge, truck and ocean vessels)
+               and storage facilities.
+2
+
+
+            PAGE 3
+               The geographic areas, customers and marketing
+               methods are basically the same for all
+               commodities and their related further processed
+               products.  Feed ingredient products and by-
+               products are sold to farmers, feed dealers and
+               livestock producers, all of which can and will
+               purchase products from across the entire
+               commodity chain.  Food ingredient products are
+               also sold to one basic group of customers, food
+               processors.  Any single customer may purchase
+               products produced from all commodities and any
+               single food or feed product could include
+               ingredients produced from all commodities we
+               process.
+
+           Oilseed Products
+
+           Soybeans, cottonseed, sunflower seeds, canola,
+           peanuts, flaxseed and corn germ are processed to
+           provide vegetable oils and meals principally for the
+           food and feed industries.  Crude vegetable oil is
+           sold as is or is further processed by refining and
+           hydrogenating into margarine, shortening, salad oils
+           and other food products.  Partially refined oil is
+           sold for use in chemicals, paints and other
+           industrial products. Lecithin, an emulsifier
+           produced in the vegetable oil refining process, is
+           marketed as a food and feed ingredient.
+
+           Oilseed meals supply more than one-half of the high
+           protein ingredients used in the domestic manufacture
+           of commercial livestock and poultry feeds. Soybean
+           meal is further processed into soy flour and grits,
+           used in both food and industrial products, and into
+           value-added soy protein products.  Textured
+           vegetable protein (TVP R), a soy protein product
+           developed by the Company, is sold primarily to the
+           institutional food market and, through others, to
+           the food consumer market.  The Company also produces
+           a wide range of other edible soy protein products
+           including isolated soy protein, soy protein
+           concentrate, soy-based milk products, soy flours and
+           vegetable patties (Harvest Burgers R).  The Company
+           produces and markets a wide range of consumer and
+           institutional health foods based on the Company's
+           various soy protein products.
+
+           Corn Products
+
+           The Company is engaged in dry milling and wet milling
+           corn operations. Products produced for use by the
+           food and beverage industry include syrup, starch,
+           glucose, dextrose, crystalline dextrose, high
+           fructose sweeteners, crystalline fructose and grits.
+           Corn gluten feed and distillers grains are produced
+           for use as feed ingredients. Ethyl alcohol is
+           produced to beverage grade or for industrial use as
+           ethanol.  Ethanol is used to increase octane, and as
+           an extender and oxygenate in gasoline.  Corn germ, a
+           byproduct of the milling process, is further
+           processed as an oilseed.
+3
+            PAGE 4
+ITEM 1. BUSINESS--Continued
+
+           The Company produces by fermentation, from dextrose,
+           citric and lactic acids, feed-grade amino acids and
+           vitamins, lactates, sorbitol, monosodium glutamate,
+           nematodes and food emulsifiers principally for the
+           food and feed industries.
+
+           Wheat and Other Milled Products
+
+           Wheat flour is sold primarily to large bakeries,
+           durum flour is sold to pasta manufacturers and
+           bulgur, a gelatinized wheat food, is sold to both
+           the export and the domestic food markets. Masa corn
+           flour is sold primarily to specialty food producers
+           to be used in the production of tortillas, taco
+           shells and tortilla chips.
+
+           The Company mills long, medium and short grain rice
+           and mills oats into oat bran and oat flour for
+           institutional and consumer food customers.  The
+           Company also mills milo to produce industrial flour
+           that is used in the manufacturing of wall board for
+           the building industry.
+
+           Other Products and Services
+
+           The Company buys, stores and cleans agricultural
+           commodities, such as corn, wheat, soybeans, canola,
+           milo, sunflower seeds, rice, oats and barley, for
+           resale to other processors worldwide.
+
+           The Company produces and distributes formula feeds
+           and animal health and nutrition products to the
+           livestock, dairy and poultry industries.  Many of
+           the feed ingredients and health and nutrition
+           products can be, and in many cases are, produced in
+           our other commodity processing operations.
+
+           The Company produces bakery products and mixes which
+           are sold to the baking industry.
+
+           The Company produces spaghetti, noodles, macaroni,
+           and other consumer food products.  The Company also
+           produces lettuce, other fresh vegetables and herbs
+           in its hydroponic greenhouse.
+
+           Malt products are produced for use by the food and
+           beverage industries.
+
+           The Company produces from cane sugar granulated and
+           liquid refined sugars principally for the food and
+           beverage industries.
+4
+            PAGE 5
+Item 1. BUSINESS--Continued
+
+           Hickory Point Bank and Trust Co. furnishes public
+           banking services, except commercial loans, as well
+           as cash management and securities safekeeping
+           services for the Company.
+
+           Agrinational Insurance Company and Agrinational Ltd.,
+           Vermont and Cayman Island subsidiaries,
+           respectively, act as direct insurers and reinsurers
+           of a portion of the Company's domestic and foreign
+           property and casualty insurance risks.
+
+           Alfred C. Toepfer International (Germany) and
+           affiliates, of which the Company has a 50% interest,
+           is one of the world's largest, most respected
+           trading companies specializing in processed
+           agricultural products.  Toepfer has thirty-nine
+           sales offices worldwide.  Compagnie Industrielle et
+           Financiere des Produits Amylaces SA (Luxembourg) and
+           affiliates, of which the Company has a 41.5%
+           interest, owns European agricultural processing
+           plants that are primarily engaged in corn wet
+           milling and wheat starch production.
+
+           The Company, through its partnership with Gold Kist,
+           Inc. and Alimenta Processing Corporation d/b/a
+           Golden Peanut Company, is a major supplier of
+           peanuts to both the domestic and export markets.
+           These peanuts are used in peanut butter, snacks,
+           cereals and many other foods.
+
+           The percentage of net sales and other operating
+           income by classes of products and services for the
+           last three fiscal years were as follows:
+                                       1994    1993   1992
+
+           Oilseed products             50%     50%    51%
+           Corn products                 26      28     29
+           Wheat and other
+             milled products             13      13     10
+           Other products and services   11       9     10
+
+                                       100%    100%   100%
+           Methods of Distribution
+
+           Since the Company's customers are principally other
+           manufacturers and processors, its products are
+           distributed mainly in bulk from processing plants or
+           storage facilities directly to the customers'
+           facilities.  The Company owns a large number of
+           trucks and trailers and owns or leases large numbers
+           of railroad tank cars and hopper cars to augment
+           those provided by the railroads.  The Company uses
+           the inland waterway system and functions as a
+           contract carrier of commodities for its own
+           operations as well as for other companies.
+5
+            PAGE 6
+Item 1. BUSINESS--continued
+
+           The Company owns, leases or manages under operating
+           agreements approximately 1,900 river barges and 25
+           line-haul towboats.
+
+          (ii)  Status of new products
+
+                The Company continues to expand its bioproducts.
+                The Company is currently producing, from
+                dextrose, the feed-grade amino acids lysine and
+                threonine, and expects to be producing
+                tryptophan during the coming year.  The Company
+                has entered the vitamin market with the
+                production of riboflavin and biotin, and is
+                currently expanding production facilities to
+                produce vitamins C and E.  The Company is also
+                producing, from dextrose fermentation, citric
+                acid, monosodium glutamate (MSG) and lactic
+                acid and is scheduled to begin to produce, in
+                the next year, the food additive, xanthan gum.
+
+         (iii)  Source and availability of raw materials
+
+                Substantially all of the Company's raw materials
+                are agricultural commodities.  In any single
+                year, the availability and price of these
+                commodities are subject to wide fluctuations
+                due to unpredictable factors such as weather,
+                plantings, government (domestic and foreign)
+                farm programs and policies, changes in global
+                demand created by population growth and higher
+                standards of living and worldwide production of
+                similar and competitive crops.  The Company
+                follows a policy of hedging commodity
+                transactions, including certain anticipated
+                production requirements, to minimize price risk
+                due to market fluctuations and risk of crop
+                failure.
+
+          (iv)  Patents, trademarks and licenses
+
+                The Company owns several valuable patents,
+                trademarks and licenses but does not consider
+                its business dependent upon any single or group
+                of patents, trademarks and licenses.
+
+
+
+
+        (v)  Extent to which business is seasonal
+
+                Since the Company is so widely diversified in
+                global agribusiness markets, there are no
+                material seasonal fluctuations in the
+                manufacture, sale and distribution of its
+                products and services.  There is a degree of
+                seasonality in the growing season and
+                procurement of the Company's principal raw
+                materials, oilseeds, wheat, corn and other
+                grains.  However, the actual physical movement
+                of the millions of bushels of these crops
+                through the Company's storage and processing
+                facilities is reasonably constant throughout
+                the year.  The worldwide need for food is not
+                seasonal and is ever expanding as is the
+                world's population.
+6
+            PAGE 7
+Item 1. BUSINESS--Continued
+
+         (vi)         Working capital items
+
+               Price variations and availability of grain at
+               harvest often cause wide fluctuations in the
+               Company's inventories and short-term borrowings.
+
+        (vii)  Dependence on single customer
+
+               No material part of the Company's business is
+               dependent upon a single customer or very few
+               customers.
+
+        (viii)            Amount of backlog
+
+               Because of the nature of the Company's business,
+               the backlog of orders at year end is not a
+               significant indication of the Company's activity
+               for the current or upcoming year.
+
+         (ix)  Business subject to renegotiation
+
+               The Company has no business with the government
+               that is subject to renegotiation.
+
+          (x)        Competitive conditions
+
+               Markets for the Company's products are highly
+               competitive and sensitive to product
+               substitution.  No single company competes with
+               the Company in all of its markets; however, a
+               number of large companies compete in one or more
+               markets.  Major competitors in one or more
+               markets include, but are not limited to,
+               Cargill, Inc., ConAgra, Inc., CPC International,
+               Eridania Beghin-Say and Tate & Lyle.
+
+         (xi)  Research and development expenditures
+
+               Practically all of the Company's technical
+               efforts and expenditures are concerned with food
+               and feed ingredient products. Special efforts
+               are being made to find improvements in food
+               technology to alleviate the protein malnutrition
+               throughout the world, utilizing the three
+               largest United States crops-wheat, soybeans and
+               corn.
+
+               The need to successfully market new or improved
+               food and feed ingredients developed in the
+               Company's research laboratories led to the
+               concept of technical support.  The Company is
+               staffed with technical representatives  who work
+               closely with customers and potential customers
+               on the development of food and feed products
+               which incorporate Company produced ingredients.
+7
+
+            PAGE 8
+Item 1. BUSINESS--Continued
+
+               These technical representatives are an adjunct to
+               both the research and sales functions.
+
+               The Company maintains a research laboratory in
+               Decatur, Illinois where product and process
+               development activities are conducted.  Enzyme
+               development and production are an important part
+               of these activities. Protein research is
+               conducted at facilities in Decatur where meat
+               and dairy pilot plants support application
+               research. Research to support sales and product
+               development for bakery products is done at a
+               laboratory in Olathe, Kansas.  Additional
+               research activities are conducted at the
+               Decatur, Indiana feed research facility and at
+               the British Arkady plant in Manchester, England.
+
+               The amount spent during the three years ended
+               June 30, 1994, 1993 and 1992 for such technical
+               efforts were approximately $20.1, $14.8, and
+               $14.6 million, respectively. In addition, the
+               Company maintains separate quality control
+               departments which are supervised by research
+               personnel.
+
+        (xii)  Material effects of capital expenditures for
+               environmental protection
+
+               During 1994, $22 million was spent for equipment,
+               facilities and programs for pollution control
+               and compliance with the requirements of various
+               environmental agencies.
+
+               There have been no material effects upon the
+               earnings and competitive position of the Company
+               resulting from compliance with federal, state
+               and local laws or regulations enacted or adopted
+               relating to the protection of the environment.
+
+               The Company expects that expenditures for
+               environmental facilities and programs will
+               continue at approximately the present rate with
+               no unusual amounts anticipated for the next two
+               years.
+
+        (xiii)          Number of employees
+
+               The number of persons employed by the Company was
+               16,013 at June 30, 1994.
+Item 1. BUSINESS--Continued
+
+        (d)    Financial Information About Foreign and Domestic
+           Operations and Export Sales
+
+           The Company's foreign operations are principally in
+           developed countries and do not entail any undue or
+           unusual business risks. Geographic financial
+           information is set forth in Note 9 to the audited
+           financial statements included in the Company's 1994
+           Annual Report to Shareholders.
+
+           Export sales by classes of products for the last
+           three fiscal years were as follows:
+
+                                       1994    1993   1992
+
+           Oilseed products              5%      5%     5%
+           Corn products                 6%       6      7
+           Wheat and other milled
+             products                     1       2      1
+           Other products and services    -       1      1
+
+                                        12%     14%    14%
+8
+            PAGE 9
+Item 1. BUSINESS--Continued
+
+        (e) Executive Officers
+
+          Name                        Title                 Age
+
+          Dwayne O. Andreas    Chairman of the Board of      76
+                               Directors from 1972.
+                               Chief Executive Officer
+
+          James R. Randall     President from 1975.          69
+
+          G. Allen Andreas     Vice President from 1988.     51
+                               Counsel to the Executive
+                               Committee from September 1994
+
+          Michael D. Andreas   Vice Chairman of the Board    45
+                               of Directors from October 1992.
+                               Executive Vice President
+                               from 1988.
+
+          Martin L. Andreas    Senior Vice President from 1988.
+55
+                               Executive Assistant to the
+                               Chief Executive.
+
+          Charles P. Archer    Treasurer from October 1992.  38
+                               Assistant Treasurer from 1988.
+
+          Charles T. Bayless   Group Vice President from
+                               January 1993.  Vice President 59
+                               from 1992.  President of ADM
+                               Processing Division since 1980.
+
+          Dale F. Benson       Vice President from 1969.     68
+
+          Howard G. Buffett    Vice President and Assistant  39
+                               to the Chairman from 1992.
+                               Chairman of Douglas County,
+                               Nebraska Board of Commissioners
+                               from 1988 to 1992.  President of
+                               Buffett Farms Inc. since 1984.
+
+          Howard E. Buoy       Group Vice President from     67
+                               January 1993.  Vice President
+                               of ADM Processing Division
+                               from 1979.
+
+          William H. Camp      Vice President from April 1993.45
+                               Vice President of ADM Processing
+                               Division from 1990 to 1993.
+                               Various merchandising positions
+                               from 1988 to 1990.
+9
+            PAGE 10
+Item 1. BUSINESS--Continued
+
+          Larry H. Cunningham  Vice President and President  50
+                               of Protein Specialties
+                               Division since July 1993.
+                               Formerly President of
+                               A. E. Staley Manufacturing Co.
+
+          Thomas A. Duffield   Vice President from 1975.     69
+
+          Edward A. Harjehausen     Vice President from October
+43
+                               1992.  Vice President of
+                               ADM Corn Processing Division
+                               from 1988.
+
+          Burnell D Kraft      Group Vice President from     62
+                               January 1993.  Vice President
+                               from 1984.  President of
+                               ADM/Growmark, Collingwood
+                               Grain and Tabor Grain Co.
+                               subsidiaries.
+
+          Paul L. Krug, Jr.    Vice President from 1991 and  50
+                               President of ADM Investor
+                               Services.  Formerly a Vice
+                               President of Continental Grain.
+
+          Raymond V. Preiksaitis    Vice President - Management
+41
+                               Information Systems from 1988.
+
+          John G. Reed         Vice President from 1982.     64
+                               Chief Executive-Europe from
+September 1994
+
+          Richard P. Reising   Vice President, Secretary and 50
+                               General Counsel from 1991.
+                               Secretary and Assistant General
+                               Counsel since 1988.
+
+          John D. Rice         Vice President from April 1993.40
+                               Vice President of ADM Processing
+                               Division from 1992.  Various
+                               merchandising positions from
+                               1988 to 1992.
+
+          Douglas J. Schmalz   Vice President, Controller and48
+                               Chief Financial Officer from
+1986.
+
+Item 1. BUSINESS--Continued
+
+          Mark E. Whitacre     Vice President from October   37
+                               1992.  President of ADM Bio-
+products Division from 1989.
+
+          Terrance S. Wilson   Group Vice President from     56
+                               January 1993.  Officer of
+                               ADM Corn Processing Division
+                               since 1988.
+
+          Officers of the registrant are elected by the Board of
+          Directors for terms of one year and until their
+          successors are duly elected and qualified.
+
+          Michael D. Andreas is the son of Dwayne O. Andreas. G.
+          Allen Andreas and Martin L. Andreas are nephews of
+          Dwayne O. Andreas. Lowell W. Andreas and Dwayne O.
+          Andreas, directors of the registrant are brothers.
+          Charles P. Archer is the son of S. M. Archer, Jr., a
+          director of the registrant.
+10
+            PAGE 11
+Item 2.   PROPERTIES
+
+       (a) Processing Facilities
+
+       The Company has one hundred sixty-three processing plants
+       in the United States of which one hundred fifty-six are
+       owned and the balance are leased. The Company also owns
+       or has a 50% or greater ownership interest in fifty-four
+       foreign processing plants.  The Company's operations are
+       such that most products are efficiently processed near
+       the source of raw materials.  Consequently, the Company
+       has many plants located strategically in grain producing
+       areas.  The annual volume processed will vary depending
+       upon availability of raw material and demand for the
+       finished products.
+
+       The Company operates thirty-five domestic and seven
+       foreign oilseed crushing plants with a daily processing
+       capacity of approximately 73,000 tons.  The domestic
+       plants are located in Alabama, Arkansas, Georgia,
+       Illinois, Indiana, Iowa, Kansas, Louisiana, Minnesota,
+       Missouri, Mississippi, Nebraska, North Dakota, Ohio,
+       South Carolina, Tennessee and Texas.  The foreign plants
+       are located in Canada, England, Germany and the
+       Netherlands.
+
+       The Company  operates four wet corn milling and two dry
+       corn milling plants with a daily grind capacity of
+       approximately 1,590,000 bushels. These plants and other
+       related properties, including corn germ extraction and
+       corn gluten pellet plants, are located in Illinois,
+       Iowa, New York, North Dakota and Texas.  The Company
+       also has interests, through joint ventures, in corn
+       milling plants in Mexico, Bulgaria, Hungary and
+       Slovakia.
+
+       The Company operates twenty-nine domestic wheat and
+       durum flour mills, a domestic bulgur plant, six Canadian
+       flour mills and one Mexican flour mill with a total
+       daily capacity of approximately 355,000 cwt. of flour.
+       The Company also operates six corn flour mills, three
+       rice mills, two milo mills, two pasta plants and four
+       starch and gluten plants. These plants and other related
+       properties are strategically located across North
+       America in California, Illinois, Indiana, Iowa, Kansas,
+       Kentucky, Louisiana, Minnesota, Missouri, Nebraska, New
+       York, North Carolina, North Dakota, Oklahoma, Oregon,
+       Pennsylvania, Tennessee, Texas, Washington, Wisconsin,
+       Canada and Mexico.
+
+       The Company operates ten domestic oilseed refineries in
+       Illinois, Indiana, Iowa, Georgia, Nebraska, Tennessee
+       and Texas as well as five foreign refineries in Canada,
+       Germany and the Netherlands.  The Company produces
+       packaged oils in Illinois, California and Germany and
+       soy protein specialty products in Illinois, England, and
+       the Netherlands.  Lecithin products are produced in
+       Illinois, Iowa, Nebraska, Germany and the Netherlands.
+11
+          PAGE 12
+       The Company produces feed and food additives at seven
+       bioproduct plants located in Illinois, North Carolina
+       and Ireland.  The Company also operates formula feed,
+       animal health and nutrition and pet food plants in
+       Arkansas, Georgia, Illinois, Iowa, Kansas, Kentucky,
+       Michigan, Missouri, Nebraska, North Carolina, Ohio,
+       Pennsylvania, South Carolina, Tennessee, Texas,
+       Washington, Wisconsin, Vermont, England and Ireland.
+
+       The Company operates five North American barley malting
+       plants located in Illinois, Minnesota, Wisconsin and
+       Canada plus a cane sugar refinery in Louisiana.
+
+        The Company operates various other food ingredient
+       plants in Iowa, Kansas, Washington, England, France,
+       Germany, Italy, Portugal and Spain.
+
+(b)    Procurement Facilities
+
+       The Company operates one hundred sixty-nine domestic
+       terminal, country and river elevators covering the
+       Midwest, West and South Central states, including one
+       hundred-thirteen country elevators and fifty-six
+       terminal and river loading facilities including three
+       grain export elevators in Louisiana.  Elevators are
+       located in Arkansas, Colorado, Georgia, Illinois,
+       Indiana, Iowa, Kansas, Minnesota, Missouri, Montana,
+       Nebraska, North Carolina, Oklahoma, South Carolina,
+       Tennessee and Texas.  Domestic grain terminals,
+       elevators and processing plants have an aggregate
+       storage capacity of approximately 355,000,000 bushels.
+       The Company also operates ten foreign grain elevators in
+       Canada, Ireland and Germany.  Thirteen cotton gins are
+       located in Texas and serve the cottonseed crushing
+       plants in that area.
+12
+          PAGE 13
+Item 3.   LEGAL PROCEEDINGS
+
+       In 1993, the State of Illinois Environmental Protection
+       Agency brought administrative enforcement proceedings
+       arising out of the Company's failure to obtain permits
+       for certain pollution control equipment at certain of
+       the Company's processing facilities in Illinois.  The
+       Company believes it has meritorious defenses.  While the
+       Company cannot reasonably estimate the amount of the
+       sanctions which may be imposed in these matters, in
+       management's opinion, they will not, either individually
+       or in the aggregate, have a material adverse effect on
+       the Company's financial condition or results of
+       operations.
+       
+       The Company is involved in approximately 20
+       administrative and judicial proceedings in which it has
+       been identified as a potentially responsible party (PRP)
+       under the federal Superfund law and its state analogs
+       for the study and clean-up of sites contaminated by
+       material discharged into the environment.  In all of
+       these matters, there are numerous PRP's.  Due to various
+       factors such as the required level of remediation and
+       participation in the clean-up effort by others, the
+       Company's future clean-up at these sites cannot be
+       reasonably estimated.  However, in management's opinion,
+       these proceedings will not, either individually or in
+       the aggregate, have a material adverse effect on the
+       Company's financial condition or results of operations.
+       
+       The Company from time to time, in the ordinary course of
+       business, is named as a defendant in various lawsuits.
+       In management's opinion, the gross liability from
+       litigation, including environmental exposure, with or
+       without insurance recoveries is not considered to be
+       material to the Company's financial condition or results
+       of operations.
+13
+          PAGE 14
+Item 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+       None.
+
+
+PART II
+
+Item 5.MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+       STOCKHOLDER MATTERS
+
+       Common Stock Market Prices and Dividends on page 37 of
+       the annual shareholders' report for the year ended June
+       30, 1994 is incorporated herein by reference.
+
+Item 6.   SELECTED FINANCIAL DATA
+
+       Years 1990 through 1994 included in the Ten-Year Summary
+       of Operating, Financial and Other Data on pages 38 and
+       39 of the annual shareholders' report for the year ended
+       June 30, 1994 is incorporated herein by reference.
+
+Item 7.MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+       CONDITION AND RESULTS OF OPERATIONS
+
+       Management's Discussion of Operations and Financial
+       Condition on pages 24 and 25 of the annual shareholders'
+       report for the year ended June 30, 1994 is incorporated
+       herein by reference.
+
+Item 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+       The following financial statements and supplementary data
+       included in the annual shareholders' report for the year
+       ended June 30, 1994 are incorporated herein by
+       reference:
+
+                                          Page(s) in the Annual
+                                           Shareholders' Report
+
+         Consolidated Financial Statements,
+         Summary Significant Accounting Policies
+         and Notes to Consolidated Financial
+         Statements                           Pages 26 through
+34
+
+         Report of Independent Auditors       Page 35
+
+         Quarterly Financial Data (Unaudited)     Page 36
+
+Item 9.CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+       ACCOUNTING AND FINANCIAL DISCLOSURE
+
+       None.
+14
+
+          PAGE 15
+PART III
+
+
+       The following items of Part III, included in the
+       definitive proxy statement for 1994, are incorporated
+       herein by reference:
+                                               Page(s) in the
+Definitive Proxy                                  Statement
+
+Item 10.                                       DIRECTORS AND
+EXECUTIVE OFFICERS OF THE                      Pages 2 through 6
+        REGISTRANT                             Page 13
+        Information with respect to executive officers
+        is included in Item 1 (e) of this report.
+
+Item 11.                                       EXECUTIVE
+COMPENSATION                                   Pages 7 through
+12
+
+Item 12.                                       SECURITY
+OWNERSHIP OF CERTAIN BENEFICIAL                Page 2
+        OWNERS AND MANAGEMENT
+
+Item 13.                                       CERTAIN
+RELATIONSHIPS AND RELATED TRANSACTIONS         Page 12
+15
+
+          PAGE 16
+PART IV
+
+Item 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON
+FORM 8-K
+
+        (a)(1)The following consolidated financial statements
+              and other financial data of the registrant and
+              its subsidiaries, included in the annual report
+              of the registrant to its shareholders for the
+              year ended June 30, 1994, are incorporated by
+              reference in Item 8, and are also incorporated
+              herein by reference:
+
+              Consolidated balance sheets--June 30, 1994 and
+1993
+
+              Consolidated statements of earnings--Years ended
+                June 30, 1994, 1993 and 1992
+
+              Consolidated statements of shareholders' equity--
+                Years ended June 30, 1994, 1993 and 1992
+
+              Consolidated statements of cash flows--Years ended
+                June 30, 1994, 1993 and 1992
+
+              Notes to consolidated financial statements--June
+30,
+                1994
+
+              Quarterly Financial Data (Unaudited)
+
+       (a)(2)The following consolidated financial schedules of
+              the registrant and its subsidiaries are included
+              in this report:
+
+                Schedule I--Marketable securities--other
+                 investments ...................................
+23
+
+                Schedule V--Property, plant and equipment ......
+24
+
+                Schedule VI--Accumulated depreciation, depletion
+                 and amortization of property, plant and
+                 equipment .....................................
+26
+
+                Schedule IX--Short-term borrowings
+..............     27
+
+                Schedule X--Supplementary income statement
+                 information
+....................................                       28
+
+            All other schedules are not applicable and
+            therefore not included in this report.
+            
+            Financial statements of affiliates accounted for
+            by the equity method have been omitted because
+            they do not, considered individually, constitute
+            significant subsidiaries.
+16
+          PAGE 17
+Item 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON
+FORM 8-K
+       --Continued
+
+       (a)(3) LIST OF EXHIBITS
+
+            (3) Composite Certificate of Incorporation and
+                Bylaws filed on November 7, 1986 as Exhibits
+                3(a) and 3(b), respectively, to Post Effective
+                Amendment No. 1 to Registration Statement on
+                Form S-3, Registration No. 33-6721, are
+                incorporated herein by reference.
+
+            (4) Instruments defining the rights of security
+                holders, including:
+
+                (i)  Indenture dated May 15, 1981, between
+                     the registrant and Morgan Guaranty Trust
+                     Company of New York, as Trustee
+                     (incorporated by reference to Exhibit
+                     4(b) to Amendment No. 1 to Registration
+                     Statement No. 2-71862), relating to the
+                     $250,000,000 - 7% Debentures due May 15,
+                     2011;
+
+                (ii) Indenture dated May 1, 1982, between the
+                     registrant and Morgan Guaranty Trust
+                     Company of New York, as Trustee
+                     (incorporated by reference to Exhibit
+                     4(c) to registration Statement No. 2-
+                     77368), relating to the $400,000,000
+                     Zero Coupon Debentures due May 1, 2002;
+
+                (iii)Indenture dated as of March 1, 1984
+                     between the registrant and Chemical
+                     Bank, as Trustee (incorporated by
+                     reference to Exhibit 4 to the
+                     registrant's Current Report on Form 8-K
+                     dated August 3, 1984 (File No. 1-44)),
+                     as supplemented by the Supplemental
+                     Indenture dated as of  January 9, 1986,
+                     between the registrant and Chemical
+                     Bank, as Trustee (incorporated by
+                     reference to Exhibit 4 to the
+                     registrant's Current Report on Form 8-K
+                     dated January 9, 1986 (File No. 1-44)),
+                     relating to the $100,000,000 - 10 1/4%
+                     Debentures due January 15, 2006;
+
+                (iv) Indenture dated June 1, 1986 between the
+                     registrant and Chemical Bank, (as
+                     successor to Manufacturers Hanover Trust
+                     Company), as Trustee (incorporated by
+                     reference to Exhibit 4(a) to
+                     Registration Statement No. 33-6721), and
+                     Supplemental Indenture dated as of
+                     August 1, 1989 between the registrant
+                     and Chemical Bank (as successor to
+                     Manufacturers Hanover Trust Company), as
+                     Trustee (incorporated by reference to
+                     Exhibit 4(c) to Post-Effective Amendment
+                     No. 3 to Registration Statement No. 33-
+                     6721), relating to the $300,000,000  -
+                     8 7/8%
+17
+          PAGE 18
+Item 14.            EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND
+REPORTS ON FORM 8-K
+        --Continued
+
+                     Debentures due April 15, 2011, the
+                     $300,000,000  -  8 3/8% Debentures due
+                     April 15, 2017, the $300,000,000  -  8
+                     1/8% Debentures due June 1, 2012, the
+                     $250,000,000  -  6 1/4% Notes due May
+                     15, 2003, and the $250,000,000  -  7
+                     1/8% Debentures due  March 1, 2013.
+
+                    Copies of constituent instruments
+                     defining rights of holders of long-term
+                     debt of the Company and Subsidiaries,
+                     other than the Indentures specified
+                     herein, are not filed herewith, pursuant
+                     to Instruction (b)(4) (iii)(A) to Item
+                     601 of Regulation S-K, because the total
+                     amount of securities authorized under
+                     any such instrument does not exceed 10%
+                     of the total assets of the Company and
+                     Subsidiaries on a consolidated basis.
+                     The registrant hereby agrees that it
+                     will, upon request by the Commission,
+                     furnish to the Commission a copy of each
+                     such instrument.
+                  
+           (10)Material Contracts--Copies of the Company's
+                stock option plans and its savings and
+                investment plans, pursuant to Instruction
+                (10)(iii)(A) to Item 601 of Regulation S-K, are
+                incorporated herein by reference as follows:
+                
+                (i) Registration Statement No. 2-91811 on Form
+                     S-8 dated June 22, 1984 (definitive
+                     Prospectus dated July 16, 1984) relating
+                     to the Archer Daniels Midland 1982
+                     Incentive Stock Option Plan.
+                
+                (ii)Registration Statement No. 33-27331 on Form
+                     S-8 dated February 27, 1989 relating to
+                     the Archer Daniels Midland Company Savings
+                     and Investment Plan for Hourly Employees.
+                
+                (iii)     Registration Statement No. 33-49409
+                     on Form S-8 dated March 15, 1993 relating
+                     to the Archer Daniels Midland 1991
+                     Incentive Stock Option Plan and Archer
+                     Daniels Midland Company Savings and
+                     Investment Plan.
+                
+            (13) Annual report to security holders
+
+            (21) Subsidiaries of the registrant
+18
+          PAGE 19
+Item 14.            EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND
+REPORTS ON FORM 8-K
+        --Continued
+
+            (23) Consent of independent auditors
+
+            (24) Powers of attorney
+
+            (27) Financial Data Schedule
+
+        (b) Reports on Form 8-K
+
+            A Form 8-K was not filed during the quarter ended
+            June 30, 1994.
+19
+            PAGE 20
+                           SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the Registrant has duly
+caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+Date: September 27, 1994
+                                
+                                          ARCHER-DANIELS-MIDLAND
+COMPANY
+
+                                   R. P. Reising
+                                   Vice President, Secretary
+                                   and General Counsel
+
+                                   D. J. Schmalz
+                                   Vice President, Controller
+and
+                                   Chief Financial Officer
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, this report has been signed below on September 27, 1994,
+by the following persons on behalf of the Registrant and in
+the capacities indicated.
+
+     D. O. Andreas*, Chairman of the Board, Chief Executive and
+     Director
+                    (Principal Executive Officer)
+     L. W. Andreas*, Director
+     M. D. Andreas*, Director
+     M. L. Andreas*, Director
+     S. M. Archer, Jr.*, Director
+     Ralph Bruce*, Director
+     H. G. Buffett*, Director
+      J. H. Daniels*, Director
+     R. A. Goldberg*, Director
+     H. D. Hale*, Director
+     F. R. Johnson*, Director
+     J. R. Randall*, Director
+     Mrs. N. A. Rockefeller*, Director
+     R. S. Strauss*, Director
+     J. K. Vanier*, Director
+     O. G. Webb*, Director
+
+
+                                   R. P. Reising
+                                   Attorney-in-Fact
+
+*Powers of Attorney authorizing R. L. Erickson, R. P. Reising,
+D. J. Schmalz and D. J. Smith and each of them, to sign the Form
+10-K on behalf of the above-named officers and directors of the
+Company are being filed with the
+and Exchange Commission.
+20
+          PAGE 21
+<TABLE>
+<CAPTION>
+      SCHEDULE I--MARKETABLE SECURITIES--OTHER INVESTMENTS
+
+         ARCHER DANIELS MIDLAND COMPANY AND SUBSIDIARIES
+
+                          June 30, 1994
+
+
+           COL. A                      COL. B          COL. C         COL. D            COL. E
+
+                                                                                  Amount at Which
+                                     Number of                                     Each Portfolio
+                                     Shares or                        Market     of Equity Security
+                                  Units--Principal                   Value of     Issues and Each
+                                     Amount of                      Each Issue     Other Security
+     Name of Issuer                  Bonds and          Cost of     at Balance    Issue Carried in
+and Title of Each Issue                Notes           Each Issue   Sheet Date   the Balance Sheet
+
+                         (In thousands)
+<S>                                            <C>
+<C>              <C>                  <C>
+Marketable securities consist of:
+ United States government obligations$1,258,024      $1,245,697    $1,244,524        $1,245,697
+ Marketable equity securities
+  ARCO Chemical Company               4,869,500         188,558       220,954           188,558
+  Other                                                 544,832       586,451           544,832
+ Other investments                                      199,542       202,267           199,542
+                                                      _________     _________         _________
+                                                     $2,178,629    $2,254,196        $2,178,629
+                                                      =========     =========         =========
+
+
+Marketable securities are classified
+in the balance sheet as follows:
+ Cash and cash equivalents                                                           $  268,497
+ Marketable securities                                                                1,019,059
+ Long-term marketable securities                                                        891,073
+                                                                                      _________
+                                                                                     $2,178,629
+                                                                                      =========
+</TABLE>
+21
+          PAGE 22
+<TABLE>
+<CAPTION>
+                                
+            SCHEDULE V--PROPERTY, PLANT AND EQUIPMENT
+         ARCHER DANIELS MIDLAND COMPANY AND SUBSIDIARIES
+
+        COL. A               COL. B           COL. C       COL. D          COL. E         COL. F
+                           Balance at      Additions                Other Changes Add - Balance at
+    Classification    Beginning of Period at Cost (1)   Retirements(Deduct)-Describe (2)End of Period
+
+Year Ended June 30, 1994                              (In
+Thousands)
+<S>                              <C>                   <C>
+<C>                <C>              <C>
+ Land                     $   94,143        $  4,691      $  1,951        $  4,971      $  101,854
+ Buildings                   907,625         107,654        10,593          25,131       1,029,817
+ Machinery and equipment   4,622,590         353,163        45,770         143,648       5,073,631
+ Construction in progress    377,317          66,013           -            12,399         455,729
+                           _________         _______        ______         _______       _________
+       TOTAL              $6,001,675        $531,521       $58,314        $186,149      $6,661,031
+                           =========         =======        ======         =======       =========
+Year Ended June 30, 1993
+ Land                     $   89,141        $  7,861       $    96       $ (2,763)      $   94,143
+ Buildings                   843,437          58,180         3,057           9,065         907,625
+ Machinery and equipment   4,319,936         322,487        32,875          13,042       4,622,590
+ Construction in progress    295,537          19,084           -            62,696         377,317
+                           _________         _______        ______         _______       _________
+       TOTAL              $5,548,051        $407,612       $36,028        $ 82,040      $6,001,675
+                           =========         =======        ======         =======       =========
+Year Ended June 30, 1992
+ Land                     $   74,991        $  5,782       $   117        $  8,485      $   89,141
+ Buildings                   700,565          98,557         4,133          48,448         843,437
+ Machinery and equipment   3,669,515         490,171        50,395         210,645       4,319,936
+ Construction in progress    386,858       (109,483)           -            18,162         295,537
+                                                            ______         _______       _________
+          TOTAL           $4,831,929        $485,027       $54,645        $285,740      $5,548,051
+                           =========         =======        ======         =======       =========
+<FN>
+See notes on following page.
+</TABLE>
+22
+            PAGE 23
+NOTES TO SCHEDULE V--PROPERTY, PLANT AND EQUIPMENT
+
+ARCHER DANIELS MIDLAND COMPANY AND SUBSIDIARIES
+
+June 30, 1994
+
+(1)  Additions consist principally of:
+
+     1994--Bioproduct facility and expansions at Decatur,
+          Illinois, and Southport, North Carolina.  Corn
+          processing expansions at Cedar Rapids and Clinton,
+          Iowa, Decatur and Peoria, Illinois and Walhalla,
+          North Dakota.  Flour milling facility at Beech Grove,
+          Indiana.  Rice processing expansion at Weiner,
+          Arkansas.  Transportation equipment consisting
+          primarily of railroad cars.
+     
+     1993--Bioproduct facility and expansions at Decatur,
+          Illinois, Southport, North Carolina and Ringaskiddy,
+          Ireland.  Corn processing expansions at Cedar Rapids
+          and Clinton, Iowa and Decatur and Peoria, Illinois.
+          Flour milling facility at Beech Grove, Indiana.
+          Transportation equipment consisting primarily of
+          railroad cars and barges.
+     
+     1992--Bioproduct facility and expansion, antibiotic plant,
+          expansions in corn processing, sorbitol and soy
+          protein isolate at Decatur, Illinois.  Soy protein
+          concentrate plant, second gas turbine system and oil
+          refinery at Europoort, Netherlands.  Corn processing
+          and cogeneration expansions at Cedar Rapids, Iowa.
+          Citric acid expansion and cogeneration plant at
+          Southport, North Carolina.  Corn processing expansion
+          and oil refinery at Clinton, Iowa.  Softseed
+          extraction plant at Erith, England.  Cogeneration
+          facility at Spyck, Germany.  Oil refinery at
+          Frankfort, Indiana.  Transportation equipment
+          consisting primarily of railroad cars.
+     
+(2)Other changes relate to assets of acquired companies and
+   changes due to foreign currency translation.
+
+(3)The annual provisions for depreciation have been computed
+   principally in accordance with the following ranges of asset
+   lives:
+
+     Buildings                          10 to 50 years
+     Machinery and equipment             3 to 20 years
+23
+
+               PAGE 24
+<TABLE>
+<CAPTION>
+                                
+      SCHEDULE VI--ACCUMULATED DEPRECIATION, DEPLETION AND
+                          AMORTIZATION
+                OF PROPERTY, PLANT AND EQUIPMENT
+         ARCHER DANIELS MIDLAND COMPANY AND SUBSIDIARIES
+
+          COL. A            COL. B          COL. C          COL. D         COL. E         COL. F
+
+                          Balance at      Additions                    Other Changes    Balance at
+                          Beginning    Charged to Costs                 Add (Deduct)      End of
+       Description        of Period      and Expenses   Retirements     Describe (1)      Period
+
+                         (In thousands)
+<S>                             <C>                 <C>
+<C>               <C>              <C>
+Year ended June 30, 1994:
+ Buildings               $  358,330       $ 42,547        $ 3,826        $ 3,827      $  400,878
+ Machinery and equipment  2,428,511        312,472         37,330         17,925       2,721,578
+                          _________        _______         ______        _______       _________
+            TOTAL        $2,786,841       $355,019        $41,156        $21,752      $3,122,456
+                          =========        =======         ======        =======       =========
+Year ended June 30, 1993:
+ Buildings               $  319,341       $ 39,013        $ 1,370       $  1,346      $  358,330
+ Machinery and equipment  2,168,614        290,092         21,446        (8,749)       2,428,511
+                          _________        _______         ______        _______       _________
+            TOTAL        $2,487,955       $329,105        $22,816      $ (7,403)      $2,786,841
+                          =========        =======         ======        =======       =========
+
+Year ended June 30, 1992:
+ Buildings               $  287,249       $ 33,104        $ 2,499       $  1,487      $  319,341
+ Machinery and equipment  1,849,055        261,181         41,894        100,272       2,168,614
+                          _________        _______         ______        _______       _________
+            TOTAL        $2,136,304       $294,285        $44,393       $101,759      $2,487,955
+                          =========        =======         ======        =======       =========
+
+<FN>
+(1) Other changes relate to accumulated depreciation of acquired
+    companies and changes due to foreign currency translation.
+</TABLE>
+24
+            PAGE 25
+<TABLE>
+<CAPTION>
+               SCHEDULE IX--SHORT-TERM BORROWINGS
+         ARCHER DANIELS MIDLAND COMPANY AND SUBSIDIARIES
+
+             COL. A         COL. B           COL. C        COL. D.          COL. E         COL.
+F
+
+                                                           Maximum        Average        Weighted
+                                           Weighted         Amount         Amount        Average
+                                           Average       Outstanding    Outstanding   Interest Rate
+   Category of Aggregate  Balance at       Interest       During the     During the     During the
+Short-Term Borrowings   End of Period        Rate         Period (1)     Period (2)     Period (3)
+
+<S>                          <C>                  <C>
+<C>                <C>
+Year ended June 30, 1994:
+ Commercial paper holders     None             -        $181,500,000    $29,381,000        3.32%
+ Banks                        None             -          72,275,000     55,857,000        3.85%
+ Other financial institutions None             -               -0-            -0-            - %
+
+Year ended June 30, 1993:
+ Commercial paper holders     None             -        $135,000,000    $13,070,000        3.24%
+ Banks                        None             -          69,700,000     54,769,000        3.87%
+ Other financial institutions None             -               -0-            -0-            - %
+
+Year ended June 30, 1992:
+ Commercial paper holders     None             -        $140,000,000    $ 7,432,000        4.36%
+ Banks                        None             -          50,000,000     60,372,000        5.54%
+ Other financial institutions None             -               -0-            -0-            - %
+
+
+<FN>
+(1) Represents maximum aggregate short-term borrowings
+outstanding during the period without regard to category.
+
+(2) The average amount outstanding during the period was
+    computed by dividing the total daily outstanding principal
+    balances by 365.
+
+(3) The weighted average interest rate during the period was
+    computed by dividing the actual short-term interest expense
+    by average short-term debt outstanding.
+</TABLE>
+25
+               PAGE 26
+<TABLE>
+<CAPTION>
+     SCHEDULE X--SUPPLEMENTARY INCOME STATEMENT INFORMATION
+                                
+         ARCHER DANIELS MIDLAND COMPANY AND SUBSIDIARIES
+                                
+
+                      COL. A                    COL. B
+                                           Charged to Costs
+                       Item                  and Expenses
+
+
+                                          Year Ended June 30
+                                        1994     1993     1992
+                                       ________ ________
+________
+                                            (In thousands)
+
+<S>                                     <C>       <C>
+<C>
+Maintenance and repairs              $299,519 $273,572 $251,820
+
+
+Amounts for other items are not presented as such amounts are
+each less than 1% of total sales and other operating income.
+
+</TABLE>
+26
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<DESCRIPTION>POWERS OF ATTORNEY
+<TEXT>
+
+            PAGE 1
+EXHIBIT 24--POWERS OF ATTORNEY
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                                 Power of Attorney
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+Director, Chairman of the Board and Chief Executive (Principal
+Executive Officer) of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such Chairman of the Board, Chief
+Executive and Director of said Company to the Form 10-K for the
+fiscal year ending June 30, 1994, and all amendments thereto, to
+be filed by said Company with the Securities and Exchange
+Commission, Washington, D.C., and to file the same, with all
+exhibits thereto and other supporting documents, with said
+Commission, granting unto said attorneys-in-fact, and each of
+them, full power and authority to do and perform any and all
+acts necessary or incidental to the performance and execution of
+the powers therein expressly granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 21st day of September, 1994.
+
+
+
+                                        D. O. ANDREAS
+1
+            PAGE 2
+
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                          Power of Attorney of Director
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+director of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such director of said Company to the Form
+10-K for the fiscal year ending June 30, 1994, and all
+amendments thereto, to be filed by said Company with the
+Securities and Exchange Commission, Washington, D.C., and to
+file the same, with all exhibits thereto and other supporting
+documents, with said Commission, granting unto said attorneys-in-
+fact, and each of them, full power and authority to do and
+perform any and all acts necessary or incidental to the
+performance and execution of the powers therein expressly
+granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 22nd day of September, 1994.
+
+
+
+                                        L. W. ANDREAS
+2
+            PAGE 3
+
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                          Power of Attorney of Director
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+director of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such director of said Company to the Form
+10-K for the fiscal year ending June 30, 1994, and all
+amendments thereto, to be filed by said Company with the
+Securities and Exchange Commission, Washington, D.C., and to
+file the same, with all exhibits thereto and other supporting
+documents, with said Commission, granting unto said attorneys-in-
+fact, and each of them, full power and authority to do and
+perform any and all acts necessary or incidental to the
+performance and execution of the powers therein expressly
+granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 21st day of September, 1994.
+
+
+
+                                        M. D. ANDREAS
+3
+            PAGE 4
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                          Power of Attorney of Director
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+director of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such director of said Company to the Form
+10-K for the fiscal year ending June 30, 1994, and all
+amendments thereto, to be filed by said Company with the
+Securities and Exchange Commission, Washington, D.C., and to
+file the same, with all exhibits thereto and other supporting
+documents, with said Commission, granting unto said attorneys-in-
+fact, and each of them, full power and authority to do and
+perform any and all acts necessary or incidental to the
+performance and execution of the powers therein expressly
+granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 23rd day of September, 1994.
+
+
+                                        Shreve M. Archer, Jr.
+4
+            PAGE 5
+
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                          Power of Attorney of Director
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+director of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such director of said Company to the Form
+10-K for the fiscal year ending June 30, 1994, and all
+amendments thereto, to be filed by said Company with the
+Securities and Exchange Commission, Washington, D.C., and to
+file the same, with all exhibits thereto and other supporting
+documents, with said Commission, granting unto said attorneys-in-
+fact, and each of them, full power and authority to do and
+perform any and all acts necessary or incidental to the
+performance and execution of the powers therein expressly
+granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 22nd day of September, 1994.
+
+
+
+                                        Ralph Bruce
+5
+
+            PAGE 6
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                          Power of Attorney of Director
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+director of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such director of said Company to the Form
+10-K for the fiscal year ending June 30, 1994, and all
+amendments thereto, to be filed by said Company with the
+Securities and Exchange Commission, Washington, D.C., and to
+file the same, with all exhibits thereto and other supporting
+documents, with said Commission, granting unto said attorneys-in-
+fact, and each of them, full power and authority to do and
+perform any and all acts necessary or incidental to the
+performance and execution of the powers therein expressly
+granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 21st day of September, 1994.
+
+
+
+                                        Howard Buffett
+6
+            PAGE 7
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                          Power of Attorney of Director
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+director of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such director of said Company to the Form
+10-K for the fiscal year ending June 30, 1994, and all
+amendments thereto, to be filed by said Company with the
+Securities and Exchange Commission, Washington, D.C., and to
+file the same, with all exhibits thereto and other supporting
+documents, with said Commission, granting unto said attorneys-in-
+fact, and each of them, full power and authority to do and
+perform any and all acts necessary or incidental to the
+performance and execution of the powers therein expressly
+granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 22nd day of September, 1994.
+
+
+
+                                        John H. Daniels
+7
+            PAGE 8
+
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                          Power of Attorney of Director
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+director of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such director of said Company to the Form
+10-K for the fiscal year ending June 30, 1994, and all
+amendments thereto, to be filed by said Company with the
+Securities and Exchange Commission, Washington, D.C., and to
+file the same, with all exhibits thereto and other supporting
+documents, with said Commission, granting unto said attorneys-in-
+fact, and each of them, full power and authority to do and
+perform any and all acts necessary or incidental to the
+performance and execution of the powers therein expressly
+granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 26 day of September, 1994.
+
+
+                                        Ray A. Goldberg
+8
+
+         PAGE 9
+
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                          Power of Attorney of Director
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+director of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such director of said Company to the Form
+10-K for the fiscal year ending June 30, 1994, and all
+amendments thereto, to be filed by said Company with the
+Securities and Exchange Commission, Washington, D.C., and to
+file the same, with all exhibits thereto and other supporting
+documents, with said Commission, granting unto said attorneys-in-
+fact, and each of them, full power and authority to do and
+perform any and all acts necessary or incidental to the
+performance and execution of the powers therein expressly
+granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 22nd day of September, 1994.
+
+
+
+                                        H. D. Hale
+9
+            PAGE 10
+
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                          Power of Attorney of Director
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+director of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such director of said Company to the Form
+10-K for the fiscal year ending June 30, 1994, and all
+amendments thereto, to be filed by said Company with the
+Securities and Exchange Commission, Washington, D.C., and to
+file the same, with all exhibits thereto and other supporting
+documents, with said Commission, granting unto said attorneys-in-
+fact, and each of them, full power and authority to do and
+perform any and all acts necessary or incidental to the
+performance and execution of the powers therein expressly
+granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 22nd day of September, 1994.
+
+
+
+                                        F. Ross Johnson
+10
+            PAGE 11
+
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                          Power of Attorney of Director
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+director of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such director of said Company to the Form
+10-K for the fiscal year ending June 30, 1994, and all
+amendments thereto, to be filed by said Company with the
+Securities and Exchange Commission, Washington, D.C., and to
+file the same, with all exhibits thereto and other supporting
+documents, with said Commission, granting unto said attorneys-in-
+fact, and each of them, full power and authority to do and
+perform any and all acts necessary or incidental to the
+performance and execution of the powers therein expressly
+granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 21st day of September, 1994.
+
+
+
+                                        J. R. Randall
+11
+
+            PAGE 12
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                          Power of Attorney of Director
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+director of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such director of said Company to the Form
+10-K for the fiscal year ending June 30, 1994, and all
+amendments thereto, to be filed by said Company with the
+Securities and Exchange Commission, Washington, D.C., and to
+file the same, with all exhibits thereto and other supporting
+documents, with said Commission, granting unto said attorneys-in-
+fact, and each of them, full power and authority to do and
+perform any and all acts necessary or incidental to the
+performance and execution of the powers therein expressly
+granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 26 day of September, 1994.
+
+
+                                   R. S. Strauss
+12
+            PAGE 13
+
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                          Power of Attorney of Director
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+director of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such director of said Company to the Form
+10-K for the fiscal year ending June 30, 1994, and all
+amendments thereto, to be filed by said Company with the
+Securities and Exchange Commission, Washington, D.C., and to
+file the same, with all exhibits thereto and other supporting
+documents, with said Commission, granting unto said attorneys-in-
+fact, and each of them, full power and authority to do and
+perform any and all acts necessary or incidental to the
+performance and execution of the powers therein expressly
+granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 22nd day of September, 1994.
+
+
+                                   J. K. Vanier
+13
+            PAGE 14
+
+
+                          ARCHER-DANIELS-MIDLAND COMPANY
+
+                          Power of Attorney of Director
+
+
+          KNOW ALL MEN BY THESE PRESENTS, that the undersigned
+director of ARCHER-DANIELS-MIDLAND COMPANY, a Delaware
+corporation, does hereby make, constitute and appoint DOUGLAS J.
+SCHMALZ, RICHARD P. REISING and D. J. SMITH, and each or any one
+of them, the undersigned's true and lawful attorneys-in-fact,
+with power of substitution, for the undersigned and in the
+undersigned's name, place and stead, to sign and affix the
+undersigned's name as such director of said Company to the Form
+10-K for the fiscal year ending June 30, 1994, and all
+amendments thereto, to be filed by said Company with the
+Securities and Exchange Commission, Washington, D.C., and to
+file the same, with all exhibits thereto and other supporting
+documents, with said Commission, granting unto said attorneys-in-
+fact, and each of them, full power and authority to do and
+perform any and all acts necessary or incidental to the
+performance and execution of the powers therein expressly
+granted.
+
+          IN WITNESS WHEREOF, the undersigned has hereunto set
+the undersigned's hand this 22nd day of September, 1994.
+
+
+                                   O. G. Webb
+14
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>3
+<DESCRIPTION>CONSENT OF INDEPENDENT AUDITORS
+<TEXT>
+
+           PAGE 1
+EXHIBIT 23--CONSENT OF INDEPENDENT AUDITORS
+
+ARCHER DANIELS MIDLAND COMPANY AND SUBSIDIARIES
+
+June 30, 1994
+
+We consent to the incorporation by reference in this Annual
+Report (Form 10-K) of Archer Daniels Midland Company of our
+report dated July 28, 1994 included in the 1994 Annual Report to
+Shareholders of Archer Daniels Midland Company.
+
+Our audits also included in the financial statement schedules of
+Archer Daniels Midland Company listed in Item 14(a).  These
+schedules are the responsibility of the Company's management.
+Our responsibility is to express an opinion based on our audits.
+In our opinion, the financial statement schedules referred to
+above, when considered in relation to the basic consolidated
+financial statements taken as a whole, present fairly in all
+material respects the information set forth therein.
+
+We also consent to the incorporation by reference in the
+following Registration Statements of our report dated July 28,
+1994 with respect to the consolidated financial statements
+incorporated herein by reference, and our report with which the
+date is September 27, 1994, included in the preceding paragraph
+with respect to the financial statement schedules included in
+this Annual Report (Form 10-K) of Archer Daniels Midland
+Company:
+
+ Registration Statement No. 2-91811 on Form S-8 dated June 22,
+ 1984 (definitive Prospectus dated July 16, 1984) relating to
+ the Archer  Daniels Midland Company 1982 Incentive Stock
+ Option Plan.
+ 
+ Registration Statement No. 33-27331 on Form S-8 dated
+ February 27, 1989 relating to the Archer Daniels Midland
+ Company Savings and Investment Plan for Hourly Employees.
+ 
+ Registration Statement No. 33-30403 on Form S-3 dated August
+ 9, 1989 (definitive Prospectus dated August 21, 1989)
+ relating to secondary offering of the Common Stock of Archer
+ Daniels Midland Company.
+ 
+ Registration Statement No. 33-31595 on Form S-3 dated October
+ 16, (definitive Prospectus dated October 25, 1989) relating
+ to secondary offering of the Common Stock of Archer Daniels
+ Midland Company.
+ 
+ Registration Statement No. 33-32425 on Form S-3 dated
+ December 6, 1989 (definitive Prospectus dated December 20,
+ 1989) relating to secondary offering of the Common Stock of
+ Archer Daniels Midland Company.
+ 
+ Registration Statement No. 33-36238 on Form S-3 dated August
+ 6, 1990 as amended by the Prospectus Supplement and Post-
+ Effective Amendent No. 1 dated August 14, 1990 and Post-
+ Effective Amendment No. 2 dated August 17, 1990 (definitive
+ Prospectus dated August 14, 1990) relating to secondary
+ offering of the Common Stock of Archer Daniels Midland
+ Company.
+ 
+ Registration Statement No. 33-37116 on Form S-3 dated October
+ 4, 1990 (definitive Prospectus dated October 10, 1990)
+ relating to secondary offering of the Common Stock of Archer
+ Daniels Midland Company.
+ 
+ Registration Statement No. 33-42308 on Form S-3 dated August
+ 19, 1991 (definitive Prospectus dated August 20, 1991)
+ relating to secondary offering of the Common Stock of Archer
+ Daniels Midland Company.
+ 
+ Registration Statement No. 33-46432 on Form S-3 dated March
+ 19, 1992 (definitive Prospectus dated March 24, 1992)
+ relating to secondary offering of the Common Stock of Archer
+ Daniels Midland Company.
+ 
+ Registration Statement No. 33-47183 on Form S-3 dated April
+ 15, 1992 (definitive Prospectus dated April 22, 1992)
+ relating to secondary offering of the Common Stock of Archer
+ Daniels Midland Company.
+ 
+ Registration Statement No. 33-49055 on Form S-3 dated
+ September 23, 1992 (definitive Prospectus dated October 4,
+ 1992) relating to secondary offering of the Common Stock of
+ Archer Daniels Midland Company.
+ 
+ Registration Statement No. 33-49409 on Form S-8 dated March
+ 15, 1993 relating to the Archer Daniels Midland 1991
+ Incentive Stock Option Plan and Archer Daniels Midland
+ Company Savings and Investment Plan.
+ 
+ Registration Statement No. 33-50879 on Form S-3 dated
+ November 1, 1993 relating to Debt Securities and Warrants to
+ purchase Debt Securities of Archer Daniels Midland Company.
+ 
+ 
+ 
+ 
+                                        ERNST & YOUNG LLP
+
+
+Minneapolis, Minnesota
+September 27, 1994
+1
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<DESCRIPTION>SUBSIDIARIES OF THE REGISTRANT
+<TEXT>
+
+            PAGE 1
+EXHIBIT 21--SUBSIDIARIES OF THE REGISTRANT
+ARCHER DANIELS MIDLAND COMPANY
+
+June 30, 1994
+
+Following is a list of the Registrant's subsidiaries showing the
+percentage of voting securities owned:
+                                     Organized Under
+                                         Laws of      Ownership
+
+ADM Agri-Industries Ltd.                Canada             100%
+ADM Europe BV                           Netherlands         100
+ADM Europoort BV                        Netherlands         100
+ADM/Growmark River System, Inc.         Delaware            100
+ADM Beteiligungs. GmbH                  Germany             100
+ADM International Ltd. (B)              England             100
+ADM Investor Services, Inc.             Delaware            100
+ADM Ireland Holdings Ltd.               Ireland             100
+ADM Milling Co.                         Minnesota           100
+ADM Oelmuhlen GmbH                      Germany             100
+ADM Ringaskiddy                         Ireland             100
+ADM Transportation Co.                  Delaware            100
+ADMIC Investments NV                    Netherlands Antilles100
+Agrinational Insurance Company          Vermont             100
+Agrinational Ltd.                       Cayman Islands      100
+Alfred C. Toepfer International (A)     Germany              50
+American River Transportation Co.       Delaware            100
+Collingwood Grain, Inc.                 Kansas              100
+Compagnie Industrielle Et Financiere (CIP)(A)        Luxembourg
+42
+Erith Oil Works Ltd.                    England             100
+Fleischmann-Kurth Malting Company, Inc. Delaware            100
+Hickory Point Bank & Trust Co.          Illinois            100
+Midland Stars, Inc.                     Delaware            100
+Oelmuhle Hamburg AG (C)                 Germany              61
+Premiere Agri Technologies Inc.         Delaware            100
+Tabor Grain Co.                         Nevada              100
+
+(A) Not included in consolidated financial statements--included
+on the equity basis.
+
+(B) ADM International Ltd. has twenty-four subsidiary companies
+whose names have been omitted because, considered in the
+aggregate as a single subsidiary, they would not constitute a
+significant subsidiary.
+
+(C) Oelmuhle Hamburg AG has fifteen subsidiaries whose names
+have been omitted because, considered in the aggregate as a
+single subsidiary, they would not constitute a significant
+subsidiary.
+
+The names of forty-eight domestic subsidiaries and twenty-eight
+international subsidiaries have been omitted because, considered
+in the aggregate as a single subsidiary, they would not
+constitute a significant subsidiary.
+1
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>5
+<DESCRIPTION>ANNUAL REPORT TO SECURITY HOLDERS
+<TEXT>
+
+            PAGE 1
+EXHIBIT 13--ANNUAL REPORT TO SECURITY HOLDERS
+Archer Daniels Midland Company
+
+MANAGEMENT'S DISCUSSION OF
+OPERATIONS AND FINANCIAL CONDITION--JUNE 30, 1994
+
+The Company is in one business segment - procuring,
+transporting, storing, processing and merchandising agricultural
+commodities.  The availability and price of the raw material
+commodities are subject to wide fluctuations due to
+unpredictable factors such as:  weather; plantings; government
+(domestic and foreign) farm programs and policies; changes in
+global demand created by population growth and higher standards
+of living; and global production of similar and competitive
+crops.  Generally, changes in the price of raw material
+commodities can be passed through to the price of processed
+products.  Ethanol is one of a limited few of the Company's
+processed products which must be priced to compete with products
+produced from other raw materials.  To minimize price risk due
+to market fluctuations and risk of crop failure the Company
+follows a policy of hedging commodity transactions, including
+certain anticipated production requirements.  Inflation over
+time has an impact on commodity prices.  The Company's business
+is capital intensive and inflation could impact the cost of
+capital investments.
+
+Operations
+
+  Net sales and other operating income for the fiscal year ended
+June 30, 1994 increased to a record high of $11.4 billion from
+$9.8 billion in fiscal 1993 due primarily to an 8% increase in
+average selling prices of the Company's products and to a lesser
+extent, a 5% increase in volume of products sold. Cost of
+products sold increased to $10.2 billion from $8.7 billion in
+fiscal 1993 due principally to higher raw material commodity
+costs and also the increased volume of products sold.  The
+effect of the higher selling prices and volume increases,
+partially offset by the higher raw material commodity prices
+resulted in gross profit increasing 7% to $1.1 billion.  Gross
+profit increased to a lesser extent than net sales and other
+operating income due primarily to higher corn prices resulting
+from the small corn crop due to the widespread Midwest flooding
+and by the low price of imported oil, both of which negatively
+impacted ethanol product margins.  The flooding also had a
+negative impact on procuring, transporting and merchandising
+activities for the year.  We estimate that higher corn costs of
+about $100 million could not be passed on to ethanol buyers and
+costs of approximately $40 million were incurred due to
+transportation and plant operation interruptions.
+
+  Net sales and other operating income for the fiscal year ended
+June 30, 1993 increased 6% to $9.8 billion from $9.2 billion in
+fiscal 1992 due primarily to a 5% increase in volume of products
+sold.  Costs of products sold increased to $8.7 billion from
+$8.2 billion in 1992 due principally to the increased volume of
+products sold with the resulting gross profit for 1993
+increasing 2% to $1.1 billion.
+
+  Selling, general and administrative expense increased $46
+million to $371 million in 1994 from $325 million in 1993 due
+principally to $26 million of expense attributable to recently
+acquired operations, a $7 million increase in advertising costs
+and other general cost increases in support of increased sales
+volumes.  Selling, general and administrative expense in 1993
+increased $30 million to $325 million from $295 million in 1992
+due principally to $13 million of expense attributable to
+recently acquired operations and general cost increases in
+support of increased sales volumes.
+
+  The decrease in other income for 1994 resulted primarily from
+increased interest expense, due principally to higher average
+borrowing levels, and to a lesser extent reduced gains on
+marketable securities transactions.  The decrease in other
+income in 1993 compared to 1992 resulted primarily from
+increased interest expense due to higher borrowing levels.  This
+decrease was partially offset by gains on marketable securities
+transactions.  Marketable securities transaction gains in 1994
+and 1993 were $26 million and $34 million, respectively, and
+marketable securities transaction losses were $17 million in
+1992.
+
+  The Company's effective tax rate was 34% in 1994, 28% in 1993
+and 34% in 1992.  The decrease in the effective tax rate for
+1993 was due primarily to a $30 million credit from settlement
+of prior years' tax audits with the Internal Revenue Service.
+In 1994, the increase in the statutory federal income tax rate
+from 34% to 35% resulted in additional income tax accruals and a
+non-recurring income tax charge of $14 million.
+
+  Effective July 1, 1992, the Company adopted FASB Statements
+No. 106, "Employers' Accounting for Postretirement Benefits
+Other Than Pensions" and No. 109, "Accounting for Income Taxes."
+The cumulative effect of adopting these accounting changes was
+to decrease earnings by $35 million, net of tax, for FASB
+Statement No. 106 and to increase earnings by $68 million for
+FASB Statement No. 109.  The new standards did not have a
+material effect on the Company's operating results.
+
+Liquidity and Capital Resources
+
+  At June 30, 1994, the Company continued to show substantial
+liquidity with working capital of $2.8 billion including cash
+and marketable securities of $1.3 billion.  Working capital also
+includes inventory which has a replacement value in excess of
+its LIFO carrying value of approximately $74 million.  The cash
+and marketable securities, consisting primarily of United States
+government obligations, are available for working capital,
+future expansion and stock repurchase plans.  Capital resources
+were strengthened as shown by the increase in net worth to $5
+billion.  The principal source of capital during the year was
+funds generated from operations.  The Company's ratio of long-
+term debt to total capital at year end was approximately 27%.
+Annual maturities of long-term debt range from $13 million to
+$28 million during the next five years except for 1997 when $112
+million is due.
+
+  Commercial paper and commercial bank lines of credit are
+available to meet seasonal cash requirements.  At June 30, 1994,
+the Company had $361 million of short-term bank credit lines.
+Both Standard & Poor's and Moody's continue to assign the
+highest rating to the Company's commercial paper and to rate its
+long-term debt as AA- and Aa2, respectively.  The Company has
+access to equity and debt capital through numerous alternatives
+available from public and private sources in the domestic and
+international markets in addition to the cash flow generated
+from operations.
+1
+            PAGE 2
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Nature of Business
+
+The Company is in one business segment-procuring, transporting,
+storing, processing and merchandising agricultural products.
+
+Principles of Consolidation
+
+The consolidated financial statements include the accounts of
+the Company and all majority-owned subsidiaries.  Investments in
+affiliates are carried at cost plus equity in undistributed
+earnings since acquisition.
+
+Cash Equivalents and Marketable Securities
+
+Cash equivalents and marketable securities are carried at cost,
+and consist primarily of United States government obligations.
+The Company considers all highly liquid investments with a
+maturity of three months or less at the time of purchase to be
+cash equivalents.  At June 30, 1994 and 1993, the fair value of
+the Company's marketable securities, based on quoted market
+prices, exceeded the carrying value of these securities by $76
+million and $66 million, respectively.
+
+Inventories
+
+Inventories, consisting primarily of merchandisable agricultural
+commodities and related value-added products, are carried at
+cost, which is not in excess of market prices.  Inventory cost
+methods include the last-in, first-out (LIFO) method, the first-
+in, first-out (FIFO) method and the hedging procedure method.
+The hedging procedure method approximates FIFO cost by valuing
+inventories, futures contracts and open purchase and sale
+contracts at market prices.
+
+The Company follows a policy of hedging commodity transactions,
+including certain anticipated production requirements, to
+minimize price risk due to market fluctuations and risk of crop
+failure.  Gains or losses arising from hedges of anticipated
+production requirements are included with the cost of the
+commodities when purchased.
+
+Property, Plant and Equipment
+
+Property, plant and equipment are recorded at cost.  The Company
+uses the straight line method in computing depreciation for
+financial reporting purposes and generally uses accelerated
+methods for income tax purposes.
+
+Net Sales
+
+The Company follows a policy of recognizing sales at the time of
+product shipment.  Net margins from grain merchandised, rather
+than the total sales value thereof, are included in net sales in
+the consolidated statements of earnings.  Gross sales of the
+Company, including the total sales value of grain merchandised,
+were $14.1 billion in 1994, $12.1 billion in 1993 and $11.4
+billion in 1992, and include export sales of $3.2 billion in
+1994, $2.9 billion in 1993 and $2.7 billion in 1992.
+
+Per Share Data
+
+Share and per share information have been adjusted to give
+effect to stock dividends in the three years ended June 30,
+1994, including the 5% stock dividend declared in July 1994, and
+payable in September 1994.  Net earnings per common share is
+determined by dividing net earnings by the weighted average
+number of common shares outstanding.  The impact of common stock
+equivalents is not material.
+
+2
+            PAGE 3
+CONSOLIDATED STATEMENTS OF EARNINGS
+<TABLE>
+<CAPTION>                              Year Ended June 30
+                             _________________________________
+                                    1994      1993      1992
+                             _________________________________
+                                     (In thousands, except
+                                       per share amounts)
+<S>                                     <C>          <C>
+<C>
+Net sales and other operating income$11,374,372$9,811,362$9,23
+1,502
+Cost of products sold and other
+  operating costs               10,236,737 8,748,418 8,188,395
+                                ______________________________
+
+  Gross Profit                   1,137,635 1,062,944 1,043,107
+
+Selling, general and administrative
+  expenses                         371,237   324,793   294,794
+                                ______________________________
+
+  Earnings From Operations         766,398   738,151   748,313
+
+Other income (expense)            (28,095)     7,858    11,256
+                                ______________________________
+
+  Earnings Before Income Taxes
+   and Cumulative Effect of
+   Accounting Changes              738,303   746,009   759,569
+
+Income taxes                       254,234   211,500   255,812
+                                ______________________________
+
+  Earnings Before Cumulative Effect
+   of Accounting Changes           484,069   534,509   503,757
+
+Cumulative effect of accounting changes-      33,018      -
+                                ______________________________
+
+  Net Earnings                  $  484,069$  567,527$  503,757
+                                ==============================
+
+Earnings per common share
+  Before cumulative effect
+   of accounting changes        $     1.40$     1.49$     1.40
+Cumulative effect of accounting changes -        .09        -
+                                ______________________________
+
+Net Earnings                    $     1.40$     1.58$     1.40
+                                ==============================
+<FN>
+See notes to consolidated financial statements
+</TABLE>
+3
+            PAGE 4
+CONSOLIDATED BALANCE SHEETS
+<TABLE>
+<CAPTION>
+
+                                            June 30
+                            __________________________________
+
+                                     1994                1993
+                            __________________________________
+Assets                                   (In thousands)
+
+<S>                                      <C>
+<C>
+Current Assets
+ Cash and cash equivalents     $  316,394           $ 386,483
+ Marketable securities          1,019,059           1,481,831
+ Receivables                    1,041,769             824,882
+ Inventories                    1,422,147           1,131,787
+ Prepaid expenses                 111,426              96,751
+                               __________          __________
+ 
+  Total Current Assets           3,910,795           3,921,734
+
+
+Investments and Other Assets
+ Investments in and advances
+ to affiliates                    297,147             331,672
+ Long-term marketable securities  891,073             872,265
+ Other assets                     109,263              63,606
+                                __________          __________
+
+                                 1,297,483           1,267,543
+
+Property, Plant and Equipment
+ Land                             101,854              94,143
+ Buildings                      1,029,817             907,625
+ Machinery and equipment        5,073,631           4,622,590
+ Construction in progress         455,729             377,317
+ Less allowances for depreciation(3,122,456)      (2,786,841)
+                               __________          __________
+ 
+                                3,538,575           3,214,834
+                                __________          __________
+
+                                $8,746,853          $8,404,111
+
+                                ==========          ==========
+</TABLE>
+4
+            PAGE 5
+<TABLE>
+<CAPTION>
+                                            June 30
+                             _________________________________
+
+                                     1994                1993
+                             _________________________________
+Liabilities and Shareholders' Equity     (In thousands)
+
+<S>                                      <C>
+<C>
+Current Liabilities
+ Accounts payable              $  690,824          $  555,514
+ Accrued expenses                 412,438             373,431
+ Current maturities of long-term debt23,716            31,286
+                               __________          __________
+
+     Total Current Liabilities   1,126,978             960,231
+
+
+Long-Term Debt                   2,021,417           2,039,143
+
+
+Deferred Credits
+ Income taxes                     432,396             414,092
+ Other                            120,641             107,394
+                                __________          __________
+
+                                   553,037             521,486
+
+Shareholders' Equity
+ Common stock                   3,415,955           3,366,622
+ Reinvested earnings            1,629,466           1,516,629
+                               __________          __________
+ 
+                                 5,045,421           4,883,251
+                                __________          __________
+
+                                $8,746,853          $8,404,111
+                                ==========          ==========
+
+
+
+<FN>
+See notes to consolidated financial statements.
+</TABLE>
+5
+            PAGE 6
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+<TABLE>
+<CAPTION>
+                                         Year Ended June 30
+
+                                     1994      1993      1992
+
+                                           (In thousands)
+<S>                                        <C>         <C>
+<C>
+Operating Activities
+Net earnings                      $ 484,069 $ 567,527 $ 503,757
+ Adjustments to reconcile to net
+ cash provided by operations
+ Cumulative effect of accounting changes-   (33,018)      -
+ Depreciation and amortization     354,463   328,549   293,729
+ Deferred income taxes              22,009    16,238    30,415
+ Amortization of long-term debt discount19,61316,900    26,044
+ Other                            (23,230)  (39,743)  (13,662)
+ Changes in operating assets and liabilities
+  Receivables                    (114,741)  (90,890)  (54,066)
+  Inventories                    (172,649)  (69,927)  (92,355)
+  Prepaid expenses                (13,450)   (8,019)   (1,843)
+  Accounts payable and accrued expenses74,287(13,804)  176,875
+                                  ________  ________  ________
+
+  Total Operating Activities       630,371   673,813   868,894
+
+Investing Activities
+ Purchases of property, plant and equipment(514,364) (394,400)
+ (479,528)
+ Business acquisitions           (257,731) (200,023)  (21,197)
+ Investments in and advances to affiliates16,506(11,441)(88,237
+ )
+ Purchases of marketable securities(2,136,553)(2,691,913)(1,004
+ ,824)
+ Proceeds from sales of marketable
+ securities                      2,643,368 1,637,373   773,816
+                                  _________ _________ _________
+Total Investing Activities        (248,774)(1,660,404)(819,970)
+
+Financing Activities
+ Long-term debt borrowings          12,001   506,576   594,355
+ Long-term debt payments          (76,133)  (33,256) (210,616)
+ Purchases of treasury stock     (355,226)  (35,429)  (85,889)
+ Cash dividends and other         (32,328)  (29,177)  (30,009)
+                                  _________ _________ _________
+
+  Total Financing Activities     (451,686)   408,714   267,841
+                                 _________ _________ _________
+  Increase (Decrease) In Cash And Cash
+  Equivalents                     (70,089) (577,877)   316,765
+
+Cash And Cash Equivalents Beginning Of
+ Period                             386,483   964,360   647,595
+                                  _________ _________ _________
+
+  Cash And Cash Equivalents End Of
+  Period                         $ 316,394 $ 386,483 $ 964,360
+                                  ========= ========= =========
+<FN>
+See notes to consolidated financial statements.
+</TABLE>
+6
+            PAGE 7
+<TABLE>
+<CAPTION>
+Consolidated Statement of Shareholders' Equity
+
+                                   Common Stock
+                                 ___________________
+                                                     Reinvested
+                                   Shares    Amount    Earnings
+
+___________________________________
+                                         (In thousands)
+
+<S>                                      <C>        <C>
+<C>
+Balance July 1, 1991             310,924 $2,637,129 $1,285,166
+
+Net earnings                                           503,757
+Cash dividends paid-$.09 per share                    (30,789)
+Acquisitions                       2,636     72,764
+Treasury stock purchases         (3,329)   (85,889)
+5% stock dividend-September 1992  15,547    389,996  (389,996)
+Foreign currency translation                            93,879
+Other                                702     16,600      (264)
+                                 _______ __________ __________
+
+   Balance June 30, 1992         326,480  3,030,600  1,461,753
+
+
+Net earnings                                           567,527
+Cash dividends paid-$.09 per share                    (32,266)
+Treasury stock purchases         (1,531)   (35,429)
+5% stock dividend-September 1993  16,300    348,927  (348,927)
+Foreign currency translation                         (131,153)
+Other                              1,050     22,524      (305)
+                                 _______ __________ __________
+
+   Balance June 30, 1993         342,299  3,366,622  1,516,629
+
+
+Net earnings                                           484,069
+Cash dividends paid-$.09 per share                    (32,586)
+Acquisitions                          19        422
+Treasury stock purchases        (15,597)  (355,226)
+5% stock dividend-declared July 199416,364  381,707  (381,707)
+Foreign currency translation                            43,363
+Other                                554     22,430      (302)
+                                 _______ __________ __________
+
+   Balance June 30, 1994         343,639 $3,415,955 $1,629,466
+                                 ======= ========== ==========
+
+<FN>
+See notes to consolidated financial statements.
+</TABLE>
+7
+            PAGE 8
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+<TABLE>
+<CAPTION>
+Note l-Inventories
+
+                                             1994        1993
+
+                                             (In thousands)
+<S>                                               <C>
+<C>
+LIFO inventories
+ FIFO value                            $  459,640  $  404,246
+ LIFO valuation reserve                  (74,016)    (28,359)
+                                       __________  __________
+ LIFO carrying value                      385,624     375,887
+ 
+FIFO inventories including
+ hedging procedure method                1,036,523     755,900
+                                        __________  __________
+                                        $1,422,147  $1,131,787
+                                        ==========  ==========
+
+
+
+
+Note 2-Accrued Expenses
+
+                                            1994         1993
+ 
+                                             (In thousands)
+
+Income taxes                            $  116,650  $  108,411
+Insurance loss reserves                     79,488      59,858
+Payroll and employee benefits              105,283      98,365
+Other                                      111,017     106,797
+                                        __________  __________
+                                        $  412,438  $  373,431
+                                        ==========  ==========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+Note 3-Long-Term Debt and Financing Arrangements
+                                               1994      1993
+                                          _____________________
+                                               (In thousands)
+<S>                                                  <C>
+<C>
+8.875% Debentures $300 million face
+amount, due in 2011                       $  298,166$  298,120
+
+8.125% Debentures $300 million face
+amount, due in 2012                          297,901   297,851
+
+8.375% Debentures $300 million face
+amount, due in 2017                          293,988   293,904
+
+7.125% Debentures $250 million face
+amount, due in 2013                          249,361   249,345
+
+6.25% Notes $250 million
+face amount, due in 2003                     249,293   249,103
+
+Zero Coupon Debt $400 million face
+amount, due in 2002                          140,768   123,191
+
+7% Debentures $250 million face amount
+due in 2011                                  125,228   123,686
+
+10.25% Debentures $100 million
+face amount, due in 2006                      98,628    98,569
+
+6% Bonds 150 million Deutsche Mark
+face amount, due in 1997                      94,400    87,669
+
+Industrial Revenue Bonds at various
+rates from 5.30% to 13.25% and due
+in varying amounts to 2012                    79,442    80,466
+Other                                        117,958   168,525
+                                          ____________________
+Total long-term debt                       2,045,133 2,070,429
+Less current maturities                     (23,716)  (31,286)
+                                          ____________________
+                                          $2,021,417$2,039,143
+                                          ====================
+
+</TABLE>
+At June 30, 1994, the fair value of the Company's long-term debt
+exceeded the carrying value by $197 million, as estimated by
+using quoted market prices or discounted future cash flows based
+on the Company's current incremental borrowing rates for similar
+types of borrowing arrangements.
+Unamortized original issue discounts on the 7% Debentures and
+Zero Coupon Debt issues are being amortized at 15.35% and
+13.80%, respectively.  Accelerated amortization of the discounts
+for tax purposes has the effect of lowering the actual rate of
+interest to be paid over the remaining lives of the issues to
+approximately 10.80% and 5.87%, respectively.
+
+The aggregate maturities for long-term debt for the five years
+after June 30, 1994 are $24 million, $15 million, $112 million,
+$28 million, and $13 million, respectively.
+
+At June 30, 1994 the Company had lines of credit totaling $361
+million.
+
+
+Note 4-Shareholders' Equity
+
+The Company has authorized 800 million shares of common stock
+and 500,000 shares of preferred stock, both without par value.
+No preferred stock has been issued.  At June 30, 1994 and 1993
+the Company had approximately 15.6 million and 9.5 million
+common shares, respectively, in treasury.  Treasury stock is
+recorded at cost, $354 million at June 30, 1994, as a reduction
+of common stock.
+
+Stock option plans provide for the granting of options to
+employees to purchase common stock of the Company at market
+value on the date of grant.  Options expire five to eight years
+after the date of grant.  At June 30, 1994 options for 1,950,686
+shares at prices ranging from $11.88 to $27.59 per share were
+outstanding of which 535,492 shares were exercisable.  There
+were 1,188,408 shares available for future grant at June 30,
+1994.
+
+Cumulative foreign currency translation losses of $4 million at
+June 30, 1994 are included as a component of reinvested
+earnings.
+8
+            PAGE 9
+Note 5-Other Income (Expense)
+<TABLE>
+<CAPTION>
+
+                                  1994      1993      1992
+                             ________________________________
+                                       (In thousands)
+<S>                                   <C>         <C>
+<C>
+Investment income              $100,706  $100,715  $112,596
+Interest expense               (173,429  (150,945  (115,417
+                               )         )         )
+Gain (loss) on marketable                          
+  securities transactions      25,785    33,531    (16,719)
+Other, including equity                            
+  in earnings of affiliates    18,843    24,557    30,796
+                               _______   _______   _______
+                               $(28,095  $  7,858  $ 11,256
+                               )
+                               ========  ========  ========
+
+</TABLE>
+
+Interest expense is net of interest capitalized of $26 million,
+$23 million and $22 million in 1994, 1993 and 1992,
+respectively.
+
+The Company made interest payments of $180 million, $151 million
+and $104 million in 1994, 1993 and 1992, respectively.
+
+Marketable securities transactions increased net earnings in
+1994 and 1993 by $.05 and $.06 per share, respectively, and
+decreased net earnings in 1992 by $.03 per share.
+
+<TABLE>
+<CAPTION>
+Note 6-Income Taxes
+                                 1994       1993      1992
+
+                                      (In thousands)
+<S>                                 <C>           <C>
+<C>
+Current
+ Federal                      $202,708  $160,966    $217,260
+ State                        30,969    31,471      27,349
+ Foreign                      14,460    (583)       4,560
+Deferred                                            
+ Federal                      4,102     23,103      3,415
+ State                        (3,036)   (1,857)     (1,886)
+ Foreign                      5,031     (1,600)     5,114
+                              _______   _______     ________
+                              $254,234  $211,500    $255,812
+                              ========  ========    ========
+</TABLE>
+Significant components of the Company's deferred tax liabilities
+and assets are as follows:
+<TABLE>
+<CAPTION>
+                                       1994          1993
+
+                                        (In thousands)
+<S>                                         <C>
+<C>
+Deferred tax liabilities
+Depreciation                    $365,491       $341,778
+Bond discount amortization      60,308           56,333
+Other                           55,575         48,117
+                                ________       ________
+                                481,374        446,228
+
+Deferred tax assets
+Postretirement benefits         27,624         19,924
+Other                           85,406         57,360
+                                ________       ________
+                                113,030        77,284
+                                ________       ________
+Net deferred tax liabilities    368,344        368,944
+                                               
+Current net deferred tax                       
+assets                          64,052         45,148
+ included in prepaid expenses
+                                ________       ________
+Non-current net deferred                       
+ tax liabilities                $432,396       $414,092
+                                ========       ========
+</TABLE>
+
+1992 deferred income tax expense consists principally of
+differences between financial reporting and income tax methods
+of recording depreciation expense.
+
+Reconciliation of the statutory federal income tax rate to the
+Company's effective tax rate is as follows:
+<TABLE>
+<CAPTION>
+                                      1994      1993      1992
+<S>                                           <C>         <C>
+<C>
+Statutory rate                        35.0%     34.0%     34.0%
+State income taxes, net of
+ federal tax benefit                   2.3       2.6       2.6
+Foreign sales corporation             (2.7)     (2.3)     (1.6)
+Settlement of tax issues                -       (4.0)       -
+Federal tax rate increase              1.8        -         -
+Other                                 (2.0)     (1.9)     (1.3)
+                                      ___       ___       ___
+
+Effective rate                        34.4%     28.4%     33.7%
+                                       ====      ====      ====
+</TABLE>
+The Company made income tax payments of $250 million, $251
+million and $196 million in 1994, 1993 and 1992, respectively.
+
+In the first quarter of 1994, the federal income tax rate
+increase resulted in additional income tax accruals and a non-
+recurring income tax charge of $14 million, or $.04 per share.
+
+During the fourth quarter of 1993, the Company settled various
+tax matters related to audits of prior tax years by the Internal
+Revenue Service.  The settlement resulted in a $30 million
+credit, or $.08 per share, to the 1993 provision.
+
+Effective July 1, 1992, the Company adopted FASB Statement No.
+109, "Accounting for Income Taxes."  The cumulative effect of
+restating deferred taxes as of July 1, 1992, was to increase
+first quarter of 1993 earnings by $68 million, or $.19 per
+share.
+9
+            PAGE 10
+Note 7-Leases
+
+The Company leases principally transportation equipment under
+noncancellable operating leases with total future lease
+commitments of $102 million, which range from $6 million to $28
+million during each of the next five years, and expire on
+various dates through 2026. Rent expense for 1994, 1993 and 1992
+was $69 million, $66 million, and $59 million, respectively.
+
+Note 8-Employee Benefit Plans
+
+The Company has noncontributory and trusteed pension plans
+covering substantially all employees.  It is the Company's
+policy to fund pension costs as required by the Employee
+Retirement Income Security Act.  At June 30, 1994 the plans had
+assets at fair value of $267 million and projected benefit
+obligations of $305 million based on a discount rate of 7.5%.
+Pension expense is not material.
+
+The Company adopted FASB Statement No. 106, "Employers'
+Accounting for Postretirement Benefits Other Than Pensions," for
+health care and life insurance benefit plans as of July 1, 1992.
+The cumulative effect of adopting this statement decreased first
+quarter 1993 earnings by $35 million (net of related taxes of
+$20 million), or $.10 per share.  This charge represented the
+discounted present value of expected future retiree health
+benefits attributed to employees' service rendered prior to July
+1, 1992.  The accumulated postretirement benefit obligations
+(APBO) for the unfunded plans at June 30, 1994, were $79
+million, based on a discount rate of 7.5% and an assumed health
+care cost trend rate of 11.8% for 1995 gradually decreasing to
+5.5% by 2004.  Expense of these plans is not material.  A 1%
+increase in the health care cost trend rate assumption would not
+have had a material impact on the APBO or expense for the year.
+
+In addition, the Company has savings and investment plans
+available to eligible employees with one year of service.
+Employees may contribute up to 6% of their salaries, not to
+exceed $9,000.  The Company matches these contributions, at
+various levels, to a maximum of $6,000.
+
+<TABLE>
+<CAPTION>
+Note 9-Geographic Information
+
+                              Net Sales
+                              and Other   Earnings
+                              Operating     From    Identifiable
+                                Income   Operations    Assets
+                              _________  __________ ____________
+                                       (In millions)
+<S>                                   <C>             <C>
+<C>
+Fiscal 1994
+ United States               $ 8,365       $704       $5,140
+ Foreign                       3,009         62        1,083
+                             _______       ____       ______
+                             $11,374       $766       $6,223
+                             =======       ====       ======
+Fiscal 1993
+ United States               $ 7,266       $716       $4,407
+ Foreign                       2,545         22          925
+                             _______       ____       ______
+                             $ 9,811       $738       $5,332
+                             =======       ====       ======
+ 
+Fiscal 1992
+ United States               $ 7,041       $709       $3,988
+ Foreign                       2,191         39          938
+                             _______       ____       ______
+                             $ 9,232       $748       $4,926
+                             =======       ====       ======
+</TABLE>
+Earnings from operations represent earnings before other income,
+income taxes and cumulative effect of accounting changes.
+Identifiable assets exclude cash and cash equivalents,
+marketable securities and investments in and advances to
+affiliates.
+10
+            PAGE 11
+REPORT OF INDEPENDENT AUDITORS
+
+
+
+Board of Directors and Shareholders
+Archer Daniels Midland Company
+Decatur, Illinois
+
+     We have audited the accompanying consolidated balance
+sheets of Archer Daniels Midland Company and subsidiaries as of
+June 30, 1994 and 1993, and the related consolidated statements
+of earnings, shareholders' equity and cash flows for each of the
+three years in the period ended June 30, 1994.  These financial
+statements are the responsibility of the Company's management.
+Our responsibility is to express an opinion on these financial
+statements based on our audits.
+
+     We conducted our audits in accordance with generally
+accepted auditing standards.  Those standards require that we
+plan and perform the audit to obtain reasonable assurance about
+whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial
+statements.  An audit also includes assessing the accounting
+principles used and significant estimates made by management, as
+well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our
+opinion.
+
+     In our opinion, the financial statements referred to above
+present fairly, in all material respects, the consolidated
+financial position of Archer Daniels Midland Company and its
+subsidiaries at June 30, 1994 and 1993, and the consolidated
+results of their operations and their cash flows for each of the
+three years in the period ended June 30, 1994, in conformity
+with generally accepted accounting principles.
+
+     As discussed in the notes to the consolidated financial
+statements, the Company changed its method of accounting for
+income taxes and postretirement benefits in 1993.
+
+
+
+
+
+Minneapolis, Minnesota
+July 28, 1994
+11
+            PAGE 12
+QUARTERLY FINANCIAL DATA (Unaudited)
+<TABLE>
+<CAPTION>
+
+
+                                          Quarter
+                           First      Second    Third    Fourth         Total
+                          (In thousands, except per share amounts)
+<S>                             <C>         <C>         <C>
+<C>          <C>
+Fiscal 1994
+ Net sales              $2,613,628$2,821,561$3,010,001$2,929,182$11,374,372
+ Gross profit              223,137   322,337   285,658   306,503  1,137,635
+ Net earnings               69,063   146,059   131,269   137,678    484,069
+     Per common share           .20       .42       .38       .40       1.40
+
+Fiscal 1993
+ Net sales              $2,384,477$2,547,483$2,457,142$2,422,260 $9,811,362
+ Gross profit              261,290   323,977   264,868   212,809  1,062,944
+ Earnings before cumulative
+  effect of accounting changes125,603155,376   129,440   124,090    534,509
+     Per common share           .35       .43       .36       .35       1.49
+ Net earnings              158,621   155,376   129,440   124,090    567,527
+     Per common share           .44       .43       .36       .35       1.58
+
+</TABLE>
+Results for the fourth quarter of fiscal 1993 included a $30
+million credit, or $.08 per share, from settlement of prior
+years' tax audits with the Internal Revenue Service.
+
+Results for the first quarter of fiscal 1993 have been restated
+for the cumulative effect of the adoption of FASB Statements No.
+106 and No. 109 resulting in a net credit of $33 million, or
+$.09 per share.
+12
+            PAGE 13
+COMMON STOCK MARKET PRICES AND DIVIDENDS
+
+
+The Company's common stock is listed and traded on the New York
+Stock Exchange, Chicago Stock Exchange, Tokyo Stock Exchange,
+Frankfurt Stock Exchange, Stock Exchange of Basle, Switzerland
+and the Stock Exchange  of Geneva, Switzerland.  The following
+table sets forth, for the periods indicated, the high and low
+market prices of the common stock and common stock cash
+dividends.
+
+<TABLE>
+<CAPTION>
+                                                        Cash
+                                   Market Price      Dividends
+                                   High      Low     Per Share
+<S>                                       <C>         <C>
+<C>
+Fiscal 1994--Quarter Ended
+   June 30                         23 7/8    21 1/4     .024
+   March 31                        26 1/4    21 1/2     .024
+   December 31                     22 7/8    20 5/8     .024
+   September 30                    23        20         .023
+
+
+
+Fiscal 1993--Quarter Ended
+   June 30                         23 3/8    21 1/8     .023
+   March 31                        26 1/4    22 1/4     .023
+   December 31                     25        22 5/8     .023
+   September 30                    23 7/8    20 1/4     .022
+</TABLE>
+
+The number of shareholders of the Company's common stock at June
+30, 1994 was 33,940.  The Company expects to continue its policy
+of paying regular cash dividends, although there is no assurance
+as to future dividends because they are dependent on future
+earnings, capital requirements and financial condition.
+13
+            PAGE 14
+TEN-YEAR SUMMARY
+<TABLE>
+<CAPTION>
+Operating, Financial and Other Data (Dollars in thousands,
+except per share data)
+
+                                                     1994        1993         1992
+<S>                                                         <C>
+<C>            <C>
+Operating                                                                           
+Net sales and other operating income            $11,374,372  $9,811,362   $9,231,502
+Depreciation and amortization                       354,463     328,549      293,729
+Net earnings                                        484,069     567,527      503,757
+  Per common share                                     1.40        1.58         1.40
+Cash dividends                                       32,586      32,266       30,789
+  Per common share                                      .09         .09          .09
+                                                                                    
+                                                                                    
+Financial                                                                           
+Working capital                                  $2,783,817  $2,961,503   $2,276,564
+  Per common share                                     8.10        8.24         6.32
+  Current ratio                                         3.5         4.1          3.4
+Inventories                                       1,422,147   1,131,787    1,025,030
+Net property, plant and equipment                 3,538,575   3,214,834    3,060,096
+Gross additions to property, plant                                                  
+  and equipment                                     682,485     572,022      614,844
+Total assets                                      8,746,853   8,404,111    7,524,530
+Long-term debt                                    2,021,417   2,039,143    1,562,491
+Shareholders' equity                              5,045,421   4,883,251    4,492,353
+  Per common share                                    14.68       13.59        12.48
+                                                                                    
+                                                                                    
+Other                                                                               
+Weighted average shares outstanding (000's)         346,864     359,914      360,877
+Number of shareholders                               33,940      33,654       32,377
+Number of employees                                  16,013      14,168       13,524
+                                                                                    
+</TABLE>
+Share and per share data have been adjusted for three-for-two
+stock splits in June 1986 and December 1989, and annual 5% stock
+dividends through September 1994.
+
+Net earnings for 1993 includes a credit of $68 million or $.19
+per share and a charge of $35 million or $.10 per share for the
+cumulative effects of changes in accounting for income taxes and
+postretirement benefits, respectively.
+
+Net earnings for 1986 include an extraordinary loss on debt
+repurchase of $9 million or $.03 per share.
+<TABLE>
+<CAPTION>
+
+   1991      1990      1989      1988      1987      1986      1985
+ <C>         <C>         <C>         <C>         <C>         <C>
+<C>
+                                                                     
+$8,468,19  $7,751,3  $7,928,8  $6,798,3  $5,774,6  $5,335,9  $4,738,7
+        8        41        36        94        21        75        67
+  261,367   248,113   220,538   183,952   155,899   138,453   116,466
+  466,678   483,522   424,673   353,058   265,355   230,386   163,908
+     1.29      1.34      1.19       .97       .73       .64       .46
+   29,527    25,976    17,271    17,095    16,189    14,199    13,354
+      .08       .07       .05       .05       .04       .04       .04
+                                                                     
+                                                                     
+                                                                     
+$1,674,73  $1,627,4  $1,487,1  $1,408,6  $1,252,4  $1,147,7  $1,039,0
+        5        59        51        64        06        57        04
+     4.65      4.49      4.14      3.95      3.44      3.18      2.93
+      3.0       3.4       3.4       3.0       3.5       4.2       4.2
+  917,495   771,233   694,998   773,702   784,338   521,592   551,633
+2,695,625  2,131,80  1,832,25  1,661,22  1,478,45  1,315,07  1,125,86
+                  7         8         0         8         5         7
+                                                                     
+  911,586   550,851   405,888   370,295   314,730   341,900   160,437
+6,260,607  5,450,01  4,728,30  4,397,56  3,862,09  3,315,43  2,967,11
+                  0         8         4         1         6         7
+  980,273   750,901   690,052   692,878   657,465   570,248   569,323
+3,922,295  3,573,22  3,033,50  2,630,52  2,367,67  2,075,88  1,803,39
+                  8         3         9         3         7         4
+    10.90      9.87      8.46      7.37      6.50      5.75      5.09
+                                                                     
+                                                                     
+                                                                     
+  362,127   360,859   357,496   363,717   363,256   357,874   353,649
+   28,981    26,076    20,382    18,491    17,199    16,815    17,351
+   13,049    11,861    10,214     9,631    10,573    10,386     9,446
+                                                                     
+</TABLE>
+14
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>6
+<DESCRIPTION>FINANICAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1994
+<PERIOD-END>                               JUN-30-1994
+<CASH>                                         316,394
+<SECURITIES>                                 1,019,059
+<RECEIVABLES>                                1,041,769
+<ALLOWANCES>                                         0
+<INVENTORY>                                  1,422,147
+<CURRENT-ASSETS>                             3,910,795
+<PP&E>                                       6,661,031
+<DEPRECIATION>                               3,122,456
+<TOTAL-ASSETS>                               8,746,853
+<CURRENT-LIABILITIES>                        1,126,978
+<BONDS>                                      2,021,417
+<COMMON>                                     3,415,955
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                   1,629,466
+<TOTAL-LIABILITY-AND-EQUITY>                 8,746,853
+<SALES>                                     11,374,372
+<TOTAL-REVENUES>                            11,374,372
+<CGS>                                       10,236,737
+<TOTAL-COSTS>                               10,236,737
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                             173,429
+<INCOME-PRETAX>                                738,303
+<INCOME-TAX>                                   254,234
+<INCOME-CONTINUING>                            484,069
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   484,069
+<EPS-PRIMARY>                                     1.40
+<EPS-DILUTED>                                     1.40
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

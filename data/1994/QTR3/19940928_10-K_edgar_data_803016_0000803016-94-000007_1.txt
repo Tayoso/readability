@@ -1,0 +1,3168 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ aIGc5tUt6qcN4uzp2qTarZHwCVGqRjpq585obmc8e8iJgtNb6Zt8ry9D6j5izfmD
+ /jl/a+FUkZjnk0poAnFqbQ==
+
+<IMS-DOCUMENT>0000803016-94-000007.txt : 19941005
+<IMS-HEADER>0000803016-94-000007.hdr.sgml : 19941005
+ACCESSION NUMBER:		0000803016-94-000007
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940928
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMPLICON INC
+		CENTRAL INDEX KEY:			0000803016
+		STANDARD INDUSTRIAL CLASSIFICATION:	7377
+		IRS NUMBER:				953162444
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-15641
+		FILM NUMBER:		94550605
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5 HUTTON CENTRE DR STE 500
+		CITY:			SANTA ANA
+		STATE:			CA
+		ZIP:			92707
+		BUSINESS PHONE:		7147517551
+
+	MAIL ADDRESS:	
+		STREET 1:		5 HUTTON CENTER DRIVE
+		STREET 2:		SUITE 500
+		CITY:			SANTA ANA
+		STATE:			CA
+		ZIP:			92707
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+                                    
+                              UNITED STATES
+                   SECURITIES AND EXCHANGE COMMISSION
+                         Washington, D.C.  20549
+
+                                FORM 10-K
+(Mark One)
+
+[X]    ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+                             [Fee Required]
+                                    
+  For the fiscal year ended                          June 30, 1994
+
+[ ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR  15  (d)  OF  THE
+SECURITIES EXCHANGE ACT OF 1934
+
+  For the transition period from                    to
+
+                     Commission File number 0-15641
+
+
+                             AMPLICON, INC.
+         (Exact name of registrant as specified in its charter)
+
+            California                         95-3162444
+(State or other jurisdiction      (I.R.S. Employer Identification No.)
+of incorporation or organization)
+                               
+
+       5 Hutton Centre Drive, Suite 500
+                 Santa Ana, CA                           92707
+      (Address of principal executive offices)        (Zip Code)
+
+Registrant's telephone number, including area code: (714)751-7551
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Securities registered pursuant to Section 12(g) of the Act: Common Stock
+                                                     (Title of each class)
+
+Indicate  by  check  mark whether the Registrant: (1)  has  filed  all
+reports  required to be filed by Section 13 or 15(d) of the Securities
+and  Exchange Act of 1934 during the preceding 12 months (or for  such
+shorter period that the Registrant was required to file such reports),
+and  (2) has been subject to such filing requirements for the past  90
+days.
+            Yes______X______         No________________
+
+Indicate by check mark if disclosure of delinquent filers pursuant  to
+Item  405 of Regulation S-K is not contained herein, and will  not  be
+contained, to the best of Registrant's knowledge, in definitive  proxy
+or  information statements incorporated by reference in  Part  III  of
+this    Form   10-K   or   any   amendment   to   this   Form    10-K.
+                                                 _____________________
+
+The  aggregate  market value of the Common Stock held by nonaffiliates
+of the Registrant as of September 16, 1994 was $38,077,368.
+
+  Number of shares outstanding as of September 16, 1994:  Common Stock
+                               5,857,022.
+                                    
+                   DOCUMENTS INCORPORATED BY REFERENCE
+                                    
+Part III incorporates information by reference from Registrant's
+definitive Proxy Statement to be filed with the Commission within 120
+days after the close of the Registrant's fiscal year.
+
+
+
+
+
+                                    
+                                    
+                    Total Number of Pages ___________
+<PAGE>                                    
+                                    
+                                    
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+                            TABLE OF CONTENTS
+                               
+                                                              PAGE
+
+PART I
+
+Item 1.  Business                                               2
+
+Item 2.  Properties                                             5
+
+Item 3.  Legal Proceedings                                      5
+
+Item 4.  Submission of Matters to a Vote of Security Holders    5
+
+PART II
+
+Item 5.  Market for Company's Common Equity and Related
+ Stockholder Matters                                            5
+
+Item 6.  Selected Financial Data                                6
+
+Item 7.  Management's Discussion and Analysis of Financial
+               Condition and Results of Operations            7-9
+
+Item 8.  Financial Statements and Supplementary Data        10-23
+
+Item 9.  Changes in and Disagreements With Accountants
+               on Accounting and Financial Disclosure          24
+
+PART III
+
+Item 10. Directors and Executive Officers of the Registrant    24
+
+Item 11. Executive Compensation                                24
+
+Item 12. Security Ownership of Certain Beneficial Owners
+ and Management                                                24
+
+Item 13. Certain Relationships and Related Transactions        24
+
+PART IV
+
+Item 14. Exhibits, Financial Statement Schedules and
+ Reports on Form 8-K                                           25
+
+Signatures                                                     26
+Schedules                                                   27-28
+Exhibit Index                                               29-31
+
+
+
+
+
+
+
+<PAGE>
+
+
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+                                 PART I
+                                    
+ITEM 1. BUSINESS
+
+General
+
+      Amplicon  leases  and sells mid-range computers, peripherals,  work
+stations,   personal  computer  networks,  telecommunications  equipment,
+computer  automated design and manufacturing equipment, office automation
+equipment,  computer  software and other items of  personal  property  to
+customers   located  throughout  the  United  States.  The  Company   was
+incorporated  in  California  in  1977.  Unless  the  context   otherwise
+requires,  the  terms "Amplicon" and "Company" as used  herein  refer  to
+Amplicon, Inc. and its subsidiaries.
+
+      Mid-Range Computers and Computer Networks. The Company concentrates
+on  the  market for mid-range computers and computer networks since  this
+market  is particularly receptive to leasing services. A growing  portion
+of  the  Company's business consists of personal computers, workstations,
+printers, and software which are integrated into complete networks.  Mid-
+range computers generally cost between $100,000 and $750,000 and are used
+primarily  by subsidiaries and divisions of large companies to supplement
+mainframe  computer systems, by middle-market companies  for  centralized
+data  processing,  and to upgrade personal computer  networks.  Mid-range
+computer systems typically consist of a central processing unit, multiple
+display   terminals,  printers,  disk  and  tape  drives,  communications
+equipment and operating software.  Computer networks typically consist of
+a  central  server,  which  may  be  a  mid-range  computer  or  high-end
+microcomputer,  multiple  personal computers  and  workstations,  network
+communications  hardware and software, printers and  associated  products
+for  microcomputer based networks.  Computer networks generally range  in
+cost from $100,000 to $3,000,000.
+
+      Mid  range  systems and computer networks are modular  and  can  be
+expanded  to satisfy additional data processing requirements and  perform
+additional  functions  by upgrading the central  processing  unit  and/or
+server,  and  adding  data  storage devices and workstations  to  support
+additional  users.  Advances in microcomputer technology and enhancements
+to  the  capabilities  of  mid-range computer systems  have  led  to  the
+development of systems that  better integrate data processing  with  word
+processing, file and retrieval systems, and electronic mail. The  Company
+leases  and  sells mid-range computer systems manufactured  primarily  by
+International  Business Machines Corporation ("IBM"),  Digital  Equipment
+Corporation ("DEC"), and Hewlett-Packard Co. ("HP").  Vendors of computer
+network  products  include IBM and HP, as well as AST  Research,  Compaq,
+Gateway,  among many others, and software vendors such as  Microsoft  and
+Novell.
+
+      Other  Electronic  Equipment. Advances in microcomputer  technology
+have  also  expanded the scope of other electronic equipment utilized  by
+Amplicon's  existing  and targeted customer base.   Amplicon  leases  and
+sells   telecommunications  equipment,  computer  automated  design   and
+computer  automated  manufacturing  ("CAD/"CAM")  equipment,  and  office
+automation  equipment.  The telecommunications equipment  leased  by  the
+Company consists primarily of digital private branch equipment, switching
+equipment  and  voice mail systems manufactured by American  Telephone  &
+Telegraph  Company,  Rolm  Corporation  and  International  Telephone   &
+Telegraph  Company and generally costs between $50,000 and $500,000.  The
+CAD/CAM  systems  leased by the Company include those  produced  by  IBM,
+Hewlett Packard, and Sun Microsystems, Inc. and cost between $50,000  and
+$700,000  per  system. The Company also leases word  processing  systems,
+copying  equipment,  retail point of sale equipment  and  bank  automatic
+teller machines.
+
+      Production Equipment and Other Personal Property.  The  Company  is
+leasing  an  increasing  amount of technology related  manufacturing  and
+production  management systems.  These systems include  complex  computer
+controlled  manufacturing  equipment,  printing  presses  and   warehouse
+distribution systems.  In addition, the Company leases a wide variety  of
+personal   property   in  the  "non-high  technology"   area,   including
+manufacturing equipment, trucks and office furniture.
+
+       Software.    Amplicon  leases  specialized  application   software
+packages.  These  application software packages  typically  cost  between
+$50,000  and  $500,000.   In  addition to  leasing  stand-alone  software
+packages,  an  increasing percentage of the cost  of  mid-range  computer
+systems and networks consists of operating and application software.
+                                    
+<PAGE>                                    
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+Marketing Strategy
+
+      The  Company  has  developed and refined a direct marketing  system
+utilizing  a  centralized telemarketing program. The program  includes  a
+system  which creates and maintains a data base of current and  potential
+users  of  personal property, a comprehensive formal training program  to
+introduce new marketing employees to Amplicon's telemarketing techniques,
+and an in-house computer and telecommunications system.
+
+      The  Company implemented its current marketing system in 1981 after
+having determined that a centralized telemarketing program would be  more
+cost  effective  than the field sales representatives it  had  previously
+used  to  conduct  its  marketing activities. The  use  of  telemarketing
+techniques  rather  than  field  sales representatives  has  enabled  the
+Company  to limit selling, general and administrative expenses  to  seven
+percent  (7%)  or  less of revenues during each of its last  five  fiscal
+years  and,  consequently, allows the Company to offer  more  competitive
+rates to its customers.
+
+      Amplicon  identifies  potential  customers  through  a  variety  of
+methods.  The  Company  purchases lists of computer  users  from  private
+sources,  conducts direct mail and telephone campaigns to generate  sales
+leads, and maintains records of contacts made with potential customers by
+its  account executives. In 1991, Amplicon installed a personal  computer
+network  and  customized software to further enhance the productivity  of
+the  sales  force.  Specific  information about  potential  customers  is
+entered  into  an on-line data base accessible to each account  executive
+through  the  personal  computer  network.  As  potential  customers  are
+contacted by account executives, the database is updated and supplemented
+with  information about what computer and other equipment they are using,
+related  lease  expiration  dates  and  any  future  equipment  needs  or
+replacement  plans. The data base allows account executives  to  identify
+efficiently  the  most likely purchaser or lessee  of  equipment  and  to
+concentrate efforts on these prospective customers.
+
+      Amplicon's data base, combined with the telemarketing software, and
+an  integrated  in-house telecommunications system, permit the  Company's
+sales  management to monitor account executive activity,  daily  prospect
+status  and pricing information. The ability to monitor account  activity
+and  offer  immediate assistance in negotiating or pricing a  transaction
+makes  it  possible  for Amplicon to be responsive to its  customers  and
+potential customers.
+
+Leasing and Sales Activities
+
+      The  Company's leases are generally for terms ranging from  two  to
+five  years.  All of the Company's leases are noncancelable "net"  leases
+which contain "hell-or-high-water" provisions under which the lessee must
+make  all lease payments regardless of any defects in the equipment,  and
+which  require  the lessee to maintain and service the equipment,  insure
+the equipment against casualty loss and pay all property, sales and other
+taxes on the equipment. The Company retains ownership of the equipment it
+leases,  and  in the event of default by the lessee, the Company  or  the
+lender  to  whom the lease had been assigned may declare  the  lessee  in
+default,  accelerate all lease payments due under the  lease  and  pursue
+other  available remedies, including repossession of the equipment.  Upon
+the  expiration of the leases, the lessee typically has an option,  which
+is  dependent  upon each lease's defined end of term options,  to  either
+purchase the equipment at a mutually agreeable price, or in the case of a
+"conditional  sales contract", at a predetermined minimum  price,  or  to
+renew  the lease. If the purchase option is not exercised by the original
+lessee,  once the equipment is returned to the Company, the Company  will
+endeavor  to  locate a new lessee -- however, if a new lessee  cannot  be
+located then the Company seeks to sell the equipment.  The terms  of  the
+Company's  software  leases are substantially similar  to  its  equipment
+leases.
+
+
+
+
+                                    
+<PAGE>                                    
+                                   
+                                 
+                                  
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+Leasing and Sales Activities (Continued)
+
+      The  Company conducts its leasing business in a manner designed  to
+conserve  its  working  capital and minimize  its  credit  exposure.  The
+Company does not purchase equipment until it has received a noncancelable
+lease from its customer and, generally, has determined that the lease can
+be  discounted  with  a bank or financial institution  on  a  nonrecourse
+basis.  Accordingly,  a substantial portion of the Company's  leases  are
+discounted to banks or finance companies on a nonrecourse basis at  fixed
+interest   rates   that  reflect  the  customers'  financial   condition.
+Approximately  91.4% and 83.6% of the total dollar amount of  new  leases
+entered  into by the Company during the fiscal years ended June 30,  1994
+and  1993,  respectively, were discounted to financial institutions.  The
+lender  to  which a lease has been assigned has no recourse  against  the
+Company,  unless  the  Company  is in default  of  the  terms  under  the
+agreement  by  which a lease was assigned to the lender.  The  lender  to
+which a lease has been assigned may take title to the leased equipment in
+the  event  the lessee fails to make lease payments or initiates  certain
+other  defaults under the terms of the lease. If this occurs, the Company
+may not realize its residual investment in the leased equipment.
+                                    
+      From  time  to  time, the Company invests cash generated  from  its
+activities into lease transactions  meeting credit standards set  by  the
+Company.  Some of these transactions are entered into when the  value  of
+the underlying property, or the credit rating of the lessee, would not be
+acceptable  to  a  financial  institution  for  purposes  of   making   a
+nonrecourse loan to the Company. Each of these transactions must meet  or
+exceed  certain profitability requirements as established, on a  case  by
+case  basis,  by  the  Company's executive management.  In  addition  the
+Company invests in lease transactions which the Company believes could be
+placed  at a later date to nonrecourse lenders on a lease by lease  basis
+or in a portfolio debt placement or securitization. During the year ended
+June  30,  1994,  the  Company completed three debt placements  of  lease
+receivable  portfolios accumulated under such investment  guidelines  for
+aggregate  cash proceeds of $23,406,774. At June 30, 1994 and  1993,  the
+discounted   minimum  lease  payments  receivable  relative   to   leases
+maintained  in  the  Company's  portfolio  amounted  to  $31,123,678  and
+$31,052,728, respectively.
+                                    
+Customers
+
+      The Company's customers are primarily subsidiaries and divisions of
+Fortune  1000  companies and middle-market companies with credit  ratings
+acceptable  to the lenders providing nonrecourse loans. The Company  does
+not  believe  that  the loss of any one customer would  have  a  material
+adverse effect on its operations taken as a whole.
+
+Competition
+
+     The Company competes in the distribution and lease financing of mid-
+range  computer equipment and software and other equipment with equipment
+brokers  and  dealers,  leasing  companies,  banks  and  other  financial
+institutions and credit corporations which are affiliated with  equipment
+manufacturers, such as, IBM, DEC and HP. The Company believes that  there
+is  increased  competition for new business and that such competition  is
+heightened  during  periods  when key vendors introduce  significant  new
+products. Changes by the manufacturers of equipment leased by the Company
+with  respect  to  pricing,  maintenance  or  marketing  practices  could
+materially  affect  the  Company.  In addition,  if  credit  corporations
+affiliated with manufacturers become more aggressive with respect to  the
+financing  terms  offered, the Company's operations  could  be  adversely
+affected.  Many  of the Company's competitors have substantially  greater
+resources,  capital, and more extensive and diversified  operations  than
+Amplicon. The Company believes the principal competitive factors  in  the
+industry  which  it serves are price, responsiveness to  customer  needs,
+flexibility  in  structuring financing arrangements, financial  technical
+proficiency and the offering of a broad range of financial options.
+
+Employees
+
+      The Company, as of June 30, 1994, had 196 employees, including  125
+sales  managers  and account executives and 15 professionals  engaged  in
+finance and credit. None of the Company's employees is represented  by  a
+labor  union. The Company believes that its relations with its  employees
+are satisfactory.
+
+
+<PAGE>
+                     AMPLICON, INC. AND SUBSIDIARIES
+
+ITEM 2. PROPERTIES
+
+     At June 30, 1994, Amplicon occupied approximately 27,000 square feet
+of  office  space  in  Santa  Ana, California  leased  from  unaffiliated
+parties.  The  lease  covering the majority of  the  space  provides  for
+monthly  rental  payments which average $30,377  from  inception  through
+January 1998.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+     The Company is sometimes named as a defendant in litigation relating
+to  the  services it provides. Management does not expect the outcome  of
+any  existing  suit to have a material adverse effect  on  the  Company's
+financial condition or results of operations.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     None.
+                                    
+                                 PART II
+                                    
+ITEM  5.  MARKET  FOR  COMPANY'S COMMON EQUITY  AND  RELATED  STOCKHOLDER
+MATTERS
+
+     The common stock of Amplicon, Inc. trades on the NASDAQ Stock Market
+under the symbol AMPI. The following high and low closing sale prices for
+the  periods  shown  reflect interdealer prices  without  retail  markup,
+markdown   or   commissions  and  may  not  necessarily  reflect   actual
+transactions.:
+<TABLE>
+<CAPTION>
+                                                        High        Low
+Fiscal year ended June 30,1994
+<S>                                                    <C>        <C>
+First Quarter                                          $20.00     $18.00
+
+Second Quarter                                          20.25      18.25
+
+Third Quarter                                           21.50      18.75
+
+Fourth Quarter                                          21.50      20.00
+
+Fiscal year ended June 30, 1993
+
+First Quarter                                          $16.00     $11.50
+
+Second Quarter                                          16.75      14.00
+
+Third Quarter                                           21.00      15.50
+
+Fourth Quarter                                          20.25      18.50
+</TABLE>
+
+      The  Company  had approximately 48 stockholders of  record  and  in
+excess of 500 beneficial owners as of September 16, 1994.
+
+      In  September, 1994, after considering the Company's profitability,
+liquidity  and future operating cash requirements, the Board of Directors
+authorized a regular quarterly cash dividend policy.  The first quarterly
+cash  dividend will be $.05 per share and issued on October  7,  1994  to
+stockholders of record at the close of  business on September 23, 1994.
+
+
+
+
+<PAGE>
+
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+ITEM 6. SELECTED FINANCIAL DATA
+
+      The following table sets forth selected consolidated financial data
+and  operating  information  of the Company.  The  selected  consolidated
+financial  data  should  be  read in conjunction  with  the  Consolidated
+Financial  Statements and notes thereto and Management's  Discussion  and
+Analysis  of  Results  of  Operations and Financial  Condition  contained
+herein.
+<TABLE>
+<CAPTION>
+                                             YEARS ENDED JUNE 30,
+INCOME STATEMENT DATA        1994        1993        1992       1991      1990
+                                  (in thousands, except per share amounts)
+<S>                         <C>        <C>        <C>        <C>       <C>
+Revenues:
+   Sales of equipment       $156,740   $139,384   $103,969   $132,414  $141,953
+    Interest income           24,357     23,697     25,668     22,161    15,616
+    Rental income                263        747        803      1,153       724
+Total revenues               181,360    163,828    130,440    155,728   158,293
+Gross profit                  29,453     26,083     23,194     20,312    18,429
+Earnings before income taxes  17,352     15,421     14,487     12,118     9,180
+
+Net earnings                $ 11,019   $  9,793   $  9,111   $  7,440  $  5,644
+
+COMMON SHARE DATA
+
+Net earnings per share      $   1.89   $   1.68   $   1.57   $   1.26  $    .93
+
+Weighted average number of
+ common shares outstanding     5,849      5,831      5,813      5,925     6,095
+Cash dividends              $    -0-   $    -0-   $    -0-   $    -0-  $    -0-
+SELECTED ANNUAL GROWTH RATES
+Sales of equipment                12%        34%       (21)%      ( 7)%      12%
+Total revenues                    11         26        (16)       ( 2)       15
+Net  interest income               4       (  5)        22         28        21
+Gross  profit                     13         12         14         10        18
+Net  earnings                     13          7         22         32         8
+Net  earnings per share           13          7         25         35        15
+
+<CAPTION>
+                                                    AS OF JUNE 30,
+BALANCE SHEET DATA             1994        1993       1992      1991      1990
+                                    (in thousands, except per share data)
+<S>                         <C>        <C>        <C>        <C>      <C>
+Total assets                $384,584   $350,661   $307,529   $306,399 $257,249
+Notes  payable to bank        10,000        -0-        -0-        -0-       13
+Nonrecourse  debt            225,746    211,191    193,611    192,748  158,325
+Stockholders' equity          80,875     69,772     59,955     50,724   45,486
+Book value per common share $  13.81   $  11.96   $  10.29   $   8.75 $   7.60
+
+</TABLE>
+
+
+
+
+<PAGE>
+
+
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+ITEM  7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION  AND
+RESULTS OF OPERATIONS
+
+Results of Operations
+
+Fiscal Years Ended June 30, 1994 and 1993
+
+      REVENUES.  Total revenues for the fiscal year ended June  30,  1994
+were  $181,360,291, an increase of $17,532,061 or 10.7%  from  the  prior
+year.  This  change  was primarily the result of increases  in  sales  of
+equipment of $17,355,868 and interest income of $660,362 offset by  lower
+rental income of $484,169. The Company believes the increase in sales  of
+equipment  was primarily due to increased effectiveness of a  larger  and
+more  experienced salesforce at obtaining new business.  Interest  income
+for  the  fiscal  year ended June 30, 1994 increased  to  $24,356,893  as
+compared  to  $23,696,531  for  the fiscal  year  ended  June  30,  1993,
+partially  due  to  higher  interest income on discounted  lease  rentals
+assigned  to  lenders (which is offset by interest expense on nonrecourse
+debt)  of  $11,659,414  in the fiscal year ended  June  30,  1994  versus
+$11,452,119 for the prior year.
+
+      Net  interest  income  (interest income less  interest  expense  on
+discounted  lease rentals assigned to lenders) for the fiscal year  ended
+June 30, 1994 increased by $453,067 or 3.7% to $12,697,479 as compared to
+$12,244,412  for  fiscal  year ended June 30,  1993.  This  net  increase
+resulted  primarily  from  higher amortization  of  deferred  income  and
+increases in interest accretion due to a larger residual value base.
+
+      Rental  income for the fiscal year ended June 30, 1994 of  $263,060
+decreased by $484,169 or 64.8% as compared to the fiscal year ended  June
+30,  1993,  as  a  result of decreases in the volume of short-term  lease
+renewals.
+                                    
+      GROSS PROFIT. Gross profit for the fiscal year ended June 30,  1994
+increased by $3,370,357, or 12.9%, to $29,453,424 compared to $26,083,067
+for  the  fiscal year ended June 30, 1993. Gross profit as a  percent  of
+total  revenues  increased  to 16.2% of total revenues  for  fiscal  1994
+compared to 15.9% of total revenues for the prior year. Additionally, the
+cost of equipment sold as a percentage of sales of equipment decreased to
+90.4% for the fiscal year ended June 30, 1994 versus 91.1% for the fiscal
+year  ended  June  30, 1993. The principal factors which  contributed  to
+higher  gross  profit  were increased profits  from  lease  renewals  and
+extensions, sales of equipment at the end of the lease term and increases
+in net interest income as described above.
+
+      SELLING, GENERAL AND ADMINISTRATIVE EXPENSES. Selling, general  and
+administrative expenses as a percentage of total revenues were  6.6%  for
+the  fiscal  year ended June 30, 1994 as compared to 6.5% for the  fiscal
+year  ended  June 30, 1993. Selling, general and administrative  expenses
+for  the fiscal year ended June 30, 1994 increased by $1,354,840 or 12.8%
+as  compared  to  the prior year. This increase resulted  primarily  from
+higher  sales  and finance staff personnel costs, higher variable  office
+costs  related to the greater business volume and additions made  to  the
+management organization to support future growth.
+
+      INTEREST EXPENSE-OTHER. Interest expense-other was $174,059 for the
+year  ended June 30, 1994 as compared to $89,067 for the year ended  June
+30,  1993.  The  increase of $84,992 is primarily the result  of  greater
+fiscal  year  1994 interest assessments made as the result of  regulatory
+audits with various federal, state and local agencies.
+
+      TAXES.  The Company's tax rate was 36.5% for both the fiscal  years
+ended  June 30, 1994 and 1993 representing its estimated annual tax rates
+for  the  years ending June 30, 1994 and 1993.  The Company expects  that
+its  tax rate for fiscal years beginning after July 1, 1994 will increase
+to  reflect,  as applicable, changes in the Federal statutory  tax  rate,
+various State tax rates and the expiration of certain tax benefits.
+                                    
+                                    
+                                    
+                                    
+<PAGE>                                    
+                                    
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+Results of Operations (continued)
+
+Fiscal Years Ended June 30, 1993 and 1992
+
+      REVENUES.  Total revenues for the fiscal year ended June  30,  1993
+were  $163,828,230, an increase of $33,388,084 or 25.6%  from  the  prior
+year.  This  change  was primarily the result of increases  in  sales  of
+equipment  of $35,415,050 offset by lower interest income of  $1,970,989.
+The Company believes the increase in sales of equipment was primarily due
+to increased effectiveness of a larger and more experienced salesforce at
+obtaining  new business. Interest income for the fiscal year  ended  June
+30,  1993  decreased  to $23,696,531 as compared to $25,667,520  for  the
+fiscal  year ended June 30, 1992, partially due to lower interest  income
+on  discounted  lease  rentals assigned to lenders (which  is  offset  by
+interest  expense on nonrecourse debt) of $11,452,119 in the fiscal  year
+ended June 30, 1993 versus $12,818,915 for the prior year.
+
+      Net  interest  income  (interest income less  interest  expense  on
+discounted  lease rentals assigned to lenders) for the fiscal year  ended
+June  30,  1993 decreased by $604,193 or 4.7% as compared to  the  fiscal
+year ended June 30, 1992. This net decrease resulted primarily from lower
+amortization  of deferred income and lower investment income,  offset  by
+increases in interest accretion due to a larger residual value base,  and
+increases  in  interest  recognition on greater  minimum  lease  payments
+receivable.
+
+      Rental  income for the fiscal year ended June 30, 1993 of  $747,229
+decreased  by $55,977 or 7.0% as compared to the fiscal year  ended  June
+30,  1992,  as  a  result of decreases in the volume of short-term  lease
+renewals.
+                                    
+      GROSS PROFIT. Gross profit for the fiscal year ended June 30,  1993
+increased by $2,888,741, or 12.5%, to $26,083,067 compared to $23,194,326
+for  the  fiscal year ended June 30, 1992. Gross profit as a  percent  of
+total  revenues  decreased  to 15.9% of total revenues  for  fiscal  1993
+compared to 17.8% of total revenues for the prior year. Additionally, the
+cost of equipment sold as a percentage of sales of equipment increased to
+91.1% for the fiscal year ended June 30, 1993 versus 90.8% for the fiscal
+year  ended  June  30, 1992. The principal factors which  contributed  to
+higher  gross  profit were (i) increased profits from lease renewals  and
+extensions,  (ii)  higher  profits  from  larger  volume  of  new   lease
+transactions, and (iii) gains realized from the debt placement  of  lease
+portfolios, offset by (iv) decreases in net interest income as  described
+above.  The  lower  gross  profit margin and  higher  cost  of  equipment
+percentages  reflect  a  greater percentage  of  the  Company's  revenues
+derived  from new lease transactions and a decrease in the proportion  of
+revenues from interest income during the most recent fiscal year.
+
+      SELLING, GENERAL AND ADMINISTRATIVE EXPENSES. Selling, general  and
+administrative expenses as a percentage of total revenues were  6.5%  for
+the  fiscal  year ended June 30, 1993 as compared to 6.6% for the  fiscal
+year  ended  June 30, 1992. Selling, general and administrative  expenses
+for  the fiscal year ended June 30, 1993 increased by $1,967,227 or 22.9%
+as  compared  to  the prior year. This increase resulted  primarily  from
+higher  sales  and finance staff personnel costs, higher variable  office
+costs  related to the greater business volume and additions made  to  the
+management organization to support future growth.
+
+      INTEREST EXPENSE-OTHER. Interest expense-other was $89,067 for  the
+year  ended June 30, 1993 as compared to $102,044 for the year ended June
+30, 1992. The decrease of $12,977 is primarily the result of fewer fiscal
+year  1993  interest assessments made as the result of regulatory  audits
+with various federal, state and local agencies.
+
+      TAXES.  The Company's tax rate was 36.5% and 37.1% for  the  fiscal
+years  ended  June  30,  1993  and 1992, respectively,  representing  its
+estimated annual tax rates for the years ending June 30, 1993 and 1992.
+                                    
+                                    
+                                    
+                                    
+<PAGE>                                    
+                                  
+                                   
+                                    
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+
+Liquidity and Capital Resources
+
+      The Company funds its operating activities through nonrecourse debt
+and  internally  generated  funds.  Capital  expenditures  for  equipment
+purchases are primarily financed by assigning the lease payments to banks
+or  other  financial institutions. The lease payments are  discounted  at
+fixed rates such that the lease payments are sufficient to fully amortize
+the  aggregate outstanding debt. The Company does not purchase  equipment
+until  it  has  received  a noncancelable lease from  its  customer  and,
+generally,  has  determined  that  the  lease  can  be  discounted  on  a
+nonrecourse  basis.  At  June  30,  1994,  the  Company  had  outstanding
+nonrecourse  debt  aggregating $225,746,187 relating to  equipment  under
+capital  and operating leases. In the past, the Company has been able  to
+obtain adequate nonrecourse funding commitments, and the Company believes
+it will be able to do so in the future.
+
+      The  Company borrowed $10,000,000 in December 1993 which is secured
+by  an  in process lease transaction. The Company has a nonrecourse  debt
+commitment  from  the  same financial institution to  finance  the  lease
+transaction  once  the  lease  transaction is  completed.  The  lease  is
+anticipated to be assigned on a nonrecourse basis prior to the  due  date
+of  the  note and the commencement of the assignment, at which  time  the
+recourse  note  will  be  paid  in full (see  Note  4  in  the  Notes  to
+Consolidated Financial Statements).
+
+      From time to time, the Company retains equipment leases in its  own
+portfolio  rather  than  assigning the leases to financial  institutions.
+During the fiscal year 1994, the Company increased its net investment  in
+leases  held  in its own portfolio by $70,950. This minimal increase  was
+primarily  due to i) a higher percentage of new lease transactions  being
+assigned  on  a  non-recourse basis, ii) the assignment  of  three  lease
+portfolios  during fiscal 1994 and iii) the cash flow from the  Company's
+lease portfolio during fiscal 1994 exceeded the volume of new leases  and
+renewals.
+
+      The  Company  generally  funds  its equity  investments  in  leased
+equipment and interim equipment purchases with internally generated funds
+and, if necessary, borrowings under a $20,000,000 general line of credit.
+At  June 30, 1994, the Company did not have any borrowings outstanding on
+this line of credit.
+
+      In November 1990, the Board of Directors authorized management,  at
+its  discretion,  to  repurchase up to 300,000 shares  of  the  Company's
+Common   Stock.  During  the  year  ended  June  30,  1994,  the  Company
+repurchased 10,000 shares at an aggregate cost of $188,750.   During  the
+year  ended  June 30, 1993, the Company repurchased 2,322  shares  at  an
+aggregate  cost of $43,988. As of August 20, 1994, 100,678 shares  remain
+available under this authorization.
+
+      The  need  for cash used for operating activities will continue  to
+grow  as  the  Company expands.  The Company believes that existing  cash
+balances,  cash  flow  from  operations, cash flows  from  its  financing
+activities, available borrowings under its existing credit facility,  and
+assignments  (on a nonrecourse basis) of anticipated lease payments  will
+be sufficient to meet its foreseeable financing needs.
+
+      Inflation  has not had a significant impact upon the operations  of
+the Company.
+
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+<PAGE>                                    
+                                    
+                                    
+                                    
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+The   following   consolidated  financial  statements  and  supplementary
+financial information are included herein at the pages indicated below:
+
+                                                            Page Number
+
+Report of Independent Public Accountants                       11
+
+Consolidated Balance Sheets at June 30, 1994 and 1993          12
+
+Consolidated Statements of Earnings for the years ended
+ June 30, 1994, 1993 and 1992                                  13
+
+Consolidated Statements of Stockholders' Equity for the
+ years ended June 30, 1994, 1993 and 1992                      14
+
+Consolidated Statements of Cash Flows for the years
+ ended June 30, 1994, 1993 and 1992                            15
+
+Notes to Consolidated Financial Statements                  16-23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+
+                                    
+                REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+                                    
+                                    
+To the Board of Directors and Stockholders of
+Amplicon, Inc.:
+
+
+
+
+We  have  audited  the  accompanying consolidated  balance  sheets  of
+Amplicon, Inc. (a California corporation) and subsidiaries as of  June
+30,  1994  and  1993,  and  the  related  consolidated  statements  of
+earnings, stockholders' equity and cash flows for the years ended June
+30,   1994,  1993  and  1992.  These  financial  statements  are   the
+responsibility of the Company's management. Our responsibility  is  to
+express an opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the  audit
+to  obtain reasonable assurance about whether the financial statements
+are  free of material misstatement. An audit includes examining, on  a
+test  basis,  evidence supporting the amounts and disclosures  in  the
+financial  statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as  well
+as evaluating the overall financial statement presentation. We believe
+that our audits provide a reasonable basis for our opinion.
+
+In  our  opinion, the financial statements referred to  above  present
+fairly,  in all material respects, the financial position of Amplicon,
+Inc. and subsidiaries as of June 30, 1994 and 1993, and the results of
+their  operations and their cash flows for each of the three years  in
+the  period ended June 30, 1994, in conformity with generally accepted
+accounting principles.
+
+Our  audits  were made for the purpose of forming an  opinion  on  the
+basic  financial statements taken as a whole. The schedules listed  in
+the  index  of  financial  statements are presented  for  purposes  of
+complying with the Securities and Exchange Commission's rules and  are
+not a required part of the basic financial statements. These schedules
+have  been subjected to the auditing procedures applied in our  audits
+of the basic financial statements and, in our opinion, fairly state in
+all  material  respects, the financial data required to be  set  forth
+therein  in  relation  to the basic financial statements  taken  as  a
+whole.
+
+
+
+
+                                                   ARTHUR ANDERSEN LLP
+
+Irvine, California
+August 16, 1994
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+<PAGE>                                    
+                                    
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+                       CONSOLIDATED BALANCE SHEETS
+                                    
+<TABLE>
+<CAPTION>
+
+                                                             June 30,
+ASSETS                                                 1994             1993
+<S>                                               <C>              <C>      
+Cash and cash equivalents (Notes1 & 8)            $ 29,334,914     $ 18,083,839
+Net receivables (Note 2)                            39,905,181       33,069,938
+Inventories, primarily customer deliveries in
+  process                                            4,975,392        5,840,993
+Net investment in capital leases (Note 3)           59,304,999       55,698,547
+Equipment on operating leases, less accumulated
+ depreciation of $211,848 (1994) and
+ $303,807(1993)                                         50,364           63,993
+Other assets                                         1,074,912        1,142,093
+Discounted lease rentals assigned to lenders
+  (Note 3)                                         249,938,300      233,408,279
+
+     TOTAL ASSETS                                 $384,584,062     $347,307,682
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Liabilities:
+   Note payable to bank (Notes 4 & 8)             $ 10,000,000     $      -0-
+   Accounts payable                                 14,246,006       19,696,244
+   Accrued liabilities                               3,149,416        4,192,557
+   Customer deposits                                 7,369,952        3,929,824
+   Nonrecourse debt (Note 3)                       225,746,187      211,190,705
+   Deferred interest income (Note 5)                24,192,113       22,217,574
+   Net deferred income (Note 5)                      3,743,479        2,035,797
+   Income taxes payable, including deferred
+     taxes (Note 6)                                 15,261,498       14,272,822
+
+     Total Liabilities                             303,708,651      277,535,523
+
+Commitments and contingencies (Note 9)
+
+Stockholders' equity (Notes 4 & 7):
+   Preferred stock; 2,500,000 shares
+      authorized; none issued                            -0-              -0-
+   Common stock; $.01 par value; 20,000,000 shares
+      authorized;  5,857,022 (1994) and 5,834,856 (1993)
+       issued and outstanding                           58,570           58,349
+   Additional paid in capital                        6,001,240        5,916,748
+   Retained earnings                                74,815,601       63,797,062
+
+     Total Stockholders' Equity                     80,875,411       69,772,159
+
+     TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY   $384,584,062     $347,307,682
+</TABLE>
+
+
+               The accompanying notes are an integral part
+                  of these consolidated balance sheets.
+                                    
+                                    
+                                    
+<PAGE>                                    
+                                    
+                                    
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+                   CONSOLIDATED STATEMENTS OF EARNINGS
+<TABLE>
+<CAPTION>                                    
+                                                Years ended June 30,
+                                            1994           1993          1992
+<S>                                   <C>            <C>           <C>
+Revenues:
+   Sales of equipment                 $156,740,338   $139,384,470  $103,969,420
+   Interest income (Notes 1, 3 & 5)     24,356,893     23,696,531    25,667,520
+   Rental income                           263,060        747,229       803,206
+
+     Total Revenues                    181,360,291    163,828,230   130,440,146
+
+Costs:
+  Cost of equipment sold               140,186,036    126,276,178    94,316,854
+  Interest expense on nonrecourse debt
+      (Notes  1,  3  &  5)              11,659,414     11,452,119    12,818,915
+  Depreciation of equipment on
+  operating leases                          61,417         16,866       110,051
+     Total Costs                       151,906,867    137,745,163   107,245,820
+
+Gross profit                            29,453,424     26,083,067    23,194,326
+
+Selling, general and administrative
+  expenses                              11,927,826     10,572,986     8,605,759
+
+Interest expense-other                     174,059         89,067       102,044
+
+Earnings before income taxes            17,351,539     15,421,014    14,486,523
+
+Income taxes (Note 6)                    6,333,000      5,628,000     5,376,000
+
+Net earnings                          $ 11,018,539   $  9,793,014  $  9,110,523
+
+Net earnings per common share         $       1.89   $       1.68  $       1.57
+
+Weighted average number of common
+  shares outstanding                     5,848,594      5,830,561     5,813,291
+
+
+</TABLE>
+
+
+               The accompanying notes are an integral part
+               of these consolidated financial statements.
+                                    
+
+<PAGE>
+
+
+
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+             CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+<TABLE>
+<CAPTION>                                    
+
+                                               Additional
+                              Common Stock      paid in   Retained
+                            Shares     Amount   capital   earnings     Total
+<S>                        <C>       <C>     <C>        <C>         <C>         
+Balance, June 30, 1991     5,799,093 $57,991 $5,772,765 $44,893,525 $50,724,281
+
+Shares issued-
+ Stock options exercised      26,443     264    119,763     -0-         120,027
+
+  Net earnings                  -0-      -0-       -0-    9,110,523   9,110,523
+
+Balance, June 30, 1992     5,825,536  58,255  5,892,528  54,004,048  59,954,831
+
+Shares issued-
+ Stock options exercised      11,642     117     68,185       -0-        68,302
+
+Shares repurchased        (    2,322)(    23)(   43,965)      -0-      ( 43,988)
+
+ Net earnings                    -0-     -0-       -0-    9,793,014   9,793,014
+
+Balance, June 30, 1993     5,834,856  58,349  5,916,748  63,797,062  69,772,159
+
+Shares issued-
+ Stock options exercised      32,166     321    273,142       -0-       273,463
+
+ Shares repurchased       (   10,000)(   100) ( 188,650)      -0-   (   188,750)
+
+ Net earnings                   -0-      -0-        -0-  11,018,539  11,018,539
+                                                                                   
+Balance, June 30, 1994     5,857,022 $58,570 $6,001,240 $74,815,601 $80,875,411
+
+
+</TABLE>
+
+
+
+
+
+
+               The accompanying notes are an integral part
+               of these consolidated financial statements.
+                                    
+<PAGE>
+                                    
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+                  CONSOLIDATED STATEMENTS OF CASH FLOWS
+<TABLE>
+<CAPTION>                                    
+                                                 Years ended June 30,
+                                               1994          1993          1992
+<S>                                      <C>           <C>          <C> 
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net earnings                             $ 11,018,539  $ 9,793,014  $ 9,110,523
+Adjustments to reconcile net earnings to
+ cash flows used for operating activities:
+  Depreciation                                 61,417       16,866      110,051
+  Sale or lease of equipment previously
+  on operating leases, net                     13,646       59,867       17,322
+  Interest accretion of estimated
+  unguaranteed residual values            ( 3,115,186) ( 2,869,943) ( 2,492,262)
+  Estimated unguaranteed residual
+  values recorded on leases               ( 7,733,445) ( 6,406,835) ( 4,110,784)
+  Interest accretion of net deferred
+  income                                  (   984,918) ( 1,241,855) ( 3,074,709)
+  Increase in net deferred income           2,691,736    1,424,429      156,652
+  Net increase (decrease) in income taxes
+  payable, including deferred taxes           988,676    2,992,800  (   523,336)
+  Net increase in net receivables         ( 6,835,242) (19,260,057) ( 1,072,218)
+  Net (increase) decrease in inventories      865,601  ( 2,972,596) ( 1,825,064)
+  Net increase (decrease) in accounts payable
+   and accrued liabilities                ( 6,493,379)   9,300,441  ( 2,325,311)
+Net cash used for operating activities    ( 9,522,555) ( 9,163,869) ( 6,029,136)
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Decrease (increase) in short
+  term investments                               -0-     2,513,813  ( 2,513,813)
+  Net increase in minimum lease payments
+  receivable                              (23,476,863) (27,353,268) ( 4,031,809)
+  Purchase of equipment on operating
+  leases                                  (    61,433) (    57,372) (    88,252)
+  Net decrease (increase) in other assets      67,181  (    97,312) (   233,446)
+  Decrease in estimated unguaranteed
+  residual values                           7,313,130    4,580,601    4,000,232
+Net cash used for investing activities    (16,157,985) (20,413,538) ( 2,867,088)
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Assignment of discounted lease rentals   23,406,774   36,346,343          -0-
+  Borrowing on note payable secured
+  by lease                                 10,000,000         -0-           -0-
+  Payments to repurchase common stock     (   188,750) (    43,988)         -0-
+  Payments to reduce nonrecourse debt, excluding
+  lease rentals assigned to lenders               -0-  (    10,159) (    16,098)
+  Increase in customer deposits             3,440,128      837,047      493,823
+  Proceeds from exercise of stock options     273,463       68,302      120,027
+Net cash provided by financing activities  36,931,615   37,197,545      597,752
+
+NET CHANGE IN CASH AND CASH EQUIVALENTS    11,251,075    7,620,138  ( 8,298,472)
+
+CASH AND CASH EQUIVALENTS AT BEGINNING
+  OF PERIOD                                18,083,839   10,463,701   18,762,173
+
+CASH AND CASH EQUIVALENTS AT END
+  OF PERIOD                              $ 29,334,914 $ 18,083,839 $ 10,463,701
+
+<CAPTION>
+SUPPLEMENTAL SCHEDULE OF NONCASH INVESTING AND FINANCING ACTIVITIES
+<S>                                      <C>          <C>          <C>
+Increase in lease rentals assigned to lenders and related
+  nonrecourse debt                       $ 14,555,482 $ 17,589,394 $    879,114
+<CAPTION>
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION
+<S>                                      <C>          <C>          <C>
+Cash paid during the year for:
+  Interest                               $    174,059 $     88,725 $    100,143
+  Income taxes                           $  5,366,715 $  2,635,200 $  5,899,623
+</TABLE>                                    
+                                    
+               The accompanying notes are an integral part
+               of these consolidated financial statements.
+
+<PAGE>
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+               NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                    
+                     THREE YEARS ENDED JUNE 30, 1994
+                                    
+Note 1 - Summary of Significant Accounting Policies:
+Basis of Presentation
+
+The  accompanying consolidated financial statements include the  accounts
+of   the   Company  and  its  wholly-owned  subsidiaries.  All   material
+intercompany balances and transactions have been eliminated.
+
+Cash and Cash Equivalents
+
+The  Company  considers  all  highly  liquid  investments  with  original
+maturities of three months or less to be cash equivalents.
+
+Leases
+  Capital Leases
+
+The  Company  engages  in  the lease and sale of  computer  hardware  and
+software,  and other equipment. The Company adopted Financial  Accounting
+Standards Board Technical Bulletin No. 88-1 ("88-1") in fiscal year  1989
+which  addressed  certain issues relating to accounting for  leases.  The
+discounted  value  of the aggregate lease rentals is  recorded  as  sales
+revenue.  Equipment cost, less the discounted value of the  residual,  if
+any,  is recorded as cost of sales. Under 88-1, except for capital  lease
+transactions in which the Company no longer has a continuing interest  in
+the  leased  equipment, the Company defers gross profit  on  new  capital
+leases  through  a  reduction  of  sales  revenue  recognized  at   lease
+origination.  Gross profit which is deferred together with  the  unearned
+interest  income  (and  interest expense if assigned)  is  recognized  as
+interest  income (and expense) over the lease term based on  an  internal
+rate  of  return  method. The Company recognizes certain interim  rentals
+received as operating income prior to commencement of capital leases.
+
+At the time of closing capital leases, the Company records on its balance
+sheet the present value of the lease receivable as minimum lease payments
+receivable  and,  if appropriate, the estimated residual  values  of  the
+leased  equipment. The Company typically assigns, on a nonrecourse basis,
+the  noncancelable  lease  rentals  to financial  institutions  at  fixed
+interest  rates.  When  leases are assigned  to  financial  institutions,
+without  recourse, the discounted value of the lease rentals is  recorded
+on the balance sheet as discounted lease rentals assigned to lenders. The
+related  obligation  resulting  from the discounting  of  the  leases  is
+recorded  as  nonrecourse debt. In the event of default by a lessee,  the
+lender has a first lien against the underlying leased equipment, with  no
+further recourse against the Company.
+
+Effective  July  1,  1988,  the Company adopted  Statement  of  Financial
+Accounting Standards No. 91, "Accounting for Nonrefundable Fees and Costs
+Associated  With Originating or Acquiring Loans and Initial Direct  Costs
+of   Leases."   A   portion  of  the  Company's  selling,   general   and
+administrative  costs  directly  related to  originating  capital  leases
+transactions during the period is deferred as an increase in revenues and
+amortized  over  the lease term utilizing the effective interest  method.
+See Note 5.
+
+  Operating Leases
+
+Lease  contracts  which do not meet the criteria of  capital  leases  are
+accounted  for  as  operating leases. Equipment on  operating  leases  is
+recorded at cost and depreciated on a straight-line basis over the  lease
+term  to  the estimated residual value at the termination of  the  lease.
+Rental  income  is recorded monthly or quarterly when due. Selling  costs
+directly  associated with the operating leases are deferred and amortized
+over the lease term.
+
+Inventories
+
+Inventories, which primarily represent partial deliveries of equipment on
+in-process lease transactions whereby the lessee is legally obligated  to
+accept,  are stated at the lower of cost (first-in, first-out method)  or
+market value.
+
+<PAGE>
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+               NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Net Earnings per Common Share
+
+Net  earnings per common share are computed based on the weighted  average
+number of common shares outstanding during each fiscal year (5,848,594  in
+1994, 5,830,561 in 1993 and 5,813,291 in 1992).
+
+Reclassifications
+
+Certain  reclassifications have been made to  the  fiscal  1993  and  1992
+consolidated financial statements to conform with the presentation of  the
+fiscal 1994 consolidated financial statements.
+
+Note 2 - Receivables:
+
+     The Company's net receivables consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                         June 30,
+                                                    1994            1993
+     <S>                                       <C>            <C>
+     Financial institutions                    $32,241,312    $26,611,057
+     Lessees                                     7,640,218      5,323,373
+            Other                                  868,976      1,680,633
+     Total before allowances                    40,750,506     33,615,063
+
+     Less allowance for doubtful accounts      (   845,325)   (   545,125)
+
+     Net receivables                           $39,905,181    $33,069,938
+</TABLE>
+Note 3 - Capital Leases:
+
+     The Company's net investment in capital leases consists of the
+      following:
+<TABLE>
+<CAPTION>
+                                                         June 30,
+                                                     1994           1993
+      <S>                                      <C>            <C>
+      Minimum lease payments receivable, less allowance for
+       doubtful accounts of $475,000           $34,370,750    $40,450,902
+      Estimated unguaranteed residual value, less
+       valuation allowance of $542,274 and
+       $394,403, respectively                   35,252,670     30,492,767
+
+      Total before unearned income              69,623,420     70,943,669
+
+      Less: unearned income                    (10,318,421)   (15,245,122)
+
+      Net investment in capital leases         $59,304,999    $55,698,547
+</TABLE>
+
+
+     The interest rates used to discount lease payments reflect the underlying
+lease rates and range from 6.3% to 14.95%.
+
+      The  estimated unguaranteed residual value represents the  estimated
+amount  to  be  received  at lease termination  from  the  disposition  of
+equipment under the capital leases, discounted using the internal rate  of
+return related to each specific capital lease.
+<PAGE>                                    
+                                    
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+               NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      At June 30, 1994, a summary of the installments due on minimum lease
+payments   receivable  and  the  expected  realization  of  the  Company's
+estimated unguaranteed residual value is as follows:
+<TABLE>
+<CAPTION>
+                                                       Estimated
+                                         Minimum      unguaranteed
+ Years ending                         lease payments    residual
+   June 30,                             receivable       value        Total
+   <S>                                <C>            <C>           <C>
+   1995                               $ 19,892,304   $ 11,633,273  $ 31,525,577
+   1996                                  8,360,097      7,800,020    16,160,117
+   1997                                  3,418,093      8,807,799    12,225,892
+   1998                                  1,376,563      3,700,452     5,077,015
+   1999                                  1,323,693      3,115,975     4,439,668
+   Thereafter                                  -0-        195,151       195,151
+                                        34,370,750     35,252,670    69,623,420
+
+   Less unearned income               (  3,247,072)  (  7,071,349) ( 10,318,421)
+   Net investment in capital leases
+     and estimated unguaranteed
+     residual value excluding deferred
+     interest income                  $ 31,123,678   $ 28,181,321  $ 59,304,999
+</TABLE>
+      Nonrecourse debt, which relates to the discounting of capital lease
+receivables, bears interest at rates ranging from 5.87% to 16.5%.
+Maturities of such obligations at June 30, 1994 are as follows:
+<TABLE>
+<CAPTION>
+
+     Years ending                                      Capital
+       June 30,                                         leases
+<S>                                                <C>
+         1995                                      $ 92,649,791
+         1996                                        68,912,031
+         1997                                        39,956,428
+         1998                                        17,642,059
+         1999                                         5,992,138
+     Thereafter                                         593,740
+                                                    225,746,187
+Deferred interest (Note 5)                           24,192,113
+
+Total discounted lease rentals assigned
+  to lenders                                       $249,938,300
+</TABLE>
+
+Note 4 - Notes Payable to Bank:
+
+     In August 1993, the Company negotiated a $20,000,000 general business
+loan  agreement  (the  "Agreement") with  a  Bank.  The  Agreement,  which
+provides  for  borrowings  at  the Bank's reference  rate  or  the  Bank's
+Offshore  rate plus 1.25%, allows for advances through December  31,  1994
+with  rollover provisions to a term note, provided certain conditions  are
+met  by  the Company. The term note is to be secured by certain qualifying
+leases  and is to bear interest at the Bank's reference rate plus .50%  or
+the  Bank's Offshore rate plus 1.75%. The term note requires repayment  in
+three  equal  quarterly  installments of one  eighth  of  the  outstanding
+balance  at the expiration date, commencing April 1, 1995, and  one  final
+payment on December 31, 1995 for the remaining balance.
+
+      The  Agreement  is  unsecured  and  excludes  any  arrangements  for
+compensating balances; however, the Bank requires a commitment fee on  the
+daily  average  unused amount of the Bank's $20,000,000 commitment.  Under
+the  provisions  of the Agreement, the Company must maintain  certain  net
+worth  requirements, a defined debt to net worth ratio and a defined ratio
+of  certain  assets to defined debt.  As of June 30, 1994  there  were  no
+outstanding balances on this Agreement.
+
+<PAGE>
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+               NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+      In  December 1993, the Company entered into an agreement, as amended
+in  August  1994, to borrow $10,000,000 (the "Note") at an  interest  rate
+equal  to  the  prime  rate. This Note is secured by an  in-process  lease
+transaction (the "Lease"). This Lease is secured by an $11,000,000  letter
+of credit issued by a different financial institution. Interest is payable
+monthly  commencing January 15, 1994 and the Note is due  on  October  31,
+1994.  The  financial  institution which issued the  Note  has  agreed  to
+finance the Lease on a nonrecourse basis through the due date of the Note.
+
+Note 5 - Deferred Interest Income and Net Deferred Income:
+
+      At  June 30, 1994, deferred interest income of $24,192,113 is offset
+by  deferred  interest expense related to the Company's  discounted  lease
+rentals assigned to lenders of $24,192,113. See Note 3.
+
+      At  June  30, 1994, the expected recognition of net deferred  income
+(deferred  gross margin of $9,870,422  less deferred selling  expenses  of
+$6,126,943) on the Company's future statements of earnings is as follows:
+<TABLE>
+<CAPTION>
+          Years ending
+            June 30,
+          <S>                                             <C> 
+             1995                                         $1,320,749
+             1996                                          1,397,680
+             1997                                            432,042
+             1998                                            443,470
+             1999                                            100,494
+          Thereafter                                          49,044
+          Total net deferred income                       $3,743,479
+</TABLE>
+
+Note 6 - Income Taxes:
+
+      Effective  July  1,  1993, the Company adopted Financial  Accounting
+Standards No. 109 on Accounting for Income Taxes ("SFAS No. 109").   Among
+other  provisions,  this standard requires deferred  tax  balances  to  be
+determined using the enacted income tax rate for the years in which  taxes
+will  be  paid or refunds received.  The adoption of SFAS No. 109 did  not
+result in a charge to net income in 1994.  Prior year financial statements
+were not restated to reflect the new accounting standard.
+
+     The provision for income taxes is summarized as follows:
+<TABLE>
+<CAPTION>
+                                                Years ended June 30,
+                                            1994        1993        1992
+  <S>                                 <C>         <C>         <C>
+  Current tax expense:
+    Federal                           $2,667,000  $3,161,000  $2,811,000
+    State                                600,000   1,000,000     810,000
+        Total current                  3,267,000   4,161,000   3,621,000
+  Deferred tax expense:
+    Federal                            2,371,000   1,360,000   1,655,000
+    State                                695,000     107,000     100,000
+        Total deferred                 3,066,000   1,467,000   1,755,000
+  Total provision for income taxes    $6,333,000  $5,628,000  $5,376,000
+</TABLE>
+      Deferred taxes result principally from the method of recording lease
+income on capital leases and depreciation methods for tax reporting, which
+differ from financial statement reporting.
+
+
+<PAGE>
+
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+               NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                    
+                                    
+      Deferred  income  tax  liabilities  (assets)  are  composed  of  the
+following:
+<TABLE>
+<CAPTION>
+                                                   June 30, 1994
+     <S>                                             <C>
+     Deferred income tax liabilities:
+       Tax operating leases                          $24,461,748
+       Other book/tax differences                        866,775
+          Total liabilities                           25,328,523
+
+     Deferred income tax assets:
+       Allowances and reserves                       ( 1,158,522)
+        Minimum  tax credits/carryforwards           ( 6,339,043)
+       Refunds due on overpayments                   ( 2,369,123)
+       State income taxes                            (   200,337)
+          Total assets                               (10,067,025)
+
+     Net deferred income tax liabilities             $15,261,498
+</TABLE>
+
+      The sources of differences between the federal statutory income  tax
+rate and the Company's effective tax rate are as follows:
+<TABLE>
+<CAPTION>
+                                               Years ended June 30,
+                                           1994        1993      1992
+       <S>                                 <C>         <C>       <C>
+       Federal statutory rate              35.0%       34.0%     34.0%
+        State tax, net of federal benefit   4.8         4.8       4.8
+       Other                               (3.3)       (2.3)     (1.7)
+            Effective  rate                36.5%       36.5%     37.1%
+</TABLE>                                    
+
+Note 7 - Capital Structure:
+
+      In  September 1986, the Board of Directors and stockholders approved
+an  increase  in  the  number  of authorized shares  of  common  stock  to
+20,000,000. The Board of Directors and stockholders further authorized the
+issuance of 2,500,000 shares of preferred stock from time to time  in  one
+or more series and to fix the voting powers, designations, preferences and
+the  relative  participating, optional or other rights,  if  any,  of  any
+wholly unissued series of preferred stock.
+
+     In September 1984, the Company's stockholders approved a Stock Option
+Plan  (the "Plan"), which, as amended, provides that stock options may  be
+granted  to  officers, employees, consultants and other persons  who  have
+made,  or will make, major contributions toward the growth and development
+of  the  Company. Stock options that are granted may entitle the recipient
+to  purchase shares of the Company's common stock at prices greater  than,
+equal  to or less than the estimated fair market value at the date of  the
+grant.  Under the Plan, stock options become exercisable over a  three  or
+five year period, commencing with the first anniversary of the date of the
+grant,  and  expire ten years from the date of the grant. The Company  has
+reserved 650,000 shares of common stock for issuance under the Plan.
+<PAGE>
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+               NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                    
+      The  following  table summarizes the activity in the  Plan  for  the
+periods indicated:
+<TABLE>
+<CAPTION>
+                                                          Exercise
+                                              Option        price      Options
+                                            outstanding   per share  exercisable
+   <S>                                      <C>        <C>            <C>
+   Outstanding at June 30, 1991               271,654  $ .28 - 16.25
+    Granted                                   122,833  13.00 - 15.00
+    Canceled                                (  31,911)  7.00 - 16.25
+    Exercised                               (  26,443)  1.92 -  8.25
+
+   Outstanding  at June 30, 1992              336,133    .28 - 15.00
+    Granted                                   100,500  11.75 - 19.50
+    Canceled                                (   8,734)  7.00 - 13.00
+    Exercised                               (  11,642)  1.68 -  9.50
+
+   Outstanding at June 30, 1993               416,257    .28 - 19.50
+    Granted                                   124,667  18.00 - 20.25
+    Canceled                                (  52,867)  7.00 - 20.25
+    Exercised                               (  32,166)  7.00 - 17.25
+
+   Outstanding at June 30, 1994               455,891  $ .28 - 20.25  218,784
+</TABLE>
+                                    
+Note 8 - Fair Value of Financial Instruments:
+
+     The Company has estimated the fair value of its financial instruments
+in  compliance  with Financial Accounting Standards No. 107 on  Disclosure
+About Fair Value of Financial Instruments.  The estimates were made as  of
+June 30, 1994 based on relevant market information.
+
+     Fair value is a subjective and imprecise measurement that is based on
+assumptions  and market data which require significant judgement  and  may
+only  be valid at a particular point in time.  The use of different market
+assumptions or valuation methodologies may have a material effect  on  the
+estimated  fair  value  amounts.  Accordingly, management  cannot  provide
+assurance  that  the fair values presented are indicative of  the  amounts
+that the Company could realize in a current market exchange.
+
+      The  estimated fair value of financial instruments and the valuation
+techniques used to estimate the fair value were as follows:
+<TABLE>
+<CAPTION>
+                                                               Estimated
+  At June 30, 1994                                Book Value   Fair Value
+     <S>                                         <C>          <C>
+     Financial Assets:
+       Cash and cash equivalents                 $29,334,914  $29,407,845
+     Financial Liabilities:
+       Note payable to bank                       10,000,000   10,000,000
+</TABLE>
+
+Cash  and  Cash  Equivalents:  For cash, the book value  is  a  reasonable
+estimate of fair value. For cash equivalents with original maturities less
+than  three  months, the estimated fair value is based on  the  respective
+market prices.
+
+Note  Payable  to  Bank:   The fair value of  the  Note  payable  to  bank
+approximates  book  value  because the interest rate  on  this  instrument
+adjusts  with  changes  in market interest rates  due  to  its  short-term
+maturity.
+
+      The fair value of the Company's net investment in capital leases  is
+not a required disclosure under SFAS No. 107.
+
+<PAGE>
+
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+               NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                    
+                                    
+
+Note 9 - Commitments and Contingencies:
+
+Leases
+
+      The  Company leases the majority of its corporate offices  under  an
+operating  lease which expires in fiscal 1998. Rent expense  was  $419,526
+(1994), $427,327 (1993) and $386,500 (1992).
+
+     Future minimum lease payments under operating leases are as follows:
+<TABLE>
+<CAPTION>
+          Years Ending                            Future Minimum
+            June 30,                               Lease Payments
+          <S>                                     <C>
+             1995                                 $  543,221
+             1996                                    501,217
+             1997                                    501,217
+             1998                                    292,377
+          Thereafter                                    -0-
+          Total minimum lease payments            $1,838,032
+</TABLE>
+Litigation
+
+      The  Company has been named in lawsuits arising out of the Company's
+normal  business  activities.  The Company is  vigorously  defending  such
+actions. Management does not expect the outcome of any of  these lawsuits,
+individually and in the aggregate, to have a  material  adverse  effect on
+the financial condition and results of operations of the Company.
+
+401(k) Plan
+
+     Effective July 1, 1992, employees of the Company may participate in a
+voluntary  defined  contribution plan (the "401K  Plan")  qualified  under
+Section 401(k) of the Internal Revenue Code of 1986. Under the 401K  Plan,
+employees who have met certain age and service requirements may contribute
+up  to  a certain percentage of their compensation. The Company will  make
+contributions  equal  to 25 percent of employee contributions  which  will
+completely  vest  over  a  seven  year  period.  The  Company   has   made
+contributions during the years ended June 30, 1994 and 1993 of $39,602 and
+$27,622, respectively.
+
+<PAGE>                                    
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+               NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+Note 10 - Selected Quarterly Financial Data (Unaudited):
+
+      Summarized quarterly financial data for the fiscal years ended  June
+30, 1994 and 1993 is as follows:
+<TABLE>
+<CAPTION>
+
+                                             Three Months Ended
+                              September 30,  December 31,  March 31,  June 30,
+       1994                        (In thousands, except per share amounts)
+<S>                                <C>          <C>         <C>       <C>
+Total revenues                     $45,746      $50,398     $49,090   $36,126
+Gross profit                         6,515        7,224       7,749     7,965
+Net earnings                         2,344        2,712       2,999     2,964
+Net earnings per common share      $   .40      $   .47     $   .51   $   .51
+
+     1993
+Total revenues                     $40,536      $41,824     $40,511   $40,957
+Gross profit                         6,076        6,518       6,711     6,778
+Net earnings                         2,253        2,524       2,489     2,527
+Net earnings per common share      $   .39      $   .43     $   .43   $   .43
+</TABLE>                                    
+                                    
+<PAGE>
+                                    
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+                                    
+ITEM  9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING  AND
+FINANCIAL DISCLOSURE
+
+     Not applicable.
+
+
+
+                                PART III
+                                    
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+      The  information  required by this item is  incorporated  herein  by
+reference  to  the Company's definitive proxy statement to  be  filed  not
+later  than  October 28, 1994 with the Securities and Exchange  Commission
+pursuant  to Regulation 14A under the Securities Exchange Act of 1934,  as
+amended.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+      The  information  required by this item is  incorporated  herein  by
+reference  to  the Company's definitive proxy statement to  be  filed  not
+later  than  October 28, 1994 with the Securities and Exchange  Commission
+pursuant  to Regulation 14A under the Securities Exchange Act of 1934,  as
+amended.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+      The  information  required by this item is  incorporated  herein  by
+reference  to  the Company's definitive proxy statement to  be  filed  not
+later  than  October 28, 1994 with the Securities and Exchange  Commission
+pursuant  to Regulation 14A under the Securities Exchange Act of 1934,  as
+amended.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+      The  information  required by this item is  incorporated  herein  by
+reference  to  the Company's definitive proxy statement to  be  filed  not
+later  than  October 28, 1994 with the Securities and Exchange  Commission
+pursuant  to Regulation 14A under the Securities Exchange Act of 1934,  as
+amended.
+
+
+
+
+
+
+<PAGE>
+
+
+
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+                                 PART IV
+                                    
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a)  List of documents filed as part of this Report
+
+     (1) Financial Statements
+
+            All financial statements of the Registrant as set forth under
+            Part II Item 8 of this report on Form 10-K
+
+     (2) Financial Statement Schedules:
+
+     Schedule Number        Description                             Page Number
+
+          II.       Amounts receivable from Related Parties and
+                    Underwriters, Promoters and Employees other
+                    than Related Parties................................. 27
+
+          VIII.     Valuation and Qualifying Accounts.................... 28
+
+           All  other  schedules are omitted because  of  the  absence  of
+conditions  under  which  they  are  required  or  because  all   material
+information  required  to  be  reported is included  in  the  consolidated
+financial statements and notes thereto.
+
+     (3) Exhibits:
+
+           See Index to Exhibits filed as part of this Form 10-K      29-31
+
+(b)  Reports on Form 8-K
+
+     There were no reports on Form 8-K filed during the fourth quarter of
+fiscal 1994.
+
+
+
+
+<PAGE>
+
+
+
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+                               SIGNATURES
+                                    
+      Pursuant  to  the  requirements of Section  13  or  15  (d)  of  the
+Securities  Exchange  Act of 1934, the registrant  has  duly  caused  this
+report  to  be  signed  on its behalf by the undersigned,  thereunto  duly
+authorized.
+
+                    AMPLICON, INC.
+
+
+
+          By   S. Leslie Jewett /s/                     Date: Sept. 27, 1994
+               S. Leslie Jewett
+               Chief Financial Officer
+                                    
+                            POWER OF ATTORNEY
+                                    
+      Each person whose signature appears below hereby authorizes each  of
+Patrick  E. Paddon, S. Leslie Jewett and Glen T. Tsuma as attorney-in-fact
+to  sign on his behalf, individually in each capacity stated below, and to
+file all amendments and/or supplements to this Annual Report on Form 10-K.
+
+      Pursuant to the requirements of the Securities Exchange Act of 1934,
+this  report has been signed below by the following persons on  behalf  of
+the registrant in the capacities and on the dates indicated.
+
+   Signature                   Title                         Date
+
+
+  Patrick E. Paddon /s/     President, Chief Executive       Sept. 27, 1994
+  Patrick E. Paddon         Officer and Director
+
+
+
+  Glen T. Tsuma /s/         Vice President, Treasurer, Chief Sept. 26, 1994
+  Glen T. Tsuma             Operating Officer and Director
+
+
+  S. Leslie Jewett /s/      Chief Financial Officer          Sept. 27, 1994
+  S. Leslie Jewett
+
+
+                          
+  Michael H. Lowry /s/      Director                         Sept. 22, 1994
+  Michael H. Lowry  
+
+
+
+  Harris Ravine /s/         Director                         Sept. 23, 1994
+  Harris Ravine
+
+<PAGE>
+
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+        SCHEDULE II - AMOUNTS RECEIVABLE FROM RELATED PARTIES AND
+    UNDERWRITERS, PROMOTERS AND EMPLOYEES OTHER THAN RELATED PARTIES
+<TABLE>
+<CAPTION>                                                          Balance at
+                      Balance at               Deductions        End of Period                      Deductions
+                      Beginning             Amounts   Amounts              Not
+Name of Debtor        of Period  Additions Collected Written Off Current Current
+
+Year Ended June 30, 1992:
+<S>                   <C>        <C>        <C>          <C>     <C>        <C>  
+David E. Brill(1)     $ 277,483  $  8,566   $250,000     -0-     $ 36,049   -0-
+
+
+Year Ended June 30, 1993:
+
+David  E. Brill(1)    $  36,049  $  2,400       -0-      -0-     $ 38,449   -0-
+
+
+Year Ended June 30, 1994:
+
+David   E.  Brill(1)  $  38,449  $  2,477       -0-      -0-     $ 40,926   -0-
+
+<FN>
+
+(1)  Interest  bearing note at the prime rate plus 1% with principal  and
+interest due one year after the funding or renewal dates.
+</FN>
+</TABLE>
+<PAGE>
+
+
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+            SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+                                    
+<TABLE>
+<CAPTION>
+                                     
+                                                Additions
+                                     Balance    Charged to  Accounts   Balance
+                                    Beginning   Costs and   Written     at End
+Classifications                     of Period    Expenses     Off       Period
+
+Year ended June 30, 1992:
+<S>                                <C>          <C>         <C>       <C>       
+ Allowance for doubtful accounts   $1,020,125   $  -0-      $  -0-    $1,020,125
+ Allowance for valuation of
+  unguaranteed residual value      $  324,368   $ 70,035    $  -0-    $  394,403
+
+
+Year ended June 30, 1993:
+
+ Allowance for doubtful accounts   $1,020,125   $  -0-      $  -0-    $1,020,125
+ Allowance for valuation of
+  unguaranteed residual value      $  394,403   $  -0-      $  -0-    $  394,403
+
+
+Year ended June 30, 1994:
+
+Allowance for doubtful accounts    $1,020,125   $300,200    $  -0-    $1,320,325
+Allowance for valuation of
+  unguaranteed residual value      $  394,403   $147,871    $  -0-    $  542,274
+
+<FN>
+Note:  The  allowance for doubtful accounts includes balances related  to
+receivables and capital leases described in Notes 2 and 3 of the Notes to
+Consolidated Financial Statements.
+</FN>
+</TABLE>
+
+
+
+
+
+<PAGE>
+
+
+
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+                            INDEX TO EXHIBITS
+                                    
+Exhibit No.    Description of Exhibit                                 Page No.
+
+  3.1          Articles of Incorporation of the Company
+                 (incorporated by reference to Exhibit 3.1 to
+                 Registrant's Registration Statement on Form S-1
+                 File No. 33-9094 (the "Registration Statement on
+                 Form S-1"))
+
+  3.2          Certificate of Amendment of Articles of
+                 Incorporation of the Company, filed April 15, 1988
+                 (incorporated by reference to Exhibit 3.2 to
+                 Registrant's 1988 Form 10-K)
+
+  3.3          Bylaws of the Company (incorporated by reference
+                 to Exhibit 3.3 to the Registration
+                 Statement on Form S-1)
+
+  3.4          Amendment and Restatement of Article VI of the
+                 Bylaws of the Company (incorporated by reference
+                 to Exhibit 3.4 to Registrant's 1988 Form 10-K)
+
+ 10.1          1984 Stock Option Plan, as amended to date
+                 (incorporated by reference to Exhibit 10.1 to
+                 Registrant's Statement on Form S-8 File No. 33-27283)
+
+ 10.2          Master Agreement for Lease Arrangement Transactions,
+                 dated as of October 14, 1985, between the Company
+                 and Chrysler Financial Corporation (incorporated
+                 by reference to Exhibit 10.4 to the Registration
+                 Statement on Form S-1)
+
+ 10.3          Master Loan Agreement, dated as of July 18, 1986,
+                between the Company and General Electric Credit
+                Corporation (incorporated by reference to Exhibit
+                10.5 to the Registration Statement
+                on Form S-1)
+
+ 10.4          Master Agreement for Rental Payment Purchase
+                Transactions, dated as of July 8, 1982, between the
+                Company and Wells Fargo Bank, N.A. (incorporated
+                by reference to Exhibit 10.6 to the Registration
+                Statement on Form S-1)
+
+ 10.5          Form of Assignment of Lease - Without Recourse
+                between the Company and CIT
+                Group/Equipment Financing, Inc. (incorporated by
+                reference to Exhibit 10.10 to the Registration
+                Statement on Form S-1)
+
+ 10.6          Form of Assignment of Lease - Without Recourse between
+                the Company and CircleBusiness Credit, Inc. (incorporated by
+                reference to Exhibit 10.11 to the Registration Statement on
+                Form S-1)
+<PAGE>
+
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+                            INDEX TO EXHIBITS
+                                    
+Exhibit No.    Description of Exhibit                                 Page No.
+
+ 10.7          Master Agreement for Rental Payment Purchase
+                 Transactions, dated as of February 27, 1990, between
+                 the Company and Security Pacific Credit Corporation
+                 (incorporated by reference to Exhibit 10.7 to the
+                 Registrant's 1990 Form 10-K)
+
+ 10.8          Credit Agreement, dated as of April 13, 1990 (the "Credit
+                 Agreement), between the Company and Security Pacific National
+                 Bank (now Bank of America National Trust and
+                 Savings Association, and together with Security Pacific
+                 National Bank, "Bank of America") (incorporated by
+                 reference to Exhibit 10.8 to the Registrant's 1990 Form 10-K)
+
+ 10.9          First Amendment to the Credit Agreement, dated
+                 November 19, 1990, between the Company and Bank
+                 of America (incorporated by reference to Exhibit 10.9
+                 to the Registrant's 1991 Form 10-K)
+
+ 10.10         Second Amendment to the Credit Agreement, dated
+                 December 17, 1991, between the Company and Bank
+                 of America (incorporated by reference to Exhibit 10.10
+                 to the Registrant's 1992 Form 10-K)
+
+ 10.11         Third Amendment to the Credit Agreement, dated
+                 February 25, 1992, between the Company and Bank
+                 of America (incorporated by reference to Exhibit 10.11
+                 to the Registrant's 1992 Form 10-K)
+
+ 10.12         Fourth Amendment to the Credit Agreement, dated
+                 April 27, 1992, between the Company and Bank
+                 of America (incorporated by reference to Exhibit 10.12
+                 to the Registrant's 1992 Form 10-K)
+
+ 10.13         Sublease Agreement and Amendment No. 1, dated October 31,
+                 1990 and November 28, 1990, respectively,  between the
+                 Company and Griffin Financial Services (incorporated by
+                 reference to Exhibit 10.13 to the Registrant's 1992 Form 10-K)
+
+ 10.14         Fifth Amendment to the Credit Agreement, dated
+                 June 28, 1993, between the Company and Bank of America
+                 (incorporated by reference to Exhibit 10.14 to the Registrant's
+                 1993 Form 10-K)
+
+ 10.15         Business Loan Agreement, dated as of August 12, 1993,
+                 between the Company and Bank of America
+                 (incorporated by reference to Exhibit 10.15 to the Registrant's
+                 1993 Form 10-K)
+<PAGE>
+
+                                    
+                                    
+                     AMPLICON, INC. AND SUBSIDIARIES
+                                    
+                            INDEX TO EXHIBITS
+                                    
+Exhibit No.    Description of Exhibit                                  Page No.
+
+ 10.16         Security Agreement dated as of December 23, 1993          32-44
+                 and all amendments C, D, & E, dated April 19, 1994,
+                 July 18, 1994 and August 30, 1994, respectively
+                 between the Company and The CIT Group/Equipment
+                 Financing, Inc.
+
+  11           Computation of Earnings per Share of Common Stock          45
+
+  22           List of Subsidiaries (incorporated by reference
+                 to Exhibit 22 to the Registrant's 1988 Form 10-K)
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 10.16
+<TEXT>
+
+                           SECURITY AGREEMENT
+
+For Business Loans other than Inventory Loans in all States
+(except Texas) by The CIT Group/Equipment Financing, Inc. or
+Dealer.  In Louisiana, form 5-SA-2305 must accompany this
+Agreement.
+
+1.   GRANT OF SECURITY INTEREST; DESCRIPTION OF COLLATERAL.
+
+Debtor grants to Secured Party a security interest in the
+property described below, along with all present and future
+attachments and accessories thereto and replacements and
+proceeds thereof, including amounts payable under any
+insurance policy, all hereinafter referred to collectively
+as "Collateral".  Describe Collateral fully including make,
+kind of unit, model and serial and model numbers and any
+other pertinent information.
+
+Lease Agreement No. OL-7071, dated 12/18/92 with Hills
+Stores Company, Inc., as Lessee and Amplicon, Inc., as
+Lessor, together with Lease Schedule No. 1 (Collectively,
+the "Lease"), and all related riders, addendums, amendments
+and documents related thereto including but not limited to a
+Letter of Credit No. T-203116 issued by Chemical Bank, along
+with all rents and other payments due and to become due
+thereunder, plus leased equipment more fully described on
+attached Exhibit "A".  (INITIALED BY SIGNERS)
+
+2.   WHAT OBLIGATIONS THE COLLATERAL SECURES.
+
+EACH ITEM OF COLLATERAL SHALL SECURE [NOT] <F1> (INITIALED
+BY SIGNERS) ONLY THE SPECIFIC AMOUNT WHICH DEBTOR PROMISES
+TO PAY IN PARAGRAPH 3 BELOW. [BUT ALSO ALL OTHER PRESENT AND
+FUTURE INDEBTEDNESS OR OBLIGATIONS OF DEBTOR TO SECURED
+PARTY OF EVERY KIND AND NATURE WHATSOEVER.] <F1> (INITIALED
+BY SIGNERS)
+
+3.   PROMISE TO PAY; TERMS AND PLACE OF PAYMENT.
+
+Debtor promises to pay Secured Party (i) the total principal
+sum of $10,000,000.00 in 1 (total number) principal payments
+of $10,000,000.00 on 4/15, 1994, plus (ii) interest payable
+monthly at 0 percent in excess of the "governing rate"
+payable monthly on unpaid principal balances, but in no
+event greater than the highest rate permitted by relevant
+law in effect from time to time during the term of this
+Security Agreement even if this Security Agreement shall
+state a minimum of rate of interest.  The interest payments
+shall be payable monthly, commencing 1/15/94.
+
+"Governing rate" shall mean a rate equal to the highest of
+(i) the Prime Rate of Chemical Bank or (ii) "The Wall Street
+Journal Prime Rate" or (iii) the commercial paper rate in
+effect from time to time.  Interest shall be computed on the
+basis of a year of 360 days.  The Prime Rate of Chemical
+Bank shall mean the rate of interest publicly announced by
+Chemical Bank in New York from time to time as its Prime
+Rate.  The Prime Rate is listed in the Wall Street Journal,
+then the highest rate shall apply.  "Commercial paper rate"
+shall mean the average rate quoted by the Wall Street
+Journal or such other source as Secured Party may determine
+for 30-day dealer commercial paper.
+
+4.   USE AND LOCATION OF COLLATERAL.
+
+Debtor warrants and agrees that the Collateral is to be used
+primarily for:
+
+(X)  business or commercial purposes (other than
+agricultural),
+( )  agricultural purposes (see definition on the final
+page), or
+( )  both agricultural and business or commercial purposes.
+
+
+Location: 4300 Janitrol Road     Columbus    Franklin   OH
+          4200 Westward Avenue   Columbus    Franklin   OH
+
+            Address               City        County   State
+
+Debtor and Secured Party agree that regardless of the manner
+of affixation, the Collateral shall remain personal property
+and not become part of the real estate.*  Debtor agrees to
+keep the Collateral at the locations set forth above, and
+will notify Secured Party promptly in writing of  any change
+in the location of the Collateral within such State, but
+will not remove the Collateral from such State without the
+prior written consent of Secured Party (except that in the
+State of Pennsylvania, the Collateral will not be moved from
+the above location without such prior written
+consent).   *Except to the extent that any personal property
+becomes part of the real estate debtor will provide
+appropriate waivers and fixture filings. (INITIALED BY
+SIGNERS)
+
+5.   LATE CHARGES
+
+Any payment not made when due shall, at the option of
+Secured Party, bear late charges thereon calculated at the
+rate of [one] <F1> (INITIALED BY SIGNERS) one/half percent
+per month, but in no event greater than the highest rate
+permitted by relevant law.
+
+6.   DEBTOR'S WARRANTIES AND REPRESENTATIONS.
+
+Debtor warrants and represents:
+
+(a)  that Debtor is justly indebted to Secured Party for the
+full amount of the indebtedness described in Paragraph 3;
+(b)  that, except for the security interest granted hereby,
+the Collateral is free from and will be kept free from all
+liens, claims, security interests and encumbrances;
+(c)  that no financing statement covering the Collateral or
+any proceeds thereof is on file in favor of anyone other
+than Secured Party, but if such other financing statement is
+on file, it will be terminated or subordinated;
+(d)  that all information supplied and statements made by
+Debtor in any financial, credit or accounting statement or
+application for credit prior to, contemporaneously with or
+subsequent to the execution of this Security Agreement with
+respect to this transaction are and shall be true, correct,
+valid and genuine; and
+
+<F1> Bracketed items have been deleted on the original document.
+
+<PAGE>
+(e)  that Debtor has full authority to enter into this
+Security Agreement and in so doing it is not violating its
+charter or by-laws, and any law or regulation or agreement
+with third parties, and it has taken all such action as may
+be necessary or appropriate to make this Security Agreement
+binding upon it.
+
+7.   DEBTOR'S AGREEMENTS 
+
+Debtor agrees:
+
+(a)  to defend at Debtor's own cost any action, proceeding,
+or claim affecting the Collateral:
+
+(b)  to pay reasonable attorneys' fees [at least 15% of the
+unpaid balance if not prohibited by law] <F2> (INITIALED BY
+SIGNERS) and other expenses incurred by Secured Party in
+enforcing its rights against Debtor under this Security
+Agreement in the event that Secured Party's the prevailing
+party. (INITIALED BY SIGNERS)  The parties agree that in all
+cases the prevailing party* (INITIALED BY SIGNERS) *shall be
+entitled to reimbursement from the non-prevailing party.
+
+(c)  to pay promptly all taxes, assessments, license fees
+and other public or private charges when levied or assessed
+against the Collateral of this Security Agreement; and this
+obligation shall survive the termination of this Security
+Agreement;
+
+(d)  that, if a certificate of title is required or
+permitted by law, Debtor shall obtain such certificate with
+respect to the Collateral, showing the security interest of
+Secured Party thereon and in any event do everything
+necessary or expedient to preserve or perfect the security
+interest of Secured Party;
+
+(e)  that Debtor will not misuse, fail to keep in good
+repair, secrete or without the prior written consent of
+Secured Party, sell, rent, lend, encumber or transfer any of
+the Collateral notwithstanding Secured Party's right to
+proceed to the extent that Debtor will ensure that Lessee
+under Lease No. OL-7071 will comply with this provision.
+(INITIALED BY SIGNERS)
+
+(f)  that Secured Party may enter upon Debtor's premises or
+wherever the Collateral may be located at any reasonable
+time to inspect the Collateral and Debtor's books and
+records pertaining to the Collateral, and Debtor shall
+assist Secured Party in making such inspection; and
+
+[(g) that the security interest granted by Debtor to Secured
+Party shall continue effective irrespective of the payment
+of the amount in Paragraph 3, or in any promissory note
+executed in connection herewith so long as there are any
+obligations of any kind, including obligations under
+guaranties or assignments, owed by Debtor to Secured Party,
+provided, however, upon any assignment of this Security
+Agreement the Assignee shall thereafter be deemed for the
+purpose of this Paragraph the Secured Party under this
+Security Agreement.] <F2> (INITIALED BY SIGNERS)
+
+
+8.   INSURANCE AND RISK OF LOSS
+
+All risk of loss, damage to or destruction of the Collateral
+shall at all times be on Debtor.  Debtor will procure
+forthwith and maintain at Debtor's expense insurance against
+all risks of loss or physical damage to the Collateral for
+the full insurable value thereof for the life of this
+Security Agreement plus breach of warranty insurance and
+such other insurance thereon in amounts and against such
+risks as Secured Party may specify, and shall promptly
+deliver each policy to Secured Party with a standard long-
+form mortgagee endorsement attached thereto showing loss
+payable to Secured Party; and providing Secured Party with
+not less than 30 days written notice of cancellation; each
+such policy shall be in form, terms and amount and with
+insurance carriers satisfactory to Secured Party; Secured
+Party's acceptance of policies in lesser amounts or risks
+shall not be a waiver of Debtor's foregoing obligations.  As
+to Secured Party's interest in such policy, no act or
+omission of Debtor or any of its officers, agents, employees
+or representatives shall affect the obligations of the
+insurer to pay the full amount of any loss.
+
+Debtor hereby assigns to Secured Party any monies which may
+become payable under any such policy of insurance and
+irrevocably constitutes and appoints Secured Party as
+Debtor's attorney in fact (a) to hold each original
+insurance policy, (b) to make, settle and adjust claims
+under each policy of insurance, (c) to make claims for any
+monies which may become payable under such and other
+insurance on the Collateral including returned or unearned
+premiums, and (d) to endorse Debtor's name on any check,
+draft or other instrument received in payment of claims or
+returned or unearned premiums under each policy and to apply
+the funds to the payment of the indebtedness owing to
+Secured Party; provided, however, Secured Party is under no
+obligation to do any of the foregoing.
+
+Should Debtor fail to furnish such insurance policy to
+Secured Party, or to maintain such policy in full force, or
+to pay any premium in whole or in part relating thereto,
+then Secured Party, without waiving or releasing any default
+or obligation by Debtor, may (but shall be under no
+obligation to do so) obtain and maintain insurance and pay
+the premium therefor on behalf of Debtor and charge the
+premium to Debtor's indebtedness under this Security
+Agreement.  The full amount of any such premium paid by
+Secured Party shall be payable by Debtor upon demand, and
+failure to pay same shall constitute an event of default
+under this Security Agreement.  For insurance obligations
+under this paragraph it is acceptable to Secured Party that
+the policies are maintained by Lessee under Lease Agreement
+No. OL-7071, but it is Debtor's responsibility to ensure
+that Lessee maintains proper insurance. (INITIALED BY
+SIGNERS)
+
+9.   EVENTS OF DEFAULT; ACCELERATION.
+
+A very important element of this Security Agreement is that
+Debtor make all its payments promptly as agreed and that the
+Collateral continue to be in good condition and adequate
+security for the indebtedness.
+
+The following are events of default under this Security
+Agreement which will allow Secured Party to take such action
+under this Paragraph and under Paragraph 10 as it deems
+necessary provided that Secured Party has given Debtor
+written notice of such default and Debtor has failed to cure
+such default within 10 days of receipt of such notice.
+(INITIALED BY SIGNERS)
+
+(a)  any of Debtor's obligations to Secured Party under
+[any] <F2> (INITIALED BY SIGNERS) agreement with Secured
+Party is not paid promptly when due.
+
+(b)  Debtor breaches any warranty or provision hereof, or of
+any note or of any other instrument or agreement delivered
+by Debtor to Secured Party in connection with this [or any
+other] <F2> (INITIALED BY SIGNERS) transaction;
+
+(c)  Debtor dies, becomes insolvent or ceases to do business
+as a going concern;
+
+(d)  it is determined that Debtor has given Secured Party
+materially misleading information regarding its financial
+condition;
+
+(e)  any of the Collateral is lost or destroyed;
+
+(f)  a petition or complaint in bankruptcy or for
+arrangement or reorganization or for relief under any
+insolvency law be filed by or against Debtor or Debtor
+admits its inability to pay its debts as they mature;
+
+(g)  property of Debtor is attached or a receiver is
+appointed for Debtor;
+
+<F2> Bracketed items have been deleted on the original
+documents.
+
+<PAGE>
+
+[(h) whenever Secured Party in good faith believes the
+prospect of payment or performance is impaired or in good
+faith believes the Collateral is insecure; or] <F3>
+(INITIALED BY SIGNERS)
+
+[(i) any guarantor, surety or endorser for Debtor dies or
+defaults in any obligation or liability to Secured Party or
+any guaranty obtained in connection with this transaction is
+terminated or breached.] <F3> (INITIALED BY SIGNERS)
+
+IF DEBTOR SHALL BE IN DEFAULT HEREUNDER the indebtedness
+herein described [and all other indebtedness] <F3>
+(INITIALED BY SIGNERS) then owing by Debtor to Secured Party
+under this [or any other present or future] <F3> (INITIALED
+BY SIGNERS) agreement (collectively, the "indebtedness")
+shall, if Secured Party shall so elect, become immediately
+due and payable and the unpaid principal balance of the
+indebtedness described in Paragraph 3, or in any promissory
+note executed in connection herewith, shall bear interest at
+the same rate as before maturity until paid in full.  In no
+event shall the Debtor, upon demand by Secured Party for
+payment of the indebtedness, by acceleration of the maturity
+thereof or otherwise, be obligated to pay any interest in
+excess of the amount permitted by law.  Any acceleration of
+the indebtedness, if elected by the Secured Party, shall be
+subject to all applicable laws, including laws relating to
+rebates and refunds of unearned charges.
+
+10.  SECURED PARTIES REMEDIES AFTER DEFAULT; CONSENT TO
+ENTER PREMISES.
+
+UPON DEBTOR'S DEFAULT AND AT ANY TIME THEREAFTER, SECURED
+PARTY SHALL HAVE ALL THE RIGHTS AND REMEDIES OF A SECURED
+PARTY UNDER THE UNIFORM COMMERCIAL CODE AND ANY OTHER
+APPLICABLE LAWS, INCLUDING THE RIGHT TO ANY DEFICIENCY
+REMAINING AFTER DISPOSITION OF THE COLLATERAL FOR WHICH
+DEBTOR HEREBY AGREES TO REMAIN FULLY LIABLE.  DEBTOR AGREES
+THAT SECURED PARTY, BY ITSELF OR ITS AGENT, MAY WITHOUT
+NOTICE TO ANY PERSON AND WITHOUT JUDICIAL PROCESS OF ANY
+KIND, ENTER INTO ANY PREMISES OR UPON ANY LAND OWNED, LEASED
+OR OTHERWISE UNDER THE REAL OR APPARENT CONTROL OF DEBTOR OR
+ANY AGENT OF DEBTOR WHERE THE COLLATERAL MAY BE OR WHERE
+SECURED PARTY BELIEVES THE COLLATERAL MAY BE, AND
+DISASSEMBLE, RENDER UNUSABLE AND/OR REPOSSESS ALL OR ANY
+ITEM OF THE COLLATERAL, DISCONNECTING AND SEPARATING ALL
+COLLATERAL FROM ANY OTHER PROPERTY.  Debtor expressly waives
+all further rights to possession of the collateral after
+default and all claims for injuries suffered through or loss
+caused by such entering and/or repossession.  Secured Party
+may require Debtor to assemble the collateral and return it
+to Secured Party at a place to be designated by Secured
+Party which is reasonably convenient to both parties.
+
+Secured Party may sell or lease the Collateral at a time and
+location of its choosing provided the Secured Party acts in
+good faith and in a commercially reasonable manner.  Secured
+Party will give Debtor reasonable notice of the time and
+place of any public sale of the Collateral or of the time
+after which any private sale or any other intended
+disposition of the Collateral is to be made.  Unless
+otherwise provided by law, the requirement of reasonable
+notice shall be met if such notice is mailed, postage
+prepaid, to the address of Debtor shown herein at least ten
+days before the time of the sale or disposition.  Expenses
+of retaking, holding, preparing for sale, selling and the
+like shall include reasonable attorneys' fees and other
+legal expenses.  Debtor understands that Secured Party's
+rights are cumulative and not alternative.
+
+11.  WAIVER OF DEFAULTS; AGREEMENT INCLUSIVE
+
+Secured Party may in its sole discretion waive a default, or
+cure, at Debtor's expense, a default.  Any such waiver in a
+particular instance or of a particular default shall not be
+a waiver of other defaults or the same kind of default at
+another time.  No modification or change in this Security
+Agreement or any related note, instrument or agreement shall
+bind Secured Party unless in writing signed by Secured
+Party.  No oral agreement shall be binding.
+
+12.  FINANCING STATEMENTS; CERTAIN EXPENSES.
+
+If permitted by law, Debtor authorizes Secured Party to file
+a financing statement with respect to the Collateral signed
+only by Secured Party, and to file a carbon, photograph or
+other reproduction of this Security Agreement or of a
+financing statement.  At the request of Secured Party,
+Debtor will execute any financing statements, agreements or
+documents, in form satisfactory to Secured Party which
+Secured Party may deem necessary or advisable to establish
+and maintain a perfected security interest in the
+Collateral, and will pay the cost of filing or recording the
+same in all public offices deemed necessary or advisable by
+Secured Party.  Debtor also agrees to pay all costs and
+expenses incurred by Secured Party in conducting UCC, tax or
+other lien searches against the Debtor or the Collateral and
+such other fees as may be agreed.
+
+[13.  WAIVER OF DEFENSES ACKNOWLEDGMENT] <F3>
+
+[If Secured Party assigns this Security Agreement to a third
+party ("Assignee"), then after such assignment:]<F3>
+(INITIALED BY SIGNERS)
+
+[(a)  Debtor will make all payments directly to such
+Assignee at such place as Assignee may from time to time
+designate in writing;
+(b)  Debtor agrees that it will settle all claims, defenses,
+set-offs and counterclaims it may have against Secured Party
+directly (INITIALED BY SIGNERS) with Secured Party and will
+not set up any such claim, defense, set-off or counterclaim
+against Assignee, Secured Party hereby agreeing to remain
+responsible therefor;
+(c)  Secured Party shall not be Assignee's agent for any
+purpose and  shall have no authority to change or modify
+this Security Agreement or any related document or
+instrument; and
+(d)  Assignee shall have all of the rights and remedies of
+Secured Party hereunder but none of Secured Party's
+obligations.] <F3> (INITIALED BY SIGNERS)
+
+14.  MISCELLANEOUS
+
+Debtor waives all exemptions.  Secured Party may correct
+patent errors herein and fill in such blanks as serial
+numbers, date of first payment and the like.  Any provisions
+hereof contrary to, prohibited by or invalid under
+applicable laws or regulations shall be inapplicable and
+deemed omitted herefrom, but shall not invalidate the
+remaining provisions hereof.  Except as otherwise provided
+herein or by applicable law, the Debtor shall have no right
+to prepay the indebtedness described in Paragraph 3, or in
+any promissory note executed in connection with this
+Security Agreement.  Debtor and Secured Party each hereby
+waive any right to a trial by jury in any action or
+proceeding with respect to, in connection with, or arising
+out of this Security Agreement, or any note or document
+delivered pursuant to this Security Agreement.  DEBTOR
+ACKNOWLEDGES RECEIPT OF A TRUE COPY AND WAIVES ACCEPTANCE
+HEREOF.  If Debtor is a corporation, this Security Agreement
+is executed pursuant to authority of its Board of Directors.
+Except where the context otherwise requires, "Debtor" and
+"Secured Party" include the heirs, executors or
+administrators, successors or assigns of those parties, but
+nothing herein shall authorize Debtor to assign this
+Security Agreement or its rights in and to the Collateral.
+If more than one Debtor executes this Security Agreement,
+their obligations under this Security Agreement shall be
+joint and several.
+
+<F3> Bracketed items have been deleted from the original
+document
+
+<PAGE>
+
+If at any time this transaction would be usurious under
+applicable law, then regardless of any provision contained
+in this Security Agreement or in any other agreement made in
+connection with this transaction, it is agreed that:
+
+(a)  the total of all consideration which constitutes
+interest under applicable law that is contracted for,
+charged or received upon this Security Agreement or any such
+other agreement shall under no circumstances exceed the
+maximum rate of interest authorized by applicable law and
+any excess shall be credited to the Debtor; and
+
+(b)  if Secured Party elects to accelerate the maturity of,
+or if Secured Party permits Debtor to prepay the
+indebtedness, any amounts which because of such action would
+constitute interest may never include more than the maximum
+rate of interest authorized by applicable law, and any
+excess interest, if any, provided for in this Security
+Agreement or otherwise, shall be credited to Debtor
+automatically as of the date of acceleration or prepayment.
+
+15.  SPECIAL PROVISIONS
+
+See Special Provisions Instructions below.
+1.   The Security Agreement may be prepaid at any time
+without penalty. (INITIALED BY SIGNERS)
+2.   The Security Agreement incorporates all the terms of
+the Assignment of Lease, dated 12-23-93, between Secured
+Party as Assignee, and Debtor as Assignor.  In the event of
+a contradiction between the terms of the Assignment of Lease
+and the terms of this Security Agreement, this Security
+Agreement shall control. (INITIALED BY SIGNERS)
+3.   When Security Agreement has been paid in full,  Secured
+Party, will return all underlying documents and UCC-1
+Terminations, as appropriate. (INITIALED BY SIGNERS)
+
+DATED:  12/23  1993
+
+SECURED PARTY:                             DEBTOR:
+
+The CIT Group/Equipment                  Amplicon, Inc.
+Financing, Inc.
+
+
+By:  G. A. Theisman, Jr.                 By:  Patrick E. Paddon
+1620 W. Fountainhead Pkwy., #600         5 Hutton Centre Dr., Ste. 500
+Tempe, AZ  85282                         Santa Ana, CA 92707
+
+If Debtor is a partnership, enter:
+
+PARTNERS' NAMES                        HOME ADRESSES
+
+
+
+
+
+
+
+SPECIAL PROVISIONS INSTRUCTIONS - THE NOTATIONS TO BE
+ENTERED IN THE SPECIAL PROVISIONS SECTION OF THIS DOCUMENT
+FOR USE IN ALABAMA, FLORIDA, GEORGIA, IDAHO, NEW HAMPSHIRE
+AND OREGON ARE SHOWN IN THE APPLICABLE STATE PAGES OF THE
+LOANS AND MOTOR VEHICLES MANUAL.
+NOTICE:  DO NOT USE THIS FORM FOR TRANSACTIONS FOR PERSONAL,
+FAMILY OR HOUSEHOLD PURPOSES.  FOR AGRICULTURAL AND OTHER
+TRANSACTIONS SUBJECT TO FEDERAL OR STATE REGULATIONS,
+CONSULT LEGAL COUNSEL TO DETERMINE DOCUMENTATION
+REQUIREMENTS.
+
+AGRICULTURAL PURPOSES generally means farming, including
+dairy farming, but it also includes the transportation,
+harvesting, and processing of farm, dairy, or forest
+products if what is transported, harvested, or processed is
+farm, dairy, or forest products grown or bred by the user of
+the equipment itself.  It does not apply, for instance, to a
+logger who harvests someone else's forest, or a contractor
+who prepares land or harvests products on someone else's
+farm.
+
+IN LOUISIANA, form 5-SA-2305 (Addendum to Security
+Agreements 5-SA-1700, 5-SA-1702 and 5-SA-1703) must
+accompany this Agreement.
+
+
+<PAGE>
+
+
+               RIDER "A" ATTACHED TO AND MADE A PART OF
+        SECURITY AGREEMENT DATED 12/23/93, 1993, BY AND BETWEEN
+   AMPLICON, INC. ("AMPLICON") AS DEBTOR AND THE CIT GROUP/EQUIPMENT
+               FINANCING, INC.("CIT") AS SECURED PARTY
+
+WHEREAS Amplicon is the beneficiary of an Irrevocable
+Standby Letter of Credit No. T-203116 from Chemical Bank in
+the amount of $11,000,000.00 ("LC") a copy of which Letter
+of Credit is attached hereto. <F4>
+
+WHEREAS, the Lease, as defined in this Security Agreement
+was amended by the Interim Rental Agreement ("Agreement")
+dated December 9, 1992, and thereunder, on or after August
+15, 1993, Amplicon has the right to cut off further
+installation of equipment and commence the Lease transaction
+which shall be limited to the then installed equipment.
+
+NOW THEREFORE, for and in consideration of the mutual
+covenants, conditions, stipulations, agreements, and
+obligations hereinafter set forth, Debtor and Secured Party
+agree as follows:
+
+1.  Amplicon, as beneficiary under the LC, shall act solely
+for the benefit of CIT so long as there is any remaining
+Indebtedness due under this Security Agreement and CIT
+continues to have a security interest in the Lease, and to
+take any and all actions, legal, equitable or otherwise,
+that CIT might otherwise take, and at CIT's direction, as if
+CIT were the beneficiary under the LC.** (INITIALED BY
+SIGNERS)
+
+2.  An occurrence of a *default  (*material(typed above))
+(INITIALED BY SIGNERS) under the Lease or Agreement shall be
+considered events of default under Section 9 of this
+Security Agreement.  The failure of the lessee to make any
+payment of rent under the Lease or the Agreement within 10
+days after the due date shall also be considered an event of
+default under Section 9 of this Security Agreement.
+
+3.  In addition to any remedies set forth in Section 9 of
+the Security Agreement, and not in lieu thereof, upon the
+occurrence of a default under the Lease or Agreement, Debtor
+agrees to forthwith make a draw under the LC for the full
+amount then available and immediately pay the proceeds to
+Secured Party, and Debtor further agrees that the unpaid
+principal balance of the Indebtedness described in Paragraph
+3 of this Security Agreement, shall become immediately due
+and payable.
+
+4.  The LC presently expires on January 31, 1994.  It is
+hereby agreed that Amplicon will ensure that the LC, in a
+minimum amount of $11,000,000.00, will remain in full force
+and effect throughout the term of the Security Agreement,
+and that the LC will be renewed at least 30 days prior to
+expiration, proof of said renewal to be submitted by Debtor
+to Secured Party.
+
+**CIT acknowledges and agrees that Amplicon shall hold the
+original LC for the term of this Agreement. (INITIALED BY
+SIGNERS)
+
+<F4> letter of credit is not included as part of this
+exhibit.
+
+<PAGE>
+5.  If, at any time prior to the payment by Debtor to
+Secured Party of all Indebtedness described in Paragraph 3
+of this Security Agreement, Debtor exercises its right to
+commence the Lease transaction under the Agreement, or if
+the Lease transaction commences for any other reason, then
+Debtor shall be required to obtain a new letter of credit,
+for CIT's benefit, marked "transferable and assignable",
+with terms, conditions, and an amount, acceptable to Secured
+Party, within Secured Party's sole discretion, in accordance
+with terms relayed to Debtor by approval letters issued by
+Secured Party. (INITIALED BY SIGNERS)
+
+6.  Failure to comply with any provisions of this Rider "A"
+shall constitute an event of default under Section 9 of the
+Security Agreement and will permit Secured Party to exercise
+any or all remedies set forth therein.
+
+Amplicon, Inc.                   The CIT Group/Equipment
+                                 Financing, Inc.
+
+
+Name: Patrick E. Paddon          Name: G. A. Theisman, Jr.
+Title: President                 Title: Officer
+
+Dated: 12/23/93                  Dated: 12/23/93
+<PAGE>
+
+
+                           EXHIBIT "A"
+
+Attached to and made a part of Security Agreement dated
+December 23, 1993, between Amplicon, Inc. as Debtor and The
+CIT Group/Equipment Financing, Inc. as Secured Party.
+
+Various Types of Distribution Center Equipment Including But
+Not Limited to The Following:
+
+QTY      DESCRIPTION
+
+         CONVEYOR EQUIPMENT-TILT TRAY SORTER
+
+         CONVEYOR EQUIPMENT-PACKAGE CONVEYOR SYSTEM
+
+6,600    STORAGE EQUIPMENT
+            1.  SELECTIVE PALLET RACK
+            2.  DRIVE-IN RACK
+            3.  PALLETS
+            4.  ESFR SPRINKLER SYSTEM FOR RACK AREAS
+
+          MOBILE MATERIAL HANDLING EQUIPMENT
+14          1.  COUNTER BALANCE
+12          2.  REACH FORK
+15          3.  ORDER PICKER
+10          4.  WALK/RIDE (1 PALLET)
+12          5.  WALK/RIDE (2 PALLET)
+40          6.  HYDRAULIC PALLET J
+03          7.  PERSONNEL CARRIERS
+02          8.  BATTERY EQUIPMENT
+02          9.  SWEEPER/SCRUBBER
+
+          WAREHOUSE MANAGEMENT SYSTEMS
+            1.  SOFTWARE
+            2.  COMPUTER HARDWARE % R.F. DEVICES
+
+          SUPPORT EQUIPMENT
+ 01         1.  TRASH EQUIPMENT
+                    a.  Pallet Shredder
+                    b.  Bailer
+            2.  MAINTENANCE SCISSOR LIFT
+            3.  MOBILE RADIOS
+            4.  ELECTRICAL
+            5.  DOCK EQUIPMENT & UPGRADES
+            6.  PARTS SUPPLY
+            7.  BUILDING FIXTURING & UPGRADES
+            8.  MAINTENANCE TOOLS & EQUIPMENT
+<PAGE>
+           DESCRIPTION
+
+           CAPITAL IMPROVEMENTS-FLOW THROUGH
+             1.  FIRE ALARM REPAIRS
+             2.  DOOR REPLACEMENTS
+             3.  RESTROOM UPGRADES
+             4.  OFFICE UPGRADES
+             5.  ROOF REPAIRS
+             6.  GUTTER CLEANING
+             7.  EXTERIOR STAIR REPAIRS
+             8.  ELECTRICITY FOR CONVEYOR
+
+           CAPITAL IMPROVEMENTS-CENTRAL STOCK
+             1.  DOCK EQUIPMENT
+             2.  DOCK DOORS
+             3.  RESTROOM UPGRADES
+             4.  OFFICE UPGRADES
+             5.  ELECTRICAL
+             6.  PARKING LOT
+
+All of the above to include attachments, replacements,
+substitutions and additions, and proceeds. (INITIALED BY
+SIGNERS)
+
+
+Debtor:                            Secured Party:
+AMPLICON, INC.                     THE CIT GROUP/EQUIPMENT
+                                   FINANCING, INC.
+
+By: Patrick E. Paddon              By:  G. A. Theisman
+Title: President                   Title: Officer
+
+<PAGE>
+
+This Assignment is only effective and binding upon the
+undersigned Assignor until such time that all Indebtness of
+Assignor to Assignee under the Security Agreement dated
+12/23/93, is paid in full by Assignor.
+
+                 ASSIGNMENT OF LEASE - FULL RECOURSE
+
+Re:  Lease No. 0l-7071, Schedule 1
+To:  The CIT Group/Equipment Financing, Inc.
+
+RE:  Lease between Hills Stores Company, as lessee and the
+undersigned, dated 12/18, 1992, having aggregate unpaid
+rentals of $ *an amount as yet undetermined.
+
+For value received, undersigned ("Assignor") hereby [sells]
+<F5> (INITIALED BY SIGNERS) assigns, transfers and sets over
+to The CIT Group/Equipment Financing, Inc., its successors
+and assigns ("Assignee"), the annexed above-named lease
+("lease"), together with all rental payments due and to
+become due thereunder, and all amounts due and to become due
+in connection with the exercise by lessee of an option, if
+any, to purchase the property described in the lease.
+
+Assignor also assigns to Assignee all of Assignor's rights
+and remedies under the lease and any guaranty thereof,
+including the right to take, in Assignor's or Assignee's
+name, any and all proceedings legal, equitable or otherwise,
+that Assignor might otherwise take, save for this
+assignment.
+
+As security for all amounts due to Assignor under the lease,
+[and all other present and future indebtedness or
+obligations of Assignor to Assignee of every kind and nature
+whatsoever,] <F5> (INITIALED BY SIGNERS) Assignor hereby
+grants to Assignee a security interest in all property
+covered by and described in the lease.  Title to all such
+property shall remain in the Assignor and is not transferred
+to Assignee for any purpose.
+
+Assignee shall have no obligation of Assignor as lessor
+under the lease.
+
+Assignor warrants that:  Assignor is the owner of the
+property described in the lease free of all liens and
+encumbrances except the lease; the lease and any
+accompanying guaranties, waivers and/or other instruments
+(collectively, "lease") [are complete and include all
+amendments, addendums and riders,]<F5> (INITIALED BY
+SIGNERS) are the only documents executed by the Assignor and
+the lessee with respect to such property [and are true,
+valid and genuine and represent existing valid obligations
+enforceable in accordance with their terms, and is and will
+continue free from defenses, setoffs and counterclaims; all
+signatures, names, addresses, amounts and other statements
+and facts contained therein are true and correct; the
+aggregate unpaid rentals shown above is correct, the
+property has been delivered to lessee under the lease on the
+date set forth below in satisfactory condition and has been
+accepted by lessee, and that Assignor will comply with all
+its warranties and other obligations with respect
+thereto:]<F5>(INITIALED BY SIGNERS) the lease transaction
+conforms to all applicable laws and regulations; the lease
+constitutes and will continue to constitute a valid
+reservation of unencumbered title to or a perfected first
+priority security interest in the property covered thereby,
+effective against all persons; if filings, recordation or
+any other action or procedure is permitted or required by
+statute or regulation to perfect such reservation of title,
+lien or security interest, the same has been accomplished;
+and all down payments received have been made in cash except
+down payments represented by equipment trade-ins (INITIALED
+BY SIGNERS) [Subject to the terms and provisions of any
+applicable underlying agreement between Assignor and
+Assignee, Assignor guarantees the payment promptly when due
+of the amount of each any every sum payable under the lease
+and the payment on demand of the entire unpaid balance as of
+the date of default in the event of any default by lessee
+under the lease, without first requiring Assignee to proceed
+against lessee or any other person or any security.
+(INITIALED BY SIGNERS)  In the event that Assignee
+reasonably determines that Assignor has or may have breached
+any of the terms hereof (including its guaranty of payment)
+or any of its warranties with respect to the lease, Assignor
+will, upon Assignee's request, promptly repurchase the lease
+for an amount equal to the unpaid balance thereof, plus any
+expenses of collection, repossession, transportation and
+storage incurred by Assignee, including attorneys' fees and
+costs.  In addition, Assignor shall indemnify and save
+Assignee harmless from any loss, damage or expense,
+including attorneys' fees, incurred by Assignee as a result
+of Assignor's breach of any of the terms of this assignment
+or any of the warranties, obligations or undertakings
+described herein.]<F5> (INITIALED BY SIGNERS)
+
+Assignor agrees that Assignee may audit its books and
+records relating to all leases and paper assigned to
+Assignee and may in Assignor's name endorse all remittances
+received and Assignor waives notice of acceptance hereof and
+of presentment, demand, protest and notice of non-payment or
+protest as to all leases now or hereafter signed, accepted,
+endorsed or assigned to Assignee.   Assignor waives all
+exemptions and homestead laws and any other demands and
+notices required by law, and Assignor waives all setoffs and
+counterclaims.  Assignee may at any time*, without consent
+of Assignor with[out]<F5>(INITIALED BY SIGNERS) notice to
+Assignor and without affecting or impairing the obligation
+of Assignor hereunder, do any of the following:
+*After event of default under the Security Agreement, dated
+12/23/93, between Assignor & Assignee
+(a)  renew, extend (including extensions beyond the original
+term of the lease), modify, release or discharge any
+obligation of leasee or any other person obligated on the
+lease or on any accompanying guaranty ("the lease
+obligations");
+
+(b)  agree to the substitution of a lessee;
+
+(c)  accept partial payments of the lease obligations;
+
+(d)  accept new or additional documents, instruments or
+agreements relating to or in substitution of the lease
+obligations;
+
+(e)  settle, release (by operation of law or otherwise),
+compound, compromise, collect or liquidate any of the lease
+obligations and the security therefor in any manner;
+
+(f)  consent to the transfer or return of the property
+described in the lease and take and hold additional security
+or guaranties for the lease obligations;
+
+(g)  amend, exchange, release or waive any security or
+guaranty; or
+
+<F5> Bracketed items have been deleted from the original
+document
+
+<PAGE>
+(h)  bid and purchase at any sale of the lease or the
+property described in the lease and apply any security or
+proceeds and direct the order and manner of sale.
+
+[No payment by Assignor hereunder shall entitle the
+Assignor, by subrogation or otherwise, to any payment from
+the lessee except after the full payment and performance of
+all lessee's obligations to Assignee.  Unless otherwise
+agreed under the provisions of any applicable underlying
+agreement, any amounts retained by Assignee as a reserve or
+holdback shall be held by Assignee as security for the
+performance of Assignor's obligations under the underlying
+agreement and hereunder, and shall be paid to Assignor
+without interest.  When all payments under the lease have
+been paid in full, provided no obligation of any kind,
+direct or contingent, of Assignor whether hereunder or
+otherwise and no other leases or paper acquired by
+Assignee from Assignor or from any of Assignor's subsidiary
+or affiliated companies be in default: but in the event of
+any such default, Assignee may collect any amount owing by
+making an appropriate charge against any reserve or
+holdback which otherwise would be payable to Assignor in cash.
+Assignor shall have no authority to, and will not, without
+Assignee's prior written consent, accept payments of rents
+or of option prices, repossess or consent to the return of
+the property described in the lease or modify the terms
+thereof or of any accompanying guaranty.  Assignee's
+knowledge at any time of any breach of or non-compliance
+with any of the foregoing shall not constitute any waiver by
+Assignee.]<F6>
+
+Property covered by the lease was delivered to lessee on
+19     .
+
+
+Dated December 23, 1993.
+
+
+                                   Lessor - Assignor:
+
+
+                                   Amplicon, Inc.
+
+                                   By:  Patrick E. Paddon
+                                   Title: President
+
+<F6> Bracketed items have been deleted from the original
+document.
+
+<PAGE>
+
+AMENDMENT "C" to Security Agreement between The CIT
+Group/Equipment Financing, Inc. as Secured Party and
+Amplicon, Inc. as Debtor, dated 12/23/93 (the Security
+Agreement, together with all Riders, Addenda, Amendments,
+and Attachments hereinafter referred to as "Security
+Agreement").
+
+WHEREAS, Debtor wished to amend the terms and conditions set
+forth in the Security Agreement to reflect a new due date;
+and,
+
+WHEREAS, Debtor agrees to remain responsible for all of its
+obligations under the Security Agreement.
+
+NOW, THEREFORE, for and in consideration of the mutual
+covenants, conditions, stipulations, agreements, and
+obligations hereinafter set forth, Secured Party and Debtor
+agree as follows:
+
+1.  Secured Party agrees to an amendment of the terms and
+conditions in the Security Agreement to reflect in Paragraph
+3 of the Security Agreement a new due date of July 15, 1994.
+
+2.  Debtor agrees to the above amendment to the terms and
+conditions in the Security Agreement.
+
+3.  Debtor agrees that this within Amendment does not
+release Debtor from any liability under the Security
+Agreement and that all other terms, covenants, and
+conditions of the Security Agreement remain in full force
+and effect, notwithstanding this Amendment, and this
+Amendment is made without prejudice to or waiver of Secured
+Party's rights and remedies in the Security Agreement in the
+event of Debtor's default.
+
+The CIT Group/Equipment              Amplicon, Inc.
+Financing, Inc.
+
+By: G. A. Theisman                   By:  Patrick E. Paddon
+Title: Senior Credit Analyst         Title:  President
+
+Date:  4/19/94                       Date:  4/15/94
+<PAGE>
+
+AMENDMENT "D" to Security Agreement between The CIT
+Group/Equipment Financing, Inc. as Secured Party and
+Amplicon, Inc. as Debtor, dated 12/23/93 (the Security
+Agreement, together with all Riders, Addenda, Amendments,
+and Attachments hereinafter referred to as "Security
+Agreement").
+
+WHEREAS, Debtor wished to amend the terms and conditions set
+forth in the Security Agreement to reflect a new due date;
+and,
+
+WHEREAS, Debtor agrees to remain responsible for all of its
+obligations under the Security Agreement.
+
+NOW, THEREFORE, for and in consideration of the mutual
+covenants, conditions, stipulations, agreements, and
+obligations hereinafter set forth, Secured Party and Debtor
+agree as follows:
+
+1.   Secured Party agrees to an amendment of the terms and
+conditions in the Security Agreement to reflect in Paragraph
+3 of the Security Agreement a new due date of September 1,
+1994.
+
+2.   Debtor agrees to the above amendment to the terms and
+conditions in the Security Agreement.
+
+3.   Debtor agrees that this within Amendment does not
+release Debtor from any liability under the Security
+Agreement and that all other terms, covenants, and
+conditions of the Security Agreement remain in full force
+and effect, notwithstanding this Amendment, and this
+Amendment is made without prejudice to or waiver of Secured
+Party's rights and remedies in the Security Agreement in the
+event of Debtor's default.
+
+The CIT Group/Equipment            Amplicon, Inc.
+Financing, Inc.
+
+By: G. A. Theisman                  By:  Patrick E. Paddon
+Title:  SCA                         Title: President
+Date:  7/18/94                      Date:  7/15/94
+
+<PAGE>
+
+
+AMENDMENT "E" to Security Agreement between The CIT
+Group/Equipment Financing, Inc. as Secured Party and
+Amplicon, Inc. as Debtor, dated 12/23/93 (the Security
+Agreement, together with all Riders, Addenda, Amendments,
+and Attachments hereinafter referred to as "Security
+Agreement").
+
+WHEREAS, Debtor wished to amend the terms and conditions set
+forth in the Security Agreement to reflect a new due date;
+and,
+
+WHEREAS, Debtor agrees to remain responsible for all of its
+obligations under the Security Agreement.
+
+NOW, THEREFORE, for and in consideration of the mutual
+covenants, conditions, stipulations, agreements, and
+obligations hereinafter set forth, Secured Party and Debtor
+agree as follows:
+
+1.   Secured Party agrees to an amendment of the terms and
+conditions in the Security Agreement to reflect in Paragraph
+3 of the Security Agreement a new due date of October 31,
+1994.
+
+2.   Debtor agrees to the above amendment to the terms and
+conditions in the Security Agreement.
+
+3.   Debtor agrees that this within Amendment does not
+release Debtor from any liability under the Security
+Agreement and that all other terms, covenants, and
+conditions of the Security Agreement remain in full force
+and effect, notwithstanding this Amendment, and this
+Amendment is made without prejudice to or waiver of Secured
+Party's rights and remedies in the Security Agreement in the
+event of Debtor's default.
+
+The CIT Group/Equipment               Amplicon, Inc.
+Financing, Inc.
+
+By:  G. A. Theisman                   By:  Patrick E. Paddon
+
+Title:  SCA                           Title:  President
+
+Date:  8/30/94                        Date:  8/26/94
+
+<PAGE>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 11
+<TEXT>
+
+
+                                
+                 AMPLICON, INC. AND SUBSIDIARIES
+                                
+ EXHIBIT 11 - COMPUTATION OF EARNINGS PER SHARE OF COMMON STOCK
+<TABLE>
+<CAPTION>
+                             
+                               
+                                                Years Ended June 30,
+                                           1994             1993          1992
+<S>                                  <C>              <C>           <C>
+Net earnings                         $11,018,539      $9,793,014    $9,110,523
+
+Weighted average number of common shares
+  outstanding assuming no exercise of
+  outstanding options                  5,848,594       5,830,561     5,813,291
+
+Dilutive stock options using the treasury
+  stock method                               (A)             (A)           (A)
+     Total                             5,848,594       5,830,561     5,813,291
+
+
+
+Net earnings per common share        $      1.89     $      1.68    $     1.57
+
+
+<FN>
+(A)  Dilution  is less than 3% and deemed immaterial;  therefore,
+     stock options are not included for
+     earnings per share calculation.
+</FN>
+                                
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<CIK> 0000803016
+<NAME> AMPLICON, INC.
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1994
+<PERIOD-END>                               JUN-30-1994
+<CASH>                                      29,334,914
+<SECURITIES>                                         0
+<RECEIVABLES>                               75,596,256
+<ALLOWANCES>                                 1,320,325
+<INVENTORY>                                  4,975,392
+<CURRENT-ASSETS>                                     0
+<PP&E>                                       2,638,505
+<DEPRECIATION>                               1,705,418
+<TOTAL-ASSETS>                             384,584,062
+<CURRENT-LIABILITIES>                       50,026,872
+<BONDS>                                              0
+<COMMON>                                        58,570
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                  80,816,841
+<TOTAL-LIABILITY-AND-EQUITY>               384,584,062
+<SALES>                                    156,740,338
+<TOTAL-REVENUES>                           181,360,291
+<CGS>                                      140,186,036
+<TOTAL-COSTS>                              151,906,867
+<OTHER-EXPENSES>                            11,927,826
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                             174,059
+<INCOME-PRETAX>                             17,351,539
+<INCOME-TAX>                                 6,333,000
+<INCOME-CONTINUING>                         11,018,539
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                11,018,539
+<EPS-PRIMARY>                                     1.89
+<EPS-DILUTED>                                     1.89
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

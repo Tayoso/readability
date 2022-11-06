@@ -1,0 +1,3683 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ SLfoJGg9WJpb7pw4Pb3s9ZNCOKlfo4PbHODdcBj+B0aliK0dT6wQwSxKxeisFlrh
+ IeEWi0XdJbpu65SKVlsnow==
+
+<IMS-DOCUMENT>0000916002-94-000014.txt : 19940926
+<IMS-HEADER>0000916002-94-000014.hdr.sgml : 19940926
+ACCESSION NUMBER:		0000916002-94-000014
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940920
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MIDWEST GRAIN PRODUCTS INC
+		CENTRAL INDEX KEY:			0000835011
+		STANDARD INDUSTRIAL CLASSIFICATION:	2040
+		IRS NUMBER:				480531200
+		STATE OF INCORPORATION:			KS
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-17196
+		FILM NUMBER:		94549670
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1300 MAIN ST
+		CITY:			ATCHISON
+		STATE:			KS
+		ZIP:			66002
+		BUSINESS PHONE:		9133671480
+
+	MAIL ADDRESS:	
+		STREET 1:		1300 MAIN STREET
+		CITY:			ATCHISON
+		STATE:			KS
+		ZIP:			66002
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>MIDWEST GRAIN PRODUCTS, INC. 1994 FORM 10-K
+<TEXT>
+
+<PAGE> 1
+     As Filed with the Securities and Exchange Commission on
+                       September 20, 1994
+=================================================================
+                SECURITIES AND EXCHANGE COMMISSION
+                      Washington, D.C. 20549
+
+                            FORM 10-K
+
+               Annual Report Pursuant to Section 13
+              of the Securities Exchange Act of 1934
+
+              For the Fiscal Year Ended June 30, 1994
+
+                   MIDWEST GRAIN PRODUCTS, INC.
+
+                        1300 Main Street
+                             Box 130
+                     Atchison, Kansas 66002
+                    Telephone: (913) 367-1480
+
+              Incorporated in the State of Kansas
+
+                  COMMISSION FILE NO. 0-17196
+
+                      IRS No. 44-0531200
+                 
+     The Company has no securities registered pursuant to Section
+12(b) of the Act.  The only class of common stock outstanding
+consists of Common Stock having no par value, 9,765,172 shares of
+which were outstanding at June 30, 1994. The Common Stock is
+registered pursuant to Section 12(g) of the Act.
+
+     The aggregate market value of the Common Stock of the
+Company held by non-affiliates, based upon the last sales price
+of such stock on July 26, 1994, was $269,937,144.
+
+     The Company has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months, and has been subject to such filing
+requirements for the past 90 days.
+
+     As indicated by the following check mark, disclosure of
+delinquent filers pursuant to Rule 405 of Regulation S-K is not
+contained herein, and will not be contained, to the best of
+registrant's knowledge in a definitive proxy or information
+statement incorporated by reference in Part III of this Form
+10-K: [X].
+
+     The following documents are incorporated herein by
+reference:
+
+    (1) Midwest Grain Products, Inc. 1994 Annual Report to
+Stockholders, pages 17 through 36, and the inside back cover
+[incorporated into Part II and contained in Exhibit 10(c)].
+
+    (2) Midwest Grain Products, Inc. Proxy Statement for the
+Annual Meeting of Stockholders to be held on October 6, 1994,
+dated September 12, 1994 [incorporated into Part III) and
+contained in Exhibit 10(c)].
+=================================================================
+<PAGE> 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      MIDWEST GRAIN PRODUCTS, INC.
+
+
+                               FORM 10-K
+
+
+ 
+                 For the Fiscal Year Ended June 30, 1994
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 3
+                             CONTENTS
+                                                             PAGE
+PART I
+   Item 1.  Business ..........................................4
+            General Information................................4
+            Vital Wheat Gluten.................................5
+            Premium Wheat Starch...............................6
+            Alcohol Products...................................7
+            Flour and Other Mill Products......................9
+            Transportation....................................10
+            Raw Materials.....................................10
+            Energy............................................10
+            Employees.........................................10
+            Regulation........................................11
+   Item 2.  Properties........................................11
+   Item 3.  Legal Proceedings.................................11
+   Item 4.  Submission of Matters to a Vote of Security
+             Holders..........................................11
+PART II
+   Item 5.  Market for the Registrant's Common Equity and
+             Related Stockholder Matters......................12
+   Item 6.  Selected Financial Data...........................12
+   Item 7.  Management's Discussion and Analysis of Financial 
+             Condition and Results of Operations..............12
+   Item 8.  Financial Statements and Supplementary Data.......12
+   Item 9.  Changes in and Disagreements with Accountants 
+             on Accounting and Financial Disclosure...........13
+PART III
+   Item 10.  Directors and Executive Officers of
+               the Registrant.................................13
+   Item 11.  Executive Compensation...........................15
+   Item 12.  Security Ownership of Certain Beneficial 
+              Owners and Management...........................15
+   Item 13.  Certain Relationships and Related Transactions...15
+PART IV
+   Item 14.  Exhibits, Financial Statement Schedules
+              and Reports on Form 8-K.........................16
+SIGNATURES....................................................18
+FINANCIAL STATEMENT SCHEDULES................................S-1
+   Report of Independent Public Accountants on Schedules.....S-2
+   Schedule I.  Marketable Securities - Other Investments....S-3
+   Schedule V.  Property, Plant and Equipment................S-4
+   Schedule VI.  Accumulated Depreciation of Property,
+    Plant and Equipment......................................S-5
+   Schedule VIII.  Valuation and Qualifying Accounts.........S-6
+   Schedule IX.  Short-term Borrowings.......................S-7
+   Schedule X.  Supplementary Income Statement Information...S-8
+                   ________________________                       
+     The calculation of the aggregate market value of the Common
+Stock of the Company held by non-affiliates is based on the
+assumption that non-affiliates do not include directors.  Such
+assumption does not constitute an admission by the Company or any
+director that any director is an affiliate of the Company.
+                            3 
+<PAGE> 4
+                              PART I
+
+Item 1.  Business.
+
+General Information
+
+     Midwest Grain Products, Inc. (the Company) is a Kansas
+corporation headquartered in Atchison, Kansas.  It is the
+successor to a business founded in 1941 by Cloud L. Cray, Sr.
+
+     The Company is a fully integrated producer of vital wheat
+gluten, premium wheat starch, and alcohol products.  These grain
+products are processed at plants located in Atchison, Kansas, and
+Pekin, Illinois.  Wheat is purchased directly from local and
+regional farms and grain elevators and milled into flour.  The
+flour is processed with water to extract vital wheat gluten which
+is dried into a tan powder and sold in packaged or bulk form. 
+The resulting starch slurry is further processed to extract
+premium wheat starch which is also dried into a powder and sold
+in packaged or bulk form.  The remaining slurry is mixed with
+corn or milo and water and then cooked, fermented and distilled
+into alcohol.  The residue of the distilling operations is dried
+and sold as a high protein additive for animal feed.  Carbon
+dioxide which is produced during the fermentation process is
+trapped and sold.  As a result of these processing operations,
+the Company sells approximately 95% (by weight) of grain
+processed.
+
+     To complement its integrated production facilities, the
+Company also provides transportation services to its customers
+through a fleet of truck-tractors, trailers and rail cars and
+barge loading facilities on the Missouri and Illinois Rivers.
+
+     The table below shows the Company's sales from continuing
+operations by product group for each of the five years ended June
+30, 1994, as well as such sales as a percent of total sales.  The
+table does not reflect the sales of McCormick Distilling Company,
+a business that was sold as of December 31, 1992.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       PRODUCT GROUP SALES
+<TABLE>
+<CAPTION>
+                                                       Year Ended June 30,                                      
+                     _______________________________________________________________________________________    
+                          1994              1993              1992               1991               1990
+                     -------------     -------------     -------------      --------  ---      -------   ---
+                                                     (thousands of dollars)  
+                      Amount    %       Amount    %       Amount    %        Amount    %        Amount    %
+                     ________  ___     ________  ___     _______   ___      ________  ___      ________  ___   
+<S>                  <C>      <C>      <C>      <C>      <C>      <C>       <C>      <C>       <C>      <C>
+Vital Wheat Gluten    $70,966  38.2    $ 54,156  33.1    $ 46,941  30.1     $ 27,833  20.9     $ 31,375  23.9 
+Premium wheat starch   21,110  11.3      18,423  11.3      17,578  11.3       16,068  12.1       14,907  11.3 
+Alcohol Products:
+  Beverage Alcohol     29,536  15.9      27,142  16.6      26,437  17.0       25,994  19.5       26,600  20.2 
+  Industrial and Fuel
+    Grade Alcohol      41,858  22.5      41,591  25.5      39,043  25.1       35,088  26.3       26,447  20.1 
+  Alcohol by-products  18,146   9.8      19,288  11.8      17,791  11.4       17,010  12.8       16,602  12.6 
+                      -------  ----      ------  ----      ------  ----       ------  ----       ------  ----
+      Total alcohol
+      products         89,540  48.2      88,021  53.9      83,271  53.5       78,092   58.6      69,649  52.9 
+                      -------  ----      ------  ----      ------  ----       ------   ----      ------  ----
+Flour and other mill
+  products (1)          4,352   2.3       2,826   1.7       8,004   5.1       11,127    8.4      15,668  11.9   
+                      -------  ----      ------  ----      ------  ----       ------   ----      ------  ----
+    Net sales(1)      $185,968 100.0    $163,426 100.0    $155,794 100.0     $133,128  100.0    $131,559 100.0 
+                      ======== =====    ======== =====    ======== =====     ========  =====    ======== =====
+_________________________
+(1)     Sales of flour and other mill products, as well as all other sales in the table, refer only to sales to
+third parties and do not reflect intra-company transactions.  
+</TABLE>
+
+     The Company's $22.5 million increase in net sales for the
+year ended June 30, 1994, resulted primarily from increased
+demand for vital wheat gluten and increased production of all
+three of the Company's principal products due to increased
+capacities.  The $2.7 million increase in pre-tax income from
+continuing operations was due primarily to increased volumes and
+demand for vital wheat gluten offset by reduced prices for food
+grade industrial and fuel grade alcohol and increased grain
+costs.  For a more detailed discussion of the results of the
+
+                                4
+
+<PAGE> 5
+Company's operations for 1994 and the two prior years see "Item
+7.  Management's Discussion and Analysis of Financial Condition
+and Results of Operations."
+
+     The bulk of the Company's sales are made under informal
+arrangements direct to large institutional food and beverage
+processors or distributors with respect to which the Company has
+longstanding relationships.  Under these arrangements products
+are usually ordered, produced, sold and shipped within 30 days. 
+As a consequence, the Company's backlog of orders at any time is
+usually less than ten percent of annual sales.
+
+     Generally, the Company's sales are not seasonal except for
+minor variations affecting beverage alcohol and gluten sales. 
+Beverage alcohol sales tend to peak in the fall as distributors
+order stocks for the holiday season, while gluten sales tend to
+increase during the second half of the fiscal year as demand
+increases for hot dog buns, hamburger buns, and similar bakery
+products. Seasonal demand for the Company's fuel grade alcohol
+may also be affected in the future by EPA regulations mandating
+the use of ethanol in certain reformulated gasoline which is
+expected to be strongest during October through March of each
+year.  See "Alcohol Products-Industrial and Fuel Grade Alcohol."
+
+     During fiscal 1994 the Company commenced the construction 
+of the largest expansion program in its history at its Pekin
+plant. The new facilities are expected to be completed in the
+second half of fiscal 1995, to be more efficient than the
+existing plant and to double total alcohol production capacity;
+increase by 40% total vital wheat gluten capacity; increase by
+70% total premium wheat starch production capacity; more than
+double total distillers' feeds production capacity; and provide
+the Pekin plant with a new and more efficient steam and
+electricity generating plant. The $62 million project is being
+financed from operations, the proceeds of the sale of McCormick
+and the proceeds of a $25 million, fifteen year 6.68% term loan.
+The Company expects that it may take several years to develop
+markets for all of the added capacity.
+
+     During fiscal 1994, the Company also completed the bulk of
+the expansion of its flour mill in Atchison, the construction and
+renovation of new and existing quality control laboratory at the
+Pekin plant, and the installation of new wastewater treatment
+equipment at the Atchison plant. 
+
+     For further information, see the Consolidated Financial
+Statements of the Company and Management's Discussion and
+Analysis of the Company's Financial Condition and Results of
+Operations which appear at pages 18 through 36 of the Annual
+Report.
+
+Vital Wheat Gluten
+
+     Vital wheat gluten is a light tan powder which contains
+approximately 75% to 80% protein.  It is the only commercially
+available high protein food additive which possesses vitality.  
+The vitality of the Company's vital wheat gluten results from its
+elastic and cohesive characteristics when added to dough or
+otherwise reconstituted with water.
+
+     Vital wheat gluten is added by bakeries and food processors
+to baked goods such as wheat breads, and to pet foods, cereals,
+processed meats, fish, and poultry to improve the nutritional
+content, texture, strength, shape, and volume of the product. 
+The neutral flavor and color of wheat gluten also enhances, but
+does not change, the flavor and color of food.  It has been
+increasingly used in breads and pet foods.  The cohesiveness and
+elasticity of the gluten enables the dough in wheat and other
+high protein breads to rise and to support added ingredients such
+as whole cracked grains, raisins and fibers.  This allows the
+baker to make an array of different breads by varying the gluten
+content of the dough.  Vital wheat gluten is also added to white
+breads, and hot dog and hamburger buns to improve the hinge
+strength and cohesiveness of the product.
+
+     The Company ships its vital wheat gluten throughout the
+continental United States in bulk and in 50 to 100 pound bags. 
+Approximately 37% of fiscal 1994 gluten sales were made to a
+distributor for the bakery industry, the Ben C. Williams Bakery
+Services Company, which in turn distributes vital wheat gluten to
+independent bakeries.  The remainder is sold directly to major
+food processors and bakeries such as Kellogg Co., Continental
+Baking Company, Inc. and H. J. Heinz Co.
+
+                                5 
+<PAGE> 6
+     The vital wheat gluten market is occupied primarily by the
+Company, two other domestic producers and a number of foreign
+importers.  Foreign importers provide significant competition
+from time to time due to low U.S. tariffs and export incentives
+provided by foreign countries to their wheat starch producers. 
+Based on industry data, the Company believes that in terms of
+fiscal 1994 sales it is the largest producer of vital wheat
+gluten in the United States.
+
+     Competition in the vital wheat gluten industry is based
+primarily upon price, quality, and service.  Historically, gluten
+prices have been affected by grain prices, grain quality, excess
+foreign capacity and by subsidies provided to certain European
+exporters by their host governments.
+
+     The Company's vital wheat gluten processing operations are
+believed to produce a quality of vital wheat gluten that is equal
+to or better than that of any other wheat gluten on the market. 
+The Company's location in the center of the United States grain
+belt, together with its production capacity, fleet of
+transportation equipment and years of operating experience,
+enable it to provide a consistently high level of cost effective
+service to customers.
+
+     The Company's sales of vital wheat gluten increased by $16.8
+million during fiscal 1994, due primarily to increased demand
+during the second half of the year and increased production
+capacity.  The increased demand resulted partially from increased
+market needs, principally in the baking industry where more
+gluten was required to fortify flour due to the poor quality of
+available wheat following the extremely wet weather in the spring
+and summer of 1993.  Due to increased competition from foreign
+imports and reduced needs in the baking industry the demand for
+the Company's vital wheat gluten began to return to more normal
+levels during the end of fiscal 1994.
+
+     During the last half of fiscal 1992 the Company completed
+capital improvements projects at the Atchison and Pekin
+facilities which increased the productive capacity of the
+Company's vital wheat gluten operations by 50% over 1991 levels
+of production. In the last half of 1994 the Company commenced an
+expansion of the vital wheat gluten production facilities at its
+Pekin Plant.  The expansion is expected to be completed during
+the second half of fiscal 1995 and increase by 40% the Company's
+total vital wheat gluten production capacity over that capacity
+at June 30, 1994.  The combination of these expansion programs
+will more than double the capacity that existed at June 30, 1991.
+
+Premium Wheat Starch
+
+     Wheat starch constitutes the carbohydrate-bearing portion of
+wheat flour.  The Company produces a pure white premium wheat
+starch powder by extracting the starch from the starch slurry
+substantially free of all impurities and fibers and then by
+spray, flash or drum drying the starch.  Premium wheat starch
+differs from low grade or B wheat starches which are extracted
+along with impurities and fibers and are used primarily as a
+binding agent for industrial applications such as the manufacture
+of charcoal briquettes.  The Company does not produce low grade
+or B starches since its integrated processing facilities are able
+to process the remaining slurry after the extraction of premium
+wheat starch into alcohol, animal feed and carbon dioxide. 
+Premium wheat starch differs from corn starch in its granular
+structure, color, granular size and name identification.
+
+     An increasing portion of the Company's premium wheat starch
+is also chemically altered during processing to produce certain
+unique modified wheat starches designed for special applications. 
+
+
+     The Company's premium wheat starches are used primarily as
+an additive in a variety of food products to affect their
+appearance, texture, tenderness, taste, palatability, cooking
+temperature, stability, viscosity, binding and freeze-thaw
+characteristics.  For example, the Company's starches are used to
+improve the taste and mouth feel of cream puffs, eclairs,
+puddings, pie fillings, breadings and batters; to improve the
+size, symmetry and taste of angel food cakes; to alter the
+viscosity of soups, sauces and gravies; to improve the
+freeze-thaw stability and shelf life of fruit pies and other
+frozen foods; to improve moisture retention in microwavable
+foods; and to add stability and to improve spreadability in
+frostings, mixes, glazes and sugar coatings.  The Company's
+specialty starches are also sold for a number of industrial and
+non-food uses, such as an ink bearing coating in carbonless
+paper.
+
+                                6
+<PAGE> 7
+
+     The Company's premium wheat starch is sold nationwide to
+food processors, such as International Multi-Foods Corp.,
+Pillsbury Company and Keebler Company, to distributors, and for
+export to countries, such as Japan, Mexico and Malaysia which do
+not have wheat-based economies.
+
+     The Company believes that it is the largest producer of
+premium wheat starch in the United States.  Although wheat starch
+enjoys a relatively small portion of the total United States
+starch market, the market is one which is continuing to grow. 
+Growth in the wheat starch market reflects a growing appreciation
+for the unique characteristics of wheat starch which provide it
+with a number of advantages over corn and other starches for
+certain baking and other end uses.  The Company has developed a
+number of different modified  wheat starches and continues to
+explore the development of additional starch products with the
+view to increasing sales of higher margin modified starches.
+
+     Premium wheat starch competes primarily with corn starch,
+which dominates the United States market.  Competition is based
+upon price, name, color and differing granular and chemical
+characteristics which affect the food product in which it is
+used.  Premium wheat starch prices usually enjoy a price premium
+over corn starches and low grade wheat starches.  Wheat starch
+price fluctuations generally track the fluctuations in the corn
+starch market, except in the case of modified wheat starches. The
+wheat starch market also usually permits pricing consistent with
+costs which affect the industry in general, including increased
+grain costs.  The Company's strategy is to market its premium
+wheat starches in special market niches where the unique
+characteristics of premium wheat starch or one of the Company's
+modified wheat starches are better suited to a customers
+requirements for a specific use.
+
+     Starch sales increased during fiscal 1994 by approximately
+$2.7 million due primarily to higher volumes and increased sales
+of modified wheat starches.  The volume increases reflect added
+starch production capacity installed in fiscal 1992 and 1993. 
+During the fourth quarter of fiscal 1994, the Company commenced
+the addition of starch production facilities at the Pekin plant
+in order to satisfy customers' needs from two locations and to
+capitalize on the expansion of the gluten and alcohol production
+facilities at that location.  The new starch facility is expected
+to be operational in the second half of fiscal 1995 and is
+planned to increase the Company's total June 30, 1994, starch
+production capacity by 70%.
+
+Alcohol Products
+
+     The Company's Atchison and Pekin plants process corn and
+milo, mixed with the starch slurry from gluten and starch
+processing operations, into beverage, industrial and fuel grade
+alcohol, animal feed and carbon dioxide.
+
+     Beverage Alcohol
+
+     Beverage alcohol consists primarily of grain neutral
+spirits.  Grain neutral spirits is alcohol made from grain that
+has been further refined to remove all impurities.  Grain neutral
+spirits is sold in bulk or processed into vodka and gin and sold
+in bulk quantities at various proof concentrations to bottlers
+and rectifiers, such as Heublein, Inc. and James B. Beam
+Distilling Co., which further process the alcohol for sale to
+consumers under numerous labels.  
+
+     The Company believes that in terms of fiscal 1994 net sales,
+it is one of the two largest bulk sellers of grain neutral
+spirits, vodka and gin in the United States.  The Company's
+principal competitors in the beverage alcohol market are Grain
+Processing Company of Muscatine, Iowa and Archer Daniels Midland
+of Decatur, Illinois.  Competition is based primarily upon price
+and service, and in the case of gin, formulation.  The Company
+believes that the centralized location of its Illinois and Kansas
+distilleries, the capacity of its dual production facilities and
+the versatility and availability of its transportation fleet and
+barge facilities combine to provide the Company with a customer
+service advantage that is unique within the industry.
+
+                                7
+
+<PAGE> 8
+
+     Beverage alcohol sales increased by approximately $2.4
+million during fiscal 1994 due primarily to an increase in price.
+
+
+     Industrial and Fuel Grade Alcohol
+
+     Grain alcohol which is not sold as beverage alcohol is
+marketed as food grade industrial alcohol or processed into fuel
+grade alcohol ("Industrial Alcohol"). Fuel grade alcohol, which
+is commonly referred to as "ethanol" is added to gasoline to
+increase octane ratings and as an oxygenate to reduce carbon
+dioxide emissions to satisfy EPA and Clean Air Act requirements. 
+Food grade industrial alcohol is sold as an ingredient in foods
+(e.g., vinegar and food flavorings), personal care products
+(e.g., hair sprays and deodorants), cleaning solutions, biocides,
+insecticides, fungicides, pharmaceuticals, and a variety of other
+products.  Although grain alcohol is chemically the same as
+petroleum-based or synthetic alcohol, certain customers prefer a
+natural grain-based alcohol.  In addition, gasoline refiners and
+marketers who blend grain alcohol with gasoline in qualifying
+proportions are charged lower excise taxes on the blend compared
+to unblended gasoline.  This lower tax rate is not available for
+synthetic alcohol.  Food grade Industrial alcohol is sold in tank
+truck or rail car quantities direct to a number of industrial
+processors, such as Integrated Ingredients, a division of Burns
+Philp Foods, Inc., 7-Up Company, and Lehn & Fink, a producer of
+Lysol based household cleaners, from both the Atchison and Pekin
+plants.  The Company is a minor competitor in the total United
+States market for food grade industrial and fuel grade alcohol. 
+The Fuel grade market is dominated by Archer Daniels Midland and
+the food grade industrial market is dominated by petroleum-based
+alcohol. Fuel alcohol prices traditionally follow the movement of
+gasoline prices, and food grade industrial alcohol prices are
+normally consistent with prices for synthetic industrial alcohol.
+
+     Effective September 1, 1994, the Environmental Protection
+Agency ("EPA") adopted a final rule ("Rule") which generally
+requires that reformulated gasoline ("RFG") mandated by the Clean
+Air Act contain an amount of "renewable oxygenate" that, on
+average, is equal to or greater than 15% of the required oxygen
+content from December 1, 1994 through December 31, 1995, and 30%
+for each calendar year thereafter. Under the RFG program, RFG is
+required to be sold in nine of the smoggiest metropolitan areas
+in the United States, which are San Diego, Los Angeles-Anaheim-
+Riverside, Houston-Galveston-Brazoria, Chicago-Gary, Milwaukee-
+Racine, Philadelphia-Wilminton-Trenton, New York-Northern New
+Jersey-Long Island, Greater Connecticut and Baltimore, as well as
+in other metropolitan areas that elect to be covered by the
+program.  The regulation defines a renewable oxygenate as an
+oxygenate that is derived from non-fossil fuel feedstocks such as
+petroleum, coal or gas or an ether that is derived from non
+fossil fuel feedstocks.  Although the definition of renewable
+oxygenate covers a variety of renewable biomass and waste product
+sources the EPA release ("Release") announcing the Rule indicates
+that Ethanol and ethyl tertiary butyl ether ("ETBE") are expected
+to be the primary renewable oxygenates with ethanol being the
+dominant oxygenate during the winter months in the initial years
+since it is the "only renewable oxygenate currently produced in
+large quantities."   According to the Release, ethanol's
+volatility is expected to make it difficult for refiners to
+satisfy the RFG requirements in the summer months (May 1 through
+September 15) with a blend of gas and pure ethanol.  Hence, the
+Release indicates that the use of ethanol in the RFG program is
+expected to be concentrated during the winter months, except to
+the extent that ETBE is used as the renewable oxygenate.  ETBE is
+an ether derived from ethanol and isobutylene that has a lower
+volatility than pure ethanol that is expected to enable its use
+during the summer months to satisfy the renewable oxygenate
+requirement.
+
+     On July 13, 1994, two groups representing the petroleum
+industry filed suit against the EPA seeking to have the Rule set
+aside on the grounds that the EPA lacked the legal authority
+necessary to issue the Rule.  On September 13, 1994, the U.S.
+Court of Appeals for the District of Columbia Circuit issued an
+order staying implementation of the Rule in order to permit the
+parties and other interested parties time to brief and orally
+argue the issues raised in the suit.  Although the Court set an
+expedited schedule that requires that final briefs be submitted
+by January 12, 1995, it is uncertain as to when or if the stay
+will be lifted.  
+
+     If the Rule is ultimately implemented, a matter which is
+presently uncertain due to the pending litigation, the Company
+expects that the effect of the regulation will be to increase the
+demand for the Company's fuel grade
+
+                                8
+
+<PAGE> 9
+alcohol.  However, the Company's total ethanol production is
+expected to be a relatively small part of a very competitive
+ethanol market. 
+
+     During fiscal 1994 sales of food grade industrial and fuel
+grade alcohol remained relatively constant with the same results
+for fiscal 1993 in spite of significantly increased volumes due
+primarily to reduced gasoline prices.
+
+     Alcohol By-Products
+
+     The bulk of fiscal 1994 sales of alcohol by-products consist
+of distillers feeds.  Distillers feeds are the residue of corn,
+milo and wheat from alcohol processing operations.  The residue
+is dried and sold primarily to processors of animal feeds as a
+high protein additive.  The Company competes with a number of
+producers of animal food additives in the sale of distillers
+feeds and mill feeds.  
+
+     The balance of alcohol by-products consists primarily of
+carbon dioxide.  During the production of alcohol, the Company
+traps carbon dioxide gas that is emitted in the fermentation
+process. The gas is purchased and liquified on site by two
+principal customers, one at the Atchison Plant and one at the
+Pekin Plant, who own and operate the carbon dioxide processing
+and storage equipment under long term contracts with the Company. 
+The liquified gas is resold by these processors to a variety of
+industrial customers and producers of carbonated beverages.  
+
+     Alcohol Products Capital Improvements
+
+     During the last half of fiscal 1993 the Company commenced
+the construction of an expansion of its alcohol production
+facilities at its Pekin plant.  The expansion, which is planned
+for completion in the second half of fiscal 1995, is expected to
+double the Company's entire alcohol production capacity and more
+than double the Company's capacity to produce distillers feeds as
+such capacities existed at June 30, 1994. 
+
+     On December 31, 1992, the Company sold the operations of
+McCormick Distilling Company for an after-tax gain of
+approximately $1.0 million.  McCormick was primarily engaged in
+the business of bottling alcohol beverages at a plant in Weston,
+Missouri.  The business was sold to increase the Company's
+concentration on the marketing of alcohol in bulk and to generate
+cash for the expansion of the Pekin Plant.  
+
+
+
+
+
+Flour and Other Mill Products
+
+     At the Atchison plant, the Company owns and operates a flour
+mill which was purchased from Pillsbury in 1986.  All of the
+mill's output of flour is used internally for the production of
+vital wheat gluten and premium wheat starch.  In 1993 the Company
+completed the first of a two-phase expansion of the flour milling
+facilities. The second phase of the expansion is expected to be
+substantially complete during the first quarter of fiscal 1995. 
+The entire project is expected to increase the mill's total
+production by approximately 80%.  All of the additional output of
+the mill is expected to be used internally to satisfy existing
+requirements for the production of gluten and starch and the
+additional requirements of the gluten and starch facilities that
+are being added to the Pekin plant.   
+
+     In addition to flour, the wheat milling process also
+generates mill feeds or midds and a small quantity of wheat germ.
+Midds are sold to processors of animal feeds as a feed additive. 
+Wheat germ is sold primarily for use in vitamin E production.
+
+     Sales of flour and other mill products declined since 1990
+due to the increased usage of the flour mill's output for the
+production of other grain products.  
+
+                                9
+
+<PAGE> 10
+
+Transportation
+
+     To provide its customers with timely delivery and service,
+the Company maintains its own fleet of 32 tank and van trailers
+and 12 truck-tractors.  The Company leases 126 rail cars which
+may be dispatched on short notice.  Shipment by barge is also
+offered to customers through barge loading facilities on the
+Missouri and Illinois Rivers.  The barge facility on the Illinois
+River is adjacent to the Pekin plant and owned by the Company. 
+The facility on the Missouri River, which is not company-owned,
+is approximately one mile from the Atchison plant.  Quick
+response enables customers to reduce inventory costs and still
+satisfy unanticipated production requirements and is an important
+marketing tool for the Company.  The Company also has a contract
+for backhauls under certificate No. NC 148479.
+
+     Income from trucking operations is included in Other
+Operating Income  shown in the Statements of Income.  See in
+particular Note 8 in the Notes to Consolidated Financial
+Statements in the Annual Report.
+
+Raw Materials
+
+     The Company's principal raw material is grain, consisting of
+wheat which is processed into all of the Company's products and
+corn and milo which are processed into alcohol, animal feed and
+carbon dioxide.  Grain is purchased directly from surrounding
+farms, primarily at harvest time, and throughout the year from
+grain elevators.  Historically, the cost of grain is subject to
+substantial fluctuations depending upon a number of factors which
+affect commodity prices in general, including crop conditions,
+weather, government programs, and purchases by foreign
+governments.  Although significant variations in grain prices may
+temporarily affect positively or negatively the results of the
+Company's operations, the Company has usually, but not always,
+been able to compensate for such variations through adjustments
+in prices charged for the Company's grain products.  
+
+     Historically the Company has not engaged in the purchase of
+commodity futures to hedge economic risks associated with
+fluctuating grain and grain products prices.  However, due to the
+significantly increased volumes of grain and grain products that
+are expected as a result of the expansion of the Company's
+production facilities, the Company expects to make limited
+investments in commodity futures, including wheat, corn and
+gasoline futures.
+
+Energy  
+
+     Because energy comprises a major cost of operations, the
+Company seeks to assure the availability of fuels for the Pekin
+and Atchison plants at competitive prices.
+
+     At present a substantial portion of the natural gas demand
+for the Atchison plant is transported by a wholly-owned
+subsidiary which owns a gas pipeline. The subsidiary procures the
+gas in the open market from various suppliers and from gas
+reservoirs in an adjoining county. The Atchison boilers may also
+be oil fired.
+
+     In the past, the Company's Pekin plant generated the bulk of
+its energy needs from coal and gas fired boilers. However, due to
+the expansion of the Pekin plant, the Company has entered into a
+long-term arrangement with an Illinois utility to satisfy the
+energy needs of the entire plant with a new gas fired plant. 
+Under the arrangement, the utility will construct on Pekin plant
+ground leased from the Company a gas powered electric and steam
+generating facility and sell to the Company steam and
+electricity, generally at fixed rates, using gas procured by the
+Company. At such time as the new power plant becomes operational,
+Pekin's existing plant will be kept as an emergency standby.
+
+Employees
+
+     As of June 30, 1994, the Company had 460 employees, 317 of
+whom are covered by three collective bargaining agreements with
+two labor unions.  The collective bargaining agreements expire on
+various dates from June 30, 1995, through August 30, 1996.  In
+September 1993, the Company successfully renegotiated a major
+labor
+
+                                10
+<PAGE> 11
+
+ agreement covering 199 employees at the Atchison Plant.  The
+Company considers its relations with its personnel to be good and
+has not experienced a work stoppage since 1978.
+
+Regulation
+
+     The Company's beverage and industrial alcohol business is
+subject to regulation by the Bureau of Alcohol, Tobacco and
+Firearms ("BATF") and the alcoholic beverage agencies in the
+States of Kansas and Illinois.  Such regulation covers virtually
+every aspect of the Company's alcohol operations, including
+production facilities, marketing, pricing, labeling, packaging,
+and advertising.  Food products are also subject to regulation by
+the Food and Drug Administration.  BATF regulation includes
+periodic BATF audits of all production reports, shipping
+documents, and licenses to assure that proper records are
+maintained.  The Company is also required to file and maintain
+monthly reports with the BATF of alcohol inventories and
+shipments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Item 2.  Properties.
+
+     The Company maintains the following principal plants,
+warehouses and office facilities:
+
+                                               Plant     Tract
+                                               Area      Area
+                                              (in sq.     (in 
+   Location             Purpose                 ft.)     acres)
+   --------             -------               -------   -------   
+Atchison, Kansas   Principal Executive
+                   offices, grain processing,
+                   warehousing, and research
+                   and quality control
+                   laboratories.              494,640      25
+
+Pekin, Illinois    Grain processing,
+                   warehousing, and quality
+                   control laboratories       452,395      49
+
+     Except as otherwise reflected under Item 1. the facilities
+mentioned above are generally in good operating condition, are
+currently in normal operation are generally suitable and adequate
+for the business activity conducted therein, and have productive
+capacities sufficient to maintain prior levels of production.  
+Except as otherwise reflected under Item 1, all of the plants,
+warehouses and office facilities are owned.  None are subject to
+any major encumbrance.  The Company also owns transportation
+equipment and a gas pipeline described under Transportation and
+Energy. 
+
+
+Item 3.   Legal Proceedings.
+
+     There are no material legal proceedings pending as of June
+30, 1994.  Legal proceedings which are pending consist of matters
+normally incident to the business conducted by the Company and
+taken together do not appear material.
+
+
+Item 4.  Submissions of Matters to a Vote of Security Holders.
+
+     No matters have been submitted to a vote of stockholders
+since the last annual meeting of stockholders on October 8, 1993.
+
+                                11
+<PAGE> 12
+                             PART II
+
+Item 5.  Market for Registrants Common Equity and Related         
+         Stockholders Matters.
+
+     The Common Stock of the Company has been traded on the
+NASDAQ National Market System under the symbol MWGP since
+November 1988.  The Company has paid regular cash dividends on
+its Common Stock in each year since its inception in 1957.  
+
+     The following table reflects the cash dividends paid and the
+high and low closing prices of the Common Stock for each quarter
+of fiscal 1994 and 1993:
+
+                                               Sales Prices
+                        Quarterly Cash   ------------------------ 
+                          Dividends        High            Low
+                        --------------   --------        -------
+1993:
+   First Quarter...........$ .125        $ 25.25         $ 21.50
+   Second Quarter..........  .125          25.25           21.25
+   Third Quarter...........  .125          30.50           22.50
+   Fourth Quarter..........  .125          29.75           24.75
+                           ------
+                           $ .50
+                           ======
+1994:
+   First Quarter...........$  .125      $  27.00         $ 22.25
+   Second Quarter...........  .125         29.75           22.75
+   Third Quarter............  .125         32.75           26.25
+   Fourth Quarter...........  .125         36.00           29.25
+                           -------
+                           $  .50
+                           =======
+
+     At June 30, 1994, there were approximately 1,000 holders of
+record of the Company's Common Stock.  It is believed that the
+Common Stock is held by more than 2,000 beneficial owners.
+
+
+Item 6.  Selected Financial Data.
+
+     Incorporated by reference to the information under Selected
+Financial Information on page 17 of the Annual Report, a copy of
+which page is included in Exhibit 10(c) to this Report.
+
+
+Item 7.  Management's Discussion and Analysis of Financial        
+         Condition and Results of Operations.
+
+     Incorporated by reference to the information under
+Managements Discussion and Analysis of Financial Condition and
+Results of Operations on pages 18 through 24 of the Annual
+Report, copies of which pages are included in Exhibit 10(c) to
+this Report.
+
+Item 8.  Financial Statements and Supplementary Data.
+
+     Incorporated by reference to the consolidated financial
+statements and related notes on pages 25 through 36 of the Annual
+Report, copies of which pages are included in Exhibit 10(c) to
+this Report.
+
+                                12
+
+
+
+
+<PAGE> 13
+
+Item 9.  Changes in and Disagreements with Accountants on         
+         Accounting and Financial Disclosure.
+
+     Not applicable.
+                             PART III
+
+Item 10.  Directors and Executive Officers of the Registrant.
+
+  The directors and executive officers of the Company are as
+follows:
+
+Name                           Age            Position
+- - ----                           ---            --------
+Cloud L. Cray, Jr.             71      Chairman of the Board and  
+                                       Director
+
+Laidacker M. Seaberg           48      President, Chief Executive 
+                                       Officer and Director
+
+Sukh Bassi, Ph.D.              53      Vice President - Vital     
+                                       Wheat Gluten Marketing,    
+                                       Research and Development   
+                                       and Corporate Technical    
+                                       Director 
+
+Robert G. Booe                 57      Vice President -           
+                                       Administration,            
+                                       Controller, Treasurer and  
+                                       Chief Financial Officer
+
+Norma C. Ewbank                60      Secretary
+
+Tom V. Herriage, Jr.           49      Vice President - Beverage  
+                                       Alcohol Sales 
+
+Howard W. Hinton               48      Vice President -
+Distillery Marketing
+
+Gerald Lasater                 56      Vice President - Wheat     
+                                       Starch Marketing
+
+Raymond Miller                 60      Vice President -           
+                                       Purchasing and Energy and  
+                                       President of Midwest Grain 
+                                       Pipeline, Inc.
+
+Anthony J. Petricola           58      Vice President -
+Engineering
+
+Randy M. Schrick               44      Vice President -
+Operations and Director
+
+Kenneth Smith                  57      Vice President -
+Transportation
+
+Michael Braude                 58      Director
+
+Richard J. Bruggen             68      Director
+
+Tom MacLeod, Jr.               46      Director
+
+Robert J. Reintjes             62      Director
+
+Eleanor B. Schwartz, D.B.A.    57      Director
+
+                                13
+
+<PAGE> 14
+
+     Mr. Cray, Jr. has been a Director since 1957, and has served
+as Chairman of the Board since 1980.  He served as Chief
+Executive Officer from 1980 to September, 1988, and has been an
+officer of the Company and its affiliates for more than thirty
+years.  
+
+     Mr. Seaberg, a Director since 1979, joined the Company in
+1969 and has served as the President of the Company since 1980
+and as Chief Executive Officer since September, 1988.  He is the
+son-in-law of Mr. Cray, Jr.
+
+     Dr. Bassi has served as Vice President of Research and
+Development since 1985,  Technical Director since 1989 and Vice
+President - Vital Wheat Gluten Marketing since 1992.  From 1981
+to 1992 he was Manager of the Vital Wheat Gluten Strategic
+Business Unit.  He was previously a professor of biology at
+Benedictine College for ten years.
+
+     Mr. Booe has served as Vice President, Treasurer and Chief
+Financial Officer of the Company since 1988.  He joined the
+Company in 1966 as its Treasurer and became the Controller and
+Treasurer in 1980.  In 1992 he was assigned the additional task
+of Vice President -  Administration.
+
+     Mrs. Ewbank has served as corporate secretary since 1987. 
+She joined the Company in 1981.
+
+     Mr. Herriage, Jr. joined the Company in 1980.  He has served
+as Vice President in charge of beverage alcohol sales since 1986,
+and was responsible for the Whiskey Strategic Business Unit from
+1986 to 1989.  Prior to that time he was responsible for
+personnel and public relations.
+
+     Mr. Hinton joined the Company in 1976.  He has served as
+Vice President - Distillery Marketing since 1992.  Between 1982
+and 1992 he served as Vice President in charge of the Distilling
+Strategic Business Unit.
+
+     Mr. Lasater joined the Company in 1962.  He has served as
+Vice President - Starch Marketing since 1992.  Previously he
+served as Vice President in charge of the Wheat Starch Strategic
+Business Unit.
+
+     Mr. Miller joined the Company in 1956.  He has served as
+Vice President - Purchasing and Energy since 1992, President of
+Midwest Grain Pipeline, Inc. since 1987, and as Vice President of
+the Company since 1967.
+
+     Mr. Petricola joined the Company in 1985.  He has served as
+Vice President - Engineering since 1992.  Previously he served as
+Corporate Director of Engineering.
+
+     Mr. Schrick, a Director since 1987, joined the Company in
+1973.  He has served as Vice President - Operations since 1992. 
+From 1984 to 1992 he served as Vice President and General Manager
+of the Pekin plant. From 1982 to 1984 he was the Plant Manager of
+the Pekin Plant.  Prior to 1982, he was Production Manager at the
+Atchison plant.
+
+     Mr. Smith has served as Vice President - Transportation
+since 1987.  Prior to that time he was manager of truck services.
+
+     Mr. Bruggen has been a Director since 1976 and is a member
+of the Audit and Nominating Committees.  He was Senior Vice
+President of Atchison Casting Corporation from 1991 until his
+retirement in 1992.  Previously he was the General Manager of
+Rockwell International Plants at Atchison, Kansas and St. Joseph,
+Missouri.
+
+     Mr. Braude has been a Director since 1991 and is a member of
+the Audit and Human Resources Committees.  He has been the
+President and Chief Executive Officer of the Kansas City Board of
+Trade, a commodity futures exchange , since 1984.  Previously he
+was Executive Vice President of American Bank & Trust Company of
+Kansas City.
+
+                                14
+<PAGE>
+
+     Mr. MacLeod, Jr. has been a Director since 1986 and is a
+member of the Audit and Human Resources Committees.  He has been
+the President and Chief Operating Officer of Iams Company, a
+manufacturer of premium pet foods, since 1989.  Previously, he
+was President and Chief Executive Officer of Kitchens of Sara
+Lee, a division of Sara Lee Corporation, a food products company.
+
+     Mr. Reintjes has been a Director since 1986, and is a member
+of the Audit and Nominating Resources Committees.  He has served
+as President of Geo. P. Reintjes Co., Inc., of Kansas City,
+Missouri, for the past 23 years.  The Geo. P. Reintjes Co., Inc.
+is engaged in the business of refractory construction.
+
+     Dr. Schwartz has been a director since June 3, 1993.  She is
+also a member of the Audit and Human Resources Committees.  She
+has been the Chancellor of the University of Missouri-Kansas City
+since May 1992, and was previously the Vice Chancellor for
+Academic Affairs.  
+
+     The Board of Directors is divided into two groups (Groups A
+and B) and three classes.  Group A directors are elected by the
+holders of Common Stock and Group B directors are elected by the
+holders of Preferred Stock.  One class of directors is elected at
+each annual meeting of stockholders for three-year terms.  The
+present directors' terms of office expire as follows:
+
+      Group A         Term         Group B         Term 
+     Directors       Expires      Directors       Expires
+     ---------       -------      ---------       -------
+
+  Mr. Bruggen         1994     Mr. Cray, Jr.        1995
+  Mr. MacLeod         1995     Mr. Reintjes         1995
+  Dr. Schwartz        1996     Mr. Braude           1994
+                               Mr. Schrick          1996
+                               Mr. Seaberg          1996
+
+Item 11.  Executive Compensation.
+
+     Incorporated by reference to the information under
+"Executive Compensation"  on pages 5 through 9 of the Proxy
+Statement.
+
+Item 12.  Security Ownership of Certain Beneficial Owners and
+Management.
+
+     Incorporated by reference to the information under
+"Principal Stockholders"  beginning on page 9 of the Proxy
+Statement.
+
+Item 13.  Certain Relationships and Related Transactions.
+
+     None.
+
+                                15
+
+<PAGE> 16
+                             PART IV
+
+Item 14.  Exhibits, Financial Statement Schedules and Reports on  
+          Form 8-K.
+
+     The following documents are filed as part of this report:
+
+     (a)  Financial Statements:
+
+          Auditors Report on Financial Statements.
+          Consolidated Balance Sheets at June 30, 1994 and 1993.
+          Consolidated Statements of Income - for the Three Years 
+           Ended June 30, 1994, 1993 and 1992.
+          Consolidated Statements of Stockholders Equity for the  
+           Three Years Ended June 30, 1994, 1993 and 1992.
+          Consolidated Statements of Cash Flow - for the Three    
+           Years Ended June 30, 1994, 1993 and 1992.
+          Notes to Consolidated Financial Statements.
+
+          The foregoing have been incorporated by reference to    
+           the Annual Report as indicated under Item 8.
+     (b)  Financial Statement Schedules:
+
+          Auditors Report on Financial Statement Schedules:
+          I.  Marketable Securities - Other Investments
+          V -   Property, Plant and Equipment
+          VI -  Accumulated Depreciation, Depletion and           
+            Amortization of Property, Plant and Equipment
+          VIII -   Valuation and Qualifying Accounts
+          IX -     Short Term Borrowings
+          X -   Supplementary Income Statement Information
+
+          All other schedules are omitted because they are not    
+          applicable or the information is contained in the       
+          Consolidated Financial Statements or notes thereto.
+
+     (c)  Exhibits:
+
+      Exhibit No.                       Description            
+      -----------                       -----------
+
+       3(a)   Articles of Incorporation of the Company            
+              (Incorporated by reference to Exhibit 3(a) of the   
+              Company's Registration Statement No. 33-24398 on    
+              Form S-1).
+
+       3(b)   Bylaws of the Company (Incorporated by reference to 
+              Exhibit 3(b) of the Company's Registration          
+              Statement No. 33-24398 on Form S-1).
+
+       4(a)   Copy of Note Agreement dated as of August 1, 1993,  
+              providing for the issuance and sale of $25 million  
+              of 6.68% term notes ("Term Notes", incorporated by  
+              reference to Exhibit 4.1 to the Company's Report on 
+              Form 10-Q for the quarter ended September 30,       
+              1993).
+
+       4(b)   Copy of Term Notes dated August 27, 1993            
+              (incorporated by reference to Exhibit 4.2 to the    
+              Company's Report on Form 10-Q for the quarter ended 
+              September 30, 1993).
+
+       9(a)   Copy of Cray Family Trust (Incorporated by          
+              reference to Exhibit 9(a) of the Company's          
+              Registration Statement No. 33-22600 on Form S-4).
+
+                                16
+
+<PAGE>
+
+      10(a)   Summary of informal cash bonus plan (incorporated   
+              by reference to the summary contained in the        
+              Company's Proxy Statement dated September 12, 1994, 
+              which is incorporated by reference into Part III of 
+              this Form 10-K).
+
+     10(b)    Executive Stock Bonus Plan as amended June 15, 1992 
+              (incorporated by reference to Exhibit 10(b) to the  
+              Company's Form 10-K for the year ended June 30,     
+              1992).
+
+     10(c)    Information contained in the Midwest Grain          
+              Products, Inc. 1994 Annual Report to Stockholders   
+              that is incorporated herein by reference.
+
+        22    Subsidiaries of the Company other than              
+              insignificant subsidiaries:
+
+                                                     State of     
+                                                  Incorporation
+                Subsidiary                       or Organization
+                ----------                       ---------------
+    Midwest Solvents Company of Illinois, Inc.       Illinois
+    Midwest Grain Pipeline, Inc.                     Kansas
+    Midwest Grain Products of Illinois, Inc.         Illinois
+    Midwest Purchasing Company, Inc.                 Illinois
+
+        25    Powers of Attorney executed by all officers and     
+              directors of the Company who have signed this       
+              report on Form 10-K (incorporated by reference to   
+              the signature pages of this report).
+
+        27    Midwest Grain Products Financial Data Schedule as   
+              at June 30, 1994 and for the year then ended.  
+
+  No reports on Form 8-K have been filed during the quarter
+ended June 30, 1994.
+
+                                17
+<PAGE> 18
+                            SIGNATURES
+
+     Pursuant to requirements of Section 13 of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly
+authorized, in the city of Atchison, State of Kansas, on this
+19th day of September, 1994.
+
+                             MIDWEST GRAIN PRODUCTS, INC.
+
+
+                             By  /s/ Laidacker M. Seaberg         
+                                 ------------------------
+                                  Laidacker M. Seaberg, President
+                                                 
+                        POWER OF ATTORNEY
+
+     KNOW ALL MEN BY THESE PRESENTS, that each person whose
+signature appears below constitutes and appoints Cloud L. Cray,
+Jr., Laidacker M. Seaberg and Robert G. Booe and each of them,
+his true and lawful attorneys-in-fact and agents, with full power
+of substitution and re-substitution, for him and in his name,
+place and stead, in any and all capacities, to sign any and all
+reports of the Registrant on Form 10-K and to sign any and all
+amendments to such reports and to file the same with all exhibits
+thereto, and other documents in connection therewith, with the
+Securities & Exchange Commission, granting unto said
+attorneys-in-fact and agents, and each of them, full power and
+authority to do and perform each and every act and thing
+requisite or necessary to be done in and about the premises, as
+fully to all intents and purposes as he might or could do in
+person, hereby ratifying and confirming all that said
+attorneys-in-fact and agents or any of them, or their or his
+substitute or substitutes, may lawfully do or cause to be done by
+virtue hereof.
+
+     Pursuant to the requirements of the Securities Exchange Act
+of 1934, this report has been signed below by the following
+persons on behalf of the Registrant in the capacities indicated
+on the dates indicated.
+        Name                         Title               Date
+
+ /s/ Laidacker M. Seaberg    President (Principal
+     ---------------------   Executive Officer)     
+     Laidacker M. Seaberg    and Director      September 19, 1994
+
+ /s/ Robert G. Booe          Vice President,
+     --------------------    Treasurer and 
+     Robert G. Booe          Controller (Principal
+                             Financial and
+                             Accounting
+                             Officer)          September 19, 1994
+
+ /s/ Michael Braude 
+     --------------------
+     Michael Braude          Director          September 19, 1994
+
+ /s/ Richard J. Bruggen
+     --------------------
+     Richard J. Bruggen      Director          September 19, 1994
+
+ /s/ Cloud L. Cray, Jr.  
+     --------------------
+     Cloud L. Cray, Jr.      Director          September 19, 1994
+
+ /s/ Eleanor B. Schwartz    
+     --------------------
+     Eleanor B. Schwartz     Director          September 19, 1994
+
+ /s/ Tom MacLeod, Jr.        
+     --------------------
+     Tom MacLeod, Jr.        Director          September 19, 1994
+
+ /s/ Robert J. Reintjes   
+     --------------------
+     Robert J. Reintjes      Director          September 19, 1994
+
+ /s/ Randy M. Schrick 
+     --------------------
+     Randy M. Schrick        Director          September 19, 1994
+
+                                18
+
+<PAGE> S-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    MIDWEST GRAIN PRODUCTS, INC.
+
+             Consolidated Financial Statement Schedules
+                            (Form 10-K)
+
+                   June 30, 1994, 1993 and 1992
+
+                  (With Auditors' Report Thereon)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                S-1
+
+
+<PAGE> S-2
+
+
+
+                    Report of Independent Accountants
+
+                    On Financial Statement Schedules
+
+
+
+
+Board of Directors and Stockholders
+Midwest Grain Products, Inc.
+Atchison, Kansas
+
+
+     In connection with our audit of the financial statements of
+MIDWEST GRAIN PRODUCTS, INC. for each of the three years in the
+period ended June 30, 1994, we have also audited the following
+financial statement schedules.  These financial statement
+schedules are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial
+statement schedules based on our audits of the basic financial
+statements.  The schedules are presented for purposes of
+complying with the Securities and Exchange Commission's rules and
+regulations and are not a required part of the consolidated
+financial statements.
+
+     In our opinion, the financial statement schedules referred
+to above, when considered in relation to the basic financial
+statements taken as a whole, present fairly, in all material
+respects, the information required to be included therein.
+
+
+
+                                     /s/ Baird, Kurtz & Dobson    
+                                         BAIRD, KURTZ & DOBSON
+
+
+Kansas City, Missouri
+August 11, 1994
+
+
+
+
+
+
+
+
+
+
+
+
+                                S-2
+
+<PAGE> S-3
+                  MIDWEST GRAIN PRODUCTS, INC.
+
+          I.  MARKETABLE SECURITIES - OTHER INVESTMENTS
+
+                           (In Thousands)
+
+                                              Market
+                                             Value at  Balance    
+   Name of Issuer and    Number of            Balance  at end of
+   Title of Each Issue     Shares    Cost   Sheet Date  Period
+   -------------------   ---------   ----   ---------- ---------
+
+YEAR ENDED JUNE 30, 1994 
+  Tax-Free Obligations 
+  Fund (an investment 
+  portfolio of Money
+  Market Obligations
+  Trust)                  14,504    $14,504   $14,504  $14,504
+                         =======    =======   =======  =======
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                S-3
+
+
+<PAGE> S-4
+                   MIDWEST GRAIN PRODUCTS, INC.
+
+                V.  PROPERTY, PLANT AND EQUIPMENT
+
+<TABLE>
+
+
+
+<CAPTION>
+
+                                      Balance                             Transfers  
+                                        at                                   of           Balance  
+                                      Beginning    Additions    Retire-   Completed       at End
+                                       of Year      at Cost     ments     Projects        of Year  
+                                      _________   __________    _______   _________     _________     
+                                                            (In Thousands)
+<S>                                   <C>           <C>          <C>       <C>           <C> 
+YEAR ENDED JUNE 30, 1994              
+  Land, buildings and improvements    $ 18,262      $ 2,290      $3,662                  $ 16,890
+  Transportation equipment               3,354        5,212       1,327                     7,239
+  Machinery, equipment, etc.           102,263        6,739       3,198                   105,804
+  Construction in progress              11,882       49,660                $ 9,028         52,513
+                                      ________      _______      ______    _______       ________ 
+                                      $135,761      $63,901      $8,187    $ 9,028       $182,446
+                                      ========      =======      ======     ======       ========
+
+YEAR ENDED JUNE 30, 1993
+  Land, buildings and improvements    $ 19,584     $    437      $1,759                  $ 18,262
+  Transportation equipment               3,732           89         467                     3,354
+  Machinery, equipment, etc.            97,287        8,851       3,875                   102,263
+  Construction in progress               6,708       14,542                $ 9,368         11,882
+                                      ________     ________      ______     ______       ________
+                                      $127,311     $ 23,919      $6,101    $ 9,368       $135,761
+                                      ========     ========      ======    =======       ========
+
+YEAR ENDED JUNE 30, 1992
+  Land, buildings and improvements    $ 19,352    $   1,122      $  890                  $ 19,584
+  Transportation equipment               3,541          278          87                     3,732
+  Machinery, equipment, etc.            89,788        9,698       2,199                    97,287
+  Construction in progress               3,275       13,608                $10,175          6,708
+                                       ________    ________      ______    _______       ________
+                                       $115,956     $24,706      $3,176    $10,175       $127,311
+                                       ========     =======      ======    =======       ========
+</TABLE>
+
+
+
+
+
+
+
+                                S-4
+
+<PAGE> S-5
+
+
+
+
+
+
+                                      
+                                                         
+   VI.  ACCUMULATED DEPRECIATION OF PROPERTY, PLANT AND EQUIPMENT
+
+
+<TABLE>
+<CAPTION>
+                                      Balance      Additions 
+                                        at          Charged                                 Balance 
+                                      Beginning        to                                   at End
+                                      of Year       Expenses       Retirements              of Year  
+                                      __________   __________      ___________          _______________
+
+                                                             (In Thousands)
+
+<S>                                   <C>           <C>              <C>                     <C> 
+YEAR ENDED JUNE 30, 1994              
+  Land, buildings and improvements    $  6,239      $   966          $   481                $  6,724
+  Transportation equipment               2,631          289            1,249                   1,671
+  Machinery, equipment, etc.            56,796        5,905            1,208                  61,493
+                                      ________      _______           ______                ________
+                                      $ 65,666      $ 7,160          $ 2,983                $ 69,888
+                                      ========      =======           ======                ========
+
+YEAR ENDED JUNE 30, 1993
+  Land, buildings and improvements    $  4,715     $  2,324          $   800                $  6,239
+  Transportation equipment               2,610          360              339                   2,631
+  Machinery, equipment, etc.            55,373        3,517            2,094                  56,796
+                                      ________     ________          _______                ________
+                                      $ 62,698     $  6,201          $ 3,233                $ 65,666            
+                                      ========     ========          =======                ========
+
+YEAR ENDED JUNE 30, 1992
+  Land, buildings and improvements     $  4,900    $    672          $   857                $  4,715
+  Transportation equipment                2,238         438               66                   2,610
+  Machinery, equipment, etc.             51,297       6,126            2,050                  55,373
+                                       ________    ________          _______                ________     
+                                       $ 58,435     $ 7,236          $ 2,973                $ 62,698       
+                                       ========     =======          =======                ========
+
+</TABLE>
+
+
+
+
+
+                                S-5
+
+
+           
+<PAGE> S-6
+
+
+
+
+
+                  MIDWEST GRAIN PRODUCTS, INC. 
+
+             VII.  VALUATION AND QUALIFYING ACCOUNTS
+<TABLE>
+<CAPTION>
+
+
+                                                              Additions
+                                                      __________________________
+                                     Balance,         Charged to    Charged                         Balance,
+                                     Beginning        Costs and     to Other    Deductions           End of
+                                     of Period        Expenses      Accounts    Write-Offs           Period
+                                     _________        ___________  ___________  ___________       ___________
+
+                                                             (In Thousands)
+<S>                                    <C>           <C>                           <C>                 <C> 
+YEAR ENDED JUNE 30, 1994              
+  Allowance for doubtful accounts      $  25         $ 59                          $ 59                $ 25
+                                       =====         ====                          ====                ====  
+   
+YEAR ENDED JUNE 30, 1993
+  Allowance for doubtful accounts      $ 200         $375                          $550                $ 25
+                                       =====         ====                          ====                ====
+
+YEAR ENDED JUNE 30, 1992
+  Allowance for doubtful accounts       $175         $197                          $197                $175
+                                        ====         ====                          ====                ====
+
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               S-6
+
+
+
+<PAGE> S-7
+                  MIDWEST GRAIN PRODUCTS, INC.
+                  IX.  SHORT-TERM BORROWINGS
+                        (In Thousands)
+
+
+
+
+<TABLE>
+<CAPTION>
+                                                                     Amount                          
+                                                     Weighted      Outstanding               Weighted
+                                     Balance at      Average      During Period               Average
+Category of Aggregate                End of          Interest    ---------------           Interest Rate
+Short-Term Borrowings                Period            Rate      Maximum   Average         During Period
+                                     ----------      --------    -------   -------         -------------
+<S>                                    <C>             <C>        <C>       <C>                 <C> 
+Notes payable - Banks, unsecured       $-0-            N/A        $-0-      $-0-                .00%
+   June 30, 1994                        -0-            N/A         -0-       -0-                .00
+   June 30, 1993                        -0-            N/A         -0-       -0-                .00
+   June 30, 1992                        -0-            N/A         -0-       -0-                .00
+  
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                S-7
+
+
+
+<PAGE> S-8
+
+                    MIDWEST GRAIN PRODUCTS, INC.
+          X.  SUPPLEMENTARY INCOME STATEMENT INFORMATION
+
+              YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+
+
+
+
+
+
+                           1994         1993           1992       
+                           ----         ----           ----
+                                   (In Thousands)
+       Excise taxes       $   0        $26,133       $52,542
+       Other taxes          940          1,935           813
+       Maintenance
+        and repairs       9,191          9,900         8,667
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                S-8
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 10(C)
+<TEXT>
+
+<PAGE> 1
+                          Exhibit 10-C
+
+              Annual report Financial information
+
+                  MIDWEST GRAIN PRODUCTS, INC.
+                 SELECTED FINANCIAL INFORMATION
+<TABLE>
+<CAPTION>                                 (in thousands except per share amounts)
+                                                    Years ended June 30. 
+                       ________________________________________________________________________________________
+                                            1994           1993          1992           1991          1990
+_______________________________________________________________________________________________________________
+<S>                                        <C>           <C>           <C>            <C>           <C>
+Income Statement Data
+Net Sales                                  $185,968      $163,426      $155,794       $133,120      $131,599  
+Cost of Sales                               148,320       130,551       127,883        108,963       112,701
+_______________________________________________________________________________________________________________
+
+Gross Profit                                 37,648        32,875        27,911         24,157        18,898
+Selling, general and
+  administrative expenses                    12,212        10,677         9,794          8,083         7,209
+Other operating income (expense)               (669)        (264)            17            135           161
+_______________________________________________________________________________________________________________
+  Income from operations                     24,767        21,934        18,134         16,209        11,850  
+Other income, net                               924         1,045         1,191            501           985
+Interest expense                                127            71            93            123           490   
+_______________________________________________________________________________________________________________
+  Income from operations                    
+    before income taxes                      25,564        22,908        19,232         16,587        12,345
+Provision for income taxes                    9,713         8,278         7,020          5,977         4,461
+_______________________________________________________________________________________________________________
+  Income from continuing operations          15,851        14,630        12,212         10,610         7,884 
+Discontinued operations                                     1,665         1,294            530           468 
+Cumulative effect of change in accounting  
+  principles--post-retirement benefits                     (2,241)
+Cumulative effect of change in accounting  
+  principles--income taxes                                  2,182
+_______________________________________________________________________________________________________________
+Net Income                                  $15,851       $16,236       $13,506        $11,140       $ 8,352
+===============================================================================================================
+
+Earnings per common share
+  Continuing operations                       $1.62         $1.50         $1.25          $1.09         $ .81
+  Discontinued operations                                     .17           .13            .05           .05  
+  Cumulative effect of accounting changes                    (.01)                                         
+                                              --------------------------------------------------------------
+                                              $1.62         $1.66         $1.38          $1.14         $ .86   
+                                              ==============================================================
+
+Cash dividends per common share                $.50          $.50          $.48           $.47          $.45  
+Weighted average common
+  shares outstanding                          9,765         9,765         9,765          9,765         9,765 
+
+Balance Sheet Data:
+  Working capital                           $22,151       $41,580       $37,021        $36,928       $30,943
+  Total Assets                             $168,146      $126,671      $115,626       $109,690      $102,271 
+
+
+Long-term debt, less
+  current maturities                       $ 25,000                    $     50       $  1,093       $ 1,341   
+Stockholders' equity                       $114,173      $103,206      $ 91,853       $ 82,986       $76,403
+
+</TABLE>
+
+                  1994 ANNUAL REPORT
+                         17              
+
+<PAGE>2
+                    MIDWEST GRAIN PRODUCTS, INC.
+         MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+               CONDITION AND RESULTS OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+     The following table sets forth items in the Company's
+consolidated statements of income expressed as percentages of net
+sales for the years indicated and the percentage change in the
+dollar amount of such items compared to the prior period.
+
+<TABLE>
+<CAPTION>                                         
+                                         Percentage of                                   Percentage
+                                          Net Sales                                   Increase (Decrease)
+                                     Years Ended June 30                       -----------------------------
+                               ___________________________________                 Fiscal 1994   Fiscal 1993
+                                1994          1993         1992                     Over 1993     Over 1992
+_________________________________________________________________________      _____________________________
+<S>                            <C>           <C>          <C>                      <C>            <C> 
+Net Sales                      100.0%        100.0%       100.0%                     13.8%           5.0%
+Cost of sales                   79.8          79.9         82.1                      13.6            2.1        
+_________________________________________________________________________         
+  Gross profit                  20.2          20.1         17.9                      14.5           17.8
+Selling, general and 
+  administrative expenses        6.6           6.5          6.3                      14.4            9.0
+Other operating income (loss)    (.3)          (.2)                                (153.4)        (165.3)
+_________________________________________________________________________
+  Income from operations        13.3          13.4         11.6                      12.9           21.0
+Other income (expense)            .4            .6           .7                     (18.2)         (11.3)
+_________________________________________________________________________
+Income from continuing
+ operations before 
+ income taxes                   13.7          14.0         12.3                      11.6           19.1
+Provision for income taxes       5.2           5.1          4.5                      17.3           17.9
+_________________________________________________________________________
+  Income from continuing
+    operations                   8.5%          8.9%         7.8%                      8.3%          19.8%
+=========================================================================
+_______________________________________________________________________________________________________________
+</TABLE>
+
+FISCAL 1994 COMPARED TO FISCAL 1993
+
+     Results of operations in fiscal 1994 surpassed the prior
+year's results, placing sales and income from continuing
+operations at record levels.  Growth in sales was spurred by
+strengthened demand for the Company's vital wheat gluten, mostly
+in the second half of fiscal 1994, and increased production
+capacities.  This resulted in increased volumes and greater
+production efficiencies, substantially improving the cost
+effectiveness of Midwest Grain's fully integrated production
+processes.  The improved efficiencies helped to offset higher raw
+material costs for grain resulting mainly from the adverse
+effects of last summer's unusually wet weather and floods in the
+Midwest.  Costs for wheat, which the Company mills into flour and
+then processes into vital wheat gluten and premium wheat starch
+for food and some non-food applications, were significantly
+higher in fiscal 1994 compared to costs experienced in fiscal
+1993.  Because of the wheat's poor milling and protein yield, the
+Company had to pay substantially higher prices for moderate to
+high protein wheats, while using more wheat than normally would
+be necessary to satisfy production requirements.  Additionally,
+costs for corn and milo, which the Company uses for alcohol
+production, rose considerably in the third and fourth quarters
+while prices for food grade industrial and fuel alcohol declined. 
+The negative impact of these raw material cost increases was
+somewhat reduced by improved alcohol production efficiencies
+resulting from higher alcohol volumes in the food grade
+industrial category.  The higher raw material costs for wheat,
+corn and milo have subsided since the end of fiscal 1994 due to
+improved crop conditions
+
+                  1994 ANNUAL REPORT
+                          18              
+
+<PAGE>3
+                   MIDWEST GRAIN PRODUCTS, INC.
+        MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+               CONDITION AND RESULTS OF OPERATIONS
+
+throughout the Midwest generally.  Also, gasoline prices are
+returning to higher levels.  However, because the current year's
+higher quality wheat requires that less gluten be used to fortify
+flour, demand for gluten has decreased somewhat.   Additionally,
+the Company is seeing strong indications of growing competition
+from European wheat gluten producers, who are able to take
+advantage of inequitably low tariff rates to ship their excess
+product into the United States market.  The threat and frequent
+materialization of this situation has been ongoing, but has
+ranged in severity depending on the size and quality of European
+wheat crops and associated factors.  To withstand increased  
+competitive pressures, the Company will continue to strengthen
+its position as a highly reliable, cost-effective domestic
+supplier.  
+
+     Greater operational efficiencies for Midwest Grain's entire
+corporate complex are expected to result from the major
+distillery expansion which currently is under construction at the
+Company's Pekin, Illinois plant.  The expansion will prepare the
+way for future growth objectives in all alcohol product areas by
+doubling the Company's total alcohol production capacity by early
+1995.  Significant growth opportunities for fuel alcohol are
+expected to result from the Environmental Protection Agency's
+recent ruling that 30% of the motor fuel oxygenates sold in the
+nation's smoggiest cities be made from renewable sources such as
+grain-based ethanol.  The distillery expansion also is allowing
+the Company to proceed with additional construction at the Pekin
+facility which is expected to result in a 70% increase in total
+wheat starch production capacity and a 40% increase in total
+wheat gluten production capacity by the spring of 1995.  
+
+     The increase in net sales for the 12-month period of fiscal
+1994, amounting to approximately $22.5 million, was largely
+experienced in the third and fourth quarters.  The remainder of
+the increase was experienced in the second quarter.  This was
+mainly due to substantially increased demand for vital wheat
+gluten and increased production of all three of the Company's
+principal products, significantly improving operational
+efficiency.  Sales in the first quarter were more severely
+affected by conditions resulting from last summer's excessive
+moisture and flooding.  In addition to experiencing higher grain
+costs, the Company was forced to use more expensive methods for
+routing shipments of raw and finished goods due to damaged rail
+lines and highways across the country's midsection.  More
+abnormal first quarter costs resulted from a four-day shutdown of
+the Atchison plant, which occurred when nearby pumping stations
+which supply water for the plant's distillery process were
+flooded by the rain-swollen Missouri River.  Sales of wheat
+gluten in fiscal 1994 rose by approximately 31% as the result of
+increased demand, increased grain costs, and higher volumes.  The
+increased demand resulted partially from increased market needs,
+principally in the baking industry where more gluten was required
+to fortify flour due to the poor quality of available wheat
+during most of the year.  Premium wheat starch sales increased by
+15%, mainly as the result of higher volumes and increased sales
+of modified starch varieties in special market niches.  Sales of
+alcohol products climbed 4% in spite of reduced demand, with a
+substantial increase in food grade industrial alcohol volume and
+a slight increase in beverage alcohol volume.  These increases
+more than offset a decrease in fuel alcohol volume and added
+
+                    1994 ANNUAL REPORT
+                           19              
+<PAGE>4
+                   MIDWEST GRAIN PRODUCTS, INC.
+        MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                CONDITION AND RESULTS OF OPERATIONS
+
+substantially to improvements in the Company's total operational
+efficiencies.  Sales of distillers feed, a by-product of the
+alcohol production process, were approximately even with the
+prior year's sales, while all of the Company's flour was used
+internally as a raw material for the gluten production process. 
+Sales of flour mill by-products, namely mill feeds, rose
+significantly due to higher volumes resulting from increased
+flour production to satisfy heightened gluten processing needs. 
+Fluctuations in selling prices of the Company's vital wheat
+gluten generally are due to fluctuations in grain costs and
+competition.  Wheat starch prices traditionally track corn starch
+prices, with the exception of the Company's specialty modified
+starches.  Fuel alcohol prices traditionally follow the movement
+of gasoline prices, and food grade industrial alcohol prices are
+normally consistent with prices for industrial alcohol derived
+from synthetic products such as petroleum.  During fiscal 1994,
+the Company's results were negatively affected by low gasoline
+prices coupled with increased grain costs.
+
+     Raw material cost increases in fiscal 1994 accounted for
+slightly more than $16 million of the approximately $17.8 million
+increase in cost of sales compared to fiscal 1993.  This was
+principally due to higher wheat costs and lower protein yields,
+and increased costs for corn and mil.  The lower protein yields
+caused more wheat to be used than normally would have been
+required to produce enough flour for wheat gluten processing.  A
+rise in employee insurance costs of approximately $1.6 million
+also contributed to the increase in total cost of sales in fiscal
+1994.  This was partially offset by a decrease of $709,150 in
+maintenance and repair costs compared to fiscal 1993.  Other
+manufacturing cost increases were due to increased production
+volumes.
+
+     Selling, general and administrative expenses in fiscal 1994
+increased by approximately $1.5 million compared to fiscal 1993. 
+The majority of the increase, approximately $1.1 million,
+resulted from contributions to the Company's management bonus
+program, which is designed to recognize the accomplishment of
+specific, pre-established Company goals.  Goals in fiscal 1994
+were made exceptionally challenging by conditions related to the
+adverse effects of last summer's unusually wet weather and record
+floods in the Midwest.  The Company achieved a high level of
+performance for the year and there was a significant rise in the
+number of bonus recipients.  The remainder of the increase was
+experienced generally throughout the expense categories.
+
+     Pre-tax income for fiscal 1994 increased by approximately
+11.5% due primarily to increased volumes and demand for vital
+wheat gluten offset by reduced prices for food grade industrial
+and fuel grade alcohol and increased grain costs.  
+
+     The consolidated effective income tax rate is consistent for
+the two fiscal years.
+
+     The general effects of inflation were minimal.
+
+     As a result of the foregoing factors, the Company realized
+income from continuing operations of $15,851,000 in fiscal 1994
+compared to $14,630,000 in fiscal 1993.
+
+FISCAL 1993 COMPARED TO FISCAL 1992
+
+     Sales and income from continuing operations in fiscal 1993
+outdistanced the record results achieved in fiscal 1992. The
+higher results were reached through
+
+                 1994 ANNUAL REPORT
+                        20              
+
+<PAGE>5
+                   MIDWEST GRAIN PRODUCTS, INC.
+         MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+               CONDITION AND RESULTS OF OPERATIONS
+
+
+increased volume sales of all major products, with alcohol
+products accounting for the largest surge.  Higher yields on
+grain helped reduce overall raw material costs, which in turn
+contributed to the increase in profitability.  The growth in
+alcohol volume occurred in the Company's beverage and fuel grade
+alcohol markets.  In January, 1993, the Company announced plans
+for doubling its total alcohol production capacity by early 1995
+with a major expansion at its Pekin, Illinois plant.  While the
+Company will continue to focus on increasing its presence in the
+beverage and high quality industrial alcohol markets, a sizeable
+portion of the new capacity is scheduled for fuel alcohol
+production.  The expanded gluten production capacities that went
+into operation at the Pekin and Atchison, Kansas plants in the
+latter half of fiscal 1992 allowed the Company to supply
+increased customer needs and realize higher volume sales in
+fiscal 1993.  Opportunities to produce even greater quantities of
+gluten were eroded somewhat by a steady stream of gluten imports
+from the European Community, which grew substantially in the
+second quarter and had carry-over effects on sales in the third
+and fourth quarters.  The increase in wheat starch volume sales
+resulted mainly from greater development and penetration of
+special market niches which utilize the Company's modified starch
+varieties.  To keep up with increasing demand for its wheat
+starch, the Company initiated the expansion of its modified
+starch production capacity at the Atchison plant.  Expansion of
+the Company's flour mill in Atchison was also begun in fiscal
+1993 to keep pace with increased needs for flour to supply the
+wheat gluten process.  
+
+     The Company's strong financial position has allowed it to
+adopt an aggressive plant expansion program so that it can remain
+highly competitive in the years to come.  While the Company
+believes long-term prospects are strong, the excessively wet
+spring and summer flooding in much of the Midwest is expected to
+adversely impact fiscal 1994.  In addition to causing lower
+quality wheat harvests, severe damage to rail lines and major
+highways has caused difficulties with shipments of raw materials
+and finished goods.
+
+     On December 31, 1992, the Company sold the operations of
+McCormick Distilling Company, a wholly-owned subsidiary, for an
+after-tax gain of approximately $1.0 million.  McCormick was
+primarily engaged in the business of bottling alcohol beverages
+at the Weston, Missouri plant and selling same throughout the
+United States through distributors.  The following discussion
+relates to the results of continuing operations exclusive of
+McCormick.
+
+     The increase in sales for the 12-month period of fiscal
+1993, amounting to approximately $7.6 million, was evenly
+experienced through the first three quarters of the year as a
+result of the higher volumes of all major products.  Sales in the
+fourth quarter were approximately $2.1 million lower than in the
+final quarter of fiscal 1992 due principally to a curtailment in
+alcohol and gluten production while necessary repairs and
+improvements were made to distillery equipment in Atchison. 
+Sales of all alcohol products for the year increased by
+approximately 6% over fiscal 1992.  An 11% increase in beverage
+alcohol volume, together with an 11% increase in fuel alcohol
+volume outweighed a nearly 15% decrease in volume sales of food
+grade industrial alcohol.  Increased prices for fuel and high
+quality industrial alcohol offset a slight price decrease in the
+beverage category to
+
+                   1994 ANNUAL REPORT
+                          21              
+
+
+<PAGE>6
+                    MIDWEST GRAIN PRODUCTS, INC.
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                 CONDITION AND RESULTS OF OPERATIONS
+
+
+contribute to the gain in total alcohol sales.  A 7% increase in
+volume sales of distillers feed, an alcohol by-product, also
+contributed to the gain.  Sales of vital wheat gluten increased
+by 15% over fiscal 1992 as a result of increased volume coupled
+with a modest price increase.  The price increase only partially
+offset successive increases in raw material costs for wheat,
+which the Company experienced in the second and third quarters of
+fiscal 1993.  For the year, wheat costs  averaged slightly higher
+per bushel than in fiscal 1992, and, because more wheat was
+required to supply increased production needs, the total cost for
+this raw material rose accordingly.  Sales of flour and other
+mill products decreased by approximately $5.2 million.  This
+decline resulted almost entirely from a significant reduction in
+outside sales of flour in order to satisfy internal requirements
+for its use as a raw material in the gluten process.  Sales of
+premium wheat starch rose by 5% as the result of increased
+volumes in the second, third and fourth quarters.  Wheat starch
+prices for the year were approximately level with those realized
+during fiscal 1992.
+
+     The cost of sales for fiscal 1993 increased by approximately
+$2.7 million over the prior year.  Higher costs for repairs and
+maintenance, utilities and post-retirement benefits were offset
+by lower raw material costs and insurance expenses. 
+Volume-related increases of natural gas and electricity usage
+combined with higher natural gas prices to cause an increase of
+$2.4 million in utility costs.  Increased repairs and maintenance
+costs approximating $1.3 million resulted from a plant shutdown
+for maintenance, ongoing expenditures to continually improve
+clean operations and modifications to distillery equipment. 
+Also, fiscal 1993 employee benefit costs increased by almost
+$350,000 due to the accrual of higher post-retirement costs in
+accordance with the newly adopted accounting pronouncement.  The
+reduction of raw material costs ($1.6 million), in spite of
+volume increases, was caused by lower prices for corn and milo
+combined with higher yields.  Lower wheat prices were more than
+offset by decreased yields due to lower quality of the wheat
+crops.  Insurance costs declined substantially as a result of
+more favorable experience in workers' compensation and general
+liability claims.
+
+     Selling, general and administrative expenses increased over
+fiscal 1992 by $883,000.  Commissions increased by approximately
+$540,000 due to higher volumes of sales subject to commissions. 
+The provision for bad debts was $356,000 higher than the
+preceding year primarily relating to the write-off of one
+customer.  Salaries and other employee benefits decreased by
+$260,000.
+
+     Income from continuing operations increased by $2,418,000 to
+$14,630,000 in fiscal 1993.  The improved profitability was
+largely due to higher volume sales of alcohol products combined
+with increased price realizations, primarily of fuel alcohol
+sales.  While volume and price increases in vital wheat gluten
+and premium wheat starch occurred, increased raw material costs
+for wheat caused profitability of these products to decline. 
+Higher volumes in all products resulted in greater overall
+operational efficiency which improved profitability.
+
+     The consolidated effective income tax rate is consistent for
+the two fiscal years.
+
+     The general effects of inflation for fiscal 1993 were
+minimal.
+
+     The Company adopted two new accounting
+
+                  1994 ANNUAL REPORT
+                           22              
+<PAGE>7
+
+               MIDWEST GRAIN PRODUCTS, INC.
+       MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+               CONDITION AND RESULTS OF OPERATIONS
+
+
+pronouncements in fiscal 1993.  Statement of Financial Accounting
+Standards (SFAS) No. 106, "Employer's Accounting for
+Post-Retirement Benefits Other Than Pensions," requires the cost
+of these benefits to be charged to expense during the years that
+employees render service rather than on the cash basis previously
+used.  In addition to the initial recording of the cumulative
+effect of this accounting change as of July 1, 1992, the ongoing
+expense will also be higher than that charged in prior years
+under the previous method.  SFAS No. 109, "Accounting for Income
+Taxes," establishes financial accounting and reporting standards
+for the effects of income taxes.  The cumulative effect at July
+1, 1992 results from the recomputation of the deferred income tax
+liability at current rates for temporary differences between tax
+and financial reporting which were originated in periods of
+higher tax rates.
+
+     The effects of the activities of the discontinued operations
+and cumulative effects of the accounting changes combined with
+the Company's income from continuing operations to produce a net
+income of $16,236,000 for fiscal 1993, compared to $13,506,000
+for the preceding year.
+________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QUARTERLY FINANCIAL INFORMATION
+
+     Generally the Company's sales are not seasonal except for
+minor variations affecting beverage alcohol and gluten sales. 
+Beverage alcohol sales tend to peak in the fall as distributors
+order stocks for the holiday season, while gluten sales tend to
+increase during the second half on the fiscal year as demand
+increases for hot dog buns, and similar bakery products.  The
+following table shows quarterly information for each of the years
+ended June 30, 1994 and 1993. 
+
+<TABLE>
+<CAPTION>                                                            Quarter Ending
+                                               _________________________________________________          
+                                               Sept. 30      Dec. 31      March 31      June 30      Total 
+_______________________________________________________________________________________________________________
+                                                         (in thousands except per share amounts)
+<S>                                             <C>           <C>          <C>           <C>         <C>
+Fiscal 1994 
+  Sales                                         $39,162       $45,286       $50,652      $50,868     $185,968
+  Gross Profit                                    4,577         8,085        12,641       12,345       37,648
+  Net Income                                      1,093         3,187         6,084        5,487       15,851
+  Earnings per share                                .11           .33           .62          .56         1.62
+
+
+Fiscal 1993
+  Sales                                         $40,117       $41,993       $40,784      $40,532     $163,426
+  Gross Profit                                    7,717         8,861         8,232        8,065       32,875
+  Income from continuing operations               3,253         3,993         3,503        3,881       14,630
+  Income before cumulative change                 
+    in accounting principle                       3,543         5,368         3,503        3,881       16,295
+  Net Income                                      3,484         5,368         3,503        3,881       16,236
+  Earnings per share                              
+   Continuing operations                            .33           .41           .36          .40         1.50
+   Before cumulative change
+    in accounting principle                         .36           .55           .36          .40         1.67
+   Net Income                                       .35           .55           .36          .40         1.66
+_______________________________________________________________________________________________________________
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+                     1994 ANNUAL REPORT
+                             23              
+
+<PAGE>8
+                  MIDWEST GRAIN PRODUCTS, INC.
+         MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+               CONDITION AND RESULTS OF OPERATIONS
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+    The following table is presented as a measure of the
+Company's liquidity and financial condition:
+
+<TABLE>
+<CAPTION>                                                          At June 30,
+                                                   ________________________________________
+                                                            1994            1993
+___________________________________________________________________________________________
+                                                                (In Thousands)
+<S>                                                        <C>              <C>
+     Cash, cash equivalents and short-term investments     $ 4,171          $23,539
+     Long-term liquid investments                           14,504
+     Long-term debt (including current maturities)          25,000               50
+
+     Working capital                                        22,151           41,580      
+____________________________________________________________________________________________
+</TABLE>
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     Strong operations and the liquidation of net operating
+assets of McCormick caused the Company's cash and working capital
+positions to be higher than normal at June 30, 1993.  These
+amounts have since been reduced as expenditures for the
+distillery expansion in Pekin, as well as other capital
+improvement projects, have exceeded cash generated from operating
+activities.  Additionally, the Company has used $10.5 million of
+the $25 million borrowed to fund its expansion program. 
+Increased receivable and inventory levels due to volume increases
+have also reduced short-term liquidity.  In spite of these high
+cash requirements to fund growth, the Company continued paying
+dividends to stockholders at a consistent pace.
+
+     At June 30, 1994, the Company has amounts remaining to spend
+under capital improvements projects totaling approximately $22.3
+million.  As previously discussed, the distillery project at
+Pekin is proceeding on schedule toward a January, 1995
+completion.  Additionally, the gluten expansion and new wheat
+starch facilities at Pekin are expected to come on line in March,
+1995, which will increase gluten and starch capacities by 40% and
+70%, respectively.  Capital improvement projects in Atchison
+include expansions of the flour mill, wheat starch capacity and
+wastewater treatment plant.
+
+     In August, 1993, the Company borrowed $25 million through
+the issuance of unsecured fifteen-year senior notes bearing
+interest at 6.68%.  The proceeds from this borrowing have been
+invested in short-term investments and are fully available to
+finance the ongoing expenditures.  Additionally, the Company
+obtained an additional $20.0 million line of credit to go along
+with two already existing lines of credit totaling $5.0 million. 
+There were no borrowings on either line of credit at June 30,
+1994.
+
+     Midwest Grain Products believes the above borrowings,
+existing working capital and working capital generated from
+future operations will allow it to accomplish its plant expansion
+and expanded working capital needs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     1994 ANNUAL REPORT
+                            24              
+
+<PAGE>9
+
+                  MIDWEST GRAIN PRODUCTS, INC.   
+         
+                 Independent Accountants' Report
+
+Board of Directors and Stockholders
+Midwest Grain Products, Inc.
+Atchison, Kansas
+
+
+     We have audited the accompanying consolidated balance sheets
+of MIDWEST GRAIN PRODUCTS, INC. as of June 30, 1994 and 1993, and
+the related consolidated statements of income, stockholders'
+equity, and cash flows for each of the three years in the period
+ended June 30, 1994.  These financial statements are the
+responsibility of the Company's management.  Our responsibility
+is to express an opinion on these financial statements based on
+our audits.
+
+     We conducted our audits in accordance with generally
+accepted auditing standards.  Those standards require that we
+plan and perform the audit to obtain reasonable assurance about
+whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial
+statements.  An audit also includes assessing the accounting
+principles used and significant estimates made by management, as
+well as evaluating the overall financial statement presentation. 
+We believe that our audits provide a reasonable basis for our
+opinion.
+
+     In our opinion, the consolidated financial statements
+referred to above present fairly, in all material respects, the
+consolidated financial position of MIDWEST GRAIN PRODUCTS, INC.
+as of June 30, 1994 and 1993 and the results of its operation and
+its cash flows for each of the three years in the period ended
+June 30, 1994, in conformity with generally accepted accounting
+principles.
+
+     As discussed in Notes 6 and 9 to the consolidated financial
+statements, the Company changed its methods of accounting for
+income taxes and post-retirement benefits other than pensions,
+respectively, during fiscal 1993.
+
+
+                               /s/ Baird, Kurtz & Dobson
+                                   BAIRD, KURTZ & DOBSON
+
+
+Kansas City, Missouri
+August 11, 1994
+                     1994 ANNUAL REPORT
+                            25              
+
+<PAGE>10
+                  MIDWEST GRAIN PRODUCTS, INC.   
+         
+                       Financial Review
+
+<TABLE>
+<CAPTION>         Consolidated Statements of Income
+             Years Ended June 30, 1994, 1993, and 1992
+
+                                                                               1994         1993         1992  
+_______________________________________________________________________________________________________________
+                                                                       (In Thousands, Except Per Share Amounts)
+
+<S>                                                                          <C>          <C>          <C>
+NET SALES (Note 14)                                                          $185,968     $163,426     $155,794
+COST OF SALES                                                                 148,320      130,551      127,883
+_______________________________________________________________________________________________________________
+GROSS PROFIT                                                                   37,648       32,875       27,911
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES                                   12,212       10,677        9,794
+_______________________________________________________________________________________________________________
+                                                                               25,436       22,198       18,117
+
+OTHER OPERATING INCOME (EXPENSE)(Note 8)                                         (669)        (264)          17
+_______________________________________________________________________________________________________________
+INCOME FROM OPERATIONS                                                         24,767        21,934      18,134
+
+OTHER INCOME, NET                                                                 924         1,045       1,191
+
+INTEREST EXPENSE                                                                  127            71          93
+_______________________________________________________________________________________________________________
+INCOME FROM CONTINUING OPERATIONS
+  BEFORE INCOME TAXES                                                          25,564         22,908     19,232
+
+PROVISION FOR INCOME TAXES (Note 6)                                             9,713          8,278      7,020
+_______________________________________________________________________________________________________________
+INCOME FROM CONTINUING OPERATIONS                                              15,851         14,630     12,212
+
+DISCONTINUED OPERATIONS (Note 14)
+  Income from operations of McCormick Distilling
+    (less applicable income tax)                                                                 616      1,294
+  Gain on sale of certain assets of McCormick Distilling
+    (less applicable income tax of $604)                                                       1,049
+_______________________________________________________________________________________________________________
+INCOME BEFORE CUMULATIVE CHANGE
+  IN ACCOUNTING PRINCIPLE                                                                     16,295     13,506 
+
+CHANGE IN ACCOUNTING PRINCIPLE
+  Cumulative effect of change in method of accounting
+    for post-retirement benefits (net of income tax
+    benefit of $1,288) (Note 9)                                                               (2,241)
+  Cumulative effect of change in method of accounting
+    for income taxes (Note 6)                                                                  2,182
+_______________________________________________________________________________________________________________
+NET INCOME                                                                   $ 15,851       $ 16,236   $ 13,506
+===============================================================================================================
+EARNINGS PER COMMON SHARE
+  Continuing operations                                                         $1.62        $1.50        $1.25
+  Discontinued operations                                                                      .17          .13
+  Cumulative effect of changes in accounting principles                                       (.01)
+______________________________________________________________________________________________________________
+                                                                                $1.62        $1.66        $1.38
+===============================================================================================================
+ </TABLE>
+           See Notes to Consolidated Financial Statements
+
+                       1994 ANNUAL REPORT
+                              26
+
+<PAGE>11
+                  MIDWEST GRAIN PRODUCTS, INC.   
+         
+                       Financial Review
+
+<TABLE>
+<CAPTION>        Consolidated Balance Sheets
+                   June 30, 1994 and 1993
+                          Assets
+
+                                                                                   1994                  1993  
+_______________________________________________________________________________________________________________
+                                                                                         (In Thousands)
+<S>                                                                              <C>                   <C>
+CURRENT ASSETS
+  Cash and cash equivalents                                                       $ 3,832              $ 20,074
+  Short term investments                                                              339                 3,465
+  Receivables (less allowance for doubtful accounts:
+    1994-$25; 1993-$25)                                                            20,457                18,005
+  Notes receivable                                                                    814                   814
+  Inventories (Note 2)                                                             13,229                10,873
+  Prepaid expenses                                                                    576                   629
+  Deferred income taxes                                                               876                   548 
+_______________________________________________________________________________________________________________
+  Total Current Assets                                                             40,123                54,408
+_______________________________________________________________________________________________________________
+INVESTMENTS                                                                        14,504
+_______________________________________________________________________________________________________________
+LONG-TERM RECEIVABLES                                                                 961                 2,168
+_______________________________________________________________________________________________________________
+PROPERTY AND EQUIPMENT, At cost (Note 3)                                          182,446               135,761
+  Less accumulated depreciation                                                    69,888                65,666
+_______________________________________________________________________________________________________________
+PROPERTY AND EQUIPMENT, NET                                                       112,558                70,095
+_______________________________________________________________________________________________________________
+TOTAL ASSETS                                                                     $168,146              $126,671
+===============================================================================================================
+</TABLE>
+
+
+
+           See Notes to Consolidated Financial Statements
+
+                      1994 ANNUAL REPORT
+                             27
+
+<PAGE> 12
+                   MIDWEST GRAIN PRODUCTS, INC.   
+         
+                       Financial Review
+
+<TABLE>
+<CAPTION>        Consolidated Balance Sheets
+                 June 30, 1994 and 1993
+                                                                  
+              Liabilities and Stockholders' Equity
+
+                                                                                   1994                  1993  
+_______________________________________________________________________________________________________________
+                                                                                        (In    Thousands)
+<S>                                                                              <C>                 <C>
+CURRENT LIABILITIES
+  Current maturities of long-term debt                                                                  $    50
+  Accounts payable                                                               $  8,551                 5,742
+  Accrued expenses (Note 4)                                                         8,189                 6,797
+  Income taxes payable                                                              1,232                   239
+_______________________________________________________________________________________________________________
+    Total Current Liabilities                                                      17,972                12,828
+_______________________________________________________________________________________________________________
+LONG-TERM DEBT (Note 5)                                                            25,000                      
+_______________________________________________________________________________________________________________
+POST-RETIREMENT BENEFITS (Note 9)                                                   5,045                 4,267
+_______________________________________________________________________________________________________________
+DEFERRED INCOME TAXES (Note 6)                                                      5,956                 6,370
+_______________________________________________________________________________________________________________
+STOCKHOLDERS' EQUITY (Note 5)
+  Capital stock (Note 7)
+  Preferred, 5% non-cumulative, $10 par value;
+    authorized 1,000 shares; issued and outstanding 437 shares                          4                     4
+  Common, no par;
+    authorized 20,000,000 shares;
+    issued and outstanding 9,765,172                                                6,715                 6,715
+  Additional paid-in capital                                                        2,485                 2,485
+  Retained earnings                                                               104,969                94,002
+_______________________________________________________________________________________________________________
+TOTAL STOCKHOLDERS' EQUITY                                                        114,173               103,206
+_______________________________________________________________________________________________________________
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY                                       $168,146              $126,671
+===============================================================================================================
+</TABLE>
+          See Notes to Consolidated Financial Statements
+
+                       1994 ANNUAL REPORT
+                              28
+
+<PAGE>13
+                  MIDWEST GRAIN PRODUCTS, INC.
+                       
+                       FINANCIAL REVIEW
+
+<TABLE>                                                           
+<CAPTION>     Consolidated Statements of Stockholders' Equity
+                Years Ended June 30, 1994, 1993, and 1992
+                                                                            Additional
+                                                      Preferred   Common    Paid-in     Retained
+                                                        Stock     Stock     Capital     Earnings        Total
+_______________________________________________________________________________________________________________
+                                                                        (In Thousands)
+<S>                                                     <C>      <C>         <C>        <C>           <C>
+BALANCE, JUNE 30, 1991                                   $4      $6,715      $2,485      $73,782      $ 82,986
+  1992 net income                                                                         13,506        13,506
+  Payment of cash dividends
+    of $.48 per share                                                                     (4,639)       (4,639)
+_______________________________________________________________________________________________________________
+BALANCE, JUNE 30, 1992                                    4       6,715       2,485       82,649        91,853
+  1993 net income                                                                         16,236        16,236
+  Payment of cash dividends
+    of $.50 per share                                                                     (4,883)       (4,883)
+_______________________________________________________________________________________________________________
+BALANCE, JUNE 30, 1993                                    4       6,715       2,485       94,002       103,206
+  1994 net income                                                                         15,851        15,851
+  Payment of cash dividends
+    of $.50 per share                                                                     (4,884)       (4,884)
+_______________________________________________________________________________________________________________
+BALANCE, JUNE 30, 1994                                   $4      $6,715      $2,485     $104,969      $114,173
+===============================================================================================================
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        See Notes to Consolidated Financial Statements
+
+
+                 1994 ANNUAL REPORT
+                         29
+
+<PAGE>14
+                   MIDWEST GRAIN PRODUCTS, INC.
+                        FINANCIAL REVIEW
+<TABLE>
+<CAPTION>       CONSOLIDATED STATEMENTS OF CASH FLOWS
+              Years Ended June 30, 1994, 1993, and 1992
+                                                                               1994         1993         1992  
+_______________________________________________________________________________________________________________
+                                                                                       (In Thousands)
+<S>                                                                          <C>          <C>          <C>
+CASH FLOWS FROM OPERATING ACTIVITIES
+  Net Income                                                                 $15,851      $16,236      $13,506
+  Items not requiring (providing) cash
+    Depreciation                                                               7,160        6,201        7,236
+    Gain on sale of assets                                                      (513)      (1,119)        (325)
+    Deferred income taxes                                                       (742)        (677)        (731)
+    Change in accounting principles                                                            59
+  Changes in:
+    Accounts receivable                                                       (2,452)      (4,861)      (2,888)
+    Inventories                                                               (2,356)      (2,294)          71 
+    Prepaid expenses                                                              53         (107)        (280)
+    Accounts payable                                                            (111)      (1,699)       1,791 
+    Accrued expenses                                                             932        2,108        1,406 
+    Income taxes payable                                                         993       (1,087)        (483)
+  Discontinued operations                                                                  10,414        1,344  
+_______________________________________________________________________________________________________________
+        Net cash provided by operating activities                             18,815       23,174       20,647
+_______________________________________________________________________________________________________________
+CASH FLOWS FROM INVESTING ACTIVITIES
+  Additions to property and equipment                                        (45,690)     (12,190)     (15,020)
+  Proceeds from sale of equipment                                                738          150          516
+  Proceeds from sale of McCormick Distilling Company
+    net of cash acquired                                                       1,089        5,088        
+  Change in current and non current investments, net                         (11,260)      (2,465)      (1,000)
+_______________________________________________________________________________________________________________
+        Net cash used in investing activities                                (55,123)      (9,417)     (15,504)
+ ______________________________________________________________________________________________________________
+CASH FLOWS FROM FINANCING ACTIVITIES
+  Principal payment on long-term debt                                            (50)      (1,043)        (248)
+  Proceeds from issuance of long-term debt                                    25,000  
+  Dividends paid                                                              (4,884)      (4,883)      (4,557)
+_______________________________________________________________________________________________________________
+        Net cash provided by (used in) financing activities                   20,066       (5,926)      (4,805)
+_______________________________________________________________________________________________________________
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS                             (16,242)       7,831          338
+CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR                                  20,074       12,243       11,905
+_______________________________________________________________________________________________________________
+CASH AND CASH EQUIVALENTS, END OF YEAR                                      $  3,832      $20,074      $12,243
+===============================================================================================================
+</TABLE>
+     See Notes to Consolidated Financial Statements
+  
+              1994 ANNUAL REPORT
+                       30
+
+<PAGE>15
+          MIDWEST GRAIN PRODUCTS, INC. 
+  
+               Financial Review
+
+   Notes to Consolidated Financial Statements
+
+
+NOTE 1:  ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES
+
+     Organization.  The activities of Midwest Grain Products Inc.
+and its subsidiaries consist of production of vital wheat gluten,
+premium wheat starch, alcohol products and flour mill products. 
+The Company sells its products on normal credit terms to
+customers in a variety of industries located primarily throughout
+the United States.  Through its wholly-owned subsidiaries, the
+Company operates in Atchison, Kansas and Pekin, Illinois (Midwest
+Grain Products of Illinois, Inc.).  Additionally, Midwest Grain
+Pipeline, Inc. another wholly-owned subsidiary, supplies natural
+gas to the Company.
+
+     Principles of Consolidation.  The consolidated financial
+statements include the accounts of Midwest Grain Products, Inc.
+and all subsidiaries.  All significant intercompany balances and
+transactions have been eliminated in consolidation.
+ 
+    Inventories.  Inventories are stated at the lower of cost or
+market on the first-in, first-out (FIFO) method.
+
+     Property and Equipment.  Depreciation is computed using both
+straight-line and accelerated methods over the estimated useful
+lives of the assets.  The Company capitalizes interest costs as a
+component of construction in progress, based on the weighted
+average rates paid for long-term  borrowing.  Total interest
+incurred each year was:
+
+
+                                   Years Ended June 30,
+                                ---------------------------       
+                                1994       1993       1992
+                               ----------------------------
+                                     (In Thousands)
+
+Interest costs capitalized     $1,328
+Interest costs
+ charged to expense               127        $71        $93
+                               -----------------------------      
+                               $1,455        $71        $93       
+                               =============================
+
+
+     Earnings Per Common Share.  Earnings per common share data
+is based upon the weighted average number of shares totaling
+9,765,172 outstanding for each year.
+
+     Cash Equivalents.  The Company considers all liquid
+investments with maturities of three months or less to be cash
+equivalents and excludes unexpended funds included in investments
+intended for construction projects.
+
+     Investments.  Current and non-current investments consist
+primarily of money market funds and are valued at cost which
+approximates market.
+
+     Income Taxes.  Deferred tax liabilities and assets are
+recognized for the tax effect of the differences between the
+financial statement and tax basis of assets and liabilities.  A
+valuation allowance is established to reduce deferred tax assets
+if it is more likely than not that a deferred tax asset will not
+be realized.
+
+     Reclassification.  Certain reclassifications have been made
+to the 1993 financial statements to conform to the 1994
+presentation.  These changes had no effect on net income.
+
+
+NOTE 2:  INVENTORIES
+
+     Inventories consist of the following:
+
+                                       June 30,
+                                ______________________
+                                   1994         1993
+                                ______________________
+                                     (In Thousands)
+Whiskey, alcohol, and spirits    $ 3,798       $3,308
+Unprocessed grain                  5,248        4,543
+Operating supplies                 2,206        1,957
+Gluten                             1,460          661
+By-products and other                517          404
+                                ______________________
+                                 $13,229      $10,873
+                                ======================
+
+
+
+
+
+NOTE 3: PROPERTY AND EQUIPMENT
+
+     Property and equipment consists of the following:
+
+                1994 ANNUAL REPORT
+                       31
+
+<PAGE>16
+            MIDWEST GRAIN PRODUCTS, INC.
+                 FINANCIAL REVIEW
+
+    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+
+                                        June 30,
+                                ______________________
+                                   1994         1993
+                                ______________________
+                                    (In Thousands)
+Land, buildings and improvements  $16,890      $18,262
+Transportation equipment            7,239        3,354
+Machinery and equipment           105,804      102,263
+Construction in progress           52,513       11,882
+                                 ______________________
+                                  182,446      135,761
+Less accumulated depreciation      69,888       65,666
+                                ______________________
+                                 $112,558     $ 70,095
+                                ======================
+
+
+NOTE 4:  ACCRUED EXPENSES
+
+  Other accrued expenses consist of the following:
+
+                                       June 30,
+                                ______________________
+                                   1994         1993
+                                ______________________
+                                     (In Thousands)
+Excise taxes                      $  768       $1,392
+Employee benefit plans (Note 9)    2,098        1,404
+Salaries and wages                 1,354        1,378
+Dividends declared                 1,221        1,221
+Property taxes                       511          429
+Royalties                            441          429
+Payroll taxes                         48           14
+Insurance                          1,045          489
+Interest                             696
+Other expenses                         7           41
+                                ______________________
+                                  $8,189       $6,797
+                                ======================
+        
+
+
+
+
+
+
+NOTE 5: LONG-TERM DEBT
+
+  Long-term debt consists of the following:
+       
+
+                                       June 30,
+                                ______________________
+                                   1994         1993
+                                ______________________
+                                     (In Thousands)
+Senior notes payable             $25,000             
+Other                                            $50
+                                ______________________
+                                  25,000          50
+Less current maturities                           50
+                                ______________________
+  Long-term portion              $25,000         $ 0
+                                ======================
+             
+ 
+   The senior notes payable are payable in annual installments of
+$2,273,000 from 1999 through 2008 with the final principal
+payment of $2,270,000 due in 2009.  Interest is payable
+semi-annually at 6.68% per annum for the fifteen-year term of the
+notes.  In connection with the borrowing, the Company, among
+other covenants, is required to maintain certain financial
+ratios, including a minimum consolidated tangible net worth of
+$70,000,000.
+
+    At June 30, 1994, the Company had a formal revolving line of
+credit, with interest at prime minus 1%, amounting to $20.0
+million, and two additional lines of credit with interest at
+prime, amounting to $5.0 million.  There were no borrowings on
+any of the available lines.
+
+     The fair value of the senior notes payable debt, based upon
+the borrowing rate of 8.0% currently available to the Company at
+June 30, 1994, was $23,700,000.
+
+     Aggregate annual maturities of long-term debt at June 30,
+1994 are as follows:
+
+
+
+                                 (In Thousands)
+         1995                      $       0
+         1996                              0
+         1997                              0
+         1998                              0
+         1999                          2,273   
+         Thereafter                   22,727
+                                   _________
+                                   $  25,000
+                                   =========
+
+NOTE 6:  INCOME TAXES
+
+     Effective July 1, 1992, the Company elected early adoption
+of Statement of Financial Accounting Standards (SFAS) No. 109,
+Accounting for Income Taxes.  The cumulative effect at July 1,
+1992 included in the accompanying consolidated statements of
+income was a  $2,182,000 reduction in previously recorded
+deferred tax liabilities, or $.22 per share.  Prior years'
+financial statements have not been restated to apply the
+provision of SFAS No. 109. 
+
+     The provisions for income taxes is comprised of the
+following:
+        
+
+                               Years Ended June 30,
+                         ______________________________
+                           1994       1993       1992
+                         ______________________________
+                                 (In Thousands)
+Income taxes
+  currently payable      $10,455     $9,913     $8,496
+Income taxes deferred       (742)      (677)      (731)
+                         ______________________________
+                          $9,713     $9,236      $7,765
+                         ==============================
+
+
+                1994 ANNUAL REPORT
+                       32
+
+<PAGE> 17
+            MIDWEST GRAIN PRODUCTS, INC.
+                 FINANCIAL REVIEW
+
+    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     The income tax expense is reflected in the accompanying
+statements of income as follows:
+
+                                  Years Ended June 30,
+                             ____________________________
+                              1994       1993       1992
+                             ____________________________
+                                    (In Thousands)
+Continuing operations        $9,713     $8,278     $7,020
+Discontinued operations 
+  Income from operations                   354        745
+  Gain on disposal                         604
+                             ____________________________
+                             $9,713     $9,236     $7,765
+                             ============================
+
+     The tax effects of temporary differences related to deferred
+taxes shown on the consolidated balance sheets were as follows:
+
+
+                                          June 30,
+                                 __________________________
+
+                                   1994               1993
+                                 __________________________
+                                        (In Thousands)
+Deferred tax assets
+Accrued employee benefits        $  456            $    415
+  Post-retirement liability       2,007               1,565
+  Insurance accruals                415                 182
+  Other                             110                  68
+                                 __________________________
+                                  2,988               2,230
+                                 __________________________ 
+Deferred tax liabilities:
+  Accumulated depreciation       (7,564)             (7,520)
+  Deferred gain on
+    involuntary conversion         (504)               (532)
+                                 __________________________
+                                 (8,068)             (8,052)
+                                 __________________________
+Net deferred tax liability      $(5,080)            $(5,822)
+                                 ==========================
+
+
+     The above net deferred tax liability is presented on the
+consolidated balance sheets as follows:
+
+
+                                            June 30,
+                                    _________________________
+                                      1994               1993
+                                    _________________________
+                                         (In Thousands)
+Deferred tax asset - current        $   876          $    548
+Deferred tax liability - current     (5,956)           (6,370)
+                                    _________________________
+Net deferred tax liability          $(5,080)        $  (5,822)
+                                    =========================
+
+     No valuation allowance has been recorded at June 30, 1994 or
+1993.
+
+     During 1992, deferred income taxes were provided for timing
+differences in the recognition of revenue and expense for tax and
+financial purposes.  In 1992, the largest component of deferred
+taxes was an $8.5 million deferred tax liability resulting from
+depreciation.
+
+     A reconciliation of the provision for income taxes from
+continuing operations at the normal statutory federal rate to the
+provision included in the accompanying consolidated statements of
+income is shown below:
+
+                                     Years Ended June 30,
+                                 ____________________________
+                                   1994       1993       1992
+                                 ____________________________
+                                         (In Thousands)
+"Expected" provision at
+  Federal statutory rate (34%)   $8,694     $7,790     $6,539
+Increases (decreases) 
+  resulting from:
+    Effect of State
+      income taxes                  760        871        510
+    Other                           259       (383)      ( 29)
+                                 ____________________________
+Provision for income taxes       $9,713     $8,278     $7,020
+                                 ============================
+
+NOTE 7:  CAPITAL STOCK
+
+     The Common Stock is entitled to elect four out of the nine
+members of the Board of Directors of the Company, while the
+Preferred Stock is entitled to elect the remaining five
+directors.  Holders of Common Stock are not entitled to vote with
+respect to a merger, dissolution, lease, exchange or sale of
+substantially all of the Company's assets, or on an amendment to
+the Articles of Incorporation, unless such action would increase
+or decrease the authorized shares or par value of the Common or
+Preferred Stock, or change the powers, preferences or special
+rights of the Common or Preferred Stock so as to affect the
+holders of Common Stock adversely.
+
+NOTE 8: OTHER OPERATING INCOME (EXPENSE)
+
+    Other operating income (expense) consists of the following:
+
+                                  Years Ended June 30,
+                             ____________________________
+                               1994       1993       1992
+                             ____________________________
+                                    (In Thousands)
+Truck operations              $(88)      $(31)       $29 
+Warehousing and
+  storage operations          (632)      (328)       (75)
+Miscellaneous                   51         95         63
+                             ____________________________
+                             $(669)     $(264)       $17
+                             ============================
+
+                1994 ANNUAL REPORT
+                       33
+
+<PAGE>18
+            MIDWEST GRAIN PRODUCTS, INC.
+                 FINANCIAL REVIEW
+
+    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+          JUNE 30, 1994, 1993, and 1992
+
+
+NOTE 9:  EMPLOYEE BENEFIT PLANS
+
+     The Company has a noncontributory defined benefit pension
+plan covering union employees.  The plan provides benefits based
+on the participants' years of service.  The Company only
+contributes amounts deductible for federal income tax purposes.
+
+     Pension cost included the following components:
+
+
+                                   Years Ended June 30,
+                               ____________________________
+                                 1994       1993       1992
+                               ____________________________
+                                      (In Thousands)
+Service cost-benefits
+  earned during year           $   53     $   53      $  57 
+Interest cost on projected
+  benefit obligations             142        136        128 
+Actual investment income
+  earned on plan assets           (83)      (203)      (103)
+Amortization of transition
+  liability and difference
+  between actual and expected
+  return on plan assets           (28)       105         12 
+                                ____________________________
+Pension cost                    $  84      $  94        $94
+                                ============================
+
+     The funded status of the plan is as follows:
+
+                                           June 30,
+                                      __________________       
+                                        1994       1993           
+                                      __________________          
+   
+                                        (In Thousands)
+Accumulated benefit obligations
+  including vested benefits
+  of $1,976 and $1,938                $1,983      $1,955
+                                      ==================
+Plan assets at fair value             $1,727      $1,702
+Projected benefit obligations
+  for participants' service
+  rendered to date                     1,983       1,955
+                                      ______      ______
+Projected benefit obligations          
+  in excess of plan's assets            (256)       (253)
+Unrecognized gain (loss)                  21          (1)
+Unrecognized prior service cost           71          77
+Unrecognized net obligation at
+  July 1, 1987 being recognized
+  over the participants' average   
+  remaining service period               141         159
+Adjustment required to recognize
+  the minimum liability                 (233)       (235)
+                                       __________________
+Minimum pension liability              $(256)      $(253)
+                                       ==================
+
+     Plan assets are invested in cash equivalents, U.S.
+Government securities, corporate bonds, fixed income funds and
+common stocks.
+
+     The discount rate used in determining the actuarial resent
+value of the projected benefit obligation was 7.5%.  The expected
+long-term rate of return on the plan's assets was 8.0%.
+
+     The Company and its subsidiaries have employee stock
+ownership plans covering all eligible employees.  Discretionary
+contributions to the plans totaled $1,323,000, $1,163,000 and
+$1,193,000 for the years ended June 30, 1994, 1993 and 1992,
+respectively.  Contributions are made in the form of cash and/or
+additional shares of common stock.
+
+     The Company and its subsidiaries provide certain health care
+and life insurance benefits to existing retired employees. The
+liability for such benefits is unfunded.  The Company adopted the
+accounting provisions of the Statement of Financial Accounting
+Standards (SFAS) No. 106, "Employer's Accounting for
+Post-Retirement Benefits Other Than Pensions," during fiscal
+1993.  This standard requires that the expected cost of retiree
+health and life insurance benefits be charged to expense during
+the years that the employees render service rather than the
+Company's past practice of recognizing these costs on a cash
+basis.
+
+     The cumulative effect of this accounting change reduced net
+income for the year ended June 30, 1993 by approximately $2.2
+million ($3.5 million less related deferred income taxes of $1.3
+million), or $.23 per share.  The Company elected to record the
+transition obligation as a one-time charge against earnings
+rather than amortize it over a longer period.  If the 1993
+expense had been determined under the cash method previously
+used, the amount recognized would have been $187,000 before
+taxes. 
+
+                1994 ANNUAL REPORT
+                       34
+
+<PAGE>19
+
+            MIDWEST GRAIN PRODUCTS, INC.
+                 FINANCIAL REVIEW
+
+    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+     The status of the Company's plans at June 30, 1994 and 1993
+was as follows:
+
+                                          June 30,
+                                  _______________________       
+                                    1994          1993
+                                  _______________________
+                                      (In Thousands)
+Accumulated post-retirement
+  benefit obligation:
+    Retirees                      $2,854          $2,785
+    Active plan participants       2,645           2,059
+                                  _______________________
+    Unfunded accumulated
+      obligation                   5,499           4,844
+
+  Unrecognized actuarial                         
+      loss                          (454)           (577)
+                                  _______________________
+    Accrued post-retirement
+     benefit cost                 $5,045          $4,267
+                                  =======================
+
+
+     Net post-retirement benefit cost included the following
+components:
+
+                                         June 30,
+                                 ______________________       
+                                   1994          1993             
+                                 ______________________          
+
+                                      (In Thousands)
+Service cost                     $  153          $  115
+Interest cost                       388             420
+                                 ______________________
+Post-retirement benefit cost     $  541          $  535
+                                 ======================
+
+
+     The expense under the cash method previously used was
+$136,000 for fiscal 1992.
+
+     The weighted average annual assumed rate of increase in the
+per capita cost of covered benefits (i.e., health care cost trend
+rate) is assumed to be 13.5% (compared to 14.0% assumed for 1993)
+reducing to reducing to 11.0 % over five years and 6 % over 23
+years. A one percentage point increase in the assumed health care
+cost trend rate would have increased the accumulated benefit
+obligation by $480,000 at June 30, 1994 and the service and
+interest cost by $80,000 for the year then ended.
+
+     A weighted average discount rate of 8.0% was used in
+determining the accumulated benefit obligation.
+
+NOTE 10: MAJOR CUSTOMERS
+
+     During the years ended June 30, 1994, 1993 and 1992, the
+Company had sales to one customer accounting for approximately
+14.5 % 13.0 % and 14.5 %, respectively, of consolidated sales.
+
+NOTE 11:  OPERATING LEASES
+
+     The Company has several noncancellable operating leases for
+railcars which expire from January, 1995 through November, 2000. 
+The leases generally require the Company to pay all service costs
+associated with the railcars.  Rental payments include minimum
+rentals plus contingent amounts based on mileage.
+
+     Future minimum lease payments at June 30, 1994 are as
+follows:
+
+
+                                          (In Thousands)
+1995                                          $   697
+1996                                              651
+1997                                              596
+1998                                              501
+1999                                              262
+Thereafter                                         48
+                                            _________
+Future minimum lease payments               $   2,755
+                                            =========
+
+
+     Rental expense for all operating leases with terms longer
+than one month totaled $532,000, $136,000 and $166,000 for the
+years ended June 30, 1994, 1993 and 1992, respectively.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE 12:  ADDITIONAL CASH FLOW INFORMATION
+
+
+                                     Years Ended June 30,
+                              ______________________________
+                                1994       1993       1992
+                              ______________________________
+                                       (In Thousands)
+ Noncash Investing and
+  Financing Activities
+    Purchase of property and
+      equipment in accounts
+      payable                 $  3,931    $ 2,045    $   100
+    Notes received from
+      sale of subsidiary                    4,557
+    Dividends declared           1,221      1,221      1,221
+ Additional Cash Information
+  Interest paid                    127         67         93
+  Income taxes paid              9,460     10,648      8,354
+
+
+
+                1994 ANNUAL REPORT
+                       35
+
+
+<PAGE>20
+            MIDWEST GRAIN PRODUCTS, INC.
+                 FINANCIAL REVIEW
+
+    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 13:  CONTINGENCIES
+
+     There are various legal proceedings involving the Company
+and its subsidiaries.  Management considers that the aggregate
+liabilities, if any, arising from such actions would not have a
+material adverse effect on the consolidated financial position or
+operations of the Company.
+
+NOTE 14: SALE OF McCORMICK DISTILLING COMPANY
+
+     On December 31, 1992, the Company's wholly-owned subsidiary
+McCormick Distilling Company, sold its principal operating assets
+consisting of inventories, property and equipment, trademarks,
+patents and licenses, to MDC Acquisition Company (now known as
+McCormick Distilling Company), an independent business formed by
+a group of private investors.  The Company retained accounts
+receivable and assumed accounts payable while MDC assumed certain
+accrued liabilities, including excise taxes, of approximately
+$1.7 million.  In addition, the Company received cash of
+approximately $3.1 million, a $1.6 million 30-day note at prime
+and a three year note for approximately $3.0 million,
+collateralized by bulk whiskey, with interest payable at prime. 
+The sale resulted in a gain of $1.0 million after taxes of
+approximately $600,000.
+
+     The three year note receivable had a balance due of
+approximately $1.5 million at June 30, 1994 and is included in
+notes receivable in the consolidated balance sheet.
+
+     The disposal is being accounted for as a discontinued
+operation and, accordingly, its operating results are segregated
+and reported as discontinued operations in the accompanying
+consolidated statements of income.
+
+     Summarized results of operations of McCormick Distilling
+Company were as follows:
+
+
+                                    Years Ended June 30,
+                                 ________________________
+                                   1993            1992 
+                                 ________________________
+                                       (In Thousands)
+Results of Operations:
+  Net Sales:
+    Grain products sales         $ 13,167        $ 22,970   
+    Excise taxes                   26,133          52,542
+                                 ________________________
+                                   39,300          75,512
+  Income before
+    income taxes                      971           2,039
+  Provision for
+    income taxes                      355             745
+                                 ________________________
+  Income from
+    operations                    $   616        $  1,294
+                                 ========================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                1994 ANNUAL REPORT
+                       36
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>MIDWEST GRAIN PRODUCTS, INC. FDS
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED
+FROM MIDWEST GRAIN PRODUCTS, INC. CONSOLIDATED STATEMENT OF
+INCOME FOR THE YEAR ENDED JUNE 30, 1994 AND CONSOLIDATED BALANCE
+SHEET AS AT JUNE 30, 1994, AND IS QUALIFIED IN ITS ENTIRETY BY
+REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<CIK> 0000835011
+<NAME> MIDWEST GRAIN PRODUCTS, INC.
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1994
+<PERIOD-START>                              JUL-1-1993
+<PERIOD-END>                               JUN-30-1994
+<CASH>                                           3,832
+<SECURITIES>                                       339
+<RECEIVABLES>                                   20,482<F1>
+<ALLOWANCES>                                        25
+<INVENTORY>                                     13,229
+<CURRENT-ASSETS>                                40,123
+<PP&E>                                         182,446
+<DEPRECIATION>                                  69,888
+<TOTAL-ASSETS>                                 168,146
+<CURRENT-LIABILITIES>                           17,972
+<BONDS>                                         25,000
+<COMMON>                                         6,715
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          4
+<OTHER-SE>                                     107,454<F2>
+<TOTAL-LIABILITY-AND-EQUITY>                   168,146
+<SALES>                                        185,968
+<TOTAL-REVENUES>                               186,892
+<CGS>                                          148,320
+<TOTAL-COSTS>                                  148,320
+<OTHER-EXPENSES>                                   669
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                 127
+<INCOME-PRETAX>                                 25,564
+<INCOME-TAX>                                     9,713
+<INCOME-CONTINUING>                             15,851
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    15,851
+<EPS-PRIMARY>                                     1.62
+<EPS-DILUTED>                                     1.62
+<FN>
+<F1>Consists of trade receivables and does not include notes      
+    receivable. 
+<F2>Reflects retained earnings and additional paid in captial
+</FN>
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT INDEX
+<TEXT>
+
+<PAGE> 1
+                                                         Exhibit 99
+                            EXHIBIT INDEX
+
+     EXHIBIT                        
+     NUMBER                       DESCRIPTION
+    ---------                    -------------
+       3(a)   Articles of Incorporation of the Company            
+              (Incorporated by reference to Exhibit 3(a) of the   
+              Company's Registration Statement No. 33-24398 on    
+              Form S-1).
+
+       3(b)   Bylaws of the Company (Incorporated by reference to 
+              Exhibit 3(b) of the Company's Registration          
+              Statement No. 33-24398 on Form S-1).
+
+       4(a)   Copy of Note Agreement dated as of August 1, 1993,  
+              providing for the issuance and sale of $25 million  
+              of 6.68% term notes ("Term Notes", incorporated by  
+              reference to Exhibit 4.1 to the Company's Report on 
+              Form 10-Q for the quarter ended September 30,       
+              1993).
+
+       4(b)   Copy of Term Notes dated August 27, 1993            
+              (incorporated by reference to Exhibit 4.2 to the    
+              Company's Report on Form 10-Q for the quarter ended 
+              September 30, 1993).
+
+       9(a)   Copy of Cray Family Trust (Incorporated by          
+              reference to Exhibit 9(a) of the Company's          
+              Registration Statement No. 33-22600 on Form S-4).
+
+      10(a)   Summary of informal cash bonus plan (incorporated   
+              by reference to the summary contained in the        
+              Company's Proxy Statement dated September 12, 1994, 
+              which is incorporated by reference into Part III of 
+              this Form 10-K).
+
+     10(b)    Executive Stock Bonus Plan as amended June 15, 1992 
+              (incorporated by reference to Exhibit 10(b) to the  
+              Company's Form 10-K for the year ended June 30,     
+              1992).
+
+     10(c)    Information contained in the Midwest Grain          
+              Products, Inc. 1994 Annual Report to Stockholders   
+              that is incorporated herein by reference.
+
+
+
+
+
+
+
+
+
+<PAGE> 2
+
+        22    Subsidiaries of the Company other than              
+              insignificant subsidiaries:
+
+                                                     State of     
+                                                  Incorporation
+                Subsidiary                       or Organization
+                ----------                       ---------------
+    Midwest Solvents Company of Illinois, Inc.       Illinois
+    Midwest Grain Pipeline, Inc.                     Kansas
+    Midwest Grain Products of Illinois, Inc.         Illinois
+    Midwest Purchasing Company, Inc.                 Illinois
+
+        25    Powers of Attorney executed by all officers and     
+              directors of the Company who have signed this       
+              report on Form 10-K (incorporated by reference to   
+              the signature pages of this report).
+
+        27    Midwest Grain Products Financial Data Schedule as   
+              at June 30, 1994 and for the year then ended.  
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3023 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ gG1LfaEPlZbhHfwdyPlHzaHkl9eM5Hwk0/wFXagJGT0hqryyC88Or7QCwGN4lJ6b
+ LbtmrRZGkvWB+qKUCVthOA==
+
+<IMS-DOCUMENT>0000950131-94-001373.txt : 19940823
+<IMS-HEADER>0000950131-94-001373.hdr.sgml : 19940823
+ACCESSION NUMBER:		0000950131-94-001373
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	19940529
+FILED AS OF DATE:		19940819
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DEAN FOODS CO
+		CENTRAL INDEX KEY:			0000027500
+		STANDARD INDUSTRIAL CLASSIFICATION:	2020
+		IRS NUMBER:				360984820
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0527
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08262
+		FILM NUMBER:		94545022
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3600 N RIVER RD
+		CITY:			FRANKLIN PARK
+		STATE:			IL
+		ZIP:			60131
+		BUSINESS PHONE:		7086781680
+
+	MAIL ADDRESS:	
+		STREET 2:		3600 N RIVER RD
+		CITY:			FRANKLIN PARK
+		STATE:			IL
+		ZIP:			60131
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>
+ 
+- - --------------------------------------------------------------------------------
+- - --------------------------------------------------------------------------------
+ 
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+ 
+                                   FORM 10-K
+ 
+(MARK ONE)
+ 
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+    ACT OF 1934 [FEE REQUIRED]
+                     For the fiscal year ended May 29, 1994
+ 
+                                       OR
+ 
+[_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+    EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+ 
+                      For the transition period from  to
+ 
+                          COMMISSION FILE NO.: 0-1118
+ 
+                               DEAN FOODS COMPANY
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+ 
+                 DELAWARE                              36-0984820
+     (STATE OR OTHER JURISDICTION OF      (I.R.S. EMPLOYER IDENTIFICATION NO.)
+      INCORPORATION OR ORGANIZATION)
+ 
+    3600 N. RIVER ROAD, FRANKLIN PARK,                    60131
+                 ILLINOIS                              (ZIP CODE)
+    (ADDRESS OF PRINCIPAL EXECUTIVE
+                OFFICES)
+ 
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE (708) 678-1680
+ 
+     SECURITIES REGISTERED PURSUANT TO SECTIONS 12(B) AND 12(G) OF THE ACT:
+ 
+<TABLE>
+<CAPTION>
+                                                          NAME OF EACH EXCHANGE ON
+             TITLE OF EACH CLASS                              WHICH REGISTERED
+             -------------------                          ------------------------
+<S>                                            <C>
+     Common Stock, Par Value $1 Per Share                 New York Stock Exchange
+</TABLE>
+ 
+  Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes X  No
+ 
+  The number of shares of Common Stock, Par Value $1 Per Share, of the
+Registrant outstanding as of August 5, 1994 was 39,821,839. The aggregate
+market value of such outstanding shares on August 5, 1994 was $1.19 billion,
+based upon the closing price for the Common Stock on the New York Stock
+Exchange on such date.
+ 
+                      DOCUMENTS INCORPORATED BY REFERENCE
+ 
+  The following documents are incorporated herein by reference in the
+respective Parts hereof indicated:
+ 
+    1. Registrant's Annual Report to Shareholders for Fiscal Year Ended May
+       29, 1994 (referred to herein as the "Company's Fiscal 1994 Annual
+       Report"): Part I and Part II
+ 
+    2. Registrant's Proxy Statement for its Annual Meeting of Stockholders to
+       be held on October 4, 1994 (referred to herein as the "Company's 1994
+       Proxy Statement"): Part III
+ 
+- - --------------------------------------------------------------------------------
+- - --------------------------------------------------------------------------------
+<PAGE>
+ 
+                                     PART I
+ 
+ITEM 1. BUSINESS.
+ 
+  Dean Foods Company and its subsidiaries ("the Company") is engaged in the
+processing, purchase and distribution of dairy and specialty food products.
+ 
+  The Company's principal products are Dairy Products (fluid milk, specialty
+dairy products and ice cream) and Specialty Food Products (canned and frozen
+vegetables; pickles, relishes and specialty items; powdered products; and
+sauces, puddings and dips). A significant portion of the Company's products are
+sold under private labels. The Company also operates a trucking business
+hauling less-than-truckload freight, concentrating primarily on refrigerated
+and frozen cartage.
+ 
+  The predecessor to Dean Foods Company was incorporated in Illinois in 1925.
+Acquisitions have been an important factor in the Company's strategy. The
+Company does not have specific acquisition criteria, but generally focuses on
+food companies having a well-established reputation for quality products and
+service.
+ 
+  The Company has made 14 acquisitions in the last five years. During fiscal
+1994, the Company acquired Longlife Dairy Products of Jacksonville, Florida, an
+ultra-high temperature (UHT) processor of specialty dairy products, the Birds
+Eye frozen vegetable business and the Bennett's premium sauce line. During
+fiscal year 1993, the Company acquired W. B. Roddenbery Co., Inc. of Cairo,
+Georgia, a processor of pickles, peanut butter, boiled peanuts and syrups and
+acquired an East Coast replacement sour cream product line. In fiscal year
+1992, the Company acquired Meadow Brook Dairy Company, a dairy processor with
+plants in Pennsylvania and New York; and Frio Foods, Inc., a Texas frozen
+vegetable processor. In fiscal year 1991, the Company acquired a fluid milk and
+ice cream business located in Utah and Nevada operating as Cream o'Weber; Ready
+Food Products, Inc., a UHT processor of specialty dairy products; and Pilgrim
+Farms, Inc., an Indiana pickle processor. The Company, in fiscal year 1990,
+acquired Chas. F. Cates & Sons, Inc., a North Carolina pickle processor;
+Bellingham Frozen Foods, Inc., a Washington frozen vegetable processor;
+Mayfield Dairy Farms, Inc., a fluid milk and ice cream processor located in
+Tennessee; and the business and assets of Western Food Products, Inc., a pickle
+processor in LaJunta, Colorado. The results of operations of these
+acquisitions, from their respective dates of acquisition, have been included in
+the Company's results of operations.
+ 
+  With two exceptions, these companies, businesses and assets were acquired for
+cash, installment notes or a combination thereof. The Company in 1993 exchanged
+535,000 shares of its common stock for all the outstanding shares of W. B.
+Roddenbery Co., Inc. In 1990, the Company exchanged 865,000 shares of its
+common stock for all the outstanding shares of Chas. F. Cates & Sons, Inc.
+ 
+  Information regarding the Company's Dairy Products and Specialty Food
+Products business segments for the last three fiscal years is set forth in the
+Company's Fiscal 1994 Annual Report (Exhibit 13a hereto) at page 29 in the note
+to consolidated financial statements captioned "Business Segment Information".
+Such information, excluding the first sentence of such note, is hereby
+incorporated herein by reference.
+ 
+DAIRY PRODUCTS BUSINESS SEGMENT
+ 
+Fluid Milk and Specialty Dairy Products
+ 
+  The Company processes raw milk and other raw materials into fluid milk and
+specialty dairy products. Included in the fluid products category is
+homogenized, low-fat and skim milk plus buttermilk, chocolate milk and juice
+products. Specialty dairy products include cottage cheese, yogurt, portion
+ 
+                                       2
+<PAGE>
+ 
+control cream cheese and sour cream, all cultured fresh dairy products, and an
+assortment of UHT processed and aseptic packaged products. The specialty dairy
+UHT products include whipping creams, half and half, aerosol toppings, coffee
+creamers, flavored milks and lactose-reduced milks.
+ 
+  Fluid milk and fresh cultured specialty products are sold to grocery store
+chains, convenience stores, smaller retail grocery outlets, warehouse club
+stores, grocery warehouses and institutional customers in the Midwest and mid-
+Southern states, in parts of the Southwestern, Southeastern and Rocky Mountain
+states, parts of Pennsylvania and New York, and the Caribbean and Mexico.
+ 
+  In addition to the strong Dean brand in the Midwest and mid-South, fluid milk
+and fresh cultured specialty dairy products are sold in various areas under
+well-established labels such as Bell, Bowman, Creamland, Cream o'Weber,
+Fairmont, Fieldcrest, Gandy's, T. G. Lee, Mayfield, McArthur, Meadow Brook,
+Price's, Reiter, St. Thomas Dairies and Verifine. A substantial portion of the
+Company's fluid milk and specialty dairy products volume is sold under private
+labels.
+ 
+  Specialty UHT processed products produced and marketed by Ryan Milk Company,
+Ready Food Products, Inc. and Longlife Dairy Products are distributed
+nationwide under various branded and private labels.
+ 
+  The fluid milk and specialty dairy products business is extremely competitive
+and productivity is therefore very important. The Company continues to reinvest
+a substantial portion of its total capital budget in its dairy plants and
+distribution systems to maintain and improve efficiencies. Capital expenditure
+projects for 1994 included cooler expansions at its Evart, Michigan, Chemung,
+Illinois and Louisville, Kentucky dairy plants, corrugated caser and palletizer
+at its El Paso, Texas dairy plant, blowmold packaging equipment at its
+Rochester, Indiana dairy plant and construction of a dairy distribution and
+cooler facility in Greenville, North Carolina. Major capital projects during
+fiscal 1993 included completion of a cooler expansion at its Orlando, Florida
+dairy operations, additional processing capacity at its Sharpsville,
+Pennsylvania dairy plant, and additional processing equipment at the Company's
+Philadelphia, Pennsylvania UHT operation and at its Albuquerque, New Mexico
+dairy plant.
+ 
+  Capital expenditure projects for fiscal 1992 included the expansion of cold
+room capacity at the Company's Lubbock, Texas dairy operation; blowmold
+packaging equipment at the Company's Huntley, Illinois location; expansion of
+the cooler at its Orlando, Florida dairy operation; construction of a dairy
+distribution and cooler facility at Atlanta, Georgia; and addition of
+processing capacity at Murray, Kentucky and Philadelphia, Pennsylvania UHT
+operations. Major capital projects in fiscal 1991 included the additional
+processing and distribution equipment at the Company's Salt Lake City, Utah and
+Akron, Ohio dairy operation and office expansion at the Orlando, Florida dairy
+plant. Capital expenditures in fiscal 1990 included the addition of blowmold
+packaging equipment at several dairy operations and completion of a UHT plant
+renovation at Murray, Kentucky.
+ 
+  Sales of fluid milk to unaffiliated customers for the fiscal years 1994, 1993
+and 1992 were $1,077 million, $1,070 million and $1,044 million, respectively.
+Sales of specialty dairy products to unaffiliated customers for fiscal 1994,
+1993 and 1992 were $184 million, $168 million and $184 million, respectively.
+ 
+Ice Cream
+ 
+  The Company produces packaged and bulk ice cream products which are sold
+through supermarkets, convenience stores, smaller retail grocery outlets,
+restaurants and other foodservice users. The product line includes ice cream
+(regular, light, reduced fat, lowfat and non-fat), fruit sherbets, frozen
+yogurts, and novelties made with ice cream, sherbet and ices. These products
+are sold under a variety of regional brands and numerous private labels in the
+Midwest, Southwest, Florida, Georgia, South Carolina, Ohio, Tennessee,
+Wisconsin, the Caribbean and parts of the Rocky Mountain states
+ 
+                                       3
+<PAGE>
+ 
+under numerous well-established brands. Such brands include Dean, Country
+Charm, Gandy's, Creamland, Cream o'Weber, Bell, Price's, Fitzgerald, Mayfield,
+Fieldcrest, McArthur/T. G. Lee, Reiter, Verifine, Carnival and Calypso. Sales
+of ice cream products are substantially greater during the summer months than
+during the rest of the year.
+ 
+  Additionally, the Company produces and supplies Baskin-Robbins ice cream
+products in the midwest and southwest United States.
+ 
+  Major projects in 1994 included a stick novelty line, freezer expansion and
+new distribution facilities in Athens, Tennessee and new processing equipment
+in Akron, Ohio. Capital expenditure projects in fiscal 1992 included expansion
+of ice cream production capacity at the Company's Akron, Ohio operation. In
+fiscal 1991, additional processing equipment was installed at its Albuquerque,
+New Mexico ice cream plant.
+ 
+  Sales to unaffiliated customers for the fiscal years 1994, 1993 and 1992 were
+$208 million, $199 million, and $202 million, respectively.
+ 
+SPECIALTY FOOD PRODUCTS BUSINESS SEGMENT
+ 
+Canned and Frozen Vegetables
+ 
+  The Company processes and markets canned and frozen vegetables consisting of
+corn, peas, green beans, carrots, beets, spinach, peas and carrots, green lima
+beans and various mixed vegetable blends. Additional products in the frozen
+vegetable line include asparagus, broccoli, Brussels sprouts, cauliflower,
+fordhook lima beans, celery and vegetable blends with pasta and with rice. The
+processing and canning of fresh vegetables is seasonal in nature, with most of
+the canning activity in the Midwest occurring during and shortly after
+harvesting periods. The Company believes the geographic diversity of its plants
+and growing areas provides the ability to balance production. The packaging of
+processed frozen vegetables occurs year-round. As a result of the seasonal
+nature of the vegetable business, inventory levels vary significantly during
+the year.
+ 
+  Frozen vegetables account for approximately 60% of the total vegetable sales.
+Products are marketed under several brand names including Birds Eye, Veg-All,
+Freshlike, Larsen, Rancho Fiesta, and Shaw, as well as under customer brand
+names or in-house brands. The Company's Birds Eye vegetable brand is marketed
+in all markets throughout the United States. The Company's canned mixed
+vegetable, Veg-All, is marketed in all major and secondary markets throughout
+the United States, while Veg-All frozen and canned single vegetable items are
+marketed in the Southeast and the South. The Freshlike canned and frozen
+vegetable line is marketed primarily in the Midwest, Pennsylvania, West
+Virginia and Texas. Other vegetable products are marketed under private labels
+or in-house brands throughout the United States and exported to the Far East,
+Mid-East, Europe, Mexico, Canada and the Caribbean. Retail or consumer sizes
+are distributed for ultimate sales to consumers through chain and independent
+retail stores and include Company brands and buyers' brands of all products.
+Institutional customers, including hotels, restaurants, in-plant feeding
+programs, and schools are serviced through foodservice distributors with
+products packaged in larger containers.
+ 
+  Major capital projects in 1994 included the installation of a carrot
+processing line at Uvalde, Texas and an expansion of the office facilities in
+Green Bay, Wisconsin. Fiscal 1993 and 1992 capital expenditures included the
+construction of a waste water treatment facility at the Company's Bellingham,
+Washington location. Major capital expenditures in fiscal 1991 included
+expansion of the frozen vegetable processing capacity at the Company's
+Hartford, Michigan plant. Capital expenditures in fiscal 1990 included
+expansion of the Company's Darien, Wisconsin frozen vegetable processing
+facility and installation of freezer equipment at its Oxnard, California
+vegetable processing plant.
+ 
+ 
+                                       4
+<PAGE>
+ 
+  Sales to unaffiliated customers for fiscal years 1994, 1993 and 1992 were
+$415 million, $347 million and $364 million, respectively.
+ 
+Pickles, Relishes and Specialty Items
+ 
+  The Company is one of the largest pickle processors and marketers in the
+United States with sales nationwide. Pickles, relishes, pickled peppers and
+other assorted specialty items are sold under several brand names, including
+Roddenbery, Peter Piper, Heifetz, Pesta, Atkins, Whitfield, Aunt Jane's, Ma
+Brown, Tree, Rainbo, Cates and Dailey. Products are also sold for private label
+distribution to retail grocery store chains, wholesalers and the foodservice
+industry and in bulk to other food processors. Late in fiscal 1993 the Company
+acquired W. B. Roddenbery Co., Inc., located in Cairo, Georgia, a processor of
+pickles, peanut butter, boiled peanuts and syrups. During fiscal 1992 the
+Company's Green Bay Food Company became the exclusive U.S. marketer of green
+olives for a leading Spanish olive packer.
+ 
+  Fiscal 1994 capital expenditures included the construction of a new
+processing room at the Company's LaJunta, Colorado plant. Major capital
+expenditures in fiscal 1993 included installation of processing equipment at
+the Company's Plymouth, Indiana plant and construction of administrative office
+facilities at its Atkins, Arkansas location. In fiscal 1992, additional
+warehouse capacity was added at its Atkins, Arkansas location. Capital
+expenditures in fiscal 1991 included tank yard additions and packaging
+equipment at the Faison, North Carolina pickle processing plant.
+ 
+  The processing of pickle products is seasonal, dependent to a large extent
+upon the growing season of cucumbers in the summer months. Inventories are
+therefore higher in the fall and winter months than in the spring and early
+summer.
+ 
+  The Company markets a number of specialty sauces, including shrimp, seafood,
+tartar, horseradish, chili and sweet and sour sauces, in the Eastern,
+Midwestern and Southern United States to retail grocers.
+ 
+  Sales to unaffiliated customers for the fiscal years 1994, 1993 and 1992 were
+$353 million, $304 million, and $282 million, respectively.
+ 
+Powdered Products
+ 
+  Non-dairy coffee creamers are the Company's principal powdered products.
+Powdered premium and low-fat products are sold primarily under private labels
+to vending operators, office beverage service companies and institutional
+foodservice distributors with national distribution which supply restaurants,
+schools, health care institutions, hotels and vending and fast-food operations.
+Non-dairy creamers are also sold for private label distribution to all classes
+of the retail trade and sold in bulk to a number of other food companies for
+use as an ingredient in their food products. Powdered products are also sold to
+international customers in Australia, Canada, the Far East, Mexico, South
+America, Europe and the Middle East. The Company's non-dairy coffee creamers
+are an economical and convenient substitute for milk and cream. They require no
+refrigeration and have long shelf lives.
+ 
+  The Company provides stabilizers for low-fat shake and frozen yogurt mixes
+supplied to McDonald's restaurants throughout the United States and, through an
+affiliate, the Company supplies the United Kingdom, Continental Europe and
+other foreign markets with stabilizers and other dry ingredients.
+ 
+  The Company's powdered products are sold in a broad variety of product
+formulations and package sizes. No major capital expenditures were required
+during the past five years.
+ 
+ 
+                                       5
+<PAGE>
+ 
+  Sales to unaffiliated customers for the fiscal years 1994, 1993 and 1992 were
+$100 million, $88 million, and $82 million, respectively.
+ 
+Sauces, Puddings and Dips
+ 
+  The Company's aseptic products primarily include ready-to-serve natural
+cheese sauces, puddings and other specialty sauces which are sterilized under a
+process which allows storage for prolonged periods without refrigeration.
+Aseptic products are sold nationwide, primarily under private labels to
+distributors which supply restaurants, schools, hotels and other segments of
+the foodservice industry. Major capital expenditures in 1994 include the
+beginning of a multi-phase project to significantly upgrade the Dixon, Illinois
+facility with the completion of a new batch make-up room.
+ 
+  The Company manufactures vegetable-fat-based party dips, low-fat sour cream
+and sour cream replacements at its Rockford, Illinois facility. These products
+are sold nationally, but primarily east of the Rockies, under the Dean's, King
+and private label brands in supermarkets and other retail outlets through
+distributor or direct warehouse delivery.
+ 
+  Sales to unaffiliated customers for the fiscal years 1994, 1993 and 1992 were
+$69 million, $67 million and $61 million, respectively.
+ 
+Corporate and Other
+ 
+  DFC Transportation Company, a trucking subsidiary of the Company, operates
+nationwide with a fleet of approximately 74 tractors and 167 trailers,
+providing less-than-truckload refrigerated and frozen cartage service. The
+majority of its revenues are derived from refrigerated freight. Its customers
+include food and industrial companies. A significant portion of its revenues
+are derived from the brokerage of various types of freight. During the fourth
+quarter of 1992, the Company decided to terminate operation of the refrigerated
+truckload transportation portion of its trucking business and an appropriate
+charge to earnings was provided for the costs associated with such termination.
+ 
+  Revenues for the trucking division from unaffiliated customers in fiscal
+years 1994, 1993 and 1992 were $20 million, $21 million and $45 million,
+respectively. Revenues relating to hauling products for other divisions and
+subsidiaries of the Company have been eliminated.
+ 
+  Also included in Corporate and Other are sales of canned meats processed
+under bid contracts with the federal government. Such sales vary greatly from
+year to year because of the nature of the federal government's procurement
+practices. Margins are small since these contracts are taken primarily to
+absorb overhead of the Company's canning operation during seasonally idle
+periods of production. Sales in fiscal years 1994, 1993 and 1992 were $5
+million, $10 million and $24 million, respectively.
+ 
+RAW MATERIALS AND SUPPLIES
+ 
+  The Company's business is dependent upon obtaining adequate supplies of raw
+and processed agricultural products. Historically, the Company has been able to
+obtain adequate supplies of agricultural products.
+ 
+  Raw milk and other agricultural products are generally purchased directly
+from farmers and farm cooperatives. The Company does not have long-term
+purchase contracts for agricultural products. The price of raw milk is
+extensively regulated. In fiscal 1994, raw milk costs exceeded last year's
+levels during the first quarter, fell in the second quarter and then increased
+significantly during the last half of
+ 
+                                       6
+<PAGE>
+ 
+the year, remaining higher than fiscal 1993 levels. Raw milk costs rose
+slightly during the first part of fiscal 1993, declining somewhat during the
+latter part of the year as costs were moderately higher than fiscal 1992 cost
+levels. The cost of raw milk rose steadily during the first nine months of
+fiscal 1992 declining slightly in the fourth quarter, but still remained higher
+than the 1991 cost levels.
+ 
+  The Company produces most of its plastic gallon and half-gallon container
+requirements for its fluid milk business. Can requirements for canned
+vegetables are primarily furnished by three can manufacturers, and glass
+containers for pickles and related products are purchased from two main
+suppliers, as required, at competitive prices.
+ 
+  Certain commodities, such as corn syrups, vegetable oils, sugar and casein,
+and various packaging supplies are purchased from numerous sources on a normal
+purchase order basis, with vegetables and cucumbers purchased under seasonal
+grower contracts. The Company is not dependent upon any single supplier and is
+confident that any lost supplier requirements could be replaced in the ordinary
+course of business.
+ 
+  In its vegetable and pickle operations, the Company supplies seed to and
+advises growers regarding planting techniques, monitors and arranges for the
+control of insects, directs the harvest, and, for some crops, provides
+automated harvesting service. Vegetable supplies are largely dependent on
+regional weather and growing conditions. Weather-related crop shortages and
+harvest delays in the midwest growing region resulted in higher fiscal 1994
+profit margins in the Company's vegetable businesses. Excessive industry-wide
+inventories of certain vegetables during fiscal years 1993 and 1992 resulted in
+decreased profit margins. Short supplies of certain vegetables during fiscal
+1989 and 1990, the result of the 1988 Midwest drought, required purchases of
+frozen vegetables from other domestic and foreign sources to minimize loss of
+vegetable sales volume. The prices for raw cucumbers have been relatively
+stable over the last three years.
+ 
+DISTRIBUTION
+ 
+  Dairy Products are principally delivered to grocery chain stores or
+warehouses directly from the Company's processing plants by the Company, in
+trucks which it owns or leases, and by independent distributors. In certain
+states, products are also delivered to the Company's distribution branches from
+which distribution is then made to customers. The Company has continued its
+efforts to streamline its distribution system for Dairy Products. Major
+economies have been effected in recent years through consolidation of
+distribution branches and routes, with emphasis on direct truck delivery to
+retail stores and warehouses of grocery chains. The Company's Specialty Food
+Products are delivered to warehouses and food distributors by the Company's
+fleet of trucks and outside freight carriers. Inventories of canned and frozen
+vegetables are maintained by the Company in warehouses throughout the country
+in order to maintain a ready supply for rapid delivery to local retailers.
+ 
+COMPETITION
+ 
+  The Company's business is highly price competitive with relatively low
+operating margins. Quality and customer service are important factors in
+securing and maintaining business. The Company's Dairy Products business
+operates in a number of different geographical markets, competing in some
+against national companies and in others against regional or local companies.
+In certain markets, some supermarket chain stores have their own dairy products
+processing plants. Generally, in each major market and product class there are
+a number of competitors, some of which have greater sales and assets than the
+Company. The Company's Specialty Food Products are marketed nationwide and
+internationally. The degree of penetration and competitive conditions in each
+market varies, but the Company does not consider that it has any material
+competitive advantage in any of its major markets or product classes.
+ 
+                                       7
+<PAGE>
+ 
+EMPLOYEES
+ 
+  The Company has approximately 12,100 full-time employees, of whom
+approximately 4,200 are represented by the International Brotherhood of
+Teamsters and other unions under thirty-nine collective bargaining agreements.
+Twelve of these agreements expire during fiscal 1995. These include agreements
+with employees at Sheboygan, Wisconsin; El Paso, Texas; Sharpsville,
+Pennsylvania; Huntley, Chemung, Franklin Park, Belvidere and Rockford, Illinois
+dairy products plants and Pecatonica, Illinois; Green Bay, Wisconsin; Eaton
+Rapids, Michigan and Watsonville, California specialty food products plants.
+Generally, the Company considers its employee relations to be good.
+ 
+  The Company has approximately 8,400 seasonal positions at its vegetable
+operations and its pickle processing plants, principally during the summer
+months. The Company has been successful in meeting its seasonal employment
+needs, as many such employees return annually to fill these positions.
+ 
+ENVIRONMENT
+ 
+  The Company's compliance with Federal, State and local regulations relating
+to the discharge of material into the environment or otherwise relating to the
+protection of the environment has not had a material effect on the Company's
+capital expenditures, earnings or competitive position. The Company continues
+to give considerable attention to the impact or potential impact of its
+operations on the environment.
+ 
+ITEM 2. PROPERTIES.
+ 
+  The Company owns fifty-four of its processing plants (six of which are
+subject to mortgage) and leases the other four under leases expiring from
+fiscal 1995 through fiscal 2011. The Company has various distribution branches
+and storage warehouses located throughout the country, some of which are owned
+and some leased. The Company considers its properties suitable and adequate for
+the conduct of its business. A number of the vegetable canning production
+facilities are operated only during the vegetable intake season. All other
+production facilities are principally operated at or near capacity levels, but
+generally on the basis of fewer than three shifts per day.
+ 
+  Further information relating to the Company's leases is contained in the note
+to consolidated financial statements captioned "Leases" appearing in the
+Company's Fiscal 1994 Annual Report (Exhibit 13a hereto) on page 28. Such
+information is hereby incorporated herein by reference.
+ 
+                                       8
+<PAGE>
+ 
+  The locations of the Company's processing facilities, by product category
+within business segments, are set forth below:
+ 
+                                 DAIRY PRODUCTS
+ 
+Fluid Milk and Specialty Dairy
+  Jacksonville, Florida                   Barberton, Ohio
+  Miami, Florida                          Springfield, Ohio
+  Orange City, Florida                    Belleville, Pennsylvania
+  Orlando, Florida                        Erie, Pennsylvania
+  Chemung, Illinois                       Philadelphia, Pennsylvania
+  Huntley, Illinois                       Sharpsville, Pennsylvania
+  Rockford, Illinois                      Athens, Tennessee
+  Rochester, Indiana                      El Paso, Texas
+  Louisville, Kentucky                    Lubbock, Texas
+  Murray, Kentucky                        San Angelo, Texas
+  Evart, Michigan                         Salt Lake City, Utah
+  Albuquerque, New Mexico                 St. Thomas, Virgin Islands
+  Cuba, New York                          Sheboygan, Wisconsin
+ 
+Ice Cream
+  Ft. Lauderdale, Florida                 Athens, Tennessee
+  Belvidere, Illinois                     Lubbock, Texas
+  Albuquerque, New Mexico                 St. Thomas, Virgin Islands
+  Barberton, Ohio
+ 
+                            SPECIALTY FOOD PRODUCTS
+ 
+Canned and Frozen Vegetables
+  Oxnard, California                      Brillion, Wisconsin
+  Watsonville, California                 Cambria, Wisconsin
+  Hartford, Michigan                      Cedar Grove, Wisconsin
+  Arlington, Minnesota                    Darien, Wisconsin
+  Waseca, Minnesota                       Fairwater, Wisconsin
+  Fulton, New York                        Fort Atkinson, Wisconsin
+  Uvalde, Texas                           Green Bay, Wisconsin
+  Bellingham, Washington                  Hortonville, Wisconsin
+  Bloomer, Wisconsin                      Celaya, Mexico
+ 
+Pickles, Relishes and Specialty Items
+  Atkins, Arkansas                        Plymouth, Indiana
+  LaJunta, Colorado                       Croswell, Michigan
+  Sanford, Florida                        Faison, North Carolina
+  Cairo, Georgia                          Green Bay, Wisconsin
+ 
+Powdered Products
+  Pecatonica, Illinois                    Wayland, Michigan
+  Rockford, Illinois
+ 
+Sauces, Puddings and Dips
+ Dixon, Illinois                          Rockford, Illinois
+ 
+ 
+                                       9
+<PAGE>
+ 
+  Distribution branches for Dairy Products are located in New Mexico, Texas,
+Florida, Ohio, Tennessee, New York, Georgia, Pennsylvania, South Carolina,
+Virginia, Illinois and Wisconsin.
+ 
+  Specialty Food Products distribution warehouses are maintained in Wisconsin
+and Michigan with public warehouses utilized throughout the United States for
+further distribution of vegetable products. The Company maintains powdered
+product distribution branches in Illinois, Texas and Utah. One Company-owned
+transportation terminal and maintenance facility is located in Illinois.
+ 
+ITEM 3. LEGAL PROCEEDINGS.
+ 
+  Information on legal proceedings is contained in the Company's Fiscal 1994
+Annual Report (Exhibit 13a hereto) on page 29 in the note to consolidated
+financial statements captioned "Commitments and Contingent Liabilities". Such
+information is hereby incorporated herein by reference.
+ 
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+ 
+  No matter was submitted to a vote of security holders, through the
+solicitation of proxies or otherwise, during the fourth quarter of the fiscal
+year ended May 29, 1994.
+ 
+EXECUTIVE OFFICERS OF THE REGISTRANT.
+ 
+  Information regarding the Company's executive officers is set forth in Item
+10 of Part III of this Report.
+ 
+                                       10
+<PAGE>
+ 
+                                    PART II
+ 
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+ 
+  The Company's Common Stock is traded on the New York Stock Exchange under the
+ticker symbol DF. The range of Common Stock sales prices for each of the
+quarters during the past two fiscal years (as reported by the New York Stock
+Exchange) and the frequency and amount of Common Stock dividends declared the
+past two fiscal years are set forth under the caption "Quarterly Financial
+Data" at page 30 of the Company's Fiscal 1994 Annual Report (Exhibit 13a
+hereto) in the rows captioned "Stock Price Range" and "Dividend Rate". Such
+rows and the column and row captions related thereto are hereby incorporated
+herein by reference.
+ 
+  The approximate number of holders of record of the Company's Common Stock on
+August 5, 1994, was 8,988.
+ 
+  Restrictions on the Company's ability to pay dividends on its Common Stock
+are described in the first paragraph of the "Borrowing Arrangements" note to
+the consolidated financial statements at page 25 of the Company's Fiscal 1994
+Annual Report (Exhibit 13a hereto), which paragraph is hereby incorporated
+herein by reference.
+ 
+ITEM 6. SELECTED FINANCIAL DATA.
+ 
+  Selected financial data for each of the Company's last five fiscal years is
+set forth at page 31 of the Company's Fiscal 1994 Annual Report (Exhibit 13a
+hereto) under the caption "Summary of Operations". Such selected financial data
+is hereby incorporated herein by reference.
+ 
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+      OF OPERATIONS.
+ 
+  A discussion of the Company's financial condition, cash flows and results of
+operations, including information with respect to liquidity and capital
+resources, is set forth at pages 16 through 20 of the Company's Fiscal 1994
+Annual Report (Exhibit 13a hereto) under the caption "Financial Review", which
+discussion is hereby incorporated herein by reference.
+ 
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+ 
+  The Company's consolidated balance sheets as of May 29, 1994 and May 30,
+1993, and related consolidated statements of income, of shareholders' equity
+and of cash flows for each of the three fiscal years in the period ended May
+29, 1994, and the notes thereto, together with the report thereon of
+independent accountants, are set forth on pages 21 through 30 of the Company's
+Fiscal 1994 Annual Report (Exhibit 13a hereto).
+ 
+  Such financial statements and the report thereon of independent accountants
+are hereby incorporated herein by reference.
+ 
+  Financial data for each quarter within the two most recent fiscal years is
+set forth under the caption "Quarterly Financial Data" at page 30 of the
+Company's Fiscal 1994 Annual Report (Exhibit 13a hereto) in the rows captioned
+"Net Sales", "Gross Profit", "Net Income" and "Per Common Share Data: Net
+Income". Such rows and row captions related thereto are hereby incorporated
+herein by reference.
+ 
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+      FINANCIAL DISCLOSURE.
+ 
+  None
+ 
+                                       11
+<PAGE>
+ 
+                                    PART III
+ 
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+ 
+  Information regarding the Company's directors (including nominees for
+election at the Company's Annual Meeting of Stockholders to be held October 4,
+1994) is set forth at pages 1 through 6 of the Company's 1994 Proxy Statement
+under the captions "ELECTION OF DIRECTORS" and "CERTAIN INFORMATION REGARDING
+THE BOARD OF DIRECTORS". Such information is hereby incorporated herein by
+reference.
+ 
+  Information supplied by the Company's executive officers who are not also
+directors of the Company concerning their ages, business experiences, and
+periods of service as executive officers is as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                     SERVED IN
+                                           POSITION WITH           SUCH POSITION
+                                            THE COMPANY        AGE     SINCE
+                                           -------------       --- -------------
+<S>                                   <C>                      <C> <C>
+Eric A. Blanchard.................... Vice President,          38      1993
+                                      Secretary and
+                                      General Counsel
+Timothy J. Bondy..................... Vice President           44      1989
+                                      Finance
+Gary A. Corbett...................... Vice President           46      1993
+                                      Governmental and
+                                      Dairy Industry Relations
+Gary D. Flickinger................... Vice President           52      1993
+                                      Production
+Daniel E. Green...................... Group Vice President     49      1992
+                                      Specialty Dairy Division
+James R. Greisinger.................. Group Vice President     53      1992
+                                      and President of Dean
+                                      Pickle and Specialty
+                                      Products Company
+Dale I. Hecox........................ Treasurer                 62     1985
+George A. Muck....................... Vice President           56      1970
+                                      Research & Development
+Douglas A. Parr...................... Vice President           52      1993
+                                      Sales & Marketing--
+                                      Milk and Ice Cream
+Dennis J. Purcell.................... Vice President           51      1993
+                                      Sales--National Accounts
+Roger A. Ragland..................... Vice President           60      1993
+                                      Sales and Marketing
+                                      Food Products
+Jeffrey P. Shaw...................... Group Vice President     37      1992
+                                      and President of Dean
+                                      Foods Vegetable Company
+Terrence J. Smith.................... Vice President           62      1974
+                                      Industrial Relations
+</TABLE>
+ 
+                                       12
+<PAGE>
+ 
+  Each of the executive officers, including executive officers who are also
+directors, was elected to serve as an executive officer until the next annual
+meeting of directors, scheduled for October 4, 1994.
+ 
+  Messrs. Blanchard, Green, Greisinger, Purcell, Ragland and Shaw have been
+employees of the Company for more than five years. Prior to assuming their
+current positions, Mr. Blanchard was the Company's secretary and general
+counsel; Mr. Green was the Company's Vice President, Corporate planning and
+development and previously held positions of a marketing executive, divisional
+general manager and the Company's Director of Research; Mr. Greisinger was a
+Company Vice President and President of Green Bay Food Company; Mr. Purcell was
+Senior Vice President of Sales and Marketing of Green Bay Food Company; and Mr.
+Ragland was a divisional sales vice president. Mr. Corbett has been employed by
+the Company since 1990. Prior to assuming his present duties, Mr. Corbett was
+in the Company's sales administration management. Mr. Corbett prior to his
+Company employment was an executive at Swiss Valley Farms Co., an Iowa
+cooperative dairy processor. Mr. Parr has been employed by the Company since
+1992. Prior to assuming his present duties he was a Company regional sales
+manager. Mr. Parr, prior to his employment by the Company, was the Vice
+President--Western Zone Dairy Group of Borden, Inc., a diversified food and
+dairy company. Prior to assuming his present duties, Mr. Shaw was President of
+the Company's Richard A. Shaw, Inc. subsidiary, which was subsequently merged
+into Dean Foods Vegetable Company.
+ 
+ITEM 11. EXECUTIVE COMPENSATION.
+ 
+  Information regarding the cash compensation of the Company's executive
+officers, compensation pursuant to plans and compensation of the Company's
+directors (including nominees for election at the Company's Annual Meeting of
+stockholders to be held October 4, 1994) is set forth in the Company's 1994
+Proxy Statement at pages 5 through 6 under the caption "CERTAIN INFORMATION
+REGARDING THE BOARD OF DIRECTORS" and at pages 6 through 15 under the caption
+"EXECUTIVE COMPENSATION." Such information is hereby incorporated herein by
+reference.
+ 
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+ 
+  Information regarding security ownership of certain beneficial owners and
+management is set forth in the Company's 1994 Proxy Statement at pages 16 and
+17 under the caption "PRINCIPAL HOLDERS OF VOTING SECURITIES". Such information
+is hereby incorporated herein by reference.
+ 
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+ 
+  Information regarding certain transactions is set forth in the Company's 1994
+Proxy Statement at page 15 under the caption "CERTAIN TRANSACTIONS." Such
+information is hereby incorporated herein by reference.
+ 
+                                       13
+<PAGE>
+ 
+                                    PART IV
+ 
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+ 
+  (a) The following documents are filed as a part of this Report. The page
+number, if any, listed opposite a document indicates the page number in the
+sequential numbering system in the manually signed original of this Report
+where such document can be found.
+ 
+<TABLE>
+<CAPTION>
+                                                                          PAGE
+                                                                           NO.
+                                                                          -----
+   <C>  <S>                                                               <C>
+   (1)  Financial Statements
+        The consolidated balance sheets at May 29, 1994 and May 30,
+        1993, the related consolidated statements of income, of share-
+        holders' equity and of cash flows for each of the three fiscal
+        years in the period ended May 29, 1994, and the notes thereto,
+        together with the report thereon of Price Waterhouse dated June
+        29, 1994, as incorporated by reference in Part II, Item 8 of
+        this Report.
+   (2)  Financial Statement Schedules
+        Report of independent accountants on financial statement sched-    16
+        ules
+        Schedule V--Property, plant and equipment                          17
+        Schedule VI--Accumulated depreciation of property, plant and       18
+        equipment
+        Schedule VIII--Valuation and qualifying accounts                   19
+        Schedule X--Supplemental income statement information              20
+        All other schedules have been omitted because they are not ap-
+        plicable, or not required, or because the required information
+        is shown in the consolidated financial statements or notes
+        thereto.
+        Separate financial statements of the Registrant have been omit-
+        ted since the Registrant is primarily an operating company and
+        all subsidiaries included in the consolidated financial state-
+        ments, in the aggregate, do not have minority equity interest
+        and/or indebtedness to any person other than the Registrant or
+        its consolidated subsidiaries in amounts which together exceed
+        5% of total consolidated assets at May 29,1994, except for in-
+        debtedness incurred in the ordinary course of business which is
+        not overdue and which matures within one year from the date of
+        its creation.
+   (3)  Exhibits
+        See Exhibit Index..............................................   21-22
+</TABLE>
+ 
+  (b) Reports on Form 8-K.
+ 
+    Registrant filed a Current Report on Form 8-K, dated June 20, 1994, in
+    respect of Registrant's press release dated June 10, 1994, announcing
+    that the Board of Directors of Curtice-Burns Foods, Inc., Rochester,
+    New York (Curtice-Burns), voted to pursue a proposal whereby the
+    Registrant would acquire all of the outstanding stock of Curtice-Burns
+    for $20 per share, subject to the resolution of a number of specified
+    contingencies, (Item 5).
+ 
+                                       14
+<PAGE>
+ 
+                                   SIGNATURES
+ 
+  PURSUANT TO THE REQUIREMENTS OF SECTION 13 OR 15(D) OF THE SECURITIES
+EXCHANGE ACT OF 1934, THE REGISTRANT HAS DULY CAUSED THIS REPORT TO BE SIGNED
+ON ITS BEHALF BY THE UNDERSIGNED, THEREUNTO DULY AUTHORIZED.
+ 
+                                          Dean Foods Company
+ 
+                                                      Thomas L. Rose
+                                          By: _________________________________
+                                                      Thomas L. Rose
+                                              (President and Chief Operating
+                                                         Officer)
+ 
+Date: August 19, 1994
+ 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated:
+ 
+<TABLE>
+<CAPTION>
+             SIGNATURE                           TITLE                    DATE
+             ---------                           -----                    ----
+ 
+ 
+<S>                                  <C>                           <C>
+           Howard M. Dean            Chairman of the Board and      August 19, 1994
+____________________________________   Director
+           Howard M. Dean
+ 
+          Lewis M. Collens           Director                       August 19, 1994
+____________________________________
+          Lewis M. Collens
+ 
+           Paula H. Crown            Director                       August 19, 1994
+____________________________________
+           Paula H. Crown
+ 
+         William D. Fischer          Director                       August 19, 1994
+____________________________________
+         William D. Fischer
+ 
+        John P. Frazee, Jr.          Director                       August 19, 1994
+____________________________________
+        John P. Frazee, Jr.
+ 
+            Bert A. Getz             Director                       August 19, 1994
+____________________________________
+            Bert A. Getz
+ 
+         Andrew J. McKenna           Director                       August 19, 1994
+____________________________________
+         Andrew J. McKenna
+ 
+        Thomas A. Ravencroft         Senior Vice President and      August 19, 1994
+____________________________________   Director
+        Thomas A. Ravencroft
+ 
+           Thomas L. Rose            President and Director         August 19, 1994
+____________________________________
+           Thomas L. Rose
+ 
+         Delbert C. Staley           Director                       August 19, 1994
+____________________________________
+         Delbert C. Staley
+ 
+         Alexander J. Vogl           Director                       August 19, 1994
+____________________________________
+         Alexander J. Vogl
+ 
+          Timothy J. Bondy           Vice President, Finance--      August 19, 1994
+____________________________________   Principal Financial
+          Timothy J. Bondy             Officer
+ 
+           Dale I. Hecox             Treasurer--Principal           August 19, 1994
+____________________________________   Accounting Officer
+           Dale I. Hecox
+</TABLE>
+ 
+                                       15
+<PAGE>
+ 
+                      REPORT OF INDEPENDENT ACCOUNTANTS ON
+                         FINANCIAL STATEMENT SCHEDULES
+ 
+To the Board of Directors
+ Dean Foods Company
+ 
+  Our audits of the consolidated financial statements referred to in our report
+dated June 29, 1994 appearing on page 30 of the Dean Foods Company Annual
+Report to Shareholders for Fiscal Year Ended May 29, 1994 (which report and
+consolidated financial statements are incorporated by reference in this Annual
+Report on Form 10-K) also included an audit of the Financial Statement
+Schedules listed in Item 14(a) of this Form 10-K. In our opinion, these
+Financial Statement Schedules present fairly, in all material respects, the
+information set forth therein when read in conjunction with the related
+consolidated financial statements.
+ 
+                                          Price Waterhouse LLP
+ 
+Chicago, Illinois
+June 29, 1994
+ 
+                                       16
+<PAGE>
+ 
+                      DEAN FOODS COMPANY AND SUBSIDIARIES
+ 
+                               ----------------
+ 
+                   SCHEDULE V--PROPERTY, PLANT AND EQUIPMENT
+ 
+<TABLE>
+<CAPTION>
+                           BALANCE
+                             AT     ASSETS OF                                  BALANCE
+                          BEGINNING ACQUIRED  ADDITIONS  RETIREMENTS           AT END
+CLASSIFICATION            OF PERIOD COMPANIES  AT COST    OR SALES    OTHER   OF PERIOD
+- - --------------            --------- --------- ---------  ----------- -------  ---------
+                                                (IN THOUSANDS)
+<S>                       <C>       <C>       <C>        <C>         <C>      <C>
+FISCAL YEAR ENDED MAY 29, 1994
+Land....................  $ 27,917   $ 1,129  $  3,280    $( 2,540)  $  (107) $ 29,679
+Buildings and
+ improvements...........   199,520    15,744    24,552      (4,547)      (78)  235,191
+Machinery and equipment.   448,973    41,312    46,960     (19,398)   21,345   539,192
+Transportation equipment
+ .......................    57,644       782     3,507      (7,530)       49    54,452
+Construction in
+ Progress...............    36,844     8,375     2,678         --        --     47,897
+                          --------   -------  --------    --------   -------  --------
+                          $770,898   $67,342  $ 80,977    $(34,015)  $21,209  $906,411
+                          ========   =======  ========    ========   =======  ========
+FISCAL YEAR ENDED MAY 30, 1993
+Land....................  $ 26,386   $   551  $    983    $    (3)       --   $ 27,917
+Buildings and
+ improvements...........   175,030       807    23,968       (285)       --    199,520
+Machinery and equipment.   407,060     4,059    53,107     (15,253)      --    448,973
+Transportation equipment
+ .......................    54,890       --      7,532      (4,778)      --     57,644
+Construction in
+ Progress...............    47,631       --    (10,787)        --        --     36,844
+                          --------   -------  --------    --------   -------  --------
+                          $710,997   $ 5,417  $ 74,803    $(20,319)      --   $770,898
+                          ========   =======  ========    ========   =======  ========
+FISCAL YEAR ENDED MAY 31, 1992
+Land....................  $ 25,376   $ 1,020  $    385    $   (395)      --   $ 26,386
+Buildings and
+ improvements...........   160,071     5,781    12,091      (2,913)      --    175,030
+Machinery and equipment.   370,125     6,851    42,668     (12,584)      --    407,060
+Transportation equipment
+ .......................    53,008     1,394     5,706      (5,218)      --     54,890
+Construction in
+ Progress...............    30,614       --     17,017         --        --     47,631
+                          --------   -------  --------    --------   -------  --------
+                          $639,194   $15,046  $ 77,867    $(21,110)      --   $710,997
+                          ========   =======  ========    ========   =======  ========
+</TABLE>
+ 
+              DEPRECIATION AND AMORTIZATION (STRAIGHT-LINE METHOD)
+ 
+<TABLE>
+        <S>                                                     <C>
+        Buildings and Improvements.............................   2 1/2% to 20%
+        Machinery and Equipment................................   5% to 33 1/3%
+        Transportation Equipment...............................  10% to 33 1/3%
+</TABLE>
+ 
+                                       17
+<PAGE>
+ 
+                      DEAN FOODS COMPANY AND SUBSIDIARIES
+ 
+                               ----------------
+ 
+     SCHEDULE VI--ACCUMULATED DEPRECIATION OF PROPERTY, PLANT AND EQUIPMENT
+ 
+<TABLE>
+<CAPTION>
+                                          AMOUNT
+                             BALANCE AT CHARGED TO                    BALANCE
+                             BEGINNING  COSTS AND  RETIREMENTS        AT END
+CLASSIFICATION               OF PERIOD   EXPENSES   OR SALES   OTHER OF PERIOD
+- - --------------               ---------- ---------- ----------- ----- ---------
+                                              (IN THOUSANDS)
+<S>                          <C>        <C>        <C>         <C>   <C>
+FISCAL YEAR ENDED MAY 29,
+ 1994
+Buildings and improvements..  $ 61,148   $ 8,964    $ (1,921)   --   $ 68,191
+Machinery and equipment.....   231,730    43,489     (15,858)  $915   260,276
+Transportation equipment....    34,256     6,096      (5,619)   --     34,733
+                              --------   -------    --------   ----  --------
+                              $327,134   $58,549    $(23,398)  $915  $363,200
+                              ========   =======    ========   ====  ========
+FISCAL YEAR ENDED MAY 30,
+ 1993
+Buildings and improvements..  $ 53,677   $ 7,929    $   (458)   --   $ 61,148
+Machinery and equipment.....   209,311    37,667     (15,248)   --    231,730
+Transportation equipment....    32,218     6,219      (4,181)   --     34,256
+                              --------   -------    --------   ----  --------
+                              $295,206   $51,815    $(19,887)   --   $327,134
+                              ========   =======    ========   ====  ========
+FISCAL YEAR ENDED MAY 31,
+ 1992
+Buildings and improvements    $ 48,609   $ 7,317    $ (2,249)   --   $ 53,677
+Machinery and equipment.....   184,397    34,872      (9,958)   --    209,311
+Transportation equipment....    30,258     6,159      (4,199)   --     32,218
+                              --------   -------    --------   ----  --------
+                              $263,264   $48,348    $(16,406)   --   $295,206
+                              ========   =======    ========   ====  ========
+</TABLE>
+ 
+                                       18
+<PAGE>
+ 
+                      DEAN FOODS COMPANY AND SUBSIDIARIES
+ 
+                               ----------------
+ 
+                SCHEDULE VIII--VALUATION AND QUALIFYING ACCOUNTS
+ 
+<TABLE>
+<CAPTION>
+                                                   AMOUNT
+                                                  CHARGED
+                                     BALANCE AT  (CREDITED)  ACCOUNTS  BALANCE
+                                     BEGINNING    TO COSTS   WRITTEN   AT END
+CLASSIFICATION                       OF PERIOD  AND EXPENSES   OFF    OF PERIOD
+- - --------------                       ---------- ------------ -------- ---------
+                                                   (IN THOUSANDS)
+<S>                                  <C>        <C>          <C>      <C>
+FISCAL YEAR ENDED MAY 29, 1994
+Allowance for doubtful accounts and
+ notes receivable...................   $4,470      $  326     $  878   $3,918
+Allowance for doubtful long-term
+ receivables........................        4          (4)       --       --
+                                       ------      ------     ------   ------
+Total reserves deducted in balance
+ sheet from assets to which they
+ apply..............................   $4,474      $  322     $  878   $3,918
+                                       ======      ======     ======   ======
+FISCAL YEAR ENDED MAY 30, 1993
+Allowance for doubtful accounts and
+ notes receivable...................   $5,331      $  833     $1,694   $4,470
+Allowance for doubtful long-term
+ receivables........................       26         (22)       --         4
+                                       ------      ------     ------   ------
+Total reserves deducted in balance
+ sheet from assets to which they
+ apply..............................   $5,357      $  811     $1,694   $4,474
+                                       ======      ======     ======   ======
+FISCAL YEAR ENDED MAY 31, 1992
+Allowance for doubtful accounts and
+ notes receivable...................   $4,284      $1,988     $  941   $5,331
+Allowance for doubtful long-term
+ receivables........................       15          11        --        26
+                                       ------      ------     ------   ------
+Total reserves deducted in balance
+ sheet from assets to which they
+ apply..............................   $4,299      $1,999     $  941   $5,357
+                                       ======      ======     ======   ======
+</TABLE>
+ 
+                                       19
+<PAGE>
+ 
+                      DEAN FOODS COMPANY AND SUBSIDIARIES
+ 
+                               ----------------
+ 
+             SCHEDULE X--SUPPLEMENTAL INCOME STATEMENT INFORMATION
+ 
+<TABLE>
+<CAPTION>
+                                                          CHARGED TO COST AND
+                                                                EXPENSE
+                                                        -----------------------
+         ITEM                                            1994    1993    1992
+         ----                                           ------- ------- -------
+                                                            (IN THOUSANDS)
+<S>                                                     <C>     <C>     <C>
+Maintenance and Repairs................................ $43,620 $39,521 $47,133
+</TABLE>
+ 
+  All other supplemental expense items have been excluded as they do not exceed
+one percent of net sales.
+ 
+                                       20
+<PAGE>
+ 
+                                 EXHIBIT INDEX
+ 
+  The following documents are the exhibits to this Report. For convenient
+reference, each exhibit is listed according to the number assigned to it in the
+Exhibit Table of Item 601 of Regulation S-K. The page number, if any, listed
+opposite an exhibit indicates the page number in the sequential numbering
+system in the manually signed original of this Report where such exhibit can be
+found.
+ 
+(3)Articles of Incorporation and by-laws
+  a. Dean Foods Company Restated Certificate of Incorporation dated February 8,
+     1988 (filed as Exhibit 3(a) to Registrant's Form 10-K Annual Report for
+     Fiscal Year Ended May 29, 1988 and incorporated herein by reference)
+  b. By-Laws of Registrant, as amended December 2, 1988 (filed as Exhibit 3(b)
+     to the Registrant's
+     Form 10-K Annual Report for Fiscal Year Ended May 28, 1989 and
+     incorporated herein by reference)
+(4)Instruments defining the rights of security holders, including indentures
+  a. Rights Agreement dated July 28, 1988 (filed as Exhibit 4(a) to the
+     Registrant's Form 10-K Annual Report for Fiscal Year Ended May 28, 1989
+     and incorporated herein by reference)
+  b. Amendment dated December 1, 1989, to Rights Agreement dated July 28, 1988
+     (filed as exhibit 4(b) to Registrant's Form 10-K Annual Report for Fiscal
+     Year Ended May 27, 1990 and incorporated herein by reference)
+(10)Material contracts
+  a. Amended and Restated Dean Foods Company Management Deferred Compensation
+     Plan, dated as of June 1, 1994
+  b. Dean Foods Company Retirement Plan for Certain Directors (filed as Exhibit
+     10(a) to Registrant's Form 10-K Annual Report for Fiscal Year Ended
+     December 28, 1985 and incorporated herein by reference)
+  c. Form of Agreement dated March 17, 1986, between Registrant and each of its
+     current executive officers (filed as Exhibit 10(b) to Registrant's Form
+     10-K Annual Report for Fiscal Year Ended December 28, 1985 and
+     incorporated herein by reference)
+  d. Form of Indemnification Agreement between Registrant and each of its
+     directors and officers serving at any time after October 5, 1987 (filed as
+     Exhibit 10(m) to Registrant's Form 10-K Annual Report for Fiscal Year
+     Ended May 29, 1988, and incorporated herein by reference)
+  e. Amended and Restated Dean Foods Company Directors Deferred Compensation
+     Plan, dated March 25, 1988 (filed as Exhibit 10(j) to Registrant's Form
+     10-K Annual Report for Fiscal Year Ended May 28, 1989 and incorporated
+     herein by reference)
+  f. Dean Foods Company Supplemental Benefit Plan for eligible officers, as
+     amended and restated on May 24, 1991 (filed as Exhibit 10(k) to
+     Registrant's Form 10-K Annual Report for Fiscal Year ended May 26, 1991
+     and incorporated herein by reference)
+  g. Dean Foods Company Supplemental Incentive Compensation Plan for certain
+     officers, as amended March 31, 1989 (filed as Exhibit 10(l) to
+     Registrant's Form 10-K Annual Report for Fiscal Year Ended May 28, 1989
+     and incorporated herein by reference)
+ 
+ 
+                                       21
+<PAGE>
+ 
+  h. Dean Foods Company Director Stock Option Plan, dated September 30, 1992
+     (Filed as Exhibit 10(i) to Registrant's Form 10-K Annual Report for
+     Fiscal Year ended May 30, 1993 and incorporated herein by reference)
+(11)Statement re computation of per share earnings
+(13)Annual report to security holders, Form 10-Q or quarterly report to
+ security holders
+  a. Dean Foods Company Annual Report to Shareholders for Fiscal Year Ended
+     May 29, 1994
+    With the exception of the financial statements, report of independent
+    accountants thereon and certain other information expressly incorporated
+    herein by reference, the Registrant's Annual Report to Shareholders for
+    Fiscal Year Ended May 29, 1994 is not to be deemed filed as part of this
+    Report.
+(22)Subsidiaries of the Registrant
+  a. Subsidiaries of the Registrant as of May 29, 1994
+(24)Consents of Experts and Counsel
+  a. Consent of Independent Accountants dated August 19, 1994
+ 
+                                       22
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.A
+<SEQUENCE>2
+<DESCRIPTION>1989 STOCK AWARDS PLAN
+<TEXT>
+
+<PAGE>
+ 
+                                                              Exhibit 10(a)
+
+                                                                
+                             AMENDED AND RESTATED
+                         DEAN FOODS COMPANY MANAGEMENT
+                          DEFERRED COMPENSATION PLAN
+                          --------------------------
+
+1.    PLAN
+      ----
+           This instrument sets forth the "Dean Foods Company Management
+      Deferred Compensation Plan", as amended and restated as of June 1,
+      1994.
+
+2.    DEFINITIONS
+      -----------
+
+           The following words have the respective meanings stated below, unless
+      a different meaning is plainly required by the context:
+
+      (a)  "Beneficiary" means any person other than a Manager who is entitled
+           to receive distributions under this Plan pursuant to Section 7.
+
+      (b)  "Board" means the Board of Directors of the Company.
+
+      (c)  A "Change in Control of the Company" will be deemed to have occurred
+           if: (i) there is a change in control of the Company that would be
+           required to be reported in response to Item 5(f) of Schedule 14A of
+           Regulation 14A, promulgated under the Securities Exchange Act of
+           1934, as amended (the "Exchange Act"); or (ii) any person or entity
+           (which includes any "Group" as such term is used in Section 13(d)(3)
+           of the Exchange Act) is, directly or indirectly, the "beneficial
+           owner" (as such term is used in Rule 13d-3 under the Exchange Act) of
+           securities of the Company representing 20% or more of the combined
+           voting power of the Company's then outstanding securities (computed
+           as described in such Rule); or (iii) a majority of the members of any
+           class of directors of the Company are persons who were neither
+           nominated by the Board for election by the stockholders nor elected
+           by the Board to fill vacancy(ies) on the Board; or (iv) the Company
+           (or any substantial portion of its assets) is combined with or
+           acquired by another person or other entity; provided, however, that
+           (v) no "Change in Control of the Company" shall be deemed to have
+           occurred with respect to any transaction (or series of transactions)
+           which shall have been approved in advance by a majority of the Board,
+           exclusive of members who are employed by or otherwise affiliated with
+           the person or other entity seeking to effect the Change in Control of
+           the Company; (vi) a "Change in Control of the Company" shall not
+           include any acquisition of voting stock by any underwriting syndicate
+           or underwriter for so long as such syndicate or underwriter holds the
+           voting stock for distribution to the public pursuant to an
+           underwriting agreement between the Company and such syndicate or
+           underwriter; and (vii) a "Change in Control of the Company" shall not
+           include any acquisition by
+
+
+                                       1
+<PAGE>
+            any defined contribution plan which is qualified pursuant to
+            the applicable provisions of the Internal Revenue Code of
+            1986, as amended, and is maintained for the benefit of the
+            employees of the Company and/or its subsidiaries.
+
+      (d)   "Committee" means the Committee which administers this Plan, as 
+            provided in Section 8.
+
+      (e)   "Company" means Dean Foods Company, a Delaware corporation, and 
+            its successors.
+
+      (f)   "Defined Rate" means the interest rate of 6% per annum or such
+            higher rate as the Committee shall from time to time determine.
+            Until otherwise determined by the Board, such higher rate shall
+            be the prime rate of interest as charged by the Harris Trust and
+            Savings Bank, Chicago, IL.
+
+      (g)   "Manager" means an individual who is an officer of the Company or
+            who is determined by the Committee to be eligible to participate
+            in this Plan.
+
+      (h)   "Monthly Base Pay" means the gross monthly base salary payable to 
+            the Manager by the Company.
+
+      (i)   "Plan" means the plan set forth in this instrument and known as 
+            the "Amended and Restated Dean Foods Company Management Deferred
+            Compensation Plan."
+
+3.    PARTICIPATION
+      -------------
+
+           A Manager may elect to defer the payment of all or a portion, in
+      increments of One Hundred Dollars ($100.00), of his or her Monthly Base
+      Pay by completing the attached form of Deferral Election and returning
+      it to the Company prior to July 1 of the year commencing on July 1
+      (the "Plan Year") for which the election is to be effective. All such 
+      amounts deferred by a Manager shall be credited to his or her deferred
+      compensation account.
+
+           An election for a particular Plan Year may only be modified by a
+      Manager by submitting a new Deferral Election to the Company before the
+      beginning of such Plan Year, provided that any Manager may terminate
+      subsequent deferrals at any time during the Plan Year by so notifying
+      the Company.
+
+           All amounts credited to deferred compensation accounts or otherwise
+      payable under this Plan will be unsecured liabilities of the Company and 
+      will not be funded with any specific assets of the Company.
+
+
+                                       2
+<PAGE>
+ 
+
+4.    INTEREST
+      --------
+
+           Interest on the balance in a Manager's deferred compensation account
+      will be credited to such account semi-annually at the end of each July 
+      and January, except that after installment payments to the Manager or a
+      Beneficiary have commenced under this Plan, interest will be paid 
+      semi-annually in cash to the Manager or Beneficiary as the case may be.
+      For the purpose of crediting interest for any semi-annual period: 
+      (1) interest will be computed at the weighted average Defined Rate during
+      such semi-annual period; and (2) the balance in a Manager's deferred
+      compensation account during such semi-annual period will be deemed to be
+      the average of the balances in such account at the beginning of the period
+      and at the end of each month during such semi-annual period, including
+      interest previously credited.
+
+5.    PAYMENTS
+      --------
+
+      (a)  Following termination of employment by the Company, the balance in
+           the Manager's deferred compensation account at the time of 
+           termination will be paid to the Manager (or, in the event of the
+           Manager's death prior to the commencement of payment of or full
+           receipt of the Manager's interest under this Plan, to the Beneficiary
+           or Beneficiaries entitled thereto) in cash in a lump sum and/or in
+           not more than ten (10) annual installments in accordance with the
+           irrevocable elections of the Manager reflected in the Manager's
+           Deferral Elections. Once a Manager has elected to be paid the 
+           deferred amounts for a Plan Year in annual installments, any election
+           by such Manager to be paid the deferred amounts for a subsequent Plan
+           Year in annual installments will be limited to the same number of
+           installment payments. Each annual installment payment will be made
+           within 30 days after the end of the calendar year, beginning with
+           the 30-day period following the calendar year in which the Manager's
+           employment by the Company terminates.
+
+      (b)  Notwithstanding any previous decision by the Committee or
+           any election by a Manager, the Committee, in its sole discretion,
+           may at any time accelerate payment of the amounts credited to a
+           Manager's deferred compensation account. Without limiting the
+           generality of the foregoing, the Committee may do so in the event
+           of a Change in Control of the Company. Any such permission may be
+           subject to such terms, including without limitation the 
+           ineligibility of such Manager to defer payment of all or a portion
+           of his or her future compensation, as the Committee may deem
+           appropriate.
+
+6.    BENEFICIARIES
+      -------------
+
+           A Manager may, by giving notice to the Company during the Manager's
+      lifetime, designate: (1) a Beneficiary or Beneficiaries to whom 
+      distribution of the amount credited to the Manager's deferred compensation
+      account will be made in the event of the Manager's death prior to the
+      commencement of payment of or full 
+ 
+ 
+                                       3
+<PAGE>
+ 
+           receipt of the Manager's interest under this Plan; and (2) the
+           proportions to be distributed to each such designated Beneficiary
+           if there be more than one. Any such designation may be revoked or
+           changed by the Manager at any time and from time to time by 
+           similar notice. If any such designated Beneficiary dies prior to
+           the death of the Manager (or if any such designated Beneficiary or
+           any successor thereto as hereinafter provided thereafter dies prior
+           to the distribution of all of the Manager's interest under this 
+           Plan), the proportion (or remaining proportion) to have been 
+           distributed to such designated or successor Beneficiary shall
+           instead be distributed to his or her estate.
+
+7.    COMMITTEE
+      ---------
+
+           This Plan will be administered by a Committee consisting of the 
+      members of the Compensation Committee of the Board.
+
+           Except as otherwise expressly provided in this Plan, the Committee
+      shall have full power and authority within the limits provided by 
+      this Plan:
+
+      (a)  to construe this Plan and make equitable adjustments for any 
+           mistakes or errors made in the administration of this Plan;
+
+      (b)  to determine all questions arising in the administration of this 
+           Plan, including questions as to the rights of Managers participating
+           in this Plan and their Beneficiaries and the amounts of their
+           respective interests;
+
+      (c)  to adopt such rules and regulations as it may deem reasonably
+           necessary for the proper and efficient administration of this Plan
+           consistent with its purposes;
+
+      (d)  to enforce this Plan in accordance with its terms and with the
+           rules and regulations adopted by the Committee; and
+
+      (e)  to do all other acts which in its judgment are necessary or 
+           desirable for the proper and advantageous administration of 
+           this Plan.
+
+           The Committee shall act by the vote or concurrence of a majority of
+      its members and shall maintain a written record of its decisions and
+      actions. All decisions and actions of the Committee pursuant to the
+      provisions of this Plan shall be final and binding upon all persons
+      affected thereby. No member of the Committee shall have any personal
+      liability to anyone, either as such member or as an individual, for 
+      anything done or omitted to be done in good faith in carrying out the
+      provisions of this Plan.
+
+8.   NON-ALIENATION
+     --------------
+
+           No right or benefit under this Plan shall be subject to anticipation,
+      alienation, sale, assignment, pledge, encumbrance or charge, and any
+      attempt to anticipate, alienate, sell, assign, pledge, encumber or charge
+      the same shall be void. No right or benefit under this Plan shall in any
+      manner be liable for or       
+
+
+                                       4
+<PAGE>
+
+           subject to the debts, contracts, liabilities or torts of the person
+           entitled to such benefits except such claims as may be made by the
+           Company or any of its subsidiaries.
+
+ 9.   NOTICE
+      ------
+
+           Any notice authorized or required to be given to the Company under
+      this Plan shall be deemed given upon delivery in writing, signed by the
+      person giving the notice, to the Secretary of the Company or such other
+      officer as may be designated by the Chairman of the Board.
+
+10.   PLAN MODIFICATIONS
+      ------------------
+
+           The Board may at any time terminate this Plan or may, from time to
+      time, amend any provision of this Plan in such manner and to such extent
+      as it may, in its discretion, deem to be advisable. In the event this Plan
+      is terminated, any amount remaining credited to any Manager's deferred
+      compensation account will be distributed to the Manager or, after the
+      Manager's death, to his or her Beneficiary.
+
+11.   APPLICABLE LAW
+      --------------
+
+           This Plan shall be governed by the laws of the State of Illinois.
+
+
+
+                                       DEAN FOODS COMPANY
+
+
+
+                                       By: /s/ Howard M. Dean
+                                          ----------------------
+                                          Howard M. Dean
+                                          Chairman of the Board     
+
+
+
+ 
+                                       5
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>3
+<DESCRIPTION>COMPUTATION OF EARNINGS
+<TEXT>
+
+<PAGE>
+ 
+                                                                      EXHIBIT 11
+ 
+                      DEAN FOODS COMPANY AND SUBSIDIARIES
+ 
+                       COMPUTATION OF EARNINGS PER SHARE
+                      (IN THOUSANDS EXCEPT PER SHARE DATE)
+ 
+<TABLE>
+<CAPTION>
+                                                         1994    1993    1992
+                                                        ------- ------- -------
+<S>                                                     <C>     <C>     <C>
+Income before cumulative effect of changes in
+ accounting principles................................. $70,762 $68,409 $62,016
+Cumulative effect of changes in accounting principles..   1,179     --      --
+                                                        ------- ------- -------
+Net Income............................................. $71,941 $68,409 $62,016
+                                                        ======= ======= =======
+Weighted Average Number of common shares outstanding
+ during the period.....................................  39,737  39,613  40,613
+                                                        ======= ======= =======
+Primary Earnings per share before cumulative effect of
+ changes in accounting principles...................... $  1.78 $  1.73 $  1.53
+Cumulative effect of changes in accounting principles..     .03     --      --
+                                                        ------- ------- -------
+Primary Earnings Per Common Share...................... $  1.81 $  1.73 $  1.53
+                                                        ======= ======= =======
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13.A
+<SEQUENCE>4
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+<PAGE>
+ 
+FINANCIAL REVIEW
+
+THE FINANCIAL REVIEW SHOULD BE READ IN CONJUNCTION WITH THE LETTER TO 
+SHAREHOLDERS, THE OPERATIONS REVIEW OF THE COMPANY'S BUSINESS SEGMENTS (DAIRY 
+PRODUCTS AND SPECIALTY FOOD PRODUCTS) AND THE CONSOLIDATED FINANCIAL STATEMENTS 
+AND NOTES RELATED THERETO CONTAINED IN THIS ANNUAL REPORT.
+
+[WORKING CAPITAL IN MILLIONS OF DOLLARS]
+                             (GRAPH APPEARS HERE)
+<TABLE> 
+<CAPTION> 
+<S>             <C> 
+1994            $ 93
+1993            $198
+1992            $184
+1991            $198
+1990            $183
+1989            $156
+1988            $130
+1987            $115
+1986            $108
+1985            $ 97
+1984            $ 79
+</TABLE> 
+[DIVIDENDS PER SHARE IN DOLLARS]
+                             (GRAPH APPEARS HERE)
+<TABLE> 
+<CAPTION> 
+<S>             <C> 
+1994            $0.64
+1993            $0.60
+1992            $0.56
+1991            $0.49
+1990            $0.44
+1989            $0.40
+1988            $0.36
+1987            $0.32
+1986            $0.27
+1985            $0.22
+1984            $0.18
+</TABLE> 
+[CAPITAL EXPENDITURES IN MILLIONS OF DOLLARS]
+                             (GRAPH APPEARS HERE)
+<TABLE> 
+<CAPTION> 
+<S>             <C> 
+1994            $81 
+1993            $75 
+1992            $78 
+1991            $73 
+1990            $68 
+1989            $56 
+1988            $39 
+1987            $42 
+1986            $37 
+1985            $33 
+1984            $20 
+</TABLE> 
+[SHAREHOLDERS' EQUITY IN MILLIONS OF DOLLARS]
+                             (GRAPH APPEARS HERE)
+<TABLE> 
+<CAPTION> 
+<S>             <C> 
+1994            $525
+1993            $476
+1992            $430
+1991            $417
+1990            $363
+1989            $293
+1988            $266
+1987            $236
+1986            $207
+1985            $176
+1984            $147
+</TABLE> 
+[LONG-TERM DEBT TO CAPITAL IN PERCENT]
+                             (GRAPH APPEARS HERE)
+<TABLE> 
+<CAPTION> 
+<S>             <C> 
+1994            20.6%
+1993            24.1%
+1992            26.5%
+1991            26.5%
+1990            28.8%
+1989            22.3%
+1988            15.5%
+1987            16.6%
+1986            19.1%
+1985            21.9%
+1984            24.9%
+</TABLE> 
+[RETURN ON AVERAGE EQUITY IN PERCENT]
+                             (GRAPH APPEARS HERE)
+<TABLE> 
+<CAPTION> 
+<S>             <C> 
+1994            14.4%
+1993            15.1%
+1992            14.6%
+1991            18.6%
+1990            18.7%
+1989            21.6%
+1988            17.0%
+1987            18.5%
+1986            21.3%
+1985            22.8%
+1984            23.3%
+</TABLE> 
+                                      16
+<PAGE>
+ 
+FINANCIAL OBJECTIVES AND STRATEGIES
+The Company's primary objective is to maximize shareholder value over time
+through dividend growth and long-term stock appreciation. Among the financial
+strategies employed by the Company toward accomplishing this objective are:
+
+SOUND WORKING CAPITAL MANAGEMENT
+The Company employs various procedures to monitor and control the quality and
+levels of current assets using short-term borrowings primarily to meet seasonal
+crop-related cash requirements. During fiscal 1994, the Company utilized short-
+term borrowings under bank lines of credit to acquire businesses. The amounts
+borrowed under such lines of credit are expected to be refinanced in fiscal
+1995. The Company's working capital ratio (current assets divided by current
+liabilities) at 1994 fiscal-year end was 1.25.
+
+CAPITAL INVESTMENTS
+The Company's primary goal is to maintain and improve the productivity of its
+assets, making those capital investments which offer returns to the Company
+greater than its cost of capital.
+
+PRUDENT USE OF DEBT
+The long-term debt market has been used primarily to fund acquisitions and
+major capital expenditures. Based upon its long-term debt-to-capital ratio of
+20.6% at the 1994 fiscal year-end, the Company believes it has sufficient debt
+capacity to fund future growth.
+
+DIVIDEND POLICY
+On July 22, 1994, the Company increased its quarterly dividend 6-1/4% to $.17
+per share, the twenty-second dividend increase since 1974. The total increase in
+the dividend rate since 1974 is 2,160%.
+
+STOCK REPURCHASE PLAN
+The Company, in fiscal 1988, adopted a stock repurchase program which the
+Company believes enhances shareholder value. During fiscal years 1993 and 1992,
+the Company purchased 1,732,366 shares of its common stock. No shares were
+purchased during fiscal 1994 as funds generated from operations were used in
+connection with the acquisitions of businesses.
+
+FINANCIAL CONDITION
+CAPITAL RESOURCES AND LIQUIDITY
+The Company's operating cash and capital expenditure requirements have
+historically been met through funds generated internally from assets employed
+(working capital and long-term assets).
+
+  Working capital at May 29, 1994 was $92.9 million, a decrease of $105.5
+million from a year ago. Cash and temporary cash investments at May 29, 1994 was
+$11.0 million, a decrease of $30.6 million from last year. The decreases in
+working capital and cash and temporary cash investments were the result of funds
+used to acquire businesses during fiscal 1994. Inventories increased $54.3
+million from last year, principally due to the inventories of a business
+acquired during fiscal 1994. Dairy Products inventory turnover is at a high
+rate, whereas Specialty Food Products inventories generally have lower turnover
+rates and crop-related inventory levels may vary from year to year. A large part
+of the Specialty Food Products inventories are valued on the LIFO inventory
+valuation method which enhances the Company's cash flow.
+
+  The Company had maintained short-term lines of credit of $29.5 million,
+adjusted to a maximum of $87.5 million to meet seasonal crop-related
+requirements. In the latter part of fiscal 1994 these lines were increased to a
+maximum of $177.5 million in order to fund 1994 business acquisitions and
+working capital requirements. The short-term borrowings used to fund the
+acquisitions are expected to be refinanced to longer maturities in fiscal 1995
+with new seasonally adjusted borrowing levels established. The borrowings
+outstanding under bank lines of credit at the end of fiscal 1994 were $122
+million, whereas there were no borrowings outstanding at fiscal 1993 year-end.
+
+  Net property, plant and equipment increased $99.4 million this year
+principally due to capital expenditures and the assets of businesses acquired,
+less depreciation. Major capital expenditures during fiscal 1994 were a plant
+renovation and plant expansions required to handle increased production volumes.
+
+  The capital sources available to the Company are long-term obligations and
+equity markets. The Company, on occasion, has used the long-term debt market to
+fund acquisitions and major capital expenditures. Although the Company presently
+has no plans to utilize the equity markets, the Company's long-term objective is
+to provide a
+
+                                      17
+<PAGE>
+ 
+mix of debt and equity that will provide sufficient financial flexibility for
+growth. Long-term obligations at May 29, 1994 were $136.2 million, a decrease of
+$15.0 million from last year-end as a result of the prepayment of a fixed rate
+obligation and normal maturities. The Company's debt-to-capital ratio at May 29,
+1994 was 20.6% compared to 24.1% a year ago. The Company is in compliance with
+the covenants and restrictions under its debt agreements, the most restrictive
+of which are discussed in the "Borrowing Arrangements" note to the consolidated
+financial statements.
+
+   Shareholders' Equity at May 29, 1994 was $524.8 million, an increase of $48.5
+million, the result of earnings less dividends paid to shareholders. The
+treasury stock held at May 29, 1994 is available for use in future acquisitions,
+for stock options or for other general business purposes. The return on average
+equity for fiscal 1994 was 14.4% compared to 15.1% last year.
+
+CASH FLOWS
+Net cash flow for fiscal 1994 was $30.6 million unfavorable, primarily the
+result of outlays for acquisitions net of the short-term borrowings used to fund
+such acquisitions. During fiscal 1993, strong cash provided from operations
+resulted in a net positive cash flow of $7.6 million for the year. Particulars
+of the Company's cash flow activities are as follows:
+  Operating Activities--Cash provided from operations for fiscal 1994 was $122.0
+million compared to $122.7 million and $124.5 million, for fiscal years 1993 and
+1992, respectively. The cash provided in 1994 was principally the result of the
+increased earnings and greater non-cash charges to income less a net increase in
+working capital items.
+  Investing Activities--Net cash used in the Company's investing activities in
+fiscal 1994 was $242.7 million compared to $76.5 million and $80.5 million for
+fiscal year 1993 and 1992, respectively. Capital expenditures and business
+acquisitions are the Company's principal investing activities. During the year,
+$171.5 million was used to acquire businesses, an important aspect of the
+Company's growth. These acquisitions are discussed in the "Business
+Acquisitions" note to the consolidated financial statements. Capital
+expenditures for 1994 were $81.0 million compared with $74.8 million and $77.9
+million in fiscal years 1993 and 1992, respectively. Capital expenditures for
+fiscal 1995 are projected to approximate fiscal 1994 capital spending. Three
+businesses, which the Company concluded were not consistent with its long range
+goals, were sold during the three years ended May 29, 1994 providing cash of
+$12.8 million.
+  Financing Activities--Net cash provided by financing activities during fiscal
+1994 was $90.1 million. During fiscal years 1993 and 1992, net cash used in
+financing activities was $38.7 million and $54.1 million, respectively. The
+principal reason for the increase in cash provided in fiscal 1994 was the use of
+short-term bank borrowings for acquisitions. No short-term borrowings were
+outstanding at the end of fiscal years 1993 and 1992. Cash dividends paid, which
+have increased in each of the last three years, were $25.0 million during fiscal
+1994 compared to $23.4 million and $22.2 million during fiscal years 1993 and
+1992, respectively. During fiscal years 1993 and 1992, the Company used $41.6
+million to purchase treasury stock. No treasury stock purchases were made during
+fiscal 1994.
+
+RESULTS OF OPERATIONS
+Earnings for fiscal 1994 increased 5% over fiscal 1993 with income of  $71.9
+million or $1.81 per share compared to $68.4 million or $1.73 per share last
+year.
+  After a sharp drop in first quarter earnings, fiscal 1994 earnings finished
+strong, principally due to improved vegetable earnings and the contribution of a
+business acquired in the latter part of the year. The fiscal 1994 earnings were
+impacted by the adoption of new accounting principles and the Revenue
+Reconciliation Act of 1993. The Company on May 31, 1993, adopted the provisions
+of Statement of Financial Accounting Standard No. 106 (FAS 106), "Employers'
+Accounting for Postretirement Benefits Other than Pensions" and FAS No. 109,
+"Accounting for Income Taxes." The implementation of FAS 106 resulted in a non-
+cash charge of $1.0 million, net of taxes, or $.03 per share. The Company
+elected to recognize the cumulative effect of the adoption of FAS 109 which
+resulted in increasing fiscal 1994 earnings by $2.2 million or $.06 per share.
+Further discussion of FAS 106 and FAS 109 are contained respectively in the
+"Employee Benefit Plans" and "Income Taxes" notes to the consolidated financial
+statements. Results for the first quarter this year included a charge of $1.5
+million or $.04 per share as a result of the increase in the corporate tax rate
+to 35% retroactive to January 1, 1993.
+
+                                      18
+<PAGE>
+ 
+Both 1993 and 1992 fiscal earnings were impacted principally by lower profits in
+the Company's vegetable operations, the result of industry-wide excess
+inventories and competitive conditions. Fiscal 1992 results included a special
+charge to earnings of $9.1 million ($5.7 million after taxes) or $.14 per share
+related to the termination of the Company's refrigerated truckload
+transportation business.
+  Net sales for fiscal 1994 were $2.4 billion compared to $2.3 billion for
+fiscal 1993, a 7% increase. Both Dairy Products and Specialty Food Products
+recorded sales increases in fiscal 1994. The increased sales of Dairy Products
+was the result of higher selling prices, reflecting increased raw milk costs,
+and the sales contribution of a business acquired in fiscal 1994. The sales
+contribution of a business acquired during the latter half of the year and the
+full year's sales contribution of a business acquired in 1993 contributed to the
+increased Specialty Food Products sales. Overall Dairy Products and Specialty
+Food Products unit sales volumes for fiscal year 1994 remained strong, slightly
+exceeding fiscal 1993 levels.
+
+BUSINESS SEGMENTS
+The Company is a diversified food processor and distributor engaged in two
+business segments, Dairy Products and Specialty Food Products. The Company is a
+major processor of fluid milk and related products, specialty dairy products and
+ice cream serving various regional markets, with some products distributed
+nationwide and to Mexico. Dairy Products is the Company's largest segment,
+accounting for 60% of total fiscal 1994 sales. Included within the Specialty
+Food Products segment are canned and frozen vegetables, pickles and related
+products, powdered non-dairy products and other specialty food items. Products
+within this segment are sold both in regional markets and nationally, with
+certain products sold internationally. Segment operating earnings represent
+total sales less operating expenses of the segment with the following items not
+deducted: general corporate expenses, interest expense and federal and state
+income taxes. Both business segments are large users of certain agricultural
+related commodities, the prices for which can vary greatly. Wet 1993 spring
+planting conditions and summer flooding in some midwest growing areas resulted
+in reduced supplies of certain commodities. Overall availability of raw milk
+supplies, however were adequate. The Company's sourcing of products from diverse
+growing areas helped mitigate shortages of certain midwest vegetables. The
+competitive conditions and relatively low profit margins in the food industry
+necessitate timely adjustment of the Company's product pricing to reflect
+changes in commodity pricing as well as changes in other production and
+distribution related costs.
+  Dairy Products--Dairy Products sales for fiscal 1994 increased 2.2% over sales
+of fiscal 1993 principally the result of higher selling prices reflecting
+increased raw milk costs and the sales contribution of a business acquired this
+year. Sales for fiscal 1993 (a 52 week period) were greater than fiscal 1992 (a
+53 week period) on slightly higher selling prices with approximately the same
+unit sales volume as fiscal 1992.
+  Raw milk costs, which exceeded last year's levels during the first quarter,
+fell in the second quarter and then increased significantly during the last half
+of the year, remaining higher than the fiscal 1993 levels. During the first half
+of fiscal 1993, raw milk costs rose, slightly declining during the latter part
+of the year as costs were moderately higher than fiscal 1992 cost levels. Early
+indications are that fiscal 1995 raw milk costs will stabilize at lower levels
+than experienced during fiscal 1994.
+  Dairy Products fiscal 1994 operating earnings declined 5.5% from fiscal 1993
+earnings, principally the result of higher raw milk costs and competitive
+conditions encountered in certain markets. Fiscal 1993 operating earnings
+declined slightly (less than 1%) from fiscal 1992 earnings, principally the
+result of competitive conditions encountered in certain markets.
+  Specialty Food Products--This business segment is a large user of raw
+vegetables, corn syrups, vegetable oils, sugar and casein. Weather-related crop
+shortages and harvest delays in the midwest growing region resulted in higher
+fiscal 1994 costs in the Company's vegetable and pickle businesses. Prices for
+vegetables and raw cucumbers were relatively stable during fiscal 1993 and 1992.
+Early indications are for normal vegetable and raw cucumber harvests this year
+with costs below fiscal 1994 levels. Prices for corn syrups and vegetable oils
+increased during fiscal 1994 as a result of the weather-related midwest harvest
+conditions. Sugar and casein prices were relatively stable throughout fiscal
+1994 and 1993 and are expected to remain stable during fiscal 1995.
+
+                                      19
+<PAGE>
+ 
+Overall sales of Specialty Food Products for fiscal 1994 increased 16% over
+fiscal 1993 sales, principally the result of the sales of a business acquired
+during the latter part of the year and the full year's sales contribution of a
+fiscal 1993 business acquisition. All of the Company's Specialty Food Products
+operations recorded sales increases in fiscal 1994. Sales of Specialty Food
+Products for fiscal 1993 (a 52 week year) increased 2% over sales of fiscal 1992
+(a 53 week year), principally the result of the sales of a fiscal 1993 acquired
+business.
+  Operating earnings for fiscal year 1994 increased 19%, principally due to
+improved vegetable earnings and the contribution of a vegetable business
+acquired during the latter part of the year. Pricing for certain vegetable
+products, which had declined during fiscal 1993 and fiscal 1992, increased in
+fiscal 1994 as a result of weather-related crop shortages and harvesting delays.
+Vegetable margins are anticipated to further improve in fiscal 1995 with the
+projected normal harvest. Pickle margins declined in fiscal 1994, the result of
+increased weather-related costs and competitive market conditions.
+
+CORPORATE AND OTHER
+Corporate and Other sales and expenses include sales and expenses of the
+Company's transportation subsidiary and canned meats under government bid
+contracts, along with general corporate expenses, interest expense and interest
+income. Sales for fiscal 1994 declined 21.3%, principally the result of
+decreased fiscal 1994 government bid canned meat sales. Corporate and Other
+expenses increased in fiscal 1994, principally the result of interest expense
+associated with the increased short-term borrowings and less investment income.
+Fiscal 1992 expenses included a special $9.1 million pretax charge related to
+the decision to terminate the Company's refrigerated truckload business. The
+restructured transportation operation has performed well and was profitable in
+fiscal years 1994 and 1993.
+  Interest expense for fiscal 1994 increased 3.9%, the result of increased
+short-term borrowing requirements and increased interest rates during the latter
+part of the fiscal year, offsetting reductions in long-term obligations.
+Interest expense for fiscal 1993 decreased 4%, the result of lower long-term
+obligations outstanding, reduced short-term borrowings and lower prevailing
+interest rates during the year. The decreased fiscal 1994 interest income was
+the result of lower available funds for short-term investments.
+  Income Taxes--The Company's effective income tax rate for fiscal 1994 was
+40.2%, reflecting the higher corporate tax rate and retroactive requirement of
+the Revenue Reconciliation Act of 1993 offset by the impact of the adoption of
+FAS 109. The effective income tax rates for fiscal years 1993 and 1992 were
+40.4% and 41.2%, respectively. Explanations of the impact of FAS 109 and the
+differences from statutory rates are explained in the "Income Taxes" note to the
+consolidated financial statements.
+
+ENVIRONMENTAL MATTERS
+The Company's compliance with current federal, state and local regulations
+relating to the discharge of materials into the environment or otherwise
+relating to the protection of the environment has not had, nor is expected to
+have, a material effect on the Company's capital expenditures, earnings or
+competitive position. The Company continues to give attention to the impact of
+its operations on the environment.
+
+                                      20
+<PAGE>
+
+CONSOLIDATED BALANCE SHEETS
+
+MAY 29, 1994 AND MAY 30, 1993 In thousands
+<TABLE>
+<CAPTION>
+- - ----------------------------------------------------------------------------------------------------------------------------------
+ASSETS                                                                                                             1994       1993
+<S>                                                                                                         <C>          <C>
+CURRENT ASSETS:
+  CASH AND TEMPORARY CASH INVESTMENTS                                                                        $   10,967   $ 41,572
+  ACCOUNTS AND NOTES RECEIVABLE, LESS ALLOWANCE FOR DOUBTFUL ACCOUNTS OF $3,875 AND $4,470, RESPECTIVELY        169,395    146,541
+  INVENTORIES                                                                                                   233,324    178,996
+  PREPAID DEFERRED INCOME TAXES                                                                                  17,249     22,108
+  OTHER CURRENT ASSETS                                                                                           29,247     16,885
+    TOTAL CURRENT ASSETS                                                                                        460,182    406,102
+PROPERTY, PLANT AND EQUIPMENT, AT COST:
+  LAND                                                                                                           29,679     27,917
+  BUILDINGS AND IMPROVEMENTS                                                                                    235,191    199,520
+  MACHINERY AND EQUIPMENT                                                                                       539,192    448,973
+  TRANSPORTATION EQUIPMENT                                                                                       54,452     57,644
+  CONSTRUCTION IN PROGRESS                                                                                       47,897     36,844
+                                                                                                                906,411    770,898
+  LESS--ACCUMULATED DEPRECIATION                                                                                363,200    327,134
+    TOTAL PROPERTIES, NET                                                                                       543,211    443,764
+OTHER ASSETS:
+  INTANGIBLE ASSETS, NET OF AMORTIZATION OF $8,474 AND $6,379, RESPECTIVELY                                     101,389     35,479
+  OTHER                                                                                                           4,372      7,491
+    TOTAL OTHER ASSETS                                                                                          105,761     42,970
+    TOTAL ASSETS                                                                                             $1,109,154   $892,836
+- - ----------------------------------------------------------------------------------------------------------------------------------
+LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES:
+  NOTES PAYABLE TO BANKS                                                                                     $  122,000   $      -
+  CURRENT INSTALLMENTS OF LONG-TERM OBLIGATIONS                                                                   6,960      2,351
+  ACCOUNTS PAYABLE AND ACCRUED EXPENSES                                                                         227,348    193,571
+  DIVIDENDS PAYABLE                                                                                               6,462      5,953
+  FEDERAL AND STATE INCOME TAXES                                                                                  4,497      5,834
+    TOTAL CURRENT LIABILITIES                                                                                   367,267    207,709
+LONG-TERM OBLIGATIONS                                                                                           136,150    151,127
+DEFERRED LIABILITIES:
+  DEFERRED INCOME TAXES                                                                                          63,410     46,342
+  OTHER                                                                                                          17,553     11,339
+    TOTAL DEFERRED LIABILITIES                                                                                   80,963     57,681
+SHAREHOLDERS' EQUITY:
+  PREFERRED STOCK, $1 PAR VALUE, 10,000,000 SHARES AUTHORIZED, NONE ISSUED                                            -          -
+  COMMON STOCK, $1 PAR VALUE, 80,000,000 SHARES AUTHORIZED, 41,050,503 AND 40,946,258
+    SHARES ISSUED, RESPECTIVELY                                                                                  41,050     40,946
+  CAPITAL IN EXCESS OF PAR VALUE                                                                                  5,911      3,955
+  RETAINED EARNINGS                                                                                             507,981    461,479
+  LESS--TREASURY STOCK, AT COST, 1,261,890 AND 1,257,429 SHARES, RESPECTIVELY                                    30,168     30,061
+    TOTAL SHAREHOLDERS' EQUITY                                                                                  524,774    476,319
+COMMITMENTS AND CONTINGENT LIABILITIES                                                                                -          -
+    TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                                                               $1,109,154   $892,836
+SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+</TABLE>
+
+                                      21
+<PAGE>
+
+CONSOLIDATED STATEMENTS OF INCOME
+<TABLE> 
+<CAPTION> 
+FOR THE THREE FISCAL YEARS ENDED MAY 29, 1994
+- - -------------------------------------------------------------------------------------------------------------------------------
+In thousands                                                                                       1994       1993        1992
+<S>                                                                                          <C>        <C>          <C>
+NET SALES                                                                                    $2,431,203  $2,274,340  $2,289,441
+COSTS AND EXPENSES:
+  COSTS OF PRODUCTS SOLD                                                                      1,885,012   1,757,324   1,773,167
+  DELIVERY, SELLING AND ADMINISTRATIVE EXPENSES                                                 413,387     391,061     389,653
+  INTEREST EXPENSE                                                                               15,471      14,888      15,551
+  INTEREST INCOME                                                                                  (728)       (994)     (1,523)
+  OTHER INCOME, NET                                                                                (252)     (2,698)     (2,034)
+  SPECIAL CHARGE                                                                                      -          -        9,100
+    TOTAL COSTS AND EXPENSES                                                                  2,312,890   2,159,581   2,183,914
+INCOME BEFORE TAXES AND CUMULATIVE EFFECT OF CHANGES IN ACCOUNTING PRINCIPLES                   118,313     114,759     105,527
+PROVISION FOR INCOME TAXES                                                                       47,551      46,350      43,511
+INCOME BEFORE CUMULATIVE EFFECT OF CHANGES IN ACCOUNTING PRINCIPLES                              70,762      68,409      62,016
+CUMULATIVE EFFECT OF CHANGES IN ACCOUNTING PRINCIPLES                                             1,179           -           -
+NET INCOME FOR THE YEAR                                                                      $   71,941  $   68,409  $   62,016
+NET INCOME PER SHARE:
+  EARNINGS PER SHARE BEFORE CUMULATIVE EFFECT OF CHANGES IN ACCOUNTING PRINCIPLES            $     1.78  $     1.73  $     1.53
+  CUMULATIVE EFFECT OF CHANGES IN ACCOUNTING PRINCIPLES                                             .03           -           -
+NET INCOME PER SHARE                                                                         $     1.81  $     1.73  $     1.53
+</TABLE>
+SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+<TABLE>
+<CAPTION>
+FOR THE THREE FISCAL YEARS ENDED MAY 29, 1994
+- - -------------------------------------------------------------------------------------------------------------------------------
+In thousands                                                        COMMON STOCK       CAPITAL IN EXCESS   RETAINED    TREASURY
+                                                                SHARES          VALUE       OF PAR VALUE   EARNINGS       STOCK
+<S>                                                             <C>      <C>           <C>                 <C>        <C>       
+BALANCE MAY 26, 1991                                            27,139        $27,179           $ 13,165   $377,541   $ (1,325)
+  NET INCOME                                                         -              -                  -     62,016          -
+  EXERCISE OF STOCK OPTIONS                                         63             63              2,422          -          -
+  THREE-FOR-TWO STOCK SPLIT                                     13,614         13,614            (13,614)         -          -
+  PURCHASE OF TREASURY STOCK                                    (1,213)             -                  -          -    (27,938)
+  CASH DIVIDENDS, $.56 PER SHARE                                     -              -                  -    (22,680)         -
+BALANCE MAY 31, 1992                                            39,603         40,856              1,973    416,877    (29,263)
+  NET INCOME                                                         -              -                  -     68,409          -
+  EXERCISE OF STOCK OPTIONS                                         90             90              1,982          -          -
+  PURCHASE OF TREASURY STOCK                                      (539)             -                  -          -    (13,620)
+  ISSUANCE OF TREASURY STOCK                                       535              -                  -          -     12,822
+  CASH DIVIDENDS, $.60 PER SHARE                                     -              -                  -    (23,807)         -
+BALANCE MAY 30, 1993                                            39,689         40,946              3,955    461,479    (30,061)
+  NET INCOME                                                         -              -                  -     71,941          -
+  EXERCISE OF STOCK OPTIONS                                        104            104              1,956          -          -
+  RETURN OF TREASURY STOCK                                          (4)             -                  -          -       (107)
+  CASH DIVIDENDS, $.64 PER SHARE                                     -              -                  -    (25,439)         -
+BALANCE MAY 29, 1994                                            39,789        $41,050           $  5,911   $507,981   $(30,168)
+</TABLE>
+SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+
+
+                                      22
+<PAGE>
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+FOR THE THREE FISCAL YEARS ENDED MAY 29, 1994
+<TABLE>
+<CAPTION>
+- - ----------------------------------------------------------------------------------------------------------------
+In thousands                                                                      1994       1993        1992
+<S>                                                                            <C>         <C>        <C>
+CASH FLOWS FROM OPERATIONS:
+  NET INCOME                                                                   $  71,941   $ 68,409   $  62,016
+  ADJUSTMENTS TO RECONCILE NET INCOME TO NET CASH PROVIDED FROM OPERATIONS:
+    DEPRECIATION AND AMORTIZATION                                                 61,875     53,997      50,271
+    DEFERRED INCOME TAXES                                                          3,307      3,724       7,753
+    OTHER LONG-TERM DEFERRED LIABILITIES                                             288     (6,477)       (337)
+    GAIN ON DIVESTITURES                                                               -       (107)       (841)
+    CHANGES IN ACCOUNTING PRINCIPLES, NET                                         (1,179)         -           -
+    (INCREASE) DECREASE IN WORKING CAPITAL ITEMS, NET OF ACQUISITIONS:
+      ACCOUNTS AND NOTES RECEIVABLE                                               (5,687)     8,746       1,066
+      INVENTORIES AND OTHER CURRENT ASSETS                                       (16,933)     4,484      (2,871)
+      ACCOUNTS PAYABLE AND ACCRUED EXPENSES                                       12,863     (9,615)     14,756
+      FEDERAL AND STATE INCOME TAXES                                              (1,361)       641      (6,676)
+    OTHER                                                                         (3,126)    (1,074)       (681)
+NET CASH PROVIDED FROM OPERATIONS                                                121,988    122,728     124,456
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  CAPITAL EXPENDITURES                                                           (80,977)   (74,803)    (77,867)
+  PROCEEDS FROM DISPOSITIONS OF PROPERTY, PLANT AND EQUIPMENT                      3,640        566       2,252
+  ACQUISITIONS OF BUSINESSES, NET OF CASH ACQUIRED                              (171,479)    (2,801)    (10,945)
+  PROCEEDS FROM BUSINESSES DIVESTED                                                6,163        550       6,084
+NET CASH USED IN INVESTING ACTIVITIES                                           (242,653)   (76,488)    (80,476)
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  ISSUANCE OF LONG-TERM OBLIGATIONS                                                2,000      4,045       8,800
+  REPAYMENT OF LONG-TERM OBLIGATIONS                                             (12,368)   (10,585)    (11,222)
+  ISSUANCE OF NOTES PAYABLE TO BANKS, NET                                        122,000          -           -
+  UNEXPENDED INDUSTRIAL REVENUE BOND PROCEEDS                                      1,382      2,818      (4,035)
+  CASH DIVIDENDS PAID                                                            (25,014)   (23,391)    (22,164)
+  ISSUANCE OF COMMON STOCK                                                         2,060      2,072       2,485
+  PURCHASE OF TREASURY STOCK                                                           -    (13,620)    (27,938)
+NET CASH PROVIDED BY (USED IN) FINANCING ACTIVITIES                               90,060    (38,661)    (54,074)
+INCREASE (DECREASE) IN CASH AND TEMPORARY CASH INVESTMENTS                       (30,605)     7,579     (10,094)
+CASH AND TEMPORARY CASH INVESTMENTS--BEGINNING OF YEAR                            41,572     33,993      44,087
+CASH AND TEMPORARY CASH INVESTMENTS--END OF YEAR                               $  10,967   $ 41,572   $  33,993
+SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+</TABLE>
+
+                                      23
+<PAGE>
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  Dollar amounts in thousands
+unless otherwise noted
+
+ 
+SUMMARY OF ACCOUNTING POLICIES
+   Definition of Fiscal Year--The Company's fiscal year ends on the last Sunday
+in May. There were 52 weeks in the fiscal years ended May 1994 and 1993, whereas
+there were 53 weeks in fiscal 1992.
+   Principles of Consolidation--The consolidated financial statements include
+the accounts of the Company and all of its wholly-owned and majority-owned
+subsidiaries. All significant intercompany transactions and balances are
+excluded from the statements.
+   Cash and Temporary Cash Investments--The Company considers temporary cash
+investments with an original maturity of three months or less to be cash
+equivalents.
+   Inventories--Inventories are stated at the lower of cost or market. The
+majority of inventories are valued on the last-in, first-out (LIFO) method. The
+majority of Dairy and certain Specialty Food Products inventories are valued on
+the first-in, first-out (FIFO) method.
+   Property, Plant and Equipment--Major renewals and betterments are capitalized
+while repairs and maintenance which do not improve or extend useful life are
+expensed currently. Upon sale, retirement, abandonment or other disposition of
+property, the cost and related accumulated depreciation are eliminated from the
+accounts and any gain or loss is reflected in income. For financial statement
+purposes, depreciation is calculated by the straight-line method. For income tax
+purposes, depreciation is calculated using accelerated methods for certain
+assets.
+   Pensions--Substantially all of the Company's employees are covered by Company
+or union-management-administered pension plans or profit sharing plans. The
+policy with respect to Company-administered pension plans is to fund accrued
+pension costs based on determinations made by independent actuaries which
+include provision for service cost, interest cost, return on pension assets and
+amortization of prior service cost and unrecognized initial net assets.
+   Intangible Assets--Excess of cost over fair market value of net assets of
+acquired companies and other intangible assets are amortized on a straight-line
+basis over various periods between three years and a maximum of forty years.
+   Income Taxes--Deferred tax assets and liabilities are recognized for the
+future tax consequences attributable to differences between the financial
+statement carrying amounts of existing assets and liabilities and their
+respective tax bases. Effective in the first quarter of fiscal year 1994 with
+the adoption of Statement of Financial Accounting Standards No. 109, "Accounting
+for Income Taxes," deferred tax assets and liabilities are measured using
+enacted tax rates expected to apply to taxable income in the years in which
+those temporary differences are expected to be recovered or settled. The
+cumulative effect of the change in method of accounting has been reported in the
+fiscal 1994 Consolidated Statement of Income.
+   Prior to 1994, deferred taxes were recognized to reflect the tax effects of
+differences in the timing of reporting transactions for financial statement
+and income tax purposes using the tax rate in the year of calculation.
+   Net Income per Common Share--Net income per common share is based upon
+the weighted average number of common and common equivalent shares
+outstanding during each year.
+
+BUSINESS ACQUISITIONS
+On December 27, 1993, the Company completed the acquisition of the Birds Eye
+Frozen Vegetable business (Birds Eye) from the All-American Gourmet Company, a
+wholly-owned subsidiary of Kraft General Foods, Inc., for approximately $140
+million. The acquisition has been accounted for as a purchase and, accordingly,
+the operating results of Birds Eye have been included in the consolidated
+operating results since the date of acquisition. The funds used to acquire Birds
+Eye were provided by the Company's bank short-term lines of credit. The
+acquisition resulted in intangible assets of $47 million.
+   The following summary, prepared on a pro forma basis, combines the
+consolidated results of operations as if Birds Eye had been acquired as of the
+beginning of the 1993 fiscal year.
+<TABLE>
+<CAPTION>
+
+UNAUDITED
+- - ----------------------------------------------------
+                                 1994          1993
+<S>                        <C>           <C>
+Net sales                  $2,549,452    $2,474,784
+Net income                 $   73,110        74,407
+Net income per share       $     1.84          1.88
+</TABLE>
+
+   The pro forma results are not necessarily indicative of the results which
+would have occurred if the acquisition had taken place on the basis assumed. In
+addition, the pro forma results are not intended to be a projection of future
+results and do not reflect any synergies that might be achieved from combined
+operations.
+   During fiscal 1994, the Company also acquired a Dairy Products operation and
+another Specialty Food Products operation for cash consideration. During fiscal
+1993, the Company exchanged 535,000 shares of common stock for all of the
+outstanding shares of a Specialty Food Products operation and acquired another
+Specialty Food Products operation for cash consideration. In fiscal 1994, 4,100
+shares of common stock were returned to the Company under the escrow provisions
+of the 1993 acquisition agreement. These acquisitions were accounted for as
+purchases and, accordingly, results subsequent to their respective dates of
+acquisition are included in the Consolidated Financial Statements. The pro forma
+impact as if these acquisitions had occurred at the beginning of the 1993 fiscal
+year is not significant.
+
+SUBSEQUENT EVENT
+Subsequent to year-end, the Company was informed that the Board of Directors
+of Curtice-Burns Foods, Inc., Rochester, New York (Curtice-Burns), voted to
+pursue a proposal whereby the Company would acquire all of the outstanding stock
+of Curtice-Burns for $20 per share, subject to the resolution of a number of
+specified contingencies. The purchase price, including the refinancing of
+existing indebtedness, is estimated to be approximately $460 million.
+   The more significant contingencies which must be resolved include the
+satisfactory resolution of the arbitration of the agreement between Curtice-
+Burns and Pro-Fac Cooperative (Pro-Fac) covering the supply of agricultural
+crops to Curtice-Burns and the use of the various processing plants and
+equipment owned by Pro-Fac but used
+
+
+                                      24
+<PAGE>
+ 
+in the conduct of the business, the negotiation of a definitive agreement for
+the concurrent sale of the Nalley's Fine Foods Division, clearance of the
+transaction by appropriate governmental agencies, negotiation of definitive
+agreements and approval of any transaction by the Curtice-Burns shareholders.
+   Curtice-Burns' products include canned pie fillings, canned aseptic products,
+canned and frozen traditional vegetables, frozen southern vegetables, and canned
+bean products marketed under private labels and regional brands including
+Comstock, Wilderness, Thank You, McKenzie's and Brooks. Curtice-Burns also
+produces and markets canned meats, salad dressings and chili products in the
+Northwestern United States and Canada (Nalley's Fine Foods Division), snack
+foods in Pennsylvania, Ohio and the Northwestern United States and popcorn in
+the midwest which the Company currently considers to be non-core businesses and
+may be sold should the Company acquire Curtice-Burns. For the nine months ended
+March 26, 1994, Curtice-Burns reported sales of $643 million, net income of $10
+million and net income per share of $1.11 per share.
+   Management is confident that should the contingencies be resolved, the
+Curtice-Burns transaction would be financed through a new bank revolving credit
+and term loan facility. Although the Company has held discussions with its
+existing banks regarding such a facility, no agreement exists concerning the
+amounts or terms of any such facility. As a result of the substantial
+contingencies involved in the Curtice-Burns acquisition, management is unable to
+predict the timing of eventual resolution or the impact on the Company's
+proposal to acquire Curtice-Burns.
+
+BORROWING ARRANGEMENTS
+   Long-term obligations, less installments due within one year, are summarized
+below:
+<TABLE>
+<CAPTION>
+- - ------------------------------------------------------------------------
+                                                      1994       1993
+<S>                                                 <C>        <C>        
+Installment note, 9.64%, maturing in equal
+  amounts of $6,500 from 1996 through 2005           $ 65,000   $ 65,000
+Installment note, 10.1%, maturing in equal
+  amounts of $3,500 from 1995 through 2004             35,000     35,000
+Industrial revenue bonds maturing in varying
+  amounts through 2013:
+  Fixed rate, (7.5% to 10.75%; average 8.41%)           6,869     15,544
+  Floating rate, (1.75% to 7.00%; average 2.63%)       21,998     20,172
+Capitalized lease obligations, 9.75%, maturing
+     in various installments through 2011               9,486     10,883
+Other obligations, maturing in varying amounts
+  through 2025, (7.5% to 10%; average 8.8%)             4,757      6,879
+                                                      143,110    153,478
+Less: Installments due within one year                  6,960      2,351
+Total long-term obligations                          $136,150   $151,127
+</TABLE>
+
+At May 29, 1994, under the most restrictive provisions of the Company's
+borrowing arrangements: tangible net worth of at least $175 million, working
+capital of at least $60 million, and a current ratio of at least 1.25 were
+required to be maintained; approximately $83 million of retained earnings was
+unrestricted for the payment of cash dividends and repurchase of common stock;
+and the Company could not incur total long-term debt in excess of 65% of total
+capitalization.
+   Maturities of long-term obligations during each of the years 1996 through
+1999 are $11,797, $11,670, $13,473 and $11,458, respectively.
+   Certain land, buildings and machinery and equipment having a net carrying
+value of approximately $39 million were mortgaged or otherwise encumbered
+against long-term debt of $15 million at May 29, 1994.
+   The Company has committed short-term lines of credit which are seasonally
+adjusted to provide a maximum of $177.5 million available for borrowing needs.
+The unused lines of credit at May 29, 1994 were $55.5 million. Lending banks are
+compensated on a fee basis of 1/8 of 1% of the credit line. During 1994, maximum
+borrowings under the Company's committed and uncommitted lines of credit were
+$202 million; average borrowings for the year were $64.7 million at a weighted
+average interest rate of 3.6%.
+
+SPECIAL CHARGE
+During the fourth quarter of 1992, the Company decided to terminate operation of
+its refrigerated truckload transportation business. A charge to operations of
+$9,100 ($5,685 after taxes, or $.14 per share) was provided relating primarily
+to leased and owned assets as well as other transition costs.
+
+INVENTORIES
+At May 29, 1994 and May 30, 1993, inventories comprised the following:
+<TABLE>
+<CAPTION>
+- - ---------------------------------------------------------------------
+                                                 1994        1993
+<S>                                            <C>        <C>
+Raw materials and supplies                     $ 69,258    $ 46,666
+Materials in process                             31,823      28,473
+Finished goods                                  151,358     121,400
+                                                252,439     196,539
+Less: Excess of current cost over stated
+      value of last-in, first-out 
+      inventories                               (19,115)    (17,543)
+Total inventories                              $233,324    $178,996
+</TABLE>
+
+   The percentage of costs of products sold determined on the basis of last-in,
+first-out cost approximated 40.9% and 33.8% for 1994 and 1993, respectively.
+                                                                              
+                                      25
+<PAGE>
+ 
+SHAREHOLDERS' EQUITY
+The 1988 shareholder rights plan, as amended, protects shareholders in the event
+the Company becomes the target of coercive and unfair takeover tactics. The
+rights were distributed to shareholders on the basis of one preferred stock
+purchase right for each share of Dean Foods Company common stock. Each right
+entitles shareholders to purchase one one-hundredth of a share of preferred
+stock and will become exercisable only if a person or group acquires 15% or more
+of the Company's common stock. The rights may be redeemed by the Company for
+$.05 per right at any time prior to a public announcement that a person or group
+has acquired 15% or more of the Company's common stock. The rights expire on
+August 10, 1998, unless previously redeemed or exercised.
+   The Company may repurchase shares of its common stock from time to time in
+the open market, in privately-negotiated transactions or otherwise at a price or
+prices reasonably related to the then prevailing market price.
+   A summary of stock option activity for the Company's stock option plans
+follows:
+<TABLE>
+<CAPTION>
+
+                                          NUMBER     AVERAGE
+                                       OF SHARES      OPTION
+                                           UNDER       PRICE
+                                          OPTION   PER SHARE
+- - -------------------------------------------------------------
+<S>                                    <C>         <C>
+Outstanding at May 26, 1991              574,833      $22.99
+Changes during the year:
+  Granted                                187,030       32.83
+  Terminated                              (8,762)      23.79
+  Exercised                              (24,386)      21.42
+Options outstanding at May 31, 1992      728,715       25.56
+Changes during the year:
+  Granted                                282,235       26.95
+  Terminated                             (16,949)      27.29
+  Exercised                              (71,472)      21.67
+Options outstanding at May 30, 1993      922,529       26.26
+Changes during the year:
+  Granted                                250,119       26.87
+  Terminated                             (14,032)      29.17
+  Exercised                             (118,586)      21.82
+Options outstanding at May 29, 1994    1,040,030      $26.87
+  Exercisable at end of year             511,571      $26.22
+Available for grants:
+  Beginning of year                      897,766
+  End of year                            624,819
+</TABLE>
+
+Under the stock option plans, key employees and directors may be granted stock
+awards or options to purchase, at fair market value on the date of grant, a
+maximum of 1,915,000 shares of the Company's common stock. Of these shares, a
+maximum of 115,000 may be granted to non-employee directors. A total of 65,500
+shares have been granted to non-employee directors. A total of 345,688 non-
+qualified options are outstanding, which obligate the Company to make a cash
+payment to the optionee, upon exercise, of an amount up to aggregate increase in
+the market value of the common stock since the date of grant. Options terminate
+five to ten years after date of grant.
+   The Company may, from time to time, offer key employees the opportunity to
+elect to receive, in lieu of all or a portion of the cash bonuses otherwise
+payable to them, stock awards of shares of the Company's common stock having a
+fair market value on the date of the award equal to 115% of such cash bonuses or
+portions thereof (Stock Bonus Awards Program). In fiscal 1994, key employees
+elected to receive 36,860 shares under the Stock Bonus Awards Program which
+related to bonuses.
+
+INCOME TAXES
+The Company adopted the provisions of the Statement of Financial Accounting
+Standard No. 109, "Accounting for Income Taxes," as of May 31, 1993. Under this
+method, deferred tax assets and liabilities are determined based on the
+difference between the financial statement and tax bases of assets and
+liabilities using enacted tax rates in effect for the year in which the
+differences are expected to reverse.
+   As permitted under the Statement, prior years' financial statements have not
+been restated. The cumulative effect of the change in accounting principle on
+prior fiscal periods increased current year net income by $2.2 million, net of
+taxes, or $0.06 per share.
+   The Statement also requires that deferred taxes be recorded for the tax
+effects of differences between the assigned values and the tax basis of assets
+acquired and liabilities assumed in business acquisitions. This change in method
+increased the values assigned to such net assets by $22.7 million with a
+corresponding increase in deferred income taxes.
+   Taxes on income were as follows:
+<TABLE>
+<CAPTION>
+- - ----------------------------------------------------------------------------
+                                            1994          1993          1992
+<S>                                      <C>           <C>           <C>    
+Current tax expense:
+  Federal                                $37,387       $30,447       $36,837
+  State and foreign                        8,385         5,525         8,272
+                                          45,772        35,972        45,109
+  Deferred tax expense (credit):
+  Federal                                    708         8,435        (1,311)
+  State and foreign                          150         1,943          (287)
+  Effect of tax rate change                  921             -             -
+                                           1,779        10,378        (1,598)
+Provision for income taxes               $47,551       $46,350       $43,511
+</TABLE> 
+
+                                      26
+<PAGE>
+ 
+The effective tax rates differ from the prevailing statutory federal
+rate as follows:
+<TABLE> 
+<CAPTION> 
+- - --------------------------------------------------------------------
+                                       1994        1993       1992
+<S>                                  <C>         <C>        <C> 
+Statutory federal tax rate             35.0%       34.0%      34.0%
+State and local income taxes,
+  net of federal benefit                4.3         4.3        5.0
+Other, net                              0.9         2.1        2.2
+Effective tax rate                     40.2%       40.4%      41.2%
+</TABLE> 
+ 
+  Significant timing differences comprising the deferred tax provision
+were as follows:
+<TABLE> 
+<CAPTION> 
+- - ---------------------------------------------------------------------
+                                                   1993       1992
+<S>                                              <C>        <C>     
+Depreciation                                      $ 2,665   $ 2,748
+Transportation business reserve                     2,930    (3,415)
+Compensation costs                                  3,333       (71)
+Other, net                                          1,450      (860)
+Deferred tax expense (credit)                    $ 10,378   $(1,598)
+</TABLE> 
+ 
+  The components of the deferred income taxes as of May 29, 1994 were as
+follows:
+<TABLE> 
+<CAPTION> 
+- - ------------------------------------------------------------------------
+<S>                                                         <C> 
+Prepaid deferred income taxes:
+ Accounts receivable                                        $  2,177
+ LIFO inventory                                               (2,991)
+ Self-insurance reserves                                      10,096
+ Vacation pay                                                  3,720
+ Other                                                         4,247
+ Total prepaid deferred income taxes                          17,249
+Deferred income taxes:
+ Fixed assets                                                (65,479)
+ Deferred compensation                                         3,772
+ Other                                                        (1,703)
+ Total deferred income taxes                                 (63,410)
+Net deferred income taxes                                   $(46,161)
+</TABLE> 
+
+EMPLOYEE BENEFIT PLANS
+
+The Company has various profit sharing and retirement plans covering certain
+salaried and hourly employees. Amounts charged to operations under all plans
+were $15,502, $14,659 and $14,171 in 1994, 1993, 1992, respectively.
+   Defined Benefit Pension Plans--Costs for noncontributory defined benefit
+plans were $2,750, $1,885 and $1,135 in 1994, 1993 and 1992, respectively. Plan
+assets are primarily invested in bonds, stocks and real estate. Significant
+weighted average assumptions used in determining net pension costs were:
+<TABLE>
+<CAPTION>
+- - -------------------------------------------------------------------------
+                                                        1994       1993
+<S>                                                <C>         <C>     
+Discount rate                                           7.5%        8.0%
+Expected long-term rate of return on assets             8.0%        8.3%
+Rate of increase in compensation levels (range)    0 -  5.0%   0 -  5.0%
+</TABLE> 
+
+   The Company's defined benefit net pension costs included the
+following components:
+<TABLE> 
+<CAPTION> 
+- - ---------------------------------------------------------------------
+                                                       1994      1993
+<S>                                                <C>         <C>     
+Current service costs                               $ 2,414   $ 2,235
+Interest cost on projected benefit obligation         4,859     4,414
+Actual return on plan assets                         (4,189)   (3,808)
+Net amortization and deferral                          (334)     (956)
+Net pension costs for the year                      $ 2,750   $ 1,885
+</TABLE>
+
+   The following table sets forth the funded status of the Company's defined
+benefit plans reconciled to accrued pension costs:
+<TABLE>
+<CAPTION>
+- - ---------------------------------------------------------------------
+                                                      1994        1993
+<S>                                                <C>         <C>     
+Present value of projected benefit obligation:
+  Vested employees                                  $ 46,650    $ 47,660
+  Non-vested employees                                 3,730       1,869
+Accumulated benefit obligation                        50,380      49,529
+Additional amounts due to
+  future salary increases                             16,202      10,552
+Total projected benefit obligation                    66,582      60,081
+Fair value of net assets available for benefits      (54,882)    (56,457)
+Projected benefit obligation greater
+     than net assets available                        11,700       3,624
+Unrecognized prior service cost                         (211)     (1,008)
+Unamortized transition net assets                      4,296       4,742
+Unrecognized net gain                                (14,049)     (5,871)
+Net accrued pension costs                           $  1,736    $  1,487
+</TABLE>
+
+                                      27
+<PAGE>
+ 
+The majority of retirement benefits are based upon the highest five year average
+qualifying earnings (base compensation) for service prior to January 1, 1986
+and, for service since then, based upon the participant's qualifying earnings
+each year.
+   The Company participates in various multi-employer union-management-
+administered defined contribution pension plans that principally cover
+production workers. Pension expense under these plans was $4,810, $4,773 and
+$4,884 in 1994, 1993 and 1992, respectively.
+   Profit Sharing Plans--The Company maintains noncontributory profit sharing
+plans for certain employees. Company contributions under these plans are made at
+the discretion of the Board of Directors. Expense for these plans was $5,299,
+$4,626 and $4,692 in 1994, 1993 and 1992, respectively.
+   Postretirement Benefits--The Company provides health care and life insurance
+benefits to certain of its retired employees and eligible dependents. Employees
+are eligible for such benefits subject to minimum age and service requirements.
+Eligible employees that retire before the normal retirement age, along with
+their dependents, are entitled to benefits on a shared contribution basis.
+Substantially all benefits terminate at age sixty-five. The Company retains the
+right to modify or eliminate these benefits.
+   Effective May 31, 1993, the Company implemented Statement of Financial
+Accounting Standard No. 106, "Employers' Accounting for Postretirement Benefits
+Other than Pensions," which requires recognition of the cost of postretirement
+benefits on an accrual basis rather than the cash basis, which was the Company's
+previous accounting policy. The cumulative effect of the accounting change
+resulted in a non-cash charge of $1,027 (net of $657 of taxes) or $.03 per share
+which represents the accumulated postretirement benefit obligation (APBO)
+existing at May 31, 1993. Additionally, in connection with the Birds Eye
+acquisition, the Company assumed a postretirement obligation of $4,252 which was
+recorded as part of the acquisition accounting.
+   For the years ended 1993 and 1992, the Company recognized postretirement
+benefit costs as incurred. The amounts recognized in expense in prior years was
+not material.
+   Postretirement benefits expense was $508 in 1994. The components of expense
+in 1994 follows:
+<TABLE>
+<CAPTION> 
+- - ------------------------------------------
+<S>                                   <C>
+Service cost of benefits earned       $237
+Interest cost on liability             271
+Net postretirement benefit cost       $508
+</TABLE> 
+ 
+The following table summarizes the postretirement benefit liability as of 
+May 29, 1994:
+<TABLE> 
+<CAPTION> 
+- - ------------------------------------------
+<S>                                 <C>
+Retirees                            $1,731
+Fully eligible active participants     254
+Other active participants            5,367
+Total                                7,352
+Unrecognized net loss                 (908)
+Accrued postretirement benefits     $6,444
+</TABLE>
+
+   The accumulated postretirement benefit obligation was determined using 7.5%
+weighted average discount rate and an assumed compensation increase of 5.0%. The
+health care cost trend rates were assumed to be 11% in 1994, gradually declining
+to 5.5% over ten years and remaining at that level thereafter. The health care
+cost trend rate assumption has a significant effect on the amounts reported. For
+example, a 1% increase in the health care cost trend rate would increase the
+accumulated postretirement benefit obligation by $1,305 at May 29, 1994, and the
+net periodic cost by $239.
+
+LEASES
+Net rental expense, including amounts for leases of one year or less, was
+$21,203, $23,192 and $27,648 in 1994, 1993 and 1992, respectively. Sublease
+rental income is not significant. A majority of the Company's leases provide
+that the Company pay taxes, maintenance, insurance and certain other operating
+expenses.
+   At May 29, 1994, annual minimum rental payments under capital and operating
+leases that have initial noncancelable terms in excess of one year were as
+follows:
+<TABLE>
+<CAPTION>
+                                          CAPITAL  OPERATING
+                                          LEASES      LEASES
+- - ------------------------------------------------------------
+<S>                                       <C>      <C>        
+1995                                      $ 1,271    $10,751
+1996                                        1,000      6,787
+1997                                        1,000      5,698
+1998                                        1,000      4,382
+1999                                        1,000      3,066
+Thereafter                                 16,190      2,912
+Total minimum lease payments               21,461    $33,596
+Less: Imputed interest                     11,975
+Present value of minimum lease payments   $ 9,486
+</TABLE> 
+                                      28
+<PAGE>
+
+ACCOUNTS PAYABLE AND ACCRUED EXPENSES
+Consolidated accounts payable and accrued expenses at May 29, 1994 and May 30,
+1993, comprised the following items:
+<TABLE> 
+<CAPTION> 
+- - ---------------------------------------------------------------------------------------------------------------------
+                                                                                                     1994      1993
+<S>                                                                                                <C>        <C> 
+Trade payables                                                                                     $ 96,704   $101,703
+Accrued expenses                                                                                     56,817     24,289
+Accrued insurance                                                                                    31,020     30,396
+Accrued payroll                                                                                      29,302     24,855
+Accrued taxes, other than income                                                                      6,287      6,048
+Accrued pension and profit sharing                                                                    7,218      6,280
+Total accounts payable and accrued expenses                                                        $227,348   $193,571
+</TABLE> 
+ 
+CASH FLOW DATA
+Interest and taxes paid included in the Company's cash flow from operations
+were as follows:
+<TABLE> 
+<CAPTION> 
+- - ----------------------------------------------------------------------------------------------------------------------------------
+                                                                                                     1994        1993       1992
+<S>                                                                                                <C>         <C>        <C> 
+Interest paid                                                                                      $15,591     $14,917    $15,615
+Taxes paid                                                                                          46,753      38,400     50,737
+</TABLE> 
+ 
+Liabilities assumed in conjunction with business acquisitions were:
+<TABLE> 
+<CAPTION> 
+- - ---------------------------------------------------------------------------------------------------------------------------------- 
+                                                                                                     1994        1993       1992
+<S>                                                                                                <C>         <C>        <C> 
+Fair value of assets acquired                                                                      $ 197,090   $ 22,752   $ 23,042
+Consideration paid                                                                                  (171,479)   (15,784)   (10,945)
+    Liabilities assumed                                                                            $  25,611   $  6,968   $ 12,097
+</TABLE>
+
+COMMITMENTS AND CONTINGENT LIABILITIES
+The Company is a defendant in various legal matters and is currently the subject
+of investigations by various state and federal authorities relating to the
+pricing of contracts to supply milk and certain environmental matters. The
+ultimate resolution of these matters is not expected to have a material effect
+on the financial position or results of operations of the Company.
+
+BUSINESS SEGMENT INFORMATION
+The nature of products classified in the business segments presented herein
+is described on pages 4 through 13. Intersegment sales are not material.
+   "Corporate and Other" includes revenues and expenses of the Company's
+transportation subsidiary and canned meats processed under government bid
+contracts. General corporate expenses, interest expense, and interest income are
+classified as "Corporate and Other." Identifiable assets are those used in the
+Company's operations in each segment.
+<TABLE>
+<CAPTION>
+                                   SPECIALTY
+                            DAIRY       FOOD  CORPORATE
+                         PRODUCTS   PRODUCTS  AND OTHER   CONSOLIDATED
+<S>                     <C>         <C>       <C>         <C>
+- - -----------------------------------------------------------------------
+1994
+Net sales               $1,469,198  $937,183   $ 24,822     $2,431,203
+Operating earnings          77,987    68,168    (27,842)       118,313
+Identifiable assets        459,986   576,868     72,300      1,109,154
+Depreciation and
+  amortization              35,424    24,782      1,669         61,875
+Capital expenditures        51,466    28,128      1,383         80,977
+- - ----------------------------------------------------------------------- 
+1993
+Net sales               $1,437,004  $805,791   $ 31,545     $2,274,340
+Operating earnings          82,568    57,181    (24,990)       114,759
+Identifiable assets        429,766   376,046     87,024        892,836
+Depreciation and
+  amortization              32,417    19,534      2,046         53,997
+Capital expenditures        54,181    19,633        989         74,803
+- - ----------------------------------------------------------------------- 
+1992
+Net sales               $1,430,160  $789,663   $ 69,618     $2,289,441
+Operating earnings          83,258    60,184    (37,915)       105,527
+Identifiable assets        414,158   359,043     83,951        857,152
+Depreciation and
+  amortization              30,704    17,719      1,848         50,271
+Capital expenditures        53,334    23,904        629         77,867
+</TABLE>
+
+   Operating earnings for fiscal 1992 of Corporate and Other includes a special
+charge of $9,100 related to the Company's transportation subsidiary.  This item
+is further described in the Special Charge note.
+
+                                       29
+<PAGE>
+
+QUARTERLY FINANCIAL DATA
+
+ 
+<TABLE>
+<CAPTION>
+UNAUDITED: (IN THOUSANDS EXCEPT FOR PER SHARE DATA)
+- - ----------------------------------------------------------------
+                             FIRST    SECOND     THIRD    FOURTH
+<S>                       <C>       <C>       <C>       <C>
+FISCAL 1994
+Net sales                 $559,651  $577,113  $622,890  $671,549
+Gross profit              $116,925   127,829   139,878   161,559
+Net income                $ 11,765    17,455    18,442    24,279
+Per common share data:
+  Net income              $    .30       .44       .46       .61
+  Stock price range -
+    High                  $ 28 1/4        29    33 1/2        33
+    Low                   $ 25 1/4    24 1/2    26 7/8    25 3/4
+  Dividend rate (cents)       16.0      16.0      16.0      16.0
+
+Fiscal 1993
+Net sales                 $543,227   572,326   566,565   592,222
+Gross profit              $121,182   128,163   127,426   140,245
+Net income                $ 15,426    17,170    15,965    19,848
+Per common share data:
+  Net income              $    .39       .43       .41       .50
+  Stock price range -
+    High                  $ 28 7/8        29    29 7/8    28 7/8
+    Low                   $ 24 1/8        25    26 3/4    23 1/8
+  Dividend rate (cents)       15.0         -      30.0      15.0
+</TABLE> 
+The Company's common stock is traded on the New York Stock Exchange 
+under the ticker symbol: DF.
+
+
+REPORT OF INDEPENDENT ACCOUNTANTS
+
+PRICE WATERHOUSE            [LOGO APPEARS HERE]
+200 East Randolph Drive
+Chicago, IL 60601
+
+TO THE BOARD OF DIRECTORS AND SHAREHOLDERS
+DEAN FOODS COMPANY
+In our opinion, the accompanying consolidated balance sheets and the related
+consolidated statements of income, of shareholders' equity and of cash flows
+present fairly, in all material respects, the financial position of Dean Foods
+Company and subsidiaries at May 29, 1994 and May 30, 1993, and the results of
+their operations and their cash flows for each of the three years in the period
+ended May 29, 1994, in conformity with generally accepted accounting principles.
+These financial statements are the responsibility of the Company's management;
+our responsibility is to express an opinion on these financial statements based
+on our audits. We conducted our audits of these statements in accordance with
+generally accepted auditing standards which require that we plan and perform the
+audit to obtain reasonable assurance about whether the financial statements are
+free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements,
+assessing the accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement presentation. We
+believe that our audits provide a reasonable basis for the opinion expressed
+above.
+
+
+[SIGNATURE OF PRICE WATERHOUSE]
+
+June 29, 1994
+
+                                      30
+<PAGE>
+ 
+
+SUMMARY OF OPERATIONS
+
+<TABLE> 
+<CAPTION> 
+FISCAL YEAR ENDED MAY, (IN THOUSANDS EXCEPT FOR ITEMS MARKED WITH AN *)
+- - ----------------------------------------------------------------------------------------------------------------------
+                                           1994             1993             1992              1991              1990     
+<S>                                  <C>              <C>              <C>               <C>               <C>               
+OPERATING DATA:
+Net sales                            $2,431,203        2,274,340        2,289,441         2,157,997         1,987,517
+Costs of products sold and
+  all operating expenses             $2,298,399        2,148,385        2,162,820         2,022,092         1,876,176
+Interest expense                     $   15,471           14,888           15,551            16,780            12,682
+Income before taxes                  $  118,313          114,759          105,527(B)        124,340           102,066
+Provision for income taxes           $   47,551           46,350           43,511            51,807            40,834
+Net income                           $   71,941(A)        68,409           62,016(B)         72,533            61,232
+Net income as a % of sales*                 3.0%             3.0%             2.7%              3.4%              3.1%
+Depreciation on properties           $   58,549           51,815           48,348            44,465            37,338
+Capital expenditures                 $   80,977           74,803           77,867            72,844            68,196
+Number of employees*                     12,100           10,500           10,100             9,600             8,900
+
+BALANCE SHEET DATA:    
+Working capital                      $   92,915          198,393          183,577           198,429           182,852
+Total assets                         $1,109,154          892,836          857,152           816,999           744,759
+Net plant and equipment              $  543,211          443,764          415,791           375,930           337,068
+Long-term obligations                $  136,150          151,127          155,478           149,980           146,622
+Shareholders' equity                 $  524,774          476,319          430,443           416,560           362,760
+Return on average equity*                  14.4%            15.1%            14.6%             18.6%             18.7%
+
+COMMON STOCK DATA:
+Net income per share*                $     1.81(A)          1.73             1.53(B)           1.79              1.53
+Cash dividends per share*            $      .64              .60              .56               .49               .44
+Book value per share*                $    13.19            12.00            10.87             10.23              8.93
+Number of shareholders*                   8,936            8,654            8,929             8,380             8,005
+
+- - ----------------------------------------------------------------------------------------------------------------------
+                                           1989             1988             1987              1986              1985     
+<S>                                  <C>              <C>              <C>               <C>               <C>               
+OPERATING DATA:
+Net sales                            $1,683,578        1,551,832        1,434,600         1,268,580         1,154,872
+Costs of products sold and
+  all operating expenses             $1,577,047        1,471,719        1,348,785         1,188,214         1,084,086
+Interest expense                     $    7,646            6,149            5,814             6,497             6,210
+Income before taxes                  $  101,793(C)        76,542(D)        82,794            77,656            68,366
+Provision for income taxes           $   41,360           33,787           41,727            36,933            31,602
+Net income                           $   60,433(C)        42,755(D)        41,067            40,723            36,764
+Net income as a % of sales*                 3.6%             2.8%             2.9%              3.2%              3.2%
+Depreciation on properties           $   31,046           29,028           25,559            22,325            19,799
+Capital expenditures                 $   55,917           39,258           41,618            36,581            32,582
+Number of employees*                      7,500            7,100            6,900             6,100             5,450
+
+BALANCE SHEET DATA:    
+Working capital                      $  156,469          130,355          114,819           107,718            96,572
+Total assets                         $  586,702          499,150          450,116           407,926           367,497
+Net plant and equipment              $  253,972          211,711          194,878           168,424           147,150
+Long-term obligations                $   84,162           48,884           47,024            48,997            49,275
+Shareholders' equity                 $  293,249          265,739          236,417           207,220           175,921
+Return on average equity*                  21.6%            17.0%            18.5%             21.3%             22.8%
+
+COMMON STOCK DATA:
+Net income per share*                $     1.52(C)          1.07(D)          1.03              1.02               .93
+Cash dividends per share*            $      .40              .36              .32               .27               .22
+Book value per share*                $     7.43             6.60             5.89              5.17              4.41
+Number of shareholders*                   8,290            8,671            8,357             7,682             4,918 
+
+</TABLE> 
+(A) 1994 includes an after-tax net gain of $1,179 ($.03 per share) related to
+    changes in accounting principles.
+(B) 1992 includes a charge against operations of $9,100 related to the
+    termination of the Company's refrigerated truckload transportation business
+    ($5,685 after taxes, or $.14 per share).
+(C) 1989 includes a net gain of $10,132 for unusual items ($5,442 after taxes,
+    or $.14 per share).
+(D) 1988 includes a net charge against operations of $11,606 for unusual items
+    ($9,686 after taxes,or $.24 per share).
+
+                                      31
+<PAGE>
+ 
+FINANCIAL REVIEW
+
+<TABLE> 
+<CAPTION> 
+
+PAGE WHERE                  
+GRAPHIC APPEARS       DESCRIPTION OF GRAPHIC OR CROSS-REFERENCE
+- - --------------------------------------------------------------------------- 
+<S>                   <C>   
+       16             Graph showing Working Capital from 1994-1984.
+
+                      Graph showing Dividends per share from 1994-1984.
+
+                      Graph showing Capital Expenditures from 1994-1984. 
+
+                      Graph showing Shareholders' Equity from 1994-1984.  
+
+                      Graph showing Long Term Debt to Capital from 1994-1984. 
+
+                      Graph showing Return on Average Equity from 1994 to 1984. 
+</TABLE> 
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-22.A
+<SEQUENCE>5
+<DESCRIPTION>SUBSIDIARIES
+<TEXT>
+
+<PAGE>
+ 
+                                                                   EXHIBIT 22(A)
+ 
+               SUBSIDIARIES OF THE REGISTRANT AS OF MAY 29, 1994
+ 
+<TABLE>
+<CAPTION>
+                                                               JURISDICTION IN
+                                                               WHICH ORGANIZED
+                                                             -------------------
+<S>                                                          <C>
+Bell Dairy Products, Inc.................................... Texas
+Birds Eye de Mexico, S.A. de C.V............................ Mexico
+Bowman Dairy Company, Inc................................... Delaware
+Cream o'Weber Dairy, Inc.................................... Utah
+Creamland Dairies, Inc...................................... New Mexico
+Dean Dairy Products Company................................. Pennsylvania
+Dean Foods Vegetable Company................................ Wisconsin
+Dean Milk Company, Inc...................................... Kentucky
+DFC Transportation Company.................................. Delaware
+E.B.I. Foods, Ltd........................................... United Kingdom
+Elgin Blenders, Inc......................................... Illinois
+Gandy's Dairies, Inc........................................ Texas
+Green Bay Food Company...................................... Wisconsin
+Liberty Dairy Company....................................... Michigan
+LongLife Dairy Products Company, Inc........................ Florida
+McArthur Dairy, Inc......................................... Florida
+Mayfield Dairy Farms, Inc................................... Tennessee
+Meadow Brook Dairy Company.................................. New York
+Ready Foods Products, Inc................................... Pennsylvania
+Reiter Dairy, Inc........................................... Ohio
+Ryan Milk Company, Inc...................................... Kentucky
+St. Thomas Dairies, Inc..................................... U.S. Virgin Islands
+T.G. Lee Foods, Inc......................................... Florida
+Verifine Dairy Products Corporation......................... Wisconsin
+W.B. Roddenbery Co., Inc.................................... Georgia
+</TABLE>
+ 
+  The names of all other subsidiaries have been omitted from the above list
+because, when considered in the aggregate as a single subsidiary, they would
+not constitute a significant subsidiary.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.A
+<SEQUENCE>6
+<DESCRIPTION>CONSENT
+<TEXT>
+
+<PAGE>
+ 
+                                                                 EXHIBIT 24(a)
+ 
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+ 
+  We hereby consent to the incorporation by reference in the Prospectuses
+constituting part of the Registration Statements on Forms S-8 (Nos. 2-58884, 2-
+94753, 33-33775 and 33-33776) of Dean Foods Company of our report dated June
+29, 1994 appearing on page 30 of the Dean Foods Company Annual Report to
+Shareholders for Fiscal Year Ended May 29, 1994, which is incorporated in this
+Annual Report on Form 10-K. We also consent to the incorporation by reference
+of our report on the Financial Statement Schedules, which appears on page 16 of
+this Form 10-K.
+ 
+                                          Price Waterhouse LLP
+ 
+Chicago, Illinois
+August 19, 1994
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

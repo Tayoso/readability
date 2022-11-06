@@ -1,0 +1,2002 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ A0FIYF+AGywt/PpNGp9HxDZZlQKap4SrNBwIo6WjsaC/pXZasQBnZ1za3ODCcSTh
+ Zx9fpLZmLJEEJsvAzVkiIg==
+
+<IMS-DOCUMENT>0000094567-94-000005.txt : 19940930
+<IMS-HEADER>0000094567-94-000005.hdr.sgml : 19940930
+ACCESSION NUMBER:		0000094567-94-000005
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940929
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STOKELY VAN CAMP INC
+		CENTRAL INDEX KEY:			0000094567
+		STANDARD INDUSTRIAL CLASSIFICATION:	2086
+		IRS NUMBER:				350690290
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02944
+		FILM NUMBER:		94550790
+
+	BUSINESS ADDRESS:	
+		STREET 1:		321 N CLARK ST
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60610
+		BUSINESS PHONE:		3122227798
+
+	MAIL ADDRESS:	
+		STREET 1:		321 N CLARK ST
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60610
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STOKLEY BROTHERS & CO INC
+		DATE OF NAME CHANGE:	19711114
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+
+                       Securities and Exchange Commission
+                            Washington, D.C.   20549
+                                        
+                                    Form 10-K
+                                        
+               X   Annual Report Pursuant to Section 13 or 15 (d) of
+                       the Securities Exchange Act of 1934
+                                        
+                     For the fiscal year ended June 30, 1994
+                          Commission file number 1-2944
+                                        
+                 Transition Report Pursuant to Section 13 or 15(d) of
+                       the Securities Exchange Act of 1934
+                                        
+                  For the transition period from            to
+                                        
+                             Stokely-Van Camp, Inc.
+             (Exact name of registrant as specified in its charter)
+                                        
+
+         Indiana                                       35-0690290
+
+ (State or other jurisdiction of                     (I.R.S. Employer
+ incorporation or organization)                      Identification Number)
+
+
+           Quaker Tower P.O. Box 049001 Chicago, Illinois   60604-9001
+              (Address of principal executive offices and Zip Code)
+                                        
+        Registrant's telephone number, including area code:  312-222-7111
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+                                                Name of Each Exchange on
+      Title of Each Class                                Which Registered
+
+5% Cumulative Prior Preference                  New York Stock Exchange
+Stock, $20 Par Value
+
+Common Stock, $1 Par Value                                  None
+
+
+Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that
+the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days.
+Yes X No _
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.[X]
+
+Registrant had 2,989,371 shares of common stock outstanding on June 30,
+1994, all of which were owned by The Quaker Oats Company.  There is no
+trading market for the registrant's voting stock held by non-affiliates.
+
+                                TABLE OF CONTENTS
+
+PART I                                                           PAGE
+
+      ITEM 1.  Business                                        1
+      ITEM 2.  Properties                                      1
+      ITEM 3.  Legal Proceedings                               1
+      ITEM 4.  Submission of Matters to a Vote of
+               Security-Holders                                N/A
+
+PART II
+
+      ITEM 5.  Market for Registrant's Common
+               Equity and Related Stockholder Matters          2
+      ITEM 6.  Selected Financial Data                         2
+      ITEM 7.  Management's Discussion and Analysis of Financial
+               Condition and Results of Operations             3-4
+      ITEM 8.  Financial Statements and Supplementary Data     5-16
+      ITEM 9.  Changes in and Disagreements With Accountants
+               on Accounting and Financial Disclosure          N/A
+
+PART III
+
+      ITEM 10. Directors and Executive Officers of
+               the Registrant                                  17
+      ITEM 11. Executive Compensation                          17-21
+      ITEM 12. Security Ownership of Certain
+               Beneficial Owners and Management                21-22
+      ITEM 13. Certain Relationships and Related
+               Transactions                                    22
+
+PART IV
+
+      ITEM 14. Exhibits, Financial Statement
+               Schedules, and Reports on Form 8-K
+      (a)(1)   Financial Statements
+               Consolidated Financial Statements of Stokley-Van
+               Camp, Inc. and subsidiaries are incorporated under
+               Item 8 of this Form 10-K
+      (a)(2) & (d)      Financial Statement Schedules
+               II  Amounts Receivable from Related Parties     23
+               X  Supplementary Income Statement Information   24
+      (a)(3) & (c)      Exhibits                                 26
+               3(a) Articles of Incorporation of Stokley-Van Camp, Inc.
+                  (incorporated by reference to the Company's Form 10-K
+                  for the fiscal year ended June 30, 1985, file number 1-2944)
+               3(b) By-Laws of Stokley-Van Camp, Inc. (incorporated
+                  by reference to the Company's Form 10-K for the year
+                  ended June 30, 1985, file number 1-2944)
+               10(a) GATORADE Trust Agreement dated January 1,
+                  1984 (incorporated by reference to the Company's Form
+                  10-K for the fiscal year ended June 30, 1984, file number
+                  1-2944)
+               21 Subsidiaries of the Registrant
+      (b)      Reports on Form 8-K
+               No reports on Form 8-K were filed by the Registrant during
+               the fourth quarter of its fiscal year ended June 30, 1994.
+
+SIGNATURES                                                     25
+                                   PART I
+
+
+ITEM 1.   BUSINESS
+
+Stokely-Van Camp, Inc. and Subsidiaries (the "Company" or "Stokely"), a
+wholly-owned subsidiary of The Quaker Oats Company ("Quaker") since fiscal
+1984, is a processor, marketer and distributor of high-quality canned food
+and beverage products to retail stores, institutional distributors and
+industrial and athletic users.  Stokely's current products include
+GATORADE thirst quencher, a beverage specifically developed to quench
+thirst during periods of physical activity.  GATORADE thirst quencher is
+marketed through retail grocery stores, convenience stores, food service
+distributors, warehouse clubs and wholesalers, and is also sold directly to
+athletic, institutional and industrial users.  This product is distributed
+nationally and internationally and is primarily sold through Quaker sales
+organizations and food brokers.  The supply of raw materials for GATORADE
+thirst quencher has been adequate and continuous.  The Company's sales are
+somewhat seasonal, with particularly strong first and fourth fiscal quarter
+sales.
+
+The Company's other products, consisting of canned pork and beans and other
+specialty canned products, are marketed under the VAN CAMP'S brand name.
+Distribution of VAN CAMP'S products is national.  Stokely is the largest
+domestic processor of pork and beans.  Specialty canned products include
+BEANEE-WEENEE (beans with sliced wieners), kidney beans, hominy and chili
+products.  Raw materials for Stokely's canned products are purchased from
+dealers and terminal and local elevators.  The price and availability of
+raw agricultural products are subject to market conditions.  Supplies have
+been adequate and continuous.
+
+Export sales in fiscal 1994 were $50.6 million.  Export sales in fiscal
+1993 and 1992 were not material.
+
+Fee Agreement
+
+In 1984, the Company entered a novation of a series of agreements with the
+trustee of the Gatorade Trust, the contracting agent of the innovators of
+GATORADE thirst quencher and their successors in interest, and renewed
+rights to manufacture and sell certain beverage products in return for
+payment of fees based on varying levels of sales.  In the event of failure
+by Stokely to make payments to the Gatorade Trust, the Trustee may cancel
+the Agreements and purchase back from Stokely, for a reasonable value, all
+trademarks and foreign patents connected with the GATORADE thirst
+quencher business.
+
+Competition
+
+Stokely's businesses are highly competitive.  The Company competes with a
+number of companies which are engaged in the production, sale or
+distribution of products similar to those sold by Stokely.  The principal
+competitive factors affecting sales include quality, price, advertising
+and service.
+
+Employees
+
+The total number of Stokely employees as of June 30, 1994, was
+approximately 1,700.
+
+
+ITEM 2.     PROPERTIES
+
+The Company owns and operates 7 plants, including manufacturing and
+filling facilities.  The plants are located in 6 states and in Puerto Rico.
+In addition, the Company owns or leases 4 distribution centers, 3 of which
+are shared with Quaker.  Other distribution centers are leased as needed
+throughout the year.  Sales and administrative office space is shared with
+Quaker.  Management believes manufacturing, distribution center and
+office space owned and leased are suitable and adequate for the business
+and productive capacity is appropriately utilized.
+
+ITEM 3.     LEGAL PROCEEDINGS
+
+The Company is not a party to any pending legal proceedings or
+environmental clean-up actions that it believes will have a material
+adverse effect on its financial position or results of operations.
+
+
+                                     Page 1
+                                     PART II
+
+
+ITEM 5.   MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+Since October 31, 1983, all outstanding shares of the Company's common
+stock have been held by Quaker.  The stock is not listed on any stock
+exchange or traded on any market.  The Company did not pay any dividends
+on its common stock in fiscal years 1994, 1993 or 1992.
+
+ITEM 6.
+<TABLE>
+SELECTED FINANCIAL DATA
+<CAPTION>
+(Dollars in Millions)
+
+                                                    Fiscal Year
+                                                       Ended
+                                 June 30
+                                  1994(a)     1993     1992(b)     1991     1990
+<S>                              <C>        <C>       <C>         <C>     <C>
+Net Sales                        $1,077.0   $885.3    $876.2      $876.5  $769.6
+Cost of Goods Sold               $553.4     $443.7    $422.7      $435.1  $400.0
+Income Before Income Taxes and                                            
+                                                                          
+   Cumulative Effect of                                                   
+Accounting                                                                
+
+   Changes                       $120.6     $99.7     $105.4      $131.7  $101.5
+Provision for Income Taxes       50.2       39.7      41.9        51.0    38.1
+Income Before Cumulative Effect                                           
+of                                                                        
+
+   Accounting Changes            70.4       60.0      63.5        80.7    63.4
+Cumulative Effect of Accounting                                           
+                                                                          
+   Changes - Net of Tax              --     14.0      --          --      --
+Net Income                       $70.4      $46.0     $63.5       $80.7   $63.4
+
+
+                                 As of June 30
+                                 1994    1993   1992    1991    1990
+<S>                              <C>     <C>    <C>     <C>     <C>
+Property - Net                   $132.9  $133.4 $124.7  $121.2  $110.0
+Total Assets                     $804.8  $707.4 $628.5  $618.0  $521.4
+Long-term Debt                   $0.7    $0.8   $1.1    $10.6   $11.8
+Redeemable Preference and                                       
+                                                                
+   Preferred Stock               $15.3   $15.3  $15.3   $15.3   $15.3
+<FN>
+(a)  Fiscal 1994 results include a $9.4 million restructuring charge for a
+     manufacturing consolidation for VAN CAMP'S products and for workforce
+     reductions.
+
+(b)  Fiscal 1992 results include a $3.4 million charge for a recall of
+     certain VAN CAMP'S products.
+
+</TABLE>
+
+
+
+
+                                     Page 2
+
+ITEM 7.
+
+
+
+                     MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                  FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Fiscal 1994 Compared with Fiscal 1993
+
+Operating Results
+
+Consolidated net sales for fiscal 1994 were $1.08 billion, up 22 percent
+from fiscal 1993.  Volume increased 17 percent versus the prior year due
+to strong volume increases for GATORADE thirst quencher, slightly offset
+by volume decreases for VAN CAMP'S products.  The GATORADE thirst
+quencher volume increase was a result of the warmer summer weather in
+fiscal 1994 compared to fiscal 1993 and the increased consumer demand
+resulting from the conversion of the 32 ounce glass container to plastic.
+GATORADE thirst quencher performance is particularly notable, in that two
+major soft drink competitors have broadened the distribution of their sports
+beverages throughout the United States.  The Company expects this
+heightened level of competition to continue in the coming year.  Price
+increases did not significantly affect fiscal 1994 sales.
+
+Gross profit margin decreased to 48.6 percent of sales from 49.9 percent
+in the prior year as a result of increased distribution and packaging
+material costs, partially offset by improved product mix and
+cost-containment initiatives.  Selling, general and administrative (SG&A)
+expenses increased to $406.6 million, or an increase of 17 percent,
+primarily due to higher advertising and merchandising (A&M) expenditures
+for GATORADE thirst quencher, as well as higher other operating expenses.
+A&M expenses were 25.5 percent of sales in fiscal 1994, versus 26.6
+percent in fiscal 1993, and are likely to continue at or near these levels
+in the future.  SG&A and A&M expenses were both lower as a percentage
+of sales as a result of the significant increase in sales.
+
+Restructuring Charge
+
+The Company is pursuing a series of cost-reduction and realignment
+activities to bring greater value to consumers and trade customers.  As a
+result, the Company recorded a restructuring charge of $9.4 million for a
+manufacturing consolidation for VAN CAMP'S products and for workforce
+reductions.  Net non-cash asset write-offs amounted to $5.4 million of the
+charge.  Severance and termination benefits for the elimination of
+approximately 200 positions are $3.0 million in cash expenses and the
+remaining amount of $1.0 million in cash expenses is for other related
+costs.  Cash outlays will occur predominately in fiscal 1995 and will be
+funded through operating cash flows.  These actions are expected to save
+approximately $0.9 million in fiscal 1995 and approximately $2 million
+annually beginning in fiscal 1996, with about 80 percent of the savings
+in cash.
+
+The Company will continue to focus on efficiency initiatives that improve
+its manufacturing, marketing, logistics and customer service processes
+while lowering costs and more effectively utilizing human and financial
+resources.  These continuous improvement initiatives may lead to charges
+in future periods.
+
+
+Interest and Income Taxes
+
+Interest income of $18.5 million increased $7.3 million from the prior year
+stemming from higher average amounts due from The Quaker Oats Company, as
+well as higher interest rates.  See Note 4 to the consolidated financial
+statements for further discussion of the Company's investing and borrowing
+arrangement with Quaker.
+
+The effective tax rate for fiscal 1994 was 41.6 percent versus 39.8 percent
+in fiscal 1993.  The higher U.S. statutory tax rate, including the
+legislated retroactive adjustment to January 1, 1993, caused the overall
+rate to increase.
+
+
+
+
+                                     Page 3
+
+
+
+Fiscal 1993 Compared with Fiscal 1992
+
+Operating Results
+
+Consolidated net sales for fiscal 1993 were $885.3 million, up 1 percent
+over the prior year's $876.2 million.  Approximately one-half of the
+change in sales was due to price increases.  The remainder of the change
+was primarily due to volume increases for GATORADE thirst quencher
+partially offset by volume declines for VAN CAMP'S products.
+
+Gross profit margin decreased to 49.9 percent of sales from the prior
+year's 51.8 percent due to expenses related to the retooling of certain
+GATORADE thirst quencher production lines.  These expenses were offset
+by cost-containment initiatives.  Fiscal 1992 cost of goods sold included a
+net charge of $3.4 million for the recall of certain VAN CAMP'S products.
+SG&A expenses decreased $5.4 million primarily due to lower A&M
+expenditures for GATORADE thirst quencher.  A&M expenses were 26.6
+percent of sales in fiscal 1993 as compared to 28.9 percent in fiscal 1992.
+
+During fiscal 1992, the Company changed the timing of trade promotions
+to align production and shipments more closely with consumer demand and to
+derive greater efficiencies in its go-to-market processes.  Sales and
+earnings postponed in the second half of fiscal 1992 were recouped in the
+first half of fiscal 1993.  Unseasonably cool weather in fiscal 1993,
+however, affected GATORADE thirst quencher sales and partially offset
+the benefits realized by the trade promotion timing change.
+
+Interest and Accounting Changes
+
+Interest expense of $4.4 million decreased $2.7 million from the prior
+year mainly due to lower debt resulting from the redemption of 8 percent
+sinking fund debentures in fiscal 1992.
+
+Included in net income in fiscal 1993 was the cumulative effect of adopting
+ Financial Accounting Standards Board (FASB) Statement #106, "Employers'
+Accounting for Postretirement Benefits Other Than Pensions" and FASB
+Statement #109, "Accounting for Income Taxes."  The combined cumulative
+effect of adoption was an after-tax charge of $14.0 million.  See Notes 3
+and 8 to the consolidated financial statements for further discussion.
+
+Liquidity and Capital Resources
+
+Net cash provided by operating activities of $66.6 million, $145.0 million
+and $69.0 million during fiscal 1994, 1993 and 1992, respectively, was
+well in excess of the Company's dividends and capital expenditures.  The
+decrease in cash flows in fiscal 1994 was mainly due to changes in working
+capital, primarily inventories and trade accounts receivable.  Capital
+expenditures for fiscal 1994, 1993 and 1992 were $21.1 million, $24.6
+million and $15.1 million, respectively, with no material individual
+commitments outstanding.
+
+The Company has an investing and borrowing arrangement under which it
+loans available cash to Quaker or borrows its short-term cash requirements
+from Quaker.  Certain subsidiaries of the Company currently maintain
+cash balances.  See Note 4 to the consolidated financial statements for
+further discussion of this arrangement.
+
+Pending Accounting Changes
+
+Effective July 1, 1994, the Company adopted FASB Statement #112, "Employers'
+Accounting for Postemployment Benefits."  The cumulative effect of adoption
+is a $0.9 million after-tax charge in the first quarter of fiscal 1995.
+The adoption of this statement will not have a material effect on
+operating results or cash flows in future years.
+
+The Company is in compliance with the accounting required in the American
+Institute of Certified Public Accountants' Statement of Position (SOP) 93-7,
+"Reporting on Advertising Costs," that requires advertising expenses to
+be expensed as incurred or the first time the advertising takes place.  The
+adoption of this SOP, required in fiscal 1995, will have no impact on the
+Company's financial statements.
+
+
+                                     Page 4
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+                     STOKELY-VAN CAMP, INC. AND SUBSIDIARIES
+                        CONSOLIDATED STATEMENTS OF INCOME
+                             AND REINVESTED EARNINGS
+
+<TABLE>
+
+<CAPTION>
+                                                  Fiscal Year
+                                                     Ended
+                                                    June 30
+                                           
+(Dollars in Millions)                      1994      1993     1992
+<S>                                        <C>       <C>     <C>
+Net Sales                                  $1,077.0  $885.3  $876.2
+Cost of goods sold                         553.4     443.7   422.7
+Gross profit                               523.6     441.6   453.5
+                                                             
+Selling, general and                                         
+    administrative expenses                406.6     348.7   354.1
+Restructuring charge                       9.4       --      --
+Interest (income)                          (18.5)    (11.2)  (13.1)
+Interest expense                           5.5       4.4     7.1
+                                                             
+Income Before Income Taxes and                               
+   Cumulative Effect of                                      
+      Accounting Changes                   120.6     99.7    105.4
+Provision for income taxes                 50.2      39.7    41.9
+Income Before Cumulative Effect of                           
+   Accounting Changes                      70.4      60.0    63.5
+Cumulative effect of accounting                              
+   changes - net of tax                       --     14.0    --
+Net Income                                 70.4      46.0    63.5
+                                                             
+Dividends on preference and                                  
+     preferred stock                       (0.8)     (0.8)   (0.8)
+Reinvested Earnings - Beginning Balance    475.1     429.9   367.2
+Reinvested Earnings - Ending Balance       $544.7    $475.1  $429.9
+
+
+          See accompanying notes to consolidated financial statements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     Page 5
+                     STOKELY-VAN CAMP, INC. AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+
+<CAPTION>
+                                              Fiscal Year
+                                                 Ended
+                                         June 30
+(Dollars in Millions)                     1994     1993     1992
+<S>                                      <C>     <C>       <C>
+Cash Flows from Operating Activities:                      
+   Net income                            $70.4   $46.0     $63.5
+   Adjustments to reconcile net income                     
+to                                                         
+        net cash provided
+        by operating activities:                           
+            Cumulative effect of         --      14.0      --
+accounting changes
+            Depreciation and             16.0    14.6      11.6
+amortization
+            Deferred income taxes        (0.4)   1.4       (1.0)
+            Restructuring charge         9.4     --        --
+            Loss on disposition of                         
+property                                 1.2     3.2       0.5
+                 and equipment
+            (Increase) decrease in trade                   
+                 accounts receivable     (16.4)  28.9      31.5
+            (Increase) decrease  in      (31.4)  22.6      (19.2)
+inventories
+            (Increase) decrease in other (7.6)   (1.4)     8.1
+current assets
+            Increase in trade accounts   6.1     0.6       3.6
+payable
+            (Decrease) increase in       (1.5)   6.6       (12.7)
+income taxes payable
+            Increase (decrease) in other 17.3    10.4      (1.8)
+current liabilities
+            Other items                  3.5     (1.9)     (15.1)
+                                                           
+            Net Cash Provided By                           
+                 Operating Activities    66.6    145.0     69.0
+                                                           
+Cash Flows from Investing Activities:                      
+   Additions to property, plant and      (21.1)  (24.6)    (15.1)
+equipment
+                                                           
+            Net Cash Used in Investing   (21.1)  (24.6)    (15.1)
+Activities
+                                                           
+Cash Flows from Financing Activities:                      
+   Change in amount due from                               
+        The Quaker Oats Company          (3.5)   (119.3)   (43.6)
+   Cash dividends                        (0.8)   (0.8)     (0.8)
+   Reduction of long-term debt           (0.1)   (0.3)     (9.5)
+                                                           
+            Net Cash Used in Financing   (4.4)   (120.4)   (53.9)
+Activities
+                                                           
+Net Change in Cash and Cash Equivalents  $41.1   $--       $--
+
+
+          See accompanying notes to consolidated financial statements.
+
+
+
+
+
+
+
+
+
+
+                                     Page 6
+                     STOKELY-VAN CAMP, INC. AND SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+
+
+
+<CAPTION>
+                                                       June 30
+(Dollars in Millions)                                   1994     1993
+<S>                                                    <C>      <C>
+ASSETS                                                          
+Current Assets:                                                 
+  Cash and cash equivalents                            $41.1    $---
+  Due from The Quaker Oats Company                     402.7    399.2
+  Trade accounts receivable - net of allowance of $4.6          
+     and $3.1 as of June 30, 1994 and 1993,            113.5    97.1
+respectively
+  Inventories:                                                  
+     Finished goods                                    70.9     45.7
+     Materials and supplies                            16.8     10.6
+       Total inventories                               87.7     56.3
+                                                                
+  Other current assets                                 20.3     12.7
+         Total Current Assets                          665.3    565.3
+                                                                
+Other Assets                                           6.6      8.7
+                                                                
+Property, plant and equipment                          203.4    193.1
+Less accumulated depreciation                          70.5     59.7
+    Property - Net                                     132.9    133.4
+           Total Assets                                $804.8   $707.4
+                                                                
+LIABILITIES AND SHAREHOLDERS' EQUITY                            
+Current Liabilities:                                            
+  Trade accounts payable                               $44.5    $38.4
+  Accrued payroll, pension and bonus                   23.5     10.5
+  Accrued advertising and merchandising                35.8     28.3
+  Income taxes payable                                 39.6     41.1
+  Other current liabilities                            13.6     15.3
+         Total Current Liabilities                     157.0    133.6
+                                                                
+Long-term Debt                                         0.7      0.8
+Other Liabilities                                      33.4     28.5
+Deferred Income Taxes                                  2.3      2.7
+                                                                
+Redeemable Preference and                                       
+  Preferred Stock                                      15.3     15.3
+                                                                
+Common Shareholders' Equity:                                    
+  Common stock, $1 par value, authorized 10,000,000             
+shares;
+    issued 3,591,381 shares                            3.6      3.6
+  Additional paid-in capital                           68.7     68.7
+  Reinvested earnings                                  544.7    475.1
+  Treasury common stock, at cost, 602,010 shares       (20.9)   (20.9)
+       Total Common Shareholders' Equity               596.1    526.5
+           Total Liabilities and Shareholders' Equity  $804.8   $707.4
+</TABLE>
+          See accompanying notes to consolidated financial statements.
+                                        
+                                        
+                                     Page 7
+
+
+                     STOKELY-VAN CAMP, INC. AND SUBSIDIARIES
+                 NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1
+
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Consolidation
+
+The consolidated financial statements include Stokely-Van Camp, Inc.
+and Subsidiaries (the "Company" or "Stokely").  All  significant
+intercompany transactions have been eliminated.  The Company is a
+wholly-owned subsidiary of The Quaker Oats Company ("Quaker").  Certain
+prior-year amounts have been reclassified to conform to the current
+presentation.
+
+Inventories
+
+Inventories are valued at the lower of cost or market, using the last-in,
+first-out (LIFO) cost method, and include the cost of raw materials,
+labor and overhead.  If the LIFO method of valuing these inventories was
+not used, total inventories would have been $8.8 million and $7.9 million
+higher than reported as of June 30, 1994 and 1993, respectively.
+
+Property and Depreciation
+
+Property, plant and equipment are carried at cost and depreciated on a
+straight-line basis over their estimated useful lives.  Useful lives range
+from 10 to 40 years for buildings and improvements and from 3 to 12
+years for machinery and equipment.
+
+Software Costs
+
+The Company defers significant software development project costs.
+Software costs of $1.3 million, $1.3 million and $2.2 million were
+deferred during fiscal 1994, 1993 and 1992, respectively, pending the
+projects' completion.  Amounts deferred are amortized over a three-year
+period beginning with a project's completion.  As of June 30, 1994,
+approximately $8.5 million of completed project costs were subject to
+amortization.  Total amortization expense was $2.7 million, $2.2 million
+and $0.6 million in fiscal 1994, 1993 and 1992, respectively.
+
+Income Taxes
+
+Deferred income taxes are provided when tax laws and financial
+accounting standards differ with respect to the amount of income for
+a year and the bases of assets and liabilities.  Effective July 1, 1992,
+the Company adopted FASB Statement #109, "Accounting for Income
+Taxes," which requires an asset and liability approach to financial
+accounting and reporting for income taxes.  See Note 3 for further discussion.
+
+Postretirement Benefits Other Than Pensions
+
+The Company provides certain health and life insurance benefits for eligible
+retirees.  Effective July 1, 1992, the Company adopted FASB Statement #106,
+"Employers' Accounting for Postretirement Benefits Other Than Pensions,"
+whereby the cost of postretirement benefits is accrued during the years that
+employees render service.  See Note 8 for further discussion.
+
+                                     Page 8
+
+NOTE 2
+
+RESTRUCTURING CHARGE
+
+The Company is pursuing a series of cost-reduction and realignment
+activities to bring greater value to consumers and trade customers.  As a
+result, the Company recorded a restructuring charge of $9.4 million for a
+manufacturing consolidation for VAN CAMP'S products and for workforce
+reductions.  Net non-cash asset write-offs amounted to $5.4 million of the
+charge.  Severance and termination benefits for the elimination of
+approximately 200 positions are $3.0 million in cash expenses and the
+remaining amount of $1.0 million in cash expenses is for other related
+costs.  Cash outlays will occur predominately in fiscal 1995 and will be
+funded through operating cash flows.  These actions are expected to save
+approximately $0.9 million in  fiscal 1995 and approximately $2 million
+annually beginning in fiscal 1996, with about 80 percent of the savings in cash.
+
+NOTE 3
+
+INCOME TAXES
+
+Effective July 1, 1992, the Company adopted FASB Statement #109, "
+Accounting for Income Taxes," which requires an asset and liability
+approach to financial accounting and reporting for income taxes.  The
+cumulative effect of adopting FASB Statement #109 was to increase income
+by $2.8 million.
+
+Provisions for income taxes on income before the cumulative effect of
+accounting changes were as follows:
+<TABLE>
+<CAPTION>
+(Dollars in Millions)                      1994      1993      1992
+<S>                                      <C>       <C>       <C>
+Currently payable:                                           
+  Federal                                $41.9     $32.9     $32.9
+  State                                  8.5       6.9          7.4
+Total currently payable                  50.4      9.8        40.3
+Deferred - net:                                              
+  Federal                                (0.7)     (0.5)     1.3
+  State                                  0.5       0.4       0.3
+Total deferred - net                     (0.2)     (0.1)     1.6
+Provision for income taxes               $50.2     $39.7     $41.9
+
+The components of the deferred income tax (benefit) provision were as follows:
+<CAPTION>
+(Dollars in Millions)                                   1994      1993      1992
+<S>                                                   <C>       <C>       <C>
+Accelerated tax depreciation                          $0.8      $1.1      $1.5
+Postretirement benefits                               (0.7)     (0.9)     --
+Other                                                 (0.3)     (0.3)     0.1
+(Benefit) provision for deferred income taxes         $(0.2)    $(0.1)    $1.6
+
+Reconciliations of the statutory Federal income tax rates to the effective
+income tax rates were as follows:
+<CAPTION>
+(Dollars in Millions)              1994           1993           1992
+                                           % of            % of           % of
+                                          Pretax          Pretax         Pretax
+                                   Amount Income  Amount  Income Amount  Income
+<S>                                <C>    <C>     <C>     <C>    <C>     <C>
+Tax provision based on the                                               
+ Federal statutory rate            $42.2  35.0%   $33.9   34.0%  $35.8   34.0%
+State and local income                                                   
+     taxes - net of Federal                                              
+     income tax benefit            5.9    4.9     4.8     4.8    5.0     4.7
+Other                              2.1    1.7     1.0     1.0    1.1     1.0
+Provision for income taxes         $50.2  41.6%   $39.7   39.8%  $41.9   39.7%
+
+
+                                     Page 9
+
+The sources of pretax income before the cumulative effect of accounting changes
+were as follows:
+<CAPTION>
+(Dollars in Millions)                     1994      1993      1992
+<S>                                     <C>       <C>       <C>
+U.S. sources                            $122.2    $95.5     $103.8
+Non-U.S. sources                        (1.6)     4.2       1.6
+Income before income taxes                                  
+    and cumulative effect of                      
+      accounting changes                $120.6    $99.7     $105.4
+
+The consolidated balance sheets included the following deferred tax assets and
+deferred tax liabilities:
+
+<CAPTION>
+                                               1994                   1993
+                                       Deferred    Deferred   Deferred   Deferred
+(Dollars in Millions)                     Tax        Tax         Tax        Tax
+                                        Assets    Liabilitie   Assets   Liabilitie
+                                                      s                      s
+<S>                                          <C>         <C>        <C> 
+Depreciation and amortization          $2.5       $16.7       $2.0      $15.1
+Postretirement benefits                12.4                -  11.6      --
+                                                  -
+Other benefit plans                    1.5        2.7         1.3       2.2
+Accrued expenses                       3.0        0.2         2.2       0.2
+Other                                  0.2             --     1.1       0.9
+   Total                               $19.6      $19.6       $18.2     $18.4
+</TABLE>
+Total income tax provisions (benefits) were allocated as $50.2 million for
+continuing operations in fiscal 1994 and as $39.7 million for continuing
+operations and $(13.5) million for the cumulative effect of accounting
+changes in fiscal 1993.
+
+NOTE 4
+
+RELATED PARTY TRANSACTIONS
+
+Stokely, through its parent Quaker, conducts its operations as an
+integrated component of Quaker's U.S. and Canadian Grocery Products
+Division.  Certain liabilities and expenses are commingled and are charged
+or allocated to Stokely from Quaker.  With the exception of cost of sales
+and advertising and merchandising expenses, the majority of remaining
+operating, general and administrative expenses are allocated from Quaker
+to Stokely.  Quaker's International Grocery Products Division is licensed
+to sell GATORADE thirst quencher in international markets.  Stokely
+reimburses Quaker and its affiliates for services provided for its benefit.
+The following summarizes the significant related party transactions other
+than those described elsewhere in the financial statements:
+
+Income Taxes
+
+Stokely is included in the consolidated Federal income tax return of
+Quaker.  Stokely provides for current and deferred taxes as if it filed a
+separate consolidated tax return except that if any items are subject to
+limitations in Stokely's tax calculations, such limitations are determined
+on the basis of the Quaker consolidated group.
+
+Employees
+
+Current salaried employees whose services benefit the Stokely business
+are employees of Quaker.  Their compensation is paid by Quaker and charged
+to Stokely based on actual salary and fringe benefit costs of the assigned
+employees.  These employees also participate in a number of Quaker
+insurance and employee benefit programs.  Stokely participates in these
+programs through annual charges of each program's cost.
+
+Corporate Insurance Programs
+
+Stokely participates in Quaker's consolidated risk management programs
+for property and casualty insurance.
+
+
+                                     Page 10
+Stokely is charged for annual premiums and reported losses.  Incurred but
+not reported losses are not charged to Stokely income currently.  Stokely
+will recognize these costs in the future when specific identification has
+been made by Quaker.
+
+Corporate Overhead Allocations
+
+Quaker provides certain corporate general and administrative services to
+Stokely including personnel, legal, finance, facility management and
+utilities.  These expenses are allocated to Stokely on a basis which
+approximates actual services provided.
+
+Shared Operating Expenses
+
+Quaker's U.S. and Canadian Grocery Products Division allocates a ratable
+portion of shared operating expenses including sales force and brokers,
+certain other marketing expenses, product research and general and
+administrative services.  These expenses are allocated to Stokely on a
+basis which approximates actual services provided as determined by
+various measures.
+
+International Grocery Products Fee Agreements
+
+Stokely has entered into a number of licensing agreements allowing the
+international affiliates of Quaker to manufacture and sell certain beverage
+products in return for payment of licensing fees.  Fees received under these
+agreements amounted to $3.6 million, $3.1 million and $3.1 million in fiscal
+1994, 1993 and 1992, respectively.
+
+Investing and Borrowing Arrangement
+
+The Company has an investing and borrowing arrangement under which it
+loans its available cash to Quaker or borrows its short-term cash
+requirements from Quaker.  Funds collected from operations which are
+remitted to Quaker increase the amount due from Quaker; conversely,
+operating expenses paid by Quaker reduce the receivable from Quaker or
+may result in a payable to Quaker.  This arrangement provides for an interest
+rate based on the yield of U.S. Treasury Bills, as determined by the weekly
+U.S. Government auction.  In addition, the Company has 100 percent
+participation in certain loans owed to Quaker by Quaker subsidiaries.  The
+loans outstanding as of June 30, 1994, carried an interest rate of 11 percent
+and were included in the amount due from Quaker.  The Company may, at
+any time, demand repayment of all or any part of the amount due from Quaker
+or demand that Quaker repurchase the loans from the Company.  (See Schedule
+II in Part IV of this Form 10-K for further information).  There were no
+bank lines of credit as of June 30, 1994 or 1993.
+
+NOTE 5
+<TABLE>
+LONG-TERM DEBT
+<CAPTION>
+(Dollars in Millions)                                 1994           1993
+<S>                                               <C>            <C>
+Industrial Revenue Bonds, 4.5%                                   
+  due through October 1, 1999                     $0.8           $0.9
+Less Current Maturities                           0.1            0.1
+Long-term Debt                                    $0.7           $0.8
+
+Aggregate required payments of maturities on long-term debt for the next
+five fiscal years are $0.1 million from 1995 to 1997 and $0.2 million in
+1998 and 1999.
+
+NOTE 6
+
+CAPITAL STOCK
+
+Since October 31, 1983, all outstanding shares of the Company's common
+stock have been held by Quaker and the balances of common stock ($3.6
+million; 3,591,381 shares issued), additional paid-in capital ($68.7
+million) and treasury common stock ($20.9 million; 602,010 shares) have
+remained unchanged.
+
+                                     Page 11
+
+
+The Company has three series of preferred stock:  Voting 5% Cumulative
+Convertible Second Preferred Stock; non-voting 5% Cumulative Prior
+Preference Stock; and Serial Preferred Stock.  The Voting 5% Cumulative
+Convertible Second Preferred Stock is convertible at the holder's option,
+on a share for share basis, into the non-voting 5% Cumulative Prior
+Preference Stock.  As of June 30, 1994, authorized shares were 500,000
+and issued and outstanding shares were 11,073 for the 5% Cumulative
+Convertible Second Preferred Stock.  As of June 30, 1994, 1,500,000
+shares were authorized, 753,283 shares were issued, 752,950 shares were
+outstanding and 11,073 shares were reserved for conversion for the 5%
+Cumulative Prior Preference Stock.  Both issues are redeemable at the
+Company's option for $21 per share.  No Serial Preferred Stock has been
+ issued, although 500,000 shares are authorized.  The following chart
+summarizes the changes in the outstanding preference and preferred
+stock balances.
+
+</TABLE>
+<TABLE>
+<CAPTION>
+                                               5% Cumulative          5% Cumulative
+                                             Prior Preference      Convertible Second
+                                                   Stock             Preferred Stock
+                                               $20 Par Value          $20 Par Value
+<S>                                                 <C>                    <C>
+Balance as of June 30, 1991                     729,240               34,783
+Shares Converted                                 23,100             (23,100)
+Balance as of June 30, 1992                     752,340               11,683
+Shares Converted                                    360                (360)
+Balance as of June 30, 1993                     752,700               11,323
+Shares Converted                                    250                (250)
+Balance as of June 30, 1994                     752,950               11,073
+</TABLE>
+NOTE 7
+
+PENSION PLANS
+
+Salaried employees assigned to the Stokely business are employees of
+Quaker and are covered by a Quaker plan (see Note 4).  The Company maintains
+a pension plan for all hourly employees.  Plan benefits are based on years
+of service.  Company policy is to make contributions to the Plan within the
+maximum amount deductible for Federal income tax purposes.  Plan assets
+consist primarily of equity securities and government, corporate and other
+fixed income obligations.
+
+The components of net pension (income) for hourly employees are
+detailed below:
+<TABLE>
+<CAPTION>
+(Dollars in Millions)                          1994      1993    1992
+<S>                                            <C>       <C>     <C>
+Service cost (benefits earned during the     $0.4      $0.3      $0.3
+year)
+Interest cost on projected benefit           1.4       1.4       1.4
+obligation
+Actual return on plan assets                 (2.0)     (2.5)     (3.6)
+Net amortization and deferral                (0.9)     (0.4)     0.8
+                                                                 
+Net pension (income)                         $(1.1)    $(1.2)    $(1.1)
+
+
+
+
+
+
+
+
+
+
+
+                                     Page 12
+
+
+Reconciliations of the funded status of the Company's defined benefit plans to
+the prepaid pension costs were as follows:
+<CAPTION>
+(Dollars in Millions)                                1994      1993      1992
+<S>                                                  <C>       <C>       <C>
+Vested benefits                                    $18.3     $16.0     $15.9
+Non-vested benefits                                0.5       0.4       0.4
+                                                                       
+Accumulated and projected benefit obligation(a)    18.8      16.4      16.3
+Plan assets at market value                        33.6      31.1      31.7
+                                                                       
+Projected benefit obligation less than plan        14.8      14.7      15.4
+assets
+Unrecognized net (gain)                            (3.9)     (4.5)     (4.7)
+Unrecognized prior service cost                    1.2       1.2       0.6
+Unrecognized net (asset) at transition             (5.1)     (5.5)     (6.2)
+                                                                       
+Prepaid pension costs                              $7.0      $5.9      $5.1
+<FN>
+Assumptions:
+     Discount rate:                                         8%
+     Rate of future compensation increases:(a)              --
+     Long-term rate of return on plan assets:               8.5%
+
+(a) Effect of future compensation increases is not applicable as the
+Plan benefits are based on years of service.
+</TABLE>
+NOTE 8
+
+POSTRETIREMENT BENEFITS OTHER THAN PENSIONS
+AND OTHER POSTEMPLOYEMENT BENEFITS
+
+The Company provides certain health care and life insurance benefits to its
+retired employees who meet service-related eligibility requirements.  The
+Company funds only the annual cash requirements of these benefits.
+
+Effective July 1, 1992, the Company adopted FASB Statement #106, "Employers'
+Accounting for Postretirement Benefits Other Than Pensions."  This statement
+requires that the expected cost of these benefits be charged to expense
+during the years that the employees render service.  The statement was
+adopted through a cumulative pretax charge of $27.5 million, or $16.8
+million after-tax, which represents the accumulated postretirement benefit
+obligation for years prior to fiscal 1993.  The incremental effect on
+fiscal 1993 results of adopting FASB Statement #106 was a pretax charge
+of $2.4 million.  Cash expenditures are not affected by this accounting
+change.
+<TABLE>
+The components of postretirement benefit costs were as follows:
+<CAPTION>
+(Dollars in Millions)                                 1994           1993
+<S>                                                    <C>            <C>
+Service cost (benefits earned during the year)    $1.5           $1.0
+Interest cost on projected benefit obligation     4.0            3.0
+Total postretirement benefit costs                $5.5           $4.0
+
+
+
+
+
+
+
+                                     Page 13
+
+Postretirement benefit costs incurred and expensed in fiscal 1992 were
+$0.8 million.
+
+The Company's unfunded accumulated postretirement benefit obligations
+were as follows:
+<CAPTION>
+(Dollars in Millions)                                        1994           1993
+<S>                                                           <C>            <C>
+Current retirees                                         $11.2          $12.1
+Current active employees - fully eligible                2.7            2.1
+Current active employees - not fully eligible            24.7           17.6
+Accumulated postretirement benefit obligation            38.6           31.8
+Unrecognized net loss                                    (2.8)          (1.4)
+Unrecognized prior service cost                          (0.5)          --
+Accrued postretirement benefit costs                     $35.3          $30.4
+<FN>
+Assumptions:
+   Weighted average discount rate:   8%
+   Health care trend rates:       1995       2005 and Beyond
+      Pre-age 65:                  10%            4%
+      Age 65 and over:             10%            5%
+</TABLE>
+If the health care trend rates were increased one percentage point, the
+current-year postretirement benefit costs would have been $0.5 million
+higher and the accumulated benefit obligation as of June 30, 1994 would
+have been $5.2 million higher.
+
+Effective July 1, 1994, the Company adopted FASB Statement #112, "Employers'
+Accounting for Postemployment Benefits."  The cumulative effect of adoption
+is a $0.9 million after-tax charge in the first quarter of fiscal 1995.  The
+adoption of this statement will not have a material effect on operating
+results or cash flows in future years.
+<TABLE>
+NOTE 9
+
+SUPPLEMENTAL CASH FLOW INFORMATION
+
+(Dollars in Millions)                   1994      1993      1992
+<S>                                     <C>       <C>       <C>
+Interest Paid                         $0.1      $0.1      $0.8
+Income Taxes Paid                     $38.5     $31.2     $71.5
+</TABLE>
+NOTE 10
+
+LEASES AND OTHER COMMITMENTS
+
+Certain operating properties are rented under non-cancelable operating
+leases.  Total rental expense under operating leases was $5.0 million, $5.4
+million and
+$7.0 million in fiscal 1994, 1993 and 1992, respectively.  Future minimum annual
+rentals
+on non-cancelable operating leases, primarily for sales offices and
+distribution centers, is as follows:
+<TABLE>
+(Dollars in Millions)
+                 1995      1996       1997      1998       1999       Later     Total
+<S>              <C>        <C>        <C>       <C>        <C>        <C>       <C>
+Total            $3.1      $3.0       $3.0      $2.5       $2.5       $20.6     $34.7
+Payments
+</TABLE>
+The Company enters into executory contracts to promote various products.
+As of June 30, 1994, future commitments under these contracts amounted to
+approximately $56.2 million.
+                                     Page 14
+                                        
+NOTE 11
+<TABLE>
+SELECTED QUARTERLY FINANCIAL DATA
+<CAPTION>
+(Dollars in Millions)
+
+                           Quarterly Financial Data (Unaudited)
+                           First Quarter   Second Quarter   Third Quarter    Fourth Quarter
+                            1994    1993    1994     1993    1994     1993   1994(a)    1993
+<S>                        <C>     <C>     <C>      <C>     <C>     <C>      <C>      <C>
+Net Sales                  $347.4  $275.6  $118.9   $96.5   $191.3  $168.0   $419.4   $345.2
+Cost of Goods Sold         173.8   127.6   68.7     59.5    105.3   91.5     205.6    165.1
+Gross Profit               $173.6  $148.0  $50.2    $37.0   $86.0   $76.5    $213.8   $180.1
+                                                                                      
+Income (Loss) Before                                                                  
+  Cumulative Effect                                                                   
+  of Accounting Changes    $37.5   $27.9   $(6.7)   $(11.0  $8.2    $9.0     $31.4    $34.1
+                                                    )
+                                                                                      
+Net Income (Loss)          $37.5   $13.9   $(6.7)   $(11.0  $8.2    $9.0     $31.4    $34.1
+                                                    )
+<FN>
+(a)  Includes a $9.4 million pretax restructuring charge ($5.6 million
+   after-tax) for a manufacturing consolidation and for workforce reductions.
+</TABLE>
+NOTE 12
+
+FINANCIAL INSTRUMENTS
+
+Financial instruments are primarily used to fund working capital and to
+reduce the impact of commodity price fluctuations.  The Company uses
+commodity options and futures contracts to reduce the risk that raw
+material purchases will be adversely affected as commodity prices change.
+While the hedge instruments are subject to the risk of loss from changing
+commodity prices, the losses would generally be offset by lower costs of
+the purchases being hedged.  The Company does not trade these instruments
+with the objective of earning financial gains on the commodity price
+fluctuations alone, nor does it trade in commodities for which there are
+no underlying exposures.  Management believes that its use of financial
+instruments to reduce risk is in the Company's best interest.
+
+The Company primarily hedges purchases of corn.  Approximately one percent
+of cost of goods sold is in commodities that may be hedged.  The Company's
+strategy is to typically hedge most of the production requirements for the
+following twelve-month period.  As of June 30, 1994, approximately 90 percent
+of fiscal 1995 production requirements were hedged.  The carrying values
+of these commodity instruments approximates the fair values.  Realized
+gains and losses charged to cost of goods sold in fiscal 1994 and 1993
+were not material.
+
+The carrying value of cash and long-term debt approximates fair value.  The
+counterparties to the Company's financial instruments are major financial
+institutions.  The Company continually evaluates the creditworthiness of
+the counterparties and has never experienced, nor does it anticipate
+nonperformance by any of its counterparties.
+
+
+
+
+
+
+                                     Page 15
+                                        
+
+
+                    REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+To the Board of Directors of
+  Stokely-Van Camp, Inc.:
+
+
+
+We have audited the accompanying consolidated balance sheets of Stokely-Van
+Camp, Inc. (an Indiana corporation and wholly-owned subsidiary of The Quaker
+Oats Company) and subsidiaries as of June 30, 1994 and 1993, and the related
+consolidated statements of income and reinvested earnings and cash flows for
+each of the three fiscal years in the period ended June 30, 1994.  These
+financial statements and the schedules referred to below are the
+responsibility of the Company's management.  Our responsibility is to
+express an opinion on these financial statements and schedules based
+on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are
+free of material misstatement.  An audit includes examining, on a test
+basis, evidence supporting the amounts and disclosures in the financial
+statements.  An audit also includes assessing the accounting principles
+used and significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  We believe that our audits
+provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Stokely-Van Camp, Inc.
+and subsidiaries as of June 30, 1994 and 1993, and the results of their
+operations and their cash flows for each of the three fiscal years in the
+period ended June 30, 1994, in conformity with generally accepted
+accounting principles.
+
+As indicated in Note 3 and Note 8, effective July 1, 1992, the Company
+changed their accounting for income taxes and for postretirement benefits
+other than pensions.
+
+Our audits were made for the purpose of forming an opinion on the basic
+financial statements taken as a whole.  Schedules II and X are presented for
+purposes of complying with the Securities and Exchange Commission's rules
+and are not a required part of the basic financial statements.  These
+schedules have been subjected to the auditing procedures applied in our
+audit of the basic financial statements and, in our opinion, are fairly
+stated in all material respects in relation to the basic financial
+statements taken as a whole.
+
+
+Arthur Andersen LLP
+
+
+Chicago, Illinois,
+August 3, 1994
+
+
+                                     Page 16
+                                    PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+The following table sets forth information concerning the directors and
+executive officers of Stokely-Van Camp, Inc. as of September 1, 1994.
+
+     Name                  Principal Occupation                Age
+
+James F. Doyle             Senior Vice President - President -  42
+                           Gatorade Worldwide Division of
+                           Quaker; Chief Executive
+                           Officer and President of Stokely.
+
+R. Thomas Howell, Jr.      Vice President and General           52
+                           Corporate Counsel of Quaker;
+                           Director, Vice President and
+                           Secretary of Stokely.
+
+Janet K. Cooper            Vice President and Treasurer of      41
+                           Quaker and Stokely and Director
+                           of Stokely.
+
+Thomas L. Gettings         Vice President and Corporate         37
+                           Controller of Quaker and Stokely.
+
+
+Mr. Doyle has served since May, 1992.  Mr. Howell has served in his
+capacity since 1983.  Ms. Cooper and Mr. Gettings have served since
+July, 1992.  All of the above-named directors and officers have been employed
+by Quaker in an executive capacity more than five years.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+The following table details annual and long-term compensation paid during the
+Company's three most recent fiscal years to the Company's Chief Executive
+Officer and President.  No other executive officer of the Company was
+paid in excess of $100,000 in salary and bonus relative to their services
+for the Company.
+<TABLE>
+                         SUMMARY COMPENSATION TABLE
+<CAPTION>
+                Annual Compensation                          Long-term Compensation
+                                                 Other     Restrict                 All
+                                                              ed
+                                                 Annual      Stock                 Other
+                 Fiscal    Salary    Bonus    Compensatio   Awards    Options  Compensation
+Name              Year      ($)      ($)(1)        n        ($)(2)     (#)(3)     ($)(4)
+                                                  ($)
+<S>             <C>         <C>       <C>         <C>         <C>       <C>         <C>
+                                                                               
+James F. Doyle    1994    $299,208   $254,800      --       $25,247    24,000     $55,753
+                  1993    $270,790   $221,100      --       $19,416    30,000     $54,938
+                  1992    $215,506   $110,000      --       $10,932    16,000       --
+<FN>
+(1)Amounts for fiscal 1993 include the cash awards that have been paid
+   under the Management Incentive Bonus Plan ("MIB") based on Quaker's
+   financial performance and Mr. Doyle's personal performance for fiscal 1993;
+   and the portion of the MIB award for fiscal 1992 which was withheld from the
+                                        
+                                        
+                                     Page 17
+
+
+   fiscal 1992 MIB award pool and put at risk, subject to achievement of
+   certain financial objectives during the first half of fiscal 1993.  The
+   financial objectives were achieved in fiscal 1993, and paid in fiscal 1993
+   along with the 1993 MIB award as follows for Mr. Doyle:  $31,900
+   and $189,200.
+
+(2)Restricted stock award values reflect the fair market value of Quaker's
+   common stock on the date of each grant.  The values reflect Quaker
+   matching awards of restricted stock under a broad-based long-term
+   incentive program, the Incentive Investment Program.  Dividends on
+   restricted shares were and continue to be paid on an on-going basis at
+   the same rate as paid to all shareholders.  The aggregate number and
+   value of restricted shares for Mr. Doyle, valued as of the last day of the
+   Company's fiscal year (June 30, 1994) are as follows:
+
+  Number of    
+   Shares          Value
+
+     851          $60,106
+
+<FN>
+
+     Upon a change in control of Quaker (see definition under Pension Plans),
+     restricted shares outstanding on the date of the change in control will be
+     canceled and an immediate lump-sum cash payment will be paid which is
+     equal to the product of (1) the higher of (i) the closing price of common
+     stock as reported on the New York Stock Exchange Composite Index
+     on or nearest to the date of payment (or, if not listed on such exchange,
+     on a nationally recognized exchange or quotation system on which trading
+     volume in the common stock is highest) or (ii) the highest per share price
+     for common stock actually paid in connection with the change in control
+     and (2) the number of shares of such restricted stock.
+
+(3)  All stock option awards in fiscal 1994 were granted with an exercise
+     price that is equal to the fair market value of the Quaker common
+     stock on the date of the grant.  Fifty percent of the stock option
+     awards in fiscal 1992 and fiscal 1993 were granted with an
+     exercise price that is equal to the fair market value of Quaker's
+     common stock on the date of the grant.  The remaining 50%
+     were granted with an exercise price that is 125% of the fair
+     market value of Quaker's common stock on the date of the grant.
+
+(4)  Amounts shown are the total value of the stock allocations under The
+     Quaker Employee Stock Ownership Plan ("ESOP"), and cash awards based
+     on earnings in excess of the Internal Revenue Code limits on the amount of
+     earnings deemed eligible for purposes of the annual stock allocation made
+     directly under the ESOP.
+
+
+</TABLE>
+
+
+                                     Page 18
+The following table contains information covering the grant of stock options
+to the Company's Chief Executive Officer and President during fiscal 1994
+under The Quaker Long Term Incentive Plan of 1990.  The exercise price
+for options granted is equal to the fair market value of Quaker's common
+stock on the date of the grant.
+<TABLE>
+                        OPTION GRANTS IN LAST FISCAL YEAR
+<CAPTION>
+                                                           
+                                                           Potential Realizable
+                                                           Value at Assumed Annual
+                Individual Grants (1)                      Rates of Stock Price
+                                                           Appreciation for Option
+                                                           Term (2)
+                            % of                                    
+                           Total
+                          Options
+                          Granted
+                             to
+                Options   Employee                                       
+                Granted      s      Exercise Expiration                  
+   Name           (#)        In      Price      Date         5%        10%
+                           Fiscal    ($/Sh)
+                            Year
+<S>               <C>       <C>       <C>       <C>         <C>        <C>
+James F. Doyle   24,000     1.7%     $68.88   09/08/03   $1,039,63  $2,634,64
+                                                             8          8
+
+<FN>
+(1) All options were granted on September 8, 1993.  One-third of the options
+    granted will vest on each of the three anniversaries following the date of
+    grant.  The options would be cancelled and a lump-sum cash payment would
+    be paid for realizable value upon the occurrence of a change in control.
+    (See definition under "Pension Plans".)
+
+(2) Based on fair market value on the date of grant and an annual
+    appreciation at the rate stated (compounded annually) of such fair market
+    value through the expiration date of such options.  The dollar amounts
+    under these columns are the result of calculations at the 5% and 10% stock
+    price appreciation rates set by the Securities and Exchange Commission and
+    therefore do not forecast possible future appreciation, if any, of Quaker's
+    stock price.
+</TABLE>
+
+The following table contains information covering the exercise of options by
+the Chief Executive Officer and President during fiscal 1994 and unexercised
+options held as of the end of fiscal 1994.
+<TABLE>
+               AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR AND
+                          FISCAL YEAR-END OPTION VALUES
+<CAPTION>
+                                           Value of Unexercised, In-the-Money
+            Number of Unexercised Options  Options at Fiscal Year End ($)(2)
+                          at
+            Fiscal Year End(#)
+                                                                     
+             Shares    Value                                         
+          Acquired Realized Exer-    Unexer-      Exer-     Unexer-
+Name         On    ($)(1)  cisable   cisable    cisable     cisable
+          Exercise                                              
+              (#)
+<S>         <C>    <C>      <C>       <C>       <C>         <C>
+James F.     1,385  $60,007  56,406    49,540    $871,590    $113,054
+Doyle
+
+
+<FN>
+(1)  Represents the difference between the option exercise price and the fair
+     market value of Quaker's common stock on the date of exercise.
+
+(2)  Represents the difference between the option exercise price and the fair
+     market value of Quaker's common stock on the last day of fiscal
+     1994 (June 30, 1994).
+
+</TABLE>                                        
+                                     Page 19
+Pension Plans
+
+Quaker and its subsidiaries maintain several pension plans.  The Quaker
+Retirement Plan (the "Retirement Plan"), which is the principal plan, is a
+noncontributory, defined benefit plan covering eligible salaried and hourly
+employees of the Company who have completed one year of service as
+defined by the Retirement Plan.
+
+Under the Retirement Plan, the participant accrues a benefit based upon the
+greater of a Years-of-Service Formula and an Earnings/Service Formula.
+Under the Years-of-Service Formula, participants accrue annual benefits
+equivalent to credited years of service times $216.  Under the
+Earnings/Service Formula a participant's benefit is the sum of two parts:
+
+1.   Past Service Accrual -- Benefits accrued through December 31, 1994 are
+     set at the greater of (a) those earned or (b) 1% of Five-Year Average
+     earnings to $22,700 plus 1.65% of earnings above $22,700, times credited
+     years of service; and
+
+2.   Future Service Accrual -- For each year beginning January 1, 1994 and
+     after, participants accrue benefits of 1.75% of annual earnings to 80%
+     of the Social Security wage base plus 2.5% of annual earnings above 80%
+     of the Social Security wage base.
+
+Eligible earnings used to calculate retirement benefits include wages,
+salaries, bonuses, contributions to The Quaker Investment Plan and
+allocations under The Quaker Employee Stock Ownership Plan.  Normal
+retirement age under the Retirement Plan is age 65.  The Retirement Plan
+contains provision for early retirement benefits.
+
+Benefit amounts payable under the Retirement Plan are limited to the extent
+required by the Employee Retirement Income Security Act of 1974 ("ERISA"),
+as amended, and the Internal Revenue Code of 1986, as amended.  If the
+benefit formula produces an amount in excess of those limitations, the excess
+will be paid out of general corporate funds in accordance with the terms
+of The Quaker 415 Excess Benefit Plan and The Quaker Eligible Earnings
+Adjustment Plan.  The Quaker Eligible Earnings Adjustment Plan also provides
+for payment out of general corporate funds, based upon benefit amounts which
+would otherwise have been payable under the Retirement Plan and The Quaker
+415 Excess Benefit Plan, if the executive had not previously elected to defer
+compensation under the Executive Deferred Compensation Plan.
+
+The estimated annual retirement benefits that Mr. Doyle would receive under
+the Retirement Plan, The Quaker 415 Excess Benefit Plan, and The Quaker
+Eligible Earnings Adjustment Plan, if he retired at age 65, is $211,754.  The
+amount assumes that he will continue to work for Quaker until his normal
+retirement date and that his earnings will remain the same as in calendar
+year 1993 and that he will elect a straight-lifetime benefit without survivor
+benefits.  (Payment options such as a 50% joint and survivor annuity or
+other annuities are available.)
+
+The Retirement Plan assures active and retired employees that, to the
+extent of sufficient plan assets, it will continue in effect for a
+reasonable period following a change in control of Quaker without a
+reduction of anticipated benefits, and under certain circumstances may
+provide increased benefits.
+
+Generally, under the Retirement Plan a change in control shall be deemed
+to have occurred in any of the following circumstances:
+
+(i)  An acquisition of 30% or more of Quaker's stock unless such acquisition
+is pursuant to an agreement with Quaker approved by the Board before the
+acquisitor becomes the beneficial owner of 5% of Quaker's outstanding
+voting power;
+
+(ii)  A majority of the Board of Directors is comprised of persons who were
+not nominated by the Board of Directors for election as directors;
+
+(iii)  A plan of complete liquidation of Quaker; or
+
+(iv)  A merger, consolidation or sale of all or substantially all of Quaker's
+assets unless thereafter (a) directors of Quaker immediately prior
+thereto continue to constitute at least 50% of the directors of the
+surviving entity or purchaser; or (b) Quaker's securities continue to
+                                        
+                                     Page 20
+                                        
+represent, or are converted to securities which represent, more than 70%
+of the combined voting power of the surviving entity or purchaser.
+
+For a five-year period following a change in control of Quaker, the accrual
+of benefits for service during such period cannot be decreased while there
+are excess assets (as defined in the Retirement Plan).  For a two-year
+period following such a change in control, the accrued benefits of members
+who meet specified age and service requirements and who are terminated will
+be increased.  For so long as there are excess assets during that five-year
+period, if the Retirement Plan is merged with any other plan, the accrued
+benefit of each member and the amount payable to retired or deceased members
+shall be increased until there are no excess assets.  If during that
+five-year period the Retirement Plan is terminated, to the extent that assets
+remain after satisfaction of liabilities, the accrued benefits shall be
+increased such that no assets of the Retirement Plan will directly or
+indirectly revert to Quaker.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+All of the outstanding common stock of Stokely is owned by Quaker whose
+corporate offices are located at 321 North Clark, Chicago, IL 60610.
+
+The following table presents information with respect to all persons known
+to Stokely to own more than 5% of any other class of Stokely's voting
+securities as of September 19, 1994.  Each beneficial owner has, to the
+knowledge of Stokely, sole voting power and sole investment power with
+respect to the shares listed opposite such owner's name.
+
+
+                                                   Amount and    Percent
+                       Name and Address            Nature of     of
+Title of Class         of Beneficial Owner         Ownership     Class
+
+Second Preferred       The William B. Stokely, Jr.  2,012         18.2
+Stock (1)              Foundation
+                       620 Campbell Station Road
+                       Station West, Suite 4
+                       Knoxville, TN 37922
+
+                       Marjorie M. Cochran         1,125          10.2
+                       6201 Linwood Drive
+                       Covington, GA 30209-3953
+
+                       Esther M. Minter            1,125          10.2
+                       230 East College Street
+                       Griffin, GA 30223-4348
+
+                       Cooper N. Mills               926           8.4
+                       666 Brook Circle
+                       Griffin, GA 30223-4413
+
+(1)Holders of common stock and Second Preferred Stock vote collectively
+   and not as a separate class.  As of June 30, 1994, the outstanding shares
+   of Second Preferred Stock comprise less than 1% of the aggregate number
+   of outstanding shares of common stock and Second Preferred Stock.
+
+
+
+
+
+
+
+
+
+
+                                     Page 21
+
+The table below sets forth information with respect to beneficial ownership
+of common stock of Quaker by the directors of Stokely as of
+September 1, 1994, and by the directors and executive officers as a group.
+No director or officer owns any equity securities of Stokely.
+<TABLE>
+<CAPTION>
+                                                    Shares Subject
+                                   Amount of        to Acquisition
+                                   Beneficial          Within 60
+                                  Ownership(a)          Days(a)
+<S>                                   <C>                 <C>
+James F. Doyle                10,229(c)(d)         74,226
+                                                   
+R. Thomas Howell, Jr.         23,988(b)(c)(d)(e)   67,374
+                                                   
+Janet K. Cooper               2,711(c)(d)(e)(f)    11,946
+                                                   
+All Directors and Officers as 39,327(b)(c)(d)      162,980
+a group
+</TABLE>
+[FN]
+(a)  Unless otherwise indicated, each named individual and each person in
+the group has sole voting power and sole investment power with respect to
+shares shown.  These shares represent less than 1 percent for every person,
+and less than 1 percent for all directors and officers as a group, of the
+total shares outstanding, including shares subject to acquisition within 60
+days following September 1, 1994.
+
+(b)  The figures shown for these executive officers include an aggregate of
+1,094 shares representing their proportionate interests in the Quaker
+Stock Fund of The Quaker Investment Plan.
+
+(c)  The figures shown for these executive officers include an aggregate of
+8,921 shares (which includes 1,543 shares on the basis of the conversion
+of 1,428 shares of Series B ESOP Convertible Preferred at the conversion
+rate of 1.08) allocated to them in The Quaker Employee Stock Ownership Plan.
+
+(d)  The figures shown for these executive officers include an aggregate
+of 1,685 shares granted to them under The Quaker Long Term Incentive Plan
+of 1990 for which the restricted period has not lapsed.
+
+(e)  Of these shares, 747 are held by Mr. Howell's children.
+
+(f)  Of these shares, 50 are held by Ms. Cooper's husband and 1 is held by
+Ms. Cooper's daughter.
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+For a description of related transactions with Quaker, reference should
+be made to Part II, Items 7 and 8 (Notes 1, 4 and 7), and Part IV, Schedule II.
+
+
+
+
+
+
+
+
+
+                                     Page 22
+                                     PART IV
+                                        
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+<TABLE>
+                     STOKELY-VAN CAMP, INC. AND SUBSIDIARIES
+                                   SCHEDULE II
+                     AMOUNTS RECEIVABLE FROM RELATED PARTIES
+             FOR THE FISCAL YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+
+<CAPTION>
+(Millions of Dollars)
+
+                                    Balance                           Balance
+For                                 at                                at
+the                                 Beginning                         End of
+Period            Name of           of                      Amounts   Period
+Ended             Debtor            Period       Additions  Collecte
+                                                            d
+<S>               <S>               <C>          <C>        <C>       <C>
+June 30, 1992     Intercompany                                        
+                     receivable                                       
+                     from/(to)                                        
+                     Quaker (a)     $231.1       $ 52.9     $(9.7)    $274.3
+                  Loans                                               
+                  receivable
+                     from Quaker                                      
+                     subsidiaries   5.2          0.4          ---     5.6
+                  (b)
+                  Total             $236.3       $ 53.3     $(9.7)    $279.9
+June 30, 1993     Intercompany                                        
+                     receivable                                       
+                     from/(to)                                        
+                     Quaker (a)     $274.3       $118.9      $---     $393.2
+                  Loans                                               
+                  receivable
+                     from Quaker                                      
+                     subsidiaries   5.6          0.4          ---     6.0
+                  (b)
+                  Total             $279.9       $119.3      $---     $399.2
+June 30, 1994     Intercompany                                        
+                     receivable                                       
+                     from/(to)                                        
+                     Quaker (a)     $393.2       $    3.1    $---     $396.3
+                  Loans                                               
+                  receivable
+                     from Quaker                                      
+                     subsidiaries   6.0          0.4          ---     6.4
+                  (b)
+                  Total             $399.2       $3.5        $---     $402.7
+</TABLE>
+[FN]
+(a)This amount primarily represents an investing arrangement between
+   Stokely and its parent, Quaker.  It also includes miscellaneous
+   intercompany activity.  Interest is accrued on the outstanding balance
+   each month using a rate based on the yield of U.S. Treasury Bills (see
+   Note 4 to the consolidated financial statements under Item 8).
+
+(b)          Stokely purchased a 100 percent participation in certain loans owed
+   to Quaker by certain Quaker subsidiaries.  Quaker has agreed to repurchase
+   these loans at any time upon Stokely's request.
+
+                                     Page 23
+                     STOKELY-VAN CAMP, INC. AND SUBSIDIARIES
+             SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+             FOR THE FISCAL YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+                                        
+<TABLE>
+
+<CAPTION>
+(Dollars in Millions)
+
+                                     1994      1993      1992
+<S>                                <C>       <C>       <C>
+ITEM                                                   
+                                                       
+Maintenance and Repairs            $  16.6   $  15.2   $  12.9
+                                                       
+Depreciation                       $  12.9   $  12.4   $  10.7
+                                                       
+Royalty Expense*                   $  21.2   $  15.2   $  15.5
+                                                       
+Advertising & Merchandising        $274.6    $235.2    $253.1
+                                                       
+Other Marketing                    $  61.3   $  52.3   $  50.2
+</TABLE>
+
+
+*Royalty expense represents fees paid to the Gatorade Trust.  See description in
+ Item 1, Business.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     Page 24
+
+
+
+
+                                   SIGNATURES
+
+
+Pursuant to the requirements of Sections 13 and 15 (d) of the Securities
+Exchange Act of 1934, the Registrant has caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+
+
+
+
+
+                                      STOKELY-VAN CAMP, INC.
+                                         (Registrant)
+
+
+                                      By:    /s/ James F. Doyle
+                                         James F. Doyle
+                                         Chief Executive Officer
+                                         and President
+
+Date:  September 28, 1994
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below on the 28th day of September, 1994, by the
+following persons on behalf of the Registrant and in the capacities indicated.
+
+
+Signature                                         Title
+
+
+
+/s/ James F. Doyle                                Chief Executive Officer and
+James F. Doyle                                    President
+
+
+
+/s/ Janet K. Cooper                               Vice President and Treasurer
+Janet K. Cooper                                   (Principal Financial Officer)
+
+
+
+/s/ R. Thomas Howell, Jr.                         Vice President,
+R. Thomas Howell, Jr.                             Secretary and Director
+
+
+
+/s/ Thomas L. Gettings                            Vice President and Corporate
+Thomas L. Gettings                                Controller
+
+
+
+
+
+
+                                     Page 25
+
+
+
+                                  EXHIBIT INDEX
+
+
+                                                            Paper (P),
+Electronic (E)
+                                                            or Incorporated by
+EXHIBIT NO.         DESCRIPTION                             Reference (IBRF)
+
+3   (a)             Articles of Incorporation of Stokely-Van     IBRF
+                    Camp, Inc. (incorporated by reference to
+                    the Company's Form 10-K for the fiscal year
+                    ended June 30, 1985, file number 1-2944).
+
+3   (b)             By-Laws of Stokely-Van Camp, Inc.            IBRF
+                    (incorporated by reference to
+                    the Company's Form 10-K for the fiscal year
+                    ended June 30, 1985, file number 1-2944).
+
+10  (a)             GATORADE Trust Agreement dated January 1, 1984    IBRF
+                    (incorporated by reference to the Company's Form
+                    10-K for the fiscal year ended June 30, 1984, file
+                    number 1-2944).
+
+21                  Subsidiaries of the Registrant.              E
+
+
+
+
+
+
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                     Page 26
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>2
+<TEXT>
+
+Exhibit 21
+
+             STOKELY-VAN CAMP, INC. AND SUBSIDIARIES
+                                
+                                
+                 Subsidiaries of the Registrant
+                                
+                                
+                                
+                                
+                                             State of
+Subsidiary                                   Incorporation
+
+The Gatorade Company                         Delaware
+Gatorade Puerto Rico Company                      Delaware
+Stokely-Van Camp Overseas, Inc.                   Delaware
+Van Camp's, Inc.                             Indiana
+The Gatorade Company of Australia Pty. Ltd.  Australia
+Gatorade Portugal Servicos da Marketing S.A. Portugal
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1000000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1994
+<PERIOD-END>                               JUN-30-1994
+<CASH>                                              41
+<SECURITIES>                                         0
+<RECEIVABLES>                                      118
+<ALLOWANCES>                                         5
+<INVENTORY>                                         88
+<CURRENT-ASSETS>                                   665
+<PP&E>                                             203
+<DEPRECIATION>                                      70
+<TOTAL-ASSETS>                                     805
+<CURRENT-LIABILITIES>                              157
+<BONDS>                                              1
+<COMMON>                                             4
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                         15
+<OTHER-SE>                                         592
+<TOTAL-LIABILITY-AND-EQUITY>                       805
+<SALES>                                           1077
+<TOTAL-REVENUES>                                  1077
+<CGS>                                              553
+<TOTAL-COSTS>                                      553
+<OTHER-EXPENSES>                                     9
+<LOSS-PROVISION>                                     1
+<INTEREST-EXPENSE>                                (13)
+<INCOME-PRETAX>                                    121
+<INCOME-TAX>                                        50
+<INCOME-CONTINUING>                                 70
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                        70
+<EPS-PRIMARY>                                        0
+<EPS-DILUTED>                                        0
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

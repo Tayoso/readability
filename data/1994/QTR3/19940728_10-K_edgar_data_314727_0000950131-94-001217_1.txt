@@ -1,0 +1,2533 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ KY8UmT1Z/QUwfNNw1loJsevXp41A44weQafQGcrxEXjMXoatu6zKjLDXtNSroWZ0
+ giLr/5i58ZAJSzItG/xB5Q==
+
+<IMS-DOCUMENT>0000950131-94-001217.txt : 19940729
+<IMS-HEADER>0000950131-94-001217.hdr.sgml : 19940729
+ACCESSION NUMBER:		0000950131-94-001217
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19940430
+FILED AS OF DATE:		19940728
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HANDLEMAN CO /MI/
+		CENTRAL INDEX KEY:			0000314727
+		STANDARD INDUSTRIAL CLASSIFICATION:	5099
+		IRS NUMBER:				381242806
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			0429
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07923
+		FILM NUMBER:		94540536
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 KIRTS BLVD
+		STREET 2:		PO BOX 7045
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084-4142
+		BUSINESS PHONE:		3133624400
+
+	MAIL ADDRESS:	
+		STREET 2:		500 KIRTS BLVD PO BOX 7045
+		CITY:			TROY
+		STATE:			MI
+		ZIP:			48084-4142
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>
+ 
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   FORM 10-K
+
+                 ANNUAL REPORT PURSUANT TO SECTION 13 or 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+For the fiscal year ended April 30, 1994              Commission File No. 1-7923
+
+                               HANDLEMAN COMPANY
+- --------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+          MICHIGAN                                        38-1242806
+- --------------------------------------------------------------------------------
+(State or other jurisdiction of             (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+500 Kirts Boulevard, Troy, Michigan                      48084 - 5299
+- --------------------------------------------------------------------------------
+(Address of principal executive offices)                   (Zip Code)
+
+                                 810-362-4400
+- --------------------------------------------------------------------------------
+             (Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+    Title of each class                Name of each exchange on which registered
+- ----------------------------           -----------------------------------------
+COMMON STOCK $.01 PAR VALUE                    NEW YORK STOCK EXCHANGE
+                                           -------------------------------
+                                               PACIFIC STOCK EXCHANGE
+                                           -------------------------------
+                                               CHICAGO STOCK EXCHANGE
+                                           -------------------------------
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                                     NONE
+                              ------------------
+                               (Title of Class)
+
+
+Indicate by checkmark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for at least the past 90 days.
+
+                                 YES  X     NO
+                                    -----     -----     
+
+State the aggregate market value of the voting stock held by non-affiliates of
+the registrant.  The aggregate market value shall be computed by reference to
+the price at which the stock was sold, or the average bid and asked prices of
+such stock, as of a specified date within 60 days prior to the date of filing.
+The aggregate market value as of July 15, 1994 was $336,906,809.
+
+Indicate the number of shares outstanding of each of the registrant's classes of
+common stock, as of the latest practicable date.  The number of shares of common
+stock outstanding as of July 15, 1994 was 33,531,359.
+
+Item 14(a) 3. on page 31 describes the exhibits filed with the Securities and
+Exchange Commission.
+
+Certain sections of the definitive Proxy Statement to be filed for the 1994
+Annual Meeting of Shareholders are incorporated by reference into Part III.
+
+
+
+                                  Page 1 of 36
+<PAGE>
+ 
+                                     PART 1
+
+
+
+Item 1.                             BUSINESS
+
+
+     Handleman Company, a Michigan corporation (herein referred to as the
+"Company" or "Handleman" or "Registrant"), which has its executive office in
+Troy, Michigan, is the successor to a proprietorship formed in 1934, and to a
+partnership formed in 1937.
+
+
+DESCRIPTION OF BUSINESS:
+- ------------------------
+
+      Handleman Company is engaged in the sale and distribution of prerecorded
+music, video, hardcover and paperback books, and personal computer software
+primarily to mass merchants throughout the United States and Canada.  In fiscal
+1994 the Registrant established a distribution company with headquarters in
+Mexico City to supply music and video products to retail outlets throughout
+Mexico.  In addition, the Company provides various services as a specialized
+merchandiser (rackjobber) to these accounts.  The Company is also in the
+business of acquiring video licenses, giving it exclusive rights to manufacture
+and distribute certain video products.
+
+The following table sets forth net sales, and the approximate percentage
+contribution to consolidated sales, for the fiscal years ended April 30, 1994,
+May 1, 1993 and May 2, 1992, for the prerecorded music, video, books, and
+personal computer software product lines of the Company.
+
+<TABLE>
+<CAPTION>
+
+                                              YEAR ENDED
+                                    (DOLLAR AMOUNTS IN THOUSANDS)
+                              ----------------------------------------
+ 
+ 
+                              APRIL 30, 1994  MAY 1, 1993  MAY 2, 1992
+                              --------------  -----------  -----------
+<S>                           <C>             <C>          <C>
+ 
+Prerecorded Music                 $  571,555   $  626,990   $  542,298
+% of Total                              53.6         55.9         53.1
+ 
+Video                                389,532      378,604      387,304
+% of Total                              36.5         33.8         38.0
+ 
+Books                                 66,061       70,850       53,149
+% of Total                               6.2          6.3          5.2
+ 
+Personal Computer Software            39,418       45,261       37,486
+% of Total                               3.7          4.0          3.7
+                                  ----------   ----------   ----------
+ 
+ TOTAL                            $1,066,566   $1,121,705   $1,020,237
+                                  ==========   ==========   ==========
+ 
+</TABLE>
+                                       2
+<PAGE>
+    
+                               Business Segments
+                               -----------------
+
+
+The Company operates in one business segment, selling home entertainment
+software to mass merchant and specialty chain stores, drugstores and
+supermarkets. The Company has both United States and Canadian operations which
+are set forth below. Operations in Mexico were not material in fiscal 1994.
+
+<TABLE>
+<CAPTION>
+ 
+ 
+                                         DOLLAR AMOUNTS IN THOUSANDS
+                                    ------------------------------------
+                                       1994         1993         1992
+                                    ----------   ----------   ----------
+<S>                                 <C>          <C>          <C>
+Net sales:
+  United States                     $1,017,993   $1,062,723   $  969,944
+  Canada                                48,573       58,982       50,293
+                                    ----------   ----------   ----------
+Total net sales                     $1,066,566   $1,121,705   $1,020,237
+                                    ==========   ==========   ==========
+Operating income:
+  United States                     $   70,574   $   94,313   $   85,007
+  Canada                                   920        5,067        5,615
+  General corporate expense, net       (25,353)     (27,672)     (25,029)
+                                    ----------   ----------   ----------
+Income before income taxes          $   46,141   $   71,708   $   65,593
+                                    ==========   ==========   ==========
+Identifiable assets:
+  United States                     $  614,215   $  624,322   $  619,806
+  Canada                                26,783       34,754       35,269
+                                    ----------   ----------   ----------
+Total assets                        $  640,998   $  659,076   $  655,075
+                                    ==========   ==========   ==========
+ 
+</TABLE>
+
+                                    GENERAL
+                                    -------
+
+      The Company is a link between manufacturers of home entertainment software
+products and mass merchant chain stores.  Customers purchase from Handleman due
+to the value-added benefits the Company adds to the basic product, and due to
+the benefit of only dealing with one vendor.  Manufacturers utilize the
+Company's services to avoid the necessity of distributing to thousands of
+individual stores throughout a vast geographic range.  Information regarding the
+number of active vendors from which the Company purchases, number of titles the
+Company is currently distributing and number of retail departments presently
+serviced follows:
+
+<TABLE>
+<CAPTION>
+ 
+                            NUMBER OF         NUMBER OF
+                         TITLES CURRENTLY      RETAIL
+            NUMBER OF      DISTRIBUTED       DEPARTMENTS
+             VENDORS      BY THE COMPANY      SERVICED
+            ---------    ----------------    -----------
+<S>         <C>          <C>                 <C>
+Music          200            22,900            8,200
+Video          153             5,700            7,500
+Books          200             7,000            2,200
+Software       130               800            2,800
+ 
+</TABLE>
+
+The Company is also engaged in acquiring licenses providing exclusive rights for
+the duplication and distribution of certain video products.  These activities
+are conducted by Video Treasures, Inc., a wholly owned subsidiary of the
+Company. Video Treasures' fiscal 1994 sales, including $13.7 million in sales
+to Handleman Company, were $34.8 million, compared to $33.2 million in the prior
+year.  Video Treasures currently has over 2,000 titles available for
+distribution in its catalog.  Video Treasures is continuously seeking to expand
+its product catalog with budget and selected frontline titles.
+
+                                       3
+<PAGE>
+ 
+                                    Vendors
+                                    -------
+
+An important reason the Company's customers utilize its services is due to the
+multitude of vendors offering products for-sale, the complexity of vendor
+programs, the "hits" nature of the business, and the high risk of inventory
+obsolescence.
+
+The Company must anticipate consumer demand for individual titles.  In order to
+maximize sales, the Company must be able to immediately react to "breakout"
+titles, while simultaneously minimizing inventory exposure for artists or titles
+which do not sell.  In addition, because the Company distributes throughout the
+U.S. and Canada, it must adapt selections it offers to local tastes.  This is
+accomplished via a coordination of national and local purchasing responsibility,
+both monitored by inventory control programs.
+
+The Company purchases from many different vendors.  The volume of purchases from
+individual vendors fluctuates from year-to-year based upon the saleability of
+selections being offered by such vendor.  Though within each product line a
+small number of major, financially sound vendors account for a high percentage
+of purchases, product must be selected from a variety of vendors in order to
+maintain an adequate  selection for consumers.  The Company must closely monitor
+its inventory exposure and accounts payable balances with smaller vendors which
+may not have the financial resources to honor their return commitments. At this
+time, the high risk vendors which require close monitoring tend to be
+concentrated in the video and software product lines.
+
+Since the public's taste in prerecorded music, video, books, and personal
+computer software is broad and varied, Handleman is required to maintain large
+inventories to satisfy diverse tastes.  The Company minimizes the effect of
+obsolescence through planned purchasing methods and computerized inventory
+controls.  Since substantially all vendors from which the Company purchases
+product offer some level of return allowances and price protection, the
+Company's exposure to markdown risk is limited unless vendors are unable to
+fulfill their return obligation or non-saleable product purchases exceed vendor
+return limitations.  It is possible that the Company may possess in its
+inventories certain product that it cannot utilize in the ordinary course of
+business and may only be returnable with cost penalties or may be non-returnable
+until the Company can comply with the provisions of the vendor's return
+policies.  Vendors offer a variety of return programs, ranging from 100% returns
+to zero return allowance.  Other vendors offer incentive and penalty
+arrangements to restrict returns.
+
+Handleman generally does not have distribution contracts with manufacturers or
+suppliers; consequently, its relationships with them may be discontinued at any
+time by such manufacturers or suppliers, or by Handleman.
+
+                                       4
+
+<PAGE>
+ 
+                                   Customers
+                                   ---------
+
+
+Handleman Company's customers utilize its services for a variety of reasons.
+The Company selects products from a multitude of vendors offering numerous
+titles, different formats (e.g., cassettes, compact discs) and different payment
+and return arrangements.  As a result, customers avoid most of the risks
+inherent in product selection and the risk of inventory obsolescence.
+
+Handleman also offers its customers a variety of "value-added" services:
+
+
+STORE SERVICE:  Sales representatives visit individual retail stores and meet
+with store management to discuss upcoming promotions, special merchandising
+efforts, department changes, current programs, or breaking releases which will
+increase sales.  They also monitor inventory levels, check merchandise displays,
+and install point-of-purchase advertising materials.
+
+
+ADVERTISING:  Handleman supplies point-of-purchase materials and assists
+customers in preparing radio, television and print advertisements.
+
+
+FIXTURING:  Handleman provides specially designed fixtures that emphasize
+product visibility and accessibility.
+
+
+FREIGHT:  Handleman coordinates delivery of product to each store.
+
+
+PRODUCT EXCHANGE:  Handleman protects its continuing customers against product
+markdowns by offering the privilege of exchanging slower-selling product for
+best sellers.
+
+
+The nature of the Company's business lends itself to computerized ordering and
+distribution techniques, which the Company pioneered and implemented in the
+United States and Canada through development of its computerized system, known
+as Retail Inventory Management Systems (RIMS).  RIMS is refined continuously to
+meet the more sophisticated needs of its customer base.  RIMS captures consumer
+demand and integrates retail inventory control with ordering and distributing
+functions.  RIMS can also accept transmissions of customer point-of-sale data so
+as to immediately react to store selling patterns.  Using RIMS, the Company is
+able to tailor the inventories of individual stores to reflect the customer
+profile of each store and to adjust inventory levels, product mix and selections
+according to seasonal and current selling trends.
+
+The Company determines the selections to be offered in its customers' retail
+stores, and ships these selections to the stores from one of its distribution
+centers located throughout North America.  Slow selling items are removed from
+the stores by the Company and are recycled for redistribution or returned to the
+manufacturers.  Returns from customer stores occur for a variety of reasons,
+including new releases which did not achieve their expected sales potential, ad
+product to be returned after the ad has run, regularly scheduled realignment
+pick-ups and customer directed returns.  The Company provides a reserve for the
+gross profit margin impact of expected customer returns.
+
+During the fiscal year ended April 30, 1994, one customer, Kmart Corporation,
+accounted for approximately 41% of the Company's consolidated sales, while a
+second customer, Wal-Mart, accounted for approximately 26%.  Handleman may not
+have contracts with its customers, and such relationships may be discontinued at
+any time by the customers or Handleman; the discontinuance of the relationships
+with either of the two largest customers would have a materially adverse effect
+upon the Company's future sales and earnings.
+
+                                       5
+<PAGE>
+ 
+                                   Operations
+                                   ----------
+
+
+The Company distributes products from facilities throughout the U.S. and Canada.
+Besides economies of scale and through-put considerations in determining the
+number of facilities it operates, the Company must also consider freight costs
+to and from customers' stores and the importance of timely delivery of new
+releases.  Due to the nature of the home entertainment software business,
+display of new releases close to authorized "street dates" is an important
+driver of both retail sales and customer satisfaction.
+
+The Company also operates four regional return centers in the United States as a
+means to expedite the processing of customer returns.  In order to minimize
+inventory investment, customer returns must be sorted and identified for either
+redistribution or return to vendors as expeditiously as possible.  An item
+returned from one store may actually be required for shipment to another store.
+Therefore, timely recycling prevents purchasing duplicate product for a store
+whose order could be filled from returns from other stores.
+
+The Registrant has established a distribution company, with its headquarters and
+warehouse in Mexico City, to supply music and video products to retail outlets
+throughout Mexico
+
+On June 9, 1994, the Company announced that it was realigning its Western region
+by replacing certain distribution centers with a new automated distribution
+center ("ADC") to be located in Sparks, Nevada. The implementation of the ADC
+will reduce operating costs and decrease inventory levels, while improving the
+Company's speed and reliability in supplying products to its customers. See Note
+4, Provision for Facility Realignment, on page 24 under Item 8, for additional
+information regarding the facility realignment.
+
+The Company is installing a new proprietary inventory management system
+("PRISM").  As of April 30, 1994, PRISM had been installed in three branches,
+and it is scheduled to be installed in the remaining U.S. and Canadian, music
+and video shipping branches and return centers during fiscal 1995.  PRISM
+automates and integrates the functions of ordering product, receiving,
+warehousing, order fulfillment, ticket printing, perpetual inventory maintenance
+and accounts payable. PRISM also provides the basis to develop title specific
+billing to allow the Company to better serve its customers.
+
+                                  Competition
+                                  -----------
+
+Handleman is primarily a specialized merchandiser (rackjobber) of prerecorded
+music,  video, books and personal computer software.  The business of the
+Company is highly competitive as to both price and alternative supply
+arrangements in all of its product lines.  The Company's customers compete with
+alternative sources from which consumers could purchase the same product, such
+as (1) record and book clubs, (2) video rental outlets, and (3) specialty retail
+outlets.  The Company competes directly for sales to its customers with (1)
+manufacturers which bypass wholesalers and sell directly to retailers, (2)
+independent distributors, and (3) other specialized merchandisers.  In addition,
+some large mass merchants have "vertically integrated" so as to provide their
+own rackjobbing.  Some of these companies, however, also purchase from
+independent rackjobbers.
+
+The Company believes that the distribution of home entertainment software will
+remain highly competitive.  The Company believes that customer service and
+continual progress in operational efficiencies are the keys to growth in this
+competitive environment.
+
+                                       6
+<PAGE>
+ 
+                                Industry Outlook
+                                ----------------
+
+The following are some statistics from various industry sources.
+
+. According to the Electronic Industries Association ("EIA"), compact disc
+  hardware sales increased 27% to 20.5 million units in 1993 from 16.1 million
+  units in 1992.  As a result, penetration into U.S. households has reached 43%.
+
+. Video cassette recorder ("VCR") penetration into U.S. households reached 82%
+  in 1993, and is expected to grow to approximately 90% by 1997, according to
+  Veronis, Suhler & Associates ("Veronis").
+
+. According to the EIA, sales of personal computers increased 10% to 7.8 million
+  units in 1993, and are expected to increase an additional 11% in 1994.
+
+While Handleman does not market home electronic hardware, its business is
+closely correlated to the health of the consumer electronics market and
+developments within that industry.  The Company's expertise lies in the
+selection of the best product available from the multitude of suppliers for each
+hardware format.
+
+
+Information regarding industry outlook by product line follows:
+
+Music
+- -----
+
+According to the Recording Industry Association of America (RIAA), the U.S.
+music industry posted sales, at list price, of $10.0 billion in 1993, growing
+11% from $9.0 billion in 1992.  According to Veronis, the U.S. market is
+expected to grow at a 7.4% compound annual rate through 1997, to a total market
+size of approximately $13 billion, at list.
+
+Compact discs ("CDs") remained the catalyst of music industry growth in 1993. In
+1993, net revenues from CD sales increased over 22% to $6.5 billion for the
+year.
+
+Despite the growing dominance of CDs, cassettes still remain a popular format.
+Industry-wide sales of cassettes, including cassette singles, were $3.2 billion
+in calendar 1993.  Car stereos and portable systems, two areas where CDs have
+had very little impact, still rely almost entirely on the analog cassette.  The
+size, cost and convenience of cassettes are also important factors in the
+continuing popularity of this music format.
+
+The Canadian Recording Industry Association reported results similar to its U.S.
+counterpart.  Net revenues rose 12% from $467 million in 1992 to $525 million in
+1993.  This increase is again due to the continued growth in CDs, sales of which
+increased 21% in 1993 to $368 million.
+
+
+Video
+- -----
+
+The continued success of VCR hardware has translated directly into increased
+sell-through revenues.  According to Veronis, for-sale home video in the United
+States was a $4.2 billion business in 1993, at retail, growing 12% from 1992.
+Media analysts Paul Kagan Associates project industry video sales to be $7
+billion by 1997, at retail.
+
+The Company is monitoring developments within the Pay Per View (PPV) market, but
+does not perceive such developments as a near term threat to the sell-through
+video market.  From a longer-term perspective, the Company believes PPV, in some
+way, shape or form, is probably inevitable.  However, PPV replacing video sell-
+through is not believed to be inevitable.  There are numerous reasons why the
+Company and many industry experts feel this way.  First is cost.  The cost of
+PPV systems will be high and for many consumers, prohibitive.  Second, PPV is
+perceived to be a substitute for rental more than it is for sell-through.  In
+fact, some feel that PPV will serve to increase the sell-through market by
+increasing consumer awareness of video product.  Finally, PPV's impact on sell-
+through will be limited because PPV cannot replace the appealing characteristics
+of video sell-through.  Sell-through offers consumers the shopping experience,
+the ability to collect and display, and the option to give a video as a gift.
+
+                                       7
+<PAGE>
+ 
+Books
+- -----
+
+Consumer interest in reading continues to remain strong according to industry
+sources.  Book industry sales grew 7.0% in 1993 to $14.4 billion, according to
+Veronis.  In addition, consumer books are projected to grow at a 7.4% compound
+annual rate to $19.2 billion by 1997.
+
+The book industry is a more mature market, and thus a less volatile market, than
+either the music or video industry.  However, mass media promotions have helped
+spur increased interest and consumer demand.  Both paperbacks and hardcovers are
+being promoted via print and television advertising, and many talk show programs
+profile authors and their books.  In addition, mega-star authors such as John
+Grisham, Stephen King and Danielle Steel continue to produce best sellers which
+are purchased by their loyal readers.
+
+
+
+Software
+- --------
+
+Approximately 7.8 million personal computers ("PCs") were sold to dealers in
+1993, up 715,000 units from 1992, according to the EIA. This growth is expected
+to carry forward to 1994, with a further 12% increase in PC sales projected by
+the EIA. These growth rates are indicative of the strong demand for personal
+computers and the software to operate them.
+
+One of the factors helping propel PC sales has been the steady decrease in PC
+per unit prices.  For example, a state-of-the-art PC in January 1990 could have
+had a retail price up to $5,995.  In June 1994, a comparable PC cost less than
+$1,000.  The retail price of a PC is now in the price range where a typical mass
+merchant shopper is able to purchase a PC and this accordingly spurs sales of
+software products at the mass merchant outlet.
+
+The vast majority of PC sales in the U.S. are IBM compatible units which utilize
+a DOS operating system.  However, a new operating system, Windows, is quickly
+growing in popularity.  The advent of this new technology is exciting for
+software manufacturers, distributors and retailers, because as PC owners switch
+to Windows, they often purchase the Windows version of their current software.
+This effect is similar to music buyers rebuilding their libraries with CDs.
+
+
+
+                                   * * * * *
+
+      See Management's Discussion and Analysis of Financial Condition and
+Results of Operations and Note 2, Acquisition of Business, on page 24 under Item
+8, for additional information regarding the Company's activities.
+
+      The Company's sales and earnings are of a seasonal nature.  Note 10,
+Quarterly Financial Summary (Unaudited), on page 28 under Item 8 discloses
+quarterly results which indicate the seasonality of the Company's business.
+
+      The Company has approximately 3,742 employees, of whom approximately 490
+are members of various local unions.
+
+                                       8
+<PAGE>
+ 
+Item 2.                           PROPERTIES
+
+
+  The Company leases 6 warehouses in the United States and 3 in Canada. The
+U.S. leased warehouses are located in the states of Missouri, New York, Ohio,
+Oregon, Indiana, and Maryland. The Company also leases satellite sales offices
+in Massachusetts (381 sq. ft.) and Minnesota (6,000 sq. ft.). In Canada, leased
+warehouses are located in the provinces of Alberta, Ontario and Quebec. The
+Company owns warehouses in Sparks, Nevada; Brighton, Michigan; Chicago,
+Illinois; Dallas, Texas; Los Angeles, California; Atlanta, Georgia; Little Rock,
+Arkansas; Tampa, Florida; Baltimore, Maryland; Cincinnati, Ohio and Denver,
+Colorado. The Company owns two buildings in Troy, Michigan; one facility is the
+130,000 square feet corporate office building, and the second facility is the
+20,000 square feet building which houses the Company's print shop. The Atlanta,
+Little Rock and Troy buildings are encumbered by Economic Development
+Corporation Revenue Bonds as explained in Note 6 to Handleman's Consolidated
+Financial Statements under Item 8. The bonds were issued in connection with the
+construction of these buildings.
+
+
+
+Item 3.                        LEGAL PROCEEDINGS
+
+
+  There are no material pending legal proceedings to which the Registrant or any
+of its subsidiaries is a party other than ordinary routine litigation incidental
+to the business.
+
+
+
+Item 4.                      SUBMISSION OF MATTERS
+                         TO A VOTE OF SECURITY HOLDERS
+
+
+Not applicable.
+
+                                       9
+<PAGE>
+ 
+                                    PART II
+
+
+Item 5.                 MARKET FOR THE REGISTRANT'S COMMON
+                      STOCK AND RELATED STOCKHOLDER MATTERS
+
+
+
+The Company's common stock is traded on the New York Stock Exchange, Chicago
+Stock Exchange, and Pacific Stock Exchange.
+
+
+Below is a summary of the market price of the Company's common stock as traded
+on the New York Stock Exchange:
+
+<TABLE>
+<CAPTION>
+
+                                  Fiscal Year Ended
+                          -----------------------------------
+                          April 30, 1994        May 1, 1993
+                          --------------      ---------------
+ 
+          Quarter          Low     High        Low     High
+          -------         ------  ------      ------  -------
+        <S>               <C>     <C>         <C>     <C>   
+                                                           
+        First.......      10 3/8  15 1/4       12 1/2  15 1/8
+                                                           
+        Second......       9 7/8  12 3/4       10 7/8  15
+                                                           
+        Third.......      11 5/8  13 7/8       10 5/8  15 5/8
+                                                           
+        Fourth......      10 1/2  14           14 1/2  16 
+        -----------------------------------------------------
+</TABLE>
+
+As of July 15, 1994, the Company had 3,423 shareholders of record.
+
+
+
+Below is a summary of the dividends declared during the past two fiscal years:
+
+
+<TABLE>
+<CAPTION>
+                                  Fiscal Year Ended
+                           --------------------------------
+          Quarter           April 30, 1994    May 1, 1993
+          -------          ----------------  --------------
+        <S>                <C>               <C> 
+        First..........          $.11             $.10
+ 
+        Second.........           .11              .10
+ 
+        Third..........           .11              .10
+ 
+        Fourth.........           .11              .11
+                                 ----             ----
+             TOTAL.....          $.44             $.41
+                                 ====             ====
+ 
+</TABLE>
+
+                                      10
+<PAGE>
+ 
+Item 6.                     SELECTED FINANCIAL DATA
+
+                               HANDLEMAN COMPANY
+                                FIVE YEAR REVIEW
+            (amounts in thousands except per share data and ratios)
+                               -----------------
+
+<TABLE>
+<CAPTION>
+ 
+ 
+                                   1994        %        1993        %        1992        %       1991       %       1990       %
+                                -----------  ------  -----------  ------  -----------  ------  ---------  ------  ---------  ------
+<S>                             <C>          <C>     <C>          <C>     <C>          <C>     <C>        <C>     <C>        <C>
+ 
+SUMMARY OF OPERATIONS:
+ 
+Net sales                       $1,066,566   100.0   $1,121,705   100.0   $1,020,237   100.0   $702,737   100.0   $716,622   100.0
+Gross profit, after direct
+ product costs                     248,049    23.3      278,159    24.8      257,711    25.3    185,874    26.5    190,128    26.5
+Selling, general &
+ administrative expenses           186,161    17.5      191,059    17.0      176,396    17.3    142,127    20.2    129,716    18.1
+Depreciation: included in
+ selling, general &
+   administrative expenses          24,189     2.3       21,722     1.9       20,399     2.0     15,765     2.2     13,992     2.0
+Amortization of acquisition
+ costs                               7,536      .7        8,679      .8        7,365      .7        137      --         50      --
+Nonrecurring acquisition &
+ integration expenses                   --      --           --      --        1,323      .1      3,500      .5
+Interest (income) expense, net       6,211      .6        6,713      .6        7,034      .7      1,606      .2         61      --
+Income before income taxes          46,141     4.3       71,708     6.4       65,593     6.4     38,504     5.5     60,301     8.4
+Income taxes                        18,485     1.7       27,965     2.5       25,580     2.5     15,017     2.1     23,511     3.3
+Effective tax rate                    40.1%                39.0%                39.0%              39.0%              39.0%
+Net income                          27,656     2.6       43,743     3.9       40,013     3.9     23,487     3.3     36,790     5.1
+Dividends                           14,701               13,589               13,258             13,081             12,780
+Average number of shares
+ outstanding                        33,389               33,229               33,166             32,771             32,646
+ 
+Earnings per share              $     0.83           $     1.32           $     1.21           $    .72           $   1.13
+Dividends per share                   0.44                  .41                  .40                .40                .39
+ 
+FINANCIAL DATA:
+ 
+Cash and receivables            $  237,846           $  257,319           $  250,169           $128,784           $129,454
+Inventories                        234,594              241,502              240,369            167,073            165,326
+Current assets                     477,376              501,052              491,975            296,611            295,701
+Additions to property and
+ equipment                          28,737               33,391               22,714             16,068             37,506
+Total assets                       640,998              659,076              655,075            423,727            414,345
+Debt, current                       33,200               17,860                   --             23,600                 --
+Current liabilities                261,227              259,723              254,824            170,052            175,582
+Debt, non-current                   76,364              105,702              135,750             15,930             15,785
+Working capital                    216,149              241,329              237,151            126,559            120,119
+Shareholders' equity               299,493              288,700              260,861            233,614            220,382
+ 
+FINANCIAL RATIOS:
+ 
+Quick ratio
+  (Cash and receivables/
+   current liabilities)                 .9                  1.0                  1.0                 .8                 .7
+Current ratio
+  (Current assets/current
+   liabilities)                        1.8                  1.9                  1.9                1.7                1.7
+Inventory turnover *
+  (Direct product costs/
+   average inventories)                3.2                  3.3                  3.5                3.1                3.2
+Debt to equity ratio
+  (Debt, non-current/
+   shareholders' equity)              25.5%                36.6%                52.0%               6.8%               7.2%
+Return on beginning
+ shareholders' equity
+  (Net income/beginning
+   shareholders' equity)               9.6%                16.8%                17.1%              10.7%              18.8%
+ 
+</TABLE>
+*    Inventory turnover ratio has been restated for prior years to conform with
+     current year calculation method.
+
+     Note:  See Item 7., Management's Discussion and Analysis of Financial
+            Condition and Results of Operations, and Note 2, Acquisition of
+            Business, on page 24 under Item 8., for additional information
+            regarding the Company's activities.
+
+                                      11
+<PAGE>
+ 
+Item 7.
+                          Management's Discussion and
+                        Analysis of Financial Condition
+                           and Results of Operations
+
+
+
+COMPARISON OF 1994 WITH 1993
+- ----------------------------
+
+Net sales for fiscal 1994 were $1.07 billion versus $1.12 billion last year, a
+decrease of $55.1 million or 5%.  Following is a discussion regarding each of
+the Company's four major product lines.
+
+MUSIC - Sales for fiscal 1994 were $571.6 million, compared to $626.9 million in
+fiscal 1993, a decrease of $55.3 million or 9%.  The Company attributes the
+decline in sales of music product to two primary factors.  First was the impact
+of customer inventory concerns, which resulted in reduced sales volume and
+increased merchandise returns.  The second factor was a reduction in the number
+of departments serviced.
+
+Within the music category, the proportion of compact disc ("CD") sales to the
+overall sales mix continues to increase.  According to the Recording Industry
+Association of America ("RIAA"), a music industry trade association, industry-
+wide CD shipments at list price reached 65% of total music revenue in calendar
+1993.  Handleman's CD sales for fiscal 1994 were $278.1 million, or 49% of its
+music sales.  In fiscal 1993, CD's accounted for 46% of Handleman's music sales.
+CD sales growth, like any software product, is influenced by growth in the
+underlying hardware.  In 1993, the installed base of CD players was 43% of U.S.
+households, according to the Electronic Industries Association ("EIA").  As CD
+hardware continues to be purchased by middle-income Americans, who tend to be
+shoppers at mass merchant outlets (the Company's primary customer), Handleman's
+sales of CDs should continue to grow.
+
+The gross profit margin percentage on CD sales is lower than on cassette sales.
+As a result of CD unit sales prices, however, being greater than cassette unit
+sales prices, gross profit dollars per CD unit sold are higher than gross profit
+dollars per cassette unit sold.
+
+Music sales are driven by a continuous supply of releases from popular artists,
+as well as emerging new artists.  Below is a summary of Handleman's music sales
+by genre, as a percent to total music sales dollars.
+
+
+                             MUSIC SALES BY GENRE
+                                  YEAR ENDED
+                            _____________________ 
+
+
+                                      April      April      April
+                                       1994       1993       1992
+                                      -----      -----      -----
+<TABLE>
+<CAPTION>
+
+
+                    <S>               <C>        <C>        <C>
+                    Rock               36%        34%        40%
+                    Country            23         25         19
+                    Budget             18         20         18
+                    Soul                7          8         10
+                    Other              16         13         13
+                                      ---        ---        ---
+                                      100%       100%       100%
+                                      ===        ===        ===
+ 
+</TABLE>
+
+Country music continues to be popular.   Mass merchant stores serviced by
+Handleman sell more country music as a percentage of total music volume than do
+specialty music stores.  Rock music continues to be the largest sales category
+for both Handleman and the music industry.
+
+A statistical overview of the U.S music industry as contained in the RIAA 1993
+annual report showed that music buyers are continuing to spend more at mass
+merchant and discount stores than in past years.  The mass merchant share of
+music sales increased to 24% in 1993, from 16% in 1989.  During the same time
+period, the specialty music store market share decreased from 72% to 60%.
+
+Veronis, Suhler & Associates ("Veronis"), an entertainment industry investment
+banker, forecasted in July 1993 that the U.S. music market will register sales
+growth at a 7.4% compounded annual rate through 1997.
+
+                                      12
+<PAGE>
+ 
+VIDEO - Sales for fiscal 1994 were $389.5 million, compared to $378.6 million in
+fiscal 1993, a $10.9 million or 3% increase.  This sales level of video product
+was the highest for any year in the Company's history.
+
+Movies, including G-rated family oriented features, and children's product are
+the largest unit sales categories for Handleman, representing approximately 80%
+of unit sales.  However, a full catalog assortment is necessary to achieve
+maximum sales.  The Company maintains a commitment to its video program with
+approximately 5,700 titles in its catalog.
+
+The continued penetration of video cassette recorders ("VCR") into U.S.
+households has helped increase sell-through video revenue.  The VCR's
+penetration into U.S. households reached an estimated 82% in 1993; furthermore
+20% of households with a VCR now own a second VCR.  Much of this growth has been
+due to the steady decline of VCR prices.  In 1979 the average price of a VCR was
+approximately $1,200.  According to the EIA, the average retail price of a VCR
+dropped to $294 by 1987 and to $231 by 1993.  Although growth is predictably
+slowing, Veronis forecasts that an installed base of 90% of U.S. households
+should be achieved by 1996.  This penetration level represents a base capable of
+supporting expansion of the home video market through the 1990's.
+
+The continual release of movie box office hits builds consumer awareness of for-
+sale videos, which drives sales not only for those titles but for other videos
+as well.  Articles appearing in both Billboard and Video Store Magazine state
+that calendar 1994 will be an excellent year for direct-to-sell-through titles
+as movie studios are increasingly willing to by-pass the rental market as the
+first window of opportunity for a title.  Further, instead of releasing the
+majority of titles for the Christmas selling season, studios are scheduling
+major titles for release throughout the year.
+
+Veronis projects that calendar 1993 industry video sales hit a record high of
+$4.2 billion, at retail, a 12% increase over calendar 1992.  According to media
+analysts Paul Kagan Associates, industry video sales are projected to be $7
+billion by 1997, at retail.
+
+BOOKS - Sales for fiscal year 1994 were $66.1 million, compared to $70.9 million
+last year, a decrease of $4.8 million or 7%.  This decrease was primarily due to
+a reduction in the number of departments supplied.
+
+Consumer interest in reading continues to remain strong according to industry
+sources.  Book industry sales grew an estimated 7.0% to $14.4 billion at retail
+in 1993.  According to Veronis, consumer books are projected to grow at a 7.4%
+compounded annual rate to $19.2 billion at retail by 1997.  Much of this growth
+appears to be fueled by increased reading habits by a larger segment of the
+population, increasing literacy among Americans, and the ability of the book
+publishing industry to better define and target consumer markets.
+
+PERSONAL COMPUTER SOFTWARE - Sales for fiscal 1994 were $39.4 million, compared
+to $45.3 million for fiscal 1993, a decrease of $5.9 million or 13%.  The
+decline in sales was primarily due to the loss of two customers in the third
+quarter this year, who switched to suppliers that do not provide in-store
+service.
+
+Personal computers ("PCs") continue to gain acceptance in U.S. households as
+computers become more user friendly.  According to the EIA, the installed base
+of computers has increased from 7% in 1983 to 37% of households at the end of
+1993.  The installed base is expected to increase to 40% by 1995.  Mass
+merchants increasingly play an important role in the growth of this market.
+Handleman is expected to benefit as more middle-income Americans, the typical
+shoppers at stores supplied by Handleman, purchase computers.
+
+One of the factors helping propel PC sales has been a steady decrease in PC unit
+prices.  For example, a state-of-the-art PC in January 1990 could have had a
+retail price up to $5,995.  In June 1994, a comparable PC cost less than $1,000.
+The retail price of a PC is now in the price range where a typical mass merchant
+shopper is able to purchase a PC and this accordingly spurs sales of software
+products at the mass merchant outlet.
+
+The retail price of PC software is rapidly declining due to strong competition
+among software companies trying to capture market share in their respective
+categories.  For example, retail prices for many productivity software packages
+have fallen from an introductory price of $300 - $500 to less than $100.  In
+fiscal 1994, over 70% of Handleman's unit sales were for software titles with
+suggested retail prices under $15.  This trend should benefit mass merchants, as
+their shoppers are more likely to purchase the lower-priced software.
+
+                                      13
+<PAGE>
+ 
+OTHER DATA - The gross profit margin percentage for fiscal year 1994 was 23.3%,
+compared to 24.8% for fiscal year 1993.  The reduction in gross profit margin
+percentage was primarily due to an increase in mega-hit video sales, which carry
+lower gross profit margins than other products, and a decrease in music gross
+profit margin partially attributable to a decline in sales of high margin budget
+products and to an increasing percentage of sales of CDs.
+
+Selling, general and administrative expenses for fiscal year 1994 declined $4.9
+million, to $186.2 million or 17.5% of net sales, from $191.1 million or 17.0%
+of net sales last year.  The decrease in selling, general and administrative
+expense dollars was primarily due to cost reductions initiated by Company
+management and the lower sales volume.  Except for the first quarter of fiscal
+1994, selling, general and administrative expenses, as a percent of net sales,
+were lower in each fiscal quarter compared to the corresponding quarter in
+fiscal 1993.  Selling, general and administrative expenses exclude the
+amortization of costs associated with prior year acquisitions which amounted to
+$7,536,000 in fiscal 1994.
+
+On June 9, 1994, the Company announced that it was realigning its Western region
+by replacing certain distribution centers with a new automated distribution
+center ("ADC") to be located in Sparks, Nevada.  The Company recorded a $2.0
+million pre-tax charge against fourth quarter fiscal 1994 results related to
+costs associated with the transition from the current distribution structure to
+the ADC.  This charge included costs for disposal of certain facilities as well
+as relocation expenses and certain compensation costs.  The implementation of
+the ADC will reduce operating costs and decrease inventory levels, while
+improving the Company's speed and reliability in supplying products to its
+customers.
+
+Net interest expense for fiscal 1994 was $6,211,000, compared to $6,713,000 in
+fiscal 1993.  The decline in net interest expense was primarily the result of
+lower interest rates in fiscal 1994 compared to fiscal 1993.
+
+Net income for fiscal 1994 was $27.7 million or $.83 per share, compared to
+$43.7 million or $1.32 per share for fiscal 1993.  The reduction in net income
+was primarily attributable to the reduction in sales and the decrease in gross
+profit margin percentage.
+
+
+COMPARISON OF 1993 WITH 1992
+- ----------------------------
+
+Net sales for fiscal 1993 were $1.12 billion versus $1.02 billion in fiscal
+1992, an increase of $101.5 million or 10%.  The first quarter of fiscal 1993
+included sales of approximately $40.0 million to customers gained following the
+July 26, 1991 purchase of assets from Lieberman Enterprises.  The first quarter
+of fiscal 1992 did not include sales to such customers since the transaction did
+not occur until the end of the first quarter of fiscal 1992.  The Company's
+fiscal year ends on the Saturday closest to April 30th; as a result, fiscal 1992
+was a 53 week year while fiscal 1993 was a 52 week year.  Following is a
+discussion regarding each of the Company's four major product lines.
+
+MUSIC - Sales for fiscal 1993 were $626.9 million, compared to $542.3 million in
+fiscal 1992, an increase of $84.6 million or 16%.  The increase in music sales
+was achieved primarily through increased sales of compact discs ("CD") and the
+continued popularity of country music.  The Company benefits from the strength
+in country music sales since its market share of the country music segment of
+the industry exceeds its share of overall music industry sales.
+
+The Company's fiscal 1993 CD sales of $287 million represented a 38% increase
+over the prior year's CD sales volume.  CDs accounted for 46% of Handleman's
+music sales in fiscal 1993 versus 38% of the Company's music sales in fiscal
+1992.
+
+VIDEO - Sales for fiscal 1993 were $378.6 million, compared to $387.3 million in
+fiscal 1992, a decrease of 2%.  The decline in video sales was primarily due to
+lower sales of Disney products.  In July 1992, Disney began selling its video
+products directly to Handleman's largest customer.  Excluding Disney, sales of
+other video products in fiscal 1993 would have increased approximately 5% over
+fiscal 1992 video sales.  Pricing on Disney product is so competitive that such
+products have the lowest gross profit margin percentages of any Handleman-
+supplied video product.
+
+BOOKS - Sales for fiscal 1993 were $70.9 million.  The increase of $17.8 million
+or 33% over fiscal 1992 sales was primarily due to approximately 750 departments
+being added to the Company's book service program during fiscal 1993.
+
+                                      14
+<PAGE>
+ 
+PERSONAL COMPUTER SOFTWARE - Sales for fiscal 1993 were $45.3 million, compared
+to $37.5 million in fiscal 1992, an increase of $7.8 million or 21%.  Software
+sales continued to benefit from the penetration of personal computers into U.S.
+households.
+
+OTHER DATA - The gross profit margin percentage for fiscal 1993 was 24.8%,
+compared to 25.3% for fiscal 1992.  The gross profit margin percentage for the
+video product line improved in fiscal 1993 as a result of the decline in sales
+of low-margin Disney products.  The music gross profit margin percentage
+declined slightly in fiscal 1993 as CDs (which carry lower gross profit margin
+percentages than cassettes) became a proportionately larger share of the
+Company's music sales mix.  Declines during fiscal 1993 in book and personal
+computer software gross profit margin percentages were the primary reason for
+the overall decline in gross profit margin percentage in fiscal 1993, compared
+to fiscal 1992.  The decline in book and personal computer software gross profit
+margin percentages was partially attributable to increased sales to certain
+customers with whom the Company earns a lower gross profit margin percentage
+because of the non-service nature of the sales arrangement.  An increase in the
+proportion of book and personal computer software sales to total Company sales
+also contributed to the overall decline in gross profit margin percentage since
+these product lines carry gross profit margin percentages lower than the
+Company's overall margin percentage.
+
+Selling, general and administrative expenses for fiscal 1993 were $191.1 million
+(17.0% of net sales), compared to $176.4 million (17.3% of net sales) in fiscal
+1992.  The dollar increase was primarily due to increases in variable expenses
+related to the higher sales level.  However, the higher net sales provided the
+opportunity for efficiencies which lowered expenses as a percentage of net
+sales. Selling, general and administrative expenses exclude the amortization of
+costs associated with prior year acquisitions which amounted to $8,679,000 in
+fiscal 1993.
+
+Net interest expense for fiscal 1993 was $6,713,000, compared to $7,340,000 for
+fiscal 1992.  The decrease was the result of both lower average borrowings
+throughout the period and lower average interest rates in fiscal 1993 compared
+to fiscal 1992.
+
+Net income for fiscal 1993 was $43.7 million, or $1.32 per share, compared to
+$40.0 million or $1.21 per share for fiscal 1992.
+
+LIQUIDITY AND CAPITAL RESOURCES - Working capital at April 30, 1994 was $216
+million, compared to $241 million at May 1, 1993, a decrease of $25 million or
+10%. The decrease in working capital resulted primarily from a $16 million
+increase in the amount of senior notes classified as current liabilities.  The
+working capital ratio was 1.8 to 1 at April 30, 1994 and 1.9 to 1 at May 1,
+1993.  The Company's capital assets consist primarily of display fixtures and
+facilities.  The Company also acquires licenses for video, music and software
+products which it distributes.  Purchases of these assets are expected to be
+funded primarily by cash flows from operations.
+
+In July 1994, the Company replaced its $147 million revolving credit agreement
+with a five year, $250 million unsecured revolving credit agreement entered into
+with a group of banks.  Under the new agreement, the Company may elect to pay
+interest under a variety of formulae tied principally to either prime or
+"LIBOR".  During the first three years of the agreement, the Company may elect
+to enter into term loans with maturities not to exceed five years in length and
+having a final maturity not later than July 12, 2001 for amounts up to an
+aggregate of $150 million.  Interest on these term loans will be based upon a
+pre-determined formula.  The agreement also provides for issuance of standby
+letters of credit for maturities not to exceed one year.  The Company expects to
+use proceeds from the new credit agreement to pay-off the $31 million of senior
+notes due on October 1, 1994 which bear an 8.44% annual interest rate.
+
+EFFECTS OF INFLATION ON OPERATIONS
+- ----------------------------------
+
+The Company's financial statements have reported amounts based on historical
+costs which represent dollars of varying purchasing power and do not measure the
+effects of inflation.  If the financial statements had been restated for
+inflation, net income would have been lower because depreciation expense would
+have to be increased to reflect the most current costs.
+
+                                      15
+<PAGE>
+ 
+Item 8.        FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+The following financial statements and supplementary data are filed as a part of
+this report:
+
+
+
+Report of Independent Accountants
+
+Consolidated Balance Sheet at April 30, 1994, May 1, 1993 and May 2, 1992.
+
+Consolidated Statement of Income - Years Ended April 30, 1994, May 1, 1993 and
+May 2, 1992.
+
+Consolidated Statement of Shareholders' Equity - Years Ended April 30, 1994, May
+1, 1993 and May 2, 1992.
+ 
+Consolidated Statement of Cash Flows - Years Ended April 30, 1994, May 1, 1993
+and May 2, 1992.
+
+Notes to Consolidated Financial Statements
+
+                                      16
+<PAGE>
+ 
+                       Report of Independent Accountants
+
+
+To the Board of Directors and Shareholders of
+Handleman Company:
+
+
+
+We have audited the consolidated financial statements and the financial
+statement schedules listed in Item 14(a) of this Form 10-K of Handleman Company
+and Subsidiaries.  These financial statements and financial statement schedules
+are the responsibility of the Company's management.  Our responsibility is to
+express an opinion on these financial statements and financial statement
+schedules based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Handleman Company
+and Subsidiaries as of April 30, 1994, May 1, 1993 and May 2, 1992, and the
+consolidated results of their operations and their cash flows for the years then
+ended, in conformity with generally accepted accounting principles.  In
+addition, in our opinion, the financial statement schedules referred to above,
+when considered in relation to the basic financial statements taken as a whole,
+present fairly, in all material respects, the information required to be
+included therein.
+
+
+
+Coopers & Lybrand
+
+
+Detroit, Michigan
+June 16, 1994
+
+                                      17
+<PAGE>
+ 
+                               HANDLEMAN COMPANY
+                           CONSOLIDATED BALANCE SHEET
+                  APRIL 30, 1994, MAY 1, 1993 AND MAY 2, 1992
+                    (amounts in thousands except share data)
+                                ----------------
+
+<TABLE>
+<CAPTION>
+ 
+ 
+ASSETS                                                 1994       1993       1992
+- ------                                               ---------  ---------  --------
+<S>                                                  <C>        <C>        <C>
+Current assets:
+  Cash and cash equivalents                          $ 10,568   $ 57,306   $ 34,775
+  Accounts receivable, less allowance of
+     $19,613 in 1994, $21,184 in 1993 and
+     $19,523 in 1992 for gross profit impact
+     of future returns                                227,278    200,013    215,394
+  Merchandise inventories                             234,594    241,502    240,369
+  Other current assets                                  4,936      2,231      1,437
+                                                     --------   --------   --------
+     Total current assets                             477,376    501,052    491,975
+Property and equipment, net                           112,027    112,829    108,670
+Other assets, net of allowances                        51,595     45,195     54,430
+                                                     --------   --------   --------
+     Total assets                                    $640,998   $659,076   $655,075
+                                                     ========   ========   ========
+ 
+LIABILITIES
+- -----------
+Current liabilities:
+  Accounts payable                                   $197,676   $200,394   $213,812
+  Debt, current                                        32,200     17,860         --
+  Income taxes, currently payable                       3,677      7,124      9,393
+  Accrued and other liabilities                        27,674     34,345     31,619
+                                                     --------   --------   --------
+     Total current liabilities                        261,227    259,723    254,824
+Debt, non-current                                      76,364    105,702    135,750
+Deferred income taxes                                   3,914      4,951      3,640
+ 
+SHAREHOLDERS' EQUITY
+- --------------------
+Preferred stock, par value $1.00; 1,000,000
+  shares authorized; none issued                           --         --         --
+Common stock, $.01 par value; 60,000,000
+  shares authorized;  33,411,000,  33,218,000
+  and 33,276,000 shares issued in 1994,
+  1993 and 1992                                           334        332        333
+Paid-in capital                                        31,900     29,136     29,870
+Foreign currency translation adjustment and other      (5,732)      (804)       776
+Retained earnings                                     272,991    260,036    229,882
+                                                     --------   --------   --------
+     Total shareholders' equity                       299,493    288,700    260,861
+                                                     --------   --------   --------
+     Total liabilities and shareholders' equity      $640,998   $659,076   $655,075
+                                                     ========   ========   ========
+</TABLE>
+
+
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+                                      18
+<PAGE>
+ 
+                               HANDLEMAN COMPANY
+                        CONSOLIDATED STATEMENT OF INCOME
+            YEARS ENDED APRIL 30, 1994, MAY 1, 1993 AND MAY 2, 1992
+                  (amounts in thousands except per share data)
+<TABLE>
+<CAPTION>
+ 
+ 
+                                                   1994        1993        1992
+                                                ----------  ----------  ----------
+<S>                                             <C>         <C>         <C>
+Net sales                                       $1,066,566  $1,121,705  $1,020,237
+Direct product costs                               818,517     843,546     762,526
+                                                ----------  ----------  ----------
+Gross profit                                       248,049     278,159     257,711
+Selling, general and administrative expenses       186,161     191,059     176,396
+Provision for facility realignment                   2,000          --          --
+Amortization of acquisition costs                    7,536       8,679       7,365
+Nonrecurring acquisition and integration
+  expenses                                              --          --       1,323
+Interest expense, net                                6,211       6,713       7,034
+                                                ----------  ----------  ----------
+Income before income taxes                          46,141      71,708      65,593
+Income taxes                                        18,485      27,965      25,580
+                                                ----------  ----------  ----------
+Net income                                      $   27,656  $   43,743  $   40,013
+                                                ==========  ==========  ==========
+Earnings per average common share outstanding
+ during the year                                $      .83  $     1.32  $     1.21
+                                                ==========  ==========  ==========
+Average number of common shares outstanding
+  during the year                                  33,389      33,229      33,166
+                                                ==========  ==========  ==========
+</TABLE>
+
+
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+                                      19
+<PAGE>
+ 
+                               HANDLEMAN COMPANY
+                 CONSOLIDATED STATEMENT OF SHAREHOLDERS' EQUITY
+            YEARS ENDED APRIL 30, 1994, MAY 1, 1993 AND MAY 2, 1992
+                  (amounts in thousands except per share data)
+                                ----------------
+
+
+
+<TABLE>
+<CAPTION>
+ 
+
+
+                                                          Foreign
+                              Common Stock                Currency
+                            ---------------              Translation                Total
+                            Shares            Paid-In    Adjustment   Retained   Shareholders'
+                            Issued   Amount   Capital    and Other    Earnings      Equity
+                            -------  ------   --------  -----------   ---------  -------------
+<S>                         <C>      <C>      <C>       <C>           <C>        <C>
+
+
+April 27, 1991              32,976    $330    $28,557     $ 1,600     $203,127      $233,614
+Equity adjustment,
+  foreign currency
+  translation                                                (824)                      (824)
+Net income                                                              40,013        40,013
+Cash dividends, $.40
+  per share                                                            (13,258)      (13,258)
+Stock options exercised,
+  net of shares tendered
+  upon exercise                113       1      1,313                                  1,314
+Other, net                     187       2                                                 2
+
+                            ------    ----    -------     -------     --------      --------
+
+May 2, 1992                 33,276     333     29,870         776      229,882       260,861
+
+Equity adjustment,
+  foreign currency
+  translation                                              (1,580)                    (1,580)
+Net income                                                              43,743        43,743
+Cash dividends, $.41
+  per share                                                            (13,589)      (13,589)
+Stock options exercised,
+  net of shares tendered
+  upon exercise                 11                137                                    137
+Other, net                     (69)     (1 )     (871)                                  (872)
+
+                            ------    ----    -------     -------     --------      --------
+May 1, 1993                 33,218     332     29,136        (804)     260,036       288,700
+
+Equity adjustment,
+  foreign currency
+  translation                                              (2,197)                    (2,197)
+Net income                                                              27,656        27,656
+Cash dividends, $.44
+  per share                                                            (14,701)      (14,701)
+Stock options exercised,
+  net of shares tendered
+  upon exercise                  7                 35                                     35
+Common stock issued for
+  employee benefit plans       186       2      2,729      (2,731)
+                            ------    ----    -------     -------     --------      --------
+April 30, 1994              33,411    $334    $31,900     $(5,732)    $272,991      $299,493
+                            ======    ====    =======     =======     ========      ========
+</TABLE>
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+                                      20
+<PAGE>
+ 
+                               HANDLEMAN COMPANY
+                      CONSOLIDATED STATEMENT OF CASH FLOWS
+            YEARS ENDED APRIL 30, 1994, MAY 1, 1993 AND MAY 2, 1992
+                             (amounts in thousands)
+                                ----------------
+<TABLE>
+<CAPTION>
+                                                           1994         1993        1992
+                                                       ------------  ----------  ----------
+<S>                                                    <C>           <C>         <C>
+ 
+Cash flows from operating activities:
+   Net income                                          $    27,656   $  43,743   $  40,013
+                                                       -----------   ---------   ---------
+   Adjustments to reconcile net income to net
+      cash provided by operating activities:
+      Depreciation                                          24,189      21,722      20,399
+      Amortization of acquisition costs                      7,536       8,679       7,365
+      Amortization of video license advances                 4,915       3,219       2,445
+      (Increase) decrease in assets from
+            operating activities:
+          Accounts receivable                              (27,265)     15,381     (94,527)
+          Merchandise inventories                            6,908      (1,133)    (42,165)
+          Other assets                                        (706)        323         107
+      Increase (decrease) in liabilities from
+            operating activities:
+          Accounts payable                                  (2,718)    (13,418)     81,046
+          Income taxes, currently payable                   (3,447)     (2,269)      5,014
+          Deferred income taxes                             (3,272)      3,923       2,860
+          Accrued and other liabilities                     (4,036)        514      18,005
+                                                       -----------   ---------   ---------
+ 
+          Total adjustments                                  2,104      36,941         549
+                                                       -----------   ---------   ---------
+ 
+          Net cash provided by operating activities         29,760      80,684      40,562
+                                                       -----------   ---------   ---------
+ 
+Cash flows from investing activities:
+   Additions to property and equipment                     (28,737)    (33,391)    (22,714)
+   Retirements of property and equipment                     2,826       5,724       2,332
+   Video license advances                                  (18,726)     (2,394)     (1,377)
+   Acquisition of certain assets of Lieberman
+      Enterprises, Inc.                                         --          --     (74,655)
+                                                       -----------   ---------   ---------
+ 
+          Net cash used by investing activities            (44,637)    (30,061)    (96,414)
+                                                       -----------   ---------   ---------
+ 
+Cash flows from financing activities:
+   Repayments of short-term bank borrowings under
+      line of credit arrangement                                --          --     (23,600)
+   Issuances of debt                                       993,890     640,300     593,300
+   Payments of debt                                     (1,008,888)   (652,488)   (474,224)
+   Cash dividends                                          (14,701)    (13,589)    (13,258)
+   Proceeds from stock options exercised                        35         137       1,314
+   Other changes in shareholders' equity, net              ( 2,197)     (2,452)       (822)
+                                                       -----------   ---------   ---------
+ 
+          Net cash provided by (used by)
+            financing activities                           (31,861)    (28,092)     82,710
+                                                       -----------   ---------   ---------
+          Net increase (decrease) in cash and
+            cash equivalents                               (46,738)     22,531      26,858
+          Cash and cash equivalents at
+            beginning of year                               57,306      34,775       7,917
+                                                       -----------   ---------   ---------
+          Cash and cash equivalents at
+            end of year                                $    10,568   $  57,306   $  34,775
+                                                       ===========   =========   =========
+ 
+</TABLE>
+
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+                                      21
+
+<PAGE>
+ 
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                ----------------
+
+
+
+1.  Accounting Policies:
+    ------------------- 
+
+    Business
+
+    The Company operates principally in one business segment: selling
+    prerecorded music, video, hardcover and paperback books and personal
+    computer software products primarily to mass merchants, and also to
+    specialty chain stores, drugstores and supermarkets.
+
+    Annual Closing Date
+
+    The Company's fiscal year ends on the Saturday closest to April 30th. Fiscal
+    years 1994 and 1993 consisted of 52 weeks, whereas fiscal 1992 consisted of
+    53 weeks.
+
+    Principles of Consolidation
+
+    The consolidated financial statements include the accounts of the Company
+    and its wholly-owned domestic and Canadian subsidiaries. All material
+    intercompany accounts and transactions have been eliminated.
+
+    Foreign Currency Translation
+
+    The Company utilizes the policies outlined in Statement of Financial
+    Accounting Standards No. 52, "Foreign Currency Translation", to convert the
+    balance sheet and operations of its Canadian subsidiary to United States
+    dollars.
+
+    Recognition of Revenue and Future Returns
+
+    Revenues are recognized upon shipment of the merchandise. The Company
+    reduces gross sales and cost of sales for expected returns at the time the
+    merchandise is sold.
+
+    Income Taxes
+
+    The Company employs the method required by Statement of Financial Accounting
+    Standards No. 109, "Accounting for Income Taxes." Under this method,
+    deferred taxes arise from differences between financial reporting and tax
+    reporting.
+
+
+    Pension Plan
+
+    The Company has a noncontributory defined benefit pension plan covering
+    substantially all hourly and salaried employees.  Pension benefits are based
+    upon length of service and average annual compensation for the five highest
+    years of compensation in the last 10 years of employment. Net periodic
+    pension cost is accrued on a current basis, and funded as permitted or
+    required by applicable regulations.
+
+    Inventory Valuation
+
+    Merchandise inventories are stated at the lower of cost (first-in, first-out
+    method) or market. The Company accounts for inventories using the full cost
+    method which includes costs associated with acquiring and preparing
+    inventory for distribution. Costs associated with acquiring and preparing
+    inventory for distribution of $16,289,000, $17,618,000 and $15,942,000 were
+    incurred during the years ended April 30, 1994, May 1, 1993 and May 2, 1992,
+    respectively. Merchandise inventories as of April 30, 1994, May 1, 1993 and
+    May 2, 1992 include $3,621,000, $3,503,000, and $3,127,000, respectively, of
+    such costs.
+
+                                      22
+<PAGE>
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, (continued)
+                                ----------------
+
+
+
+1.  Accounting Policies:  (continued)
+    -------------------              
+
+    Property and Equipment
+
+    Property and equipment is recorded at cost. Upon retirement or disposal, the
+    asset cost and related accumulated depreciation are eliminated from the
+    respective accounts and the resulting gain or loss is included in the
+    consolidated statement of income for the period. Repair costs are charged to
+    expense as incurred. Display fixtures placed in customers' stores have
+    minimum value, if any, outside of the store departments in which they are
+    initially placed.
+
+    Depreciation
+
+    Depreciation is computed using primarily the straight-line method based on
+    the following estimated useful lives:
+
+
+         Buildings and improvements        10-40 years
+         Display fixtures, equipment,
+           furniture and other             3-10 years
+         Leasehold improvements            Lesser of lease term or
+                                             useful life
+ 
+ 
+    Licenses
+    --------
+
+    The Company acquires video licenses giving it exclusive rights to
+    manufacture and distribute certain prerecorded video products. The licenses
+    are included in other assets in the consolidated balance sheet and are
+    amortized over a period which is the lesser of the license agreement or its
+    expected useful life. As of April 30, 1994, May 1, 1993 and May 2, 1992,
+    licenses, net of amortization, amounted to $21,285,000, $7,474,000, and
+    $8,299,000, respectively.
+
+    Intangible Assets
+
+    Intangible assets, included in other assets in the consolidated balance
+    sheet, consist of excess cost over net assets of businesses acquired and 
+    non-competition and other ancillary agreements. These assets are amortized
+    over periods ranging from 5 to 40 years using the straight-line method. As
+    of April 30, 1994, the weighted average period remaining to be amortized was
+    approximately 9 years.
+
+    Cash Flows
+
+    The Company considers all highly liquid debt instruments purchased with a
+    maturity of three months or less to be cash equivalents.
+
+    Financial Instruments
+
+    The Company has evaluated the fair value of those assets and liabilities
+    identified as financial instruments by Statement of Financial Accounting
+    Standards No. 107. As of April 30, 1994, the Company has determined that the
+    fair value approximated the carrying values. Fair values have been
+    determined through information obtained from market sources and management
+    estimates.
+
+
+    Reclassifications
+
+    Certain 1993 and 1992 amounts have been reclassified to conform with
+    presentations adopted in 1994.
+
+                                      23
+<PAGE>
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, (continued)
+
+                                ----------------
+
+2. Acquisition of Business:
+   ----------------------- 
+
+ On July 26, 1991, the Company acquired certain assets of Lieberman Enterprises,
+Inc. (Lieberman), a specialty merchandiser of prerecorded music and video.
+Assets acquired aggregating $74,655,000 consisted primarily of inventory and
+supplies, display fixtures, certain warehouse equipment and non-competition and
+other agreements (of the total purchase price, approximately $21,700,000 was
+allocated to non-competition and other agreements).  Costs of $1,323,000 which
+were incurred in connection with the acquisition and integration of these assets
+were charged against results of operations during fiscal 1992.
+
+
+3. Sales and Accounts Receivable:
+   ----------------------------- 
+
+ The Company's customers are comprised mainly of mass merchant retail chains
+located in the United States and Canada.  For the years ended April 30, 1994,
+May 1, 1993 and May 2, 1992, one customer accounted for approximately 41
+percent, 38 percent and 37 percent of the Company's net sales, and a second
+customer accounted for approximately 26 percent, 24 percent and 23 percent of
+the Company's net sales, respectively.  Collectively, these customers accounted
+for approximately 69 percent, 54 percent and 51 percent of accounts receivable
+at April 30, 1994, May 1, 1993 and May 2, 1992, respectively.
+
+4.   Provision for Facility Realignment
+     ----------------------------------
+
+ The Company is realigning its Western region by replacing certain existing
+distribution centers with a new automated distribution center (ADC).  The
+Company recorded a $2,000,000 pre-tax charge against fourth quarter fiscal 1994
+results related to costs associated with the transition from the current
+distribution structure to the ADC.  This charge included costs for disposal of
+certain existing facilities, as well as relocation expenses and certain
+compensation costs.
+
+5. Pension Plan:
+   ------------ 
+
+ The Handleman Company Pension Plan's funded status, the components of net
+pension expense, and the amount which is recorded in the Company's consolidated
+balance sheet at April 30, 1994, May 1, 1993 and May 2, 1992 are as follows:
+<TABLE>
+<CAPTION>
+ 
+ 
+                                                          1994          1993          1992
+                                                      ------------  ------------  ------------
+<S>                                                   <C>           <C>           <C>
+ 
+   Actuarial present value of benefit obligations:
+     Accumulated benefit obligation, including
+       vested benefits of $10,352,000,
+       $9,266,000 and $7,685,000, in 1994,
+       1993 and 1992, respectively                    $11,012,000   $ 9,734,000   $ 8,280,000
+                                                      -----------   -----------   -----------
+ 
+     Projected benefit obligation                     $13,401,000   $11,603,000   $11,388,000
+   Plan assets at fair value                           12,781,000    12,967,000    11,381,000
+                                                      -----------   -----------   -----------
+   Plan assets in excess of (less than)
+     projected benefit obligation                        (620,000)    1,364,000        (7,000)
+   Unrecognized net loss (gain) from past
+     experience different from that assumed               389,000    (1,112,000)       (5,000)
+   Unrecognized net gain from excess funding,
+     being amortized over eighteen years
+     beginning April 28, 1985                          (1,085,000)   (1,204,000)   (1,323,000)
+   Unrecognized prior service cost                        280,000       413,000       440,000
+                                                      -----------   -----------   -----------
+   Accrued pension liability included in
+     other liabilities                                $(1,036,000)  $  (539,000)  $  (895,000)
+                                                      ===========   ===========   ===========
+ 
+</TABLE>
+
+                                      24
+<PAGE>
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, (continued)
+
+                                ----------------
+
+5.  Pension Plan (continued)
+    ------------------------
+
+ Weighted average discount rates of 8.0 percent, 8.0 percent and 8.5 percent at
+April 30, 1994, May 1, 1993 and May 2, 1992, respectively, and a rate of
+increase in future compensation levels of 5.0 percent for all periods were used
+in determining the actuarial present value of the projected benefit obligation.
+
+<TABLE>
+<CAPTION>
+
+                                       1994         1993         1992
+                                    ---------   -----------   ---------
+<S>                                 <C>         <C>           <C>
+Net pension expense included the
+  following components:
+Service cost                        $ 724,000   $   601,000   $ 698,000
+Interest cost                         978,000       840,000     889,000
+Actual return on plan assets         (580,000)   (1,524,000)   (949,000)
+Net amortization and deferral        (625,000)      391,000     (78,000)
+                                    ---------   -----------   ---------
+ 
+         Net pension expense        $ 497,000   $   308,000   $ 560,000
+                                    =========   ===========   =========
+ 
+</TABLE>
+
+ The expected long-term rate of return on assets was 8.5 percent for all years.
+The assets are invested in various pooled investment funds and mutual funds
+maintained by the Plan trustee and common stock of the Company.
+
+
+
+6.  Debt:
+    ---- 
+
+ In November 1991, the Company entered into a $46,000,000 senior note agreement
+with a group of institutional lenders, of which $15,000,000 was repaid on
+October 1, 1993.  The $31,000,000 balance of the note is due October 1, 1994 and
+bears an 8.44% annual interest rate.
+
+
+ In June 1991, the Company entered into a contractually-committed, four year,
+$175,000,000 revolving credit arrangement with a consortium of banks.  In June
+1993, the credit arrangement was amended and reduced to $147,000,000.  As of
+April 30, 1994, $70,100,000 was outstanding under the revolving credit
+arrangement, at interest rates ranging from 4.44% to 6.75%.  As the Company
+intends to extend the maturities of the outstanding balance beyond one year, and
+has the ability to do so, the debt has been classified as non-current.
+Borrowings outstanding are due on the termination date of the arrangement.
+
+
+ Scheduled maturities for the senior note, revolving credit arrangement, and
+Economic Development Corporation (EDC) limited obligation revenue bonds are as
+follows:
+<TABLE>
+<CAPTION>
+ 
+ 
+                    <S>                        <C>
+                    1995                       $32,200,000
+                    1996                        70,164,000
+                    After 1999                   6,200,000
+</TABLE>
+
+ The EDC bonds, senior note and the borrowings under the revolving credit
+arrangement all contain certain restrictions, including working capital, debt
+limitations and net worth.  The EDC bonds are collateralized by land, buildings
+and equipment with an aggregate net book value of approximately $16,333,000 at
+April 30, 1994.
+
+ Interest expense for the years ended April 30, 1994, May 1, 1993 and May 2,
+1992, was $7,029,000,  $8,004,000 and $8,871,000, respectively.  Interest paid
+for the years ended April 30, 1994, May 1, 1993 and May 2, 1992 was $7,262,000,
+$8,514,000 and $7,992,000, respectively.
+
+                                      25
+<PAGE>
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, (continued)
+
+                                _______________
+
+
+7.   Income Taxes:
+     ------------ 
+
+The domestic and foreign components of income before income taxes for the years
+ended April 30, 1994, May 1, 1993 and May 2, 1992 are as follows:
+<TABLE>
+<CAPTION>
+ 
+                                  1994         1993         1992
+                              -----------   -----------  -----------
+<S>                           <C>           <C>          <C>
+Domestic                      $46,928,000   $68,626,000  $61,878,000
+Foreign                          (787,000)    3,082,000    3,715,000
+                              -----------   -----------  -----------
+Income before income taxes    $46,141,000   $71,708,000  $65,593,000
+                              ===========   ===========  ===========
+ 
+</TABLE>
+Provisions for income taxes for the years ended April 30, 1994, May 1, 1993 and
+May 2, 1992 consist of the following:
+<TABLE>
+<CAPTION>
+                                 1994         1993         1992
+                             -----------   -----------  -----------
+<S>                          <C>           <C>          <C>
+Currently payable:
+ Federal                     $17,749,000   $18,739,000  $16,890,000
+ Foreign                         249,000     1,174,000    1,882,000
+ State and other               3,759,000     4,129,000    3,950,000
+ 
+Deferred, net:
+ Federal                      (2,418,000)    3,015,000    2,489,000
+ Foreign, state and other       (854,000)      908,000      369,000
+                             -----------   -----------  -----------
+                             $18,485,000   $27,965,000  $25,580,000
+                             ===========   ===========  ===========
+ 
+</TABLE>
+The following table provides a reconciliation of the Company's effective income
+tax rate to the statutory federal income tax rate:
+
+<TABLE>
+<CAPTION>
+                                       Percent of Income
+                                 -----------------------------
+                                  1994        1993        1992
+                                 -----        ----        ----
+  <S>                             <C>         <C>         <C>
+  Federal statutory rate          35.0%       34.0%       34.0%
+  State and local income taxes     5.0         4.5         4.5
+  Other                             .1          .5          .5
+                                  ----        ----        ----
+
+        Effective tax rate        40.1%       39.0%       39.0%
+                                  ====        ====        ====
+</TABLE>
+Items that gave rise to significant portions of the deferred tax accounts at
+April 30, 1994, May 1, 1993 and May 2, 1992 are as follows:
+<TABLE>
+<CAPTION>
+
+                                  April 30, 1994                  May 1, 1993                    May 2, 1992
+                            --------------------------     --------------------------     --------------------------
+                            Deferred Tax  Deferred Tax     Deferred Tax  Deferred Tax     Deferred Tax  Deferred Tax
+                               Assets     Liabilities        Assets      Liabilities         Assets      Liabilities
+- --------------------------------------------------------------------------------------------------------------------
+<S>                       <C>             <C>              <C>           <C>              <C>           <C>
+Allowances                    $2,196,000   $ 3,794,000       $1,188,000   $ 7,972,000       $1,413,000  $ 4,886,000
+Employee benefits              1,524,000       369,000        1,008,000       432,000          813,000      507,000
+Property and equipment         1,054,000     5,708,000          490,000     5,757,000          569,000    4,809,000
+Inventories                      277,000     3,512,000          217,000       127,000          585,000      325,000
+Other                            319,000        76,000          257,000       233,000           86,000      377,000
+                             -----------   -----------       ----------   -----------       ----------  -----------
+                              $5,370,000   $13,459,000       $3,160,000   $14,521,000       $3,466,000  $10,904,000
+                             ===========   ===========       ==========   ===========       ==========  ===========
+</TABLE>
+
+The undistributed earnings of the Canadian subsidiary for which no U.S. federal
+income tax liabilities have been recorded were $22,892,000 at April 30, 1994.
+The Company intends to reinvest indefinitely the undistributed earnings of its
+foreign subsidiary.  Due to the availability of foreign tax credits, no
+significant U.S. federal income tax liabilities are expected to result if such
+earnings were distributed.
+
+Income taxes paid in 1994, 1993 and 1992 were approximately $25,204,000,
+$26,095,000 and $17,018,000, respectively.
+
+                                      26
+<PAGE>
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, (continued)
+                                 ----------
+<TABLE>
+<CAPTION>
+ 
+8.  Property and Equipment:
+    -----------------------
+    Property and equipment consists of the following:
+ 
+                                          1994          1993          1992
+                                      ------------  ------------  ------------
+<S>                                   <C>           <C>           <C>
+ 
+    Land                              $  7,176,000  $  8,044,000  $  7,841,000
+    Buildings and improvements          44,056,000    43,417,000    41,327,000
+    Display fixtures                    87,538,000    77,217,000    78,447,000
+    Equipment, furniture and other      40,940,000    39,735,000    34,603,000
+    Leasehold improvements               2,802,000     2,848,000     2,805,000
+                                      ------------  ------------  ------------
+                                       182,512,000   171,261,000   165,023,000
+    Less accumulated depreciation
+     and amortization                   70,485,000    58,432,000    56,353,000
+                                      ------------  ------------  ------------
+ 
+                                      $112,027,000  $112,829,000  $108,670,000
+                                      ============  ============  ============
+</TABLE>
+
+9.  Stock Plans:
+    ----------- 
+
+    The Company's shareholders approved the adoption of the Handleman Company
+    1992 Performance Incentive Plan (the "Plan"), which authorizes the granting
+    of stock options, stock appreciation rights and restricted stock. At any
+    given time, the maximum number of shares of stock which may be issued
+    pursuant to restricted stock awards or granted pursuant to stock options or
+    stock appreciation rights shall not exceed 5% of the number of shares of the
+    Company's common stock outstanding as of the immediately preceding fiscal
+    year end, less restricted stock, options and awards issued or granted under
+    the Plan since adoption in September 1992. As of April 30, 1994, 1,217,420
+    shares of the Company's stock are available for use under the Plan.
+
+    Pursuant to the restricted stock provisions of the Plan, the Company issued,
+    net of forfeitures, 185,521 shares of common stock during the year ended
+    April 30, 1994. These restricted shares are held in the custody of the
+    Company and vest only if specified performance goals are achieved. These
+    shares are treated as outstanding for purpose of calculating earnings per
+    share and payment of dividends. If the minimum performance goals under which
+    an award is issued are not satisfied, the shares are forfeited. If
+    performance goals are exceeded, a maximum of 144,875 additional shares can
+    be issued. The number of shares which may vest will be prorated to the
+    extent actual results are between minimum and maximum performance goals. The
+    Company did not record any compensation expense related to the restricted
+    stock in 1994 because minimum performance goals were not achieved.
+
+    Information with respect to options outstanding under the previous and
+    current stock option plans for the years ended May 2, 1992, May, 1 1993 and
+    April 30, 1994 is set forth below. Options were granted during such years at
+    no less than fair market value at the date of grant. 
+
+<TABLE>
+<CAPTION>
+ 
+                                        Number            Option     
+                                       Of Shares        Price Range  
+                                      ----------      ---------------
+    <S>                               <C>             <C>            
+                                                                     
+    Balance, April 27, 1991             817,672       $ 6.29 - $22.17
+    Granted                             221,808        11.75 -  18.50
+    Terminated                          (51,838)       11.75 -  21.83
+    Exercised                          (136,247)       11.92 -  14.78
+                                      ---------       --------------- 
+                                                                     
+    Balance, May 2, 1992                851,395         6.29 -  22.17
+    Granted                             201,111        13.63 -  15.25
+    Terminated                          (28,300)       11.75 -  21.83
+    Exercised                           (11,736)       11.92 -  12.75
+                                      ---------       ---------------
+                                                                     
+    Balance, May 1, 1993              1,012,470         6.29 -  22.17
+    Granted                             258,509        13.75 -  14.25
+    Terminated                          (40,275)       11.75 -  21.83
+    Exercised                           (13,250)        6.29 -  11.92
+                                      ---------       ---------------
+                                                                     
+    Balance, April 30, 1994           1,217,454       $11.75 - $22.17
+                                      =========       =============== 
+ 
+    Number of shares exercisable
+      at April 30, 1994                 769,745
+                                      =========
+</TABLE>
+
+                                      27
+<PAGE>
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS, (continued)
+                               ----------------
+
+
+<TABLE>
+<CAPTION>
+
+10.  Quarterly Financial Summary (Unaudited):
+     --------------------------------------- 
+     (amounts in thousands except per share data)
+ 
+ 
+                                            FOR THE THREE MONTHS ENDED         
+                                     ----------------------------------------
+     <S>                             <C>        <C>       <C>       <C>      
+                                                                             
+                                     July 31,   Oct. 30,  Jan. 31,  April 30,
+       Fiscal Year 1994                1993       1993      1994       1994  
+       ----------------              --------   --------  --------   --------
+                                                                             
+       Net sales                     $193,995   $322,465  $300,027   $250,079
+       Gross profit                    45,459     76,425    68,616     57,549
+       Income (loss) before income 
+         taxes                         (4,614)    25,756    16,743      8,256
+       Net income (loss)               (2,768)    15,453    10,084      4,887
+       Earnings (loss) per share         (.08)       .46       .30        .15*
+       Dividends per share                .11        .11       .11        .11
+                                                                             
+                                                                             
+                                                                             
+                                      Aug. 1,   Oct. 31,  Jan. 31,    May 1,   
+       Fiscal Year 1993                1992       1992      1993       1993   
+       ----------------              --------   --------  --------   --------
+                                                                             
+       Net sales                     $212,312   $321,852  $335,656   $251,885
+       Gross profit                    56,042     75,164    81,518     65,435
+       Income before income taxes       7,430     23,539    23,509     17,230
+       Net income                       4,532     14,360    14,324     10,527
+       Earnings per share                 .14        .43       .43        .32*
+       Dividends per share                .10        .10       .10        .11
+                                                                             
+                                                                             
+                                                                             
+                                                                             
+                                     July 27,   Oct. 26,  Jan. 31,    May 2,   
+       Fiscal Year 1992                1991       1991      1992       1992  
+       ----------------              --------   --------  --------   --------
+                                                                             
+       Net sales                     $166,775   $278,858  $306,285   $268,319
+       Gross profit                    43,261     68,211    75,342     70,897
+       Income before income taxes       9,039     20,619    19,762     16,173
+       Net income                       5,514     12,578    12,054      9,867
+       Earnings per share                 .17        .38       .36        .30*
+       Dividends per share                .10        .10       .10        .10 
+ 
+</TABLE>
+
+
+* Earnings per common share were improved by $.07, $.06 and $.05 for the fourth
+  quarters of fiscal 1994, 1993 and 1992, respectively, resulting from various
+  year-end adjustments to previous accrual estimates.
+
+                                      28
+<PAGE>
+ 
+Item 9.                 DISAGREEMENTS ON ACCOUNTING AND
+                             FINANCIAL DISCLOSURES
+
+   Not applicable
+
+                                   PART III.
+
+Item 10.     DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Item 10, with the exception of the following information regarding executive
+officers of the Registrant required by Item 10, is contained in the Handleman
+Company Definitive Proxy Statement for its 1994 Annual Meeting of Shareholders
+to be filed on or before August 18, 1994, and such information is incorporated
+herein by reference.  All officers serve at the discretion of the Board of
+Directors.
+
+<TABLE>
+<CAPTION>
+
+                      EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+            NAME AND AGE                                       OFFICE AND YEAR FIRST ELECTED                
+- -----------------------------------------             ------------------------------------------------      
+<S>                                    <C>       <C>  <C>                                                   
+Stephen Strome                         49        (1)  President (1990), Chief Executive Officer (1991)
+                                                      and Director (1989) 
+Peter J. Cline                         47        (2)  Executive Vice President/President of                 
+                                                      Distribution (1994)   
+Lawrence R. Hicks                      49        (3)  Executive Vice President/Merchandising (1994)         
+Louis A. Kircos                        40        (4)  Executive Vice President/Corporate Development        
+                                                      and Subsidiaries (1994)   
+Richard J. Morris                      48        (5)  Senior Vice President/Finance (1994), Secretary       
+                                                      and Chief Financial Officer (1993)  
+Mario DeFilippo                        65        (6)  Senior Vice President (1988)                          
+Samuel J. Milicia                      52        (7)  Vice President - Branch Operations (1990)             
+Jerry L. Lauer                         50        (8)  Vice President - Information Services (1986)          
+Thomas C. Braum, Jr.                   39        (9)  Vice President (1992) and Corporate                    
+                                                      Controller (1988)
+</TABLE>
+
+1.   Stephen Strome has served as President since March 1990.  On May 1, 1991,
+     Mr. Strome was named Chief Executive Officer.  In September 1989 Mr. Strome
+     was named Chief Operating Officer.  In September of 1987, Mr. Strome was
+     elected Executive Vice President.
+
+2.   Peter J. Cline has served as Executive Vice President/President of
+     Distribution since joining the Company in April, 1994. Prior to joining
+     Handleman Company, Mr. Cline was employed by the Snacks and International
+     Consumer Products Division of Borden, Inc. from August 1990 until April
+     1994 where he served in various executive positions, most recently as Group
+     Vice President - North American Snacks. Previously, Mr. Cline was employed
+     by The Stroh Brewery Company from July 1986 to August 1990 where he served
+     in a variety of executive positions, including Senior Vice President -
+     Sales and Marketing from August 1989 to August 1990.
+
+3.   Lawrence R. Hicks has served as a Vice President since January 1982.  Mr.
+     Hicks was elected Senior Vice President in June 1988, and Executive Vice
+     President in April 1994.
+
+4.   Louis A. Kircos was elected Executive Vice President in April 1994.  Mr.
+     Kircos was elected Senior Vice President - Corporate Development and
+     Subsidiaries in March 1993.  In March 1990, Mr. Kircos was elected Senior
+     Vice President - Finance.  Mr. Kircos was elected Vice President - Finance 
+     in September 1987.  In July 1986, Mr. Kircos was elected Treasurer and
+     Secretary, and served as Treasurer until February 1992, and as Secretary
+     until August 1993.
+
+5.   Richard J. Morris has served as Vice President/Finance, Secretary and Chief
+     Financial Officer since August 1993.  In April 1994, Mr. Morris was elected
+     Senior Vice President.  Prior to joining Handleman Company, Mr. Morris was
+     employed by PolyGram Holding, Inc., where he served as Senior Vice
+     President, Finance from January 1983 until July 1993.
+
+6.   Mario DeFilippo has served as a Vice President since January 1983.  In June
+     1988, Mr. DeFilippo was elected Senior Vice President.  Mr. DeFilippo
+     retired on June 30, 1994.
+
+7.   Samuel J. Milicia has served as Vice President since June 1990.  In June
+     1988, Mr. Milicia was named Assistant Vice President - Eastern Region
+     Branch Operations.
+
+8.   Jerry L. Lauer has served as Vice President since June 1986.
+
+9.   Thomas C. Braum, Jr. has served as Corporate Controller since June 1988.
+     In February 1992, Mr. Braum was elected Vice President.
+
+                                      29
+<PAGE>
+ 
+Item 11.                    EXECUTIVE COMPENSATION
+
+    Information required by this item is contained in the Handleman Company
+definitive Proxy Statement for its 1994 Annual Meeting of Shareholders, to be
+filed on or before August 18, 1994 and such information is incorporated herein
+by reference.
+
+
+Item 12.                 SECURITY OWNERSHIP OF CERTAIN
+                        BENEFICIAL OWNERS AND MANAGEMENT
+
+    Information required by this item is contained in the Handleman Company
+definitive Proxy Statement for its 1994 Annual Meeting of Shareholders, to be
+filed on or before August 18, 1994 and such information is incorporated herein
+by reference.
+
+
+Item 13.          CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+    Information required by this item is contained in the Handleman Company
+definitive Proxy Statement for its 1994 Annual Meeting of Shareholders, to be
+filed on or before August 18, 1994 and such information is incorporated herein
+by reference.
+
+
+                                    PART IV
+
+Item 14.    EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+
+    (a)  1. The following financial statements and supplementary data are filed
+            as a part of this report under Item 8.:
+
+            Report of Independent Accountants
+
+            Consolidated Balance Sheet at April 30, 1994, May 1, 1993 
+                   and May 2, 1992.
+ 
+
+            Consolidated Statement of Income - Years Ended April 30, 1994,
+                   May 1, 1993 and May 2, 1992.
+
+            Consolidated Statement of Shareholders' Equity - Years Ended
+                   April 30, 1994, May 1, 1993 and May 2, 1992.
+
+            Consolidated Statement of Cash Flows - Years Ended April 30, 1994,
+                   May 1, 1993 and May 2, 1992.
+
+            Notes to Consolidated Financial Statements
+ 
+
+
+         2. Financial Statement Schedules
+
+            II.   Amounts Receivable from Related Parties and
+                  Underwriters, Promoters, and Employees Other
+                  Than Related Parties
+            VIII. Valuation and Qualifying Accounts and Reserves
+            IX.   Short-term Borrowings
+ 
+
+
+          All other schedules for Handleman Company have been omitted
+       since the required information is not present or not present in an
+       amount sufficient to require submission of the schedule, or because
+       the information required is included in the financial statements or
+       the notes thereto.
+
+                                      30
+<PAGE>
+ 
+      3.  Exhibits as required by Item 601 of Regulation S-K.
+
+        S-K Item 601 (3)
+
+          The Registrant's Restated Articles of Incorporation dated June 30,
+          1989 and Revised Bylaws adopted March 7, 1990 and Amendments to the
+          Bylaws adopted June 16, 1993, were filed with the Form 10-K dated May
+          1, 1993, and are incorporated herein by reference.
+
+        S-K Item 601 (10)
+
+          Consulting contract for director Mr. Paul Handleman was filed with the
+          Commission in the Form 10-K dated July 31, 1975, and is incorporated
+          herein by reference.  Such contract has been extended to December l,
+          1994.  Mr. Paul Handleman retired from the Board of Directors on June
+          16, 1993.
+
+          The Registrant's 1975 Stock Option Plan was filed with the Commission
+          in Form S-8, dated November 17, 1977, File No. 2-60162.  The
+          Registrant's 1983 Stock Option Plan was filed with the Commission in
+          Form S-8 dated January 18, 1985, File No. 2-95421.  The first
+          amendment to the 1983 Stock Option Plan, adopted on March 11, 1987,
+          was filed with the Commission with the Form 10-K for the year ended
+          May 2, 1987.  Both plans are incorporated herein by reference.
+
+          The Registrant's 1992 Performance Incentive Plan was filed with the
+          Commission in Form S-8, dated March 5, 1993, File No. 33-59100.
+
+          The advisory agreement with David Handleman was filed with the Form
+          10-K for the year ended April 28, 1990.
+
+          The Credit Agreement among Handleman Company, Certain Banks And NBD
+          Bank, N.A., As Agent dated June 24, 1991 was filed with the Form 10-K
+          for the year ended May 2, 1992.
+
+          The Note Agreement dated October 1, 1991 was filed with the Form 10-K
+          for the year ended May 2, 1992.
+
+        S-K Item 601 (21) - Subsidiaries of the Registrant:
+
+          Handleman Company of Canada Limited, an Ontario Corporation
+          Video Treasures, Inc., a Michigan Corporation
+          Entertainment Zone, Inc., a Michigan Corporation
+          Scorpio Productions, Inc., a Texas Corporation
+          Hanley Advertising Company, a Michigan Corporation
+          Softprime, Inc., a Michigan Corporation
+          Rackjobbing, S.A. de C.V.
+          Rackjobbing Services, S.A. de C.V.
+          New Licenses, S.A. de C.V.
+          Handleman Technical Services, Inc., a Michigan Corporation
+ 
+        S-K Item 601 (23) - Consent of Independent Accountants:
+          Filed with this report.
+
+   (b) No reports on Form 8-K have been filed during the last quarter of the
+       period covered by this report.
+
+Note:  The Exhibits attached to this report will be furnished to requesting
+       security holders upon payment of a reasonable fee to reimburse the
+       Registrant for expenses incurred by Registrant in furnishing such
+       Exhibits.
+
+                                      31
+<PAGE>
+ 
+                                                                    Exhibit (23)
+
+
+
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+
+
+
+We consent to the incorporation by reference in the registration statements of
+Handleman Company and Subsidiaries on Form S-3 (File Nos. 33-16553, 33-26456,
+33-33797 and 33-42018) and Form S-8 (File Nos. 2-60162, 2-95421, 33-59100 and
+33-69030) of our report dated June 16, 1994, on our audits of the consolidated
+financial statements and financial statement schedules of Handleman Company and
+Subsidiaries as of April 30, 1994, May 1, 1993 and May 2, 1992 and for the years
+then ended, which report is included in this Annual Report on Form 10-K.
+
+
+
+Coopers & Lybrand
+
+
+       
+Detroit, Michigan
+July 27, 1994
+
+
+
+                                      32
+<PAGE>
+ 
+           SCHEDULE II - AMOUNTS RECEIVABLE FROM RELATED PARTIES AND
+       UNDERWRITERS, PROMOTERS, AND EMPLOYEES OTHER THAN RELATED PARTIES
+            YEARS ENDED MAY 2, 1992, MAY 1, 1993 AND APRIL 30, 1994
+<TABLE>
+<CAPTION>
+ 
+            COLUMN A               COLUMN B    COLUMN C    COLUMN D       COLUMN E
+- --------------------------------  ----------  ----------  -----------  --------------
+
+ 
+                                  Balance at
+                                  beginning                            Balance at
+        Name of debtor            of period   Additions   Collections  end of period
+- ------------------------------    ----------  ----------  -----------  -------------
+<S>                               <C>         <C>         <C>          <C> 
+Year ended May 2, 1992:
+ 
+ Amount receivable,
+ HGV Video Productions, Inc.      $  327,000  $  512,000   $  557,000   $  282,000
+                                  ==========  ==========   ==========   ==========
+ 
+ Amount receivable,
+ Mode Video Distribution, Inc.    $   17,000  $  180,000   $   71,000   $  126,000
+                                  ==========  ==========   ==========   ==========
+ 
+Year ended May 1, 1993:
+ 
+ Amounts receivable,
+ HGV Video Productions, Inc.      $  282,000  $1,903,000   $1,604,000   $  581,000
+                                  ==========  ==========   ==========   ==========
+ 
+ Amounts receivable,
+ Mode Video Distribution, Inc.    $  126,000  $1,069,000   $  951,000   $  244,000
+                                  ==========  ==========   ==========   ==========
+ 
+ Amounts receivable,
+ SRT Video, Ltd.                  $  100,000  $2,800,000   $1,300,000   $1,600,000
+                                  ==========  ==========   ==========   ==========
+ 
+Year ended April 30, 1994:
+ 
+ Amounts receivable,
+ HGV Video Productions, Inc.      $  581,000  $2,509,000   $2,033,000   $1,057,000 (1)
+                                  ==========  ==========   ==========   ==========
+ 
+ Amounts receivable,
+ Mode Video Distribution, Inc.    $  244,000  $2,243,000   $2,290,000   $  197,000 (1)
+                                  ==========  ==========   ==========   ==========
+ 
+ Amounts receivable,
+ SRT Video, Ltd.                  $1,600,000  $  300,000   $1,300,000   $  600,000 (1)
+                                  ==========  ==========   ==========   ==========
+ 
+ Amounts receivable,
+ Sofsource, Inc.                  $      --   $  385,000   $     --     $  385,000 (1)
+                                              ==========                ==========
+ 
+ Amounts receivable,
+ Mr. Richard J. Morris            $      --   $  142,000   $    9,000   $  133,000
+                                              ==========   ==========   ==========
+ 
+</TABLE>
+
+    The Company is an equity participant in HGV Video Productions, Inc. (HGV),
+    an Ontario, Canada corporation, which was established to manufacture and
+    distribute licensed video product in Canada.
+
+    The Company is an equity participant in Mode Video Distribution, Inc.
+    (Mode), a Quebec, Canada corporation engaged in the distribution of video
+    products.
+
+    The Company is a partner in SRT Video, Ltd. (SRT), a partnership formed to
+    purchase and resell cut-out or surplus video cassettes.
+
+    The Company is an equity participant in Sofsource, Inc., a U.S. based
+    manufacturer and distributor of personal computer software products.
+
+(1) The Company funds working capital requirements of HGV, Mode, SRT and
+    Sofsource, and such advances accrue interest at various rates ranging from
+    the prime rate to prime plus one percent.
+
+                                      33
+<PAGE>
+ 
+         SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+            YEARS ENDED MAY 2, 1992, MAY 1, 1993 AND APRIL 30, 1994
+<TABLE>
+<CAPTION>
+
+
+         COLUMN A                      COLUMN B           COLUMN C            COLUMN D           COLUMN E
+         --------                    -----------         -----------       --------------      ------------
+                                                                            Deductions:
+                                      Balance at          Additions:        Adjustments
+                                      Beginning           Charged to       of, or Charges        Balance at
+        Description                   of Period            Expense          to, Reserve        end of Period
+        -----------                  -----------         -----------       --------------      -------------
+<S>                                  <C>                 <C>               <C>                 <C>
+Year ended May 2, 1992:
+
+     Accounts receivable,
+     allowance for gross
+     profit impact of future
+     returns                         $13,066,000         $10,774,000         $4,317,000         $19,523,000
+                                     ===========         ===========         ==========         ===========
+
+     Other assets, collectability
+     allowance for receivables
+     from bankrupt customers         $12,900,000         $        --         $  369,000         $12,531,000
+                                     ===========         ===========         ==========         ===========
+
+Year ended May 1, 1993:
+
+     Accounts receivable,
+     allowance for gross
+     profit impact of future
+     returns                         $19,523,000         $ 5,385,000         $3,724,000         $21,184,000
+                                     ===========         ===========         ==========         ===========
+
+     Other assets, collectability
+     allowance for receivables
+     from bankrupt customers         $12,531,000         $   403,000         $1,007,000         $11,927,000
+                                     ===========         ===========         ==========         ===========
+
+Year ended April 30, 1994:
+
+     Accounts receivable,
+     allowance for gross
+     profit impact of future
+     returns                         $21,184,000         $ 3,467,000         $5,038,000         $19,613,000
+                                     ===========         ===========         ==========         ===========
+
+     Other assets, collectability
+     allowance for receivables
+     from bankrupt customers
+                                     $11,927,000         $ 2,092,000         $  959,000         $13,060,000
+                                     ===========         ===========         ==========         ===========
+</TABLE>
+                                            34
+              
+<PAGE> 
+                      SCHEDULE IX - SHORT-TERM BORROWINGS
+            YEARS ENDED APRIL 30, 1994,  MAY 1, 1993 AND May 2, 1992
+
+
+<TABLE>
+<CAPTION>
+                                   Year Ended      Year Ended      Year Ended
+                                 April 30, 1994    May 1, 1993     May 2, 1992
+                                 --------------    -----------     -----------
+<S>                              <C>               <C>             <C>
+Balance at End of Period         $        --      $       --     $       --
+                                 ===========      ==========     ===========
+ 
+Interest Rate at End of Period   $        --      $       --     $       --
+                                 ===========      ==========     ===========
+ 
+Maximum Amount Outstanding
+During the Period                $15,000,000      $6,300,000     $55,500,000
+                                 ===========      ==========     ===========
+ 
+Average Amount Outstanding
+During the Period (1)            $ 8,933,000      $6,300,000     $17,523,000
+                                 ===========      ==========     ===========
+ 
+Weighted Average Interest
+Rate During the Period (2)              4.23%           4.88%           6.75%
+                                 ===========      ==========     ===========
+ 
+</TABLE>
+
+
+(1)  The average amount outstanding during the period represents total daily
+     borrowings divided by the number of days such borrowings were outstanding.
+
+(2)  The weighted average interest rate represents the annualized effect of
+     short-term interest expense divided by the average debt outstanding.
+
+
+Short-term borrowings are unsecured borrowings under bank lines of credit at
+interest rates on an as offered basis not to exceed prime.
+
+                                      35
+<PAGE>
+                                   SIGNATURES
+
+
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+<TABLE> 
+<CAPTION> 
+                                                            HANDLEMAN COMPANY
+
+<S>                                             <C> 
+DATE:     July 26, 1994                         BY: /s/ Stephen Strome
+       -----------------------------------         ---------------------------------------------
+                                                   Stephen Strome, President, Chief
+                                                     Executive Officer and Director
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+
+/s/ Richard J. Morris                                /s/ Thomas C. Braum, Jr.
+- ------------------------------------------------     ----------------------------------------------
+Richard J. Morris, Senior Vice President,            Thomas C. Braum, Jr., Vice President,
+  Finance, Secretary and Chief Financial Officer       Corporate Controller
+  (Principal Financial Officer)                        (Principal Accounting Officer)
+
+                July 26, 1994                                     July 26, 1994
+- ------------------------------------------------     ----------------------------------------------
+                     DATE                                                DATE
+
+
+/s/ David Handleman                                  /s/ Richard H. Cummings
+- ------------------------------------------------     ----------------------------------------------
+David Handleman, Director                            Richard H. Cummings, Director
+ (Chairman of the Board)
+
+                July 26, 1994                                       July 26, 1994
+- ------------------------------------------------     ----------------------------------------------
+                     DATE                                                DATE
+
+
+
+/s/ James B. Nicholson                               /s/ Alan E. Schwartz
+- ------------------------------------------------     ----------------------------------------------
+James B. Nicholson, Director                         Alan E. Schwartz, Director
+
+                July 26, 1994                                       July 26, 1994
+- ------------------------------------------------     ----------------------------------------------
+                     DATE                                                DATE
+
+
+
+/s/ Verne G. Istock                                  /s/ John F. Daly
+- ------------------------------------------------     ----------------------------------------------
+Verne G. Istock, Director                            John F. Daly, Director
+
+                July 26, 1994                                       July 26, 1994
+- ------------------------------------------------     ----------------------------------------------
+                     DATE                                              DATE
+
+
+
+/s/ Lloyd E. Reuss                                   /s/ Gilbert R. Whitaker, Jr.
+- ------------------------------------------------     ----------------------------------------------
+Lloyd E. Reuss, Director                             Gilbert R. Whitaker, Jr., Director
+
+                July 26, 1994                                       July 26, 1994
+- ------------------------------------------------     -----------------------------------------------
+                     DATE                                                DATE
+</TABLE> 
+ 
+                                      36
+ 
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3756 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ JCpfCaayWb98AxAnDWhTuyBjiJmlGSOm0UN/sa0TbKLdmtXNDYVULTlgVHlltKkH
+ 7+owI3mavDV3KpvG6lpU/Q==
+
+<IMS-DOCUMENT>0000016058-94-000007.txt : 19941005
+<IMS-HEADER>0000016058-94-000007.hdr.sgml : 19941005
+ACCESSION NUMBER:		0000016058-94-000007
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940926
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CACI INTERNATIONAL INC /DE/
+		CENTRAL INDEX KEY:			0000016058
+		STANDARD INDUSTRIAL CLASSIFICATION:	8711
+		IRS NUMBER:				541345888
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-08401
+		FILM NUMBER:		94550305
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1100 N GLEBE ST
+		CITY:			ARLINGTON
+		STATE:			VA
+		ZIP:			22201
+		BUSINESS PHONE:		7038417800
+
+	MAIL ADDRESS:	
+		STREET 1:		1100 NORTH GLEBE ROAD
+		CITY:			ARLINGTON
+		STATE:			VA
+		ZIP:			22201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CACI INC /DE/
+		DATE OF NAME CHANGE:	19870119
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONSOLIDATED ANALYSIS CENTERS INC
+		DATE OF NAME CHANGE:	19730102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CALIFORNIA ANALYSIS CENTER INC
+		DATE OF NAME CHANGE:	19680603
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                   FORM 10-K
+
+                    ANNUAL REPORT UNDER SECTION 13 OR 15(d)
+                    OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                    For the Fiscal Year Ended June 30, 1994
+
+                         Commission File Number 0-8401
+
+                            CACI International Inc
+                         -----------------------------
+              (Exact name of Registrant as specified in its charter)
+
+                                   Delaware
+           --------------------------------------------------------------
+           (State or other jurisdiction of incorporation or organization)
+
+                                  54-1345888
+                      ------------------------------------
+                      (I.R.S. Employer Identification No.)
+
+                   1100 North Glebe Road, Arlington, VA 22201
+                   ------------------------------------------
+                    (Address of principal executive offices)
+
+                                 (703) 841-7800
+               ---------------------------------------------------
+               (Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+   Title of  each class          Name of each exchange on which registered
+   --------------------          -----------------------------------------
+          None                                    None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+              CACI International Inc Common Stock, $0.10 par value    
+              ----------------------------------------------------
+                             (Title of each class)
+
+Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.  Yes   X    No      
+                                                    -----    -----
+
+The aggregate market value of the voting stock held by non-affiliates of the
+Registrant as of August 31, 1994, was approximately $64,993,000.
+<PAGE>
+page 2
+
+Indicate the number of shares outstanding of each of the Registrant's classes
+of Common Stock, as of August 31, 1994:  CACI International Inc Common Stock,
+$.10 par value, 9,977,000 shares.
+
+
+                     Documents Incorporated by Reference
+
+(1) The information relating to directors and officers contained in the proxy
+statement of the Registrant to be filed in connection with its 1994 Annual
+Meeting of Shareholders is incorporated by reference into Part III, Items 10,
+11, 12, and 13 of this Form 10-K.
+<PAGE>
+page 3
+                    CACI INTERNATIONAL INC AND SUBSIDIARIES
+
+                     Table of Contents to Annual Report on
+              Form 10-K for the Fiscal Year Ended June 30, 1994
+
+PART I
+
+   Item 1.   Business
+
+   Item 2.   Properties
+
+   Item 3.   Legal Proceedings
+
+   Item 4.   Submission of Matters to a Vote of Security Holders
+
+PART II
+
+   Item 5.   Market for the Registrant's Common Equity and Related
+             Stockholder Matters
+
+   Item 6.   Selected Financial Data
+
+   Item 7.   Management's Discussion and Analysis of Financial
+             Condition and Results of Operations
+
+   Item 8.   Financial Statements and Supplementary Data
+
+   Item 9.   Disagreements on Accounting and Financial Disclosure
+
+PART III
+
+   Item 10.   Directors and Executive Officers of the Registrant
+
+   Item 11.   Executive Compensation
+
+   Item 12.   Security Ownership of Certain Beneficial Owners and
+              Management
+
+   Item 13.   Certain Relationships and Related Transactions
+
+PART IV
+
+   Item 14.   Exhibits, Financial Statements, Schedules and Reports
+              on Form 8-K
+<PAGE>
+page 4
+                             BUSINESS INFORMATION
+
+Unless the context indicates otherwise, the terms "the Company" and "CACI" as
+used in Section I, include both CACI International Inc and its wholly-owned
+subsidiaries.  The term "the Registrant", as used in Section I, refers to CACI
+International Inc only.
+
+                                    PART I
+
+ITEM 1.  BUSINESS
+
+BACKGROUND
+
+CACI International Inc (the "Registrant") was organized as a Delaware
+corporation under the name of "CACI WORLDWIDE, INC." on October 8, 1985.  By a
+merger effected on June 2, 1986, the Registrant became the parent of CACI,
+Inc., a Delaware corporation, and CACI N.V., a Netherlands corporation.
+
+The Registrant is a holding company and its operations are conducted through
+wholly-owned subsidiaries which are located in the United States and Europe.
+
+
+OVERVIEW
+
+CACI is strategically positioned in the information technology ("IT")
+industry.  With 1994 revenue of over $183 million, CACI serves clients in
+major segments of government and commercial markets throughout North America
+and Western Europe.  Many of the Company's client relationships have existed
+for five years or more.  
+
+Founded in 1962, CACI provides computer-based information technology, systems,
+custom software, integration and operations, imaging and document management,
+simulation, and proprietary database and software products.  The Company
+manufactures no equipment.  
+
+CACI's service and value has enabled the Company to sustain high rates of
+repeat business and continuing client support.  The Company believes that its
+performance similarly enables it to compete effectively for new clients and
+new contracts.  The Company is organized to seek competitive business
+opportunities and has designed its operations to support major programs.
+
+CACI's primary markets - both domestic and international - are agencies of
+national governments, major corporations, state and local governments, and
+other business organizations.  The client market for CACI's information
+systems and high technology services is created by the need for solutions to
+the complex systems and information environment in which the clients operate,
+be it governmentally mandated programs, or competitively driven needs in the
+commercial arena.
+
+CACI has structured its new business development organization to respond to
+the globally competitive marketplace.  The Company employs full-time
+marketing, sales, and proposal development specialists who support the
+Company's line operations' marketing and sales responsibilities.
+
+The Company has continued to expand its portfolio of proprietary software and
+database products.  The Company offers marketing systems software and database
+products, targeted to clients who need systems and analysis for retail sales
+of consumer products, direct mail campaigns, franchise or branch site location
+<PAGE>
+page 5
+
+projects, and similar requirements.  In CACI's simulation technology business
+the Company offers both computer-based simulation languages and simulation
+packages (products) that provide clients with analysis and solutions for the
+manufacturing industry; for wide area communications networks (e.g., WANs,
+satellites, land lines); for local area computer networks (i.e., LANs);  for
+the study of business processes; and for design of distributed computer
+systems architectures. CACI also offers a product line targeted to the needs
+of government procurement organizations and purchasing agents supporting large
+volume acquisition programs or activities (see General Description, below). 
+
+The Company operates through wholly-owned subsidiaries established to serve
+specific market segments, or conduct business in specific geopolitical
+jurisdictions.
+
+CACI's major operating subsidiary in Europe, CACI Limited, is headquartered in
+London, England, and operates primarily in support of CACI information
+systems, marketing systems, and simulation technology lines of business in the
+United Kingdom and Western Europe.
+
+CACI's American Legal Systems Corp. ("ALS") subsidiary specializes in
+providing litigation support services to law firms and major corporations in
+the United States, and complements the Company's other litigation support
+business with government clients.
+
+CACI currently employs approximately 3,069 people.  The corporation currently
+operates from its headquarters at Three Ballston Plaza, 1100 N. Glebe Road,
+Arlington, Virginia.  CACI also has operating offices and facilities in 46 
+additional locations throughout the United States, Europe and Canada.
+
+GENERAL DESCRIPTION OF CACI SYSTEMS, TECHNOLOGIES AND PRODUCTS
+
+Representative Systems Applications include:
+
+.   Airport and airspace traffic planning
+.   Ammunition management information systems
+.   Automated documents and records management systems
+.   Computer aided logistics/data information systems
+.   Contracting and purchasing systems
+.   Executive decision support systems for military planners
+.   Imaging services
+.   Inventory levels setting and allocation systems
+.   Inventory management and control systems
+.   Litigation support systems and services
+.   Manufacturing requirements planning systems
+.   Marketing and customer database management systems
+.   Sales management and business support systems
+.   Site location and analysis systems
+.   Software reengineering
+.   State motor vehicle registration and related management information
+    systems
+.   Weapon systems/equipment configuration management systems
+
+CACI products are installed in over 4,000 locations worldwide, and many are
+designed to run on a variety of popular computers.  Representative CACI
+software and database products include:
+<PAGE>
+page 6
+
+Simulation Technology:
+
+
+SIMFACTORY II.5    A software product for factory planners to study
+alternative plant and equipment configurations. (SIMFACTORY II.5 is a
+trademark of CACI Products Company.)
+
+COMNET II.5   A software product for communications engineers to study "wide
+area networks" of satellites, land lines, switching systems and protocols.
+(COMNET II.5 is a registered trademark of CACI Products Company.)
+
+COMNET III   An object-oriented software product for the prediction of local
+and wide area network performance. (COMNET III is a trademark of CACI Products
+Company.)
+
+NETWORK II.5    A software product for engineers to study alternative
+combinations of computers and data storage devices. (NETWORK II.5 is a
+registered trademark of CACI Products Company.)
+
+SIMSCRIPT II.5   A language designed especially for analysts to build
+computer-based representations ("models") of complex activities, eg. airways
+and airport traffic; maintenance procedures for fleets of ships; warfare
+studies of military equipment and tactics; and communications networks.
+(SIMSCRIPT is a registered trademark of CACI Products Company.)
+
+SIMPROCESS   An electronic prototyping tool for business process
+reengineering, with which a manager can model a current business operation,
+and then experiment with alternative approaches. (SIMPROCESS is a trademark of
+CACI Products Company.)
+
+MODSIM II   A computer programming and graphics environment that provides an
+object-oriented approach to structuring software.  This approach provides an
+intuitive development framework to programmers, one that allows code to be re-
+used. (MODSIM II is a registered trademark of CACI Products Company.)
+
+SIMOBJECT   A software framework for the reduction of time and cost in
+building simulation models. (SIMOBJECT is a registered trademark of CACI
+Products Company.)
+
+
+Marketing Systems Technology and Data and Information Systems Products:
+
+InSite-USA  (also InSite, UK version).  A PC-based Geographic Information
+System (GIS) combining software, data, and mapping capabilities to enable
+planners to determine the location of retail outlets, branch networks, sales
+territories, potential customers and competitors. (InSite-USA and InSite are
+trademarks of CACI, INC.-FEDERAL and CACI Limited, respectively.)
+
+ACORN  (A Classification of Residential Neighborhoods)  A tool that analyzes
+consumers according to the type of residential area in which they live and is
+used to identify the prime prospects for all types of consumer goods and
+services. (ACORN is a registered trademark of CACI, INC.-FEDERAL in the United
+States; and also a registered service mark of CACI, INC.- FEDERAL and CACI
+Limited in the United States, and in the United Kingdom and Northern Ireland,
+respectively.)
+<PAGE>
+page 7
+
+MARKET*MASTER    A database marketing system that enables companies to analyze
+their customer files by product holding and usage for the purpose of cross
+selling other products and services. (MARKET*MASTER is a trademark of CACI,
+INC.-FEDERAL.)
+
+SITE   A detailed demographic and applied market research database for any
+geographic area such as county, zip code, TV broadcast area, congressional
+district or retail trade area. (SITE is a registered trademark of CACI
+Limited.)
+
+Prophecy   A financial accounting and business software product distributed by
+CACI in the United Kingdom under license from CSP Australia.
+
+Miracle   A financial accounting and business software product running on Data
+General proprietary systems. (Miracle is a trademark of CACI Limited.)
+
+
+FEDERAL GOVERNMENT AGENCIES
+
+CACI provides its entire range of information systems, technical services and
+proprietary products to defense and civilian agencies of the U.S. Federal
+Government.  These activities require CACI's expert knowledge of agency
+policies and operations.  These assignments most often combine the wide range
+of CACI's skills in information systems, systems engineering, logistics
+sciences, weapons systems, simulation, and automated document management
+systems.  CACI also contracts with other national governments.
+
+
+STATE AND LOCAL GOVERNMENT
+
+CACI is a technological leader in the supply of automated information systems
+for state governments' management of vehicle registration, licensing, and
+wheeled vehicle revenue support.  The Company also offers its broadly based
+software and systems integration services to this market segment.
+
+
+MAJOR CORPORATIONS
+
+CACI's commercial market base consists primarily of large corporations
+(nominally characterized as the "Fortune 1000").  This market is a primary
+target of CACI's proprietary software and database products in the Company's
+marketing systems and simulation technology lines of business.  CACI also has
+target initiatives underway for the supply of reengineering of information
+systems (software and integration) and configuration management systems for
+manufacturers.  While these latter two initiatives remain at modest investment
+levels at present, the Company intends to continue them, given the current
+state of the U.S. economy.
+
+
+OTHER SERVICES
+
+The Company operates electronic calibration facilities in the Norfolk,
+Virginia area, which support defense and related agencies.  The Company also
+operates a language translation and interpreter services organization that
+provides support to the Defense Language Institute, civilian agencies of the
+<PAGE>
+page 8
+
+Federal Government, and in particular to the Company's major contracts with
+the U.S. Department of Justice ("DoJ").
+
+
+FOUNDATION OF THE BUSINESS, CACI PEOPLE
+
+CACI's business success is highly correlated with the Company's ability to
+attract, recruit, motivate, and retain exceptional people at all levels of the
+organization.  The most valuable asset and resource the Company has is its
+people.  The Company is in continuing competition for the recruitment and
+retention of highly skilled professionals.
+
+For these reasons, the Company has endeavored to develop and maintain
+competitive salary structures, incentive compensation programs and benefits,
+and other individual recognition and award programs to highlight the Company's
+intense interest in the success of its people in their careers.  
+
+In order to compete effectively in attracting and retaining such personnel,
+the Company and its subsidiaries provide substantial benefits to their
+employees.  These benefits vary among the Company and its subsidiaries, but
+generally include paid vacations and holidays, medical and life insurance,
+incentive bonuses, and other benefits under pension and stock purchase plans.
+
+At the same time the Company has been forced by the current economic climate
+to scrutinize and recast several of its compensation and benefit programs to
+assure a competitive balance of compensation, incentives and benefits for the
+costs incurred.
+
+The Company recruits people from various market populations including
+experienced industry professionals, university graduates, trade and technical
+school graduates, and seasoned technicians.  The Company's professional
+profile includes a high percentage of college graduates, many with advanced
+degrees, including those at the masters and doctorate levels.  The Company
+seeks professionals with academically certified credentials in computer-based
+information sciences, systems engineering, management systems, market
+research, economics, military sciences, the legal profession, and other
+scientific and research-oriented disciplines. 
+
+The Company has structured its promotion and advancement policies to meet the
+current competitively driven market environment. Individuals advance in
+relation to their abilities to perform as program managers, or to demonstrate
+exemplary leadership skills in technical endeavors, or managerial achievements
+against specified objectives, quotas or other defined targets.  
+
+CACI advancement criteria incorporate specific requirements to demonstrate a
+"client-service orientation", and the need to work synergistically within the
+Company, in response to the wide range of client technical and contractual
+requirements, or in development of solution approaches to new client projects. 
+
+This philosophy is consistent with CACI's current market, and is a catalyst
+for individuals to support Company objectives.
+
+As of June 30, 1994, CACI had approximately 3,069 employees.  This total
+includes 538 part-time employees.  
+<PAGE>
+page 9
+
+The Company also requires all of its employees, consultants, officers and
+directors to subscribe annually to and affirm the Company's published Code of
+Ethics and Business Standards.  The Company has published policies that set
+high standards for the conduct of all business with clients, suppliers,
+vendors, and the public at large.
+
+
+MARKETPLACE, DESCRIPTION AND SIGNIFICANT ACTIVITIES
+
+CACI operates in an industry characterized by the presence of many highly
+competitive firms.  At the same time, CACI enjoys a respected position as one
+of the larger public corporations in the segment of the information technology
+industry that does not manufacture equipment.  Although the Company is a
+premier supplier of proprietary computer-based simulation technology products,
+and is a major supplier of proprietary marketing systems products and services
+in both the United States and the United Kingdom, CACI is not primarily a
+software product developer-distributor  (See discussion following on Patents,
+Trademarks, Trade Secrets and Licenses).
+
+Competition for new contracts centers on reputation, responsiveness to
+proposal requests, price, and many other factors.  Competition for software
+products and services centers on reputation, applicability, quality, quality
+of product support and maintenance services, among other elements.
+
+The Company has developed a special position, and continues to develop its
+position, in combining unique knowledge of client problems with the Company's
+significant expertise in the design, development and implementation of
+advanced information systems solutions.  This industry niche orientation
+provides CACI with important opportunities to support large equipment
+manufacturers with the expert systems integration and software services they
+frequently require to compete for multi-million dollar contracts issuing from
+the U.S. Federal Government.
+
+In this area, CACI has also taken active steps to develop longer-term, on-
+going relationships with those industry giants -- such as Microsoft, IBM, DEC,
+GE Information Systems, AT&T Global Information Solutions, Lotus Development
+Corporation, Oracle, Sybase -- that have compatible business perspectives and
+objectives to those of CACI.  For these reasons, the Company intends to
+continue the active cultivation of these relationships wherever they support
+CACI's growth objectives.
+
+The Company also seeks to expand its commercial markets for its information
+systems business through these relationships.
+
+Marketing and new business development for the Company is conducted by all the
+officers and managers of the Company (the CEO, executive officers, vice
+presidents, division and department managers).  CACI's proprietary software
+and data products are sold by full time salespeople.  The Company has
+established several distributor-type sales agreements for the sale of its
+products in specified overseas markets.  For its information systems and
+services markets, the Company employs several marketing professionals who
+support the Company's targeting of major contract opportunities, primarily in
+the U.S. Federal government market arena.
+
+Nonetheless, CACI faces competition from a substantial number of firms, some
+<PAGE>
+page 10
+
+of which are larger in size and financial resources than CACI.  The Company
+obtains much of its business on the basis of proposals submitted in response
+to requests for proposals from potential and current customers, who may also
+request proposals for similar services from other firms.  Additionally, the
+Company may face indirect competition from certain government agencies which
+may perform services for themselves similar to those marketed by CACI.  The
+Company knows of no single competitor which is dominant in its fields of
+technology.  The Company has a relatively small share of the available
+worldwide market for its products and services and has a goal of achieving
+growth through increased market share.
+
+CACI's sales of proprietary software and data products are characterized by
+either a purchase order sale, or a short-duration contract.  The Company
+generally prices its products in catalog fashion.  Most often, product prices
+are determined by the target computer that the product will run on, or by some
+form of multiple site volume discount arrangement, or by some frequency of
+usage arrangement, in the case of data products.
+
+For CACI's information systems and professional services contracts, the
+Company submits bids for work and products to be delivered.  Bids are
+frequently negotiated as to terms and conditions for schedules,
+specifications, deliveries, and payment.  CACI's contracts and subcontracts
+take on a wide range of contractual agreement modes, including firm fixed
+price obligations, cost reimbursement contracts, labor hours and materials
+expense agreements, and variants thereof, including fixed unit price,
+performance and delivery contracts.  In general, revenue for this work is
+accrued as a percentage of completion, which is based upon costs incurred, in
+proportion to total expected costs.
+
+Often, the form of contract and terms will be specified by the client.  This
+is especially the case with government contracts.  In these latter situations,
+the Company may seek alternative arrangements, or choose not to bid in those
+cases where the contracting arrangement appears inappropriate to Company risk. 
+By Company policy, fixed price contracts require the approval of a senior
+officer of the Company, and review and release approval by the Chief Executive
+Officer.
+
+At any one time, the Company may have several hundred separate contract
+obligations being performed.  In 1994, the ten top revenue producing contracts
+accounted for 42% of CACI's revenue, or $76.8 million.  One contract for
+automated litigation support to the Civil Division of the U.S. Department of
+Justice ("DoJ"), accounted for 11.6% of total FY 1994 Company revenue.
+
+In 1994, seventy-one percent (71%) of CACI's business volume stemmed from
+Federal Government contracts, the remaining twenty-nine percent (29%) coming
+from commercial contracts and proprietary products.  Fifty-one percent (51%)
+of the Company's revenue came from U.S. Department of Defense ("DoD")
+contracts, sixteen percent (16%) came from contracts with DoJ, and four
+percent (4%) came from other civil agency government clients.
+
+The Company is endeavoring to continue expansion of its diversified business
+portfolio.  While desiring to decrease its dependence on DoD work per se, the
+Company will, nonetheless, aggressively seek additional work from this large
+client agency.  In FY 1994, the DoD revenue grew by 20%  ($15.5 million)
+<PAGE>
+page 11
+
+primarily as a result of the December 1993 acquisition of the Government
+Services business of SofTech, Inc.
+
+The Company is expanding its contract support to DoJ, as illustrated by the
+award to the Company of new contracts to provide advanced automated litigation
+support services to DoJ's Environmental and Natural Resources Division and the
+Executive Office of the U.S. Attorneys.  This work has demanded increasingly
+sophisticated project management processes and high technology infusions to
+keep pace with client caseloads.  In view of this requirement, the Company
+developed the ADIIS automated document image indexing system which improves
+the productivity for high quality litigation support for the department's
+attorneys. (ADIIS is a trademark of CACI, INC.-FEDERAL.)
+
+The Company believes it is the largest supplier of litigation support and
+related automation services to the U.S. Federal Government.  The Company
+intends to seek additional work from the U.S. Federal Government and offer
+significant economies to the government through its specialization in this
+field.
+
+During the first half of this fiscal year, the Company purchased the majority
+of contracts and assets from the Government Services business of SofTech,
+Inc., Pinpoint Analysis Ltd. ("Pinpoint"), and Miracle Products Ltd.
+("Miracle").  The excess purchase price over the fair value of the net assets
+of the SofTech purchase totalled $3.3 million.  The SofTech acquisition,
+completed on December 1, 1993, added approximately 210 people and
+approximately $13.8 million in FY 1994 revenue to CACI's government
+information technology business.  The excess purchase price over the fair
+value of the net assets of the Pinpoint and Miracle purchase totalled $0.333
+million.  The excess for these acquisitions has been recorded as Goodwill and
+will be amortized for a period ranging from 3 to 15 years.
+
+During the past fiscal year, the Company examined a number of other friendly
+acquisition opportunities.  Analyses of industry values and interest rates
+continue to indicate favorable market timing for this strategy.  
+
+
+SEASONAL NATURE OF BUSINESS
+
+The Company's business in general is not seasonal, although the summer and
+winter holiday seasons do affect both sales and revenue of the Company because
+of their impact on the Company's labor sales in its Federal business and on
+product sales by the Company's European operations.  Variations also may occur
+at the expiration of major contracts until such contracts are renewed or new
+contracts obtained.   Although the Company derives significant revenue from
+the Federal Government, the timing of the Federal budget cycle has
+historically not significantly impacted the Company's revenue.
+
+
+RESEARCH AND DEVELOPMENT
+
+During fiscal years 1994, 1993 and 1992, the Company spent of $1,094,000,
+$600,000, and $748,000 respectively, for research and development on current
+and anticipated products.
+<PAGE>
+page 12
+
+ENVIRONMENTAL PROTECTION REQUIREMENTS
+
+There has been no significant adverse impact on the Company's business as a
+result of laws that have been enacted for the protection of the environment.
+
+
+PATENTS, TRADEMARKS, TRADE SECRETS, AND LICENSES
+
+The Company owns three United States patents.  While the Company believes that
+its patent and patent applications are valid, it does not consider that its
+business is dependent on patent protection in any material way.
+
+The Company does believe that its business is dependent to a significant
+extent on its technical and organizational knowledge, practices, and
+procedures, in some of which it claims proprietary interests.
+
+The Company claims copyright, trademark, and proprietary rights in each of its
+proprietary computer software and data products and documentation.  
+
+The Company presently owns approximately 37 registered United States
+trademarks and service marks.  All of the Company's registered United States
+trademarks and service marks may be renewed indefinitely.  The Company is a
+party to agreements which give it the right to distribute computer software
+and other products owned by other companies, and receive income therefrom.
+
+The Company has developed and holds proprietary rights in a number of computer
+software packages and databases, including, but not limited to:  ACORN*,
+ADIIS, C-GATE,# CITYVIEWS, COMNET II.5*, COMNET III, COSTPRO*, DORIS*,
+EnterpriseView, FAR-TRIEVE*, GRID-MAP#, InSite-USA#, IRIS, L-NET#, MARKET-
+AMERICA#, MARKET*MASTER, MODSIM II*, NETOBJECT, NETWORK II.5*, OBJECT.MGR, 
+Perfect-Mail*#, QuickBid*, renovate, SACONS-EDI, SACONS-FEDERAL*, SIDE,
+SIMANIMATION*, SIMBASE, SIMFACTORY*, SIMFACTORY II.5, SIMFLOW*, SIMGRAPHICS*,
+SIMLAB*, SIMOBJECT*, SIMPROCESS, SIMSCENARIO*, SIMSCRIPT II.5*, SIMSNIPS*,
+SIMSTRUCTOR*, SIMTrainer*, SIMVIDEO*, SITELINE*, SITE-POTENTIAL*#, SUPERSITE*,
+ULTRA RETRIEVE*, and ZIP-DEMOGRAPHICS*#.
+
+[*  The marks above indicated with an asterisk (*) are registered service
+marks or trademarks of CACI International Inc or its subsidiaries.  All others
+are service marks or trademarks of CACI International Inc or its
+subsidiaries.]
+
+[#  The marks above indicated with a pound sign (#) contain a hyphen (-) to
+represent the bullet point which is an integral component of each mark and
+which cannot be printed due to electronic transmission limitations.]
+
+In addition, subsidiaries of the Company claim foreign copyright, trademark,
+and proprietary rights in the Company's proprietary computer software
+products.  These subsidiaries hold proprietary rights in computer software
+products and databases including, but not limited to, ACORN* (and the related
+Arts*ACORN, Change*ACORN, Custom*ACORN, Property*ACORN, Holiday*ACORN,
+Household*ACORN, Investor*ACORN, Property*ACORN,)  CACI MARKET*MASTER*,
+CATALIST*, GEO-MARKETING*, GEOMATCH*, GEOREAD, GEOTRIEVE*, MONICA*, CACI
+NATIONAL MORTGAGE DATABASE, SITE*, SITE-POTENTIAL*, and SHOPPING CENTRE
+PLANNER.  Some of these subsidiaries are parties to agreements pursuant to
+which they may have the right to distribute computer software products owned
+<PAGE>
+page 13
+
+by others and obtain income therefrom.
+
+[*  The marks above indicated with an asterisk (*) are registered service
+marks or trademarks of CACI International Inc or its subsidiaries.  All others
+are service marks or trademarks of CACI International Inc or its
+subsidiaries.]
+
+
+BACKLOG
+
+The Company's backlog as of June 30, 1994 was $726.5 million, of which $77.2
+million was for orders believed to be firm.  Total backlog as of June 30, 1993
+was $570 million, of which $53.0 million represented firm orders.  The source
+of backlog is primarily contracts with the U.S. Government.  It is presently
+anticipated that all of the firm backlog will be filled during the fiscal year
+ending June 30, 1995.
+
+
+BUSINESS SEGMENTS, FOREIGN OPERATIONS, AND MAJOR CUSTOMER
+
+The business segment, foreign operations, and major customer information
+provided in the Company's Consolidated Financial Statements contained in this
+Report are incorporated herein by reference.  In particular, see Note 14,
+Segment Information, of the Notes to Consolidated Financial Statements.
+
+The following information is provided about the amounts of revenue
+attributable to firm fixed price contracts (including proprietary software
+product sales), time and materials contracts, and cost reimbursable contracts
+of the Company during each of the last three fiscal years:
+
+<TABLE>
+<CAPTION>
+
+Fiscal Year Ended      Firm        Time and         Cost
+     June 30,       Fixed Price    Materials    Reimbursable       Total
+- - -----------------   -----------   -----------   ------------   ------------
+
+      <S>           <C>           <C>           <C>            <C>
+      1994          $51,428,000   $64,109,000   $68,163,000    $183,700,000
+      1993           47,535,000    44,690,000    52,923,000     145,148,000
+      1992           47,675,000    47,158,000    45,045,000     139,878,000
+
+</TABLE>
+
+
+ITEM 2.  PROPERTIES
+
+As of June 30, 1994, CACI leased office space at 47 locations containing an
+aggregate of approximately 473,000 square feet of space located in 21 states
+of the United States.  In four countries outside the United States, CACI
+leased seven offices containing about 29,000 square feet of space.  CACI's
+leases expire primarily over the next eight years.  In most cases, CACI
+anticipates that leases will be renewed or replaced by other leases.
+
+All of CACI's offices are in modern and well-maintained buildings.  The
+<PAGE>
+page 14
+
+facilities are substantially utilized and adequate for present operations.
+
+As of June 30, 1994, CACI International Inc maintained its corporate
+headquarters in approximately 152,000 square feet of space at 1100 North Glebe
+Road, Arlington, Virginia.  See Note 9, Lease Commitments, of the Notes to
+Consolidated Financial Statements, for additional information regarding the
+Company's lease commitments.
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+Pfirman and Chrysogelos Shareholder Litigation
+
+Reference is made to Part II, Item 1, Legal Proceedings, in the Registrant's
+quarterly report on Form 10-Q for the quarter ended March 31, 1991 for a
+description of the two pending shareholder suits against the Registrant, and
+against the directors of the Registrant entitled "Pfirman v. London, et al"
+and "Chrysogelos v. London, et al".
+
+Since the filing of the Registrant's quarterly reports on Form 10-Q, on which
+Part II, Item 1, Legal Proceedings, was current, the information reported
+therein on pending legal proceedings instituted against the Registrant has
+changed as set forth below and in the Registrant's current report on Form 8-K,
+dated August 5, 1994:
+
+In July, 1994, the parties in both the "Chrysogelos" and "Pfirman" lawsuits
+filed with the Delaware Chancery Court a Stipulation and Agreement of
+Compromise and Settlement (hereinafter "Settlement Documents") which provides
+for settlement of both the "Chrysogelos" and "Pfirman" lawsuits, subject to
+Court approval.  The Chancery Court has given preliminary approval of the
+Settlement and requested the parties to provide notice of the proposed
+Settlement to the plaintiff class.  The Court has set November 15, 1994 as the
+date for a hearing regarding the proposed Settlement and any objections
+thereto that may be made by class members.  If, after such hearing, the
+Chancery Court approves the settlement, the parties will then request the
+United States District Court for the District of Columbia to dismiss the
+"Pfirman" case.  The District Court has approved this procedure for the
+"Pfirman" case.
+
+The settlement is intended to resolve all claims which have been made or could
+have been asserted in the "Chrysogelos" and "Pfirman" lawsuits.  If the
+settlement is approved as filed, its major components will be as follows:
+
+First, subject to the specific terms of the Settlement Documents, if the
+average closing price for the Company's Common Stock for any twenty (20)
+consecutive trading days between July 22, 1994 and February 28, 1995 falls
+below Six Dollars ($6.00) per share, the Company has agreed to conduct a self-
+tender for 1.3 million shares of its Common Stock at Six Dollars ($6.00) per
+share (the Company's Common Stock has traded above Six Dollars ($6.00) per
+share since January, 1994).
+
+Second, the settlement provides that the Company seek shareholder approval of
+an amendment to its By-laws increasing the size of the Board of Directors from
+seven (7), to a number between five (5) and nine (9) members as a majority of
+the Board plus one (1) may set.  In anticipation of the settlement, the
+<PAGE>
+page 15
+
+shareholders approved such an amendment to the By-laws and elected six (6) new
+directors who are mutually-acceptable to the Company and the name plaintiffs
+at the Company's Annual Meeting of Shareholders held on December 17, 1993.
+
+Third, the Company will establish a fund in an amount not to exceed Six
+Hundred Thousand Dollars ($600,000) to pay claims filed on behalf of class
+members who sold shares of Common Stock between April 26, 1990 and December 1,
+1990 at a loss as defined by the terms of the Settlement Documents.
+
+The settlement further provides that the defendants will not oppose an
+application to the Delaware Chancery Court for award of attorneys' fees in
+both cases in an aggregate total not to exceed Five Hundred Fifty Thousand
+Dollars ($550,000), and out-of-pocket expenses in both cases in an aggregate
+total not to exceed Forty-Eight Thousand Dollars ($48,000), provided that no
+other application for attorneys' fees or expenses is made in connection with
+the settlement.
+
+In reaching the settlement, the Board of Directors did not acknowledge any
+wrongdoing.  In its deliberations on these suits, the Board did not believe it
+was productive to continue to incur legal expenses and divert senior
+management's attention at a time when the Company's plan to enhance
+shareholder value was proving out and revenue and operating income were
+growing.
+
+
+Pentagen Technologies International, Ltd. v. CACI International Inc, et al
+
+Reference is made to Part I, Item 3, Legal Proceedings, in the Registrant's
+annual report on Form 10-K for the year ended June 30, 1993, for a description
+of the lawsuit filed July 1, 1993 against the Registrant by Pentagen
+Technologies International, Ltd. ("Pentagen") in the Supreme Court of the
+State of New York, alleging conversion of intellectual property and violation
+of statutory duties as to appropriation of computer software.  Reference is
+also made to Part II, Item 1, Legal Proceedings, in the Registrant's quarterly
+report on Form 10-Q for the quarter ended December 31, 1993 for a description
+of the suit filed against the Registrant by Pentagen in the United States
+District Court for the Southern District of New York alleging copyright and
+trademark infringement and violation of the Major Fraud Against the United
+States Act.  Since the filing of the Registrant's quarterly reports on Form
+10-Q, on which Part II, Item 1, Legal Proceedings, was current, the
+information reported therein on pending legal proceedings instituted against
+the Registrant has changed as set forth below:
+
+Pursuant to orders entered on May 27, 1994 and August 3, 1994, the United
+States District Court for the Southern District of New York has stayed both
+lawsuits (93 Civ. 8512 and 94 Civ. 0441), pending further proceedings in the
+matter of "CACI International Inc, et al v. Pentagen Technologies
+International, Ltd., et al" described below.
+<PAGE>
+page 16
+
+CACI International Inc, et al v. Pentagen Technologies International, Ltd.,
+et al
+
+Reference is made to Part II, Item 1, Legal Proceedings, in the Registrant's
+quarterly report on Form 10-Q for the quarter ended December 31, 1993 for a
+description of the suit filed by Registrant against Pentagen Technologies
+International, Ltd.; its subsidiary, Baird Technologies, Inc.; and Pentagen's
+directors and principal executive officers, John Baird and Mitchell Leiser. 
+Since the filing of the Registrant's quarterly reports on Form 10-Q, on which
+Part II, Item 1, Legal Proceedings, was current, the information reported
+therein on pending legal proceedings has changed as set forth below and in the
+Registrant's current report on Form 8-K, dated June 23, 1994.
+
+On June 16, 1994, the United States District Court for the Eastern District of
+Virginia issued an order in response to Registrant's Motion for Summary
+Judgment which (i) declared that CACI's marketing activity to the United
+States Army Material Command did not infringe Pentagen's copyright in certain
+intellectual property or infringe any trademark held by Pentagen; (ii)
+declared that CACI's reengineering software methodology does not infringe
+Pentagen's copyright of certain intellectual property; (iii) declared that
+CACI's work on the United States Army's Sustaining Base Information Services
+contract does not infringe Pentagen's copyright of certain intellectual
+property; (iv) held Pentagen liable for tortious interference with CACI's
+Sustaining Base Information Services contract; and (v) held Pentagen and
+defendants Baird and Leiser liable for defamation per se.
+
+Defendants Pentagen, Baird and Leiser moved for reconsideration of the Court's
+order. On July 13, 1994, the Court denied that Motion for Reconsideration.
+Those defendants also moved for recusal of the District Court judge.  That
+Motion, too, was denied on July 13, 1994, and a trial on damages was
+conducted.  
+
+On July 28, 1994, defendants Pentagen, Baird and Leiser filed a petition for a
+Writ of Mandamus with the United States Court of Appeals for the Fourth
+Circuit seeking recusal of the trial judge based on an alleged conflict of
+interest.  That petition was denied by the Fourth Circuit on August 29, 1994.
+
+By Order dated August 12, 1994, the Court awarded CACI attorney's fees of One
+Hundred Ten Thousand Five Hundred Fifty Dollars ($110,550), court costs of
+Sixty One Thousand Five Hundred Dollars ($61,500), compensatory damages for
+defamation per se of One Thousand Dollars ($1,000) and punitive damages for
+defamation per se of Ten Thousand Dollars ($10,000).  The defendants have
+appealed the judgment to the Fourth Circuit.  On the issue of tortious
+interference, the Court concluded that no real damages were sustained by CACI,
+vacated its earlier judgment in CACI's favor, and entered judgment in favor of
+the defendants on that count.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+No matter was submitted to a vote of security holders during the fourth
+quarter of the Registrant's fiscal year ended June 30, 1994, through the
+solicitation of proxies or otherwise.
+<PAGE>
+page 17
+
+                                    PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+         MATTERS
+
+The Registrant's Common Stock became publicly traded on June 2, 1986,
+replacing paired units of Common Stock of CACI, Inc. and beneficial interests
+in Common shares of CACI N.V. which had been traded in the over-the-counter
+market.  
+
+From July 1, 1992 to June 30, 1994, Common Shares of the Registrant have been
+quoted on the NASDAQ National Market System.  The range of high and low sales
+prices for each quarter during this period are as follows:
+
+       Fiscal 1994                      Fiscal 1993
+- - --------------------------       ---------------------------
+
+Quarter      High     Low        Quarter    High       Low
+- - -------     ------   -----       -------   -------    ------
+
+  1st       5-1/16   4-1/4         1st     5          4-5/16
+  2nd       6        5             2nd     4-13/16    4
+  3rd       9-3/8    5-5/8         3rd     4-1/2      3-7/8
+  4th      10-3/8    7-7/8         4th     4-3/4      3-7/8
+
+The Registrant has never paid a cash dividend.  The present policy of the
+Registrant is to retain earnings to provide funds for the operation and
+expansion of its business.  The Registrant does not intend to pay any cash
+dividends in the foreseeable future.  
+
+At August 31, 1994, the number of record holders of the Registrant's Common
+Stock was approximately 1,463.
+
+Pursuant to the terms of its Charter, in October 1993, the Registrant's Common
+Stock ceased being classified as Class A Common Stock and Class B Common
+Stock, with all shares of both Class A and Class B Common Stock being
+automatically converted to an equal number of shares of Common Stock.
+<PAGE>
+page 18
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+<TABLE>
+<CAPTION>
+                                                             Year Ended June 30
+                                                             ------------------
+                                        1994          1993          1992           1991         1990
+                                    ------------  ------------  ------------  ------------  ------------
+<S>                                 <C>           <C>           <C>            <C>            <C>
+REVENUE                             $183,700,000  $145,148,000  $139,878,000  $136,084,000  $148,071,000
+
+COSTS AND EXPENSES 
+ Direct costs                         97,584,000    75,804,000    74,536,000    66,896,000    69,141,000
+ Indirect costs & selling expenses    71,126,000    57,797,000    55,289,000    62,644,000    70,403,000
+ Depreciation & amortization           4,341,000     3,367,000     2,556,000     3,029,000     2,604,000
+                                     -----------   -----------   -----------   -----------   -----------
+ Operating expenses                  173,051,000   136,968,000   132,381,000   132,569,000   142,148,000
+                                     -----------   -----------   -----------   -----------   -----------
+                                      10,649,000     8,180,000     7,497,000     3,515,000     5,923,000
+
+ Interest expense                        420,000       471,000       359,000       428,000       163,000
+ Shareholder lawsuit & merger costs            0       901,000             0             0             0
+ Excess facilities & lease
+  termination costs                            0     1,921,000             0     2,428,000             0
+                                     -----------   -----------   -----------   -----------   -----------
+
+EARNINGS BEFORE
+INCOME TAXES                          10,229,000     4,887,000     7,138,000       659,000     5,760,000
+
+Income taxes                           3,893,000     1,907,000     2,928,000      (363,000)    1,757,000
+                                     -----------   -----------   -----------   -----------   -----------
+INCOME BEFORE
+EXTRAORDINARY ITEM                     6,336,000     2,980,000     4,210,000     1,022,000     4,003,000
+
+Extraordinary Item:
+ Cost of shareholder lawsuit
+ settlement (net of $194,000
+  tax benefit)                          (300,000)            0             0             0             0
+                                     -----------   -----------   -----------   -----------   -----------
+
+NET INCOME                          $  6,036,000  $  2,980,000  $  4,210,000  $  1,022,000  $  4,003,000
+                                     ===========   ===========   ===========   ===========   ===========
+EARNINGS PER COMMON AND
+COMMON EQUIVALENT SHARE:
+
+Income before 
+ extraordinary item                       $ 0.60        $ 0.29        $ 0.40        $ 0.10        $ 0.35
+Extraordinary item                         (0.03)         0.00          0.00          0.00          0.00
+Net income                                  0.57          0.29          0.40          0.10          0.35
+
+AT YEAR END:
+
+Total assets                        $ 70,999,000  $ 58,417,000  $ 55,835,000  $ 49,428,000  $ 57,829,000
+Long-term obligations                  2,492,000     2,898,000     2,901,000     2,696,000       761,000
+Working capital                       25,327,000    21,937,000    24,055,000    21,033,000    22,008,000
+Shareholders' equity                  37,738,000    30,497,000    28,923,000    24,959,000    29,450,000
+
+</TABLE>
+<PAGE>
+page 19
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+The following table sets forth the relative percentages that certain items of
+expense and earnings bear to revenue for the fiscal years ended June 30, 1994,
+1993 and 1992.
+
+                                       Percentage of Revenue
+                                   ----------------------------
+                                   FY 1994    FY 1993   FY 1992
+                                   -------    -------   -------
+
+Revenue                             100.0%    100.0%    100.0%
+Costs and expenses
+ Direct costs                        53.1%     52.3%     53.3%
+ Indirect costs & selling expenses   38.7%     39.8%     39.5%
+ Depreciation and amortization        2.4%      2.3%      1.8%
+                                    ------    ------    ------
+  Operating Expenses                 94.2%     94.4%     94.6%
+                                    ------    ------    ------
+                                      5.8%      5.6%      5.4% 
+Interest expense                      0.2%      0.3%      0.3%
+Shareholder lawsuit & merger costs    0.0%      0.6%      0.0%
+Excess facilities & 
+ lease cancellation cost              0.0%      1.3%      0.0% 
+                                    ------    ------    ------
+Earnings before income taxes          5.6%      3.4%      5.1% 
+Income taxes                          2.1%      1.3%      2.1% 
+Extraordinary item: settlement of
+ shareholder suits (net of tax)       0.2%      0.0%      0.0%
+                                    ------    ------    ------
+Net Income                            3.3%      2.1%      3.0% 
+                                    ======    ======    ======
+
+
+FY 1994 COMPARED WITH FY 1993
+
+Revenue increased by 26.6% or $38.6 million to $183.7 million from last year's
+$145.1 million.  The increase was the result of a $15.5 million (19.6%)
+increase in revenue from the U.S. Department of Defense ("DoD"), an $8.3
+million increase (40.5%) in revenue from contracts with the U.S. Department of
+Justice ("DoJ"), an $8.7 million increase (22.7%) in revenue from commercial
+customers, a $4.0 million increase (139.0%) in revenue from Federal agencies
+other than DoD and DoJ, and a $2.1 million increase (47.8%) in revenue from
+state governments.
+
+The $15.5 million (19.6%) increase in revenue from DoD contracts was primarily
+the result of the $4.2 million acquisition of the Government Services business
+of SofTech, Inc. on December 1, 1993 for $3.3 million of goodwill and $919,000
+for the book value of assets used in the business (primarily fixed assets). 
+This acquisition has added revenues of $13.8 million in FY 1994.  The
+acquisition is expected to continue to add revenues of approximately $25
+million per year and annual earnings of approximately $750,000.  DoD-derived
+<PAGE>
+page 20
+
+revenue accounted for 51% of total revenue during the year, down from 55% of
+last year's total revenue.  This percentage reduction is the result of the
+Company's focus on diversification which resulted in larger proportional
+increases in the other business areas discussed below.
+
+The DoJ growth was a result of new contract awards for automated litigation
+support services which the Company won competitively in the spring and summer
+of 1993.  For the year, DoJ revenue accounted for 15.7% of total company
+revenue versus last year's 14.2%.  Although revenue from DoJ is dependent upon
+the level of DoJ litigation case load the Company is supporting at any period
+in time, the Company believes DoJ-derived revenue will continue to increase
+during the upcoming fiscal year.
+
+The 22.7% ($8.7 million) increase in commercial revenue is the result of a 48%
+increase in revenue from the U.K. operation.  The substantial growth in U.K.
+revenue is the result of (i)  an increase in the size of the sales force; (ii) 
+acquisitions in the first and second quarter of the year (see Liquidity and
+Capital Resources below); and (iii)  an improvement in the U.K. economy which
+had been in a deep and lasting recession.  In fact, in Pound Sterling, U.K.
+revenue for the year was up by 59%, but this growth was offset by a marginal
+(6.8%) depreciation of the Pounds Sterling against the U.S. Dollar.  The
+Company expects the Pound Sterling sales to continue to increase relative to
+last year, but cannot predict the impact of currency fluctuations on the
+conversion of Pounds Sterling into U.S. Dollars for financial reporting
+purposes.
+
+Direct contract costs grew by 29% ($21.8 million) from $75.8 million to $97.6
+million.  Direct labor, the principal driving component of contract revenue,
+was up $13.8 million, or 28%, while non-labor direct costs increased $8.0
+million or 30%.  Direct costs as a percentage of revenue were up slightly to
+53.1% from 52.3%.  This increase was primarily attributable to the increasing
+competition in Federal contracts which is driving down the markups over direct
+cost, and a relative increase in less profitable non-labor direct costs, which
+increased from 18.4% to 18.9% of revenue.
+
+Indirect costs grew by $13.3 million or 23% to $71.1 million from $57.8
+million but, as a percentage of revenue, declined to 38.7% from 39.8%.  The
+decrease reflects the Company's continuing emphasis on reducing administrative
+indirect costs while increasing funds for marketing and bid and proposal
+("B&P") efforts.  As a result of this management emphasis and despite the 27%
+increase in revenue, indirect labor increased by only $0.6 million or 4% and,
+as a percentage of revenue, decreased from 9.6% to 7.9%.
+
+Indirect costs also increased in B&P labor, incentive compensation and fringe
+benefits.  B&P labor increased in response to increases in the volume of
+actual and planned proposals for the year.  Incentive compensation (sales
+commission and other pay for performance) grew because of the increased
+revenue and profit, particularly in the commission-oriented U.K. operation.
+
+Fringe benefits, the largest category of indirect expenses (32% of total),
+increased in proportion with the total payroll (direct labor, B&P labor,
+indirect labor and incentive compensation), and an increase in the overall
+payroll tax rates.
+<PAGE>
+page 21
+
+Depreciation and amortization increased by $974,000 to $4.3 million from $3.4
+million.  An increased level of fixed assets (primarily computing and network
+equipment), necessitated by internal growth and obtained through acquisitions,
+accounted for 75% of the growth.  The other 25% of the growth was the result
+of the Goodwill amortization associated with the acquisitions discussed in
+Note 1 of the financial statements.
+
+Income before interest, shareholder lawsuit and merger costs, and lease
+litigation settlement expenses grew $2.4 million or 29% from $8.2 million to
+$10.6 million.  The increase results from the increase in revenue and a
+decrease in operating costs, principally indirect costs as discussed above.
+
+Interest costs totalled $420,000 (0.2% of revenue) and were down $51,000 (11%)
+from last year's $471,000.  The decrease reflects a 17% or $1.8 million
+decrease in average borrowings from $10.14 million down to $8.38 million. 
+However, the effect of this decrease was partially offset by an increase in
+the effective interest rate. 
+
+Income before income taxes and extraordinary items rose to $10.23 million from
+last year's earnings of $4.89 million.  As discussed in the FY 1993 vs. FY
+1992 comparison below, last year's income before income taxes and
+extraordinary items included $0.9 million shareholder lawsuit and merger costs
+and $1.9 million excess facilities and lease termination costs.  Excluding
+these costs from last year's results, the income before income taxes and
+extraordinary items would have been $7.7 million, an increase of $2.5 million
+(33%).  This 33% increase was attributable to the growth in operating income,
+and the decline in interest expense. 
+
+The Company's effective tax rate decreased to 38% from 39% last year because
+of an increase in earnings from the Company's U.K. Subsidiary, where the
+Company enjoys a lower tax rate, coupled with realizing the tax benefits from
+the recent establishment of a Foreign Sales Corporation assigned to sell
+certain U.S.-developed computer software products abroad.
+
+During the first quarter of the year, the Company recognized a provision for
+an extraordinary item to cover the costs of the outstanding shareholder
+lawsuits.  The provision equates to a $494,000 pre-tax expense, and $300,000
+net of tax.  See Note 13 to the Consolidated Financial Statements.  Also see
+comments under Liquidity below.  
+
+Earnings per share increased $0.28 (97%) for the reasons discussed above.
+
+
+FY 1993 COMPARED WITH FY 1992
+
+Revenue increased $5.3 million (3.8%) as a result of a $7.2 million (23.3%)
+increase in commercial revenue, a $3.2 million (4.2%) increase in DoD revenue,
+offset by a $5.1 million (18%) decline in revenue from non-DoD Federal
+agencies.  The growth in commercial revenue came from the acquisition of
+American Legal Systems Corp. on July 30, 1992, which generated $5.6 million in
+
+revenue, and from a $2.1 million (15.8%) growth in United Kingdom based
+marketing systems sales.  The growth in U.K. based revenue would have
+increased by 25.7% but for a 8% decline in the Pound Sterling average value in
+U.S. Dollars this year compared to last year.  The growth in revenue in the
+<PAGE>
+page 22
+
+U.K. is the result of a recovery in the U.K. economy coupled with an increase
+in sales staff and marketing resources.  The decline in non-DoD Federal
+Government revenue is primarily in DoJ revenue.  The Company provides
+automated litigation support services to DoJ, and the service level is
+dependent upon the litigation case load of the elements of DoJ which the
+Company supports.  Such case loads were down in 1993 compared to 1992.  The
+Company won two new contracts for automated litigation support services to
+elements of DoJ.  The $3.2 million growth in DoD revenue was primarily from
+existing contracts; however, the Company was awarded several new DoD contracts
+in the last quarter of the year.
+
+Direct costs increased $1.3 million (1.7%), but decreased from 53.3% to 52.3%
+as a function of revenue.  The dollar increase was the result of the ALS
+acquisition, offset by a decrease in direct cost on U.S. Government contracts. 
+The decrease as a percentage of revenue was primarily attributable to improved
+margins in both DoD contract revenue and the U.K.-based marketing systems
+revenue.
+
+Indirect costs and selling expenses increased $2.5 million (4.5%), and as
+percent of sales grew from 39.5% to 39.8%. The dollar increase was primarily
+attributable to the ALS acquisition.  The increase as a percentage of revenue
+was the result of a growth in sales, bid and proposal, and marketing resources
+applied in all areas of the Company, which offset a reduction in
+administrative costs.
+
+Depreciation and amortization grew by $.9 million (31.7%) because of a growth
+in capital expenditures necessitated by the Company transformation to an
+Information Technology company, and an increase in the amortization of
+capitalized software enhancement costs as described in Note 3 to Consolidated
+Financial Statements.
+
+Interest expense grew by $112,000 (31%) as a result of a $3.7 million increase
+in average borrowings offset by 15% decrease in the average effective interest
+rate.  The increase in borrowings was attributable to the ALS acquisition
+including its purchase price and working capital needs.  The decrease in
+borrowing rates was consistent with an overall market decline in short term
+rates.
+
+In FY 1993, the Company spent $699,000 (0.5% of revenue) in outside legal fees
+and expenses to defend against two shareholder lawsuits that have been ongoing
+since FY 1991.  Similar expenses totalling $470,000 incurred in FY 1992 and FY
+1991 were reimbursed under the terms of a settlement of litigation between the
+Company and its Directors and Officer's liability insurance carrier.  In
+September 1993, the Company announced a settlement agreement with the
+plaintiffs, subject to approval by the Courts.  Under the terms of the
+settlement, the Company would (i) reimburse the plaintiff for certain legal
+fees and expenses; (ii) establish a "fund" to be available on a claims-made
+basis to cover certain defined losses suffered by shareholders who sold their
+stock during the covered period; and (iii) make a self-tender offer for a
+limited number of shares of the Company's Common Stock at a price described in
+the agreement.  Certain legal fees and expenses of the settlement would be
+eligible for reimbursement from the Company's insurance carrier.  As described
+previously in detail under Item 3, Legal Proceedings, an agreement was
+subsequently reached to amend the self-tender offer included in the settlement
+agreement.
+<PAGE>
+page 23
+
+During the fourth quarter of the year, the Company spent $201,000 in outside
+fees and expenses to pursue a potential merger with COMARCO Inc. of Anaheim,
+California.  By mutual agreement, the companies decided it was not in their
+best interest to merge, and discussions were terminated in August 1993.
+
+During the second quarter of the year, the Company paid a former landlord $1.7
+million and incurred outside legal fees of $221,000 to settle litigation
+resulting from the Company's cancellation of a facility lease.  The payment
+resolved all outstanding issues surrounding the lease and the Company has no
+further liability.
+
+Earnings before income taxes fell $2.25 million because an increase from the
+earnings generated by the Company's contracts and sales of software and
+services was offset by the cost of shareholder lawsuits, a potential merger,
+and settlement of the facility lease litigation.  
+
+The Company's effective tax rate decreased to 39% from 41% last year because
+of an increase in earnings from the Company's U.K. subsidiary, where the
+Company enjoys a lower effective tax rate.
+
+Earnings per share decreased $.11 (27.5%) as a result of the expenses of the
+shareholder lawsuits, the potential merger, and the lease litigation
+settlement.  These expenses in the aggregate reduced earnings per share by
+$.16.  Accordingly, in the absence of these expenses earnings per share would
+have increased by $.05 (12.5%).
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Company's excess cash is primarily in CACI Limited, a wholly-owned U.K.
+subsidiary.  The Company's principal source of cash for U.S. operations is
+from operating activities and bank borrowings.  The Company's primary
+requirement for working capital is to carry billed and unbilled receivables, a
+majority of which are due under prime contracts with the U.S. Federal
+Government, or subcontracts thereunder.
+
+In addition, the Company is pursuing a policy of small, synergistic, niche
+acquisitions designed to broaden its client and product base in its
+Information Technology business portfolio.  In July 1992, the Company
+purchased all of the outstanding common stock of American Legal Systems Corp.
+for an initial purchase price of approximately $2.8 million (also see Note 12
+to Consolidated Financial Statements).  ALS provides litigation support to
+commercial customers and its acquisition was for the purpose of providing a
+commercial outlet for the technologies and capabilities developed by the
+Company in support of its DoJ contracts.  In September 1993, the Company's
+U.K. subsidiary purchased the Pinpoint geodemographic business for
+approximately $750,000.  Pinpoint is a $1.5 million revenue per year U.K.-
+based market analysis business and was a competitor of the Company's U.K.
+operations.  In October 1993, the Company's U.K. subsidiary purchased the
+Miracle accounting system for approximately $640,000.  Miracle is a U.K.-based
+accounting system and associated client base which complements certain of the
+Company's existing product offerings in the U.K.  On December 1, 1993, the
+Company acquired the Government Services business of SofTech, Inc. for $4.2
+million. The Company did not purchase receivables in this SofTech transaction,
+and will utilize approximately $3.0 million of additional working capital to
+<PAGE>
+page 24
+
+support receivables net of payables generated by the acquired business.
+
+As discussed in Note 13 to the Consolidated Financial Statements, under the
+terms of the shareholder litigation settlement agreement the Company agreed to
+initiate a contingent self-tender for 1.3 million of its common shares at a
+price of $6.00 per share in the event that the average closing price for the
+Company's shares for twenty consecutive trading days, between July 22, 1994
+and February 28, 1995, is below $6.00 per share.  If the Company's shares do
+not trade below $6.00 per share in twenty consecutive days prior to February
+28, 1995, the offer to self-tender will expire.  If the tender is accomplished
+as announced and fully subscribed, the Company's debt will increase by
+approximately $7.8 million, and its shareholder equity will decrease by a like
+amount.  Hence, the Company's capital structure will be significantly changed
+if the self-tender is fully subscribed.  As of August 31, 1994, the Company's
+stock price was substantially above the $6.00 per share tender price.  Under
+the terms of the agreement, the Company is under no obligation to increase the
+tender price and has no current plans to do so.  Moreover, in view of (i) the
+substantial difference between the present price of the Company's stock and
+the $6.00 per share contingent tender price, and (ii) the fact that the
+reviewing Court must approve a settlement including a proposed contingent
+self-tender on the terms set forth above, the Company cannot at this time
+predict with assurance that a self-tender will be part of the final, court-
+approved settlement.  Accordingly, the Company cannot now predict how many
+shares, if any, it will obtain through the tender, or whether a tender will
+occur.
+
+As discussed in Note 4 to the Consolidated Financial Statements, the Company's
+principal source of cash, other than from operations, is its $20 million
+unsecured line of credit with Signet Bank.  On January 31, 1994, this line was
+renewed for one year and expires on January 1, 1995.  Under the agreement,
+interest is charged at lower of the bank's prime lending rate, or the Federal
+Funds rate plus 1.25%.  In addition, a commitment fee is paid on the unused
+portion of the line of credit.  The Company believes the line can be amended
+as necessary to cover the self tender, albeit at an increased rate. 
+Accordingly, the Company believes that the combination of internally generated
+funds, available bank credit and cash on hand will provide the required
+liquidity and capital resources for the foreseeable future.
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+On the following pages are the Consolidated Financial Statements and Financial
+Statement Schedules of CACI International Inc and subsidiaries for the years
+ended June 30, 1994, 1993 and 1992, and Independent Auditors' Report.
+<PAGE>
+page 25
+
+Independent Auditor's Report
+
+
+
+
+To the Board of Directors and Shareholders of
+CACI International Inc
+Arlington, Virginia
+
+We have audited the accompanying consolidated balance sheets of CACI
+International Inc and subsidiaries as of June 30, 1994 and 1993, and the
+related consolidated statements of income, shareholders' equity, and cash
+flows for each of the three years in the period ended June 30, 1994.   These
+financial statements are the responsibility of the Company's management.  Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, such consolidated financial statements present fairly, in all
+material respects, the financial position of CACI International Inc and
+subsidiaries as of June 30, 1994 and 1993, and the results of their operations
+and their cash flows for each of the three years in the period ended June 30,
+1994 in conformity with generally accepted accounting principles.
+
+
+
+              /s/
+- - -----------------------------
+Deloitte & Touche
+
+Washington, D.C.
+August 11, 1994
+<PAGE>
+page 26
+
+                 CACI INTERNATIONAL INC AND SUBSIDIARIES
+                        CONSOLIDATED BALANCE SHEET
+
+                                ASSETS
+
+                                              June 30
+                                     -------------------------    
+                                         1994          1993
+                                     -----------    ----------
+CURRENT ASSETS
+
+Cash and equivalents                 $   941,000   $ 2,725,000 
+Accounts receivable:
+    Billed                            35,668,000    30,209,000 
+    Unbilled                          14,420,000     9,434,000 
+
+Prepaid expenses and other             5,067,000     4,591,000 
+                                      ----------    ----------
+TOTAL CURRENT ASSETS                  56,096,000    46,959,000
+                                      ----------    ----------
+
+
+PROPERTY AND EQUIPMENT, NET
+  Equipment and furniture             18,476,000    16,036,000
+  Leasehold improvements               1,648,000     1,276,000
+                                      ----------    ----------
+  Property and equipment, at cost     20,124,000    17,312,000
+  Less accumulated depreciation
+   and amortization                  (12,369,000)  ( 9,625,000)
+                                      ----------    ----------
+TOTAL PROPERTY AND EQUIPMENT, NET      7,755,000     7,687,000
+                                      ----------    ----------
+
+OTHER ASSETS                           1,001,000     1,084,000
+
+GOODWILL                               5,921,000     2,687,000
+INCOME TAXES                             226,000             0
+                                      ----------    ----------
+
+TOTAL ASSETS                         $70,999,000   $58,417,000
+                                      ==========    ==========
+
+See notes to Consolidated Financial Statements
+
+<PAGE>
+page 27
+
+
+                    CACI INTERNATIONAL INC AND SUBSIDIARIES
+                      CONSOLIDATED BALANCE SHEET (cont'd)
+                     LIABILITIES AND SHAREHOLDERS' EQUITY
+
+                                                   June 30
+                                          -----------------------    
+                                              1994        1993
+                                          -----------  ----------
+
+CURRENT LIABILITIES
+  Note payable                           $ 2,745,000   $ 7,223,000
+  Accounts payable & accrued expenses     14,848,000     8,878,000
+  Accrued compensation & benefits         10,712,000     7,139,000
+  Deferred rent expense                      454,000       324,000 
+  Income taxes payable                     1,829,000     1,135,000
+  Deferred income taxes                      181,000       323,000 
+                                          ----------    ----------
+TOTAL CURRENT LIABILITIES                 30,769,000    25,022,000
+                                          ----------    ----------
+
+DEFERRED RENT EXPENSES                     2,353,000     2,509,000
+
+DEFERRED INCOME TAXES                        139,000       389,000
+
+SHAREHOLDERS' EQUITY
+  Common Stock                             1,349,000             0
+    $.10 par value, 
+    13,490,000 shares issued
+  Common Stock - Class A
+    $.10 par value, 
+    13,130,000 shares issued                       0     1,313,000
+  Common Stock - Class B
+    $.10 par value,
+    115,000 shares issued                          0        12,000
+  Capital in excess of par                 4,591,000     3,454,000
+  Retained earnings                       44,621,000    38,585,000
+  Cumulative currency
+    translation adjustments               (1,315,000)   (1,516,000)
+  Treasury stock, at cost
+    (3,251,000 shares
+    and 3,233,000 shares)                (11,508,000)  (11,351,000)
+                                          ----------    ----------
+TOTAL SHAREHOLDERS' EQUITY                37,738,000    30,497,000
+                                          ----------    ----------
+
+TOTAL LIABILITIES 
+   AND SHAREHOLDERS' EQUITY              $70,999,000   $58,417,000
+                                          ==========    ==========
+
+See notes to Consolidated Financial Statements.
+<PAGE>
+page 28
+                    CACI INTERNATIONAL INC AND SUBSIDIARIES
+                     CONSOLIDATED STATEMENT OF OPERATIONS
+<TABLE>
+<CAPTION>
+                                                Year Ended June 30
+                                    ----------------------------------------
+                                         1994          1993          1992
+                                    ------------   -----------   ------------
+
+<S>                                 <C>            <C>           <C>
+REVENUE                             $183,700,000   $145,148,000  $139,878,000
+                                     -----------    -----------   -----------
+COSTS AND EXPENSES
+ Direct costs                         97,584,000     75,804,000    74,536,000
+ Indirect costs & selling expenses    71,126,000     57,797,000    55,289,000
+ Depreciation and amortization         4,341,000      3,367,000     2,556,000
+                                     -----------    -----------   -----------
+Total Operating Expenses             173,051,000    136,968,000   132,381,000
+                                     -----------    -----------   -----------
+                                      10,649,000      8,180,000     7,497,000
+
+ Interest expense                        420,000        471,000       359,000
+ Shareholder lawsuit
+   & merger costs                              0        901,000             0
+ Lease litigation
+  settlement expenses                          0      1,921,000             0
+                                     -----------     ----------   -----------
+INCOME BEFORE INCOME TAXES 
+AND EXTRAORDINARY ITEM                10,229,000      4,887,000     7,138,000
+ 
+ Income taxes                          3,893,000      1,907,000     2,928,000
+                                     -----------    -----------   -----------
+
+INCOME BEFORE EXTRAORDINARY ITEM       6,336,000      2,980,000     4,210,000
+
+Extraordinary item: cost of
+ shareholder lawsuit settlement
+ (net of $194,000 tax benefit)          (300,000)             0             0
+                                     ------------   -----------   -----------
+
+NET INCOME                          $  6,036,000   $  2,980,000  $  4,210,000
+                                     ===========    ===========   ===========
+EARNINGS PER COMMON AND
+COMMON EQUIVALENT SHARE:
+
+ Income before extraordinary item         $ 0.60         $ 0.29        $ 0.40
+ Extraordinary item                        (0.03)          0.00          0.00
+ Net income                                 0.57           0.29          0.40
+
+AVERAGE NUMBER OF SHARES AND
+EQUIVALENT SHARES OUTSTANDING         10,615,000     10,361,000    10,604,000
+                                     ===========    ===========   ===========
+
+See notes to Consolidated Financial Statement.
+
+</TABLE>
+<PAGE>
+page 29
+
+                    CACI INTERNATIONAL INC AND SUBSIDIARIES
+                     CONSOLIDATED STATEMENT OF CASH FLOWS
+<TABLE>
+<CAPTION>
+                                               Year Ended June 30
+                                               ------------------
+                                       1994           1993           1992
+                                   ------------   ------------   ------------
+<S>                                <C>            <C>            <C>
+CASH FLOWS 
+  FROM OPERATING ACTIVITIES
+Net earnings                       $  6,036,000   $  2,980,000   $  4,210,000
+Reconciliation of 
+  net earnings to net cash
+  provided by (used in)
+  operating activities:
+    Depreciation & amortization       4,341,000      3,367,000      2,556,000 
+  Loss on sale of property
+    & equipment                          54,000         44,000        152,000 
+  Provision for deferred
+    income taxes                       (816,000)      (731,000)      (233,000)
+
+Changes in operating
+   assets & liabilities:
+ Accounts receivable                (10,122,000)       911,000     (2,989,000)
+ Prepaid expenses & other assets       (593,000)    (1,615,000)       626,000 
+ Accounts payable & accrued expenses  5,902,000       (919,000)      (910,000)
+ Accrued compensation & vacation      3,637,000        (81,000)       772,000 
+ Deferred rent expense                  (26,000)      (150,000)       395,000 
+ Income taxes payable                   715,000        256,000        304,000
+                                     ----------     ----------     ----------
+
+Net cash provided by
+  operating activities                9,128,000      4,062,000      4,883,000 
+                                     ----------     ----------     ----------
+
+CASH FLOWS
+  FROM INVESTING ACTIVITIES:
+Acquisitions of property
+  & equipment                        (2,671,000)    (3,330,000)    (3,542,000)
+Proceeds from sale of
+  property & equipment                  103,000         33,000        349,000 
+Payments for Acquisitions            (4,508,000)    (2,831,000)             0 
+Other                                  (411,000)      (718,000)      (692,000)
+                                     ----------     ----------      ---------
+
+Net cash used in
+  investing activities               (7,487,000)    (6,846,000)    (3,885,000)
+                                     ----------     ----------     ----------
+
+See Notes to Consolidated Financial Statements
+
+</TABLE>
+<PAGE>
+page 30
+                    CACI INTERNATIONAL INC AND SUBSIDIARIES
+                  CONSOLIDATED STATEMENT OF CASH FLOWS (cont'd)
+
+<TABLE>
+<CAPTION>
+
+                                               Year Ended June 30
+                                               ------------------
+                                       1994           1993           1992
+                                   ------------   ------------   ------------
+<S>                                <C>            <C>            <C>
+CASH FLOWS
+  FROM FINANCING ACTIVITIES:
+Proceeds under line-of-credit        86,982,000     61,438,000     51,945,000 
+Payments under line-of-credit       (91,460,000)   (59,057,000)   (50,233,000)
+Issuance of common stock              1,161,000        139,000      1,803,000 
+Purchase of common stock
+  for treasury                         (157,000)      (111,000)    (2,942,000)
+                                     ----------     ----------     ----------
+
+Net cash provided by (used in)
+  by financing activities            (3,474,000)     2,409,000        573,000 
+                                     ----------     ----------     ----------
+
+EFFECT OF EXCHANGE RATES
+  ON CASH AND EQUIVALENTS:               49,000       (259,000)         8,000 
+                                     ----------     ----------     ----------
+
+Net increase (decrease) in
+  cash & equivalents                 (1,784,000)      (634,000)     1,579,000 
+Cash & equivalents,
+  beginning of period                 2,725,000      3,359,000      1,780,000 
+                                     ----------     ----------     ----------
+
+Cash & equivalents,
+  end of period                     $   941,000    $ 2,725,000    $ 3,359,000 
+                                     ==========     ==========     ==========
+
+SUPPLEMENTAL DISCLOSURES
+  OF CASH FLOW INFORMATION:
+Cash paid during the year for:
+  Income taxes, net of refunds     $  1,784,000   $ 2,149,000    $ 2,339,000
+                                    ===========    ==========     ==========
+
+  Interest                         $    410,000       475,000    $   335,000
+                                    ===========    ==========     ==========
+
+
+See notes to Consolidated Financial Statements.
+
+</TABLE>
+<PAGE>
+page 31
+                           CACI INTERNATIONAL INC AND SUBSIDIARIES
+                        CONSOLIDATED STATEMENT OF SHAREHOLDERS' EQUITY
+<TABLE>
+<CAPTION>
+
+                                                Common Stock                                           
+                              -------------------------------------------
+                                      Class A *               Class B                                  Cumulative
+                               ---------------------    ------------------   Capital in                Currency
+                                Shares                  Shares                Excess of    Retained    Translation    Treasury
+                                Issued       Amount     Issued     Amount       Par        Earnings    Adjustments      Stock
+                              ----------   ----------   -------    -------   ----------   ----------   -----------   ------------
+
+<S>                           <c           <C>          <C>        <C>       <C>          <C>           <C>          <C>
+
+BALANCE, July 1, 1991         12,311,000   $1,231,000   109,000    $11,000   $1,595,000   $31,395,000   $(975,000)   $(8,298,000)
+ Net Earnings                                                                               4,210,000 
+ Currency translation
+  adjustments                                                                                             894,000 
+ Stock Rights Redemption                                                       (105,000)
+ Exercise of Stock Options
+  (including $444,000
+  income tax benefit)            778,000       78,000         0          0    1,829,000 
+  Treasury Shares purchased
+   (598,000 Class A &
+   4,000 Class B shares)                                                                                              (2,942,000)
+                              ----------    ---------   -------     ------    ---------    ----------     -------      ---------
+
+BALANCE, June 30, 1992        13,089,000   $1,309,000   109,000    $11,000   $3,319,000   $35,605,000   $ (81,000)  $(11,240,000)
+ Net Earnings                                                                               2,980,000 
+ Currency translation
+  adjustments                                                                                          (1,435,000)
+ Exercise of Stock Options
+  (including $47,000
+  income tax benefit)             41,000        4,000     6,000      1,000      135,000 
+ Treasury Shares purchased
+  (23,000 Class A)                                                                                                      (111,000)
+                              ----------    ---------   -------     ------    ---------    ----------   ----------    ----------
+
+BALANCE, June 30, 1993        13,130,000   $1,313,000   115,000    $12,000   $3,454,000   $38,585,000  $(1,516,000)  $(11,351,000)
+ Net Earnings                                                                               6,036,000 
+ Currency translation
+  adjustments                                                                                              201,000
+ Exercise of Stock Options
+  (including $494,000
+  income tax benefit)            245,000       24,000                         1,137,000
+ Conversion of Class B
+  shares                        115,000        12,000  (115,000)   (12,000)
+ Treasury Shares purchased
+  (18,923 shares)                                                                                                        (157,000)
+                             ----------     ---------   -------     ------    ---------    ----------    ---------      ---------
+BALANCE, June 30, 1994        13,490,00    $1,349,000         0    $     0   $4,591,000   $44,621,000  $(1,315,000)    (11,508,000)
+
+
+* As of June 30, 1994, all Class A Common Stock was classified as Common Stock.
+
+See notes to Consolidated Financial Statements.
+</TABLE>
+<PAGE>
+page 32
+                       CACI INTERNATIONAL INC AND SUBSIDIARIES
+                      NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                       YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+
+
+NOTE 1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Business Activities
+    
+The Company is an international information systems and high technology
+services corporation.  It is a world leader in computer-based information
+technology systems, custom software, integration and operations, imaging and
+document management, simulation, and proprietary database and software
+products.  The Company provides worldwide services in support of United States
+national defense and civilian agencies, state governments and commercial
+enterprises.
+
+Principles of Consolidation
+
+The consolidated financial statements include the statements of CACI
+International Inc and its wholly-owned subsidiaries (the "Company").  All
+significant intercompany balances and transactions have been eliminated in
+consolidation.
+
+Revenue Recognition
+
+Revenue on cost-plus-fee contracts is recognized to the extent of costs
+incurred plus a proportionate amount of the fee earned.  Revenue on fixed-
+price contracts is recognized on the percentage of completion method based on
+costs incurred in relation to total estimated costs.  Revenue on time and
+materials contracts is recognized to the extent of billable rates times hours
+delivered plus materials expense incurred.  Revenue from software license
+sales is recognized upon delivery when there is no significant obligation to
+perform after the sale, but is recognized under the percentage-of-completion
+method when there is significant obligation for production, modification or
+customization after the sale.  Revenue from maintenance support services on
+these products is nonrefundable and generally recognized on a straight-line
+basis over the term of the service agreement.  Provisions for estimated losses
+on uncompleted contracts are recorded in the period such losses are
+determined.
+
+The Company's United States Government contracts (approximately 71% of total
+revenue) are subject to subsequent government audit of direct and indirect
+costs.  All such incurred cost audits have been completed through June 30,
+1989. Management does not anticipate any material adjustment to the
+consolidated financial statements for later periods.
+
+Property and Equipment
+
+Property and equipment is recorded at cost.  Depreciation of equipment has
+been provided over the estimated useful lives of three to ten years of the
+respective assets, using primarily the straight-line method.  Leasehold
+improvements are generally amortized over the respective remaining lease term
+using the straight-line method.
+<PAGE>
+page 33
+
+Capitalized Software Costs
+
+The Company capitalizes certain product-related software development costs
+after technological feasibility and marketability have been demonstrated. 
+These costs are amortized on a product-by-product basis over their estimated
+economic useful lives, which range from 3 to 5 years.
+
+
+Income Taxes
+
+The Company adopted Statement of Financial Accounting Standards ("SFAS") No.
+109 "Accounting for Income Taxes", effective July 1, 1993.  This accounting
+standard requires the use of the asset and liability approach for financial
+accounting and reporting for income taxes.  There was no material cumulative
+effect on income in the financial statements from the adoption of SFAS 109 for
+the twelve month period ended June 30, 1994.  The provision for income taxes
+includes taxes currently payable and those deferred because of the differences
+between the financial statements and tax bases of assets and liabilities.
+
+U.S. income taxes have not been provided on $14,854,000 in undistributed
+earnings of foreign subsidiaries that have been permanently reinvested outside
+the United States.
+
+
+Currency Translation
+
+The assets and liabilities of the Company's foreign subsidiaries whose
+functional currency is other than the U.S. Dollar are translated at the
+exchange rates in effect on the reporting date, and income and expenses are
+translated at the weighted average exchange rate during the period.  The net
+effect of such translation gains and losses are not included in determining
+net income but are accumulated as a separate component of shareholders'
+equity.  Foreign currency transaction gains and losses are included in
+determining net income.
+
+
+Earnings per Share
+
+Earnings per share is computed by dividing net earnings by the weighted
+average number shares and equivalent shares outstanding during each of the
+years ended June 30, 1994, 1993 and 1992 of 10,615,000, 10,361,000, and
+10,604,000, respectively.  The weighted averages include the number of shares
+issuable upon exercise of stock options granted under the employee stock
+incentive plan after the assumed repurchase of shares with the related
+proceeds.
+
+
+Statement of Cash Flows
+
+Short-term investments with an original maturity of three months or less are
+considered cash equivalents.
+<PAGE>
+page 34
+
+Goodwill
+
+The excess costs over fair market value of net assets acquired is being
+amortized, using the straight line method, for a period ranging from 3 to 15
+years. Accumulated amortization was $529,000 and $143,000 at June 30, 1994 and
+June 30, 1993, respectively.
+
+
+Statement Presentation
+
+Certain prior period amounts have been reclassified to conform with the
+current year's presentation.
+
+
+NOTE 2.  ACCOUNTS RECEIVABLE
+
+Unbilled accounts receivable consist of unbilled costs and estimated profits
+on uncompleted contracts which include retainage and other amounts arising
+from contracts with long-term completion and realization periods. 
+
+The components of unbilled accounts receivable are as follows:
+
+                                                 June 30,
+                                      ----------------------------
+                                          1994             1993    
+                                      -----------       ----------
+Amounts currently billable            $11,099,000       $6,977,000
+Long-term completion contracts          1,490,000        1,119,000
+Retainages                              1,831,000        1,338,000
+                                       ----------        ---------
+Total Unbilled Accounts Receivable    $14,420,000       $9,434,000
+                                       ==========        =========
+
+Contracts with long-term completion periods are billable upon completion,
+which is generally estimated to be within one year.  Generally, retainages
+will not be billed within one year; consistent with industry practice,
+however, these receivables are classified as current.
+
+Billed accounts receivable are net of allowance for doubtful accounts of
+$1,664,000 and $2,312,000 at June 30, 1994 and June 30, 1993, respectively.
+
+
+NOTE 3.   CAPITALIZED SOFTWARE DEVELOPMENT COSTS
+
+The costs capitalized and amortized for the years ended June 30, 1994, 1993,
+and 1992 were as follows:
+<PAGE>
+page 35
+
+Annual Activity                        Year Ended June 30,
+- - ---------------               ------------------------------------
+                                 1994          1993         1992
+                              ---------     ---------     --------
+Balance beginning of year     $ 775,000     $ 555,000     $ 18,000
+Capitalized during year         332,000       412,000      559,000 
+Amortized during year          (242,000)     (192,000)     (22,000)
+                               --------      --------     --------
+Balance, end of year          $ 865,000     $ 775,000     $555,000
+                               ========      ========      =======
+Amounts included in:
+Current assets                 $275,000      $254,000     $192,000 
+Other assets                   $590,000      $521,000     $363,000
+
+NOTE 4.  NOTE PAYABLE
+
+The Company has a $20 million revolving credit agreement with Signet Bank
+which expires on January 31, 1995.  Under this agreement, the Company had
+outstanding borrowings of $2,745,000 at June 30, 1994 and $7,223,000 at June
+30, 1993.   Interest is charged on the outstanding borrowings at the lower of
+the bank's daily prime commercial lending rate or the Federal Funds rate plus
+1.25%. The applicable interest rate on the loan balance was 7.21% and 5.17% at
+June 30, 1994 and 1993, respectively.  The credit agreement requires, among
+other provisions, the maintenance of certain levels of net worth and working
+capital and places certain restrictions on cash dividends and additional debt. 
+Throughout FY 1994 and FY 1993, the Company was in compliance with all bank
+covenants.
+
+
+NOTE 5.   INCOME TAXES
+
+The provision (benefit) for income taxes consists of:
+
+                                State
+Year End                         and
+June 30          Federal        Local        Foreign          Total
+- - -------         ----------     --------     ----------     ----------
+1994
+  Current       $1,894,000     $696,000     $1,151,000     $3,741,000 
+  Deferred          97,000       21,000         34,000        152,000 
+                 ---------      -------      ---------      ---------
+                $1,991,000     $717,000     $1,185,000     $3,893,000
+                 =========      =======      =========      =========
+1993
+  Current       $2,311,000     $260,000     $  610,000     $3,181,000
+  Deferred      (1,042,000)     (85,000)      (147,000)    (1,274,000)
+                 ----------     -------      ---------      ---------
+                $1,269,000     $175,000     $  463,000     $1,907,000
+                 =========      =======      =========      =========
+1992
+  Current       $2,434,000     $501,000     $  199,000     $3,134,000 
+  Deferred        (296,000)     (67,000)       157,000       (206,000)
+                 ---------      -------      ---------      ---------
+                $2,138,000     $434,000     $  356,000     $2,928,000 
+                 =========      =======      =========      =========
+<PAGE>
+page 36
+
+A reconciliation of the income tax provision (benefit) and the amount computed
+by applying the statutory U.S. income tax rate of 34% is as follows:
+
+                                              Year Ended June 30,
+                                    --------------------------------------
+                                       1994          1993          1992
+                                    ----------    ----------    ----------
+Amount at statutory U.S. rate       $3,478,000    $1,662,000    $2,427,000 
+Other taxes, net of U.S. 
+  income tax benefit                   450,000       116,000       287,000 
+Other expenses not deductible
+  for tax purposes                      80,000        76,000         6,000 
+Taxes on foreign earnings at
+  different effective rates            209,000        48,000       191,000 
+Extraordinary item                    (194,000)            0             0
+Other                                 (130,000)        5,000        17,000
+                                     ---------     ---------     ---------
+Income taxes (benefit)              $3,893,000    $1,907,000    $2,928,000 
+                                     =========     =========     =========
+
+The net current and non-current components of the deferred income tax accounts
+as shown on the consolidated balance sheet at June 30, 1994 are:
+
+                                             Total     
+                                           --------
+    Current deferred tax liability         $181,000 
+    Net non-current deferred tax asset      (87,000)
+                                            -------
+    Net deferred tax liability             $ 94,000
+                                            =======
+
+The deferred tax assets and tax liabilities at June 30, 1994 are:
+
+Assets:                                        1994
+                                             ----------
+      Accrued vacation & other expenses     $ 2,314,000 
+      Deferred rent                           1,084,000 
+      Foreign currency conversion               182,000 
+      Pension                                   168,000
+                                              ---------
+      Total deferred assets                 $ 3,748,000 
+                                              ---------
+Liabilities:
+      Unbilled revenue                      $(2,745,000)
+      Foreign transactions                     (613,000)
+      Depreciation                             (435,000)
+      Other                                     (49,000)
+                                             ----------
+Total deferred liabilities                  $(3,842,000)
+                                             ----------
+
+Net deferred tax liability:                 $   (94,000)
+                                             ==========
+<PAGE>
+page 37
+
+Commencing July 1, 1987, the Company adopted the accrual net of unbillable
+revenue method of accounting for tax purposes.  Under this method, only
+revenue that is contractually billable is used to compute taxable income while
+certain expenses are not currently deductible.
+
+The Company adopted SFAS No. 109 "Accounting for Income Taxes" effective July
+1, 1993.  Prior years financial statements were not restated.  There was no
+material cumulative effect on the financial statements as the result of
+adoption of this standard.
+
+
+NOTE 6.  COMMON STOCK
+
+At June 30, 1993, the Company's common stock consisted of Class A and Class B
+Common Stock, each with a $.10 par value, and each with 40,000,000 shares
+authorized.  There were 13,130,000 Class A shares and 115,000 Class B shares
+outstanding at June 30, 1993, of which 3,194,000 Class A shares and 39,000
+Class B shares were carried in Treasury at their acquisition cost.  In October
+1993, by the provisions of the Company's Charter, the Class B shares
+automatically converted to Class A Common Stock on a one-for-one basis, after
+which the Company had only one class of Common Stock.  As of June 30, 1994,
+there were 13,490,000 shares of Common Stock outstanding of which 3,251,000
+shares are held in Treasury and are carried at their acquisition cost.
+
+
+NOTE 7.  STOCK INCENTIVE PLAN
+
+The Company has an employee stock incentive plan (the "Plan") which provides
+that key employees may be awarded some or all of the following:  nonqualified
+stock options; incentive stock options within the meaning of the Internal
+Revenue Code; and the option to purchase Common Stock.  The stock option
+exercise prices would generally be at fair market value on the date of grant. 
+The period during which each option is exercisable is determined when granted,
+but in no event are they exercisable later than ten years from the date of
+grant or after December 31, 2000.  Any debt securities awarded under the Plan
+would be subordinate to existing and future secured debt of the Company and
+would be offered to the employees for purchase at their fair market value. 
+The maximum number of shares which may be issued under the Plan is 5,200,000. 
+As discussed in Note 6 above, the Class B Common Stock was converted
+automatically to Common Stock in 1993, and no further options for Class B will
+be issued.
+
+<PAGE>
+page 38
+
+Stock option activity and price information regarding the Plan follows:
+
+
+                                          Number            Exercise
+                                        of shares            Price
+                                        ---------         -----------
+
+Shares Under Option, July 1, 1991       2,056,000         $1.87-$3.34
+     Granted                              380,000         $3.50-$5.09
+     Exercised                           (778,000)        $1.87-$2.56
+     Forfeited                            (28,000)        $1.87-$3.34
+                                        ---------
+Shares Under Option, June 30, 1992      1,630,000         $1.87-$5.09
+     Granted                               28,000         $4.44-$4.75
+     Exercised                            (41,000)        $1.87-$2.59
+     Forfeited                            (98,000)        $1.87-$5.09
+                                        ---------
+Shares Under Option, June 30, 1993      1,519,000         $1.87-$5.03
+     Granted                              108,000        $5.875-$5.94
+     Exercised                           (244,000)       $1.875-$4.75
+     Forfeited                             (2,000)           $3.50       
+                                       ----------
+Shares Under Option, June 30, 1994      1,381,000         $1.87-$5.94
+                                       ==========
+Options Exercisable, June 30, 1994        766,000         $1.87-$5.94
+                                       ==========
+
+
+Exercise prices are based on the market price of the Company's Common Stock at
+the date the options are granted.
+
+
+NOTE 8.  PENSION PLAN
+
+The Company has a defined contribution pension plan covering approximately 60%
+of its employees.  The total consolidated pension expense for each of the
+years ended June 30, 1994, 1993, and 1992 was $1,939,000, $1,690,000, and
+$1,537,000 respectively.  The Company funds current pension costs as they
+accrue annually.  The plan is qualified under the United States Internal
+Revenue Code, as determined by the United States Internal Revenue Service.
+
+
+NOTE 9.  LEASE COMMITMENTS 
+
+The Company conducts its operations from leased office facilities, all of
+which are classified as operating leases and expire primarily over the next
+eight years.
+
+The following is a schedule of future minimum lease payments under non-
+cancelable leases with a remaining term greater than one year as of June 30,
+1994:
+<PAGE>
+page 39
+
+Year Ending           Operating
+ June 30,              Leases    
+- - -----------           ---------
+
+  1995               $8,658,000
+  1996                7,626,000
+  1997                6,027,000
+  1998                4,966,000
+  1999                3,507,000
+  Later Years         8,246,000
+                      ---------
+
+  Total minimum
+   lease payments    $39,030,000
+                      ==========
+
+Operating leases reflect the minimum lease payments for office facilities net
+of a minimal amount of sublease income.  The Company has no significant long-
+term operating leases for office equipment.
+
+Rent expense incurred from operating leases of real estate for 1994, 1993 and
+1992 amounted to $6,708,000, $8,132,000, and  $7,295,000 respectively.  Rent
+expense arising from operating leases of equipment amounted to approximately
+$494,000, $466,000, and $429,000 in 1994, 1993, and 1992, respectively.
+
+
+NOTE 10.   EXCESS FACILITIES AND LEASE TERMINATION COST
+
+The excess facilities and lease termination costs incurred during the year
+ended June 30, 1993 consisted of the lease termination cost of $1.921 million. 
+In April, 1991, the Company entered into a new lease agreement in an effort to
+consolidate various operations into one location.  In connection with this
+agreement, the Company canceled an existing lease for its office space located
+in Fairfax, Virginia and, as a result, paid a lease termination penalty of
+$1,418,000.  The lessor of the new facility reimbursed the Company for the
+termination penalty.  The Company was required to expense the termination cost
+in 1991 and allocate the benefit of the reimbursement as a reduction in the
+rent expense over the future life of the new lease.  The Company moved to
+their new location in fiscal year 1992.  The unamortized balance of this
+amount is included in deferred rent in the accompanying consolidated balance
+sheets.
+
+As a result of the Company's cancellation of the office lease in Fairfax,
+Virginia discussed above, the landlord sued the Company for breach of the
+lease.  To settle this litigation, the Company paid the landlord $1.7 million
+and incurred legal fees of $221,000 during the FY93 Second Quarter.
+
+
+NOTE 11.  CONTINGENCIES AND LITIGATION
+
+Pentagen Technologies International, Ltd. ("Pentagen") filed two suits against
+CACI International Inc and two of its subsidiaries (collectively, "CACI"). 
+One suit sought damages of $8 million and the other sought damages of $78
+million and punitive damages of $234 million.  In order to provide an
+expeditious redress of Pentagen's unfounded allegations and to compensate the
+<PAGE>
+page 40
+
+Company for any damage it may have suffered, the Company subsequently filed
+suit against Pentagen.  In March 1994, the United States District Court for
+the Southern District of New York granted the Company's request that
+Pentagen's pending suit against the Company that had been previously removed
+from the New York Supreme Court be combined with the suit pending in the
+Southern District and be designated as "related" suits.  Subsequently, these
+suits were both stayed pending further proceedings in the Company's suit in
+the Virginia Court.  In June 1994, the Virginia Court issued an order
+declaring among other things, that CACI had not infringed Pentagen's copyright
+nor any trademark held by Pentagen, that Pentagen is liable for damages for
+tortious interference with CACI's business, and that Pentagen and the two
+Pentagen and Baird principals are liable for damages for defamation.  In a
+subsequent order by the Virginia Court, CACI was awarded attorneys' fees of
+$110,550, court costs of $61,500, compensatory damages for defamation of
+$1,000, and punitive damages for defamation of $10,000.  While the New York
+cases are still pending, it is expected that they will be resolved in the
+Company's favor.  In any event, management is of the opinion that the ultimate
+resolution of this matter will not have a material adverse effect on the
+Company's financial statements.
+
+The Company is involved in various other lawsuits, claims, and administrative
+proceedings arising in the normal course of business.  Management is of the
+opinion that any liability or loss associated with such matters will not have
+a material adverse effect on the Consolidated Financial Statements.
+
+
+NOTE 12.  ACQUISITIONS
+
+SofTech, Inc.
+
+On December 1, 1993, the Company purchased certain contracts and assets
+consisting of the Government Services business of SofTech, Inc. for an initial
+purchase price of $4.2 million which has been allocated as $0.9 million for
+the fair value of fixed assets acquired and $3.3 million to Goodwill. The
+results of this acquisition have been included in the Company's operating
+results beginning December 1, 1993.  If the acquisition had occurred at the
+beginning of fiscal 1994, revenues would have increased by approximately $10
+million and $0.3 million in net income, which would have increased earnings
+per share by $0.03.  Given that this acquisition represents only a limited
+number of contracts and assets of SofTech, Inc., it is impractical to impute
+accurately the comparable revenues and/or earnings this acquisition would have
+had on the Company's 1993 fiscal period.
+
+
+American Legal Systems Corp.
+
+On July 30, 1992, the Company acquired all of the outstanding stock of ALS for
+an initial purchase price of approximately $2.8 million.  ALS is a service
+company providing litigation support to commercial customers.  The transaction
+was accounted for as a purchase.  The Company financed the transaction with
+bank borrowings under its existing unsecured line of credit.  ALS's financial
+statements have been consolidated beginning August 1, 1992. Had the
+acquisition occurred at the beginning of 1993 or 1992 fiscal periods, the
+effect on the Company's financial statements would not have been material.
+<PAGE>
+page 41
+
+The purchase price is subject to an increase of up to $3 million provided
+significant performance objectives are reached during each of the three
+measurement years beginning October 1, 1992.  Management is of the opinion
+that the Company has adequately provided for any contingent payments.
+
+
+Other Acquisitions
+
+During the first half of this fiscal period, the Company purchased a majority
+of the contracts and assets from Pinpoint Analysis Ltd. and Miracle Products
+Ltd.  The excess purchase price over the net book value of the net assets
+acquired from these acquisitions equaled $330,000.  This excess has been
+recorded as Goodwill and will be amortized for periods ranging from 3 to 15
+years.  Had the acquisitions occurred at the beginning of 1993 or 1992 fiscal
+periods, the effect on the Company's financial statements would not have been
+material.
+
+
+NOTE 13.  SETTLEMENT OF SHAREHOLDER LAWSUITS
+
+In September 1993, the Company announced an agreement, subject to approval by
+the courts, to settle its outstanding shareholder lawsuits.  Under the terms
+of the agreement, the Company would reimburse the plaintiffs for certain legal
+fees and expenses.  The Company would also establish a "fund" which would be
+available on a claims-made basis to cover certain defined losses by
+shareholders who sold their stock during the covered period.  The Company also
+agreed to make a self-tender offer for a limited number of shares of its
+Common Stock at a price determined in the agreement.
+
+The Company and the plaintiffs subsequently agreed to amend the terms of the
+self-tender because of the increase in the price of the Company's Common Stock
+since the original agreement was announced.  Under the amended terms, the
+Company will offer a contingent self-tender for 1.3 million shares of Common
+Stock at $6.00 per share in the event that the average closing price for the
+Company's shares for twenty consecutive trading days during an approximate
+seven month period is below $6.00 per share.  If the average closing price of
+the Company's shares does not fall below $6.00 per share for twenty
+consecutive trading days prior to February 28, 1995, the offer to self-tender
+will expire.
+
+In July 1994, all parties to both suits filed with the Delaware Chancery Court
+a Stipulation and Agreement of Compromise and Settlement which provides for
+the settlement of both suits, subject to court approval.  The Delaware
+Chancery Court has scheduled a hearing in November 1994 to consider the
+proposed settlement and any objection thereto that might be filed by a member
+of the plaintiff class.
+
+Since January 1994, the Company's Common Stock has traded above the $6.00 per
+share tender price.  Under the terms of the agreement, the Company is under no
+obligation to increase the tender price and has no current plans to do so. 
+Accordingly, the Company cannot now predict how many shares, if any, it will
+obtain through the tender.
+
+The Company accrued $300,000 (net of $194,000 tax benefit) as of September 30,
+1993 to cover the estimated future costs of the settlement after reimbursement
+<PAGE>
+page 42
+
+of certain costs by the Company's liability insurance carrier.  This charge
+was reported as an extraordinary item in the first quarter of FY 1994.
+
+In reaching the settlement, the Board of Directors did not acknowledge any
+wrongdoing.  In its deliberations on these suits, the Board did not believe it
+was productive to continue to incur legal expenses and divert senior
+managements' attention at a time when the Company's revenue and operating
+income was growing.
+
+
+NOTE 14.  SEGMENT INFORMATION 
+
+Revenue from contracts with the United States government for 1994, 1993, and
+1992 amounted to approximately $130,000,000 (71% of revenues), $103,000,000
+(71% of revenues), and $103,000,000 (74% of revenues), respectively.  
+
+Information about operations in the United States and foreign countries
+(primarily in Western Europe), after the elimination of intercompany
+transactions, consists of: 
+
+
+                                Earnings
+                                 Before                  Identifiable
+                                 Income      Net         Assets at
+                   Revenue       Taxes *     Earnings**    Year End
+                ------------   ----------   ----------   ------------
+1994
+- - ----
+United States   $156,775,000   $6,651,000   $4,137,000   $56,568,000
+Foreign           26,925,000    3,084,000    1,899,000    14,431,000
+                 -----------    ---------    ---------    ----------
+  Combined      $183,700,000   $9,735,000   $6,036,000   $70,999,000
+                 ===========    =========    =========    ==========
+
+1993
+- - ----
+United States   $127,413,000   $3,639,000   $2,195,000   $48,826,000
+Foreign           17,735,000    1,248,000      785,000     9,591,000
+                 -----------    ---------    ---------    ----------
+  Combined      $145,148,000   $4,887,000   $2,980,000   $58,417,000
+                 ===========    =========    =========    ==========
+
+1992
+- - ----
+United States   $124,070,000   $6,505,000   $3,933,000   $45,757,000
+Foreign           15,808,000      633,000      277,000    10,078,000
+                 -----------    ---------    ---------    ----------
+  Combined      $139,878,000   $7,138,000   $4,210,000   $55,835,000
+                 ===========    =========    =========    ==========
+
+
+* 1994 includes extraordinary loss of $494,000.
+
+**  Contributions to consolidated net earnings after income tax effects.
+<PAGE>
+page 43
+
+NOTE 15.  QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+
+        Quarter                 1ST          2ND          3RD          4TH   
+        -------             -----------  -----------  -----------  -----------
+
+<S>                         <C>          <C>          <C>          <C>
+Year Ended June 30, 1994
+- - ------------------------
+  Revenue                   $38,200,000  $43,966,000  $48,953,000  $52,581,000 
+  Costs and Expenses         35,975,000   41,586,000   46,178,000   49,732,000
+  Income Taxes                  867,000      924,000    1,089,000    1,013,000
+  Income before
+    Extraordinary Item        1,358,000    1,456,000    1,686,000    1,836,000
+  Extraordinary item:
+    Cost of Shareholder
+    Lawsuit Settlement
+    (Net of $194,000
+    Tax Benefit)               (300,000)           0            0            0
+  Net Income                  1,058,000    1,456,000    1,686,000    1,836,000
+                             ==========   ==========   ==========   ==========
+  Earnings per share
+    Income before
+      Extraordinary Item    $      0.13  $      0.14  $      0.16  $      0.17
+    Extraordinary Item            (0.03)        0.00         0.00         0.00
+    Net Income                     0.10         0.14         0.16         0.17
+
+Year Ended June 30, 1993
+- - ------------------------
+  Revenue                   $34,885,000  $37,339,000  $36,337,000  $36,587,000
+  Costs and Expenses         33,171,000   37,628,000   34,561,000   34,901,000
+  Income Taxes                  668,000     (112,000)     683,000      668,000
+  Net Earnings                1,046,000     (177,000)   1,093,000    1,018,000
+  Earnings per Share        $      0.10  $     (0.02) $      0.11  $      0.10
+
+Year Ended June 30,1992
+- - -----------------------
+  Revenue                   $33,219,000  $35,791,000  $35,037,000  $35,831,000
+  Costs and Expenses         31,541,000   33,988,000   33,296,000   33,916,000
+  Income Taxes                  693,000      777,000      699,000      759,000
+  Net Earnings                  985,000    1,026,000    1,042,000    1,156,000
+  Earnings per Share        $      0.10  $      0.10  $      0.10  $      0.11
+
+
+</TABLE>
+
+The above quarterly financial data is unaudited, but in the opinion of
+management, all adjustments necessary for a fair presentation of the selected
+data for these interim periods have been included.
+<PAGE>
+page 44
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     CACI INTERNATIONAL INC AND SUBSIDIARIES
+
+                      SCHEDULES TO BE INCLUDED IN FORM 10-K
+
+                          JUNE 30, 1994, 1993 AND 1992
+<PAGE>
+page 45
+
+                                                                   SCHEDULE V
+
+
+                     CACI INTERNATIONAL INC AND SUBSIDIARIES
+                          PROPERTY, PLANT AND EQUIPMENT
+                   FOR YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+<TABLE>
+<CAPTION>
+
+                  Balance                                Other
+                    at                                  Changes      Balance
+                 Beginning    Additions                   Add       at End of
+Description      of Period     at Cost   Retirements    (Deduct)      Period
+- - -----------      ---------    ---------  -----------    --------    ---------
+<S>              <C>          <C>        <C>            <C>         <C>
+
+1994
+- - ----
+
+Equipment &
+ Furniture      $16,036,000  $3,028,000  $(2,208,000)  $1,620,000  $18,476,000
+
+Leasehold
+ Improvements     1,276,000     342,000            0       30,000    1,648,000
+                 ----------   ----------  ----------    ---------   ----------
+                $17,312,000  $3,370,000  $(2,208,000)  $1,650,000  $20,124,000
+                 ==========   =========   ==========    =========   ==========
+
+1993
+- - ----
+
+Equipment &
+ Furniture      $14,034,000  $3,146,000  $  (697,000)  $ (447,000) $16,036,000
+
+Leasehold
+ Improvements     1,177,000     219,000      (14,000)    (106,000)   1,276,000
+                 ----------   ---------   ----------    ---------   ----------
+                $15,211,000  $3,365,000  $  (711,000)  $ (553,000) $17,312,000
+                 ==========   =========   ==========    =========   ==========
+
+1992
+- - ----
+
+Equipment &
+ Furniture      $13,421,000  $2,875,000  $(2,804,000)  $  542,000  $14,034,000
+
+Leasehold
+ Improvements     3,284,000     632,000   (2,898,000)     159,000    1,177,000
+                 ----------   ---------   ----------    ---------   ----------
+                $16,705,000  $3,507,000  $(5,702,000)  $  701,000  $15,211,000
+                 ==========   =========   ==========    =========   ==========
+
+</TABLE>
+<PAGE>
+page 46
+                                                                   SCHEDULE VI
+
+
+                     CACI INTERNATIONAL INC AND SUBSIDIARIES
+                   ACCUMULATED DEPRECIATION AND AMORTIZATION OF 
+                         PROPERTY, PLANT AND EQUIPMENT
+                   FOR YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+<TABLE>
+<CAPTION>
+
+                  Balance    Additions                   Other
+                    at       Charged to                 Changes      Balance
+                 Beginning    Cost and                   Add        at End of
+Description      of Period    Expenses   Retirements    (Deduct)      Period
+- - -----------      ---------   ----------  -----------    --------    ---------
+<S>              <C>         <C>         <C>            <C>         <C>
+
+1994
+- - ----
+
+Equipment &
+ Furniture      $ 9,032,000  $2,953,000  $(2,060,000)  $1,703,000  $11,628,000
+
+Leasehold
+ Improvements       593,000     138,000            0       10,000      741,000
+                 ----------   ---------   ----------    ---------   ----------
+                $ 9,625,000  $3,091,000  $(2,060,000)  $1,713,000  $12,369,000
+                 ==========   =========   ==========    =========   ==========
+
+1993
+- - ----
+
+Equipment &
+ Furniture      $ 7,630,000  $2,657,000  $  (621,000)  $ (634,000) $ 9,032,000
+
+Leasehold
+ Improvements       520,000     120,000      (14,000)     (33,000)     593,000
+                 ----------   ---------   ----------    ---------   ----------
+                $ 8,150,000  $2,777,000  $  (635,000)  $ (667,000) $ 9,625,000
+                 ==========   =========   ==========    =========   ==========
+
+1992
+- - ----
+
+Equipment &
+ Furniture      $ 7,691,000  $2,232,000  $(2,497,000)  $  204,000  $ 7,630,000
+
+Leasehold
+ Improvements     2,956,000     157,000   (2,704,000)     111,000      520,000
+                 ----------   ---------   ----------    ---------   ----------
+                $10,647,000  $2,389,000  $(5,201,000)  $  315,000  $ 8,150,000
+                 ==========   =========   ==========    =========   ==========
+</TABLE>
+<PAGE>
+page 47
+
+                                                                SCHEDULE VIII
+
+                     CACI INTERNATIONAL INC AND SUBSIDIARIES
+                        VALUATION AND QUALIFYING ACCOUNTS
+                   FOR YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+
+<TABLE>
+<CAPTION>
+
+                    Balance                               Other
+                      at                                 Changes     Balance
+                   Beginning   Additions                   Add      at End of
+Description        of Period    at Cost    Retirements   (Deduct)    Period
+- - -----------        ---------   ---------   -----------   --------   ---------
+<S>                <C>          <C>        <C>           <C>        <C>
+
+1994
+- - ----
+
+Reserves deducted
+ from assets to
+ which they apply:
+  Allowances for
+  doubtful
+  receivables      $2,312,000   $294,000   $(1,105,000)  $ 163,000  $1,664,000
+                    =========    =======    ==========    ========   =========
+
+1993
+- - ----
+
+Reserves deducted
+ from assets to
+ which they apply:
+  Allowances for
+  doubtful
+  receivables      $2,030,000   $274,000   $   640,000   $(632,000) $2,312,000
+                    =========    =======    ==========    ========   =========
+
+1992
+- - ----
+
+Reserves deducted
+ from assets to
+ which they apply:
+  Allowances for
+  doubtful
+  receivables     $1,985,000    $230,000  $    59,000    $(244,000) $2,030,000
+                   =========     =======   ==========     ========   =========
+
+</TABLE> 
+<PAGE>
+page 48
+                                                                  SCHEDULE IX
+
+
+                     CACI INTERNATIONAL INC AND SUBSIDIARIES
+                              SHORT-TERM BORROWINGS
+                   FOR YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+
+<TABLE>
+<CAPTION>
+
+Column A         Column B   Column C    Column D       Column E     Column F
+- - --------         --------   --------    --------       --------     --------
+                                         Maximum        Average     Weighted
+Category of                 Weighted     Amount          Amount      Average
+ Aggregate        Balance   Average    Outstanding    Outstanding   Interest
+Short-Term       at End of  Interest    During the     During the  Rate During
+Borrowings        Period      Rate*       Period         Period    the Period*
+- - -----------      ---------  --------   -----------    -----------  -----------
+<S>              <C>        <C>        <C>            <C>          <C>
+
+Year Ended
+June 30, 1994:
+Note Payable
+                 $2,745,000   7.21%    $14,494,000    $ 8,375,000     4.98%
+
+
+
+
+Year Ended
+June 30, 1993:
+Note Payable     $7,223,000   5.17%    $15,708,000    $10,144,000     4.6%
+
+
+
+
+Year Ended
+June 30, 1992:
+Note Payable     $4,843,000   5.05%    $11,679,000     $6,457,000     5.3%
+
+
+
+
+
+*  The rates shown in Column C are based on the balances shown in Column B. 
+The rates shown in Column F are based on the balances shown in Column E.  The
+average amount of short-term borrowings outstanding during the period is
+computed by dividing the weighted average monthly balances in the period by
+the number of months in the period.
+
+</TABLE>
+<PAGE>
+page 49
+
+
+ITEM 9.  DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+The Company had no disagreements with its independent accountant on accounting
+principles, practices or financial statement disclosure during the two years
+prior to the date of the most recent financial statements included in this
+Report.
+<PAGE>
+page 50
+
+                                   PART III
+
+
+The Information required by Items 10, 11, 12, and 13 of Part III of Form 10-K
+has been omitted in reliance on General Instruction G(3) and is incorporated
+herein by reference to the Company's definitive proxy statement to be filed
+with the SEC pursuant to Regulation 14A promulgated under the Securities
+Exchange Act of 1934, as amended.
+<PAGE>
+page 51
+
+
+                                     PART IV
+
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENTS, SCHEDULES, AND REPORTS ON FORM 8-K
+
+(a)(1) Financial Statements    (Refer to Item 8 above)
+         Independent Auditors' Report
+         Consolidated Balance Sheet as of June 30, 1994 and 1993
+         Consolidated Statement of Operations for the Years Ended June 30,
+           1994, 1993 and 1992
+         Consolidated Statement of Cash Flows for the Years Ended June 30,
+           1994, 1993 and 1992
+         Consolidated Statement of Shareholders' Equity for the Years Ended
+           June 30, 1994, 1993 and 1992
+         Notes to Consolidated Financial Statements
+
+(a)(2) Financial Statement Schedules   (Refer to Item 8 above)
+         Schedule V:    Property, Plant, and Equipment for the Years Ended
+                        June 30, 1994,1993 and 1992
+         Schedule VI:   Accumulated Depreciation and Amortization of Property,
+                        Plant, and Equipment for the Years Ended June 30,
+                        1994, 1993 and 1992
+         Schedule VIII: Valuation and Qualifying Accounts for the Years Ended
+                        June 30, 1994, 1993 and 1992
+         Schedule IX:   Short-Term Borrowings for the Years Ended June 30,
+                        1994, 1993 and 1992
+
+(a)(3) Exhibits and Exhibit Index (listed by numbers corresponding to the
+                                   exhibit table of Item 601 regulation S-K)
+
+   (3) Articles of Incorporation and By-laws:
+
+       3.1  Certificate of Incorporation of the Registrant, as amended
+            December 17, 1993.
+
+       3.2  By-laws of CACI International Inc, as amended to date
+            (incorporated by reference from Exhibit 3.2 of the Registrant's
+            Annual Report on Form 10-K filed with the Securities and Exchange
+            Commission for the fiscal year ended June 30, 1993).
+
+   (4) Instruments Defining the Rights of Security Holders:
+
+       4.1  Clause FOURTH of the Registrant's Certificate of Incorporation,
+            incorporated above as Exhibit 3.1.
+
+       4.2  Shareholders' Agreement dated as of December 1, 1985 (incorporated
+            herein by reference to Appendix D to the Proxy Statement included
+            in the S-4).
+
+  (10) Material Contracts:
+
+      10.1  The 1986 Employee Stock Incentive Plan of the Registrant is
+<PAGE>
+page 52
+
+            incorporated by reference to the Registration Statement on Form S-
+            8 filed with the Commission on October 13, 1987 (File No. 33-
+            17864).
+
+      10.2  The CACI Monthly Stock Investment Plan is incorporated by
+            reference to the Registration Statement on Form S-8 filed with the
+            Commission on June 24, 1988 (File No. 33-22766).
+
+      10.3  Employment Agreement between the Registrant and Dr. J. P. London
+            (incorporated herein by reference from Exhibit 10.3 of the
+            Registrant's Annual Report on Form 10-K filed with the Securities
+            and Exchange Commission for the fiscal year ended June 30, 1992).
+
+      10.4  Stock Purchase Agreement between the Registrant and Executor of
+            the Estate of Herbert W. Karr (incorporated herein by reference
+            from Exhibit 10.3 of the Registrant's Annual Report on Form 10-K
+            filed with the Securities and Exchange Commission for the fiscal
+            year ended June 30, 1992).
+
+      10.5  Form of Stock Option Agreement between the Registrant and certain
+            employees (incorporated herein by reference from Exhibit 10.3 of
+            the Registrant's Annual Report on Form 10-K filed with the
+            Securities and Exchange Commission for the fiscal year ended June
+            30, 1992).
+
+      10.6  Merger Agreement dated July 30, 1992 between the Registrant,
+            American Legal Systems Corporation, Michael McIntosh, A. Martin
+            Erim and certain other parties (incorporated herein by reference
+            from Exhibit 10.7 of the Registrant's Annual Report on Form 10-K
+            filed with the Securities and Exchange Commission for the fiscal
+            year ended June 30, 1992). 
+
+      10.7  Letter of Intent dated September 1, 1993 to settle shareholder
+            litigation denominated "Pfirman v. London, et al" and "Chrysogelos
+            v. London, et al" (incorporated herein by reference from Exhibit
+            10.7 of the Registrant's Annual Report on Form 10-K filed with the
+            Securities and Exchange Commission for the fiscal year ended June
+            30, 1993).
+
+   (11) Computation of Earnings per Common and Common Equivalent Share 
+
+   (21) Significant subsidiaries of the Registrant, as defined in Section 1-
+        02(v) of regulation S-X.
+
+   (27) Financial Data Schedule
+
+(b)    . Form 8-K as of September 9, 1993, in which the Registrant reported
+         the termination, by mutual consent, of continued exploratory
+         discussions to merge a subsidiary of the Registrant and COMARCO, Inc.
+
+       . The Registrant filed a Current Report on Form 8-K as of November 30,
+         1993, in which the Registrant reported plans for a self-tender of
+         shares of its Common Stock and settlement of shareholder lawsuits.
+
+       . The Registrant filed a Current Report on Form 8-K as of June 23,
+<PAGE>
+page 53
+
+         1994, in which the Registrant reported the decision by the United
+         States District Court for the Eastern District of Virginia which
+         exonerated the Registrant of infringement allegations and found
+         liability against the accusers for defamation and interference with
+         business.
+<PAGE>
+page 54
+                                      SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized, on the 23th day of
+September, 1994.
+
+                                       CACI International Inc
+
+
+
+                                      By                   /s/
+                                         -------------------------------------
+                                         J. P. London
+                                         Chairman of the Board and President
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in capacities and on the dates indicated.
+
+        Signature                  Title                           Date
+        ---------                  -----                           ----
+
+
+           /s/                                              September 23, 1994
+- - ------------------------                                    ------------------
+J.P. London                Chairman of the Board,           
+                           President, and Director
+                           (Principal Executive Officer)
+
+           /s/                                              September 23, 1994
+- - ------------------------   Executive Vice President, Chief  ------------------
+Samuel R. Strickland       Financial Officer, and Treasurer
+                           (Chief Financial and Accounting
+                           Officer)
+
+          /s/                                               September 23, 1994
+- - ------------------------   Director                         ------------------
+Paul J. Coleman, Jr.
+
+
+          /s/              Director                         September 23, 1994
+- - ------------------------                                    ------------------
+Alan S. Parsow
+
+
+          /s/              Director                         September 23, 1994
+- - ------------------------                                    ------------------
+Larry L. Pfirman
+
+
+          /s/              Director                         September 23, 1994
+- - ------------------------                                    ------------------
+Warren R. Phillips
+<PAGE>
+page 55
+
+
+          /s/              Director                         September 23, 1994
+- - ------------------------                                    ------------------
+Charles P. Revoile
+
+
+          /s/              Director                         September 23, 1994
+- - ------------------------                                    ------------------
+William K. Sacks
+
+
+          /s/              Director                         September 23, 1994
+- - ------------------------                                    ------------------
+John M. Toups
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3
+<SEQUENCE>2
+<TEXT>
+
+Revised as of December 17, 1993
+
+
+                             BY-LAWS
+                               of
+                      CACI International Inc
+                     (A Delaware Corporation)
+
+                       ARTICLE I.   OFFICES
+
+Section 1.  PRINCIPAL OFFICE
+
+The principal office for the transaction of business of the Corporation is
+hereby fixed and located at 1100 North Glebe Road, County of Arlington,
+Commonwealth of Virginia. The Board of Directors is hereby granted full power
+and authority to change said principal office from one location to another in
+said County.
+
+Section 2.  OTHER OFFICES 
+
+Branch of subordinate offices may at any time be established by the Board of
+Directors at any place or places where the Corporation is qualified to do
+business.
+
+                 ARTICLE II.  MEETING OF SHAREHOLDERS
+
+Section 1.  PLACE OF MEETINGS
+ All annual and other meetings of shareholders shall be held either at the
+principal office of the Corporation or at any other place which may be
+designated either by the Board of Directors pursuant to authority hereafter
+granted to said Board, or by written consent of all shareholders entitled to
+vote thereat, given either before or after the meeting and filed with the
+Secretary of the Corporation.
+
+Section 2.  ANNUAL MEETING
+
+The annual meetings of the shareholders shall be held on the third Friday of
+October of each year, at 9:00 o'clock a.m. or at such other date and time, not
+inconsistent with Delaware law, as may be approved by the Board of Directors;
+provided, however, should said day fall upon a legal holiday, then such annual
+meeting of shareholders shall be held at the same time and place on the next
+day thereafter which is not a legal holiday.
+
+Written notice of each annual meeting shall be given to each shareholder
+entitled to vote thereat, either personally or by mail or other means of
+written communication, charges prepaid, addressed to such shareholder at his
+or her address appearing on the books of the Corporation or given by him or
+her to the Corporation for the purpose of notice. If a shareholder gives no
+address, notice shall be deemed to have been given him or her if sent by mail
+or other means of written communication addressed to the place where the
+principal office of the Corporation is situated, or if published at least once
+in some newspaper of general circulation in the county in which said office is
+located. All such notices shall be sent to such shareholder entitled thereto,
+not less than twenty (20) days nor more than sixty (60) days before such
+annual meeting, and shall specify the place, day, and hour of such meeting,
+and shall also state the general nature of the business or proposal to be
+considered or acted upon at such meeting before action may be taken at such
+meeting on:
+
+(a)     A proposal to sell, lease, convey, exchange, transfer, or otherwise
+dispose of all or substantially all of the property or assets of the
+Corporation, except under Section 272 of the Delaware General Corporation Law,
+and except for a transfer to a wholly-owned subsidiary;
+
+(b)     A proposal to merge or consolidate with another corporation, domestic
+or foreign;
+
+(c)     A proposal to reduce the stated capital of the Corporation;
+
+(d)     A proposal to amend the Articles of Incorporation;
+
+(e)     A proposal to wind up and dissolve the Corporation; and
+
+(f)     A proposal to adopt a plan of distribution of shares, securities, or
+any consideration other than money in the process of winding up.
+
+Advance Notice of Stockholder Proposed Business at Annual Meeting:  At an
+Annual Meeting of the Shareholders, only such business shall be conducted as
+shall have been properly brought before the meeting:
+
+(a)     As specified in the notice of the meeting (or any supplement thereto);
+
+(b)     By, or at the direction of, the Board of Directors; or
+
+(c)     Otherwise properly brought before the meeting by a stockholder.
+
+In addition to any other applicable requirements, for business to be properly
+brought before an Annual Meeting by a stockholder, the stockholder must have
+given timely notice thereof in writing to the Secretary of the Corporation. To
+be timely, a stockholder's notice must be delivered to or mailed and received
+at the offices of the Secretary of the Corporation, not less than sixty (60)
+days prior to the first anniversary of the date of the last Annual Meeting of
+stockholders of the Corporation. A stockholder's notice to the Secretary shall
+set forth as to each matter the stockholder purposes to bring before the
+Annual Meeting (i) a brief description of the business desired to be brought
+before the Annual Meeting and reasons for conducting such business at the
+Annual Meeting; (ii) the name and record address of the stockholder proposing
+such business; (iii) the class and number of shares of the Corporation which
+are beneficially owned by the stockholder; and (iv) any material interest of
+the stockholder in such business.
+
+Notwithstanding anything in the By-laws to the contrary, no business shall be
+conducted at the Annual Meeting except in accordance with the procedures set
+forth in this section, provided, however, that nothing in this section shall
+be deemed to preclude discussion by any stockholder of any business properly
+brought before the Annual Meeting in accordance with said procedure. 
+
+The Chairman of the Annual Meeting shall, if the facts warrant, determine and
+declare to the meeting that business was not properly brought before the
+meeting in accordance with the provisions of this section, and if he should so
+determine, he shall so declare to the meeting that any such business not
+properly brought before the meeting shall not be transacted.
+
+Section 3.  SPECIAL MEETINGS
+
+Special Meetings of the shareholders, for any propose or purposes whatsoever,
+may be called any time by the Chairman of the Board, the President, or by the
+Board of Directors. Except in special cases where other express provision is
+made by statute, notice of such special meetings shall be given in the same
+manner as for annual meetings of shareholders.
+
+Notices of any special meeting shall specify, in addition to the place, day
+and hour of such meeting, the general nature of the business to be transacted.
+
+Section 4.  ADJOURNED MEETINGS AND NOTICE THEREOF
+
+Any shareholders' meeting, annual or special, whether or not a quorum is
+present, may be adjourned from time to time by vote of a majority of the
+shares, the holders of which are either present in person or by proxy, but in
+the absence of a quorum, no other business may be transacted at such meeting.
+
+When any shareholders' meeting, either annual or special, is adjourned for
+thirty (30) days or more, notice of the adjourned meeting shall be given as in
+the case of an original meeting. In all other instances of adjournment, it
+shall not be necessary to give any notice of an adjournment or of the business
+to be transacted ad an adjourned meeting, other than by announcement at the
+meeting at which such adjournment is taken.
+
+Section 5.  ENTRY OF NOTICE
+
+Whenever any shareholder entitled to vote has been absent from any meeting or
+shareholders, whether annual or special, an entry in the minutes to the effect
+that notice has been duly given shall be sufficient evidence that due notice
+of such meeting was given to such shareholder, as required by the law and the
+By-laws of the Corporation.
+
+Section 6.  VOTING
+
+At all meetings of shareholders, every shareholder entitled to vote shall have
+the right to vote in person or by proxy the number of shares standing in his
+or her name on the stock records of the Corporation. Such vote may be given
+viva voce or by ballot; provided, however, that all elections for directors
+must be by ballot upon demand made by a shareholder at any election and before
+the voting begins.
+
+Section 7.  QUORUM.
+
+The presence in person or by proxy of the holders of a majority of the shares
+entitled to vote at any meeting shall constitute a quorum for the transaction
+of business. The shareholders present at a duly called or held meeting at
+which a quorum is present may continue to do business until adjournment,
+notwithstanding the withdrawal of enough shareholders to leave less than a
+quorum. When a quorum is present at any meeting, a majority in interest of the
+stock represented thereat shall decide any question brought before such
+meeting, unless the question is one upon which by express provision of law,
+the Articles of Incorporation, or these By-laws, a larger or different vote is
+required, in which case such express provision shall govern and control the
+decision of such question.
+
+Section 8.  CONSENT OF ABSENTEES
+
+The proceedings and transactions of any meeting of shareholders, either annual
+or special, however called and noticed, shall be as valid as though had at a
+meeting duly held after regular call and notice, if a quorum be present either
+in person or by proxy, and if, either before or after the meeting, each of the
+shareholders entitled to vote, not present in person or by proxy, sign a
+written waiver of notice, a consent to the holding of such meeting, or an
+approval of the minutes thereof. All such waivers, consents, or approvals
+shall be filed with the corporate records or made apart of the minutes of the
+meeting.
+
+Section 9.  ACTION WITHOUT MEETING
+
+Any action, which under the provisions of Section 228 of the Delaware General
+Corporation Law may be taken at a meeting of the shareholders, may be taken
+without a meeting if authorized by a writing signed by the holders of
+outstanding shares having not less than the minimum number of votes that would
+be necessary to authorize or take such action at any meeting at which all
+shares entitled to vote thereon were present and voted, and filed with the
+Secretary of the Corporation.
+
+Section 10.   PROXIES
+
+Every person entitled to vote or execute consents shall have the right to do
+so either in person or by an agent or agents authorized by a written proxy
+executed by such person or his or her duly authorized agent and filed with the
+Secretary of the Corporation; provided, that no such proxy shall be valid
+after the expiration of eleven (11) months from the date of its execution,
+unless the shareholder executing it specifies therein the length of time for
+which such proxy is to continue in force, which in no case shall exceed seven
+(7) years from the date of its execution.
+
+                    ARTICLE III.   DIRECTORS
+
+Section 1.  POWERS
+
+Subject to limitations of the Articles of Incorporation, of the By-laws, and
+particularly Article II, Section 6 of these By-laws, and Section 141 of the
+Delaware General Corporation Law as to action to be authorized or approved by
+the shareholders, and subject to the duties of directors as prescribed by the
+By-laws, all corporate power shall be exercised by or under the authority of,
+and the business and affairs of the Corporation shall be controlled by, the
+Board of Directors. Without prejudice to such general powers, but subject to
+the same limitations, it is hereby expressly declared that the directors shall
+have the following powers, to-wit:
+
+First:   To select and remove all other officers, agent, and employees of the
+Corporation, prescribe such powers and duties for them as may not be
+inconsistent with law, the Articles of Incorporation or by By-laws, fix their
+compensation, and require from them security for faithful service.
+
+Second:   To conduct, manage, and control the affairs and business of the
+Corporation, and to make such rules and regulations therefore not inconsistent
+with law, the Articles of Incorporation or the By-laws, as they may deem best.
+
+Third:   To change the principal office for the transaction of the business of
+the Corporation from one location to another within the same county as
+provided in Article I, Section 1 hereof; to fix and locate from time to time,
+one or more branch or subsidiary offices of the Corporation within or without
+the State of Delaware as provided in Article I, Section 2 hereof; to designate
+any place within or without the State of Delaware for the holding of any
+shareholders' meetings; and to adopt, make, and use a corporate seal, and to
+prescribe the form of certificates of stock, and to alter the form of such
+seal and of such stock certificates from time to time, as in their judgment
+they may deem best; provided, such seal and such certificates shall at all
+times comply with the provisions of the law.
+
+Fourth:   To authorize the issuance of stock of the Corporation from time to
+time, upon such terms as may be lawful, in consideration of money paid, labor
+done, or services actually rendered, debts or securities canceled, or tangible
+or intangible property actually received, or in case of shares issued as a
+dividend, against amounts transferred from surplus to stated capital.
+
+Fifth:   To borrow money and incur indebtedness for the purposes of the
+Corporation and to cause to be executed and delivered therefore, in the
+corporate name, promissory notes, bonds, debentures, deeds of trust,
+mortgages, pledges, hypothecations, or other evidence of debt and securities
+therefore.
+
+Sixth:   To appoint an executive committee and other committees, and to
+delegate to the executive committee any of the powers and authority of the
+Board in the management of the business and affairs of the Corporation, except
+the power to declare dividends and to adopt, amend, or repeal By-laws. The
+executive committee shall be composed of two or more directors.
+
+Seventh:   To impose such restriction(s) on the transfer of the stock of the
+Corporation, specifically including by way of illustration only, and not of
+limitation, e.g., the requirement that such stock not be transferable on the
+books of the Corporation except with a simultaneous transfer of the stock of
+any other corporation(s), as is or may be permitted by law, and to remove any
+such restriction(s) thereon.
+
+Section 2.  NUMBER AND QUALIFICATIONS OF DIRECTORS
+
+   The authorized number of directors of the Corporation shall be a number
+between five (5) and nine (9) inclusive, as the Board of Directors from time
+to time by vote of a supermajority (a majority plus one) may set, until
+changed by amendment of the Articles of Incorporation or by a by-law amending
+this Section 2, Article III of these By-laws duly adopted by the vote or
+written assents of the shareholders entitled to exercise fifty-one percent
+(51%) of the voting power of the Corporation.     
+
+Section 3.  ELECTION AND TERM OF OFFICE
+
+The directors shall be elected at each annual meeting of the shareholders, but
+if any such annual meeting is not held, or the directors are not elected
+thereat, the directors may be elected at any special meeting of the
+shareholders held for that purpose. All directors shall hold office at the
+pleasure of the shareholders or until their respective successors are elected.
+The shareholders may at any time, either at a regular or special meeting,
+remove any director and elect his or her successor.
+
+NOMINATIONS OF DIRECTORS
+
+Only persons who are nominated in accordance with the following procedures
+shall be eligible for election as directors. Nominations of candidates for
+election as directors of the Corporation at any meeting of shareholders may be
+made (a) by, or at the direction of, a majority of the Board of Directors, or
+(b) by any shareholder of that class of stock entitled to vote for the
+election of directors of that class of stock. Only persons nominated in
+accordance with the procedures set forth in this section shall be eligible for
+election as directors. Such nomination, other than those made by, or at the
+direction of the board, shall be made pursuant to timely notice in writing to
+the Secretary of the Corporation. To be timely, a stockholder's notice shall
+be delivered to or mailed and received at the office of the Secretary of the
+Corporation not less than sixty (60) days prior to the first anniversary of
+the date of the last meeting of stockholders of the Corporation called for the
+election of directors. Such stockholder's notice to the Secretary shall set
+forth (a) as to each person whom the stockholder proposes to nominate for
+election or reelection as a director: (i) the name, age, business address, and
+residence address of the person; (ii) the principal occupation of the
+employment of the person; (iii) the class and number of shares of capital
+stock of the Corporation which are beneficially owned by the person; and (iv)
+any other information related to the person that is required to be disclosed
+in solicitations for proxies for elections of directors pursuant to Rule 14a
+under the Securities Exchange Act of 1934, as amended; and (b) as to the
+stockholder giving the notice: (i) the name and record address of the
+stockholder, and (ii) the class and number of shares of capital stock of the
+Corporation which are beneficially owned by the stockholder. The Corporation
+may require any proposed nominee to furnish such other information as may
+reasonably be required by the Corporation to determine the eligibility of such
+proposed nominee to serve as director of the Corporation. No person shall be
+eligible for election as a director of the Corporation unless nominated in
+accordance with the procedures set forth herein.
+
+The Chairman of the meeting shall, if the facts warrant, determine and declare
+to the meeting that a nomination was not made in accordance with the foregoing
+procedure, and if he should so determine, he shall so declare to the meeting
+that the defective nomination shall be disregarded.
+
+Section 4.  VACANCIES
+
+Vacancies in the Board of Directors may be filled by the remaining directors,
+though less than a quorum, or by a sole remaining director, and each director
+so elected shall hold office until his or her successor is elected at an
+annual or special meeting of the shareholders.
+
+A vacancy or vacancies in the Board of Directors shall be deemed to exist in
+case of the death, resignation, or removal of any director, or if the
+authorized number of directors be increased, or if the shareholders fail at
+any annual or special meeting of the shareholders at which any director or
+directors are elected, to elect the full authorized number of directors to be
+voted for at that meeting.
+
+The shareholders may elect a director of directors at any time to fill any
+vacancy or vacancies of a director tendered to take effect at a future time;
+the Board or the shareholders shall have the power to elect a successor to
+take office when the resignation is to become effective.
+
+No reduction of the authorized number of directors shall have the effect of
+removing any director prior to the expiration of his or her term of office.
+
+Section 5.  PLACE OF MEETING
+
+Regular meetings of the Board of Directors shall be held at any place within
+or without the State of Delaware which has been designated from time to time
+by resolution of the Board or by written consent of all members of the Board.
+In the absence of such designation, regular meetings shall be held at the
+principal office of the Corporation. Special meetings of the Board may be held
+either at a place so designated or at the principal office. 
+
+Section 6.  ORGANIZATION MEETING
+
+Immediately following each annual meeting of shareholders, the Board of
+Directors shall hold a regular meeting for the purpose of organization,
+election of officers, and the transaction of other business. Notice of such
+meetings is hereby dispensed with.
+
+Section 7.  OTHER REGULAR MEETINGS
+
+Other regular meetings of the Board of Directors shall be held on the third
+Friday of January, April, and July of each year at 9:00 o'clock a.m. thereof;
+provided, however, that should said day fall upon a legal holiday, then said
+meeting shall be held at the same time and place on the next day thereafter
+which is not a legal holiday. Notice of regular meetings of the Board of
+Directors is required and shall be given in the same manner as notice of
+special meetings of the Board of Directors.
+
+Section 8.  SPECIAL MEETINGS
+
+Special meetings of the board of Directors for any purpose or purposes may be
+called at any time by the President, by the Executive Committee, or by any
+three (3) members of the Board.
+
+Written notice of the time and place of special meetings shall be delivered
+personally to the directors or sent to each director by mail or other form or
+written communication, charges prepaid, addressed to him or her at his or her
+address as it is shown upon the records of the Corporation, or if it is not
+shown on such records or is not readily ascertainable, at the place in which
+the meetings of the directors are regularly held. In case such notice is
+mailed or telegraphed, it shall be deposited in the U.S. Mail or delivered to
+the telegraph company in the place in which the principal office of the
+Corporation is located at least one hundred twenty (120) hours prior to the
+time of holding of the meeting. In case such notice is delivered personally as
+above provided, it shall be so delivered at least forty eight (48) hours prior
+to the time of the holding of the meeting. Such mailing, telegraphing, or
+delivery as above provided, shall be due, timely, legal and personal notice to
+such director.
+
+NOTICE FOR A PARTICULAR SPECIFIED ACTION
+
+Notwithstanding the above requirements for regular or special meetings, the
+Chairman of the Board, the Chief Executive Officer, or any two directors may
+require at least thirty (30) calendar days notice of any action, by writing
+delivered to the Secretary of the Corporation, before or during any regular or
+special meeting, and if such notice is given, no vote or written consent may
+be taken upon such action until the passage of such time (at another special
+meeting or by written consent). Provided, however, if eighty percent (80%) of
+the directors agree to waive such notice, the meeting or vote of consent on
+such action shall proceed without the requirement for extended notice.
+
+Section 9.  NOTICE OF ADJOURNMENT
+
+Notice of the time and place of holding an adjourned meeting need not be given
+to absent directors if the time and place be fixed at the meeting adjourned.
+
+Section 10.  ENTRY OF NOTICE
+
+Whenever any director has been absent from any special meeting of the Board of
+Directors, any entry in the minutes as to the effect that notice has been duly
+given shall be sufficient evidence that due notice of such special meeting was
+given to such director, as required by law and the By-laws of the Corporation.
+
+Section 11.  WAIVER OF NOTICE
+
+The transactions of any meeting of the Board of Directors, however called and
+noticed or wherever held, shall be as valid as though had at a meeting duly
+held after regular call and notice, if a quorum be present, and if either
+before or after the meeting, each of the directors not present, signs a
+written waiver of notice or a consent to holding such meeting or an approval
+of the minutes thereof. All such waivers, consents, or approvals shall be
+filed with the corporate records or made a part of the minutes of the meeting.
+
+Section 12.  QUORUM  A majority of the authorized number of directors shall be
+necessary to constitute a quorum for the transaction of business, except to
+adjourn as hereinafter provided. With the exception of Section 4 of this
+Article, an action of the directors shall be regarded as the act of the Board
+of Directors only if a majority of the entire authorized number of directors
+shall vote affirmatively on such action.
+
+Section 13.  ADJOURNMENT
+
+A quorum of the directors may adjourn any directors' meeting to meet again at
+a stated time, place, and hour; provided, however, that in the absence of a
+quorum, the directors present at any directors' meeting, either regular or
+special, may adjourn from time to time, until the time fixed for the next
+regular meeting of the Board.
+
+Section 14.  ACTION WITHOUT MEETING
+
+Any action required or permitted to be taken by the Board of Directors under
+any provision of law or these By-laws may be taken without a meeting if all
+members shall individually or collectively consent in writing to such action.
+Such written consent or consents shall be filed with the minutes of the
+proceedings of the Board. Such action by written consent shall have the same
+force and effect as a unanimous vote of such directors, any certificate or
+other document filed under any provisions of the Delaware General Corporation
+Law which related to action so taken shall state that the action was taken by
+unanimous written consent of the Board of Directors without a meeting and that
+the By-laws authorize the directors to so act, and such statement shall be
+prima facie evidence of such authority.
+
+Section 15.  FEES AND COMPENSATION
+
+Directors shall not receive any stated salary for their services as directors,
+but, by resolution of the Board of Directors, a fixed fee, with or without
+expenses of attending, may be allowed for attendance at each meeting. Nothing
+herein contained shall be construed to preclude any director from serving the
+Corporation in any other capacity as an officer, agent, employee, or
+otherwise, and receiving compensation therefore.
+
+                      ARTICLE IV.   OFFICERS
+
+Section 1.  OFFICERS
+
+The officers of the Corporation shall be:
+
+1.     Chairman of the Board 
+2.     President
+3.     Vice President
+4.     Secretary
+5.     Treasurer
+
+The Corporation may also have, at the discretion of the Board of Directors,
+one or more additional vice presidents, one or more assistant secretaries, one
+or more assistant treasurers, and such other officers as may be appointed in
+accordance with the provisions of Section 3 of this Article. Officers other
+than the President and Chairman of the Board of Directors need not be
+directors. One person may hold two or more offices, except those of President
+and Secretary.
+
+Section 2.  ELECTIONS
+
+The officers of the Corporation, except such officers as may be appointed in
+accordance with the provisions of Sections 3 or 5 of this Article, shall be
+chosen annually by the Board of Directors, and each shall hold his or her
+office at the pleasure of the Board of Directors, who may, either at a regular
+or special meeting, remove any such officers and appoint his or her successor.
+
+Section 3.  SUBORDINATE OFFICERS, ETC
+
+The Board of Directors may appoint such other officers as the business of the
+Corporation may require, each of whom shall hold office for such period, have
+such authority, and perform such duties as are provided in the By-laws or as
+the Board of Directors may from time to time determine.
+
+Section 4.  REMOVAL AND RESIGNATION
+
+Any officer may be removed, either with or without cause, by a majority of the
+directors at the time in office, at a regular or special meeting of the Board,
+or, except in the case of an officer chosen by the Board of Directors, by any
+officer upon whom such power of removal may be conferred by the Board of
+Directors.
+
+Any officer may resign at any time by giving written notice to the Board of
+Directors or to the President, or to the Secretary of the Corporation. Any
+such resignation shall take effect at the date of the receipt of such notice
+or at any later time specified therein; and unless otherwise specified
+therein, the acceptance of such resignation shall not be necessary to make it
+effective.
+
+Section 5.  VACANCIES
+
+A vacancy in any office because of death, resignation, removal,
+disqualification, or any other cause shall be filled in the manner prescribed
+in the By-laws for regular appointments to such office.
+
+Section 6.  CHAIRMAN OF THE BOARD
+
+The Chairman of the Board, if there shall be such an officer, shall, if
+present, preside at all meetings of the Board of Directors, and exercise and
+perform such other powers and duties as may be from time to time assigned to
+him or her by the Board of Directors as prescribed by the By-laws.
+
+Section 7.  PRESIDENT
+
+Subject to such supervisory powers, if any, as may be given by the Board of
+Directors to the Chairman of the Board, if there be such an officer, the
+President shall be the Chief Executive Officer of the Corporation and shall,
+subject to the control of the Board of Directors, have general supervision,
+direction, and control of the business and affairs of the Corporation. He
+shall preside at all meetings of the shareholders, and in the absence of the
+Chairman of the Board, or if there be none, at all meetings of the Board of
+Directors. He shall be ex-officio a member of all the standing committees,
+including the Executive Committee, if any, and shall have the general powers
+and duties of management usually vested in the office of president of a
+Corporation, and shall have such other powers and duties as may be prescribed
+by the Board of Directors or by the By-laws.
+
+Section 8.  VICE PRESIDENT
+
+In the absence or disability of the President, the Chairman of the Board or in
+the event of his absence or disability, the Vice Presidents in order of their
+rank as fixed by the Board of Directors, or if not ranked, the Vice President
+designated by the Board of Directors, shall perform all the duties of the
+President, and when so acting shall have all the powers of, and be subject to
+all restrictions upon, the President. Absence and disability are defined as
+follows: absence is physical absence from the Corporation's principal place of
+business and unreachable by telephone for a period of forty-eight (48) hours.
+Disability is the inability of the President to perform his duties on an
+ongoing basis.
+
+The Senior Vice President and each other Vice President shall have such other
+powers and perform such duties as are authorized by the laws of Delaware and
+as are delegated to them respectively from time to time by the board of
+Directors or the By-laws.
+
+Section 9.  SECRETARY
+
+The Secretary shall keep, or cause to be kept, a book of minutes at the
+principal office or such other place as the Board of Directors may order, of
+all meetings of directors and shareholders, with the time and place of
+holding, whether regular or special, and if special, how authorized, the
+notice thereof given, the names of those directors and shareholders present,
+the names of those present at the directors' meeting, the number of shares
+present or represented at shareholders' meetings, and the proceedings thereof.
+
+The Secretary shall keep or cause to be kept, at the principal office or at
+the office of the Corporation's transfer agent, a share register or a
+duplicate share register showing the names of the shareholders and their
+addresses; the number and classes of shares held by each; the number and the
+date of certificates issued for the same; and the number and date of
+cancellation of every certificate surrendered for cancellation.
+
+The Secretary shall give or cause to be given, notice of all meetings of
+shareholders and the Board of Directors, as required by the By-laws or by law
+to be given, and he or she shall keep the seal of the Corporation in safe
+custody, and shall have such other powers and perform such other duties as may
+be prescribed by the Board of Directors or the By-laws.
+
+Section 10.   TREASURER
+
+The Treasurer shall keep and maintain, or cause to be kept and maintained,
+adequate and correct accounts of the properties and business transactions of
+the Corporation, including accounts of its assets, liabilities, receipts,
+disbursements, gains, losses, capital surplus, and surplus shares. Any
+surplus, including earned surplus, paid-in surplus, and surplus arising from a
+reduction of stated capital, shall be classified according to source and shown
+in a separate account. The books of account shall at all times be open for
+inspection by any director.
+
+The Treasurer shall deposit all monies and other valuables in the name and to
+the credit of the Corporation with such depositories as may be designated by
+the Board of Directors. He or she shall disburse the funds of the Corporation
+as may be ordered by the Board of Directors and shall render to the President
+and directors, when they request it, an account of all of his or her
+transactions as Treasurer and of the financial condition of the Corporation,
+and shall have such other powers and perform such other duties as may be
+prescribed by the Board of Directors or the By-laws.
+
+                   ARTICLE V.  MISCELLANEOUS
+
+Section 1.   RECORD DATE AND CLOSING STOCK BOOKS
+
+A.    Fixed Date
+
+The Board of Directors may fix a time, in the future, not less than twenty
+(20) nor more than sixty (60) days preceding the date of any meeting of
+shareholders, and not more than sixty (60) days preceding the date fixed for
+the payment of any dividend or distribution, or for the allotment of rights,
+or when any change, conversion, or exchange of shares shall go into effect, as
+a record date for the determination of the shareholders entitled to notice of
+and to vote at any such meeting, or entitled to receive any such dividend or
+distribution, or any such allotment of rights, or to exercise the rights in
+respect to any such change, conversion, or exchange of shares, and in such
+case only shareholders of record on the date so fixed shall be entitled to
+notice of and to vote at such meeting, or to receive such rights, as the case
+may be, notwithstanding any transfer of any shares on the books of the
+Corporation after any record date fixed as aforesaid. The Board of Directors
+may close the books of the Corporation against transfer of shares during the
+whole, or any part of any such period.
+
+B.     No Fixed Date
+
+As an alternative to an action taken under Subsection A of this Section 1 of
+Article V, if no record date has been or is fixed for the purpose of
+determining shareholders entitled to receive payment of any dividend, the
+record date for such purpose shall be at the close of business of the date on
+which the Board of Directors adopts the resolution relating thereto.
+
+Section 2.  INSPECTION OF CORPORATE RECORDS
+
+The share register or duplicate share register, the books of account, and
+minutes of proceedings of the shareholders and directors shall be open to
+inspection upon the written demand of any shareholder or the holder of a
+voting trust certificate, at any reasonable time, and for a purpose reasonably
+related to his or her interests as a shareholder, and shall be exhibited at
+any time when required by the demand of ten percent (10%) of the shares
+represented at any shareholders' meeting. Such inspection may be made in
+person or by an agent or attorney, and shall include the right to make
+extracts. Demand of inspection other than at a shareholders' meeting shall be
+made in writing upon the President, Secretary, or Assistant Secretary of the
+Corporation.
+
+Section 3.  CHECKS, DRAFTS, ETC.
+
+All checks, drafts, or other orders for payment of money, notes, or other
+evidence of indebtedness issued in the name of or payable to the Corporation,
+shall be signed or endorsed by such person or persons and in such manner as,
+from time to time, shall be determined by resolution of the Board of
+Directors.
+
+Section 4.  CONTRACTS, ETC.:  HOW EXECUTED
+
+The Board of Directors, except as the By-laws or Articles of Incorporation
+otherwise provide, may authorize any officer or officers, agent or agents, to
+enter into any contract or execute any instrument in the name of and on behalf
+of the Corporation, and such authority may be general or confined to specific
+instances; and unless so authorized by the Board of Directors, no officer,
+agent, or employee shall have any power or authority to bind the Corporation
+by any contract or agreement or to pledge its credit to render it liable for
+any purpose or to any amount.
+
+Section 5.  ANNUAL REPORTS
+
+The Board of Directors shall cause an annual report or statement to be sent to
+the shareholders of this Corporation not later than one hundred and twenty
+(120) days after the close of the fiscal or calendar year.
+
+Section 6.  CERTIFICATES OF STOCK
+
+A certificate or certificates for shares of the capital stock of the
+Corporation shall be issued to each shareholder when any such shares are fully
+paid up. All such certificates shall be signed by the President or a Vice
+President and the Secretary or an Assistant Secretary. Such certificates may
+be paired with, deemed to represent, and subjected to restrictions on transfer
+without simultaneous transfer of, certificates for:  (a) shares of stock of
+any other corporation(s), (b) beneficial interests in such shares, (c)
+interests in voting trust(s), or (d) other kinds of interests in any other
+kind of entity.
+
+Certificates for shares may be issued prior to full payment thereof, under
+such restrictions and for such purposes as the Board of Directors or the
+By-laws may provide; provided, however, that any such certificate so issued
+prior to full payment shall state the amount remaining unpaid and the terms of
+payment thereof.
+
+Section 7.  REPRESENTATION OF SHARES OF OTHER CORPORATIONS
+
+The President or any Vice President and the Secretary or Assistant Secretary
+of this Corporation are authorized to vote, represent, and exercise on behalf
+of this Corporation all rights incident to any and all shares of any other
+corporation or corporations standing in the name of this Corporation. The
+authority herein granted to said officers to vote or represent on behalf of
+this Corporation any and all shares held by this Corporation or corporations,
+may be exercised either by such officers in person or by any person authorized
+to do so by proxy or power of attorney.
+
+Section 8.  INSPECTION OF BY-LAWS
+
+The Corporation shall keep in its principal office for the transaction of
+business the original or a copy of the By-laws as amended or otherwise altered
+to date, certified by the Secretary, which shall be open to inspection by the
+shareholders at all reasonable times during business hours.
+
+Section 9.  INDEMNIFICATION OF DIRECTORS AND OFFICERS
+
+Every person who was or is a party or is threatened to be made a party to or
+is involved in any action, suit, or proceeding, whether civil, criminal,
+administrative, or investigative, by reason of the fact that he or a person of
+whom he is the legal representative is or was a director or officer of the
+Corporation or is or was serving at the request of the Corporation as a
+director or officer of another corporation, shall be indemnified and held
+harmless to the fullest extent legally permissible under the General
+Corporation Law of the state of Delaware from time to time against all
+expense, liability, and loss (including attorneys' fees, judgments, fines,
+and, if approved by the Board of Directors, amounts paid or to be paid in
+settlement) reasonably incurred or suffered by him in connection therewith.
+
+If authorized by the Board of Directors, expenses incurred in connection with
+the defense of any civil or criminal action, suit, or proceeding may be paid
+by the Corporation in advance of the disposition of the action, suit, or
+proceeding, upon receipt of an undertaking by or on behalf of the director or
+officer to repay such amounts if it shall be ultimately determined that he is
+not entitled to be indemnified by the Corporation.
+
+The foregoing right of indemnification shall be in addition to, and not
+exclusive of, all other rights to which such director or officer may be
+entitled. Payments pursuant to the Corporation's indemnification of any person
+hereunder shall be reduced by any amounts such person may collect as
+indemnification under any policy of insurance purchased and maintained on his
+behalf by this or any other Corporation.
+
+                     ARTICLE VI.  AMENDMENTS
+
+Section 1.  POWER OF SHAREHOLDERS
+
+New By-laws may be adopted or these By-laws may be amended or repealed by the
+vote of shareholders entitled to exercise fifty-one percent (51%) of the
+voting power of the Corporation or by the written assent of such shareholders.
+
+Section 2.  POWERS OF DIRECTORS
+
+Subject to the right of shareholders as provided in Section 1 of this Article
+VI to adopt, amend, or repeal By-laws, By-laws other than a By-law or
+amendment thereof changing the authorized number of directors may be adopted,
+amended, or repealed by the Board of Directors.
+
+                       ARTICLE VII.   SEAL
+
+The Corporation shall have a common seal, and shall have inscribed thereon the
+name of the Corporation, the year of its incorporation, and the word Delaware. 
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>3
+<TEXT>
+
+                                                       EXHIBIT 11
+
+
+              CACI INTERNATIONAL INC AND SUBSIDIARIES
+                COMPUTATION OF EARNINGS PER COMMON 
+                   AND COMMON EQUIVALENT SHARE
+
+<TABLE>
+<CAPTION>
+
+                                     Year Ended June 30
+                          --------------------------------------
+                              1994          1993         1992
+                          -----------   -----------  -----------
+<S>                       <C>           <C>          <C>
+Net Income before
+ extraordinary item       $ 6,336,000   $ 2,980,000  $ 4,210,000
+
+Extraordinary item           (300,000)            0            0
+                           ----------    ----------   ----------
+Net income                $ 6,036,000   $ 2,980,000  $ 4,210,000
+                           ==========    ==========   ==========
+
+Average shares
+ outstanding
+ during the period         10,098,000    10,004,000   10,242,000
+
+Dilutive effect of
+ stock options after
+ application of
+ treasury stock
+ method                       517,000       357,000        2,000
+                            ----------   ----------   ----------
+
+Average number of shares
+ and equivalent shares
+ outstanding during
+ the period                10,615,000    10,361,000   10,604,000
+                           ----------    ----------   ----------
+
+Earnings per common
+ and common equivalent
+ share
+
+  Before extraordinary
+   item                      $   0.60      $   0.29     $   0.40
+
+  Extraordinary item         $  (0.03)     $   0.00     $   0.00
+
+  Net income                 $  0 .57      $   0.29     $   0.40
+                              =======       =======      =======
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<TEXT>
+
+                                                                EXHIBIT 21
+
+
+
+              SIGNIFICANT SUBSIDIARIES OF THE REGISTRANT
+           (as defined in Section 1-02(v) of Regulation S-X)
+
+
+
+
+          CACI, Inc., a Delaware Corporation
+
+          CACI, INC.-FEDERAL, a Delaware Corporation
+
+          CACI, INC.-COMMERCIAL, a Delaware Corporation
+
+          CACI Products Company, a Delaware Corporation
+
+          American Legal Services Corp., a Delaware Corporation
+
+          CACI Field Services, Inc., a Delaware Corporation
+
+          CACI N.V., a Netherlands Corporation
+
+          CACI Limited, a U.K. Corporation
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM FORM
+10-K FOR FY94 AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH
+FINANCIAL STATEMENTS
+</LEGEND>
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1994
+<PERIOD-END>                               JUN-30-1994
+<CASH>                                         941,000
+<SECURITIES>                                         0
+<RECEIVABLES>                               37,332,000
+<ALLOWANCES>                               (1,664,000)
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                            56,096,000
+<PP&E>                                      20,124,000
+<DEPRECIATION>                            (12,369,000)
+<TOTAL-ASSETS>                              70,999,000
+<CURRENT-LIABILITIES>                       30,769,000
+<BONDS>                                              0
+<COMMON>                                     1,349,000
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                  36,389,000
+<TOTAL-LIABILITY-AND-EQUITY>                70,999,000
+<SALES>                                              0
+<TOTAL-REVENUES>                           183,700,000
+<CGS>                                                0
+<TOTAL-COSTS>                               97,584,000
+<OTHER-EXPENSES>                            70,832,000
+<LOSS-PROVISION>                               294,000
+<INTEREST-EXPENSE>                           4,761,000
+<INCOME-PRETAX>                             10,229,000
+<INCOME-TAX>                                 3,893,000
+<INCOME-CONTINUING>                          6,336,000
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                              (300,000)<F1>
+<CHANGES>                                            0
+<NET-INCOME>                                 6,036,000
+<EPS-PRIMARY>                                     0.57
+<EPS-DILUTED>                                     0.57
+<FN>
+<F1>Net of $194,000 tax benefit
+</FN>
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

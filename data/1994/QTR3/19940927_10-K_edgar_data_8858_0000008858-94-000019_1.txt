@@ -1,0 +1,2820 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ NtbXqW6zBnw8wUJH4z7l57Vtca/e4unYY8EVWmfq5+CT5EUoWZ2CFNA87fJuvXYK
+ YNfqSGG5GuKS7HDD2GKyng==
+
+<IMS-DOCUMENT>0000008858-94-000019.txt : 19940928
+<IMS-HEADER>0000008858-94-000019.hdr.sgml : 19940928
+ACCESSION NUMBER:		0000008858-94-000019
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19940701
+FILED AS OF DATE:		19940927
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AVNET INC
+		CENTRAL INDEX KEY:			0000008858
+		STANDARD INDUSTRIAL CLASSIFICATION:	5065
+		IRS NUMBER:				111890605
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04224
+		FILM NUMBER:		94550366
+
+	BUSINESS ADDRESS:	
+		STREET 1:		80 CUTTER MILL RD - 5TH FL
+		CITY:			GREAT NECK
+		STATE:			NY
+		ZIP:			11021
+		BUSINESS PHONE:		5164667000
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+
+
+               SECURITIES AND EXCHANGE COMMISSION 
+                  Washington, D.C.  20549     
+
+                            FORM 10-K
+
+[X]  Annual Report Pursuant to Section 13 or 15(d) of the
+     Securities Exchange Act of 1934 (Fee required)
+
+For the fiscal year ended July 1, 1994  or
+
+[ ]  Transition Report pursuant to Section 13 or 15(d) of the
+     Securities Exchange Act of 1934 (No fee required)
+
+For the transition period from              to                    
+
+Commission file number  1-4224
+
+                             AVNET, INC.                          
+     (Exact name of registrant as specified in its charter)
+
+        New York                                   11-1890605     
+(State or other jurisdiction of              (I.R.S. Employer 
+incorporation or organization)               Identification No.)
+
+80 Cutter Mill Road, Great Neck, New York                 11021   
+(Address of principal executive offices)                (Zip Code)
+
+Registrant's telephone number, including area code (516) 466-7000
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class      Name of each exchange on which registered
+Common Stock                    New York Stock Exchange and
+                                Pacific Stock Exchange
+6% Convertible Subordinated 
+Debentures Due 2012             New York Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act:
+                                None                              
+                        (Title of Class)
+        
+     Indicate by check mark whether the registrant (1) has filed
+all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file
+such reports), and (2) has been subject to such filing requirements
+for the past 90 days.
+                          Yes /  x  /  No /____/
+
+     Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 405 of Regulation S-K is not contained herein and
+will not be contained, to the best of the registrant's knowledge,
+in definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+The aggregate market value (approximate) at September 16, 1994 of
+the registrant's voting stock held by non-
+affiliates........$1,515,251,365.
+                          
+The number of shares of the registrant's Common Stock (net of
+treasury shares) outstanding at September 16, 1994....40,677,889
+shares.
+
+
+
+
+               DOCUMENTS INCORPORATED BY REFERENCE
+               ___________________________________
+
+Certain portions of the Registrant's definitive proxy statement (to
+be filed pursuant to Reg. 14A) relating to the Annual Meeting of
+Shareholders anticipated to be held November 16, 1994 are
+incorporated herein by reference in Part III of this Report.
+<PAGE>
+                             PART I
+
+ITEM 1.  Business
+
+     Avnet, Inc., incorporated in New York in 1955, together with
+its subsidiaries (the "Company" or "Avnet"), is the nation's
+largest distributor of electronic components and computer products
+for industrial and military customers.  Electronic component
+distributors are a vital link in the chain that connects suppliers
+of semiconductors, interconnect products, passives and
+electromechanical devices to original equipment manufacturers
+(OEMs) who design and build the complete spectrum of electronic
+equipment that utilizes the components. Avnet's primary customers
+are original equipment manufacturers (OEMs), including military
+contractors and the military.  Components are shipped either as
+received from its suppliers or with assembly or other value added. 
+Avnet adds value to the components which it sells by customizing
+them prior to shipment to meet individual OEM customer
+specifications.  Avnet also produces or distributes other
+electronic, electrical and video communications products.  
+
+     On July 1, 1993 Avnet acquired Hall-Mark Electronics
+Corporation ("Hall-Mark") which, together with its subsidiary
+Allied Electronics, Inc., was the third largest electronic
+components distributor in North America.  In Avnet's fiscal 1993
+period Hall-Mark posted $744 million in sales.  The acquisition
+added about 25,000 customers and additional distribution franchises
+to Avnet's Electronic Marketing Group.  Except where noted, Hall-
+Mark's results are not included in any disclosures related to
+fiscal years prior to 1994.
+
+The industry segments in which Avnet operates are as follows:
+
+     1.   The Electronic Marketing Group is engaged in the
+marketing, assembly, and/or processing principally for industrial,
+commercial and military use, of electronic and electromechanical
+components and computer products.
+
+     2.   The Video Communications Group is engaged in the
+manufacture, assembly and/or marketing of TV signal processing
+equipment.  The Group's Channel Master division is a leading
+manufacturer of TV roof antenna and satellite receive-only
+antennas.
+
+     3.   The Electrical and Industrial Group is engaged in the
+distribution of electrical motors and parts, industrial supplies,
+maintenance and repair parts and measuring and control devices, and
+the production of trophy component parts. 
+
+     The sales, operating profit and identifiable assets of each of
+the three industry segments shown above, prepared in accordance
+with Financial Accounting Standards Board Statement No. 14, are
+shown in Note 13 to the Company's consolidated financial
+statements, which appears in Item 14 of this Report.
+
+     The following tables set forth, for each of Avnet's three
+fiscal years ended July 1, 1994, June 30, 1993 and June 30, 1992,
+the approximate amount of sales and net income of Avnet which is
+attributable to each industry segment (after allocation of
+Corporate results) shown above:
+
+
+                              SALES
+                    (in millions of dollars)
+
+                                        FISCAL YEARS ENDED
+
+                                  July 1,    June 30,    June 30,
+                                   1994        1993        1992  
+
+Electronic Marketing             $3,161.5    $1,917.3    $1,473.5
+Video Communications                199.4       134.0       104.9
+Electrical and Industrial           186.8       186.7       180.6
+
+                                 $3,547.7    $2,238.0    $1,759.0
+
+
+                           NET INCOME
+                    (in millions of dollars)
+
+                                        FISCAL YEARS ENDED
+
+                                 *July 1,    June 30,    June 30,
+                                   1994        1993        1992  
+
+Electronic Marketing                 94.6       $67.0       $47.3
+Video Communications                  6.1         1.8         1.8
+Electrical and Industrial             1.4          .3         1.4
+
+                                   $102.1       $69.1       $50.5
+
+
+* The 1994 net income shown above for the Electronic Marketing and
+  the Electrical and Industrial Groups are before special charges
+  of $12.3 million and $1.7 million after tax, respectively, for
+  restructuring and integration costs and the impact of the
+  retroactive change in U.S. federal income tax rates.  The
+  consolidated net income shown above for 1994 also does not
+  include the $2.8 million after-tax charge for the cumulative
+  effect of the change in method of accounting for income taxes.
+
+          In fiscal 1994, Avnet recorded a special charge of  $22.7
+million ($13.5 million after-tax) primarily for restructuring and
+integration costs associated with the acquisition of Hall-Mark.  As
+is typical in an acquisition of this type there were many duplicate
+costs present at the acquisition date.  The duplicate costs
+included in Avnet's special 1994 charge relate to excess personnel
+performing essentially the same functions, multiple sales offices
+in close proximity to one another that have been or will be
+vacated, excess warehouse and administrative office capacity,
+excess furniture, fixtures, machinery and equipment, redundant
+computer hardware and software and other items.  In addition, there
+were many  Avnet and Hall-Mark  vendors which supplied
+substantially the same products resulting in additional costs of
+inventorying duplicate parts.  As a result, the Company found it
+necessary to terminate a number of supplier relationships even
+though this caused the value of certain inventory to be non-
+realizable in the ordinary course of business.  In eliminating some
+of these duplicate costs, and in order to most effectively adopt
+and assimilate the two companies' best operating and administrative
+practices, a number of employee terminations and relocations were
+also required.  Accordingly, the special charge recorded by the
+Company included accruals for severance, real and personal property
+lease terminations, relocation of employees, inventory adjustments
+related to supplier terminations and other items.
+
+Electronic Marketing Group
+
+          The Electronic Marketing Group continues to be the
+dominant group in Avnet, accounting for 89% of Avnet's sales and
+93% of its earnings, before the impact of special charges described
+above, in fiscal 1994.
+
+          Hamilton Hallmark, Avnet Computer Marketing Group and
+Time Electronics are the dominant operations in the Group,
+accounting for 83% of the Group's 1994 sales.  The remaining 17% of
+sales was accounted for by Allied Electronics and by Avnet Europe
+consisting of Avnet Access, Avnet Time UK,  Avnet Composants, 
+Avnet Time France, Avnet Nortec, Avnet E2000, Avnet Time Germany, 
+Avnet Adelsy and Avnet DeMico.  Avnet  Adelsy and Avnet DeMico, two
+Italian electronic components distributors with estimated aggregate
+annual sales of about $50 million, were acquired in 1994.  
+
+          As of July 1, 1994 the Group had about 189 locations in
+the United States, Canada and Europe, many of which contain sales,
+warehousing and administrative functions for multiple business
+units.  In addition, the Group has a small number of stores in
+customers' facilities.
+
+          Hamilton Hallmark is a distributor of semiconductors,
+computer products, connectors, passives and electromechanical
+products for industrial, commercial and military use.  It is
+franchised by the top five United States semiconductor
+manufacturers:  Advanced Micro Devices, Intel, Motorola, National
+Semiconductor and Texas Instruments. Hamilton Hallmark's customers
+are principally computer, telecommunications and aerospace original
+equipment manufacturers (OEMs).  The percentage of total revenue
+contributed by each product line appears on page 19 of this Report. 
+Hamilton Hallmark's sales for fiscal 1994 totaled $1.822 billion,
+accounting for 58% of Electronic Marketing Group sales.  The
+following are its principal suppliers.
+
+     1.   Semiconductors:  Advanced Micro Devices, Analog Devices,
+          Harris, Hewlett-Packard, Integrated Device Technology,
+          Intel, LSI Logic, Motorola, Micron Semiconductor,
+          National Semiconductor, Philips/Signetics, Texas
+          Instruments and Xilinx.
+
+     2.   Computer Products:  Adaptec, Connor Peripherals, Intel,
+          Maxtor, Seagate and SyQuest. 
+
+     3.   Connectors:  AMP, Amphenol/Bendix, Augat, Bendix,
+          Dale/Vishay, Matrix, Molex, Spectra Strip, and 3M.
+
+     4.   Passives and Electromechanical Devices:  Bourns, 
+          Dale/Vishay, Globe, Kyocera/AVX, Hewlett-Packard,
+          Philips and Vishay/Sprague.  
+
+          Avnet Computer Marketing is an international distributor
+of computer products.  As a result of the acquisition of Hall-Mark
+Electronics, two independent business units, Avnet Computer and
+Hall-Mark Computer Products, now operate together as the Avnet
+Computer Marketing Group.  Avnet Computer sells computer systems
+and products primarily to end users.  Hall-Mark Computer Products
+concentrates on sales of peripherals and components to the reseller
+channel.  Avnet Computer Marketing Group's sales for fiscal 1994
+totaled $498 million, accounting for 16% of Electronic Marketing
+Group sales.  The following are Avnet Computer Marketing Group's
+principal suppliers:
+
+           Apple, AT&T(NCR), Data General, Diamond Flower, Digital
+     Equipment, Exabyte, Hewlett-Packard, IBM(OBI), Intel, Kodak,
+     Maxtor, Micropolis, Motorola UDS, Multitech, Okidata, Seagate
+     Technology, Standard Microsystems, Tecmar, Texas Instruments,
+     3COM, UNISYS and Wyse Technology.
+
+          Time Electronics is the world's leading distributor of
+interconnect products including value-added connectors, electro-
+mechanical and passive components and cable assembly services. 
+Time also distributes semiconductors.  Time's customers are
+principally industrial and military/aerospace original equipment
+manufacturers (OEMs).  It accounted for 9% of the Electronic
+Marketing Group's sales in fiscal 1994.  The following are Time's
+principal suppliers:
+
+     1.   Connectors:  AMP, Augat, ELCO, G&H Technology, ITT
+          Cannon, Kings, Matrix Science, Molex, Pyle-National,
+          Robinson Nugent, 3M and T&B Ansley.
+
+     2.   Passives and Electromechanical Devices: AVX, Bourns,
+          Cherry, Communications Instruments, CTS, Cutler-Hammer, 
+          Globe, Grayhill, Leach, Murata-Erie, NDK America,
+          Nichicon, Philips, Teledyne, Valor and Vishay.
+
+     3.   Semiconductors:  Atmel, Mitel, Mosel-Vitelic, Motorola,
+          National Semiconductor, Powerex and Wafer-Scale, WSI or
+          wafer.
+
+          Allied Electronics, Inc. is a broad line industrial
+distributor of active and passive electronic components, test
+equipment and electronic equipment which it sells by means of its 
+catalog and telesales operations.  Allied's principal customers are
+maintenance and repair organizations (MRO) as well as  research and
+development and engineering departments of original equipment
+manufacturers (OEMs).  Allied's fiscal 1994 sales represented 2% of
+Electronic Marketing Group sales.
+
+          The Electronic Marketing Group's activities in Europe are
+conducted by Avnet EMG Europe, with operations in all five major
+European geographic markets.  Avnet created its European operations
+through a series of acquisitions beginning in June 1991 with Avnet
+Access (formerly known as The Access Group), a United Kingdom
+electronics distributor based in Letchworth, England.  In April
+1992, the Company acquired Avnet Composants (formerly known as
+FHTec Composants), a French electronics distributor based in
+Chatillon, France.  In July 1992, the Company acquired Avnet Nortec
+(formerly known as The Nortec Group), the leading Scandinavian
+electronics distributor with operations in Sweden, Norway, Denmark,
+Finland and Estonia.  In January 1993, the Company acquired Avnet
+E2000 (formerly known as Electronic 2000 AG) a leading German
+electronics distributor with operations in Germany, Austria and
+Switzerland.  In September 1993, the Company acquired Avnet Adelsy
+(formerly known as The Adelsy division of General Music S.p.A.) an
+Italian electronics distributor based in Milan, Italy and in March
+1994, the Company acquired Avnet DeMico (formerly known as DeMico
+S.p.A.) another Italian electronics distributor based in Milan,
+Italy. In addition to the acquisitions described above, the Company
+has created Avnet Time operations in certain locations which
+specialize in interconnect products including value-added
+connectors, electromechanical and passive components and cable
+assembly services.  There are currently Avnet Time locations in the
+U.K., France and Germany. Avnet Europe's sales for 1994 accounted
+for 15% of Electronic Marketing Group sales.
+
+          Avnet Access concentrates on the sale of semiconductors,
+and its principal suppliers are as follows:  
+
+     Advanced Micro Devices, Analog Devices, Harris, Hewlett-
+     Packard, Integrated Device Technology, Intel, Motorola,
+     National Semiconductor, Philips, SGS Thompson, Texas
+     Instruments, Toshiba and Xilinx.
+
+          In September 1992, Avnet Time commenced operations in the
+United Kingdom as a distributor of connectors and passives and
+electromechanical devices with the following principal suppliers:
+
+     1.   Connectors:  AMP, Amphenol, Augat, ITT Cannon, Molex,
+          Thomas & Betts and 3M.
+
+     2.   Passives and Electromechanical Devices: AVX, Bourns, 
+          Murata, Philips, Schaffner and Vishay.
+
+          The following are the principal product lines and
+principal suppliers of Avnet Composants and its Avnet Time unit:
+
+
+     1.   Semiconductors:  Advanced Micro Devices, Analog Devices,
+          Dallas, Harris, Hewlett-Packard, Integrated Device
+          Technology, Intel, Motorola, National Semiconductor,
+          Philips, Texas Instruments, Toshiba, SGS Thompson and
+          Xilinx.
+
+     2.   Connectors:  AMP, Amphenol, Augat, Berg, Molex, Panduit,
+          Spectrum Control and 3M.
+
+     3.   Passives and Electromechanical Devices:  AVX, Bourns,
+          Grayhill, Hewlett-Packard, IEE, Kinseki, Optek, Optrex,
+          Philips, Quality Technology, Thermalloy and Toshiba.
+
+          Avnet Nortec's principal product lines and principal
+suppliers are:
+
+     1.   Semiconductors:  Advanced Micro Devices, Fujitsu,
+          Hewlett-Packard, Integrated Device Technology, Intel,
+          Motorola, National Semiconductor , Texas Instruments and
+          Quality Technology.
+
+     2.   Computer Products:  Intel and Motorola.
+
+     3.   Passives and Electromechanical Devices:  Optrex and
+          Schaffner.
+
+          The following are the principal product lines and
+principal suppliers of Avnet E2000 and its Avnet Time unit:
+
+     1.   Semiconductors: Altera, Advanced Micro Devices,
+          Integrated Device Technology, Intel, Lattice, Motorola,
+          National Semiconductor, Philips, Siemens, Texas
+          Instruments and Xilinx.
+
+     2.   Connectors:  Augat, ITT Cannon and Molex.
+
+     3.   Passives and Electromechanical devices:  AVX, Bourns and
+          Philips.
+
+          Avnet Adelsy and Avnet DeMico's principal product lines
+and principal suppliers are:
+
+     1.   Semiconductors:  Advanced Micro Devices, Analog Devices,
+          Hewlett-Packard, Integrated Device Technology, Intel,
+          Lattice, Motorola, National Semiconductor, Philips,
+          Texas Instruments, Toshiba and Xicor.
+
+     2.   Computer Products:  Analog Devices, Digital, Standard
+          Microsystems.
+
+          Subsequent to the end of fiscal 1994, Avnet acquired Pen-
+Stock, Inc. ("Penstock"), a California-based communications
+products specialist which distributes and adds value to radio
+frequency/microwave components and devices.  For its latest fiscal
+year ended March 31, 1994, Penstock had sales of $45 million, up
+from $34 million in the prior year.
+
+          Most of the Electronic Marketing Group's product lines
+are covered by nonexclusive distributor agreements with suppliers,
+cancelable upon 30 to 180 days notice.  Most of these agreements
+provide for the periodic return to the supplier of obsolete
+inventory and the return of all standard inventory upon termination
+of the contract.
+
+          All the items sold by the Group are in highly competitive
+fields.  With regard to many of its product lines, the Group may be
+in competition not only with other distributors but also with its
+own sources of supply.  Central to the business of Avnet and the
+distribution industry as a whole is the carrying of a significant
+amount of inventory to meet rapid delivery requirements of
+customers.  Avnet enhances its competitive situation by offering a
+variety of value added services in which it performs services
+and/or processes tailored to individual customer specifications and
+business needs such as point of use replenishment, testing,
+assembly and material management.
+
+Video Communications Group
+
+          The Video Communications Group, which consists of the
+Channel Master companies located in the U.S. and the United
+Kingdom,  principally designs, develops and manufactures TV signal
+processing equipment.  Its sales in 1994 were $199.4 million or
+approximately 6% of Avnet's consolidated revenues.
+
+          Channel Master is primarily a manufacturer/distributor
+of TV antennas, TV rotators and home satellite TV signal receiving
+and descrambling systems.  Its products are used by home TV viewers
+and the SMATV (Satellite Master Antenna TV) and CATV (Community
+Antenna TV -- also known as cable TV) industries.  Channel Master
+produces antennas for DBS (Direct Broadcast Satellite) projects
+worldwide.  Channel Master also operates a small cable TV system in
+and around Johnston County, North Carolina.  Channel Master has two
+principal manufacturing facilities, one each in the U.S. and
+England.  Channel Master's Canadian operation was closed in fiscal
+1993.
+
+          Over the 1990 through 1993 fiscal-year period, Avnet
+closed down its audio equipment and satellite receiver
+manufacturing businesses in the Far East. However, Channel Master
+continues to manufacture certain proprietary TV signal amplifying
+and electronic equipment in Taiwan.
+
+          The required materials used in manufacturing Channel
+Masters' products are purchased from many suppliers (except for TV
+rotators, which are purchased from a single supply source). 
+Channel Master has no long-term supply contracts.
+
+     All the items sold by Channel Master are in highly competitive
+fields.
+
+Electrical and Industrial Group
+
+     Avnet's Electrical and Industrial Group operates primarily in
+the electrical and electronic industrial equipment distribution
+industry and in the industrial maintenance and repair fields.  The
+Group currently consists of three units, Brownell Electro, Avnet
+Industrial and Freeman Products.  The Group's 1994 sales of $186.8
+million represented 5% of Avnet's total sales.
+
+     The Electrical and Industrial Group underwent a major
+restructuring and re-engineering of its operations during 1994. 
+Brownell Electro was substantially reorganized to focus on the
+motor repair and original equipment manufacturers (OEMs) markets. 
+Its Instrument and Controls Division (ICD) and its Lincoln Controls
+unit were combined with Mechanics Choice to form a new business
+unit named Avnet Industrial which is focused on the Maintenance and
+Repair Organization (MRO) market.  Except for certain products
+which are impractical to centralize, all warehousing for the
+Brownell and Avnet Industrial units is being consolidated into two
+regional distribution centers, one in Louisville, KY and one in
+Phoenix, AZ.
+
+     Brownell Electro and Avnet Industrial together with their
+various divisions operate under the Brownell Electro, Inc.
+subsidiary of Avnet (hereinafter referred to as Brownell).
+
+     Brownell distributes electric motors, electrical insulation
+and magnet wire and supplies parts, such as bearings, switches and
+electrical tapes for the rebuilding and replacement of industrial
+air conditioning, refrigeration, heating, ventilation and appliance
+motors through a network of 28 facilities throughout the U.S.  Most
+of these facilities have been retained to service local customers,
+but Brownell has centralized certain administrative, technical,
+sales support and service functions into 6 regional centers or
+"hubs".  Its electric motors are sold principally under its Leland-
+Faraday trademark.  In addition, electric motors and parts made by
+the major electric motor and control manufacturers are stocked,
+delivered and serviced from Brownell's distribution and service
+centers.  It also distributes limit switches, interval timers,
+photoelectronics, industrial display and control instruments,
+oscilloscopes and analog and digital meters and it maintains
+laboratories and service stations for their repair and
+recalibration.  In addition, Brownell, through its Avnet Industrial
+division, supplies the industrial, commercial, institutional,
+agricultural, governmental, mining and utility markets with a broad
+line of industrial maintenance and factory supplies, many under its 
+Mechanics Choice trademark.  
+
+     Freeman Products, a trophy manufacturing business, has five
+sales facilities across the United States.  Freeman Products
+manufactures trophy parts, supplying about 5,000 assembler/dealers
+in the U.S. and abroad.  Freeman pioneered the concept of marketing
+interchangeable trophy parts to local assemblers to eliminate the
+cost of inventorying assembled trophies.
+
+     In August 1993, the business of I.W. Rice & Co., Inc., an
+importer of giftware, was sold.
+
+     The products which are distributed by this Group compete with
+the products of other companies which sell parts to the industrial
+and repair markets and with the product lines of many local and
+national distributors and jobbers.
+
+Number of Employees
+
+     At July 1, 1994, Avnet had approximately 8,000 employees.  
+
+ITEM 2.   Properties
+
+         As of July 1, 1994, Avnet owned or leased approximately
+3,890,000 square feet of space for its principal offices,
+warehouse, distribution, assembly, manufacturing, engineering and
+research facilities.  Some of this space, as a result of the Hall-
+Mark acquisition, is excess and certain costs associated therewith
+have been provided for in the financial statements.  Approximately
+55% of the space was used by the Electronic Marketing Group.  The
+Video Communications Group used approximately 18% of the space, the
+Electrical and Industrial Group used approximately 26% of the space
+and the Corporate Office used about 1% of the space.  Avnet also
+owned or leased approximately 54,000 square feet of space which was
+subleased to others.  Of this total space owned or leased,
+approximately 90% was located in the United States.
+  
+
+ITEM 3.   Legal Proceedings
+     
+     In the opinion of management, based on all known facts, there
+are no legal proceedings which the Company is required to report. 
+However, as previously reported, the Company is a potentially
+responsible party ("PRP") or has received claims for indemnity in
+several environmental cleanups under the Comprehensive
+Environmental Response, Compensation and Liability Act ("CERCLA"). 
+In particular, Avnet is one of approximately 14 PRPs subject to an
+administrative order issued by the Environmental Protection Agency
+("EPA") pursuant to section 106 of CERCLA in connection with the
+cleanup of a National Priorities List site in North Smithfield,
+Rhode Island.  Avnet's connection with the Rhode Island site arises
+from the alleged disposal of hazardous material at the site by its
+former Miller Electric and Carol Cable Company divisions which were
+sold in 1981.  Also, real estate owned by the Video Communications
+Group in Oxford, North Carolina is listed on the EPA's National
+Priorities List, and the Company and the prior owner of the site
+have entered into a Consent Decree with the EPA pursuant to which
+the parties have agreed to clean up the site.  Additional
+information about this site and other sites is set forth on pages
+22 - 23 of this report.
+
+ITEM 4.   Submission of Matters to a Vote of Security Holders
+       
+     None to be reported.
+
+ITEM 4A. Executive Officers of the Company
+
+     The current executive officers of the Company are:
+
+
+Name                 Age  Office                                  
+                         
+Leon Machiz          70  Chairman of the Board, Chief Executive
+                         Officer and Director
+Roy Vallee*          42  President, Chief Operating Officer, Vice
+                         Chairman of the Board and Director 
+Sylvester D. Herlihy 67  Senior Vice President, Secretary and
+                         Director
+Stanley Benerofe     61  Senior Vice President 
+David R. Birk        47  Senior Vice President and General
+                         Counsel
+Anthony T. DeLuca    44  Senior Vice President and Chief
+                         Information Officer
+Burton Katz          52  Senior Vice President
+Raymond Sadowski     40  Senior Vice President, Chief Financial
+                         Officer and Assistant Secretary
+Joseph W. Semmer     57  Senior Vice President
+Keith Williams       46  Senior Vice President
+John A. Carfora      48  Vice President
+Steven C. Church     45  Vice President
+John T. Clark        40  Vice President
+Patrick Jewett       49  Vice President         
+Donald E. Sweet      57  Vice President
+Morton M. Vogel      64  Vice President
+Richard Ward         54  Vice President
+John F. Cole         52  Controller
+Stephanie A. Wagoner 35  Treasurer
+Bruce Evashevski     51  Electronic Marketing Group Senior Vice
+                         President of Finance
+
+     Mr. Machiz has been Chairman of the Board and Chief Executive
+Officer since December 1988.  
+
+     Mr. Vallee became a Vice President of Avnet in November 1989,
+Senior Vice President and director of its worldwide electronics
+operations in July 1990, a member of Avnet's Board of Directors in
+November 1991, President and Chief Operating Officer in March 1992
+and Vice Chairman of the Board in November 1992.  
+
+      For more than the past five years, (1) Mr. Herlihy has been
+principally engaged as an executive of the business operations
+presently conducted by Avnet's Video Communications Group, (2)
+Messrs. Church, Clark, Jewett, Katz, Sweet and Ward have been
+principally engaged as executives of certain of the business
+operations presently conducted by Avnet's Electronic Marketing
+Group and (3) Mr. Benerofe has been principally engaged as an
+executive of certain of the business operations presently conducted
+by Avnet's Electrical and Industrial Group.
+
+     For more than the past five years, (1) Mr. DeLuca has been
+Vice President and, since November 1990, Senior Vice President and
+Chief Information Officer and (2) Mr. Vogel has been Vice
+President, Risk Management.  
+
+     During the past five years, Mr. Birk has been Vice President
+and General Counsel, and since November 1992, Senior Vice
+President.
+
+     Mr. Carfora has been Vice President, Taxes since November
+1991.  Prior to November 1991, he was Avnet's Director of Taxes.
+
+     Mr. Sadowski became Senior Vice President in November 1992 and
+Chief Financial Officer in February 1993.  He was previously
+Avnet's Vice President and Controller.
+
+     Before becoming Avnet's Controller in February 1993, Mr. Cole
+served for more than five years as Controller of Avnet's Brownell
+Electro, Inc. subsidiary.
+
+     Mr. Williams was the Managing Director of The Access Group,
+Ltd. for more than five years before Avnet acquired this U.K.
+corporation in June 1991.  He became President of Avnet EMG Europe
+and Vice President of Avnet in November 1992, Director of Avnet's
+International Operations in October 1993, and he became a Senior
+Vice President of Avnet in November 1993.
+ 
+      Before becoming Avnet's Treasurer in February 1993, Ms.
+Wagoner served as the Assistant Treasurer.
+
+     During the past five years before joining Avnet's Electronic
+Marketing Group on July 1, 1993,(1) Mr. Semmer, was President,
+Director and (from 1989) Chief Executive Officer of Hall-Mark
+Electronics Corp., and (2) Mr. Evashevski was Vice President,
+Treasurer and Chief Financial Officer and Director, of Hall-Mark
+Electronics Corp.  Mr. Semmer became a Vice President of Avnet on
+September 22, 1993 and a Senior Vice President of Avnet in March
+1994.  
+
+     Officers of the Company are generally elected each year at the
+meeting of the Board of Directors following the annual meeting of
+shareholders and hold office until the next such annual meeting or
+until their earlier death, resignation or removal.<PAGE>
+
+                             PART II
+
+
+ITEM 5.   Market for Registrant's Common Equity 
+          and Related Stockholder Matters      
+
+Market price per share.
+
+     The Company's common stock is listed on the New York Stock
+Exchange and the Pacific Stock Exchange.  Quarterly market prices
+(as reported in the consolidated reporting system for issues listed
+on the New York Stock Exchange) for the last two fiscal years were:
+
+
+ Fiscal                 1994                     1993
+Quarters           High      Low            High       Low
+
+  1st              42 1/4   31 1/4          29 1/2    26 3/4
+
+  2nd              41 5/8   34 1/2          36        27 7/8
+
+  3rd              45       36 3/4          37        29 3/4
+
+  4th              40       30 3/4          34 7/8    29    
+
+
+Record Holders.
+
+          As of September 16, 1994, there were approximately 6,068
+record holders of Avnet's common stock.
+
+Dividends declared per share.
+
+         The declared cash dividend on the common stock was 15
+cents per share during each quarter in fiscal 1994 and 1993.
+
+<PAGE>
+ITEM 6.  Selected Financial Data*
+
+(In $ millions except for per share and ratio data)
+
+                                      Fiscal Year Ended                 
+                      July 1,  June 30,   June 30,   June 30,  June 30,
+                       1994      1993       1992       1991      1990   
+
+Income:
+  Sales             $3,547.7    $2,238.0  $1,759.0   $1,740.8  $1,751.3
+  Gross profit         696.1       486.8     408.3      422.5     438.9
+  Income taxes          66.7        45.1      32.9       38.4      42.2
+  Earnings              85.3(b)     69.1      50.5       61.6      56.5(a)
+
+Financial Position:
+  Working capital      888.0       803.1     848.9      858.9     843.8
+  Total assets       1,787.7     1,247.3   1,242.7    1,181.5   1,157.5
+  Long-term debt       303.1       106.6     175.3      201.1     201.9
+  Shareholders'
+    equity           1,108.5       868.2     837.2      801.4     769.7
+
+Per Share:
+  Earnings              2.09(b)     1.91      1.42       1.72      1.57(a)
+  Dividends              .60         .60       .60        .60       .60
+  Book value           27.26       24.35     23.56      22.60     21.46
+
+Ratios:
+  Profit margin 
+    on sales            2.4%(b)     3.1%      2.9%       3.5%      3.2%(a)
+  Return on equity      8.0%(b)     8.1%      6.2%       7.9%      7.5%(a)
+  Return on capital     7.0%(b)     7.6%      5.8%       7.1%      6.8%(a)
+  Quick                1.7:1       2.1:1     2.7:1      3.3:1     3.2:1
+  Working capital      3.4:1       3.9:1     4.7:1      5.8:1     5.5:1
+  Long-term debt to
+    capital            21.5%       10.9%     17.3%      20.1%     20.8%
+                              
+                                        
+
+(a)  After $9.8 ($.27 per share) net loss on the disposition of one and
+     restructuring of two operations.
+
+(b)  After special charges of $16.8 ($.41 per share) for (i) restructuring
+     and integration charges ($13.5 or $.33 per share), (ii) the retroactive
+     impact of the change in U.S. tax rates ($0.5 or $.01 per share) and
+     (iii) the cumulative effect of a change in the method of accounting for
+     income taxes ($2.8 or $.07 per share).
+
+
+*    The selected financial data shown above for fiscal years prior to 1994 
+     does not include data for Hall-Mark.
+
+ITEM 7.   Management's Discussion and Analysis
+
+     For an understanding of the significant factors that
+influenced the Company's performance during the past three years,
+the following discussion should be read in conjunction with the
+consolidated financial statements, including the related notes, and
+other information appearing elsewhere in this report.  
+
+     On July 1, 1993, Avnet completed its acquisition of all of the
+stock of Hall-Mark Electronics Corporation, including its wholly-
+owned subsidiary Allied Electronics, Inc. (together referred to as
+"Hall-Mark"), pursuant to an Agreement and Plan of Merger dated
+April 20, 1993.  Prior to the acquisition, Hall-Mark was the
+nation's third largest distributor of electronic components. 
+Except where noted, Hall-Mark is not included in the discussion and
+analysis relating to fiscal years 1993 and 1992.
+
+Results of Operations
+
+     Results of operations during the last three years are shown on
+page four of this report.  An analysis of the results for those
+years follows.
+
+Consolidated
+
+     Consolidated sales were $3.548 billion in 1994 or 59% higher
+than the $2.238 billion in 1993 and 19% higher if Hall-Mark's
+comparable period sales of $744 million were included in Avnet's
+fiscal 1993 results.  This increase in consolidated sales was due
+primarily to sales growth at Hamilton Hallmark, Computer Marketing,
+the Electronic Marketing Group's European operations and Channel
+Master.  Sales were higher during each quarter of 1994 as compared
+with the corresponding quarter of 1993, as adjusted to include the
+sales of Hall-Mark on a proforma basis.  Except for the third
+quarter of 1994, when average daily sales were slightly below those
+for the second quarter, average daily sales, including Hall-Mark on
+a proforma basis in 1993 and 1992, have increased in each quarter
+since the second quarter of 1992. 
+
+     Consolidated sales of $2.238 billion in 1993 were 27% higher
+than the $1.759 billion in 1992.  Of the $479 million sales
+increase, $150 million was contributed by Avnet Nortec and Avnet
+E2000, the Scandinavian and German operations which were acquired
+during 1993.  Although the sales in 1992 benefitted from the
+acquisitions of Avnet Access and Avnet France, they were negatively
+affected by the economic slowdown in the U.S.
+
+     Gross profit margins were 19.6%, 21.8% and 23.2% in 1994, 1993
+and 1992, respectively.  This downward trend is due primarily to
+increased sales of microprocessors, which have lower gross margins,
+and the competitive environment in the electronic distribution
+marketplace.
+
+     During the first quarter of 1994, the Company recorded a
+special charge of $22.7 million ($13.5 million after-tax) for
+restructuring and integration costs associated with the July 1,
+1993 acquisition of Hall-Mark and the restructuring of the
+Electrical and Industrial Group.  These costs included accruals for
+severance, real and personal property lease terminations,
+relocation of employees, inventory adjustments related to supplier
+terminations and other items.  Although operating expenses in
+absolute dollars were sequentially higher during the last three
+years, they decreased significantly as a percentage of sales. 
+Excluding the 1994  special charge referred to above, the Company
+reduced operating expenses as a percentage of sales to 14.3% in
+1994 as compared with 17.2% and 19.3% in 1993 and 1992,
+respectively.  This improvement was due to the Company's continued
+efforts toward improving operating efficiencies and the economies
+of scale and synergies resulting from the acquisition of Hall-Mark.
+
+     Investment and other income declined to $4.8 million in 1994
+compared with $20.4 million and $27.2 million in 1993 and 1992,
+respectively.  The substantial decrease in 1994 was due primarily
+to a reduction in investment income as the Company liquidated its
+marketable securities portfolio to fund a portion of the
+acquisition cost of Hall-Mark.  The decrease in 1993 as compared
+with 1992 was due primarily to a reduction in investment income,
+losses on foreign currency fluctuations and expenses incurred in
+connection with the retirement of the Company's 8% Convertible
+Subordinated Debentures including the premium paid and the write-
+off of deferred loan costs.  Investment income in 1993 was lower
+than in 1992 as a result of lower interest rates and a decrease in
+average funds available for investment as funds were used for the
+redemption of debentures and acquisition of European operations,
+partially offset by gains on the sales of marketable securities.  
+
+     The Company's effective tax rate before taking into account
+the cumulative effect of the change in method of accounting for
+income taxes was 43.1% in 1994 as compared with 39.5% and 39.4% in
+1993 and 1992, respectively.  This increase was due primarily to
+the impact of the non-deductible amortization of goodwill, which
+amount rose significantly as a result of the Hall-Mark acquisition,
+the 1% increase, from 34% to 35%, in the U.S. federal statutory tax
+rate and the $0.5 million recorded for the impact of the
+retroactive increase in federal income tax rates enacted in fiscal
+1994 as it relates to fiscal 1993 income.
+
+     Net income in 1994 before special charges was a record $102.1
+million as compared with the $69.1 million and $50.5 million in
+1993 and 1992, respectively.  During the first quarter of 1994, the
+Company recorded special charges of $16.8 million after tax.  These
+charges (after-tax) included $13.5 million for restructuring and
+integration costs associated with the acquisition of Hall-Mark and
+the restructuring of the Electrical and Industrial Group described
+above and $0.5 million for the impact of the retroactive increase
+in federal income tax rates enacted in fiscal 1994 as it relates to
+fiscal 1993 income.  Additionally, in the first quarter of 1994,
+the Company adopted the provisions of Statement of Financial
+Accounting Standards (SFAS) No. 109 "Accounting for Income Taxes"
+and recognized a charge for the cumulative effect of the change in
+accounting principle in the amount of $2.8 million.  After  those
+special charges, net income in 1994 was $85.3 million.
+
+     Although sales during the summer months generally tend to be
+lower than in the spring quarter, sales during the first two months
+of fiscal 1995 were comparable to the first two months of the
+immediately preceding quarter and higher than in the comparable
+period in fiscal 1994.  Average sales per day during the first two
+months of fiscal 1995 were also higher than the average daily sales
+in the first two months of the immediately preceding quarter and in
+the comparable period last year.  
+
+     As the Company has continued to increase its investment in
+foreign operations, the impact associated with the volatility of
+foreign currency exchange rates has become more apparent.  In 1994,
+the translation into U.S. dollars of the financial statements of
+the Company's foreign subsidiaries resulted in a $4.6 million
+credit and in 1993 a $20.1 million charge which, in accordance with
+generally accepted accounting principles, were recorded directly to
+shareholders' equity.  The credit in 1994 was due primarily to
+strengthening of the French and Swedish currencies against the U.S.
+dollar and the charge in 1993 was due primarily to the weakening of
+the U.K., French and Swedish currencies against the U.S. dollar.
+
+Electronic Marketing
+
+     The Electronic Marketing Group's sales in 1994 were $3.162
+billion, up 65% as compared with sales of $1.917 billion in 1993
+and up almost 19% when 1993 sales are adjusted proforma to include
+Hall-Mark's comparable period sales.  The increase in sales in 1994
+was due to growth at Hamilton Hallmark, primarily as a result of
+the acquisition of Hall-Mark, and growth in the Computer Marketing
+and European operations.  Sales of Hamilton Hallmark, the largest
+unit in the Group, and Computer Marketing were up 13% and 15%,
+respectively, as compared with 1993 sales adjusted to include Hall-
+Mark on a proforma basis.  The Group's European operations had
+sales of almost $500 million, up over 60% as compared with 1993. 
+Excluding the 1994 sales of Avnet Adelsy and Avnet DeMico, which
+were acquired in 1994, and the 1994 and 1993 sales of Avnet E2000,
+which was acquired in mid-1993, sales for the Group's European
+operations in 1994 were up over 40% as compared with 1993.  Allied
+Electronics, which was acquired as part of the Hall-Mark
+acquisition, experienced a 25% increase in sales in 1994 as
+compared with 1993.  Sales of Time Electronics were up almost 7%
+during the same period.
+
+     The Group's 1993 sales were up 30% compared with 1992 sales of
+$1.474 billion.  The $443 million sales increase in 1993 included
+$150 million from Avnet Nortec and Avnet E2000 which were acquired
+during that year.  Sales of Hamilton/Avnet Electronics were up 23%
+and sales of the European units, excluding Avnet Nortec and Avnet
+E2000, were up over 150% in 1993 as compared with 1992, while sales
+of Avnet Computer and Time Electronics were slightly higher.
+
+
+     The Electronic Marketing Group increased its share of
+consolidated sales to 89% in 1994 as compared with 86% and 84% in
+1993 and 1992, respectively.
+
+     In 1994, sales of semiconductors, connectors and computer
+products were higher and sales of passives and electromechanical
+devices were lower than in 1993, adjusted to include Hall-Mark on
+a proforma basis.  In 1994, semiconductor, computer products,
+connector, and passive and electromechanical  sales represented
+64%, 18%, 10% and 8%, respectively, of Group sales as compared with
+59%, 18%, 11% and 12%, respectively, in 1993 including Hall-Mark's
+sales on a proforma basis.
+
+     The Electronic Marketing Group's gross profit margins were
+lower by 2% in 1994 as compared with 1993, which in turn were lower
+by about 1.1% than in 1992.  This reduction was due primarily to
+competitive pressures and sales of lower margin microprocessors
+which continued to increase.  However, increased operating
+efficiencies due to the economies of scale and synergies resulting
+from the Hall-Mark acquisition and the Company's continued emphasis
+on cost reduction resulted in a decrease in operating expenses
+(before special charges) as a percentage of sales.  These
+sequential decreases in operating expenses as a percentage of sales
+more than offset the decrease in gross margins in 1994 as compared
+with 1993 and in 1993 as compared with 1992.  The Group's effective
+tax rate increased due primarily to the impact of the increase in
+the non-deductible amortization of goodwill from the Hall-Mark
+acquisition and to the 1% increase in the U.S. federal statutory
+tax rate.  Net income of the Group in 1994 was $94.6 million before
+special charges as compared with $67.0 million and $47.3 million in
+1993 and 1992, respectively.  The Group's net profit margins before
+special charges were 3.0%, 3.5% and 3.2% in 1994, 1993 and 1992,
+respectively.
+
+     In the first quarter of 1994, the Group's results were
+negatively impacted by special charges of $11.8 million after-tax
+for restructuring and integration costs associated with the
+acquisition of Hall-Mark and $0.5 million for the impact of the
+retroactive increase in federal income tax rates enacted in 1994 as
+it relates to 1993 income.  Net income in 1994 after the $12.3
+million after-tax special charges was $82.3 million.
+
+Video Communications
+
+     Group sales in 1994 were $199.4 million compared with $134.0
+million and $104.9 million in 1993 and 1992, respectively, and
+represented about 6% of consolidated sales in each of those three
+years.  The $65.4 million or 49% increase in 1994 sales and the
+$29.1 million or 28% increase in 1993 sales were primarily  the
+result of a significant increase in the sales of modular
+descrambler equipment by the Group's Channel Master operation,
+offset in 1993 by a decrease in sales by the Group's Far East
+operations as a result of the Company's decision in the second
+quarter of 1993 to shut down those operations.  Gross profit
+margins in 1994 were lower than in 1993 and 1992 due to the
+increase in sales of lower margin descrambler equipment in each
+year.  Operating expenses as a percentage of sales also trended
+downward in the last three years as a result of the significant
+increase in sales.
+
+     Net income of the Group in 1994 was $6.1 million compared with
+$1.8 million in 1993 (after a net after-tax charge of  $1.15
+million related to the shutdown of the Group's Far East operations)
+and $1.8 million in 1992.   The Group's net profit margins were
+3.0%, 1.3% and 1.7% in 1994, 1993 and 1992, respectively.
+
+Electrical and Industrial
+
+     Group sales in 1994 were $186.8 million compared with $186.7
+million and $180.6 million in 1993 and 1992, respectively.  Group
+sales represented about 5% of consolidated sales in 1994 as
+compared with 8% and 10% in the prior two years, respectively.  The
+sales of each of the Group's operations were basically flat in 1994
+as compared with 1993.
+
+     Net income of the Group was $1.4 million in 1994 before a $1.7
+million after-tax restructuring charge as compared with $0.3
+million and $1.4 million in 1993 and 1992, respectively.  The
+Group's gross profit margin in 1994 was about 0.7% lower than in
+1993 which was about 1.8% lower than in 1992.  The Group's net
+profit margins before restructuring charges were 0.7%, 0.2% and
+0.8% in 1994, 1993 and 1992, respectively.
+
+     In the first quarter of 1994, the Group's results included the
+$1.7 million after-tax charge referred to above for the
+restructuring of the Brownell Electro and Mechanics Choice
+operations.  Brownell Electro was substantially reorganized to
+focus on the motor repair and original equipment manufacturer (OEM)
+markets.  Brownell Electro's Instruments and Controls Division and
+its Lincoln Controls unit were combined with Mechanics Choice to
+form a new business unit named Avnet Industrial which is focused on
+the maintenance and repair organization (MRO) market.  After the
+$1.7 million after-tax restructuring charge, the Group had a net
+loss of $0.3 million in 1994.
+
+Liquidity and Capital Resources
+
+     Over the last three years, cash generated from income before
+depreciation and other non-cash items amounted to $299 million. 
+During that period, $150 million was used for working capital needs
+resulting in $149 million of net cash flows from operations.  Of
+that $149 million, $131 million, net, was needed for other normal
+business operations including purchases of property, plant and
+equipment, dividends and other immaterial items.  The $18 million
+balance of cash generated, together with $194 million raised from
+additional borrowings, $250 million generated from the liquidation
+of interest-bearing investments and a portion of the available cash
+at the beginning of the three-year period, was used for
+acquisitions, the redemption and repurchase of debentures and the
+repayment of other debt totalling $504 million.
+
+     In 1994, the Company generated $124 million from income before
+depreciation and other non-cash items, and used $102 million for
+working capital needs resulting in $22 million of net cash flows
+from operations.  The use of funds for working capital was
+significantly higher than in prior years due primarily to a large
+increase in receivables as a result of a 59% increase in sales in
+1994 as compared with 1993.  In addition, the Company used $49
+million for other normal business operations including purchases of
+property, plant and equipment, dividends and other immaterial
+items.  This $27 million of cash needed for normal business
+operations and the $333 million of cash used for the acquisitions
+of Hall-Mark, Avnet Adelsy and Avnet DeMico were funded by $194
+million of additional borrowings and $166 million of available
+cash.
+
+     In 1993, the Company generated $14 million of cash, $50
+million provided from operations reduced by $36 million used for
+other normal business operations including purchases of property,
+plant and equipment, dividends and other immaterial items.  In
+addition, the Company used $70 million to redeem its 8% Convertible
+Subordinated Debentures and repay other debt, and used $36 million
+for acquisitions, primarily Avnet Nortec and Avnet E2000.  The
+resulting $92 million net use of cash together with the $255
+million of proceeds from the liquidation of the Company's interest-
+bearing investments resulted in a $163 million increase in cash. 
+The Company liquidated its marketable securities portfolio late in
+1993 in contemplation of the need for funds for the acquisition of
+Hall-Mark.  In 1992, the Company generated $29 million of cash
+before considering the $41 million used for the acquisition of
+Avnet Composants and $25 million used for the repurchase of a
+portion of its debentures and repayment of other debt.
+
+     The Company's quick assets at July 1, 1994 totaled $627
+million compared with $579 million at June 30, 1993.  At July 1,
+1994, quick assets exceeded the Company's current liabilities by
+$251 million compared with a $306 million excess at the end of
+1993.  Working capital at July 1, 1994 was $888 million compared
+with $803 million in 1993.  At July 1, 1994, to support each dollar
+of current liabilities, the Company had $1.67 of quick assets and
+$1.69 of other current assets, for a total of $3.36 compared with
+$3.95 at the end of the prior fiscal year.
+
+     On July 1, 1993, the Company completed its acquisition of
+Hall-Mark (See Note 15 to the consolidated financial statements). 
+In order to fund a portion of the costs of the acquisition of Hall-
+Mark, the Company established a credit arrangement with NationsBank
+of North Carolina, N.A. ("NationsBank").  That credit arrangement
+has since been restructured and currently consists of a three-year
+revolving credit facility with a syndication of banks led by
+NationsBank, which facility provides a line of credit of up to
+$150.0 million (the "Credit Facility").  The Company may select
+from various interest rate options and maturities under this
+facility.  In January 1994, the Company filed a registration
+statement with the Securities and Exchange Commission which
+provides for borrowings of up to $200 million in public debt over 
+
+
+
+
+the next two years.  On March 15, 1994 the Company completed a $100
+million public offering of its 6 7/8% Notes Due March 15, 2004 (the
+"6 7/8% Notes"), the net proceeds of which, totalling $98.8
+million, were used to pay down a portion of the Company's
+outstanding bank debt.
+
+     At July 1, 1994, the Company had $95 million outstanding under
+the Credit Facility together with the $100 million of the 6 7/8%
+Notes, $105 million of 6% Convertible Debentures and $3 million of
+other debt.  This $303 million of long-term debt at July 1, 1994
+represents an increase of $196 million over the $107 million
+outstanding at June 30, 1993.  As a result, the Company's debt to
+capital (shareholders' equity plus long-term debt) ratio was 21% at
+July 1, 1994 compared with 11% at June 30, 1993.  In 1994, income
+was almost eight times greater than fixed charges.  Internally
+generated cash flow during 1994, represented by net income before
+depreciation and other non-cash items, was $124 million or 41% of
+total debt at July 1, 1994.
+
+     During the last three years, the Company's capital rose $409
+million to a total of $1.412 billion at July 1, 1994. 
+Shareholders' equity increased by $307 million, $171 million due to
+the issuance of Avnet stock and stock options in connection with
+the acquisition of Hall-Mark and $138 million from earnings, net of
+dividends, reinvested in the business, offset by $2 million, net,
+of other items.  Long-term debt increased by $102 million as a
+result of the $196 million increase in 1994 as described above
+offset by a $94 million decrease in prior periods due to the
+redemption and repurchase of a portion of the Company's debentures
+and repayment of other long-term debt.
+
+     At July 1, 1994, the Company did not have any material
+commitments for capital expenditures.  The Company and the former
+owners of a Company-owned site in Oxford, North Carolina have
+entered into a Consent Decree and Court Order with the
+Environmental Protection Agency (EPA) for the environmental clean-
+up of the site, the cost of which, according to the EPA's remedial
+investigation and feasibility study, is estimated to be
+approximately $6.3 million, exclusive of the $1.5 million in EPA
+past costs paid by the potentially responsible parties (PRP's). 
+Pursuant to a Consent Decree and Court Order entered into between
+the Company and the former owners, the former owners have agreed to
+bear at least 70% of the clean-up costs of the site, and the
+Company will be responsible for not more than 30% of those costs. 
+As noted in Item 3 of this Report, the Company is also a PRP in an
+environmental clean-up at a site in North Smithfield, Rhode Island. 
+In addition, the Company has received notice from a third party of
+its intention to seek indemnification for costs it may incur in
+connection with an environmental clean-up at a site in Rush,
+Pennsylvania resulting from the alleged disposal of wire insulation
+material at the site by a former unit of the Company.   Based upon
+the information known to date, the Company believes that it has
+appropriately accrued in the financial statements  for its share of
+the costs of the clean-up at these sites.  The Company is also a
+PRP or has been notified of claims made against  it at
+environmental clean-up sites in Huguenot, New York and in
+Hempstead, New York.  At this time, the Company cannot estimate the
+amount of its potential liability, if any, for clean-up costs in
+connection with these sites, but does not anticipate that these
+matters or any other contingent matters will have a material
+adverse impact on the Company's financial condition, liquidity or
+results of operations.
+
+     The Company is not now aware of any commitments, contingencies
+or events within its control which may significantly change its
+ability to generate sufficient cash from internal or external
+sources to meet its needs.
+
+ITEM 8.  Financial Statements and Supplementary Data
+
+         The Financial Statements and Supplementary Data are listed
+under Item 14 in this annual report.
+
+ITEM 9.  Changes in and Disagreements with Accountants on
+         Accounting and Financial Disclosure
+
+         None to report.  
+
+
+
+
+
+
+
+                            PART III
+
+
+ITEM 10.  Directors and Executive
+          Officers of the Registrant
+
+ITEM 11.  Executive Compensation
+
+ITEM 12.  Security Ownership of Certain  
+          Beneficial Owners and Management
+
+ITEM 13.  Certain Relationships and Related Transactions
+
+         The information called for by Items 10, 11, 12 and 13
+(except to the extent set forth in Item 4A above) is incorporated
+in this Report by reference to the Company's definitive proxy
+statement relating to the Annual Meeting of Shareholders
+anticipated to be held November 16, 1994.
+
+<PAGE>
+                           
+                             PART IV
+
+ITEM 14.  Exhibits, Financial Statement 
+          Schedules and Reports on Form 8-K
+
+a.  The following documents are filed as part of this report:
+
+                                                             Page
+  1.  Financial Statements and Supplementary Data              
+
+        Report of Independent Public Accountants             30
+
+        Avnet, Inc. and Subsidiaries Consolidated         
+        Financial Statements:
+
+          Statements of Income for the years ended         
+          July 1, 1994, June 30, 1993 and June 30, 1992      31
+
+          Balance Sheets at July 1, 1994 and June 30, 1993   32
+
+          Statements of Shareholders' Equity for the years
+          ended July 1, 1994, June 30, 1993 and 
+          June 30, 1992.                                     33
+
+          Statements of Cash Flows for the years ended     
+          July 1, 1994, June 30, 1993 and June 30, 1992.     34
+
+        Notes to consolidated financial statements        35-46
+
+  2.  Financial statement schedules
+    
+        (i) Schedule VIII for the years ended
+        July 1, 1994, June 30, 1993 and June 30, 1992.       47
+
+
+
+      Schedules other than those above have been omitted because
+      they are not applicable or the required information is shown
+      in the financial statements or notes thereto.
+
+   3.  Exhibits:
+
+    Exhibit
+      No.                      Description
+      
+      3A.      Certificate of Incorporation of the Registrant as
+               currently in effect.
+
+      3B.      By-laws of the Registrant as currently in effect
+               (incorporated herein by reference to Commission
+               File No. 1-4224, Current Report on Form 8-K dated
+               September 23, 1994).
+  
+      4.       Note:  The total amount of securities outstanding
+               at the end of the period covered by this Report
+               under any instrument which defines the rights of
+               holders of Registrant's long-term debt does not
+               exceed 10% of the total assets of the Registrant
+               and its subsidiaries on a consolidated basis. 
+               Therefore, none of the instruments defining the
+               rights of the holders of such long-term debt are
+               required to be filed as exhibits to this Report. 
+               The Registrant agrees to furnish copies of such
+               instruments to the Commission upon request.
+
+      10A.     Agreement and Plan of Merger dated April 20, 1993
+               between the Registrant and Hall-Mark Electronics
+               Corporation (incorporated herein by reference to
+               Registration Statement on Form S-4, Reg. No. 33-
+               62462, Appendix A to Joint Proxy Statement/
+               Prospectus).  
+
+               Executive Compensation Plans and Arrangements
+
+      10B.     Employment agreement, dated July 1, 1990, between
+               the Registrant and Mr. Sylvester D. Herlihy
+               (incorporated herein by reference to Commission
+               file No. 1-4224, Annual Report on Form 10-K for the
+               fiscal year ended June 30, 1990).
+
+      10C.     Employment Extension Agreement dated November 29,
+               1993 between the Registrant and Mr. Leon Machiz
+               (incorporated herein by reference to Commission
+               File No. 1-4224, Current Report on Form 8-K dated
+               September 23, 1994).
+               
+      10D.     Employment agreement, dated February 28, 1990
+               between the Registrant and Mr. Leon Machiz
+               (incorporated by reference to Commission File No.
+               1-4224, Annual Report on Form 10-K for the fiscal
+               year ended June 30, 1990).
+
+      10E.     Employment Agreement and amendment to Employment
+               Agreement dated July 1, 1992 between the Registrant
+               and Roy Vallee (incorporated by reference to
+               Commission file No. 1-4224, Quarterly Report on
+               Form 10-Q for the quarter ended April 2, 1993).
+               10F.
+  Second Amendment, dated July 1, 1993, to Employment Agreement
+  dated July 1, 1992 between Registrant and Roy Vallee
+  (incorporated by reference to Commission File No. 1-4224, Annual
+  Report on Form 10-K for the fiscal year ended June 30, 1993).
+   
+      10G.     Employment Agreement, dated July 22, 1992 between
+               the Registrant and Mr. Keith Williams (incorporated
+               by reference to Commission File No. 1-4224, Annual
+               Report on Form 10-K for the fiscal year ended June
+               30, 1992).
+
+
+               Executive Compensation Plans and Arrangements
+
+      10H.     Consulting Agreement dated July 1, 1993 between the
+               Registrant and Mr. David Shaw (incorporated by
+               reference to Commission File No. 1-4224, Annual
+               Report on Form 10-K for the fiscal year ended June
+               30, 1993).
+
+      10I.     Employment Agreement dated December 31, 1992
+               between Hall-Mark Electronics Corp. and Mr. Joseph
+               W. Semmer (incorporated herein by reference to
+               Commission File No. 1-4224, Current Report on Form
+               8-K dated September 23, 1994).
+
+      10J.     Employment Agreement dated December 31, 1992
+               between Hall-Mark Electronics Corp. and Mr. George
+               Privett (incorporated herein by reference to
+               Commission File No. 1-4224, Current Report on Form
+               8-K dated September 23, 1994).
+
+      10K.     Employment Agreement dated April 20, 1993 between
+               Hall-Mark Electronics Corp. and Mr. Bruce
+               Evashevski (incorporated herein by reference to
+               Commission File No. 1-4224, Current Report on Form
+               8-K dated September 23, 1994).
+
+      10L.     Letter dated April 20, 1993 from the Registrant
+               confirming Registrant's intent to assume employment
+               agreements of certain Hall-Mark Electronics Corp.
+               executives, including the Employment Agreements of
+               Messrs. Semmer, Privett and Evashevski
+               (incorporated herein by reference to Commission
+               File No. 1-4224, Current Report on Form 8-K dated
+               September 23, 1994).
+
+      10M.     Consulting Agreement dated July 1, 1994 between the
+               Registrant and Mr. George Privett (incorporated
+               herein by reference to Commission File No. 1-4224,
+               Current Report on Form 8-K dated September 23,
+               1994).
+
+      10N.     Avnet 1984 Stock Option Plan (incorporated herein
+               by reference to Registration Statement on Form S-8,
+               Registration No. 2-96800:  Exhibit 4-B).
+
+      10O.     Avnet 1988 Stock Option Plan (incorporated herein
+               by reference to Registration Statement on Form S-8,
+               Registration No. 33-29475: Exhibit 4-B).
+
+      10P.     Avnet 1990 Stock Option Plan (incorporated herein
+               by reference to Commission File No. 1-4224, Annual
+               Report on Form 10-K for the fiscal year ended June
+               30, 1992).
+
+      10Q.     Avnet Second Incentive Stock Program (incorporated
+               herein by reference to Registration Statement on
+               Form S-8, Registration No. 2-94916; Exhibit 4-B).
+
+      10R.     Outside Director Stock Bonus Plan as extended and
+               amended, effective July 1, 1992 (incorporated
+               herein by reference to Commission File No. 1-4224,
+               Annual Report on Form 10-K for the fiscal year
+               ended June 30, 1992).
+
+      10S.     Retirement Plan for Outside Directors of Avnet,
+               Inc., effective July 1, 1993 (incorporated herein
+               by reference to Commission File No. 1-4224, Annual
+               Report on Form 10-K for the fiscal year ended June
+               30, 1992).
+    
+      11.*     Statement regarding computation of per share
+               earnings.
+     
+      21.*     List of subsidiaries of the Registrant.            
+      23.*     Consent of Arthur Andersen LLP.  
+
+      24.      Powers of Attorney (incorporated herein by
+               reference to Commission File No. 1-4224, Current
+               Report on Form 8-K dated September 23, 1994).
+
+
+b.    A Report on Form 8-K dated May 25, 1994 was filed during the
+      last quarter of the Registrant's fiscal year reporting a
+      change in Registrant's fiscal year end from June 30 to that
+      Friday in each year closest to June 30.  The change in fiscal
+      year reported commenced with the 1994 fiscal year.
+
+                                    
+*Filed herewith<PAGE>
+                    
+
+
+
+
+                             S I G N A T U R E S 
+
+     Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the Registrant has duly caused
+this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+                                        AVNET, INC.
+                                        (Registrant)
+
+
+Date: September 27, 1994      By:  s/Leon Machiz                  
+                                        Leon Machiz, Chairman of
+                                        the Board, Chief
+                                        Executive Officer and
+                                        Director
+ 
+
+     Pursuant to the requirements of the Securities Exchange Act of
+1934, this report has been signed below by the following persons on
+behalf of the Registrant and in the capacities indicated on
+September 27, 1994.
+
+          Signature                                Title
+
+
+s/ Leon Machiz                          Chairman of the Board, 
+(Leon Machiz)                           Chief Executive Officer and
+                                        Director
+
+              *                         President, Chief Operating
+(Roy Vallee)                            Officer, Vice Chairman of 
+                                        the Board and Director
+
+              *                                    Director
+(Gerald J. Berkman)
+
+              *                                    Director
+(Joseph F. Caligiuri)
+
+              *                                    Director
+(Alvin E. Friedman)
+
+              *                                    Director
+(Sylvester D. Herlihy)
+
+              *                                    Director
+(Ehud Houminer)
+
+              *                                    Director
+(Salvatore J. Nuzzo)
+
+              *                                    Director
+(Frederic Salerno)
+
+              *                                    Director
+(David Shaw)
+
+                                                   Director
+(Howard Stein)
+
+
+          Signature                                Title
+
+              *                                    Director
+(J. S. Webb)
+
+              *                                    Director
+(George Weissman)
+
+              *                                    Director
+(Frederick S. Wood)     
+
+s/Raymond Sadowski                      Senior Vice President, 
+(Raymond Sadowski)                      Chief Financial Officer 
+                                        and Assistant Secretary
+
+s/John F. Cole                          Controller and Principal
+(John F. Cole)                          Accounting Officer
+
+* By: s/Raymond Sadowski               
+      (Raymond Sadowski)                           
+       Attorney-in-Fact
+<PAGE>
+ 
+
+
+
+
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+The Board of Directors and Shareholders
+Avnet, Inc.
+Great Neck, New York
+
+     We have audited the accompanying consolidated balance sheets of Avnet, Inc.
+(a New York corporation) and Subsidiaries as of July 1, 1994 and June 30, 1993,
+and the related consolidated statements of income, shareholders' equity and cash
+flows for each of the three years in the period ended July 1, 1994.  These
+financial statements are the responsibility of the Company's management.  Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+      We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation. 
+We believe that our audits provide a reasonable basis for our opinion.
+
+      In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Avnet, Inc. and Subsidiaries
+as of July 1, 1994 and June 30, 1993, and the results of their operations and
+their cash flows for each of the three years in the period ended July 1, 1994 in
+conformity with generally accepted accounting principles.
+
+      Our audits were made for the purpose of forming an opinion on the basic
+financial statements taken as a whole.  The schedule listed in the index of
+financial statements is presented for purposes of complying with the Securities
+and Exchange Commission's rules and is not part of the basic financial
+statements.  This schedule has been subjected to the auditing procedures applied
+in the audit of the basic financial statements and, in our opinion, fairly 
+states
+in all material respects the financial data required to be set forth therein in
+relation to the basic financial statements taken as a whole.
+
+
+
+                                    s/ARTHUR ANDERSEN LLP
+
+
+New York, New York
+August 10, 1994
+                                       <PAGE>
+
+                         AVNET, INC. AND SUBSIDIARIES
+
+                       CONSOLIDATED STATEMENTS OF INCOME
+                      (Thousands except per share data)
+
+
+                                                    Years Ended              
+                                         July 1,      June 30,      June 30,
+                                          1994          1993          1992   
+
+Revenues:
+  Sales                                $3,547,743    $2,237,954    $1,759,008
+  Investment income and other, net          4,786        20,393        27,226
+
+                                        3,552,529     2,258,347     1,786,234
+Cost and expenses:
+  Cost of sales                         2,851,681     1,751,195     1,350,679
+  Selling, shipping, general and
+   administrative                         481,448       367,837       320,378
+  Depreciation and amortization            27,127        16,160        18,347
+  Restructuring and integration
+   (Note 14)                               22,702        --            --
+  Interest                                 14,733         8,972        13,404
+                                       
+                                        3,397,691     2,144,164     1,702,808
+
+Income before income taxes and
+  cumulative effect of a change
+  in accounting principle                 154,838       114,183        83,426
+
+Income taxes (Note 7)                      66,730        45,123        32,904
+
+Income before cumulative effect of
+  a change in accounting principle         88,108        69,060        50,522
+
+Cumulative effect of a change in the
+  method of accounting for income
+  taxes (Note 7)                           (2,791)       --            --    
+
+Net income                             $   85,317    $   69,060    $   50,522
+
+Earnings per share:
+  Income before cumulative effect of
+    a change in accounting principle   $     2.16    $     1.91    $     1.42
+
+  Cumulative effect of a change in
+    the method of accounting for
+    income taxes                             (.07)       --            --    
+
+  Net income                           $     2.09    $     1.91    $     1.42
+
+Shares used to compute earnings
+ per share (Note 1)                        40,847        38,253        35,666
+
+
+                See notes to consolidated financial statements
+
+                                                                          
+                         AVNET, INC. AND SUBSIDIARIES
+
+                          CONSOLIDATED BALANCE SHEETS
+                            (Dollars in Thousands)
+
+                                                        July 1,     June 30,
+                                                         1994          1993  
+Assets:
+  Current assets:
+    Cash and cash equivalents                         $   53,876  $  219,827
+    Receivables, less allowances of $21,975 and
+      $14,736, respectively                              573,569     359,200
+    Inventories (Note 2)                                 627,022     491,769
+    Other                                                  9,614       4,797
+
+      Total current assets                             1,264,081   1,075,593
+
+  Property, plant and equipment, at cost,
+    net (Note 3)                                         115,146     102,539
+  Intangibles and other assets (Note 4)                  408,460      69,181
+
+      Total assets                                    $1,787,687  $1,247,313
+
+Liabilities:
+  Current liabilities:
+    Borrowings due within one year (Note 5)           $       47  $      107
+    Accounts payable                                     252,915     182,227
+    Accrued expenses and other (Note 6)                  123,135      90,196
+
+      Total current liabilities                          376,097     272,530
+
+  Long-term debt, less due within one year
+   (Note 5)                                              303,075     106,623
+
+  Commitments and contingencies (Notes 9 and 11)                             
+                                                                             
+      Total liabilities                                  679,172     379,153
+
+Shareholders' equity (Note 10):
+  Common stock $1.00 par, authorized 60,000,000
+    shares, issued 41,104,000 shares and
+    36,131,000 shares, respectively                       41,104      36,131
+  Additional paid-in capital                             307,149     138,230
+  Retained earnings                                      780,266     719,308
+  Cumulative translation adjustments                  (    9,692) (   14,313)
+  Common stock held in treasury at cost, 445,000
+    shares and 483,000 shares, respectively           (   10,312) (   11,196)
+
+
+      Total shareholders' equity                       1,108,515     868,160
+
+      Total liabilities and shareholders' equity      $1,787,687  $1,247,313
+
+
+
+
+
+                See notes to consolidated financial statements
+
+
+<TABLE>
+
+                                    AVNET, INC. AND SUBSIDIARIES
+
+                          CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                                                         
+                     YEARS ENDED JULY 1, 1994, JUNE 30, 1993 AND JUNE 30, 1992
+                                              (Dollars in Thousands)
+
+<CAPTION>
+                                              Additional              Cumulative                 Total
+                                  Common       Paid-in     Retained   Translation  Treasury   Shareholders' 
+                                   Stock        Capital     Earnings   Adjustments    Stock       Equity    
+
+<S>                                <C>         <C>          <C>         <C>        <C>        <C>                                  
+       <C>
+Balance, June 30, 1991             $36,006     $134,432     $642,384    $ 1,129    ($12,527)   $   801,424
+
+Net income                                                    50,522                                50,522
+Dividends, $.60 per share                                  (  21,298)                          (    21,298)
+Cumulative translation adjustments                                        4,627                      4,627
+Other, net, principally stock option                                                            
+  and incentive programs                37        1,198                                 711          1,946
+
+Balance, June 30, 1992              36,043      135,630      671,608      5,756    ( 11,816)       837,221
+
+Net income                                                    69,060                                69,060
+Dividends, $.60 per share                                  (  21,360)                          (    21,360)
+Cumulative translation adjustments                                     ( 20,069)               (    20,069)
+Other, net, principally stock option
+  and incentive programs                88        2,600                                 620          3,308
+
+Balance, June 30, 1993              36,131      138,230      719,308   ( 14,313)   ( 11,196)       868,160
+
+Net income                                                    85,317                                85,317                 
+
+Dividends, $.60 per share                                   ( 24,359)                              (24,359)                        
+                                                
+Cumulative translation adjustments                                        4,621                      4,621  
+Acquisition of Hall-Mark Electronics
+  (Note 15)                          4,858      165,717                                            170,575
+Other, net, principally stock option    
+ and incentive programs               115        3,202                                 884          4,201
+  
+Balance, July 1, 1994              $41,104     $307,149     $780,266   ( $9,692)   ($10,312)    $1,108,515
+                                                                                                           
+
+</TABLE>                                                                   
+
+                             
+                                                                               
+                                  
+                        See notes to consolidated financial statements
+
+                          AVNET, INC. AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                             (Dollars in Thousands)
+
+                                                          Years Ended          
+                                              July 1,     June 30,   June 30,   
+                                               1994         1993       1992  
+Cash flows from operating activities:
+  Net income                                 $ 85,317    $ 69,060    $50,522
+  Add non-cash and other reconciling items:
+    Depreciation and amortization              31,822      22,845     24,041
+    Deferred taxes                            (10,250)      1,719   (  1,283)
+    Cumulative effect of change in
+      accounting for income taxes               2,791        --         --     
+    Other, net (Note 12)                       14,343       2,922      5,023
+                                              124,023      96,546     78,303
+  Receivables                               ( 127,979)  (  38,434)  ( 40,511)
+  Inventories                               (  27,853)  (  13,210)  (  1,691)
+  Payables, accruals and other, net            54,054       4,970     40,896
+
+    Net cash flows provided from
+     operations                                22,245      49,872     76,997
+
+Cash flows from financing activities:
+  Issuance of notes in public offering, net
+    of issuance costs                          98,772        --         --   
+  Issuance of bank debt, net of issuance
+    costs                                      94,964        --         --   
+  Repurchase of debentures                       --     (  68,117)  ( 25,083)
+  Payment of other debt                     (     149)  (   1,432)  (    168)
+  Cash dividends (Note 12)                  (  29,706)  (  21,342)  ( 21,287)
+  Other, net                                    2,549       1,346        539 
+
+    Net cash flows provided from (used for)
+     financing                                166,430   (  89,545)  ( 45,999)
+
+Cash flows from investing activities:
+  Purchases of property, plant and
+   equipment                                (  21,441)  (  15,094)  ( 25,064)
+  Acquisition of operations, net (Note 12)  ( 333,206)  (  36,183)  ( 39,672)
+  Disposition (acquisition) of interest-
+   bearing investments, net                      --       255,075   (  5,367)
+  Other, net                                       21   (   1,191)        50
+
+    Net cash flows (used for) provided    
+     from investing                         ( 354,626)    202,607   ( 70,053)
+
+Cash and cash equivalents:
+       - (decrease) increase                ( 165,951)    162,934   ( 39,055)
+       - at beginning of year                 219,827      56,893     95,948  
+       - at end of year                      $ 53,876    $219,827    $56,893
+
+Additional cash flow information (Note 12)
+
+Net (decrease) in cash and total
+  interest-bearing investments              ($165,951)  ($ 84,847)  ($36,688)
+
+                 See notes to consolidated financial statements
+                                        <PAGE>
+
+                         AVNET, INC. AND SUBSIDIARIES
+
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.    Summary of significant accounting policies:
+
+      Principles of consolidation - The statements include the accounts of the 
+      Company and all of its subsidiaries.  All intercompany accounts and
+      transactions have been eliminated.
+
+      Inventories - Stated at cost (first-in, first-out) or market, whichever is
+      lower.
+
+      Depreciation - Depreciation is generally provided for by the straight-line
+      method over the estimated useful lives of the assets.
+
+      Income taxes - No provision for U.S. income taxes has been made for
+      $52,018,000 of cumulative unremitted earnings of foreign subsidiaries
+      because those earnings are expected to be permanently reinvested outside
+      the U.S.  If such earnings were remitted to the U.S., any net U.S. income
+      taxes would not have a material impact on the results of operations of the
+      Company.
+
+      Statement of cash flows - The Company considers all highly liquid debt
+      instruments purchased with a maturity of three months or less to be cash
+      equivalents.
+
+      Earnings per share - In computing earnings per share for fiscal 1994 and
+      1992, the 6% Convertible Subordinated Debentures were not considered
+      common equivalent shares because they would have been anti-dilutive.  The
+      8% Convertible Subordinated Debentures, which were fully redeemed during
+      fiscal 1993 (see Note 5), were not considered common equivalent shares in
+      fiscal 1993 and 1992 as they would have been anti-dilutive.
+
+      Fiscal Year - Effective in fiscal 1994, the Company changed its fiscal
+      year to end on the Friday closest to June 30th.  The impact on the current
+      year of one additional day of operations was not material.
+      
+2.    Inventories:
+                                                       July 1,       June 30,
+      (Thousands)                                       1994           1993  
+
+      Finished goods                                  $554,813       $422,823
+      Work-in-process                                    2,730          2,861
+      Raw materials                                     69,479         66,085
+ 
+                                                      $627,022       $491,769
+
+3.    Property, plant and equipment:
+                                                       July 1,       June 30,
+      (Thousands)                                       1994           1993  
+
+      Land                                            $  8,275       $  6,525
+      Buildings                                         77,628         73,547
+      Machinery, fixtures and equipment                193,617        174,732
+      Leasehold improvements                             3,886          7,562
+
+                                                       283,406        262,366
+      Less accumulated depreciation                    168,260        159,827
+
+                                                      $115,146       $102,539
+
+
+
+                         AVNET, INC. AND SUBSIDIARIES
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+4.    Intangibles:
+
+      Intangibles (net of amortization) at July 1, 1994, totaling $382,548,000,
+      including $351,505,000 arising from fiscal year 1994 acquisitions of Hall-
+      Mark Electronics Corporation, Avnet Adelsy and Avnet DeMico (see Notes 12
+      and 15), consist primarily of goodwill.  At July 1, 1994, goodwill
+      applicable to purchases made after October 31, 1970 of $375,173,000, net
+      of amortization, is being amortized over 40 years on the straight-line
+      method.
+
+
+5.    External financing:
+
+                                                       July 1,       June 30,
+      (Thousands)                                       1994           1993  
+                                                                    
+
+      6% Convertible Subordinated Debentures
+        due April 15, 2012, convertible
+        at $43 per share                              $105,285       $105,285
+ 
+      6 7/8% Notes due March 15, 2004                  100,000          --
+
+      Bank Syndicated Credit Facility                   95,000          --     
+                     
+      Other                                              2,837          1,445
+
+                                                       303,122        106,730
+      Less borrowings due within one year                   47            107
+
+      Long-term debt                                  $303,075       $106,623
+
+
+      During fiscal 1994, the Company established a three-year, floating  rate
+      (4.6% at July 1, 1994), revolving credit agreement with a syndicate of
+      banks led by NationsBank of North Carolina, N.A. which provides a line of
+      credit of up to $150,000,000.  Also, during fiscal 1994 the Company raised
+      $100,000,000 (before deducting underwriting fees and other costs) in the
+      public market by issuing the 6 7/8% Notes due March 15, 2004.
+      
+      On October 1, 1992, the Company redeemed all of the $67,576,000
+      outstanding 8% Convertible Subordinated Debentures at the redemption price
+      of 100.8% of their principal amount together with accrued interest to the
+      redemption date.  The loss on extinguishment of these debentures was not
+      material.
+
+      Annual payments on external financing in 1995, 1996, 1997, 1998 and 1999
+      will be $47,000, $105,000, $95,113,000, $120,000 and $129,000,
+      respectively.
+
+
+
+
+
+
+
+                         AVNET, INC. AND SUBSIDIARIES
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+6.    Accrued expenses and other: 
+
+                                                       July 1,       June 30,  
+      (Thousands)                                       1994           1993 
+      
+      Payroll and related                             $36,921        $26,725
+      Insurance                                        15,197         14,353
+      Interest                                          4,871          2,760
+      Income taxes                                      4,615          8,154
+      Dividend payable (Note 12)                         --            5,347
+      Other                                            61,531         32,857
+
+                                                     $123,135        $90,196
+
+7.    Income taxes:
+
+      Effective July 1, 1993, the Company adopted the provisions of Statement of
+      Financial Accounting Standards (SFAS) No. 109 "Accounting for Income
+      Taxes" and recognized a charge for the cumulative effect of the change in
+      accounting principle in the amount of $2,791,000 ($.07 per share).  SFAS
+      No. 109 requires the use of the asset and liability method for recording
+      deferred income taxes wherein deferred tax assets and liabilities are
+      recognized for the estimated future tax consequences attributable to
+      differences between the financial statement and tax bases of assets and
+      liabilities.  It also requires the Company to adjust deferred income tax
+      balances to reflect changes in current income tax rates and to record the
+      impact of a change in tax rates in the income statement in the period that
+      the change is enacted.
+
+      A reconciliation between the federal statutory tax rate and the effective
+      tax rate is:
+
+                                                         Years Ended         
+                                              July 1,     June 30,    June 30,
+                                               1994         1993        1992 
+
+      Federal statutory rate                  35.0%         34.0%      34.0%
+      State and local income taxes,
+        net of federal benefit                 4.9           5.0        4.2
+      Amortization of goodwill                 2.2           --         --
+      Other, net                               1.0            .5        1.2 
+ 
+      Effective tax rate                      43.1%         39.5%      39.4% 
+
+      
+      The components of the provision for income taxes are indicated in the next
+      table.  The provision (future tax benefit) for deferred income taxes
+      results from timing differences arising principally from inventory
+      valuation, accounts receivable valuation and depreciation.
+
+
+
+
+
+                                       
+
+                         AVNET, INC. AND SUBSIDIARIES
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+7.    Income taxes (Continued):
+
+      (Thousands)                                       Years Ended            
+                                              July 1,     June 30,    June 30,
+      Current:                                 1994         1993        1992  
+        Federal                               $53,212     $31,342     $26,346 
+        State and local                        13,749       7,927       5,419 
+        Foreign                                10,019       4,135       2,422
+        Total current taxes                    76,980      43,404      34,187
+
+      Deferred:
+        Federal                                (8,609)        777        (571)
+        State and local                        (2,103)        211        (498)
+        Foreign                                   462         731        (214)
+        Total deferred taxes                  (10,250)      1,719      (1,283)
+        Provision for income taxes            $66,730     $45,123     $32,904
+      
+                                                     
+      The current year tax provision includes an additional $500,000 federal tax
+      provision for the impact of the retroactive increase in federal income tax
+      rates enacted in fiscal 1994 as it relates to fiscal 1993 income.  In
+      addition, $10,786,000 of income tax benefit, net, was recorded as an
+      adjustment to goodwill for the tax impact of adjustments to the value of
+      assets and liabilities acquired in connection with the acquisition of
+      Hall-Mark Electronics.
+
+
+      The significant components of deferred tax assets and liabilities included
+      on the balance sheet as of the beginning and end of fiscal 1994 were as
+      follows:
+
+                                                          July 1,     July 1,
+                                                           1994        1993  
+
+      Deferred tax assets:
+        Inventory valuation                               $13,593     $ 6,345
+        Accounts receivable valuation                       6,084       5,309
+        Various accrued liabilities and other               7,562       7,492
+                                                           27,239      19,146
+
+      Deferred tax liabilities:
+        Depreciation and amortization 
+          of fixed assets                                   4,987       8,530
+        Other                                               6,057       6,828
+                                                           11,044      15,358
+
+      Net deferred asset                                  $16,195     $ 3,788
+      
+
+
+
+
+
+                         AVNET, INC. AND SUBSIDIARIES
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+8.    Pension and profit sharing plans:
+
+      During the three years ended July 1, 1994, the following amounts were
+      charged (credited) to income under the Company's pension plan, 401(k) plan
+      and a discretionary profit sharing plan:
+
+                                                         Years Ended           
+                                                July 1,    June 30,   June 30,
+      (Thousands)                                1994        1993      1992  
+      Pension                                   ($ 796)    ($1,008)   ($977)
+      401(k)                                       851         447      438
+      Profit sharing                               913         695      638
+
+      The Company's noncontributory defined benefit pension plan and its 401(k)
+      plan cover substantially all domestic employees, except for those at one
+      unit covered by a profit sharing plan.  The noncontributory pension plan
+      was amended as of January 1, 1994 to provide defined benefits pursuant to
+      a cash balance feature whereby a participant accumulates a benefit based
+      upon a percentage of current salary, which varies with age, and interest
+      credits.  At July 1, 1994, the market value of the pension plan assets was
+      $110,333,000 and these assets were comprised of U.S. Government securities
+      (58%), common stocks (25%), money market funds (14%) and corporate debt
+      obligations (3%).
+
+      In each of the last three years, the assumed interest rate and the
+      expected return on plan assets were 8% while assumed salary increases were
+      approximately 6% in 1993 and 1992.  Under the cash balance plan adopted
+      during fiscal 1994 service costs are based solely on current year salary
+      levels; therefore, projected salary increases are not taken into account.
+      The pertinent calculations covering the pension credits, obligations and
+      prepaid pension cost are summarized below:
+
+      Credits to income:
+                                                           Years Ended         
+      (Thousands)                                   July 1,   June 30,  June 30,
+
+                                                   1994       1993       1992  
+      Earned:
+        Return on Plan assets - actual          $ 2,221    $12,032    $11,254
+        Lower (higher) than expected
+          return - deferred                       6,224   (  4,264)  (  3,939)
+        Expected return                           8,445      7,768      7,315
+        Amortization of 7/1/85 excess assets      2,830      2,830      2,830
+        Amortization of prior service
+         credits (costs)                            110       (101)      (101)
+
+                                                 11,385     10,497     10,044
+      Less benefits:
+        Present value of benefits
+         earned during year                       4,854      4,239      4,179
+        Interest on projected benefit obligation   5,735     5,250      4,888
+
+                                                 10,589      9,489      9,067
+
+      Net credit to income                       $  796    $ 1,008   $    977
+
+                                       
+                         AVNET, INC. AND SUBSIDIARIES
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+8.    Pension and profit sharing plans (continued):
+
+
+      Funded status of the Plan:
+                                            
+      (Thousands)                            July 1,     June 30,    June 30,
+                                              1994         1993        1992  
+      Projected benefit obligation:
+        Vested benefits                    $ 73,343     $ 65,803   $ 61,130
+        Non-vested benefits                   2,894        2,402      2,229
+
+          Accumulated benefit obligation     76,237       68,205     63,359
+
+      Future salary assumption                --           5,253      5,395
+
+          Projected benefit obligation       76,237       73,458     68,754
+
+      Unamortized 7/1/85 excess assets       18,958       21,788     24,618
+      Cumulative higher than expected:  
+        Return on Plan assets                 4,223       10,447      7,344
+        Projected benefit obligation         (1,666)        (895)    (3,783)
+      Unamortized prior service credits
+        (costs)                               3,898         (915)    (1,016)
+                                            101,650      103,883     95,917
+  
+      Less market value of Plan assets      110,333      111,769    102,795
+
+      Prepaid pension cost                 $  8,683     $  7,886   $  6,878
+
+
+
+      The absence of a future salary assumption amount and the large unamortized
+      prior service credit for the year ended July 1, 1994 are due to the
+      adoption of the cash balance plan.  Not included in the above tabulations
+      are pension plans of certain non-U.S. subsidiaries which are not material.
+
+
+
+
+
+
+
+
+
+
+
+
+                                       <PAGE>
+                         AVNET, INC. AND SUBSIDIARIES
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+ 9.   Long-term leases:
+
+      The Company leases many of its operating facilities and is also committed
+      under lease agreements for transportation and operating equipment.  Rent
+      expense charged to operations for the three years ended July 1, 1994 is as
+      follows:
+                                              Years Ended                 
+                                  July 1,         June 30,       June 30,
+      (Thousands)                   1994            1993           1992 
+
+         Buildings                $17,487         $14,779        $12,681
+         Equipment                  5,307           2,811          2,399
+                                  $22,794         $17,590        $15,080
+
+      At July 1, 1994, aggregate future minimum lease commitments, principally
+      for buildings, in 1995, 1996, 1997, 1998, 1999 and thereafter (through
+      2003) are $13,448,000, $9,145,000, $5,893,000, $4,015,000, $2,673,000 and
+      $5,356,000, respectively.
+
+
+10.   Stock option and incentive programs:
+
+      The Company has three stock option plans with shares still available for 
+        grant:
+
+                                     
+                                       1990                  1984 AND 1988
+                                  QUALIFIED PLAN          NON-QUALIFIED PLANS
+
+      Minimum exercise price as 
+      a percentage of fair market
+      value at date of grant            100%                       50%
+
+      Life of options                 10 years                  10 years
+
+      Exercisable                  In whole or            25% annually after
+                                   installments           one year
+
+      Plan termination date          11/28/00             1984 plan - 12/31/94
+                                                          1988 plan - 12/31/98
+
+      Shares available for 
+      grant at July 1, 1994           684,500                    325,796      
+                
+      Under the non-qualified plans, the excess of the fair market value at the 
+      date of grant over the exercise price is considered deferred compensation 
+      which is amortized and charged against income as it is earned.
+
+
+
+
+
+
+                         AVNET, INC. AND SUBSIDIARIES
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+10.  Stock option and incentive programs (continued):
+
+    Pertinent information covering options is:
+
+    Option and market prices are             
+    per share                          1994           1993            1992   
+
+    Outstanding at end of year:
+      Shares - Total                 1,193,334        577,563          627,013
+               Exercisable             489,637        343,563          354,888
+
+      Option prices               $13.50-38.50   $11.75-34.50     $11.75-42.13
+      Market prices at                        
+        date granted              $19.75-38.50   $19.75-38.19     $19.75-42.13
+
+    Granted: 
+      Shares                           821,590         69,000           93,000
+      Option prices               $17.63-38.50   $28.00-34.50     $18.50-26.50
+
+    Exercised:
+      Shares                           114,445         87,950           37,700
+      Option prices               $11.75-34.00   $14.00-31.25     $11.75-24.25
+ 
+    Cancelled and expired:
+      Shares                            91,374         30,500           41,700
+      Option prices               $17.63-38.50   $19.75-42.13     $14.00-42.13
+
+
+    Under the incentive stock program, a total of 254,312 shares are still 
+    available for award based on operating achievements.  Delivery of 
+    incentive shares is spread equally over a four-year period and is subject
+    to the employee's continuance in the Company's employ.  As of July 1, 1994,
+    48,547 shares previously awarded have not yet been delivered.  The program
+    will terminate on October 31, 1995.
+
+    At July 1, 1994, common shares reserved for stock option and stock
+    incentive programs and conversion of debentures were 4,954,977 shares.
+
+
+11. Contingent liabilities:
+
+    From time to time, the Company may become liable with respect to pending
+    and threatened litigation, taxes, and environmental and other matters.  The
+    Company has been designated a potentially responsible party or has had
+    other claims made against it in connection with environmental clean-ups at
+    several sites.  Based upon the information known to date, the Company
+    believes that it has appropriately reserved for its share of the costs of
+    the clean-ups and it is not anticipated that any contingent matters will
+    have a material adverse impact on the Company's financial condition,
+    liquidity or results of operations.
+
+
+
+
+
+                         AVNET, INC. AND SUBSIDIARIES
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+12. Additional cash flow information:
+
+    Other non-cash and reconciling items primarily include provisions for
+    doubtful accounts and gains and losses on dispositions of marketable
+    securities.
+
+    Due to the change in the Company's fiscal year (see Note 1) and its
+    historical dividend payment dates, 1994 includes the cash payment of the
+    July 1, 1994 dividend.  This results in five quarterly dividend payments
+    being included in 1994 and the absence of an unpaid dividend at year end.
+
+    In 1994 the Company acquired Hall-Mark Electronics Corporation, the
+    nation's third largest distributor of electronic components, and Avnet
+    Adelsy and Avnet DeMico, two Italian based electronic component
+    distributors, for a total investment of $501,831,000 (net of $8,719,000 of
+    cash on the books of the companies acquired) of which $333,206,000 was paid
+    in cash, $166,093,000 in Avnet stock and $2,532,000 in Avnet stock options,
+    net of related tax benefits of $1,950,000.
+
+    In 1993 the Company acquired Avnet Nortec, a Scandinavian electronics
+    distributor, and Avnet E2000, a German electronics distributor for a total
+    investment of $36,491,000 paid in cash.  In April 1992, the Company
+    acquired Avnet Composants, a French electronics distributor, for a total
+    investment of approximately $41,240,000 paid in cash. The net cash
+    disbursed in each of the three years in connection with these transactions,
+    as well as the net cash collected in those years from prior dispositions,
+    are reflected as cash flows arising from disposition or acquisition of
+    operations.
+
+    Interest and income taxes paid were as follows:
+
+                                                        Years Ended          
+                                               July 1,     June 30,   June 30,
+    (Thousands)                                 1994         1993       1992 
+
+    Interest                                   $12,622     $12,819    $13,810
+    Income taxes                               $58,128     $40,513    $33,636
+
+
+
+
+
+
+
+                                               
+
+<PAGE>
+                       
+                       AVNET, INC. AND SUBSIDIARIES
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+13. Industry segment data:
+
+    Operating profit of the three business segments excludes general
+    corporate expenses, interest expense, income taxes and certain other
+    transactions.
+
+                                                           Property, plant
+    (Millions)                Operating   Identifiable      and equipment    
+    Segments         Sales      Profit       Assets    Depreciation Additions
+
+    Electronic
+    Marketing
+    1994            $3,161.5      $174.4     $1,578.1      $15.8       $18.1
+    1993             1,917.3       113.5        866.3       12.7        11.1
+    1992             1,473.5        81.7        765.6       13.7        10.8
+
+    Video
+    Communications
+    1994               199.4        11.1         69.4        3.2         3.0
+    1993               134.0         4.7         68.0        4.1         2.5
+    1992               104.9         4.6         63.1        3.7         3.8
+    
+    Electrical &
+    Industrial
+    1994               186.8         2.5        101.8        2.2         2.0
+    1993               186.7         2.7         99.2        2.1         3.4
+    1992               180.6         4.1        103.0        1.8         8.8
+    
+    Corporate
+    Office                
+    1994                --         (33.2)        38.4         .4          .1
+    1993                --         ( 6.7)       213.8         .5          .2
+    1992                --         ( 7.0)       311.0         .5          .5
+    
+    Consolidated
+    1994            $3,547.7      $154.8     $1,787.7      $21.6       $23.2
+    1993             2,238.0       114.2      1,247.3       19.4        17.2
+    1992             1,759.0        83.4      1,242.7       19.7        23.9
+
+    Foreign operations, included above in the applicable operating group       
+    figures.
+
+    1994              $609.0       $30.2       $323.6       $2.9        $5.4
+    1993               403.4        16.0        224.8        2.7          .9
+    1992               174.5         4.4        153.9        2.0         4.7
+  
+   The segments are described on pages 3 to 11.  The identifiable assets   in
+   the Corporate Office are primarily cash and cash equivalents.  The
+   significant increase in sales, operating profit and identifiable assets for
+   both the Electronic Marketing Group and Consolidated were due primarily to
+   the impact of the July 1, 1993 acquisition of Hall-Mark.  The increase in the
+   operating loss for the Corporate Office was due primarily to a decrease in
+   investment income and an increase in interest expenses as a result of the
+   Company's liquidation of its marketable securities portfolio and the increase
+   in debt in order to fund a portion of the costs of the acquisitions of Hall-
+   Mark, Avnet Adelsy and Avnet De Mico.
+
+                         AVNET, INC. AND SUBSIDIARIES
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+14. Restructuring and integration charges:
+
+    During the first quarter of 1994, the Company recorded a special charge of
+    $22,702,000 ($13,498,000 after tax or $0.33 per share) for restructuring and
+    integration costs associated with the July 1, 1993 acquisition of Hall-Mark
+    and the restructuring of the Electrical and Industrial Group.  These costs
+    included accruals for severance, real and personal property lease
+    terminations, relocation of employees, inventory adjustments related to
+    supplier terminations and other items.  As of the end of fiscal 1994,
+    approximately $6,000,000 of the charge has not yet been utilized.  It is
+    currently anticipated that the remaining balance will be expended by the end
+    of calendar 1994, except for amounts related to longer term real and
+    personal property lease and severance commitments.
+
+
+15. Acquisition of Hall-Mark Electronics Corporation:
+
+    On July 1, 1993, the Company completed the acquisition of all of the stock
+    of Hall-Mark Electronics Corporation, the nation's third largest distributor
+    of electronic components, pursuant to an Agreement and Plan of Merger dated
+    April 20, 1993.  Each share of Hall-Mark common stock was exchanged for $20
+    in cash and 0.45 shares of Avnet common stock, which had a market value of
+    $34.1875 per share on July 1, 1993.  The total cost of the acquisition
+    including expenses was approximately $496,559,000, consisting of the cost
+    for the Hall-Mark common stock of $218,409,000 in cash, $166,093,000 in
+    Avnet stock and $2,532,000 in Avnet stock options (net of related tax
+    benefits of $1,950,000), and the cost for the refinancing of Hall-Mark bank
+    debt of $109,525,000.  The $327,934,000 of funding required to complete the
+    transaction was financed through cash on hand, proceeds from the exercise
+    of Hall-Mark options and warrants, and borrowings under a credit facility
+    with NationsBank of North Carolina, N.A.  The transaction was accounted for
+    as a purchase.  Had the acquisition been completed as of July 1, 1992,
+    fiscal 1993 sales, net income and earnings per share for the Company on a
+    proforma basis would have been $2,982,000,000, $79,000,000 and $1.93 per
+    share, respectively (unaudited).
+<PAGE>
+                        
+                    AVNET, INC. AND SUBSIDIARIES
+
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+
+
+16. Summary of quarterly results (unaudited)
+    (Millions except per share data):
+
+                               Gross              Income            Earnings
+      Quarter       Sales     profit      Pre-tax     After tax     per share
+
+    1st -  94      $878.0     $173.0      $19.8(a)    $10.1(a)(b)   $.25(a)(b)
+        -  93       533.2      117.8        28.7       16.9          .47
+            
+  
+    2nd -  94       850.5      165.0       41.2        23.6          .58
+        -  93       526.8      115.9       25.5        15.5          .43
+
+
+    3rd -  94       900.0      172.4       43.9        25.3          .62
+        -  93       582.5      127.1       30.1        18.2          .50
+       
+   
+    4th -  94       919.2      185.7       49.9        29.1          .71
+        -  93       595.5      126.0       29.9        18.5          .51
+     
+
+    Year - 94    $3,547.7     $696.1     $154.8(a)    $88.1(a)(b)  $2.16(a)(b)
+         - 93     2,238.0      486.8      114.2        69.1         1.91
+
+     
+(a) Includes the pre-tax, after tax and earnings per share effects of $22.7
+    million, $14.0 million and $0.34 per share, respectively, of the Company's
+    restructuring and integration charges, and the retroactive impact of the
+    change in U.S. tax rates.
+
+(b) Excludes the $2.8 million and $0.07 per share charge related to the
+    cumulative effect of the change in the method of accounting for income
+    taxes.
+
+
+
+                                       <PAGE>
+     
+<TABLE>
+                                       
+                                           SCHEDULE VIII    
+                                                                            
+                                                       
+                                                 
+                                     AVNET, INC. AND SUBSIDIARIES
+
+                                   VALUATION AND QUALIFYING ACCOUNTS
+
+                     YEARS ENDED JULY 1, 1994, JUNE 30, 1993 AND JUNE 30, 1992
+                                                  (Thousands)                
+                     
+<CAPTION>
+                                                                            
+                                
+ Column A               Column B                Column C               COLUMN D       COLUMN E                          
+                                                                                                               
+                                                        Additions
+                                                
+                                                                           
+                                           
+                                           (1)              (2) 
+                                          
+                         Balance at     Charged to    Charged to                       Balance
+  Description            beginning      costs and     other accounts - Deductions -    end
+                         of period      expenses      describe         describe        of period
+                                  
+  <S>                   <C>             <C>           <C>              <C>             <C>           
+            1994
+ Allowance for doubtful
+ accounts               $14,736         $12,233       $853 (a)          $9,453(b)       $21,975
+                                                    $3,606 (c)
+
+
+            
+
+                                                                           
+                           
+                                 
+        1993                                                           
+  Allowance for doubtful
+  accounts               12,519           9,678        549 (a)           8,010 (b)        14,736
+       
+                                                                            
+                              
+                                                                            
+                              
+          1992                                                              
+                                  
+  Allowance for doubtful
+  accounts               11,212           6,347        467 (a)           5,507 (b)         12,519       
+                                                                            
+                                
+
+ (a) Recovery of amounts         
+     previously written off      
+                                 
+ (b) Uncollectible accounts
+     written off     
+
+ (c) Acquisition of Hall-Mark                                               
+                                             
+                                                                            
+                                     
+</TABLE>
+
+
+
+
+
+
+
+                               INDEX TO EXHIBITS
+
+
+
+                                                                               
+                                                                Sequentially
+Exhibit                                                           Numbered
+Number                          Exhibit                             Page
+
+
+11.      Statement regarding computation of per share earnings       49
+
+21.      List of subsidiaries of the Registrant.                     50
+
+23.      Consent of Arthur Anderson LLP.                             51
+
+
+
+
+
+</TEXT>
+
+</DOCUMENT>
+
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<DESCRIPTION>COMPUTATION OF EPS
+<TEXT>
+
+
+
+                                     EXHIBIT 11
+<TABLE>
+                      AVNET, INC. AND SUBSIDIARIES
+
+                   COMPUTATION OF EARNINGS PER SHARE
+                   (Thousands except per share data)
+
+         
+(A) In computing earnings per share, common shares issuable upon the exercise of
+  outstanding stock options have been considered as common equivalent shares.  In
+  computing earnings per share in fiscal 1994 and 1992, the 6% Convertible
+  Subordinated Debentures were not considered common equivalent shares because
+  they would have been anti-dilutive.  The 8% Convertible Subordinated
+  Debentures, which were fully redeemed during fiscal 1993 (see Note 5), were not
+  considered common equivalent shares in fiscal 1993 and 1992 as they would have
+  been anti-dilutive.
+<CAPTION>
+                                                                Years Ended         
+                                                      July 1,     June 30,  June 30,
+                                                       1994         1993       1992
+<S>                                                   <C>         <C>        <c        > 
+       TABLE A - Computation of earnings per share:
+         Weighted average number of common shares      40,590     35,592     35,494
+
+         Common equivalent shares:
+           Conversion of 6% Convertible          
+             Subordinated Debentures                     --        2,449        --
+           Issuance of incentive shares and         
+             exercise of employee's stock options, 
+             using treasury stock method                  257        212        172
+
+         Common and common equivalent shares used     
+           to compute earnings per share               40,847      38,253    35,666
+
+         Income before cumulative effect of a
+           change in accounting principle             $88,108     $69,060    $50,522
+         Interest expense on convertible
+           debentures - net of tax                       --         3,847      --   
+
+         Income used for computing earnings per
+           share before cumulative effect of a
+           change in accounting principle              88,108      72,907      50,522
+         Cumulative effect of a change in the 
+           method of accounting for income taxes       (2,791)       --          --  
+
+         Income used for computing earnings
+           per share                                  $85,317     $72,907     $50,522
+       
+         Earnings per common share based upon the
+           weighted average number of shares
+           outstanding during the year:
+ 
+           Income before cumulative effect of a
+             change in accounting principle             $2.16       $1.91       $1.42
+           Cumulative effect of a change in          
+             the method of accounting for 
+             income taxes                               (0.07)       --          --  
+
+           Net income                                   $2.09       $1.91       $1.42
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<TEXT>
+
+                                  EXHIBIT 21
+
+                         AVNET, INC. AND SUBSIDIARIES
+                          SUBSIDIARIES OF AVNET, INC.
+
+
+
+                                                                JURISDICTION
+NAME                                                          OF INCORPORATION
+
+AB Avnet EMG which includes eight subsidiaries                    Sweden
+Allied Electronics, Inc.                                          Delaware
+Avnet, Inc.                                                       Delaware
+Avnet Computer Technologies, Inc.                                 Delaware
+Avnet Computer Technologies Leasing, Inc.                         Delaware
+AVNET E 2000 GmbH elektronische Bauelemente which includes
+ a group of five companies                                        Germany
+Avnet Electronic Marketing Group SRL                              Italy
+Avnet EMG Ltd. which includes seven subsidiaries                  England
+Avnet France, S.A. which includes four subsidiaries               France
+Avnet Holding Germany GmbH                                        Germany
+Avnet Industries (Malaysia) SDN. BHD.                             Malaysia
+Avnet International (Canada) Ltd. does business as:               Ontario
+  Hamilton Hallmark
+  Hall-Mark Computer Products
+  Avnet Computer
+  Avnet Leasing Center
+  Mechanics Choice Canada
+  Time Electronics
+Avnet Marketing Services                                          California
+Avnet International (Taiwan) Ltd.                                 Taiwan
+Avnet Properties Corporation                                      Delaware
+Avnet-Time Limited                                                England
+Brownell Electro, Inc.                                            New York
+Channel Master (Holdings) Limited                                 England
+Channel Master (UK) Limited                                       England
+Channel Master Communications, Inc.                               Delaware
+Channel Master Satellite Systems, Inc.                            New York
+Disti Export Trading Corp.                                        Barbados
+Duso Advertising, Inc.                                            New York
+Electro Air PTE Ltd.                                              Singapore
+Freeman Products, Inc.                                            Delaware
+Optional Systems Resource, Inc.                                   Delaware
+Pen-Stock, Inc.                                                   California
+TEG Communications, Inc.                                          New York
+Texas Freeman Products, Inc.                                      Texas
+Time Electronics of California, Inc.                              California
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>4
+<TEXT>
+
+
+
+
+
+                                       
+
+                                  EXHIBIT 23
+
+
+CONSENT OF INDEPENDENT AUDITORS
+
+
+
+
+As independent public accountants, we hereby consent to the incorporation by
+reference of our report dated August 10, 1994 included in this Form 10-K in the
+Registration Statement No. 33-62462 on Form S-4 relating to common stock of
+Avnet, Inc. and Registration Statements, No. 2-84883, No. 2-96800,
+No. 33-29475, No. 33-43855 and No. 2-94916 on Forms S-8 relating to common stock
+of Avnet, Inc. issuable under the 1981, 1984, 1988 and 1990 Stock Option Plans
+and the Avnet Incentive Stock Program respectively.
+
+
+
+                                    s/ARTHUR ANDERSEN LLP
+
+New York, New York
+September 27, 1994
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+CONSOLIDATED BALANCE SHEET AND INCOME STATEMENT  AND IS QUALIFIED  IN ITS
+ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUL-01-1994
+<PERIOD-END>                               JUL-01-1994
+<CASH>                                          53,876
+<SECURITIES>                                         0
+<RECEIVABLES>                                  595,544
+<ALLOWANCES>                                    21,975
+<INVENTORY>                                    627,022
+<CURRENT-ASSETS>                             1,264,081
+<PP&E>                                         283,406
+<DEPRECIATION>                                 168,260
+<TOTAL-ASSETS>                               1,787,687
+<CURRENT-LIABILITIES>                          376,097
+<BONDS>                                        303,075
+<COMMON>                                        41,104
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                   1,067,411
+<TOTAL-LIABILITY-AND-EQUITY>                 1,787,687
+<SALES>                                      3,547,743
+<TOTAL-REVENUES>                             3,552,529
+<CGS>                                        2,851,681
+<TOTAL-COSTS>                                2,851,681
+<OTHER-EXPENSES>                                49,829
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                              14,733
+<INCOME-PRETAX>                                154,838
+<INCOME-TAX>                                    66,730
+<INCOME-CONTINUING>                             88,108
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                  2,791
+<CHANGES>                                            0
+<NET-INCOME>                                    85,317
+<EPS-PRIMARY>                                     2.09
+<EPS-DILUTED>                                     2.09
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

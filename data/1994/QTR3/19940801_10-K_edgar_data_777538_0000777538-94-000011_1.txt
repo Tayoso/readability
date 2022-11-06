@@ -1,0 +1,5256 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ PULK6hFkPx0IGeGn/tf3lhJrEw/d7pTBUBlRenn37nsguMNfbGUWbSJs8Qaz7kn4
+ RWb9fMhMrtsarh/gE2bb9g==
+
+<IMS-DOCUMENT>0000777538-94-000011.txt : 19940803
+<IMS-HEADER>0000777538-94-000011.hdr.sgml : 19940803
+ACCESSION NUMBER:		0000777538-94-000011
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19940331
+FILED AS OF DATE:		19940801
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STOKELY USA INC
+		CENTRAL INDEX KEY:			0000777538
+		STANDARD INDUSTRIAL CLASSIFICATION:	2033
+		IRS NUMBER:				390513230
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-13943
+		FILM NUMBER:		94541128
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1055 CORPORATE CENTER DR
+		CITY:			OCONOMOWOC
+		STATE:			WI
+		ZIP:			53066
+		BUSINESS PHONE:		4145691800
+
+	MAIL ADDRESS:	
+		STREET 1:		1055 CORPORATE CENTER DRIVE
+		CITY:			OCONOMOC
+		STATE:			WI
+		ZIP:			53066
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+
+                    SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON, D.C.  20549
+
+                                 FORM 10-K
+
+                  ANNUAL REPORT UNDER SECTION 13 OR 15(d)
+                  OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+For the fiscal year ended               Commission File Number
+March 31, 1994                          No. 0-13943
+
+
+                             STOKELY USA, INC.
+          ------------------------------------------------------
+          (Exact name of registrant as specified in its charter)
+
+          WISCONSIN                               39-0513230
+- -------------------------------        ---------------------------------
+(State or other jurisdiction of        (IRS Employer Identification No.)
+incorporation or organization)
+
+
+1055 Corporate Center Drive, Oconomowoc, WI  53066
+- --------------------------------------------------
+(Address of principal executive office)
+
+Registrant's telephone number, including area code: (414) 569-1800
+                                                    ---------------   
+
+Securities registered pursuant to Section 12(b) of the Act:  None
+
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                       Common Stock, $.05 par value
+                       ----------------------------
+                             (Title of Class)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.
+
+                         Yes   X     No      
+                             -----      -----
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of Registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K   X 
+                            -----
+
+                               Page 1 of 91<PAGE>
+State the aggregate market value of the voting stock held by non-affiliates
+of the registrant as of June 15, 1994:  $85,327,611
+
+                       Common Stock, $.05 par value
+
+
+Number of shares of Common Stock, $.05 par value, outstanding as of 
+June 15, 1994 - 8,324,645
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of Registrant's Proxy Statement to be dated July 18, 1994 (Part
+III).
+
+Page No. 2 of  91  pages
+              ----
+Exhibit index located on pages 58-61
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 2 of 91 <PAGE>
+                                  Part I
+                                  ------
+ITEM 1.  BUSINESS
+- -----------------
+(a)  General Development of Business
+     -------------------------------
+
+Stokely USA, Inc. (herein referred to as "Stokely" or the "Company") was
+established and incorporated in Wisconsin in 1920.  The Company is engaged
+principally in the business of processing, marketing and selling a broad
+range of vegetables, fruits and tomato products under the nationally
+recognized "Stokely Finest" and other brand labels; under customer private
+labels; and to food service and industrial customers.
+
+The Company reported a net loss of $2,215,000 in 1994, compared to a net
+loss of $31,127,000 in 1993.  This improvement was achieved primarily
+through improved market pricing conditions in 1994, combined with reduced
+operating costs resulting primarily from staff reductions and consolidation
+of production at larger, more efficient facilities.
+
+In addition, in 1993, the Company recorded a one-time, noncash charge of
+$14,675,000 ($21,145,000 pretax) which related to the write-down of seven
+plants to be sold, closed or downsized and the associated costs of the
+downsizing.  The Company believes that this restructuring, which is
+expected to be completed in 1995, will eliminate marginally profitable
+sales, reduce operating overhead and reduce debt requirements.  The 1993
+loss was attributable to the Company's adoption of SFAS 106 "Employers
+Accounting for Post-Retirement Benefits Other than Pensions," which
+establishes certain accounting standards for employers' accounting for
+post-retirement health care benefits.  By adopting SFAS 106, the Company
+accrued an amount for future post-retirement health care benefits equal to
+$1,650,000 ($2,500,000 pre-tax)
+
+(b)  Financial Information about Industry Segments
+     ---------------------------------------------
+
+Stokely's business is conducted in one industry segment:  the processing,
+marketing and selling of vegetables, fruits and tomato products.  The
+following table sets forth the approximate percentage of net sales
+contributed by each of Stokely's principal raw product groups.
+
+                              1994          1993         1992
+                              ----          ----         ----
+Corn                          35.8%         35.4%        33.2%
+Beans                         17.4          16.2         16.2
+Peas                          13.0          13.4         15.2
+Fruits                          .8           1.5          2.7
+Tomato Products                1.7           4.4          5.2
+Beets                          3.0           2.7          3.2
+Carrots                        4.8           4.9          4.8
+Asparagus                      2.1           2.8          2.9
+Mixed Vegetables               5.6           2.3          3.2
+Other                         15.8          16.4         13.4
+                             ------        ------       ------
+Total                        100.0%        100.0%       100.0%
+
+                               Page 3 of 91<PAGE>
+(c)  Narrative Description of Business
+     ---------------------------------
+
+Stokely processes, markets and sells a broad range of vegetables, fruits
+and tomato products under the nationally recognized "Stokely's Finest"
+label and other brand labels; under customer private labels; and to food
+service and industrial customers.  Stokely's retail sales are made to major
+national and regional supermarket chains, to wholesale distributors and to
+military commissaries.  Food service and industrial sales are made to
+restaurants, distributors and other food companies.  
+
+The wide consumer awareness of the "Stokely's Finest" brand name as a
+premium quality product is viewed by the Company as a significant aspect of
+its business.  In addition, the breadth and mix of its product lines and
+the fact that its products include both basic and specialty vegetables and
+high and low price items, enable Stokely to appeal to many different
+consumer markets.
+
+The following table shows the sales and percentage of total sales,
+contributed by the Company's brand label, private label and food
+service/institutional market groups for each of the last three fiscal
+years.
+
+<TABLE>
+                           Sales by Market Group
+                           (dollars in millions)
+
+<CAPTION>
+                               1994              1993            1992 
+                          Sales   Percent   Sales  Percent  Sales  Percent
+<S>                      <C>       <C>     <C>      <C>     <C>      <C>
+Brand Label              $ 49.4    19.3%   $  60.9  21.6%   $ 75.8   27.0%
+Private Label              94.9    37.1      110.5  39.3     101.3   36.1
+Food-service/Industrial   111.8    43.6      110.0  39.1     103.3   36.9
+                         ------    ----     ------  ----    ------   ----
+
+Total                    $256.1    100%     $281.4  100%    $280.4   100%
+                         ======    ====     ======  ====    ======   ====
+</TABLE>
+
+Products under Stokely's brand labels are marketed through independent food
+brokers who sell on a commission basis and provide local marketing and
+service to their distributors.  Of the 19% of sales under Stokely's brand
+labels, approximately 16% are under its major label, "Stokely's Finest,"
+and approximately 3% are under other regional brand labels.
+
+
+
+
+
+
+
+
+
+
+                               Page 4 of 91<PAGE>
+Private label sales involve sales to major supermarket chains and other
+food distributors of products who market under their own labels.  These
+sales are made through the Company's wholly-owned subsidiary, Oconomowoc
+Canning Company, Inc. ("OCC").  Most private label sales are made through
+commissioned brokerage representatives.
+
+Food-service/industrial sales involve sales, generally in larger
+containers, directly to or through food-service distributors, to purchasers
+of food products such as the United States government, fast-food chains,
+restaurants and hospitals.  Sales of frozen products to food-
+service/industrial customers are primarily to other food processors for
+repackaging.      
+
+For the fiscal year ended March 31, 1994, no single customer accounted for
+more than 10% of Stokely's sales.
+
+Stokely supports its marketing efforts with regional media advertising
+programs, including radio and television commercials, coupon circulation,
+newspaper and magazine advertisements, in addition to strong emphasis on
+in-store point-of-sale promotions.
+
+
+Raw Products and Processing
+- ---------------------------
+
+Stokely acquires its raw agricultural products for processing from selected
+growing areas in close proximity to each producing plant.  This is
+important since most products are "fresh-packed" within hours of harvest. 
+Most raw agricultural production is contracted before the growing season
+with farmers who agree to plant and cultivate the crops.  The price of the
+crops is negotiated before the growing season as part of the contract. 
+This method of securing raw product has been satisfactory to the Company
+and growers.  Stokely has not experienced difficulty in obtaining
+sufficient quantities of raw agricultural products to meet production
+demands.
+
+Stokely is intimately involved in all phases of crop production.  Stokely
+provides the varieties of seed, conducts periodic inspections of crops
+during the growing cycle and performs the actual harvesting for the
+growers.  In addition, Stokely continually instructs the growers on when to
+plant and how to grow its raw products.  Approximately one-third of the
+land on which Stokely's products are grown is irrigated, which, along with
+the wide diversification of Stokely-supervised acreage throughout the
+Midwest, and the Pacific Northwest, helps to minimize the risks posed by
+unfavorable growing conditions.
+
+Stokely purchases its can requirements from several can suppliers.  Payment
+for the cans is deferred as is customary in the industry.  Stokely has good
+working relationships with its can vendors and has not experienced any
+difficulty in obtaining adequate supplies of cans for production.
+
+
+
+
+
+                               Page 5 of 91<PAGE>
+Trademarks
+- ----------
+
+"Stokely's Finest" is a registered United States trademark and is of
+material importance to the Company since approximately 19% of sales are
+attributable to products bearing this trademark.  Stokely's ability to
+compete in all segments of the market depends upon having a nationally
+recognized trademark.  "Singles," "Newport," "School Days," "Chef's Best,"
+"Hart," "Our Favorite," "Shellie," "Teenie Weenie" and "Meeter's" are also
+registered United States trademarks and, while important, are not as
+significant to the Company's business as "Stokely's Finest."  If
+continuously used (and registered), United States trademarks may be held
+exclusively by the owner for an indefinite period.  With the exception of
+the "Meeter's" and "Singles" labels, all the foregoing trademarks have been
+continuously used by Stokely.
+
+
+Competition
+- -----------
+
+All Stokely products compete with those of national and major regional food
+processors under highly competitive conditions.  The largest of these
+competitors is Del Monte.  The principal factors of competition in the
+industry are product quality, availability of a broad line of products and
+price.  An additional competitive factor is consumer demand for Company
+products as developed in advertising, sales promotion and maintenance of
+retail shelf space.  Stokely believes its products are competitive with
+similar products of other food processors.
+
+
+Industry Trends
+- ---------------
+
+Sales of canned and frozen vegetables and fruit products represent an
+approximately $18 billion per year industry in the United States.  Sales of
+frozen vegetables (excluding potato products) now represent approximately
+40% of total processed vegetable sales.  A poor growing season during 1994
+reduced inventory levels industry-wide, resulting in improved market
+pricing and profitability.  In general, consumption on canned vegetables
+has been flat while consumption of frozen vegetables has shown slight
+increases in recent years.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 6 of 91<PAGE>
+Regulations
+- -----------
+
+The disposal of solid and liquid waste material resulting from the
+preparation and processing of foods is subject to various federal, state
+and local laws and regulations relating to the protection of the
+environment.  While Stokely cannot predict with certainty the effect of any
+proposed or future environmental legislation or regulations on its
+processing operations, Stokely believes the waste disposal systems which
+are now in operation or which are being constructed and designed for
+Stokely are sufficient to comply with all currently applicable
+environmental laws and regulations.  Expenditures for facilities related to
+protection of the environment are made pursuant to Stokely's capital budget
+and have not had, nor are they expected to have, a material effect on the
+earnings of Stokely.
+
+Stokely is subject to regulation by the Food and Drug Administration, the
+United States Department of Agriculture, the Federal Trade Commission, the
+Environmental Protection Agency and various state agencies with respect to
+the production, packaging, labeling and distribution of its food products,
+and believes it is in material compliance with all applicable rules and
+regulations of such federal and state agencies.
+
+
+Employees
+- ---------
+
+Stokely recognizes the importance of each employee to financial success,
+and accordingly strives to maintain excellent employee relations.  At peak
+employment periods during the processing season, the Company employs
+approximately 5,000 employees, of which approximately 4,900 are engaged in
+harvesting and processing and the balance in management, sales and
+administration.  Approximately 50% of Stokely's regular hourly and some
+seasonal employees belong to labor unions.  Stokely's eight union contracts
+are generally three years in length and provide for wage increases ranging
+from 1% to 5.5% during fiscal 1995.  During fiscal 1995, two union
+contracts will expire on December 31, 1994 and March 31, 1995.
+
+
+                 Employment Summary During Peak Processing
+                 -----------------------------------------
+
+                 Management, sales & administration     100
+                 Full-time, year round production       700
+                 Seasonal and part-time production    4,200
+                                                      -----
+                 Total peak production employment     5,000
+                                                      =====
+ 
+d)   Foreign Operations
+     ------------------
+
+The Company has no foreign production facilities; however, export sales
+constituted 7.4% of total Company sales in fiscal 1994.
+
+                               Page 7 of 91<PAGE>
+ITEM 2.  PROPERTIES
+- -------------------
+Stokely's facilities are briefly described below:
+
+
+                    Square
+Location            Footage   Products Processed
+- --------            -------   ------------------
+Ackley, IA          199,000   Whole Kernel Corn; Bagged and
+                              Canned Dry Pack Beans
+Appleton, WI <F1>   121,000   Peas; Canned and Glass-packed
+                              Beets; Potatoes; Carrots
+DeForest, WI        450,000   Warehouse and Distribution Center;
+                              Field Department Office; ANC
+                              Express, Inc.
+Cobb, WI             65,000   Warehouse
+Grandview, WA        86,000   Frozen Sugar Snap Peas; Corn;
+                              Asparagus
+Green Bay, WI        76,000   Frozen Peas; Whole Kernel Corn;
+                              Green Beans; Carrots
+Hoopeston, IL       240,000   Asparagus; Golden Whole Kernel
+                              Corn; Lima Beans; Pumpkin
+Jefferson, WI <F1>   28,000   Frozen Vegetables repackaging
+Merrill, WI          56,000   Green; Wax and Shellie Beans
+Pickett, WI         145,000   Peas; Whole Kernel Corn
+Poynette, WI        345,000   Green and Wax Beans; Sauerkraut,
+                              Shellie Beans and Distribution
+                              Center
+Scottville, MI      238,000   Green Beans
+Sun Prairie, WI     108,000   Peas; Peas and Carrots; Golden and
+                              White Whole Kernel Corn; Lima
+                              Beans; Succotash; Mixed Veg; Beets
+Walla Walla, WA     199,000   Frozen Asparagus; Peas; Zucchini;
+                              Carrots; Lima Beans; Onions; Squash
+Waunakee, WI        181,000   Peas; Peas and Carrots; Whole
+                              Kernel Corn; Beets; Carrots;
+                              Potatoes; Mixed Vegetables
+Wells, MN           103,000   Peas and Cream Style Corn
+                  ---------
+                  2,640,000
+Oconomowoc, WI       52,000   General Office
+                  ---------
+                  2,692,000
+                  =========
+
+
+[FN]
+<F1>  Facility was closed during 1994 as part of the Company's              
+      restructuring plan and is being held for sale.
+
+
+
+
+
+
+                               Page 8 of 91<PAGE>
+All of the facilities and related real estate are owned by Stokely, subject
+to mortgages and collateral assignments under loan agreements with
+Stokely's lenders.  See Note F, to Notes to Consolidated Financial
+Statements for the year ended March 31, 1994, presented in Item 8 of this
+annual report.  Stokely's facilities operate at or near capacity during the
+processing season.  Except for the Poynette sauerkraut, and Ackley plants,
+which run year-round, and the general office facility in Oconomowoc,
+Stokely utilizes its facilities principally from June through November, as
+is customary in the food processing industry.  Certain distribution and
+repackaging facilities also operate year-round.  Stokely believes these
+facilities are adequate for current processing needs and with the ongoing
+capital improvement program to increase capacity and modernize facilities,
+will be able to meet presently anticipated future needs.  Stokely believes
+all of its plants are in good condition and cost efficient.
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+- --------------------------
+
+There are no material legal proceedings pending.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+- ------------------------------------------------------------
+
+No matters were submitted to shareholders during the fourth quarter of the
+fiscal year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 9 of 91<PAGE>
+                     Executive Officers of the Company
+                     ---------------------------------
+
+The following is a list of Stokely's officers, their ages and their
+positions and office at June 15, 1994.
+
+Name                     Age  Office and Business Experience
+- ----                     ---  ------------------------------
+
+Frank J. Pelisek         63   Chairman of the Board since 1992; Chief
+                              Executive Officer June 1992-93; Director     
+                              since 1983; Partner, Michael Best and
+                              Friedrich (legal counsel to Stokely) since
+                              1965.
+
+Stephen W. Theobald      48   Vice Chairman and Treasurer since
+                              June 1992; director since 1980;
+                              Vice President Administration since
+                              1985 when he joined Stokely.
+
+Vernon L. Wiersma        44   Chief Executive Officer since August 1993;
+                              President since June 1992; Executive Vice
+                              President from 1985-92; Director since 1982;
+                              Vice President Stokely Operations 1983-
+                              85; Controller 1975-83; joined Stokely in
+                              1973.
+
+Robert M. Brill          46   Vice President, General Counsel and
+                              Secretary since 1990; Vice
+                              President and General Counsel since
+                              1989; Senior Partner, Brill and
+                              Eustice, 1986-89; joined Stokely in
+                              1989.
+
+Robert Cook              43   Vice President, Operations since
+                              1990; Director of Operations since
+                              1989; joined Stokely in 1985.
+
+Eddie W. Foster          56   Vice President, National Sales
+                              Manager since 1991; President,
+                              Merchandise Warehouse, Inc. 1990-
+                              91; President LVS Food Distributors
+                              1989-90; Vice President of
+                              Marketing and Sales Stokely USA,
+                              Inc. 1983-89.
+
+Robert J. Lenz           54   Vice President, Technical Services
+                              since 1980; joined Stokely in 1966.
+
+Michael A. Wilkes        39   Vice President Human Resource and 
+                              Development since August 1993; Director Total
+                              Quality Management 1991-93; Manager,
+                              Management and Organization Development 1983-
+                              91; joined Stokely in 1991.
+
+                               Page 10 of 91<PAGE>
+Kenneth C. Murray        36   Vice President, Canned Sales and
+                              Marketing since 1992.  Director of
+                              Marketing and Business Development
+                              since 1990 when he joined Stokely.
+
+Russell J. Trunk         53   Senior Vice President, Operations
+                              since 1992; General Manager
+                              Texas/Mexico Operations from 1991-
+                              92; joined Stokely in 1991.
+
+Leslie J. Wilson         50   Vice President, Finance and Chief
+                              Financial and Accounting Officer
+                              since June 1992; Vice President and
+                              General Manager, Packaging
+                              Specialties, Inc. 1990-92; Vice
+                              President Finance and
+                              Administration, Duetz-Allis Credit
+                              1976-90; joined Stokely in 1992.
+
+
+Family Relationships
+- --------------------
+
+There are no family relationships among the officers listed and there are
+no arrangements or understandings pursuant to which any of them were
+elected as officers.  All officers hold office for one year and until their
+successors shall have been duly elected and qualified.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 11 of 91<PAGE>
+                                  PART II
+                                  -------
+
+
+ITEM 5.   MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED             
+          SECURITY HOLDER MATTERS
+          -----------------------
+
+(a)  Market Information
+     ------------------
+
+Stokely common stock is traded on the NASDAQ National Market System.  The
+market symbol is STKY.  Bank One, Indianapolis, NA, Bank One Center, 111
+Monument Circle - Suite 1611, Indianapolis, Indiana 46277 serves as
+transfer agent.  The following table sets forth the range of high and low
+sales price for the common stock for the periods indicated as reported on
+the NASDAQ National Market System for the periods indicated.  Quotations
+represent the price between dealers and do not reflect retail markups,
+markdowns or commissions.
+
+        
+
+                    Quarterly Common Stock Price Range
+                    ----------------------------------
+                            (dollars per share)
+          
+                                 Market Price    
+                               High         Low     
+1994                           ----         ---                             
+                                 
+First Quarter                 10 1/8       5 3/4                            
+Second Quarter                 9 3/4       7 3/4 
+Third Quarter                  9 5/8       7 3/4                           
+Fourth Quarter                 8 3/4       7                       
+
+1993
+
+First Quarter                  9           5 1/4 
+Second Quarter                 7 1/2       6 1/8 
+Third Quarter                  8 3/4       6 1/8            
+Fourth Quarter                11 3/8       6 5/8        
+
+        
+
+(b)  Holders
+     -------
+
+At June 15, 1994, there were 1,158 holders of record of the shares of
+common stock.
+
+
+
+
+
+
+                               Page 12 of 91<PAGE>
+(c)  Dividends
+     ---------
+
+The Company's long-term debt agreements contain certain conditions and
+provisions which restrict the Company's payment of dividends.  At March 31,
+1994, all of the retained earnings are restricted as to the payment of cash
+dividends.
+
+For information regarding restriction of the payment of cash dividends, see
+Note F to Notes to Consolidated Financial Statements for the year ended
+March 31, 1994, in Item 8 of this annual report.    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 13 of 91<PAGE>
+<TABLE>
+
+ITEM 6.  SELECTED FINANCIAL DATA
+- --------------------------------
+(Dollars in thousands except per share data)
+
+
+<CAPTION>
+                                               Years Ended March 31,
+SUMMARY OF OPERATIONS           1994       1993        1992        1991       1990     
+<S>                          <C>         <C>         <C>         <C>        <C>        
+Net Sales                    $256,145    $281,382    $280,368    $257,520   $271,963   
+Other Income                    4,691       2,145         676       1,090       (436) 
+                             --------    --------    --------    --------   --------- 
+ Total net revenues           260,836     283,527     281,044     258,610    271,527  
+ 
+Cost of product sold          216,392     249,982     238,804     204,922    193,454  
+Selling, general and 
+ administrative expenses       36,476      42,139      48,481      40,902     44,461  
+Nonrecurring charge                        21,145 <F3>
+                              --------    --------    --------    -------    --------
+Operating earnings(loss)        7,968     (29,739)     (6,241)     12,786     33,612     
+
+Interest expense               12,710      12,721       8,592       7,082      4,721     
+                              --------    --------    --------    --------   --------   
+Earnings (loss) before
+ income taxes and cumulative
+ effect of change in    
+ accounting principle          (4,742)    (42,460)    (14,833)      5,704     28,891    
+Income taxes (credit)          (2,527)    (12,983)     (4,931)      1,888     11,156    
+                              --------    --------    --------     -------   --------   
+Earnings (loss) before 
+ cumulative effect of
+ change in accounting
+ principle                     (2,215)    (29,477)     (9,902)      3,816     17,735    
+Cumulative effect of change
+ in method of accounting
+ postretirement benefits(net
+ of income taxes of $850)                  (1,650)
+                             ---------   ---------   ---------    -------     -------   
+Net earnings (loss)          $ (2,215)   $(31,127)   $ (9,902)    $ 3,816     $17,735   
+                             =========   =========   =========    =======     =======   
+COMMON STOCK DATA
+
+Net earnings (loss) 
+ per share                     $(0.27)     $(3.75)<F2> $ (1.19)   $   .46    $  2.15    
+Dividends per share                                       0.20       0.20       0.26<F1> 
+Stockholders' equity
+ per share                       3.92        4.18         7.93       9.33       9.07     
+Average shares out-
+ standing (thousands)           8,320       8,302        8,288      8,287      8,260     
+Shares outstanding at
+ year-end (thousands)           8,325       8,316        8,291      8,282      8,279     
+
+<FN>
+<F1> Includes $0.10 per share special dividend.
+<F2> Includes $0.20 per share loss due to post-retirement benefits accounting method change. 
+     See Note E to Notes to Consolidated Financial Statements.
+<F3> See Note B to Notes to Consolidated Financial Statements.
+             
+</TABLE>
+
+
+
+
+
+                                Page 14 of 91<PAGE>
+
+<TABLE>
+
+ITEM 6.  SELECTED FINANCIAL DATA (CONTINUED)
+- --------------------------------------------
+
+<CAPTION>
+
+                              1994        1993        1992        1991        1990    
+<S>                        <C>         <C>         <C>         <C>         <C>      
+BALANCE SHEET AND FINANCIAL DATA
+
+March 31,
+
+Working capital            $ 42,071    $ 40,626    $ 80,064    $ 84,584    $ 70,631 
+Current ratio                  2.03        1.38        2.39        2.60        3.20 
+Property, plant and
+ equipment (net)             67,356      68,419      90,794      72,078      64,620  
+Total assets                158,535     232,843     233,737     213,067     169,892   
+Long-term debt               80,438 <F4> 82,854 <F4> 96,466      70,604      50,603    
+Stockholders' equity         32,640      34,777      65,761      77,266      75,100    
+
+
+Years ended March 31,
+
+Capital expenditures (net)    5,174      12,871      21,713      18,033      15,927   
+Depreciation                  7,230       9,286       8,461       6,835       5,099   
+Cash dividends declared                               1,658       1,658       2,150   
+
+<FN>
+<F4>  See Note F to Notes to Consolidated Financial Statements.
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Page 15 of 91<PAGE>
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+          CONDITION AND RESULTS OF OPERATIONS
+          -----------------------------------
+
+The information provided below with respect to financial condition and
+results of operations is intended to assist in understanding the Company's
+operations and condition as set forth in the Consolidated Financial
+Statements.
+
+During the fourth quarter of 1994, the Company changed its method of valuing
+inventories from the last-in, first-out (LIFO) method to the average cost
+method.  In accordance with Generally Accepted Accounting Principles, the
+prior year financial statements have been retroactively adjusted to reflect
+this change.  See Note C to Financial Statements.
+
+
+FINANCIAL CONDITION
+Working Capital
+- ---------------
+
+Working capital and current ratio are two financial measurements which
+provide an indication of the Company's ability to meet its short-term
+obligations.  These measurements at March 31, 1994, 1993 and 1992 were as
+follows:
+
+                                    1994       1993        1992
+- ----------------------------------------------------------------
+Working capital (in thousands)    $42,071    $40,626     $80,064
+Current ratio                        2.03       1.38        2.39  
+
+
+In 1994 major improvements were made in the Company's working capital and
+current asset position.  Working capital improved $1,445,000 to $42,071,000
+and the ratio of current assets over current liabilities improved from 1.38
+to 2.03.  These improvements were the result of a combination of factors,
+including a decrease in accounts receivable, inventory reduction programs
+designed to reduce short-term debt and the favorable resolution of technical
+defaults of financial covenants of certain Industrial Revenue Development
+Bonds classified as short-term debt in 1993.  Accounts receivable decreased
+$20,983,000 from $41,515,000 at March 31, 1993 due primarily to lower fourth
+quarter sales caused by inventory shortages at March 31, 1994.   
+  
+Inventory levels at March 31, 1993, were unusually high due to two
+consecutive years of highly favorable growing conditions.  The Company's
+aggressive inventory reduction programs in the first fiscal quarter of 1994
+combined with the elimination of certain product lines and the adverse
+growing and harvesting conditions during 1994 reduced inventories by
+$45,335,000 to $55,256,000 at March 31, 1994 from $100,591,000 at March 31,
+1993.  
+
+
+
+
+
+                                Page 16 of 91<PAGE>
+During 1993, certain long-term Industrial Revenue Development Bond issues
+were classified as current liabilities because the Company was in technical
+default of certain financial ratio covenants.  This resulted in a decrease in
+working capital from 1992 to 1993.  During 1994, financial covenants in all
+affected issues except a $1,400,000 Paulding, Ohio bond were amended by the
+bondholders, such that the Company was again in compliance.  Accordingly, the
+amended bonds were again classified as long-term debt at March 31, 1994,
+resulting in an increase in working capital of $26,195,000.
+
+Current assets declined $65,848,000 to $82,933,000 at March 31, 1994 from
+$148,781,000 at March 31, 1993, facilitating a reduction in notes payable of
+$31,266,000, (including the reduction of $18,000,000 in notes payable
+classified as long-term debt) and accounts payable by $25,292,000 in fiscal
+1994.  Overall current liabilities decreased $67,293,000 to $40,862,000 at
+March 31, 1994 from $108,155,000 at March 31, 1992.
+
+
+Assets
+- ------
+
+Total assets decreased by $74,308,000 to $158,535,000 at March 31, 1994 from
+$232,843,000 at March 31, 1994, primarily as a result of reduction in current
+assets discussed in the preceding review of working capital, combined with a
+$6,941,000 reduction in net property, including property held for
+disposition.  Property held for disposition was reduced by the sale of
+various plants during 1994 as a part of the restructuring of the Company.
+
+
+Cash Flows from Operating Activities
+- ------------------------------------
+
+During 1994, the Company realized significant improvements in cash flow from
+operating activities, using these proceeds primarily to reduce short term
+debt, including accounts payable.  Net cash provided by operations improved
+$36,624,000 in 1994 from $1,443,000 provided in 1993.  The increase in cash
+provided by operations is attributable in part to an improvement of
+$13,320,000 in cash generated from net earnings in 1994.  Earnings provided
+cash of $6,050,000 in 1994, compared to a use of cash of $7,270,000 in 1993. 
+Additionally, cash provided by changes in operating assets and liabilities
+increased $23,305,000 primarily from the benefits of inventory and accounts
+receivable reductions of $45,335,000 and $20,983,000 respectively, offset in
+part by a reduction in accounts payable of $25,292,000.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Page 17 of 91<PAGE>
+Cash Flows from Investing Activities
+- ------------------------------------
+
+Net cash provided by (used in) investing activities in 1994, 1993 and 1992
+were $3,793,000; ($7,278,000); and ($33,531,000), respectively.  Purchase of
+property, plant and equipment was $5,174,000; $12,871,000; and $21,713,000 in
+1994, 1993 and 1992, respectively.  
+
+Capital expenditures in 1994, financed through short-term debt, were focused
+on improved plant efficiency and on-going compliance with environmental
+regulations.  Expenditures in 1994 included capacity consolidation and
+operation efficiency projects at the Pickett, Wisconsin and Waunakee,
+Wisconsin facilities, and improvements to a wastewater disposal system in
+Walla Walla, Washington.  These capital expenditures were financed through
+cash flow from operations.  There were also capital expenditures to complete
+the reconstruction of the Hoopeston, Illinois facility that was damaged by
+fire in 1993, which were financed with insurance proceeds.
+
+Capital expenditures in 1993 included expansion of corn capacity at the
+Wells, Minnesota, facility, wastewater disposal systems at the Paulding,
+Ohio, and Scottville, Michigan, facilities and completion of the corporate
+offices in Oconomowoc, Wisconsin.  The capital expenditures were financed
+through short-term debt.  Capital expenditures were also made to begin
+rebuilding the Hoopeston, Illinois, facility that was damaged by fire.  These
+expenditures were financed by insurance proceeds.  In 1992 the Company
+acquired the assets of Americana Packing and Distribution (APD) of McAllen,
+Texas for $9,260,000.
+
+
+Cash Flows from Financing Activities
+- ------------------------------------
+
+The following table sets forth the Company's capitalization for the past
+three years:
+                                      (Dollars in Thousands)
+
+                               1994            1993              1992
+                          Amount    %      Amount    %       Amount    %
+
+Current maturities on
+ long-term debt          $ 3,868   3.2    $ 2,259   1.5     $2,138   1.2
+
+Long-term debt classi-
+ fied as a current
+ liability                                 26,195  17.1                 
+
+Long-term debt            80,438  66.2     82,854  54.1     96,466  55.3
+                        --------  ----   --------  ----    -------  ----
+Total long-term debt      84,306  69.4    111,308  72.7     98,604  56.5
+
+Other liabilities          4,595   3.8      7,057   4.6     10,219   5.9
+
+Stockholders' equity      32,640  26.8     34,777  22.7     65,761  37.6
+                        --------  ----   --------  ----   --------  ----
+Total capitalization    $121,541  100%   $153,142  100%   $174,584  100%
+
+                                Page 18 of 91<PAGE>
+The Company has a  multi-year revolving credit facility with various lenders. 
+At March 31, 1994, the Company had $34,992,000 of borrowings under the
+facility of which $17,000,000 was classified as long-term and $17,992,000 was
+classified as short-term as it is expected to be repaid within the next year. 
+At March 31, 1993, the Company had $66,258,000 of borrowings under the
+facility, of which $35,000,000 was classified as long-term and $31,258,000 
+was classified as short-term.  During 1994 the Company decreased short-term  
+borrowings by $31,266,000 through planned cash flow improvements from the
+reduction in accounts receivable and inventories.  
+
+In 1993, $26,195,000 of the Company's Industrial Revenue Development Bonds
+were classified as short-term due to the Company being in technical default
+of certain financial ratio covenants.  Amendments to these financial
+covenants were approved by the bondholders in 1994 and the related bond
+issues have been reclassified at March 31, 1994 as long-term debt. 
+Additional information on the rate and maturity of long-term debt is
+discussed in Note F of Notes to the Consolidated Financial Statements.
+
+In 1992 the Company issued new long-term debt consisting of a $20,000,000
+private placement and a $3,000,000 Industrial Revenue Bond.  In 1992
+$20,000,000 of commercial paper borrowings were classified as long-term debt.
+
+
+Liquidity and Capital Resources
+- -------------------------------
+
+Due to the seasonal production nature of the canned and frozen vegetable
+processing business, the Company must maintain substantial inventories of
+processed vegetables throughout the year.  These inventories are generally
+financed through seasonal borrowings.  The maximum borrowed for such purposes
+in 1994 was $68,872,000 as compared to $97,495,000 in 1993 and $87,975,000 in
+1992.  The decrease of approximately $29,000,0000 in maximum seasonal
+borrowings from 1993 to 1994 was due primarily to the Company's initiatives
+to lower inventory levels and lower operating costs.  Improved operating
+results and reduced inventories in 1994 have expanded the credit availability
+under the existing financing facility.  The increase in maximum seasonal
+borrowings from 1992 to 1993 was due to capital expenditures for property,
+plant and equipment and higher inventories.
+
+The Company maintains a long-term seasonal borrowing facility with a
+commercial lender and various banks which provides borrowings up to
+$100,000,000 as revolving credit loans maturing on May 31, 1995.  The Company
+believes that the facility is adequate to meet the Company's needs.  The
+maximum borrowings projected under the facility for fiscal 1995 are less than
+$60,000,000.  Completion of the Company's planned restructuring is expected
+to further reduce the Company's borrowing needs in fiscal 1995 due to the
+sale of idle property, plant and equipment and related inventory reductions. 
+A detailed discussion of the Company's debt facilities is in Note F to Notes
+to Consolidated Financial Statements.
+
+
+
+
+
+
+                                Page 19 of 91<PAGE>
+Profitability
+- -------------
+
+Operating results improved significantly during fiscal 1994.  The Company
+concluded the year with fourth quarter net earnings of $2,826,000 following
+modestly profitable second and third quarters of $118,000 and $226,000,
+respectively, but contrasted by a first quarter loss of $5,385,000.
+
+The first quarter loss was due primarily to severely depressed market pricing
+caused by industry-wide excess inventory levels.  Gradual market price
+increases were seen in the second and third quarters as industry inventory
+levels declined due to sharply lower production.  The impact of planned
+reductions in planted acreage on production volume was amplified by adverse
+growing and harvesting conditions.  
+
+In addition the Company's cost and expense reduction programs began to have a
+greater impact as the year progressed.  The sale or closing of various plants
+identified in the restructure plan reduced fixed manufacturing expenses while
+staff reductions affecting most all other areas of the Company reduced
+general and administrative expenses.  The increasing impact of cost reduction
+programs and the upward trend in selling prices is evident in the improvement
+in gross margin (sales less cost of goods sold) by quarter.  Gross margin
+increased from less than 10% in the first quarter to 12% in the second, 17%
+in the third and 23% in the fourth.  Cost and expense reductions are expected
+to continue to improve the cost structure of the Company in 1995.
+
+The improved second quarter net income of $118,000 compared to the first
+quarter loss of $5,385,000 also was attributable to the recognition of other
+income of $3,644,000, net of taxes, relating to the property loss insurance
+recovery from the fire damage at the Hoopeston, Illinois plant.  By contrast,
+the third quarter net income of $226,000 was adversely affected by a non-
+recurring pre-tax charge of $2,050,000 ($1,107,000 after tax) for settlement
+of a product liability claim against the Company's D&K Frozen Food
+subsidiary, which pre-dates the acquisition of D&K.
+
+The fourth quarter net income of $2,826,000 results from reductions in cost
+combined with improved market pricing due to reduced industry-wide inventory
+levels strengthening pricing and improving gross margins to 23%.
+
+Sales of $256,145,000 for 1994 declined $25,237,000 due to lower production
+levels and the elimination of certain unprofitable product lines.  However,
+gross margins for the entire year ended March 31, 1994 improved 4.3
+percentage points to 15.5%, despite record low pricing in the first quarter. 
+Selling, general and administrative expenses decreased $7,713,000 to
+$34,426,000 at March 31, 1994, excluding the $2,050,000 product liability
+settlement, from $42,139,000 at March 31, 1993, reflecting reduced sales
+promotions, due to limited product availability and improved pricing, and
+administrative expense reductions.
+
+Pre-tax operating results for 1994 improved $16,573,000 to a loss of
+$4,742,000.  This compares to a loss of $21,315,000 excluding the non-
+recurring charge of $21,145,000 for restructuring in 1993.
+
+
+
+                                Page 20 of 91<PAGE>
+The progress made during 1994 toward completion of the restructuring plan
+resulted in significant reduction in inventories and a $40,268,000 reduction
+in total debt.  Because much of this reduction in debt occurred in the latter
+part of 1994, the resulting interest expense reduction benefit is not
+expected to be realized until 1995.  Management believes that upon completion
+of the restructuring plan in 1995, the Company will have improved it's
+strategic focus and reduced operating costs and interest expense in a way
+that will facilitate consistently profitable operations.
+
+During 1993, a two year pattern of declining prices continued, reducing
+earnings substantially from 1992.  In addition, a nonrecurring restructuring
+charge, higher interest expenses, and a one-time charge for a change in
+accounting for Postretirement Benefits further increased the 1993 net loss
+compared to 1992.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Page 21 of 91<PAGE>
+RESULTS OF OPERATIONS   
+Net Sales
+- ---------
+
+Net sales in 1994 were $256,145,000, an overall decrease of $25,237,000 from
+1993 net sales of $281,382,000.  Limited supplies of available canned
+finished goods inventory caused by a poor growing season was the primary
+reason for a 13.9% reduction in revenues or $38,993,000.  This volume
+shortfall was partially offset by a 4.9% improvement in pricing or
+$13,756,000, as a result of a recovery in the last half of the year in market
+pricing conditions caused by reduced inventory levels industry-wide.  
+
+Net sales in 1993 increased to $281,382,000 from $280,368,000 in 1992, an
+increase of .4%.  An increase of 4.8% in sales volume was offset by a 4.4%
+decline in prices due to unusually high industry-wide inventory levels.  
+
+
+Other Income
+- ------------
+
+Other income of $4,691,000 in 1994 includes income of $4,118,000 resulting
+from insurance claim proceeds related to reconstruction costs at the fire
+damaged Hoopeston, Illinois facility.  This insurance claim is further
+discussed in Note L to the Financial Statements.
+
+Other income of $2,145,000 in 1993 includes revenue of $1,635,000 relating to
+costs recovered from an insurance claim for business interruption due to the
+fire at the Hoopeston, Illinois facility.  That revenue represents recovery
+of lost margin due to a shortage of finished goods normally produced at that
+plant and recovery of other related costs incurred as a result of the fire.
+
+
+Cost of Products Sold
+- ---------------------
+
+Cost of products sold as a percentage of net sales declined to 84.5% in 1994,
+compared to 88.8% in 1993 and 85.2% in 1992.  Cost of products sold as a
+percentage of net sales decreased in 1994 from 1993 primarily because of
+improvements in average selling prices during the third and fourth quarters
+of 1994, offset in part by higher average per unit fixed manufacturing costs
+due to lower production volumes associated with the adverse growing and
+harvesting conditions of 1994.  Average variable manufacturing costs remained
+relatively flat in 1994 compared to 1993 despite difficult production
+conditions caused by the adverse 1994 growing season.  The increase in cost
+of sales as a percent of sales in 1993 as compared to 1992 was due primarily
+to lower selling prices and an increase in frozen product sales, which carry
+a lower margin, as a percentage of total sales.
+
+
+
+
+
+
+
+
+                                Page 22 of 91<PAGE>
+Selling, General and Administrative Expenses
+- -------------------------------------------- 
+
+Selling, general and administrative expenses as a percentage of net sales
+declined to 14.2% in 1994, compared to 15.0% in 1993, and 17.3% in 1992.  In
+1994 the Company incurred a non-recurring charge of $2,050,000 relating to
+the settlement of a product liability claim discussed earlier.  Total
+selling, general and administrative expenses decreased $7,713,000, excluding
+the product liability claim, in 1994 compared to 1993.  This decrease was in
+part due to the decrease in sales promotions of $3,900,000 related primarily
+to canned brand sales in 1994.  Other administrative expenses were reduced
+$3,813,000 in 1994 due to cost reduction and other expense control programs
+instituted by the Company.
+
+
+Restructure Program
+- -------------------
+
+In 1993 the Company faced continuing depressed market conditions caused by
+oversupply and excess capacity.  In response to these conditions the Company
+identified restructuring measures designed to return the Company to
+profitability by focusing on the Company's core competencies of Midwest and
+Northwest vegetable processing.  The restructuring initiatives included
+consolidating production at larger, more efficient facilities, eliminating
+marginally profitable product lines, reducing operating overhead and lowering
+interest expense through debt reduction.  As a result the Company recorded in
+1993 a one-time, noncash charge of $21,145,000 relating to the writedown of
+seven processing plants to be sold, closed or downsized and the costs
+associated with disposing of them.
+
+During fiscal year 1994, the Company completed the major portion of it's
+restructure plan with the sale of four processing facilities and the closing
+of two other facilities.
+
+Canning plants in Hart, Michigan, processing fruit products; and Paulding,
+Ohio, processing tomato products, were sold.  In addition, frozen southern
+vegetable processing plants in McAllen, Texas and Monterrey, Mexico were
+sold.  A root crop canning plant in Appleton, Wisconsin was closed and the
+needed capacity was consolidated with the existing Waunakee, Wisconsin plant. 
+A re-pack freezing plant in Jefferson, Wisconsin was also closed as part of
+the plan to exit the retail frozen and branded food service frozen vegetable
+business.  These closed plants are expected to be sold.  The closing of the 
+corn processing facilities in the Hoopeston, Illinois canning plant was
+deferred until completion of the 1995 production season because of the short-
+term need to replenish the Company's corn inventory levels depleted by last
+year's severe growing and harvesting conditions in the Company's Midwest
+growing areas.  Canning of pumpkin products will continue at the Hoopeston
+plant.  The restructured frozen vegetable business, consisting of facilities
+in Grandview and Walla Walla, Washington and Green Bay, Wisconsin will
+continue to be operated as an integral part of the Company's on-going
+operations.
+
+
+
+
+                                Page 23 of 91<PAGE>
+Proceeds from the sale of idle plants and equipment exceeded the carrying
+value of the facilities.  However, the excess proceeds offset costs incurred
+in disposing of related inventories and other costs associated with
+discontinued product lines.  The proceeds from the sale of plants and
+liquidation of discontinued inventories was used to pay down short-term and
+long-term debt.
+
+At March 31, 1994, the Company had remaining restructure reserves aggregating
+$7.2 million for the disposal of plant facilities and related inventories. 
+Based on the Company's current review and evaluation, these reserves are
+considered adequate to complete the restructure plan in fiscal 1995, without
+a significant cash outlay.
+
+
+Interest Expense
+- ----------------
+
+Interest expense totalled $12,710,000 in 1994, $12,721,000 in 1993 and
+$8,592,000 in 1992.  Interest expense remained flat in 1994 despite a
+reduction in average short-term debt because of an increase in short-term
+interest rates and higher financing expenses resulting from the August 1992
+refinancing agreement, as amended in June 1993.  Prior to August 1992, the
+Company was able to borrow at or below prime rate via revolving debt and
+commercial paper.  Higher than normal inventory levels in 1993 were carried
+into 1994, resulting in higher borrowing levels early in 1994.  Inventory
+levels declined substantially during 1994, which had a favorable effect on
+interest expense during the fourth quarter of 1994.
+
+
+Income Taxes
+- ------------
+
+The effective tax rates were 53.3%, 30.6% and 33.2% for 1994, 1993, and 1992,
+respectively.  The effective tax rate was higher in 1994, because of
+additional tax credit carrybacks and adjustment to prior year accruals.  See
+Note G, to Notes to the Consolidated Financial Statements.
+
+Effective April 1, 1993, the Company adopted SFAS 109.  This statement
+requires the recognition of the tax consequences in future years of events
+which have been recognized in the financial statements.  There was no
+material cumulative effect of adoption of SFAS 109 on the financial position
+or results of operations of the Company.
+
+
+Cumulative Effect of Change in Method of Accounting for Post-retirement
+Benefits
+- --------
+
+In 1993 the Company adopted Statement of Financial Accounting Standard No.
+106, "Employers' Accounting for Post-retirement Benefits Other Than
+Pensions."  The Company elected to recognize as expense during 1993 the
+entire accumulated post-retirement benefit obligation (transition obligation)
+aggregating $1,650,000, net of related tax benefits as of April 1, 1992.
+
+
+                                Page 24 of 91<PAGE>
+Net Loss
+- --------
+
+The net loss for 1994 was $2,215,000 or $.27 per share, compared to
+$31,127,000 or $3.75 per share in 1993 and $9,902,000 or $1.19 per share in
+1992.  The 1994 loss was an improvement from the prior two years as a result
+of lower operating costs due to the Company's restructuring plan, combined
+with improved market prices in both the canned and frozen business segments. 
+The 1993 loss included a nonrecurring restructuring charge of $14,675,000
+($21,145,000 pre-tax) and the cumulative effect of adoption of SFAS 106 on
+post-retirement benefits of $1,650,000 ($2,500,000 pre-tax).  The 1993 loss
+was also increased due to higher interest costs and continued weak market
+pricing.  Operating losses in 1992 resulted from an industry-wide excess
+supply of processed vegetables creating depressed market pricing conditions.
+
+
+Change in Method of Accounting for Postemployment Benefits
+- ----------------------------------------------------------
+
+The Financial Accounting Standards Board has issued Statement of Financial
+Accounting Standards No. 112, "Employers' Accounting for Postemployment
+Benefits."  This statement requires the accrual of postemployment benefits
+during the years an employee provides services.  The Statement must be
+adopted during the year ended March 31, 1995.  The impact of adopting this
+Statement has not been determined.
+
+
+Impact of Inflation
+- -------------------
+Current financial statements are prepared in accordance with generally
+accepted accounting principles and report operating results in terms of
+historical costs.  They provide a reasonable, objective, quantifiable
+statement of financial results but do not evaluate the impact of inflation.
+
+Competitive conditions permitting, the Company modifies its selling prices to
+recognize cost changes as incurred.  Management believes the impact of
+inflation does not distort the Company's financial statements since prices
+are determined by supply and demand.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Page 25 of 91<PAGE>
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+INDEPENDENT AUDITORS' REPORT
+- ----------------------------
+
+To the Stockholders and Board of 
+ Directors of Stokely USA, Inc.:
+
+We have audited the accompanying consolidated balance sheets of Stokely USA,
+Inc. and subsidiaries as of March 31, 1994 and 1993 and the related
+consolidated statements of operations, stockholders' equity and cash flows
+for each of the three years in the period ended March 31, 1994.  Our audits
+also included the consolidated financial statement schedules listed in the
+Index at Item 14.  These  financial statements and financial statement
+schedules are the responsibility of the Company's management.  Our
+responsibility is to express an opinion on these financial statements and
+financial statement schedules based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free
+from material misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements. 
+An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation.  We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, such consolidated financial statements present fairly, in all
+material respects, the financial position of the companies as of March 31,
+1994 and 1993 and the results of their operations and their cash flows for
+each of the three years in the period ended March 31, 1994, in conformity
+with generally accepted accounting principles.  Also, in our opinion such
+consolidated financial statement schedules, when considered in relation to
+the basic consolidated financial statements taken as a whole, present fairly,
+in all material respects the information set forth therein.    
+
+As discussed in Note C to the consolidated financial statements, the Company
+changed its method of valuing inventories from the last-in, first-out method
+to the average cost method in 1994 and, retroactively, restated the 1993 and
+1992 consolidated financial statements for the change.
+
+As discussed in Notes E and G to the consolidated financial statements, the
+Company changed its methods of accounting for postretirement benefits other
+than pensions effective April 1, 1992 and accounting for income taxes
+effective April 1, 1993 to conform with Statement of Financial Accounting
+Standards No. 106 and No. 109, respectively.
+
+
+Deloitte & Touche
+Milwaukee, Wisconsin
+June 17, 1994
+
+
+
+                                Page 26 of 91<PAGE>
+
+STOKELY USA, INC. AND SUBSIDIARIES
+- ----------------------------------
+
+CONSOLIDATED BALANCE SHEETS
+(dollars in thousands)                                 March 31,
+                                                  1994         1993
+
+ASSETS - Note F
+- ---------------
+
+CURRENT ASSETS:
+  Cash and cash equivalents - Note A           $  2,898      $  1,251
+  Accounts Receivable less allowance for
+   losses ($385 and $670, respectively) 
+   Note L                                        20,817        41,515
+  Refundable income taxes - Note G                1,979         3,869
+  Inventories - Notes A and C                    55,256       100,591
+  Prepaid expenses                                1,983         1,555
+                                                -------       -------
+  Total Current Assets                           82,933       148,781
+
+
+OTHER ASSETS:
+  Property held for disposition (net)
+   Note B                                         3,541         9,419
+  Trademarks - Note A                               838           918
+  Other - Note A                                  3,867         5,306
+                                                -------       -------
+                                                  8,246        15,643
+
+PROPERTY, PLANT & EQUIPMENT, 
+ at cost - Note A
+  Land and land improvements                      3,184         2,932
+  Buildings                                      27,386        24,370
+  Machinery and equipment                        66,296        62,961
+  Construction in progress                          562         1,637
+                                                -------       -------
+                                                 97,428        91,900
+  Less accumulated depreciation                  30,072        23,481
+                                                -------       -------
+                                                 67,356        68,419
+  
+
+                                               $158,535      $232,843
+                                               ========      ========
+
+
+See notes to consolidated financial statements.
+
+
+
+
+
+
+                                Page 27 of 91<PAGE>
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+(dollars in thousands)                                 March 31,
+                                                   1994         1993
+CURRENT LIABILITIES:
+
+  Notes payable - Note F                        $ 17,992    $ 31,258
+  Accounts payable                                13,867      39,159
+  Accrued compensation and withholdings            3,065       3,462
+  Other accrued liabilities                        1,840       5,291
+  Income taxes - Note G                              230         531
+  Current maturities on long-term debt             3,868       2,259
+                                                 -------     -------
+                                                  40,862      81,960
+  Additional long-term debt classified
+   as a current liability - Note F                     0      26,195
+                                                 -------     -------
+
+  Total Current Liabilities                       40,862     108,155
+
+LONG-TERM DEBT, less current maturities
+  Note F                                          80,438      82,854
+
+OTHER LIABILITIES - Note D                         4,595       7,057
+
+STOCKHOLDERS' EQUITY - Notes F and H:
+  Preferred stock-no par value, authorized
+   1,000,000 shares, none issued
+  Common stock-$.05 par value, authorized
+   20,000,000 shares, issued 8,435,195 
+    shares                                           422         422
+  Additional paid-in capital                      18,661      18,636
+  Retained earnings                               14,181      16,396
+                                                 -------     -------
+                                                  33,264      35,454
+
+  Less treasury stock at cost
+   (110,550 and 119,500 shares,
+    respectively)                                   (624)       (677)
+                                                 --------    --------         
+                                                  32,640      34,777
+COMMITMENTS AND CONTINGENCIES - Note I
+
+                                                $158,535    $232,843
+                                               ==========  ==========
+
+
+
+
+
+
+
+
+
+
+                                Page 28 of 91<PAGE>
+STOKELY USA, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(dollars in thousands except per share data)
+
+                                             YEARS ENDED MARCH 31
+                                         1994        1993        1992
+REVENUES:
+ Net sales                            $256,145     $281,382    $280,368
+ Other - Note K                          4,691        2,145         676
+                                      --------     --------    -------- 
+   Total Revenues                      260,836      283,527     281,044
+
+COSTS AND EXPENSES:
+ Costs of products sold                216,392      249,982     238,804
+ Selling, general and
+  administrative expenses               36,476       42,139      48,481
+ Nonrecurring charge - Note B                        21,145
+ Interest                               12,710       12,721       8,592
+                                      --------     --------    -------- 
+   Total Costs and Expenses            265,578      325,987     295,877
+                                      --------     --------    -------- 
+LOSS BEFORE INCOME TAXES (CREDIT)
+ AND CUMULATIVE EFFECT OF CHANGE
+ IN ACCOUNTING PRINCIPLE                (4,742)     (42,460)    (14,833)
+
+INCOME TAXES (CREDIT) - NOTE G          (2,527)     (12,983)     (4,931)
+                                      ---------    ---------   ---------
+LOSS BEFORE CUMULATIVE EFFECT
+ OF CHANGE IN ACCOUNTING PRINCIPLE      (2,215)     (29,477)     (9,902)
+
+CUMULATIVE EFFECT OF CHANGE IN
+ METHOD OF ACCOUNTING FOR POST-
+ RETIREMENT BENEFITS - NOTE E
+ (net of income tax benefit 
+  of $850)                                           (1,650)
+                                      ---------    ---------   ---------
+NET LOSS                              $ (2,215)    $(31,127)   $ (9,902)
+                                      =========    =========   =========
+PER SHARE AMOUNTS;
+ Loss per common share before
+  cumulative effect of a change
+  in accounting method                $  (0.27)   $  (3.55)   $  (1.19)
+
+ Cumulative effect of a change
+  in method of accounting for
+  postretirement benefits - Note E                    (.20)   
+                                       --------    --------    --------
+NET LOSS PER SHARE OF COMMON STOCK     $ (0.27)    $ (3.75)    $ (1.19)
+                                       ========    ========    ========
+WEIGHTED AVERAGE SHARES 
+ OUTSTANDING                          8,319,649    8,301,591   8,288,255      
+                                     ==========   ==========  ==========
+See notes to consolidated financial statements.
+
+
+                                Page 29 of 91<PAGE>
+<TABLE>
+STOKELY USA, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+YEARS ENDED MARCH 31, 1994, 1993, AND 1992
+(dollars in thousands)
+<CAPTION>  
+                                     Additional 
+                     Common Stock       paid-in  Retained      Treasury Stock 
+                  Shares     Amount     Capital  Earnings    Shares      Amount 
+                  ------     ------    --------  --------    ------      ------
+<S>              <C>         <C>       <C>        <C>       <C>         <C>
+BALANCES,
+ April 1, 1991
+As previously
+ reported        8,435,195   $  422    $18,628    $53,742   152,700     $(867)
+
+Restatement for
+ change in method
+ of valuing
+ inventories (Note C)                               5,341
+                 ---------   ------    -------    -------   --------    ------
+BALANCES,
+As restated
+ April 1, 1991   8,435,195      422     18,628     59,083   152,700      (867)
+
+Net loss                                           (9,902)
+
+Cash dividends         
+ declared $.20
+ a share                                           (1,658)
+
+Exercise of      
+ stock options                               6               (8,500)       49
+                 ---------   ------    -------    -------   --------   -------
+BALANCES, 
+ March 31,1992   8,435,195      422     18,634     47,523   144,200      (818)  
+ 
+Net loss                                          (31,127)
+
+Exercise of      
+ stock options                               2              (24,700)      141
+                ---------    ------    -------    -------  ---------   -------
+BALANCES, 
+ March 31,1993  8,435,195       422     18,636     16,396   119,500      (677)
+
+Net loss                                           (2,215)
+
+Stock warrants
+ issued                                     23
+
+Exercise of
+ stock options                               2               (8,950)       53
+                ---------    ------    -------    -------   --------   -------
+BALANCES,
+ March 31,1994  8,435,195    $  422    $18,661    $14,181   110,550     $(624)
+                =========    ======    =======    =======   ========   =======
+</TABLE>
+See notes to consolidated financial statements.
+
+                                  Page 30 of 91<PAGE>
+STOKELY USA, INC. AND SUBSIDIARIES
+- ----------------------------------
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(dollars in thousands)
+
+
+                                          Years Ended March 31,             
+                                        1994        1993      1992
+
+OPERATING ACTIVITIES:
+Net earnings (loss)                  $(2,215)   $(31,127)  $ (9,902)
+
+Adjustments to net earnings:
+ Depreciation                          7,230       9,286      8,461
+ Non-recurring charge                             21,145
+ Deferred compensation and
+  postretirement benefits                (36)      2,713         62
+ Deferred income taxes                            (9,833)       734
+ Amortization of trademarks               80          82         96
+ Amortization of deferred debt
+  issuance costs                       1,637         887        131
+ Provision for equipment writedown                              350
+ Provision for bad debts                (285)        270        (70)
+ Gains on disposal of property,
+  plant and equipment                   (361)       (693)      (117)
+                                      -------     -------    -------
+                                       6,050      (7,270)      (255)
+
+Changes in operating assets and 
+liabilities:
+ Accounts receivable                  20,983     (14,824)     1,378 
+ Refundable income taxes               1,890       1,831     (3,765)
+ Inventories                          45,335      (2,526)    (5,587)
+ Prepaid expenses                       (428)        769        725
+ Accounts payable                    (25,292)     23,739      2,914
+ Accrued compensation and 
+  withholdings                          (397)        307      1,069
+ Profit sharing contribution                                   (522)
+ Income taxes                           (301)       (135)       (79)
+ Other net                            (9,773)       (448)       393 
+                                     --------    --------   --------
+                                      32,017       8,713     (3,474)
+                                     --------    --------   --------
+Net cash provided by (used in)
+operating activities                 $38,067     $ 1,443    $(3,729)
+                                     ========    ========   ========
+
+
+
+
+
+
+
+
+
+
+                               Page 31 of 91<PAGE>
+STOKELY USA, INC. AND SUBSIDIARIES
+- ----------------------------------
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(dollars in thousands)
+
+                                           Years Ended March 31,
+                                        1994       1993      1992
+
+INVESTING ACTIVITIES:
+
+Purchases of property, plant 
+ and equipment                      $ (5,174)   $(12,871)  $(21,713)
+(Increase) decrease in 
+ construction funds held by
+ trustee                                           1,362       (560)
+Proceeds from sales of property,
+ plant and equipment                   9,143       3,197        164
+Acquisition of business                                      (9,260)
+Other-net                               (176)      1,034     (2,162)
+                                     --------    --------   --------
+ Net cash provided by (used in)
+  investing activities                 3,793      (7,278)   (33,531)
+
+
+FINANCING ACTIVITIES:
+
+Change in short-term debt (net)      (31,266)     13,036      6,609
+Proceeds from long-term debt                                 23,000
+Payments of long-term debt            (9,002)     (2,296)    (1,999)
+Payments of cash dividends                          (415)    (1,658)
+Payments of deferred debt
+ issuance costs                                   (3,436)      (248)
+Restricted stock plan
+Exercise of stock options                 55         143         55
+                                     --------     -------   ------- 
+ Net cash provided by (used in)
+  financing activities               (40,213)      7,032     25,759
+
+NET INCREASE (DECREASE) IN CASH
+ AND CASH EQUIVALENTS                  1,647       1,197    (11,501)
+
+CASH AND CASH EQUIVALENTS AT
+ BEGINNING OF YEAR                     1,251          54     11,555
+                                    --------    --------    -------
+CASH AND CASH EQUIVALENTS,
+ END OF YEAR                        $  2,898    $  1,251    $    54
+                                    ========    ========    =======
+
+See notes to consolidated financial statements.
+
+
+
+
+
+
+
+                               Page 32 of 91<PAGE>
+
+STOKELY USA, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+YEARS ENDED MARCH 31, 1994, 1993 AND 1992
+
+
+A.   DESCRIPTION OF COMPANY BUSINESS AND SIGNIFICANT ACCOUNTING
+     POLICIES
+
+Stokely USA, Inc. and subsidiaries (the "Company") is engaged
+primarily in the processing, marketing and distribution of both
+branded and private label canned and frozen vegetables, which
+management considers to be a single segment.
+
+Consolidation
+- -------------
+The consolidated financial statements include the accounts of the
+Company and its wholly-owned subsidiaries.  All significant
+intercompany accounts and transactions have been eliminated in
+consolidation.
+
+Cash Equivalents
+- ----------------
+The Company considers all highly liquid investments with
+purchased maturities of three months or less to be cash
+equivalents.
+
+Inventories
+- -----------
+Inventories are stated at the lower of cost or market.  Cost has
+been determined using the average cost method (see Note C).
+
+Deferred Debt Issuance Costs
+- ----------------------------
+Included in Other Assets in the consolidated balance sheets are
+unamortized deferred debt issuance costs of $2,435,000 and
+$3,268,000 at March 31, 1994 and 1993, respectively.  The debt
+issuance costs are being amortized by the straight-line or
+interest method over the life of the related debt issue.  The
+accumulated amortization was $2,927,000 and $1,290,000,
+respectively, at March 31, 1994 and 1993.
+
+Depreciation
+- ------------
+Depreciation of plant and equipment is provided over the
+estimated useful lives of the respective assets on the straight-
+line method.
+
+Trademarks
+- ----------
+Trademarks are being amortized on a straight-line basis primarily
+over 20 years.  Accumulated amortization was $771,000 and
+$691,000, respectively, at March 31, 1994 and 1993.
+
+
+
+                          Page 33 of 91<PAGE>
+B.   NONRECURRING CHARGE
+
+During the fourth quarter of fiscal 1993 the Company recorded a
+nonrecurring charge aggregating $21,145,000 related to its
+decision to sell, close or downsize certain processing
+facilities.  The nonrecurring charge included the writedown of
+such processing facilities and related equipment to their
+estimated net realizable or salvage value.  Also included in the
+nonrecurring charge are provisions for severance, consolidation
+costs, plant carrying costs and the writedown of certain
+discontinued inventories to their estimated net realizable value.
+
+
+C.   INVENTORIES
+
+Inventories (in thousands) consisted of the following:
+
+                       Finished     Manufacturing
+                       Goods        Supplies          Total
+                       --------     ------------    ---------
+March 31, 1994         $50,256       $ 5,000        $ 55,256
+March 31, 1993          93,656         6,935         100,591
+
+During the fourth quarter of 1994, the Company changed its method
+of valuing its inventories from the last-in, first out (LIFO)
+method to the average cost method.  Management believes that the
+average cost method provides a more meaningful presentation of
+the Company's financial position and related financial ratios. 
+In accordance with generally accepted accounting principles the
+prior years financial statements have been retroactively adjusted
+to reflect this change.  The effect of this restatement was to
+increase the net loss in 1993 by $784,000 or $.09 per share and
+reduce the net loss in 1992 by $842,000 or $.11 per share.  In
+addition, the effect of the restatement was to increase retained
+earnings at April 1, 1991 by $5,341,000.
+
+
+D.   OTHER LIABILITIES
+
+Other liabilities (in thousands) consisted of the following:
+
+                                        March 31
+                                    1994       1993
+
+Postretirement benefits           $2,769     $2,719
+Accrued disposition costs              0      2,426
+Deferred compensation              1,826      1,912
+                                  ------     ------
+                                  $4,595     $7,057
+                                  ======     ======
+
+
+
+
+
+
+                          Page 34 of 91<PAGE>
+
+E.   EMPLOYEES' RETIREMENT PLAN AND OTHER BENEFIT PLANS
+
+The Company provides certain postretirement health care benefits and life
+insurance benefits to retired employees.  The benefits and eligibility
+requirements vary by location and various union agreements.
+
+Generally eligibility is attained at age 55 or 62 with minimum service
+requirements.  Employees hired currently by the Company are not entitled to
+postretirement health care benefits.  The medical benefits are generally
+subject to lifetime maximum benefits of $750,000 and after age 65 are
+coordinated with Medicare.  During the year ended March 31, 1993, the
+Company adopted, effective April 1, 1992, Statement of Financial Accounting
+Standard No. 106 (SFAS No. 106), "Employers' Accounting for Postretirement
+Benefits Other than Pensions."  The Company had previously provided for
+postretirement health care benefits on a pay-as-you-go basis.  In
+connection with the adoption of SFAS No. 106, the Company elected to
+recognize as expense during 1993 the entire accumulated postretirement
+benefit obligation (transition obligation) aggregating $2,500,000 as of
+April 1, 1992, rather than amortizing such amount to expense over a 20-year
+period.  The Company continues to fund benefit costs on a pay-as-you-go
+basis.
+
+The following table sets forth the plan's status reconciled with amounts
+recognized in the balance sheet:
+
+(in thousands)                                            March 31,
+                                                       1994      1993
+                                                       ----      ----
+Accumulated postretirement benefit obligation:
+  Retirees                                           $ 1,377   $ 1,371
+  Fully eligible active plan participants                234       227
+  Other active plan participants                       1,174     1,121
+                                                      ------    ------
+                                                       2,785     2,719
+Unrecognized net loss                                     16
+                                                      ------    ------
+Accrued postretirement benefit cost                    2,769     2,719
+                                                      ======    ======
+
+                                                    Years ended March 31
+                                                       1994       1993   
+                                                       ----       ----
+Net periodic postretirement benefit cost
+  included the following components:
+
+  Service cost - benefits attributed to service 
+   during the period                                  $ 131      $ 122
+  Interest cost on accumulated postretirement
+   benefit obligation                                   206        193
+  Curtailment gain                                      (71)
+                                                      -----      -----
+Net periodic postretirement benefit cost              $ 266      $ 315
+                                                      =====      =====
+The assumed health care cost trend rate used in measuring the accumulated
+postretirement benefit obligation was 14% in 1993, gradually declining to 
+6% in 2001.
+
+                               Page 35 of 91<PAGE>
+The weighted average discount rate used in determining the accumulated
+postretirement benefit obligation was 7.5% in 1994 and 8% in 1993.
+
+If the health care cost trend assumptions were increased by 1%, the
+accumulated postretirement benefit obligation as of March 31, 1994, would
+increase by $230,000.  The effect of this change on the aggregate of the
+service cost and interest cost would be an additional charge to expense of
+approximately $35,000 for the year ended March 31, 1994.
+
+During 1994 the Company had a curtailment gain which represented the
+accumulated postretirement benefit obligation of employees at operations
+divested of during the year.
+
+The Company has a profit sharing plan which covers substantially all full-
+time employees who have completed one year (minimum of 1,000 hours) of
+service and provides for Company contributions to a separate trust are
+based upon 8% of the profit sharing income base as defined in the plan.  No
+profit sharing contributions were required during the three years ended
+March 31, 1994.
+
+In addition, the Company also has salary deferral profit sharing plans
+(401(k) plans) and other defined contribution plans.  Contributions under
+these plans were $337,000, $670,000, and $661,000 in 1994, 1993 and 1992,
+respectively.
+
+The Financial Accounting Standards Board has issued Statement of Financial
+Accounting Standards No. 112 Employers' Accounting for Postemployment
+Benefits.  This statement requires the accrual of postemployment benefits
+during the years an employee provides services.  The Statement must be
+adopted during the year ended March 31, 1995.  The impact of adopting this
+Statement has not been determined.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 36 of 91<PAGE>
+
+F.   NOTES PAYABLE AND LONG-TERM DEBT
+
+
+Long-term debt (in thousands) consisted of the following:
+                                                 
+                                                      March 31,
+                                                 1994          1993
+
+9.37% senior notes due January 2000           $ 21,186       $ 25,000
+9.74% senior notes due December 2001            16,071         19,500
+
+Revolving credit notes                          17,000         35,000
+
+Industrial Development Revenue Bonds:
+ 7.00% to 8.88%                                 26,569         27,748
+ 5.28% (floating at 88% of prime)                  600            850
+ 4.32% (floating at 72% of prime)                  180            360
+ 4.05% Variable                                  2,700          2,850
+                                               -------        -------
+                                                84,306        111,308
+
+Less:
+ Current maturities on long-term debt           (3,868)        (2,259)
+ Additional long-term debt classified
+  as a current liability                                      (26,195)
+                                              ---------       --------
+                                              $ 80,438       $ 82,854 
+                                              =========      =========
+
+
+On August 20, 1992, the Company entered into a loan and security agreement
+with a commercial lender and various banks which provides for borrowings
+under revolving credit loans and matures on May 31, 1995.  The agreement
+which was amended on June 15, 1993 provides for maximum borrowings under
+revolving credit loans of $100,000,000.  Borrowings under the revolving
+credit loans bear interest at 2.25% over a specified bank's reference rate
+on the first $40,000,000 of loans and 1.25% over the reference rate on any
+borrowings in excess of $40,000,000.  The amended agreement generally
+restricts borrowings to an amount equal to 85% of eligible accounts
+receivable plus 65% of eligible inventory subject to an inventory sublimit,
+as defined in the agreement, reduced by the amount of any outstanding
+letters of credit and $8,140,000.
+
+The amended agreement requires an agent's fee of .25% per annum times the
+average daily used portion of the commitment including outstanding letters
+of credit.  The amended agreement required the Company to pay a
+restructuring fee of $600,000 in installments and provides for a fee equal
+to .25% per annum of the unused portion of the commitment.
+
+Covenants contained in the amended agreement require the Company to
+maintain minimum levels of adjusted tangible net worth, net cash flow and
+interest coverage.  Other covenants place limitations on liens, capital
+expenditures, leases, disposition of assets, dividends and the ability to
+incur additional debt.
+
+                               Page 37 of 91<PAGE>
+In addition to the covenants under the amended loan and security agreement,
+the Company also has similar covenants under its various other agreements. 
+At March 31, 1994, all of the retained earnings are restricted as to the
+payment of future cash dividends.
+
+On June 15, 1993, the Company issued warrants to the holders of the 9.37%
+and 9.74% senior notes in consideration for amending the applicable loan
+agreement.  The warrants entitle the holders to purchase an aggregate of
+90,000 shares of common stock at a price of $7.88 per share through
+January 15, 2000.  The estimated fair market value of the warrants at
+June 15, 1993 aggregating $22,500 has been credited to additional paid-in
+capital.
+
+During 1993, certain Industrial Revenue Development Bond issues were
+classified as current liabilities because the Company was in technical
+default of certain financial ratio covenants.  During 1994, all of the
+Industrial Revenue Development Bond issues, with the exception of one issue
+aggregating $1,400,000, were amended by the bondholders such that the
+Company was in compliance with the related debt covenants and accordingly
+such amounts have been classified as long-term debt at March 31, 1994.  On
+June 13, 1994, the trustee of the $1,400,000 Paulding, Ohio bond issue
+declared these bonds immediately payable due to events of default under the
+Indenture of Trust.  Therefore, the bonds are included in current
+maturities on long-term debt at March 31, 1994.  The facility related to
+the Paulding bond issue was sold during 1994 and proceeds from the sale
+aggregating $1,400,000 were placed in a segregated cash account in
+anticipation of the acceleration notice from the Trustee.
+
+The amended loan and security agreement and the senior note agreements
+contain cross-default provisions.  Such cross-default provisions specify
+that a default on any other debt agreement is also an event of default
+under the agreement containing the cross-default provision.  In addition,
+the amended loan and security agreement and the senior note agreements
+contain acceleration clauses which give the holders the right to accelerate
+the maturity date of the obligation if any other obligation owed by the
+Company is accelerated or payment is demanded other than in accordance with
+the stated maturity dates.  The Company has obtained waivers from the
+holders of the revolving credit notes and the senior notes with respect to
+the cross-default provision and acceleration clauses relating to the
+Paulding issue.
+
+Substantially all of the assets of the Company are pledged as collateral
+under the various loan agreements.
+
+At March 31, 1994, $17,992,000 of revolving credit loans payable were
+classified as short-term reflecting the Company's intent to repay these
+borrowings during 1994.  Interest rates on the outstanding revolving credit
+loans (including the amounts classified as long-term) at March 31, 1994,
+ranged from 7.25% to 8.25%.
+
+The stated aggregate amounts of scheduled maturities on long-term debt each
+year for the five years subsequent to March 31, 1994, are as follows:  1995
+- -$3,868,000; 1996-$19,536,000; 1997-$2,150,000; 1998-$2,650,000; and 1999-
+$7,215,000. 
+
+
+                               Page 38 of 91<PAGE>
+Revolving credit loans payable at March 31, 1994, under the Company's
+amended loan and security agreement approximate estimated fair value as the
+interest rate remained unchanged under the amended agreement on June 15,
+1993.  The 9.37% and 9.74% senior notes are estimated to have an
+approximate fair value of $22,296,217 and $16,695,826, respectively, at
+March 31, 1994, based on quoted prices for similar issues for debt of the
+same maturities.  Management of the Company has estimated the fair value of
+the Industrial Development Revenue Bond issues to be approximately
+$29,148,000.
+
+
+G.   INCOME TAXES
+
+Effective April 1, 1993, the Company adopted SFAS 109.  This statement
+requires that deferred income taxes be calculated using an asset and
+liability method which generally requires the recognition of the tax
+consequences on future years of events which have been recognized in
+financial statements.  In addition, a valuation allowance is to be
+recognized if it is more likely than not that some or all of a deferred tax
+asset will not be realized.  Due to recent history of operating losses, a
+valuation allowance has been established which reduces the deferred tax
+assets to zero after giving effect to deferred tax liabilities.  There was
+no material cumulative effect of adoption of SFAS 109 on the financial
+position or results of operations of the Company for the year ended
+March 31, 1994.
+
+Income taxes (in thousands) consisted of the following:
+
+ 
+                                        Years Ended March 31,
+                                     1994       1993       1992
+                                     ----       ----       ----
+Currently payable (refundable)
+
+  Federal                         $(2,577)    $(4,050)   $(5,765)
+  State                                50          50        100
+
+Deferred - Federal                             (8,983)       734
+                                  --------   ---------   --------
+                                  $(2,527)   $(12,983)   $(4,931)
+                                  ========   =========   ========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 39 of 91<PAGE>
+Total income tax credits differs from the amounts computed by applying the
+Federal income tax rate to loss before income taxes.  The following table
+provides a reconciliation between the United States Statutory rate to the
+effective tax rate reported:
+
+
+                                             Years Ended March 31,
+                                            1994     1993    1992
+                                            ----     ----    ----
+
+U.S. Statutory rate                         34.0%    34.0%   34.0%
+
+State income taxes net of federal
+ income tax benefits                        (1.1)    (0.1)   (0.6)
+
+Effect of net operating
+ loss carryback                              3.6     (4.0)
+                                         
+Tax rate differential on carryback
+ of product liability claim                  5.2
+
+Adjustment of prior years accrual           11.6
+
+Other items - net                                     0.5    (0.2)
+                                           ------   ------  ------
+Effective tax rate                          53.3%    30.6%   33.2%
+                                           ======   ======  ======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 40 of 91<PAGE>
+Deferred income taxes reflect the net tax effects of (a) temporary
+differences between the carrying amounts of assets and liabilities for
+financial reporting purposes and the amounts used for income tax purposes,
+and (b) net operating loss and tax credit carryforwards.  Significant
+components of the Company's net deferred tax liability as of March 31, 1994
+are as follows:
+
+
+Deferred tax assets:
+
+     Reserves not currently deductible                $ 1,325
+
+     Provision for nonrecurring charge                  2,451
+
+     Post retirement benefits                             942
+
+     Tax credit carryforwards                           2,921
+
+     Net operating loss carryforwards                   7,922
+
+     Valuation allowance                               (4,520)
+                                                      --------
+          Total Deferred Tax Assets                    11,041
+                                                      --------
+
+
+Deferred tax liabilities:
+
+     Change in method of inventory valuation            1,530
+
+     Deferred casualty gain                             1,408
+
+     Tax over book depreciation                         7,816
+
+     Other                                                287
+                                                      -------
+          Total Deferred Tax Liabilities               11,041
+
+                                                      -------
+
+Net deferred tax liability                            $     0
+                                                      =======
+
+
+Deferred income taxes for 1993 and 1992 resulted principally from
+depreciation, provision for nonrecurring charges and inventory valuations.
+At March 31, 1994, the Company had an alternative minimum tax credit
+carryforward of approximately $1,916,000 which may be carried forward
+indefinitely, and the Company also had a general business credit
+carryforward of approximately $1,005,000 which expires in various years
+through 2003 to 2008.  At March 31, 1994 the Company had Net Operating Loss
+carryforwards of approximately $23,300,000 which expire in the year 2009.
+
+
+
+
+                               Page 41 of 91<PAGE>
+H.   CAPITAL STOCK
+
+In June 1989, the Company amended its Articles of Incorporation to grant,
+in the event any person ("Acquiring Person") becomes the beneficial owner,
+as defined, of 50% or more of the Company's common stock, any of which was
+acquired pursuant to a tender offer, each holder of common stock other than
+the Acquiring Person the right to have their shares repurchased for cash by
+the Company.  The repurchase price will be the highest of (i) the highest
+price paid by Acquiring Person for those shares acquired within the prior
+18 months, (ii) the highest price on any trading day in the prior 18 months
+or (iii) the per common share amount of stockholders' equity as reflected
+in the previously completed quarter.
+
+In 1985, the stockholders approved a 1985 Incentive Stock Option Plan
+pursuant to which 320,000 shares of the Company's common stock were
+reserved for the grant of options to executive officers and other key
+employees.  Under the Plan, stock grants may be made over a 10 year period
+at not less than 100% of fair market value at the date of grant.  One year
+after date of grant, 50% of the options become exercisable with the
+remaining options exercisable after the second year.  No option granted
+under the Plan may be exercised more than ten years after the date of
+grant.  Changes in shares as to options is as follows:
+
+                                              Shares
+                                            Outstanding
+                                 Reserved    Options   Available
+
+BALANCES AT APRIL 1, 1991 
+ ($5.125 to $16.25)              266,700     159,500    107,200
+Granted ($10.50)                              53,500    (53,500)
+Expired ($16.25)                              (4,000)     4,000
+Exercised ($5.125 to $6.875)      (8,500)     (8,500)
+                                 --------    --------   --------
+BALANCES AT MARCH 31, 1992
+ ($5.125 to $15.875)             258,200     200,500     57,700
+Granted ($6.25 to $10.625)                    19,600    (19,600)
+Expired ($5.125 to $16.25)                   (36,200)    36,200
+Exercised ($5.125 to $10.50)     (24,700)    (24,700)
+                                 --------    --------    -------
+BALANCES AT MARCH 31, 1993
+ ($5.125 to $15.875)             233,500     159,200     74,300
+Granted ($6.125 to $8.625)                     6,500     (6,500)
+Expired ($6.25 to $15.125)                   (14,750)    14,750
+Exercised ($5.125 to $6.875)      (8,950)     (8,950)
+                                 --------    --------    -------
+BALANCES AT MARCH 31 1994        224,550     142,000     82,550
+                                 ========    ========    =======
+
+At March 31, 1994, a total of 133,950 options were exercisable at $5.125 to
+$15.875.
+
+In addition, during 1990 the Company granted 17,500 options to purchase
+common stock at $10 per share to certain employees.  These options have
+substantially the same terms as the Incentive Stock Option Plan.  During
+1993, 15,000 of these options expired.
+
+                               Page 42 of 91<PAGE>
+I.   COMMITMENTS AND CONTINGENCIES
+
+The Company has operating leases covering primarily equipment and land. 
+The majority of the equipment leases are for terms of one year or less. 
+The Company does, however, in the normal course of business continue to
+lease the equipment after the minimum lease period.  Certain leases require
+payment of insurance and maintenance costs.
+
+Aggregate minimum rental commitments at March 31, 1994, under
+noncancellable leases with terms of more than one year are immaterial.
+
+Total rent expense aggregated approximately $1,900,000; $2,850,000; and
+$3,268,000, respectively, during the years 1994, 1993 and 1992.
+
+The Company is involved in various legal actions and claims primarily
+arising in the normal course of its business.  In the opinion of management
+of the Company, the liability, if any, would not have a material effect on
+the Company's financial condition or results of operations.
+
+
+J.   SUPPLEMENTAL CASH FLOW DISCLOSURES
+
+Cash payments for (refunds of) interest and income taxes were as follows
+(in thousands):
+
+                                  Years Ended March 31, 
+                               1994        1993        1992
+
+Interest                     $11,854     $11,607     $ 7,246
+Income taxes - net            (4,118)     (5,695)     (1,821) 
+
+
+K.   INSURANCE CLAIM
+
+During fiscal 1993 the Company had a boiler explosion and ensuing fire at
+its Hoopeston, Illinois processing facility.  An initial claim was filed
+with the insurance carrier relating to the property and equipment destroyed
+and the estimated business interruption losses incurred.  As of March 31,
+1993, advances had aggregated $5,000,000, of which $1,250,000 was received
+in cash and $3,750,000 was included in accounts receivable.  This advance
+was recorded to write off $2,500,000 of property and equipment destroyed in
+the fire and to record a gain of $2,500,000 relating to recovery of
+expenses incurred and lost margin resulting from the fire.
+
+During fiscal 1994, the Company received additional insurance proceeds from
+the final settlement of this claim, resulting in a gain included in other
+revenues of $4,118,000.  
+
+
+
+
+
+
+
+
+
+                               Page 43 of 91<PAGE>
+  
+QUARTERLY FINANCIAL DATA (Unaudited)
+(Dollars in thousands except per share data)
+
+          
+                          QTR 1     QTR 2    QTR 3     QTR 4     ANNUAL
+1994
+
+Net sales               $56,357   $71,148   $71,983   $56,657   $256,145
+Gross profit              5,205     8,708    12,166    13,674     39,753
+Net earnings (loss)      (5,385)      118       226     2,826     (2,215)
+Net earnings (loss)
+ per share                (0.65)     0.01      0.03      0.34      (0.27)
+
+
+1993
+
+Net sales               $59,188   $62,798   $78,910   $80,486   $281,382
+Gross profit              9,128     8,833    12,494       945     31,400
+Loss before cumulative
+ effect of changes in
+ accounting principles   (2,309)   (2,370)     (707)  (24,091)   (29,477)
+Cumulative effect of
+ changes in accounting
+ principles (net of 
+ income taxes)           (1,650)                                  (1,650)
+Net loss                 (3,959)   (2,370)     (707)  (24,091)   (31,127)
+Loss per share:
+ Before cumulative 
+ effect of changes in 
+ accounting principles    (0.28)    (0.28)    (0.09)    (2.90)     (3.55)
+Cumulative effect of 
+ changes in accounting
+ principles (net of 
+ income taxes)            (0.20)                                   (0.20)
+Net loss per share        (0.48)    (0.28)    (0.09)    (2.90)     (3.75)
+        
+
+Fiscal 1993 was restated to reflect a change in method of valuing
+inventories from the LIFO method to the average cost method.  The net
+effect of the restatement was to decrease the previously reported fourth
+quarter loss by $575,000 $.07 per share and to increase the previously
+reported year-to-date loss by $784,000, $.09 per share.
+
+During the fourth quarter of 1993, the Company recorded a one-time noncash
+charge of $14,675,000 ($21,145,000 pre-tax), which related to the writedown
+of seven plants to be sold, closed or downsized and the costs associated
+with disposing of them.
+
+The Company's operations are largely seasonal.  The majority of its
+production occurs during the second and third quarter of each fiscal year. 
+Net sales for the third and fourth quarter of fiscal 1994 and 1993 were 50%
+and 57% of total sales respectively.  Sales for processed vegetables are
+greater in the fall, winter and early spring.
+
+
+                               Page 44 of 91<PAGE>
+
+ITEM 9.   CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON                  
+          ACCOUNTING AND FINANCIAL DISCLOSURE
+          -----------------------------------
+
+Not Applicable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 45 of 91<PAGE>
+                                 PART III
+                                 --------
+
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+          --------------------------------------------------
+
+Information required by this item with respect to directors is included
+under the heading "Matter (1) - Election of Directors" and with respect to
+compliance with Section 16(a) of the Securities Exchange Act of 1934 is
+included in the Company's definitive Proxy Statement, to be dated July 18,
+1994, relating to the 1994 Annual Meeting of Shareholders currently
+scheduled for August 26, 1994, which will be filed with the Securities and
+Exchange Commission separately pursuant to Rule 14a-6 under the Securities
+Exchange Act of 1934 and in accordance with General Instruction G(3) to
+Form 10-K, not later than 120 days after the end of the Registrant's fiscal
+year, and which section is hereby incorporated herein by reference.  
+
+
+ITEM 11.  EXECUTIVE COMPENSATION
+          ----------------------   
+
+Information required by this item is included under the heading
+"Compensation of Executive Officers and Directors" in the Company's
+definitive Proxy Statement, to be dated July 18, 1994, relating to the 1994
+Annual Meeting of Shareholders currently scheduled for August 26, 1994,
+which will be filed with the Securities and Exchange Commission separately
+pursuant to Rule 14a-6 under the Securities Exchange Act of 1934 and in
+accordance with General Instruction G(3) to Form 10-K, not later than 120
+days after the end of the Registrant's fiscal year, and which section is
+hereby incorporated herein by reference.
+
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND 
+          MANAGEMENT
+          ----------
+
+Information required by this item is included under the heading "Security
+Ownership of Certain Beneficial Owners" in the Company's definitive Proxy
+Statement, to be dated July 18, 1994, relating to the 1994 Annual Meeting
+of Shareholders currently scheduled for August 26, 1994, which will be
+filed with the Securities and Exchange Commission separately pursuant to
+Rule 14a-6 under the Securities Exchange Act of 1934 and in accordance with
+General Instruction G(3) to Form 10-K, not later than 120 days after the
+end of the Registrant's fiscal year, and which section is hereby
+incorporated by reference.
+
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+          ----------------------------------------------
+
+None
+
+
+
+                               Page 46 of 91<PAGE>
+                                  PART IV
+                                  -------
+
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON 
+          FORM 8-K
+          --------
+
+(a)  Financial Statements and Financial Statement Schedules
+     ------------------------------------------------------
+
+                                                         Form 10-K
+                                                        Page Number
+                                                        -----------
+The following consolidated financial statements
+of Stokely USA, Inc. and its subsidiaries are
+included in Item 8 of this Annual Report:
+
+   Independent Auditors' Report                               26
+   Consolidated Balance Sheets, March 31, 1994 and 1993     27-28
+
+For the years ended March 31, 1994, 1993 and 1992:
+
+   Consolidated Statement of Operations                       29
+   Consolidated Statements of Stockholders' Equity            30
+   Consolidated Statements of Cash Flows                   31-32 
+   Notes to Consolidated Financial Statements              33-44
+
+
+The following consolidated financial statement 
+schedules of Stokely USA, Inc. and its subsidiaries
+are included in Item 14 of this Annual Report:
+
+   Schedule V     Property, Plant and Equipment               49
+   Schedule VI    Accumulated Depreciation and 
+                  Amortization of Property, Plant
+                  and Equipment                               50
+   Schedule VIII  Valuation and Qualifying Accounts
+                  and Reserves                                51
+   Schedule IX    Short-term Borrowings                       52
+   Schedule X     Supplementary Earnings Statement
+                  Information                                 53
+
+
+All other schedules are omitted because they are inapplicable, not required
+under the instructions, or the information is included in the Consolidated
+Financial Statements or notes thereto.
+
+
+
+
+
+
+
+
+
+                               Page 47 of 91<PAGE>
+(b)  Reports on Form 8-K:
+     --------------------
+
+No reports on Form 8-K were filed by the Company during the three months
+ended March 31, 1994.
+
+
+(c)  Exhibits
+     --------
+
+A complete listing of exhibits required is given in the Exhibit Index on
+pages 58 through 61 which precedes the exhibits filed with this report.
+
+
+(d)  Financial Statement Schedules
+     -----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 48 of 91<PAGE>
+<TABLE>   
+                                                                     SCHEDULE V 
+
+                       STOKELY USA, INC. AND SUBSIDIARIES
+                   SCHEDULE V - PROPERTY, PLANT AND EQUIPMENT
+                    Years ended March 31, 1994, 1993 and 1992
+
+                                     Classification
+                           -----------------------------------
+<CAPTION> 
+
+                      Land and                              Construction
+                          Land                 Machinery &       In   
+                       Improv.    Buildings     Equipment     Progress      Total
+<S>                  <C>         <C>           <C>           <C>          <C>          
+Balances,
+ April 1, 1991       $2,206,000  $24,822,000   $65,675,000   $4,017,000   $ 96,720,000
+ 
+Additions <F1>          622,000    3,163,000    19,777,000    3,450,000     27,012,000
+
+Retirements              (3,000)     (12,000)   (1,880,000)                (1,895,000)
+                      ----------  -----------   -----------   ---------    ------------
+Balances,
+ March 31, 1992       2,825,000   27,973,000    83,572,000    7,467,000    121,837,000
+
+Additions             1,549,000    6,528,000    10,624,000   (5,830,000)    12,871,000
+
+Retirements              (3,000)    (592,000)   (9,758,000)               (10,353,000)
+
+Reclass & other
+ (deduct) <F2>       (1,439,000)  (9,539,000)  (21,477,000)               (32,455,000)
+                      ----------  -----------   -----------   ---------    -----------  
+Balances, 
+ March 31, 1993       2,932,000   24,370,000    62,961,000    1,637,000    91,900,000
+
+Additions               283,000    1,316,000     3,422,000      153,000     5,174,000
+
+Retirements             (56,000)     (50,000)     (543,000)                  (649,000)          
+     
+Reclass & other
+ (deduct) <F2>           25,000    1,750,000       456,000   (1,228,000)    1,003,000
+                     ----------  -----------   -----------   ----------   -----------
+Balances, 
+ March 31, 1994      $3,184,000  $27,386,000   $66,296,000    $ 562,000   $97,428,000
+                     ==========  ===========   ===========   ==========   =========== 
+
+<FN>
+<F1>  Additions include purchase of McAllen, Texas, and Monterrey, Mexico       
+      facilities.
+
+<F2>  Includes reclassification of assets held for disposition.
+
+</TABLE>
+
+In general, the annual rates used for depreciation are as follows:
+
+Land Improvements                 10%
+Buildings                 2.50% to 5%
+Machinery & Equipment    8.33% to 33%
+
+
+
+
+                                  Page 49 of 91<PAGE>
+<TABLE>
+                                                          SCHEDULE VI
+
+
+                     STOKELY USA, INC. AND SUBSIDIARIES
+
+           SCHEDULE VI - ACCUMULATED DEPRECIATION AND AMORTIZATION
+                      OF PROPERTY, PLANT AND EQUIPMENT
+
+                 Years ended March 31, 1994, 1993, and 1992
+
+                               Classification
+                      --------------------------------
+<CAPTION>
+                          Land
+                      and Land                 Machinery &
+                       Improv.   Buildings      Equipment       Total
+<S>                   <C>        <C>           <C>            <C>
+Balances, 
+ April 1, 1991        $246,000   $3,489,000    $21,709,000    $25,444,000
+
+Additions charged to
+cost and expenses       73,000      765,000      7,623,000      8,461,000
+
+Retirements             (3,000)     (12,000)    (1,485,000)    (1,500,000)
+                      ---------   ----------    -----------    -----------
+Balances,
+ March 31, 1992        316,000    4,242,000     27,847,000     32,405,000
+
+Additions              174,000      930,000      8,182,000      9,286,000
+
+Retirements             (3,000)    (250,000)    (7,596,000)    (7,849,000)
+
+Reclass and other 
+ (deduct) <F1>                                 (10,361,000)   (10,361,000)
+                      ---------   ----------   ------------   ------------
+Balances, 
+ March 31, 1993        487,000    4,922,000     18,072,000     23,481,000
+
+Additions              186,000      715,000      6,329,000      7,230,000
+
+Retirements            (56,000)     (50,000)    (1,071,000)    (1,177,000)
+
+Reclass and other
+ (deduct)             (132,000)    (530,000)     1,200,000        538,000
+                      ---------   ----------    -----------    -----------
+Balances,
+ March 31, 1994       $485,000   $5,057,000    $24,530,000    $30,072,000
+                      =========  ===========   ============   ============
+
+<FN>
+<F1>  Includes reclassification of assets held for disposition.
+
+</TABLE>
+
+
+                                Page 50 of 91<PAGE>
+                                               SCHEDULE VIII
+
+
+                    STOKELY USA, INC. AND SUBSIDIARIES
+
+      SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+
+                 Years Ended March 31, 1994, 1993 and 1992
+
+
+                                                    Description
+                                                -------------------         
+                                                 Valuation Assets
+                                              Deducted from Assets-
+                                               Allowance for Losses
+                                                  on Receivables
+                                               --------------------
+
+Balance April 1, 1991                                $470,000
+
+Additions charged to costs and expenses               152,000
+
+Deductions                                           (222,000) <F1>
+                                                     ---------
+
+Balance March 31, 1992                                400,000
+
+Additions charged to costs and expenses               747,000
+
+Deductions                                           (477,000) <F1>
+                                                     ---------
+
+Balance March 31, 1993                                670,000
+
+Deductions                                           (285,000) <F2>
+                                                     ---------
+
+Balance March 31, 1994                               $385,000
+                                                     =========
+
+
+<F1>  Write off Bad Debts
+
+<F2>  Uncollectible accounts written off, net of recoveries and reduction   
+      in Bad Debt reserve.
+
+
+
+
+
+
+
+
+
+
+
+                               Page 51 of 91<PAGE>
+<TABLE>
+                                                                     SCHEDULE IX
+
+
+                     STOKELY USA, INC. AND SUBSIDIARIES
+
+                     SCHEDULE IX - SHORT-TERM BORROWINGS
+
+                  Years Ended March 31, 1994, 1993 and 1992
+<CAPTION>
+                                
+                                             Max. Amount   Avg. Amount  Weighted Avg.
+                       Balance   Weighted    outstanding   outstanding  interest rate 
+                     at end of   avg. int.   during the    during the   during the
+                       Period      Rate         Year          Year         Year
+                    ----------   --------   ------------  ------------  ------------
+<S>                  <C>           <C>      <C>           <C>              <C>
+                                                              <F1>         <F2>
+March 31, 1994
+ Notes Payable       $34,992,000   8.25%    $68,872,000   $53,239,000      8.4%
+
+March 31, 1993
+ Notes Payable       $66,258,000   7.85%    $97,495,000   $61,264,000      7.5%
+ Commercial Paper                   N.A.     40,271,000     4,261,000      4.5%
+
+March 31, 1992
+ Notes Payable       $46,408,000   5.58%    $67,357,000   $33,325,000      5.8%
+ Commercial Paper                  4.54%     34,045,000    21,784,000      5.8%
+
+<FN>
+<F1>  Average amount outstanding during the year is computed by dividing the  
+      total of daily outstanding principal by 360 days.
+
+<F2>  The weighted average interest rates were calculated by dividing the     
+      interest expense for the year for such borrowings by the average        
+      amounts outstanding during the period.
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Page 52 of 91<PAGE>
+
+                                                            SCHEDULE X
+
+
+                    STOKELY USA, INC. AND SUBSIDIARIES
+
+         SCHEDULE X - SUPPLEMENTARY EARNINGS STATEMENT INFORMATION
+                                     
+                 Years Ended March 31, 1994, 1993 and 1992
+
+
+                                    Charged to costs and expenses
+                                    -----------------------------
+                                   1994          1993          1992 
+                                   ----          ----          ----
+
+Maintenance and repairs        $5,363,000    $6,827,000    $7,844,000
+
+Advertising                    $  688,000    $1,206,000    $2,269,000
+
+
+
+The amounts of royalties, taxes other than payroll and income taxes, and
+amortization of intangible assets are not material.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 53 of 91<PAGE>
+                                SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be
+signed on behalf of the undersigned, thereunto duly authorized.
+
+                                         STOKELY USA, INC.
+Date:  June 29, 1994
+                                         BY:
+                                             ------------------------
+                                             Vernon L. Wiersma
+                                             President
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+Signature                  Title                         Date
+- ---------                  -----                         ----
+
+                           Director                     6-29-94
+- --------------------                                  ----------
+Thomas W. Mount                     
+
+                           Chairman of the Board        6-29-94 
+- --------------------                                   ----------
+Frank J. Pelisek                               
+                                   
+                           President, Chief Execu-      6-29-94
+- --------------------       tive Officer and Director   ----------
+Vernon L. Wiersma                                             
+
+                           Vice Chairman, Treasurer     6-29-94
+- --------------------       and Director                ----------
+Stephen W. Theobald                                          
+
+                           Vice President and Chief     6-29-94
+- --------------------       Financial and Accounting    ----------
+Leslie J. Wilson           Officer                             
+
+
+                           Director                     6-29-94
+- --------------------                                   ----------
+Joseph B. Weix                                               
+
+                           Director                     6-29-94
+- --------------------                                  -----------
+Orren J. Bradley                                            
+
+                           Director                     6-29-94
+- --------------------                                  ----------
+Russell W. Britt                                               
+
+
+                               Page 54 of 91<PAGE>
+
+                           Director                     6-29-94
+- --------------------                                  ----------
+Ody J. Fish                                                  
+
+                           Director                     6-29-94
+- ---------------------                                 ----------
+Dr. E. Michael Foster                                       
+
+                           Director                     6-29-94
+- ---------------------                                 ----------
+Charles J. Carey                                            
+
+
+                           Director                     6-29-94
+- ---------------------                                 ----------
+Carol Ward Knox
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 55 of 91<PAGE>
+
+
+
+
+- ---------------------------------------------------------------------------
+- ---------------------------------------------------------------------------
+
+
+
+                    SECURITIES AND EXCHANGE COMMISSION
+
+                          Washington, D.C.  20549
+
+
+
+
+                                 EXHIBITS
+
+                                 FORM 10-K
+
+
+             ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+
+                    THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+For the Fiscal Year Ended                        Commission File
+March 31, 1994                                           0-13943
+
+
+
+
+
+
+                             STOKELY USA, INC.
+
+
+
+
+   (Exact name of Issuer as specified in its Articles of Incorporation)
+
+
+
+
+- ---------------------------------------------------------------------------
+- ---------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+                               Page 56 of 91<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+                             STOKELY USA, INC.
+
+
+                             File No. 0-13943
+
+
+
+
+                         Exhibits to Form 10-K for
+
+
+                     fiscal year ended March 31, 1994
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 57 of 91<PAGE>
+3         Restated Articles of Incorporation      Exhibit 3 on the Companys
+          and By-Laws.                            Registration Statement on
+                                                  Form S-1 (SEC File No.
+                                                  33-339). 
+
+10(a)     Revolving Credit and Term Loan          Exhibit 10(a) to Form 
+          agreement.                              10-K Report for the year
+                                                  ended March 31, 1990.
+
+10(b)     Loan Agreement with respect to          Exhibit 10(u) to Form
+          $3,000,000 in principal amount          10-K Report for the year
+          of Industrial Development Bond          ended March 31, 1989.
+          relating to Stokely's Green Bay,
+          Wisconsin, facility.
+
+10(c)     Loan and Mortgage Agreement with        Exhibit 10(v) to Form
+          respect to $6,000,000 in principal      10-K Report for the year
+          amount to Industrial Development        ended March 31, 1989.
+          Bond relating to Stokely's Poynette,
+          Wisconsin, sauerkraut facility.
+
+10(d)     Note agreement with respect to          Exhibit 10 to Form 10-Q
+          $25,000,000 9.12% Senior Notes.         ended December 31, 1989.
+
+10(e)     Revenue Agreement with respect to       Exhibit 10(p) to Form
+          $1,400,000 in principal amount of       10-K Report for the year
+          Industrial Development Revenue Bond     ended March 31, 1990.
+          relating to Stokely's Paulding,
+          Ohio, facility.
+
+10(f)     Revenue Agreement with respect to       Exhibit 10(q) to Form
+          $1,600,000 in principal amount of       10-K Report for the year
+          Industrial Development Revenue          ended March 31, 1990.
+          Bond relating to Stokely's Poynette,
+          Wisconsin, facility.
+
+10(g)     Loan Agreement with respect to          Exhibit 10(r) to Form
+          $4,000,000 in principal amount of       10-K Report for the year
+          Industrial Revenue Bonds relating       ended March 31, 1990.
+          to Stokely's Waunakee, Wisconsin,
+          facility.
+
+10(h)     Loan Agreement with respect to          Exhibit 10(s) to Form
+          $3,000,000 in principal amount of       10-K Report for the year
+          Industrial Revenue Bonds relating       ended March 31, 1990.
+          to Stokely's Ackley, Iowa, facility.
+
+10(i)     Executive Deferred Compensation         Exhibit 10(t) to Form
+          Agreement.                              10-K Report for the year
+                                                  ended March 31, 1990.
+
+10(j)     Officer Stock Option Agreement.         Exhibit 10(u) to Form
+                                                  10-K Report for the year
+                                                  ended March 31, 1990.
+
+
+                               Page 58 of 91<PAGE>
+
+10(k)     Loan Agreement with respect to          Exhibit 10(k) to Form
+          $3,000,000 Industrial Revenue           10-K Report for the year
+          Bond relating to Stokely's              ended March 31, 1991.
+          Pickett, Wisconsin, facility.
+
+10(l)     Loan Agreement with respect to          Exhibit 10(l) to Form
+          $4,000,000 Industrial Revenue           10-K Report for the year
+          Bonds relating to Stokely's             ended March 31, 1991.
+          Walla Walla, Washington, facility.
+
+10(m)     Loan Agreement with respect to          Exhibit 10(m) to Form
+          $3,000,000 Industrial Revenue Bonds     10-K Report for the year
+          relating to Stokely's Wells,            ended March 31, 1992.
+          Minnesota, facility.
+
+10(n)     Loan Agreement with respect to          Exhibit 10(n) to Form
+          $20,000,000 9.49% note.                 10-K Report for the year
+                                                  ended March 31, 1992.
+
+10(o)     Loan and Security Agreement with        Exhibit 10(a) to Form
+          respect to $120,000,000 dated           10-Q for the quarter
+          August 18, 1992.                        ended September 30, 1992.
+
+10(p)     Restated Agreement for Purchase         Exhibit 10(b) to Form
+          and Sales of Containers between         10-Q for the quarter
+          Stokely USA, Inc. and Heekin Can        ended September 30, 1992.
+          Inc.
+
+10(q)     Supply Agreement between Stokely        Exhibit 10(c) to Form
+          USA, Inc. and American National         10-Q for the quarter 
+          Can Company.                            ended September 30, 1992.
+
+10(r)     Amendment to $25,000,000 original       Exhibit 10(d) to Form
+          Principal amount of 9.12% Senior        10-Q for the quarter
+          Notes due January 15, 2000.             ended September 30, 1992.
+
+10(s)     Amendment to $20,000,000                Exhibit 10(e) to Form
+          Promissary Note.                        10-Q for the quarter
+                                                  ended September 20, 1992.
+
+10(t)     Amendment to revenue agreement          Exhibit 10(t) to Form    
+          between Stokely USA and the City        10-K for the year ended
+          of Appleton, Wisconsin, dated           March 31, 1993.
+          December 1, 1988.
+
+10(u)     First Amendment to Intercreditor        Exhibit 10(u) to Form
+          and Collateral Agency Agreement.        10-K for the year ended
+                                                  March 31, 1993.
+      
+10(v)     Second Amendment to $20,000,000         Exhibit 10(v) to Form
+          Promissary Note.                        10-K for the year ended
+                                                  March 31, 1993.
+
+
+
+
+
+                               Page 59 of 91<PAGE>
+
+10(w)     First Amendment to Collateral           Exhibit 10(w) to Form
+          Security Agreement dated                10-K for the year ended
+          August 18, 1992, entered into by        March 31, 1993.
+          D & K Frozen Foods, Inc.
+
+
+10(x)     First Amendment to Collateral           Exhibit 10(x) to Form
+          Security Agreement dated                10-K for the year ended
+          August 18, 1992, entered into           March 31, 1993.
+          by Stokely USA, Inc.
+
+10(y)     Second Amendment to Note Agreement      Exhibit 10(y) to Form
+          dated January 1, 1990, in the           10-K for the year ended
+          amount of $25,000,000.                  March 31, 1993.
+
+10(z)     Warrant to purchase shares of           Exhibit 10(z) to Form
+          Common Stock by Nationwide Life         10-K for the year ended
+          Insurance Company.                      March 31, 1993.
+
+10(aa)    Warrant to purchase shares of           Exhibit 10(aa) to Form
+          Common Stock by EMPL and Co.            10-K for the year ended
+                                                  March 31, 1993.
+
+10(bb)    Warrant to purchase shares of           Exhibit 10(bb) to Form
+          Common Stock by West Coast Life         10-K for the year ended
+          Insurance Company.                      March 31, 1993.
+
+10(cc)    Notice of Redemption of $1,400,000      See Attachment.
+          County of Paulding, Ohio Industrial
+          Development.
+
+10(dd)    First Amendment to Loan Agreement,      See Attachment.
+          dated as of March 31, 1994, between
+          Stokely USA, Inc. and Norwest Bank
+          Minnesota, N.A., as trustee.       
+
+10(ee)    First Amendment to Loan Agreement,      See Attachment.
+          dated as of March 31, 1994, between
+          Stokely USA, Inc. and Norwest Bank
+          Minnesota, N.A., as trustee.
+
+10(ff)    First Amendment to Loan Agreement,      See Attachment.
+          dated as of March 31, 1994, between
+          Stokely USA, Inc. and NationsBank of 
+          Virginia, N.A., as trustee.
+
+10(gg)    First Amendment to Loan Agreement,      See Attachment.
+          dated as of March 31, 1994 between
+          Stokely USA, Inc. and NationsBank of
+          Virginia, N.A., as trustee.
+
+10(hh)    First Amendment to Loan Agreement,      See Attachment.
+          dated as of June 17, 1994 between
+          Stokely USA, Inc. and NationsBank of
+          Virginia, N.A., as trustee.
+
+
+                               Page 60 of 91<PAGE>
+10(ii)    First Amendment to Loan Agreement,      See Attachment.
+          dated as of June 17, 1994 between
+          Stokely USA, Inc. and NationsBank of
+          Virginia, N.A., as trustee.
+
+10(jj)    First Amendment to Loan Agreement,      See Attachment.
+          dated as of June 17, 1994 between
+          Stokely USA, Inc. and NationsBank 
+          of Virginia, N.A., as trustee.
+
+10(kk)    First Amendment to Loan Agreement,      See Attachment.
+          dated as of June 17, 1994 between 
+          Stokely USA, Inc. and NationsBank 
+          of Virginia, N.A., as trustee.
+          
+18        Letter regarding change in              See Attachment.
+          accounting principles.
+
+22        List of Subsidiaries.                   See Attachment.
+
+23        Consent of Independent Auditors.        See Attachment.
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               Page 61 of 91<PAGE>
+EXHIBIT 10(cc)
+
+
+
+                                        June 13, 1994
+
+
+
+Stokely USA, Inc.
+Attn: Steve Theobald, Vice Chairman
+1055 Corporate Center Drive
+Oconomowoc, WI  53066
+
+County of Paulding, Ohio
+Attn: President, Board of County Commissioners
+Courthouse
+Paulding, OH  45879
+
+     Re:  $1,400,000 County of Paulding, Ohio Industrial Development  
+          Refunding Revenue Bonds (Stokely USA, Inc. Project) dated June 1,
+          1989
+
+In accordance with Section 8.02 of the Indenture of Trust between County of
+Paulding, Ohio (the "Issuer) and Trustcorp Bank, Ohio (kna Society National
+Bank) (the "Trustee) dated as of June 1, 1989, the principal amount of all
+Outstanding Bonds is hereby declared immediately due and payable due to the
+occurrence of Events of Default under Section 8.01(e) of the Indenture of
+Trust.
+
+Pursuant to Section 2.02(a)(iv) of the Indenture of Trust, all Outstanding
+Bonds shall be redeemed on July 6, 1994.  The accelerated principal amount
+of the bonds, and interest thereon, shall be immediately deposited with the
+Trustee.  Those amounts are:
+
+
+               Principal:          $1,400,000.00
+               Accrued Interest:       10,038.19    (35 days @ 7.375%)
+                                   -------------     
+                                   $1,410,038.19
+
+
+Wire instructions for the immediate deposit of these monies are as follows:
+
+               Society National Bank
+               ABA #041001039
+               Acct: 5513001 (Trust, Toledo)
+               For Credit: Corporate Trust, Attn: Laurie Witt
+               Further Credit: Stokely Redemption
+
+If you have any questions, please contact Laurie Witt, Corporate Trust
+Administrator, at (419) 259-8953.
+
+
+                                        SOCIETY NATIONAL BANK, Trustee
+
+
+                               Page 62 of 91<PAGE>
+
+
+
+
+
+
+
+                       NOTICE OF REDEMPTION
+
+
+                $1,400,000 County of Paulding, Ohio
+          Industrial Development Refunding Revenue Bonds
+                    (Stokely USA, Inc. Project)
+
+
+NOTICE IS HEREBY GIVEN, that pursuant to the provisions of the
+Indenture of Trust dated June 1, 1989 between the County of
+Paulding, Ohio and Society National Bank, Trustee (fka Trustcorp
+Bank, Ohio), and due to the covenant defaults referenced in a
+previous notice dated December 16, 1993, the above captioned bond
+issue will be called in its entirety, $1,400,000 in principal will
+be redeemed on July 6, 1994.  On said date, there will become due
+and payable each bond maturing after July 6, 1994, to be redeemed
+at par (100% of the principal amount thereof) together with accrued
+interest to said date.
+
+
+               Interest Rate                 Maturity
+               -------------                 --------
+
+                  7.375%                   June 1, 1999
+
+
+Payment of the bonds to be redeemed will be made at the principal
+office of the Paying Agent:  Society National Bank, Corporate Trust
+Services, 1900 Pacific Avenue, 16th floor, Dallas, Texas 75201 upon
+presentation and surrender of said bonds.  From and after the
+redemption date interest on the bonds will cease to accrue.
+
+
+                                   SOCIETY NATIONAL BANK, Trustee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Page 63 of 91<PAGE>
+EXHIBIT 10(dd)
+
+                 FIRST AMENDMENT TO LOAN AGREEMENT
+                 ---------------------------------
+
+          This First Amendment to Loan Agreement, dated as of
+March 31, 1994, is by and between Stokely USA, Inc. (the
+"Borrower") and Norwest Bank Minnesota, N.A., as trustee (the
+"Trustee").
+
+          WHEREAS, the City of Ackley, Iowa (the "Issuer") has
+previously issued $3,000,000 City of Ackley, Iowa Industrial
+Development Revenue Bonds (Stokely USA, Inc. Project) (the "Bonds")
+pursuant to an Indenture of Trust dated as of July 1, 1989 (the
+"Indenture"); and
+
+          WHEREAS, in connection with the issuance of the Bonds,
+the Borrower and the Issuer entered into a Loan Agreement dated as
+of July 1, 1989 (the "Loan Agreement") containing certain covenants
+of the Borrower; and
+
+          WHEREAS, pursuant to the Indenture, the Issuer assigned
+its rights under the Loan Agreement to the Trustee; and
+
+          WHEREAS, the Borrower has requested that the Loan
+Agreement be amended to change the financial covenant(s) therein;
+and
+
+          WHEREAS, Section 11.02 of the Indenture provides that the
+Loan Agreement may be amended with notice and the consent of owners
+of not less than a majority in aggregate principal amount of
+outstanding Bonds; and
+
+          WHEREAS, the Trustee has provided notice to the owners of
+the Bonds and owners of a majority in aggregate principal amount of
+the outstanding Bonds have consented to the amendment of the Loan
+Agreement to change the financial covenant(s) therein and have
+directed the Trustee to enter into, execute, and deliver an
+amendment to the Loan Agreement;
+
+          IN CONSIDERATION of the mutual covenants, conditions, and
+agreements set forth herein and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties agree as follows:
+
+                             ARTICLE I
+                             ---------
+
+                            DEFINITIONS
+
+          When used herein, the following terms shall have the
+meanings specified:
+
+          1.1  Amendment.  "Amendment" shall mean the First
+Amendment to Loan Agreement.
+
+                           Page 64 of 91<PAGE>
+          1.2  Other Terms.  The other capitalized terms used in
+this Amendment shall have the definitions specified in the
+Indenture.
+
+                            ARTICLE II
+                            ----------
+
+                            AMENDMENTS
+
+          2.1  Amendment of Loan Agreement.  The Loan Agreement is
+amended as follows:
+
+               (a) Section 7.12 (i) is amended by deleting
+"$35,000,000" therein and replacing it with "$20,000,000"; and
+          
+               (b)  Section 7.12 (ii) is amended by deleting "2 to
+1" therein and replacing it with "6.0 to 1."
+
+          2.2  Miscellaneous Amendments.  The Loan Agreement, the
+Indenture, and all other documents, instruments, and materials
+executed and delivered heretofore or hereafter pursuant thereto are
+deemed hereby to be amended so that any reference therein to the
+Loan Agreement shall be a reference to the Loan Agreement as
+amended by or pursuant to this Amendment.
+
+
+                            ARTICLE III
+                            -----------
+
+                           MISCELLANEOUS
+
+          3.1  Ratification of Loan Agreement.  Except as
+specifically amended by this Amendment, the Loan Agreement and all
+other documents, instruments, and materials executed or delivered
+pursuant thereto, or to secure the same, shall remain in full force
+and effect.
+
+          3.2  Expenses and Attorneys' Fees.  The Borrower shall
+pay reasonable fees and expenses incurred by the Trustee in
+connection with the preparation, execution, and delivery of this
+Amendment.
+
+          3.3  Survival.  All agreements, representations, and
+warranties made in this Amendment or in any document delivered
+pursuant to this Amendment shall survive the execution of this
+Amendment and the delivery of any such document.
+
+          3.4  Governing Law.  This Amendment shall be governed by
+the laws of the State of Iowa.
+
+          3.5  Counterparts; Headings.  This Amendment may be
+executed in several counterparts, each of which shall be deemed an
+original, but such counterparts shall together constitute but one
+
+
+
+                           Page 65 of 91<PAGE>
+and the same agreement.  The Article and Section headings of this
+Amendment are inserted for convenience of reference only and shall 
+not constitute a part hereof.
+
+          3.6  Severability.  Any provision of this Amendment which
+is prohibited or unenforceable in any jurisdiction shall, as to
+such jurisdiction, be ineffective to the extent of such prohibition
+or unenforceability without invalidating the remaining provisions
+of this Amendment or affecting the validity or enforceability of
+such provision in any other jurisdiction.
+
+          IN WITNESS WHEREOF, the parties hereto have executed this
+First Amendment to Loan Agreement as of the day and year first
+above written.
+
+
+                              STOKELY USA, INC.
+
+
+                              By:
+                                  ---------------------------------
+                                  Stephen W. Theobald, Treasurer
+
+
+                              Attest:
+
+                              -------------------------------------
+                              Leslie J. Wilson, Vice President
+
+
+
+                              NORWEST BANK MINNESOTA, N.A.
+
+                              By: 
+                                  ---------------------------------
+                              Title: 
+                                     ------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Page 66 of 91<PAGE>
+EXHIBIT 10(ee)
+
+                 FIRST AMENDMENT TO LOAN AGREEMENT
+                 ---------------------------------
+
+          This First Amendment to Loan Agreement, dated as of
+March 31, 1994, is by and between Stokely USA, Inc. (the
+"Borrower") and Norwest Bank Minnesota, N.A. as trustee (the
+"Trustee").
+
+          WHEREAS, the Village of Poynette, Wisconsin (the
+"Issuer") has previously issued $6,000,000 Village of Poynette,
+Wisconsin Industrial Revenue Bonds (Stokely USA, Inc. Project)(the
+"Bonds") pursuant to an Indenture of Trust dated as of August 1,
+1988 (the Indenture"); and
+
+          WHEREAS, in connection with the issuance of the Bonds,
+the Borrower and the Issuer entered into a Loan Agreement dated as
+of August 1, 1988 (the "Loan Agreement") containing certain
+covenants of the Borrower; and
+
+          WHEREAS, pursuant to the Indenture, the Issuer assigned
+its rights under the Loan Agreement to the Trustee; and
+
+          WHEREAS, the Borrower has requested that the Loan
+Agreement be amended to change the financial covenant(s) therein;
+and
+
+          WHEREAS, Section 11.02 of the Indenture provides that the
+Loan Agreement may be amended with notice and the consent of owners
+of not less than a majority in aggregate principal amount of
+outstanding Bonds; and
+
+          WHEREAS, the Trustee has provided notice to the owners of
+the Bonds and owners of a majority in aggregate principal amount of
+the outstanding Bonds have consented to the amendment of the Loan
+Agreement to change the financial covenants(s) therein and have
+directed the Trustee to enter into, execute, and deliver an
+amendment to the Loan Agreement;
+
+          IN CONSIDERATION of the mutual covenants, conditions, and
+agreements set forth herein and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties agree as follows:
+
+                             ARTICLE I
+                             ---------
+
+                            DEFINITIONS
+
+          When used herein, the following terms shall have the
+meanings specified:
+
+          1.1  Amendment.  "Amendment" shall mean this First
+Amendment to Loan Agreement.
+
+                           Page 67 of 91<PAGE>
+          1.2  Other Terms.  The other capitalized terms used in
+this Amendment shall have the definitions specified in the
+Indenture.
+
+                            ARTICLE II
+                            ----------
+
+                            AMENDMENTS
+
+          2.1  Amendment of Loan Agreement.  The Loan Agreement is
+amended as follows:
+
+               (a)  Section 7.12 (i) is amended by deleting
+"$35,000,000" therein and replacing it with "$20,000,000"; and
+
+               (b)  Section 7.12 (ii) is amended by deleting "2 to
+1" therein and replacing it with "6.0 to 1."
+
+          2.2  Miscellaneous Amendments.  The Loan Agreement, the
+Indenture, and all other documents, instruments, and materials
+executed and delivered heretofore or hereafter pursuant thereto are
+deemed hereby to be amended so that any reference therein to the
+Loan Agreement shall be a reference to the Loan Agreement as
+amended by or pursuant to this Amendment.
+
+
+                            ARTICLE III
+                            -----------
+
+                           MISCELLANEOUS
+                           -------------
+
+          3.1  Ratification of Loan Agreement.  Except as
+specifically amended by this Amendment, the Loan Agreement and all
+other documents, instruments, and materials executed or delivered
+pursuant thereto, or to secure the same, shall remain in full force
+and effect.
+
+          3.2  Expenses and Attorneys' Fees.  The Borrower shall
+pay reasonable fees and expenses incurred by the Trustee in
+connection with the preparation, execution, and delivery of this
+Amendment.
+
+          3.3  Survival.  All agreements, representations, and
+warranties made in this Amendment or in any document delivered
+pursuant to this Amendment shall survive the execution of this
+Amendment and the delivery of any such document.
+
+          3.4  Governing Law.  This Amendment shall be governed by
+the laws of the State of Wisconsin.
+
+          3.5  Counterparts; Headings.  This Amendment may be
+executed in several counterparts, each of which shall be deemed an
+original, but such counterparts shall together constitute but one
+
+
+                           Page 68 of 91<PAGE>
+and the same agreement.  The Article and Section headings of this
+Amendment are inserted for convenience of reference only and shall
+not constitute a part hereof.
+
+          3.6  Severability.  Any provision of this Amendment which
+is prohibited or unenforceable in any jurisdiction shall, as to
+such jurisdiction, be ineffective to the extent of such prohibition
+or unenforceability without invalidating the remaining provisions
+of this Amendment or affecting the validity or enforceability of
+such provision in any other jurisdiction.
+
+          IN WITNESS WHEREOF, the parties hereto have executed this
+First Amendment to Loan Agreement as of the day and year first
+above written.
+
+                              STOKELY USA, INC.
+
+                              By:
+                                 ----------------------------------
+                                 Stephen W. Theobald, Treasurer
+
+                              Attest:
+
+                              -------------------------------------
+                              Leslie J. Wilson, Vice President
+
+
+                              NORWEST BANK MINNESOTA, N.A.
+
+                              By:
+                                 ----------------------------------
+                              Title:
+                                    -------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Page 69 of 91<PAGE>
+EXHIBIT 10(ff)
+
+                 FIRST AMENDMENT TO LOAN AGREEMENT
+                 ---------------------------------
+
+          This First Amendment to Loan Agreement, dated as of
+March 31, 1994, is by and between Stokely USA, Inc. (the
+"Borrower") and NationsBank of Virginia, N.A., as trustee (the
+"Trustee").
+
+          WHEREAS, the Village of Waunakee, Wisconsin (the
+"Issuer") has previously issued $4,000,000 Village of Waunakee,
+Wisconsin Industrial Revenue Bonds (Stokely USA, Inc. Project) (the
+"Bonds") pursuant to an Indenture of Trust dated as of June 1, 1989
+(the "Indenture"); and
+
+          WHEREAS, in connection with the issuance of the Bonds,
+the Borrower and the Issuer entered into a Loan Agreement dated as
+of June 1, 1989 (the "Loan Agreement") containing certain covenants
+of the Borrower; and
+
+          WHEREAS, pursuant to the Indenture, the Issuer assigned
+its rights under the Loan Agreement to the Trustee; and
+
+          WHEREAS, the Borrower has requested that the Loan
+Agreement be amended to change the financial covenant(s) therein;
+and
+
+          WHEREAS, Section 11.02 of the Indenture provides that the
+Loan Agreement may be amended with notice and the consent of owners
+of not less than a majority in aggregate principal amount of
+outstanding Bonds; and
+
+          WHEREAS, the Trustee has provided notice to the owners of
+the Bonds and owners of a majority in aggregate principal amount of
+the outstanding Bonds have consented to the amendment of the Loan
+Agreement to change the financial covenant(s) therein and have
+directed the Trustee to enter into, execute, and deliver an
+amendment to the Loan Agreement;
+
+          IN CONSIDERATION of the mutual covenants, conditions, and
+agreements set forth herein and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties agree as follows:
+
+                             ARTICLE I
+                             ---------
+
+                            DEFINITIONS
+
+          When used herein, the following terms shall have the
+meanings specified:
+
+          1.1  Amendment.  "Amendment" shall mean this First
+Amendment to Loan Agreement.
+
+                           Page 70 of 91<PAGE>
+          1.2  Other Terms.  The other capitalized terms used in
+this Amendment shall have the definitions specified in the
+Indenture.
+
+                            ARTICLE II
+                            ----------
+
+                            AMENDMENTS
+
+          2.1  Amendment of Loan Agreement.  The Loan Agreement is
+amended as follows:
+
+               (a)  Section 7.12 (i) is amended by deleting
+"$35,000,000" therein and replacing it with "$20,000,000"; and
+
+               (b)  Section 7.12 (ii) is amended by deleting "2 to
+1" therein and replacing it with "6.0 to 1."
+
+          2.2  Miscellaneous Amendments.  The Loan Agreement, the
+Indenture, and all other documents, instruments, and materials
+executed and delivered heretofore or hereafter pursuant thereto are
+deemed hereby to be amended so that any reference therein to the
+Loan Agreement shall be a reference to the Loan Agreement as
+amended by or pursuant to this Amendment.
+
+
+                            ARTICLE III
+                            -----------
+
+                           MISCELLANEOUS
+                           -------------
+
+          3.1  Ratification of Loan Agreement.  Except as
+specifically amended by this Amendment, the Loan Agreement and all
+other documents, instruments, and materials executed or delivered
+pursuant thereto, or to secure the same, shall remain in full force
+and effect.
+
+          3.2  Expenses and Attorneys' Fees.  The Borrower shall
+pay reasonable fees and expenses incurred by the Trustee in
+connection with the preparation, execution, and delivery of this
+Amendment.
+
+          3.3  Survival.  All agreements, representations, and
+warranties made in this Amendment or in any document delivered
+pursuant to this Amendment shall survive the execution of this
+Amendment and the delivery of any such document.
+
+          3.4  Governing Law.  This Amendment shall be governed by
+the laws of the State of Wisconsin.
+
+          3.5  Counterparts; Headings.  This Amendment may be
+executed in several counterparts, each of which shall be deemed an
+original, but such counterparts shall together constitute but one
+
+
+                           Page 71 of 91<PAGE>
+and the same agreement.  The Article and Section headings of this
+Amendment are inserted for convenience of reference only and shall
+not constitute a part hereof.
+
+          3.6  Severability.  Any provision of this Amendment which
+is prohibited or unenforceable in any jurisdiction shall, as to
+such jurisdiction, be ineffective to the extent of such prohibition
+or unenforceability without invalidating the remaining provisions
+of this Amendment or affecting the validity or enforceability of
+such provision in any other jurisdiction.
+
+          IN WITNESS WHEREOF, the parties hereto have executed this
+First Amendment to Loan Agreement on the day and year first above
+written.
+
+
+                              STOKELY USA, INC.
+
+                              By:
+                                 ----------------------------------
+                                 Stephen W. Theobald, Treasurer
+
+                              Attest:
+
+                              -------------------------------------
+                              Leslie J. Wilson, Vice President
+
+
+                              NATIONSBANK OF VIRGINIA, N.A.
+
+                              By:  
+                                 ----------------------------------
+                              Title:
+                                    -------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Page 72 of 91<PAGE>
+EXHIBIT 10(gg)
+     
+                 FIRST AMENDMENT TO LOAN AGREEMENT
+                 ---------------------------------
+
+          This First Amendment to Loan Agreement, dated as of
+March 31, 1994, is by and between Stokely, USA, Inc. (the
+"Borrower") and NationsBank of Virginia, N.A. as trustee (the
+"Trustee").
+
+          WHEREAS, the Village of Poynette, Wisconsin (the
+"Issuer") has previously issued $1,600,000 Village of Poynette,
+Wisconsin Refunding Revenue Bonds (Stokely USA, Inc. Project) (the
+"Bonds") pursuant to an Indenture of Trust dated as of December 1,
+1989 (the "Indenture"); and
+
+          WHEREAS, in connection with the issuance of the Bonds,
+the Borrower and the Issuer entered into a Loan Agreement dated as
+of December 1, 1989 (the "Loan Agreement") containing certain
+covenants of the Borrower; and
+
+          WHEREAS, pursuant to the Indenture, the Issuer assigned
+its rights under the Loan Agreement to the Trustee; and
+
+          WHEREAS, the Borrower has requested that the Loan
+Agreement be amended to change the financial covenant(s) therein;
+and
+
+          WHEREAS, Section 11.02 of the Indenture provides that the
+Loan Agreement may be amended with notice and the consent of owners
+of not less than a majority in aggregate principal amount of
+outstanding Bonds; and
+
+          WHEREAS, the Trustee has provided notice to the owners of
+the Bonds and owners of a majority in aggregate principal amount of
+the outstanding Bonds have consented to the amendment of the Loan
+Agreement to change the financial covenant(s) therein and have
+directed the Trustee to enter into, execute, and deliver an
+amendment to the Loan Agreement;
+
+          IN CONSIDERATION of the mutual covenants, conditions, and
+agreements set forth herein and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties agree as follows:
+
+                             ARTICLE I
+                             ---------
+DEFINITIONS
+
+          When used herein, the following terms shall have the
+meanings specified:
+
+          1.1 Amendment.  "Amendment" shall mean this First
+Amendment to Loan Agreement.
+
+                           Page 73 of 91<PAGE>
+          1.2  Other Terms.  The other capitalized terms used in
+this Amendment shall have the definitions specified in the
+Indenture.
+
+                            ARTICLE II
+                            ----------
+
+                            AMENDMENTS
+
+          2.1  Amendment of Loan Agreement.  The Loan Agreement is
+amended as follows:
+
+               (a)  Section 7.12 (i) is amended by deleting
+"$35,000,000" therein and replacing it with "$20,000,000"; and
+
+               (b)  Section 7.12 (ii) is amended by deleting "2 to
+1" therein and replacing it with "6.0 to 1."
+
+          2.2  Miscellaneous Amendments.  The Loan Agreement, the
+Indenture, and all other documents, instruments, and materials
+executed and delivered heretofore or hereafter pursuant thereto are
+deemed hereby to be amended so that any reference therein to the
+Loan Agreement shall be a reference to the Loan Agreement as
+amended by or pursuant to this Amendment.
+
+
+                            ARTICLE III
+                            -----------
+
+                           MISCELLANEOUS
+                           -------------
+
+          3.1  Ratification of Loan Agreement.  Except as
+specifically amended by this Amendment, the Loan Agreement and all
+other documents, instruments, and materials executed or delivered
+pursuant thereto, or to secure the same, shall remain in full force 
+and effect.
+
+          3.2  Expenses and Attorneys' Fees.  The Borrower shall
+pay reasonable fees and expenses incurred by the Trustee in
+connection with the preparation, execution, and delivery of this
+Amendment.
+
+          3.3  Survival.  All agreements, representations, and
+warranties made in this Amendment or in any document delivered
+pursuant to this Amendment shall survive the execution of this
+Amendment and the delivery of any such document.
+
+          3.4  Governing Law.  This Amendment shall be governed by
+the laws of the State of Wisconsin.
+
+          3.5  Counterparts;  Headings.  This Amendment may be
+executed in several counterparts, each of which shall be deemed an
+original, but such counterparts shall together constitute but one
+
+
+                           Page 74 of 91<PAGE>
+and the same agreement.  The Article and Section headings of this
+Amendment are inserted for convenience of reference only and shall
+not constitute a part hereof.
+
+          3.6  Severability.  Any provision of this Amendment which
+is prohibited or unenforceable in any jurisdiction shall, as to
+such jurisdiction, be ineffective to the extent of such prohibition
+or unenforceability without invalidating the remaining provisions
+of this Amendment or affecting the validity or enforceability of
+such provision in any other jurisdiction.
+
+          IN WITNESS WHEREOF, the parties hereto have executed this
+First Amendment to Loan Agreement on the day and year first above
+written.
+
+                              STOKELY USA, INC.
+
+                              By:
+                                 ----------------------------------
+                                 Stephen W. Theobald, Treasurer
+
+                              Attest:
+
+                              -------------------------------------
+                              Leslie J. Wilson, Vice President
+
+
+                              NATIONSBANK OF VIRGINIA, N.A.
+
+                              By:
+                                 ----------------------------------
+                              Title:
+                                    -------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Page 75 of 91<PAGE>
+EXHIBIT 10(hh)
+                                 
+                 FIRST AMENDMENT TO LOAN AGREEMENT
+                 ---------------------------------
+
+          This First Amendment to Loan Agreement, dated as of
+June 17, 1994, is by and between Stokely USA, Inc. (the "Borrower")
+and NationsBank of Virginia, N.A., as trustee (the "Trustee").
+
+          WHEREAS, the Town of Utica, Wisconsin (the "Issuer") has
+previously issued $3,000,000 Town of Utica, Wisconsin Industrial
+Revenue Bonds (Stokely USA, Inc. Project) (the "Bonds") pursuant to
+an Indenture of Trust dated as of June 1, 1990 (the "Indenture");
+and
+
+          WHEREAS, in connection with the issuance of the Bonds,
+the Borrower and the Issuer entered into a Loan Agreement dated as
+of June 1, 1990 (the "Loan Agreement") containing certain covenants
+of the Borrower; and
+
+          WHEREAS, pursuant to the Indenture, the Issuer assigned
+its rights under the Loan Agreement to the Trustee; and
+
+          WHEREAS, the Borrower has requested that the Loan
+Agreement be amended to change the financial covenants therein; and
+
+          WHEREAS, Section 11.02 of the Indenture provides that the
+Loan Agreement may be amended with notice and the consent of owners
+of not less than a majority in aggregate principal amount of
+outstanding Bonds; and
+
+          WHEREAS, the Trustee has provided notice to the owners of
+the Bonds and owners of a majority in aggregate principal amount of
+the outstanding Bonds have consented to the amendment of the Loan
+Agreement to change the financial covenants therein and have
+directed the Trustee to enter into, execute, and deliver an
+amendment to the Loan Agreement;
+
+          IN CONSIDERATION of the mutual covenants, conditions, and
+agreements set forth herein and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties agree as follows:
+
+
+                             ARTICLE I
+                             ---------
+
+                            DEFINITIONS
+
+          When used herein, the following terms shall have the
+meanings specified:
+
+          1.1  Amendment.  "Amendment" shall mean this First
+Amendment to Loan Agreement.
+
+
+                           Page 76 of 91<PAGE>
+          1.2  Other Terms.  The other capitalized terms used in
+this Amendment shall have the definitions specified in the
+Indenture.
+
+                            ARTICLE II
+                            ----------
+
+                            AMENDMENTS
+
+          2.1  Amendment of Loan Agreement.  The Loan Agreement is
+amended as follows:
+
+               (a)  Section 7.12 (i) is amended by deleting
+"$35,000,000" therein and replacing it with "$20,000,000"; and
+
+               (b)  Section 7.12 (ii) is amended by deleting "2 to
+1" therein and replacing it with "6.0 to 1."
+
+          2.2  Miscellaneous Amendments.  The Loan Agreement, the
+Indenture, and all other documents, instruments, and materials
+executed and delivered heretofore or hereafter pursuant thereto are
+deemed hereby to be amended so that any reference therein to the
+Loan Agreement shall be a reference to the Loan Agreement as
+amended by or pursuant to this Amendment.
+
+
+                            ARTICLE III
+                            -----------
+
+                           MISCELLANEOUS
+                           -------------
+
+          3.1  Ratification of Loan Agreement.  Except as
+specifically amended by this Amendment, the Loan Agreement and all
+other documents, instruments, and materials executed or delivered
+pursuant thereto, or to secure the same, shall remain in full force 
+and effect.
+
+          3.2  Expenses and Attorneys' Fees.  The Borrower shall
+pay reasonable fees and expenses incurred by the Trustee in
+connection with the preparation, execution, and delivery of this
+Amendment.
+
+          3.3  Survival.  All agreements, representations, and
+warranties made in this Amendment or in any document delivered
+pursuant to this Amendment shall survive the execution of this
+Amendment and the delivery of any such document.
+
+          3.4  Governing Law.  This Amendment shall be governed by
+the laws of the State of Wisconsin.
+
+          3.5  Counterparts;  Headings.  This Amendment may be
+executed in several counterparts, each of which shall be deemed an
+original, but such counterparts shall together constitute but one
+
+
+                           Page 77 of 91<PAGE>
+and the same agreement.  The Article and Section headings of this
+Amendment are inserted for convenience of reference only and shall
+not constitute a part hereof.
+
+          3.6  Severability.  Any provision of this Amendment which
+is prohibited or unenforceable in any jurisdiction shall, as to
+such jurisdiction, be ineffective to the extent of such prohibition
+or unenforceability without invalidating the remaining provisions
+of this Amendment or affecting the validity or enforceability of
+such provision in any other jurisdiction.
+
+          IN WITNESS WHEREOF, the parties hereto have executed this
+First Amendment to Loan Agreement on the day and year first above
+written.
+
+                              STOKELY USA, INC.
+
+                              By:
+                                 ----------------------------------
+                                 Stephen W. Theobald, 
+                                 Treasurer
+                              
+                              Attest:
+
+                              -------------------------------------
+                              Leslie J. Wilson, 
+                              Vice President 
+
+
+                              NATIONSBANK OF VIRGINIA, N.A.
+
+                              By:
+                                 ----------------------------------
+                                 Diana L. Schnetzka,
+                                 Trust Officer
+                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Page 78 of 91<PAGE>
+EXHIBIT 10(ii)
+
+                 FIRST AMENDMENT TO LOAN AGREEMENT
+                 ---------------------------------
+
+          This First Amendment to Loan Agreement, dated as of
+June 17, 1994, is by and between Stokely USA, Inc. (the "Borrower")
+and NationsBank of Virginia, N.A., as trustee (the "Trustee").
+
+          WHEREAS, the City of Green Bay, Wisconsin (the "Issuer")
+has previously issued $3,000,000 City of Green Bay, Wisconsin
+Industrial Revenue Bonds (Stokely USA, Inc. Project) (the "Bonds")
+pursuant to an Indenture of Trust dated as of December 1, 1988 (the
+"Indenture"); and
+
+          WHEREAS, in connection with the issuance of the Bonds,
+the Borrower and the Issuer entered into a Loan Agreement dated as
+of December 1, 1988 (the "Loan Agreement") containing certain
+covenants of the Borrower; and
+
+          WHEREAS, pursuant to the Indenture, the Issuer assigned
+its rights under the Loan Agreement to the Trustee; and
+
+          WHEREAS, the Borrower has requested that the Loan
+Agreement be amended to change the financial covenants therein; and
+
+          WHEREAS, Section 11.02 of the Indenture provides that the
+Loan Agreement may be amended with notice and the consent of owners
+of not less than a majority in aggregate principal amount of
+outstanding Bonds; and
+
+          WHEREAS, the Trustee has provided notice to the owners of
+the Bonds and owners of a majority in aggregate principal amount of
+the outstanding Bonds have consented to the amendment of the Loan
+Agreement to change the financial covenants therein and have
+directed the Trustee to enter into, execute, and deliver an
+amendment to the Loan Agreement;
+
+          IN CONSIDERATION of the mutual covenants, conditions, and
+agreements set forth herein and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties agree as follows:
+
+
+                             ARTICLE I
+                             ---------
+
+                            DEFINITIONS
+
+          When used herein, the following terms shall have the
+meanings specified:
+
+          1.1  Amendment.  "Amendment" shall mean this First
+Amendment to Loan Agreement.
+
+
+                           Page 79 of 91<PAGE>
+          1.2  Other Terms.  The other capitalized terms used in
+this Amendment shall have the definitions specified in the
+Indenture.
+
+                            ARTICLE II
+                            ----------
+
+                            AMENDMENTS
+
+          2.1  Amendment of Loan Agreement.  The Loan Agreement is
+amended as follows:
+
+               (a)  Section 7.12 (i) is amended by deleting
+"$35,000,000" therein and replacing it with "$20,000,000"; and
+
+               (b)  Section 7.12 (ii) is amended by deleting "2 to
+1" therein and replacing it with "6.0 to 1."
+
+          2.2  Miscellaneous Amendments.  The Loan Agreement, the
+Indenture, and all other documents, instruments, and materials
+executed and delivered heretofore or hereafter pursuant thereto are
+deemed hereby to be amended so that any reference therein to the
+Loan Agreement shall be a reference to the Loan Agreement as
+amended by or pursuant to this Amendment.
+
+
+                            ARTICLE III
+                            -----------
+
+                           MISCELLANEOUS
+                           -------------
+
+          3.1  Ratification of Loan Agreement.  Except as
+specifically amended by this Amendment, the Loan Agreement and all
+other documents, instruments, and materials executed or delivered
+pursuant thereto, or to secure the same, shall remain in full force 
+and effect.
+
+          3.2  Expenses and Attorneys' Fees.  The Borrower shall
+pay reasonable fees and expenses incurred by the Trustee in
+connection with the preparation, execution, and delivery of this
+Amendment.
+
+          3.3  Survival.  All agreements, representations, and
+warranties made in this Amendment or in any document delivered
+pursuant to this Amendment shall survive the execution of this
+Amendment and the delivery of any such document.
+
+          3.4  Governing Law.  This Amendment shall be governed by
+the laws of the State of Wisconsin.
+
+          3.5  Counterparts;  Headings.  This Amendment may be
+executed in several counterparts, each of which shall be deemed an
+original, but such counterparts shall together constitute but one
+
+                           Page 80 of 91<PAGE>
+and the same agreement.  The Article and Section headings of this
+Amendment are inserted for convenience of reference only and shall
+not constitute a part hereof.
+
+          3.6  Severability.  Any provision of this Amendment which
+is prohibited or unenforceable in any jurisdiction shall, as to
+such jurisdiction, be ineffective to the extent of such prohibition
+or unenforceability without invalidating the remaining provisions
+of this Amendment or affecting the validity or enforceability of
+such provision in any other jurisdiction.
+
+          IN WITNESS WHEREOF, the parties hereto have executed this
+First Amendment to Loan Agreement on the day and year first above
+written.
+
+                              STOKELY USA, INC.
+
+                              By:
+                                 ----------------------------------
+                                 Stephen W. Theobald, 
+                                 Treasurer
+                              
+                              Attest:
+
+                              -------------------------------------
+                              Leslie J. Wilson, 
+                              Vice President 
+
+
+                              NATIONSBANK OF VIRGINIA, N.A.
+
+                              By:
+                                 ----------------------------------
+                                 Diana L. Schnetzka,
+                                 Trust Officer
+                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Page 81 of 91<PAGE>
+EXHIBIT 10(jj)
+
+
+                 FIRST AMENDMENT TO LOAN AGREEMENT
+                 ---------------------------------
+
+          This First Amendment to Loan Agreement, dated as of
+June 17, 1994, is by and between Stokely USA, Inc. (the "Borrower")
+and NationsBank of Virginia, N.A., as trustee (the "Trustee").
+
+          WHEREAS, the Port of Walla Walla Public Corporation (the
+"Issuer") has previously issued $4,000,000 Port of Walla Walla
+Public Corporation Industrial Revenue Bonds, Series 1990 (Stokely
+USA, Inc. Project) (the "Bonds") pursuant to an Indenture of Trust
+dated as of September 1, 1990 (the "Indenture"); and
+
+          WHEREAS, in connection with the issuance of the Bonds,
+the Borrower and the Issuer entered into a Loan Agreement dated as
+of September 1, 1990 (the "Loan Agreement") containing certain
+covenants of the Borrower; and
+
+          WHEREAS, pursuant to the Indenture, the Issuer assigned
+its rights under the Loan Agreement to the Trustee; and
+
+          WHEREAS, the Borrower has requested that the Loan
+Agreement be amended to change the financial covenants therein; and
+
+          WHEREAS, Section 11.02 of the Indenture provides that the
+Loan Agreement may be amended with notice and the consent of owners
+of not less than a majority in aggregate principal amount of
+outstanding Bonds; and
+
+          WHEREAS, the Trustee has provided notice to the owners of
+the Bonds and owners of a majority in aggregate principal amount of
+the outstanding Bonds have consented to the amendment of the Loan
+Agreement to change the financial covenants therein and have
+directed the Trustee to enter into, execute, and deliver an
+amendment to the Loan Agreement;
+
+          IN CONSIDERATION of the mutual covenants, conditions, and
+agreements set forth herein and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties agree as follows:
+
+
+                             ARTICLE I
+                             ---------
+
+                            DEFINITIONS
+
+          When used herein, the following terms shall have the
+meanings specified:
+
+          1.1  Amendment.  "Amendment" shall mean this First
+Amendment to Loan Agreement.
+
+                           Page 82 of 91<PAGE>
+
+          1.2  Other Terms.  The other capitalized terms used in
+this Amendment shall have the definitions specified in the
+Indenture.
+
+                            ARTICLE II
+                            ----------
+
+                            AMENDMENTS
+
+          2.1  Amendment of Loan Agreement.  The Loan Agreement is
+amended as follows:
+
+               (a)  Section 7.12 (i) is amended by deleting
+"$35,000,000" therein and replacing it with "$20,000,000"; and
+
+               (b)  Section 7.12 (ii) is amended by deleting "2 to
+1" therein and replacing it with "6.0 to 1."
+
+          2.2  Miscellaneous Amendments.  The Loan Agreement, the
+Indenture, and all other documents, instruments, and materials
+executed and delivered heretofore or hereafter pursuant thereto are
+deemed hereby to be amended so that any reference therein to the
+Loan Agreement shall be a reference to the Loan Agreement as
+amended by or pursuant to this Amendment.
+
+
+                            ARTICLE III
+                            -----------
+
+                           MISCELLANEOUS
+                           -------------
+
+          3.1  Ratification of Loan Agreement.  Except as
+specifically amended by this Amendment, the Loan Agreement and all
+other documents, instruments, and materials executed or delivered
+pursuant thereto, or to secure the same, shall remain in full force 
+and effect.
+
+          3.2  Expenses and Attorneys' Fees.  The Borrower shall
+pay reasonable fees and expenses incurred by the Trustee in
+connection with the preparation, execution, and delivery of this
+Amendment.
+
+          3.3  Survival.  All agreements, representations, and
+warranties made in this Amendment or in any document delivered
+pursuant to this Amendment shall survive the execution of this
+Amendment and the delivery of any such document.
+
+          3.4  Governing Law.  This Amendment shall be governed by
+the laws of the State of Washington.
+
+          3.5  Counterparts;  Headings.  This Amendment may be
+executed in several counterparts, each of which shall be deemed an
+original, but such counterparts shall together constitute but one
+
+                           Page 83 of 91<PAGE>
+and the same agreement.  The Article and Section headings of this
+Amendment are inserted for convenience of reference only and shall
+not constitute a part hereof.
+
+          3.6  Severability.  Any provision of this Amendment which
+is prohibited or unenforceable in any jurisdiction shall, as to
+such jurisdiction, be ineffective to the extent of such prohibition
+or unenforceability without invalidating the remaining provisions
+of this Amendment or affecting the validity or enforceability of
+such provision in any other jurisdiction.
+
+          IN WITNESS WHEREOF, the parties hereto have executed this
+First Amendment to Loan Agreement on the day and year first above
+written.
+
+                              STOKELY USA, INC.
+
+                              By:
+                                 ----------------------------------
+                                 Stephen W. Theobald, 
+                                 Treasurer
+                              
+                              Attest:
+
+                              -------------------------------------
+                              Leslie J. Wilson, 
+                              Vice President 
+
+
+                              NATIONSBANK OF VIRGINIA, N.A.
+
+                              By:
+                                 ----------------------------------
+                                 Diana L. Schnetzka,
+                                 Trust Officer
+                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Page 84 of 91<PAGE>
+EXHIBIT 10(kk)                                                    
+
+                 FIRST AMENDMENT TO LOAN AGREEMENT
+                 ---------------------------------
+
+          This First Amendment to Loan Agreement, dated as of
+June 17, 1994, is by and between Stokely USA, Inc. (the "Borrower")
+and NationsBank of Virginia, N.A., as trustee (the "Trustee").
+
+          WHEREAS, the City of Jefferson, Wisconsin (the "Issuer")
+has previously issued $6,500,000 City of Jefferson, Wisconsin
+Industrial Development Revenue Bonds, (Stokely USA, Inc. Project)
+(the "Bonds") pursuant to an Indenture of Trust dated as of
+December 15, 1985 (the "Indenture"); and
+
+          WHEREAS, in connection with the issuance of the Bonds,
+the Borrower and the Issuer entered into a Loan Agreement dated as
+of December 15, 1985 (the "Loan Agreement") containing certain
+covenants of the Borrower; and
+
+          WHEREAS, pursuant to the Indenture, the Issuer assigned
+its rights under the Loan Agreement to the Trustee; and
+
+          WHEREAS, the Borrower has requested that the Loan
+Agreement be amended to change the financial covenants therein; and
+
+          WHEREAS, Section 13.02 of the Indenture provides that the
+Loan Agreement may be amended with notice and the consent of owners
+of not less than a majority in aggregate principal amount of
+outstanding Bonds; and
+
+          WHEREAS, the Trustee has provided notice to the owners of
+the Bonds and owners of a majority in aggregate principal amount of
+the outstanding Bonds have consented to the amendment of the Loan
+Agreement to change the financial covenant therein and have
+directed the Trustee to enter into, execute, and deliver an
+amendment to the Loan Agreement;
+
+          IN CONSIDERATION of the mutual covenants, conditions, and
+agreements set forth herein and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby
+acknowledged, the parties agree as follows:
+
+
+                             ARTICLE I
+                             ---------
+
+                            DEFINITIONS
+
+          When used herein, the following terms shall have the
+meanings specified:
+
+          1.1  Amendment.  "Amendment" shall mean this First
+Amendment to Loan Agreement.
+
+
+                           Page 85 of 91<PAGE>
+
+          1.2  Other Terms.  The other capitalized terms used in
+this Amendment shall have the definitions specified in the
+Indenture.
+
+                            ARTICLE II
+                            ----------
+
+                            AMENDMENTS
+
+          2.1  Amendment of Loan Agreement.  The Loan Agreement is
+amended as follows:
+
+               (a)  Section 7.12 (i) is amended by deleting
+"$35,000,000" therein and replacing it with "$20,000,000"; and
+
+               (b)  Section 7.12 (ii) is amended by deleting "2 to
+1" therein and replacing it with "6.0 to 1."
+
+          2.2  Miscellaneous Amendments.  The Loan Agreement, the
+Indenture, and all other documents, instruments, and materials
+executed and delivered heretofore or hereafter pursuant thereto are
+deemed hereby to be amended so that any reference therein to the
+Loan Agreement shall be a reference to the Loan Agreement as
+amended by or pursuant to this Amendment.
+
+
+                            ARTICLE III
+                            -----------
+
+                           MISCELLANEOUS
+                           -------------
+
+          3.1  Ratification of Loan Agreement.  Except as
+specifically amended by this Amendment, the Loan Agreement and all
+other documents, instruments, and materials executed or delivered
+pursuant thereto, or to secure the same, shall remain in full force 
+and effect.
+
+          3.2  Expenses and Attorneys' Fees.  The Borrower shall
+pay reasonable fees and expenses incurred by the Trustee in
+connection with the preparation, execution, and delivery of this
+Amendment.
+
+          3.3  Survival.  All agreements, representations, and
+warranties made in this Amendment or in any document delivered
+pursuant to this Amendment shall survive the execution of this
+Amendment and the delivery of any such document.
+
+          3.4  Governing Law.  This Amendment shall be governed by
+the laws of the State of Wisconsin.
+
+          3.5  Counterparts;  Headings.  This Amendment may be
+executed in several counterparts, each of which shall be deemed an
+original, but such counterparts shall together constitute but one
+
+                           Page 86 of 91<PAGE>
+and the same agreement.  The Article and Section headings of this
+Amendment are inserted for convenience of reference only and shall
+not constitute a part hereof.
+
+          3.6  Severability.  Any provision of this Amendment which
+is prohibited or unenforceable in any jurisdiction shall, as to
+such jurisdiction, be ineffective to the extent of such prohibition
+or unenforceability without invalidating the remaining provisions
+of this Amendment or affecting the validity or enforceability of
+such provision in any other jurisdiction.
+
+          IN WITNESS WHEREOF, the parties hereto have executed this
+First Amendment to Loan Agreement on the day and year first above
+written.
+
+                              STOKELY USA, INC.
+
+                              By:
+                                 ----------------------------------
+                                 Stephen W. Theobald, 
+                                 Treasurer
+                              
+                              Attest:
+
+                              -------------------------------------
+                              Leslie J. Wilson, 
+                              Vice President 
+
+
+                              NATIONSBANK OF VIRGINIA, N.A.
+
+                              By:
+                                 ----------------------------------
+                                 Diana L. Schnetzka,
+                                 Trust Officer
+                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Page 87 of 91<PAGE>
+EXHIBIT 18
+
+
+
+Deloitte & Touche
+411 East Wisconsin Avenue
+Milwaukee, WI  53202-4496
+
+
+
+
+
+June 27, 1994
+
+Stokely USA, Inc.
+1055 Corporate Center Drive
+Oconomowoc, WI  53066
+
+Dear Sirs:
+
+We have audited the consolidated financial statements of Stokely
+USA, Inc. as of March 31, 1994 and 1993, and for each of the three
+years in the period ended March 31, 1994, included in your Annual
+Report on Form 10-K to the Securities and Exchange Commission and
+have issued our report thereon dated June 17, 1994, Note C to such
+financial statements contains a description of the adoption during
+the year ended March 31, 1994 of the change in the method of
+valuing inventories from the last-in, first-out method to the
+average cost method.  In our judgment, such change is to an
+alternative accounting principle that is preferable under the
+circumstances.
+
+Yours truly,
+
+
+
+
+Deloitte & Touche
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           Page 88 of 91<PAGE>
+EXHIBIT 22
+
+
+                    SUBSIDIARIES OF STOKELY USA, INC.
+
+
+
+OCONOMOWOC CANNING COMPANY, INC., incorporated in Wisconsin January 16, 
+1985.
+
+     President                     Vernon L. Wiersma
+     Vice President                John R. McCormick
+     Secretary                     Robert M. Brill
+     Treasurer                     Stephen W. Theobald
+     Directors                     Vernon L. Wiersma
+                                   Frank J. Pelisek
+                                   Stephen W. Theobald
+
+
+OCONO INTERNATIONAL, LTD., incorporated in U.S. Virgin Islands, 
+December 31, 1984.
+
+     President                     Vernon L. Wiersma
+     Secretary                     Robert M. Brill
+     Treasurer                     Stephen W. Theobald
+     Directors                     Vernon L. Wiersma
+                                   Stephen W. Theobald
+                                   Stuart Sonne
+
+
+ANC EXPRESS, INC., incorporated in Iowa, July 1, 1967.
+
+     President                     Vernon L. Wiersma
+     Secretary                     Robert M. Brill
+     Directors                     Vernon L. Wiersma
+                                   Stephen W. Theobald
+
+
+D & K FROZEN FOODS, INC., incorporated in Washington, August 22, 1977.
+
+     President                     Vernon L. Wiersma
+     Vice President                James Beal
+     Treasurer                     Stephen W. Theobald
+     Secretary                     Robert M. Brill
+     Directors                     Vernon L. Wiersma
+                                   Stephen W. Theobald
+                                   
+
+
+
+
+
+
+
+
+
+                              Page 89 of 91<PAGE>
+                         
+
+                    SUBSIDIARIES OF STOKELY USA, INC.
+
+
+
+STOKELY MEXICANA S.A. DE C.V. (formerly ITI Proyectos S.A. de C.V.),
+incorporated in Mexico.
+
+
+     President                     Vernon L. Wiersma
+     Directors                     Vernon L. Wiersma
+                                   Stephen W. Theobald
+                                   Robert M. Brill
+     Secretary                     Robert M. Brill
+
+
+
+STOKELY U.K. LIMITED, incorporated in England on May 17, 1991.
+
+
+     President                     Vernon L. Wiersma
+     Vice President                Stephen W. Theobald
+     Treasurer                     Stephen W. Theobald
+     Secretary                     Leslie J. Wilson
+     Directors                     Vernon L. Wiersma   
+                                   Stephen W. Theobald
+                                   Kenneth C. Murray
+                                   Leslie J. Wilson
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              Page 90 of 91<PAGE>
+EXHIBIT 23
+
+
+
+
+
+
+                      INDEPENDENT AUDITORS' CONSENT
+                      -----------------------------
+
+
+We consent to the incorporation by reference in Registration Statement
+No. 33-18801 of Stokely USA, Inc. and subsidiaries, on Form S-8 of our
+report dated June 17, 1994 appearing in the Annual Report on Form 10-K
+of Stokely USA, Inc. and subsidiaries for the year ended March 31, 1994.
+
+
+
+
+
+
+
+
+
+DELOITTE & TOUCHE
+
+Milwaukee, Wisconsin
+June 27, 1994
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              Page 91 of 91
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

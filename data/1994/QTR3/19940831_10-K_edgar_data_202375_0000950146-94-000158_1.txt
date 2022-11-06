@@ -1,0 +1,3423 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ CpmnDIA6+TMVPY18zkH6rH52fzUat4YQGqPhlYADNpQEehy67q6RdxAA7BKu0c29
+ dplqxl1vQmThveIuRB/lEQ==
+
+<IMS-DOCUMENT>0000950146-94-000158.txt : 19940912
+<IMS-HEADER>0000950146-94-000158.hdr.sgml : 19940912
+ACCESSION NUMBER:		0000950146-94-000158
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19940531
+FILED AS OF DATE:		19940831
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LAZARE KAPLAN INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000202375
+		STANDARD INDUSTRIAL CLASSIFICATION:	3910
+		IRS NUMBER:				132728690
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07848
+		FILM NUMBER:		94547494
+
+	BUSINESS ADDRESS:	
+		STREET 1:		529 FIFTH AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2129729700
+
+	MAIL ADDRESS:	
+		STREET 2:		529 FIFTH AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>LAZARE KAPLAN
+<TEXT>
+
+
+<PAGE>
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+                          ___________________________
+                                   FORM 10-K
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934 [FEE REQUIRED]
+    For the fiscal year ended   May 31, 1994
+                             OR
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+    For the transition period from ______ to _______
+
+                         Commission file number 1-7848
+
+                       LAZARE KAPLAN INTERNATIONAL INC.
+            (Exact name of registrant as specified in its charter)
+
+                        Delaware                 13-2728690
+            (State or other jurisdiction of    (IRS Employer
+             incorporation or organization)  Identification No.)
+
+            529 Fifth Avenue, New York, NY           10017
+       (Address of principal executive offices)    (Zip Code)
+
+Registrant's telephone number, including area code (212) 972-9700
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+   Title of each class              Name of each exchange on which registered
+   -------------------              -----------------------------------------
+Common Stock ($1 par value)                 American Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes   X    No
+                                               ------    ------
+
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to
+the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K.  [X]
+
+    As of July 29, 1994, 6,131,106 shares of the registrant's common stock were
+outstanding, and the aggregate market value of common stock held by
+nonaffiliates of the registrant, computed by reference to the closing price for
+the registrant's stock on the American Stock Exchange at that date was
+$18,546,947.
+
+                     DOCUMENTS INCORPORATED BY REFERENCE
+
+    1994 definitive proxy statement to be filed with the Commission-
+incorporated by reference into Part III.
+
+    1994 Annual Report to Stockholders for the fiscal year ended May 31, 1994
+to be filed with the Commission-incorporated by reference into Parts II and IV.
+
+<PAGE>
+<PAGE>
+
+Item 1. The Company
+
+        Lazare Kaplan International Inc., which began its business in 1903, is
+principally engaged in the cutting, polishing and selling of ideally
+proportioned diamonds which it markets internationally under the brand name
+"Lazare Diamonds(R)".  Ideally proportioned diamonds are distinguished from
+commercial cut diamonds by the symmetrical relationship of their facets,  which
+maximizes brilliance, sparkle and fire.  Due to these characteristics, Lazare
+Diamonds command a premium in the marketplace.  The Company believes there are
+only a few other companies worldwide engaged solely in the production of
+ideally proportioned diamonds and that it is the largest producer in this
+segment of the diamond industry.  Additionally, the Company is engaged in the
+buying and selling of rough uncut diamonds.
+
+        The Company's sales strategy is directed primarily toward quality
+conscious consumers throughout the United States, the Pacific Rim and Europe.
+The Company generally sells to select retail jewelers in each geographic market
+in order to maintain an image of selectivity and prestige consistent with its
+overall marketing strategy.  The Company has developed a comprehensive grading
+system for its ideal cut diamonds which allows jewelers to order inventory by
+category rather than through the more cumbersome process of visual selection.
+In addition, the Company designs, manufactures and sells a line of high quality
+jewelry which features Lazare Diamonds.
+
+        An important element of the Company's strategy is the promotion of the
+Lazare Diamonds brand name.  Every Lazare Diamond bears a laser inscription on
+its outer perimeter containing the Lazare Kaplan logo and an identification
+number unique to the stone.  This patented laser "signature", which is
+invisible to the naked eye but visible when magnified at least ten times,
+serves as the purchaser's assurance that he is buying an authentic Lazare
+Diamond.  This laser signature also allows consumers to register their Lazare
+Diamonds with the Company under its unique program, The Lazare Diamond
+Registry(R), thereby providing proof of ownership in case of loss or theft.
+
+        The Company has been expanding its activities abroad, particularly in
+the Pacific Rim countries of Japan, Hong Kong, Singapore, Taiwan, Thailand,
+Korea, Malaysia, Indonesia and Brunei.  The Company believes there is
+significant growth potential in the European market for Lazare Diamonds, and
+has continued to review this area for expansion.
+
+        Each rough diamond purchased by the Company and considered for sale as
+a polished diamond is evaluated against strict management standards designed to
+maximize its potential economic contribution to the Company's profitability.
+Expert technicians, assisted by proprietary computer software, determine
+whether to cut the stone to ideal proportions, cut the stone as a commercial
+diamond for sale through alternative distribution channels, or resell the stone
+as rough.  The shape of the rough stone, its color, clarity and overall
+potential economic contribution, are among the criteria used in making such
+determinations.
+
+
+                                       2
+
+<PAGE>
+<PAGE>
+
+
+        The Company's involvement in the purchase and sale of rough diamonds,
+through its Antwerp, Belgium office, provides it with the ability to dispose of
+those diamonds not selected for cutting and polishing, as well as access to
+supplemental sources of supply.  This activity allows the Company to maintain
+quantities and qualities of inventory which best meet its customers' needs.
+
+        The Company's principal stockholder is Maurice Tempelsman, the Chairman
+of the Board. Mr. Tempelsman and his son, Leon Tempelsman, are the sole general
+partners of Leon Tempelsman & Son ("LTS"), a New York limited partnership.  LTS
+is the holder of 1,528,416 shares of common stock, all of which are deemed to
+be owned indirectly by each of Leon Tempelsman and Maurice Tempelsman. In
+addition, Maurice Tempelsman is the direct beneficial holder of 2,456,714
+shares of common stock.  The aggregate number of common shares held by Maurice
+Tempelsman, directly and indirectly, is 3,985,130, constituting 65.0% of the
+Company's issued and outstanding common stock.
+
+        Lazare Kaplan International Inc. was incorporated in 1972 under the
+laws of the State of Delaware as the successor to a business which originated
+in 1903.
+
+Diamond Supply
+
+        Rough Diamonds
+
+        The Company's business is dependent upon the availability of rough
+diamonds, the world's known sources of which are highly concentrated.  Angola,
+Australia, Botswana, Brazil, Ghana, Guinea, Namibia, Sierra Leone, South
+Africa, Russia and Zaire account for more than 90% of present world rough gem
+diamond production.  The Central Selling Organization (the "CSO"), which is
+affiliated with De Beers Centenary AG, a Swiss company,  is the primary world-
+wide marketing mechanism of the diamond industry.  The CSO seeks to maintain an
+orderly and stable market for diamonds by regulating the quantity and selection
+of diamonds that reach the market.  Sales for the CSO are made in London by the
+Diamond Trading Company (the "DTC") to a select group of clients, including the
+Company.  Based upon published reports, the Company believes that approximately
+80% of the world diamond output is purchased for resale by the DTC and its
+affiliated companies. In order to maintain their purchasing relationship, the
+DTC's clients have traditionally been expected to purchase all of the diamonds
+offered to them by the DTC.  Non-clients of the DTC must either purchase their
+requirements from clients of the DTC or seek access to that limited portion of
+the world supply not marketed by the DTC.
+
+        Historically, the Company's principal supplier of rough diamonds has
+been the DTC, which periodically invites its clients to submit their
+requirements as to the amount and type of stones  they wish to purchase.
+Employees of the Company attend offerings ("sights") held by the DTC
+periodically during the year in London.  At sights, the Company purchases, at
+the DTC's stated price, an assortment of stones known as a "series", the
+composition of which attempts to take into account the market in which the
+Company operates and the Company's quantity requirements.  The Company has been
+a client of the DTC for more than 50 years.
+
+
+                                       3
+
+
+<PAGE>
+<PAGE>
+
+
+
+        In order to diversify its sources of supply, the Company has entered
+into arrangements with other primary source suppliers, as well as established
+an office in Antwerp to supplement its rough diamond needs by making purchases
+in the secondary market.  For each of the past three years ended May 31, the
+Company purchased more than 50% of its diamond purchases from the DTC.
+
+        In November 1993, the Company reached an agreement with the Ghanaian
+Government, Ghana Consolidated Diamonds Limited and De Beers Centenary pursuant
+to which, the parties will, subject to a feasibility study, form a new company
+to acquire, expand and operate the Akwatia/Birim Diamond and Gold Concessions
+now owned by Ghana Consolidated Diamonds.  The feasibility study is anticipated
+to take a maximum of eighteen months.
+
+        In 1990, the Company and the Government of the Republic of Botswana,
+through its Ministry of Mineral Resources and Water Affairs, reached a long
+term agreement for the establishment of a diamond cutting and polishing factory
+in Botswana.   In 1992, the Government issued to the Company a long term
+license for the construction and operation of the facility.  On August 31,
+1994, the Botswana Development Corporation ("BDC") agreed to make an
+investment in Lazare Kaplan Botswana (Pty) Limited.  As a result of that
+investment, Lazare Kaplan Botswana (Pty) Limited is owned by the Company
+(60%), the Government of Botswana (5.1%) and the Botswana Development
+Corporation (34.9%). Lazare Kaplan Botswana moved into its new permanent
+manufacturing facility in January, 1993, which it owns and operates in
+Molepolole, Botswana.  The factory is a state-of-the-art facility using both
+automated and manual equipment, and will ultimately employ 500 skilled
+employees.  The facility currently operates with approximately 349 local
+employee/trainees and 17 expatriates.  Lazare Kaplan Botswana has been
+given its own sight allocation from the DTC from which it selects rough
+diamonds for manufacture in its facility.  Botswana is widely regarded today
+as the most important rough gem diamond producing country in the world.
+
+        Polished Diamonds
+
+        In addition to its purchase of rough diamonds, the Company also
+purchases polished diamonds from a number of sources.  These diamonds are
+purchased with the intention either to resell them or to recut them to ideal
+proportions at the Company's manufacturing facility in Puerto Rico.
+
+        Availability of Sources of Supply
+
+        The Company believes that it has good relations with its suppliers,
+that its trade reputation and established customer base will continue to assure
+access to primary sources of diamonds and that its sources of supply are
+sufficient to enable the Company to meet its present and foreseeable needs.
+However, the Company's sources of supply could be affected by political and
+economic developments over which the Company has no control.  While the Company
+believes that alternative sources of supply may be available, any significant
+disruption of the Company's access to its primary source suppliers could have a
+material adverse effect on its ability to purchase rough diamonds.
+
+
+                                       4
+
+
+
+
+<PAGE>
+<PAGE>
+
+
+Cutting and Polishing
+
+        The Company has two primary cutting and polishing operations; Lazare
+Kaplan (Puerto Rico) Inc., located in Puerto Rico and Lazare Kaplan Botswana
+(Pty) Ltd., located in Botswana. The Company's factory in Puerto Rico is
+believed to be the largest cutting facility in the United States.
+
+        Each stone received in Puerto Rico is evaluated against strict
+management standards designed to maximize its potential economic contribution
+to the Company.  Expert technicians, assisted by proprietary computer software,
+determine whether to cut the stone to ideal proportions, cut the stone as a
+commercial diamond or resell the stone as rough.  The shape of the rough stone,
+its color, clarity and overall potential economic contribution, are among the
+criteria used in making such determinations.  The Company has developed an
+incentive program that rewards its factory managers and supervisors based on
+maximizing the manufactured results of the following criteria: gross margin,
+yield (rough weight to polished weight conversion) and efficiency.
+
+        Rough stones selected for cutting are analyzed and where desirable are
+sorted for sawing or cleaving to achieve the desired shape and to eliminate
+imperfections.  They are then cut and polished into finished gems.  Each
+finished ideal cut gemstone which is marketed as a Lazare Diamond is then
+inscribed with the Lazare Kaplan logo and its own identification number by the
+Company's patented laser inscription process. All of these operations are
+performed by the Company's employees.  The Company believes its work force in
+Puerto Rico is the most highly skilled in the diamond industry.  The Company
+has undertaken a worker training program at its facility in Puerto Rico  to
+ensure a constant flow of skilled labor to satisfy its needs for further
+growth.
+
+        The Lazare Kaplan Botswana diamond cutting and polishing factory in
+Molepolole, Botswana began operations in its newly constructed facility in
+early 1993.  The factory, which is a state-of-the- art facility, uses both
+automated and manual equipment and is committed to train and employ Batswana
+workers. The Company expects to employ up to 500 skilled technicians at the
+facility.  As of July 29, 1994, there were 366 employees, of which 141 were
+trainees.
+
+        The new factory is intended to cut and polish rough diamonds to ideal
+proportions in sizes which are presently not processed by the Company's
+facility in Puerto Rico.  In the beginning stages, the factory is concentrating
+on the manufacture of rough stones of somewhat smaller size.  The size range
+manufactured will be expanded as the skills of its employees are developed.
+Lazare Kaplan Botswana purchases rough on its own account directly from the
+Diamond Trading Company for manufacture in the Botswana factory.
+
+        The Company believes that it is recognized in the diamond industry for
+the high quality and brilliance of the gems it cuts and that it also enjoys a
+reputation as an imaginative and innovative cutter of large and difficult
+stones.
+
+
+                                       5
+
+
+
+<PAGE>
+<PAGE>
+
+
+Pricing
+
+
+        Rough Diamond Prices
+
+        Through its control of approximately 80% of the world diamond output,
+the DTC can exert significant control over the pricing of rough and polished
+diamonds to maintain an orderly market by adjusting supplies in the
+marketplace.  Rough diamond prices established by the DTC have been
+characterized historically by steady increases over the long term; however,
+prices in the secondary market have experienced a greater degree of volatility,
+particularly during the late 1970's.  Traditionally, the Company has been able
+to pass along such price increases to its customers.  From time to time,
+however, the Company has absorbed these price increases in the short term to
+maintain an orderly pricing relationship with its customers.  This has, in the
+past, caused temporary adverse effects on the Company's earnings.  However, a
+large rapid increase in rough diamond prices could adversely affect the
+Company's revenue and operating margins if the increased cost of rough diamonds
+could not be passed along to its customers in a timely manner.
+
+
+        Polished Diamond Prices
+
+        Over the past 60 years, increases in the price of rough diamonds have
+generally resulted in a corresponding increase in the price of polished
+diamonds.  During the period of high inflation in the late 1970's, investors
+speculated in hard assets, driving polished diamond prices to exceptionally
+high levels which in turn caused significant increases in the cost of rough
+diamonds. However, the moderation of inflation during the 1980's resulted in a
+sudden and massive shift of investments from hard assets to financial
+instruments, resulting in dramatic price declines for polished diamonds which
+caused a market liquidity crisis as prices of some categories of polished
+diamonds fell below the inventory costs of such diamonds.  Since this period in
+the early 1980's, the Company believes the pricing of polished diamonds has
+returned to its historical pattern of responding to increases in the pricing of
+rough diamonds.  However, there can be no assurance that volatility in the
+price of polished diamonds could not occur again.  Any rapid decrease in the
+price of polished diamonds could have a material adverse effect on the Company
+in terms of inventory losses, lower sales and lower margins.
+
+        The Company has implemented strict inventory, pricing and purchasing
+controls which it believes could lessen the impact of fluctuations in the price
+of rough and polished diamonds.  These include computerized rough stone
+evaluation programs, automatic economic order quantity models and inventory
+utilization programs.
+
+
+                                       6
+
+
+<PAGE>
+<PAGE>
+
+Marketing, Sales and Distribution
+
+
+        Marketing Strategy
+
+        The Company's sales strategy is directed primarily toward quality
+conscious consumers throughout the United States, the Pacific Rim and Europe.
+The Company generally sells to select retail jewelers in each geographic market
+in order to maintain an image of selectivity and prestige consistent with its
+overall marketing strategy.  The Company also sells to certain jewelry and
+diamond manufacturers and wholesalers. The Company has developed a
+comprehensive grading system for its diamonds which allows jewelers to order
+inventory by category rather than through the more cumbersome process of visual
+selection.  In addition, the Company designs, manufactures and sells a line of
+high quality jewelry which features Lazare Diamonds.
+
+        A key element of the Company's strategy is the promotion of the Lazare
+Diamonds brand name directly to consumers.  The Company believes that ideal
+cutting presents a clear competitive advantage over other diamonds in the
+marketplace by providing the Company with the opportunity to establish a brand
+name and to market its diamonds under this name through retailers.  The
+Company's decision to pursue the brand name strategy is reinforced by two
+factors - a rising trend among informed consumers to purchase quality, brand
+name products, and the need among upscale jewelers to set themselves apart in
+an increasingly competitive market by carrying and promoting a highly
+differentiated product.  Each Lazare Diamond is inscribed with the Company's
+logo and identification number using the Company's unique laser inscription
+process, thus authenticating the diamond as a Lazare Diamond.  This "labelling"
+enables the Company to pursue the brand name diamond strategy.  The Company
+holds various domestic and international patents for this process.
+
+        Building awareness and acceptance of Lazare Diamonds is accomplished
+through a comprehensive marketing program which includes co-op advertising,
+sales promotion and public relations.  The advertising includes a toll-free
+number which consumers may call to receive additional information about the
+product and to be referred to jewelers carrying Lazare Diamonds and Lazare
+Diamond jewelry in their geographic area.  A wide assortment of sales promotion
+materials has been designed to facilitate jewelers' sales of the Company's
+diamonds and fine jewelry line to consumers.  Public relations  events  are
+offered which help build traffic in retail stores.  The Company believes these
+marketing programs have been and will continue to be instrumental in increasing
+sales.  The Company does not intend to sell its diamonds directly to consumers
+and plans to continue concentrating its marketing efforts towards the quality
+retail jeweler.
+
+        The Lazare Diamond Registry program has been established by the Company
+to enable consumers to register their Lazare Diamonds with the Company using
+the laser inscribed identification number, thereby providing proof of ownership
+in case of loss or theft.
+
+        While the purchase and sale of rough diamonds is concentrated among
+relatively few parties, industry wide retailing of polished diamonds occurs
+through over 39,000 jewelry stores in the United states, over 26,000 retailers
+in Japan and over 48,000 retail stores in Europe.  The Company's efforts for
+its polished diamonds are directed primarily toward the fine quality segment of
+these retailers, the majority of which are independently owned and operated.
+Full time regional sales representatives located throughout the United States
+and in Hong Kong and Antwerp, who are compensated on a commission basis, handle
+sales throughout the United States, the Pacific Rim and Europe.
+
+
+                                       7
+
+
+<PAGE>
+<PAGE>
+
+
+        The Company's sales force is supported by a New York based
+telemarketing department. Sales to certain of the Company's largest accounts
+are handled by headquarters personnel.   Most of the Company's major accounts
+are customers of long standing.
+
+        The Company has been expanding its activities abroad, particularly in
+the Pacific Rim countries of Japan, Hong Kong, Singapore, Taiwan, Thailand,
+Korea, Malaysia, Indonesia and Brunei.  In Japan, the Company has had a
+marketing relationship since 1972 with Aiwa Co., Ltd., the Japanese importer-
+marketer of Lazare Diamonds.  Aiwa Co., with a distribution network of over 200
+retailers and wholesalers, is an important customer of the Company's polished
+diamonds. Additionally, the Company continues to believe there is significant
+growth opportunity in the European market for Lazare Diamonds and has expanded
+in this area.
+
+        The Company uses a comprehensive sorting and inventory classification
+system for grading color and clarity of its ideal cut polished diamonds.  This
+system, combined with the fact that the Company's stones are uniformly cut to
+ideal proportions, reduces and in some cases eliminates the need for customers
+to view stones before placing orders.  The system enables customers to
+standardize their inventories, order by mail or telephone and minimize their
+inventory investment.
+
+        The percentages of the Company's total domestic and foreign net sales
+to its customers, which include a combination of both rough diamonds and
+polished diamonds sales taken together, for the past three fiscal years are set
+forth below:
+
+<TABLE>
+<CAPTION>
+                                    Years ended May 31,
+                                 ------------------------
+                                 1992      1993      1994
+                                 ----      ----      ----
+<S>                              <C>       <C>       <C>
+
+Percentage of Net Sales to Customers
+
+    Domestic                      18%       16%       16%
+    Foreign                       82%       84%       84%
+
+</TABLE>
+
+        The Company believes that due to the possible international resale of
+diamonds by its customers, the above percentages may not represent the final
+location of retail sales of its product.  As all foreign sales are denominated
+in United States dollars, the Company does not experience any foreign currency
+exposure on its foreign revenue.  A portion of all foreign polished sales are
+accompanied by bank guarantees or are shipped on a C.O.D. basis.  The
+profitability of foreign sales of either polished or rough diamonds is
+consistent with that of domestic sales of similar merchandise.
+
+
+                                       8
+
+<PAGE>
+<PAGE>
+
+
+Competition
+
+        The polished and rough diamond business is highly competitive.  While
+the Company believes that it has achieved a reputation as a leading cutter and
+distributor of high quality diamonds, it faces competition in sales to its
+customers in the United States and abroad from many other suppliers.  A
+substantial number of cutters and merchants, some of which the Company believes
+to be larger or to have greater financial resources than the Company, sell
+diamonds of all qualities to such customers. The Company also sells rough
+diamonds, primarily through its Antwerp office, in the competitive world
+market.
+
+        The Company believes there are significant barriers to entry by
+potential competitors into the business of manufacturing ideally proportioned
+diamonds.  Among the most important of these barriers are the need for
+significant capital, the  limited number of persons with the skills necessary
+to cut ideally proportioned diamonds, the difficulty in obtaining access to
+upscale channels of distribution, the importance of public recognition of an
+established brand name and the establishment of computer systems to gauge and
+monitor the manufacturing and distribution network.
+
+
+Employees
+
+        At July 29, 1994, the Company had 547 full-time employees, which
+includes 141 trainees in Botswana. The Company also has 9 regional sales
+representatives.  The Company maintains an apprenticeship program at its
+facilities in Caguas, Puerto Rico, through which it trains its cutters, who are
+highly skilled workmen.  The Company also has a program in Botswana through
+which it trains cutters and polishers to work at the Company's new facility.
+The Company provides paid vacations, sick leave, group life, disability,
+hospitalization and medical insurance for its employees.  The Company has a
+401(k) plan for its U.S. and Puerto Rico employees. The Company believes that
+it has satisfactory relationships with its employees.  None of the Company's
+employees is represented by a union.
+
+
+Item 2. Properties
+
+        The Company leases office space, a portion of which is devoted to sales
+rooms, at 529 Fifth Avenue, New York City, for a term expiring September 30,
+2003 at an annual rental rate of approximately $278,000 (subject to
+escalations).  The Company also subleases space at the same address to LTS for
+a like term at a rental rate per square foot which is the same as the Company
+is paying to the landlord.
+
+        The Company also owns a manufacturing facility in Caguas, Puerto Rico.
+The Caguas facility consists of approximately 7,500 square feet, and is fully
+equipped and adequate to fulfill the needs of the Company.
+
+        The Company leases office space in Antwerp, Belgium for a term expiring
+May 31, 2003 at an annual rental rate of approximately $43,000 (1,500,000
+Belgian francs).
+
+        The Company leases land in Botswana for a nominal amount for a term of
+fifty years with the right to renew for an additional fifty years.  The Company
+has constructed its cutting and polishing factory on such land.  The facility
+is approximately 4,300 square meters.
+
+
+                                       9
+
+
+<PAGE>
+<PAGE>
+
+
+Item 3.  Legal Proceedings
+
+        The Company is not involved in any significant legal proceedings.
+
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+        None
+
+Executive Officers of the Registrant
+
+        The following table sets forth information regarding executive officers
+of the Company.
+
+
+<TABLE>
+<CAPTION>
+
+NAME                     POSITION                     AGE
+- - ----                     --------                     ---
+<S>                      <C>                          <C>
+Maurice Tempelsman       Chairman of the Board        65
+
+Leon Tempelsman          Vice Chairman of the         38
+                         Board and President
+
+George R. Kaplan         Vice Chairman of the         76
+                         Board
+
+Sheldon L. Ginsberg      Vice President and           40
+                         Chief Financial Officer
+
+Robert Speisman          Vice President - Sales       41
+
+</TABLE>
+
+
+        All officers were elected at the Annual Meeting of the Board of
+Directors held in November 1993, and hold office until the next Annual Meeting
+of the Board of Directors and until their respective successors have been duly
+elected and qualified.
+
+        Maurice Tempelsman, Chairman of the Board and a director of the
+Company, is a general partner of Leon Tempelsman & Son, a partnership with
+interests in the international diamond and mining industries, positions he has
+held since 1984. Maurice Tempelsman is the father of Leon Tempelsman and the
+father-in-law of Robert Speisman.
+
+        Leon Tempelsman, Vice Chairman of the Board, President and a director
+of the Company, is a general partner of Leon Tempelsman & Son, positions he has
+held since 1984.   Leon Tempelsman is the son of Maurice Tempelsman and the
+brother-in-law of Robert Speisman.
+
+        The Company believes that neither the Tempelsmans nor LTS currently
+engages directly or indirectly in any activities competitive with those of the
+Company.
+
+
+                                      10
+
+
+<PAGE>
+<PAGE>
+
+
+        George R. Kaplan has been  Vice Chairman of the Board since 1984 and a
+director of the Company since 1972.
+
+        Sheldon L. Ginsberg has been Vice President and Chief Financial Officer
+since April 1991. He was the Vice President-Finance from January 1986 until
+April 1991.  Mr. Ginsberg has been a director of the Company since 1989.
+
+        Robert Speisman has been the Vice President - Sales of the Company
+since 1986.  Mr. Speisman has been a director of the Company since 1989.  Mr.
+Speisman is the son-in-law of Maurice Tempelsman and the brother-in-law of Leon
+Tempelsman.
+
+
+
+Part II
+
+
+Item 5.   Market for Registrant's Common Equity
+          and Related Stockholder Matters
+
+        The Registrant's common stock (par value $1 per share) is traded on the
+American Stock Exchange.
+
+        Market prices and other information with respect to the Registrant's
+common stock are hereby incorporated by reference from the inside front cover
+of the Registrant's Annual Report.
+
+
+Item 6.   Selected Financial Data
+
+        Selected financial data are hereby incorporated by reference from page
+3 of the Registrant's Annual Report.
+
+
+Item 7.   Management's Discussion and Analysis of Financial
+          Condition and Results of Operations
+
+        Management's discussion and analysis of financial condition and results
+of operations is hereby incorporated by reference from pages 4 to 6 of the
+Registrant's Annual Report.
+
+
+Item 8.   Financial Statements and Supplementary Data
+
+        The following financial statements and supplementary data are hereby
+incorporated by reference from pages 7 to 16 of the Registrant's Annual Report.
+
+        (i)     Report of Deloitte & Touche LLP.
+        (ii)    Consolidated Statements of Operations for the three years
+                ended May 31, 1994.
+        (iii)   Consolidated Statements of Stockholders' Equity for the three
+                years ended May 31, 1994.
+
+
+                                      11
+
+
+
+<PAGE>
+<PAGE>
+
+
+        (iv)    Consolidated Balance Sheets as at May 31, 1994 and
+                May 31, 1993.
+
+        (v)     Consolidated Statements of Cash Flows for the three years
+                ended May 31, 1994.
+
+        (vi)    Notes to Consolidated Financial Statements.
+
+
+
+Item 9.   Change in and Disagreements with Accountants on
+          Accounting and Financial Disclosure
+
+
+        None
+
+
+
+Part III
+
+        Except for information regarding Executive Officers of the Registrant,
+which, in accordance with Instruction G to Form 10-K, is included in Part I
+hereof, the information called for by Part III (Items 10, 11, 12 and 13) is
+incorporated by reference herein from the Registrant's definitive proxy
+statement to be filed with the Commission within 120 days after the close of
+its fiscal year ended May 31, 1994.
+
+
+Part IV
+
+
+Item 14.  Exhibits, Financial Statement Schedules, and
+          Reports on Form 8-K
+
+     (a)  1.   The response to this portion of Item 14 is set forth in
+               Item 8 of Part II hereof.
+
+          2.   Financial Statement Schedules
+
+               Report on Financial Statement Schedules and Consent of
+               Deloitte & Touche LLP
+
+               Schedule VIII - Valuation and Qualifying Accounts
+
+               Schedule IX - Short-Term Borrowings
+
+               Schedule X - Supplementary Statements of Operations
+               Information
+
+        All other schedules are omitted because they are not applicable, or not
+required, or because the required information is included in the consolidated
+financial statements or notes thereto.
+
+
+                                      12
+
+
+<PAGE>
+<PAGE>
+
+
+REPORT AND CONSENT OF INDEPENDENT AUDITORS
+
+
+        We have audited the consolidated financial statements of Lazare Kaplan
+International Inc. and subsidiaries as of May 31, 1994 and 1993, and for each
+of the three years in the period ended May 31, 1994, and have issued our report
+thereon dated July 13, 1994 (August 31, 1994 as to Note 11); such financial
+statements and report are included in the Company's 1994 Annual Report and are
+incorporated herein by reference. Our audits also included the financial
+statement schedules of Lazare Kaplan International Inc., listed in Item
+14(a)(2).  These financial statement schedules are the responsibility of the
+Company's management.  Our responsibility is to express an opinion based on our
+audits.  In our opinion, such financial statement schedules, when considered in
+relation to the basic consolidated financial statements taken as a whole,
+present fairly in all material respects the information set forth therein.
+
+        We consent to the incorporation by reference in Registration Statements
+No. 2-70113 and No. 33-20528 of Lazare Kaplan International Inc. on Form S-8,
+of our report dated July 13, 1994 (August 31, 1994 as to Note 11), incorporated
+by reference in this Annual Report on Form 10-K for the year ended May 31,
+1994.
+
+
+
+
+
+
+Deloitte & Touche LLP
+
+
+New York, New York
+August 31, 1994
+
+
+                                      13
+
+
+
+
+
+<PAGE>
+<PAGE>
+
+
+                                    LAZARE KAPLAN INTERNATIONAL INC.
+
+                                           AND SUBSIDIAIRIES
+
+                            SCHEDULE VIII-VALUATION AND QUALIFYING ACCOUNTS
+<TABLE>
+<CAPTION>
+
+                COLUMN A                 COLUMN B                      COLUMN C                      COLUMN D            COLUMN E
+                --------                 --------                      --------                      --------            --------
+                                                                       Additions
+                                                            --------------------------------
+                                                                (1)                 (2)
+                                        Balance at          Charged to          Charged to                              Balance at
+                                         beginning           costs and        other accounts        Deductions              end
+               Description               of period           expenses            describe            describe            of period
+              -----------                ---------           ---------         -------------         ---------           ---------
+<S>                                      <C>                <C>                <C>                 <C>                  <C>
+
+YEAR ENDED MAY 31, 1994:
+
+Allowance for doubtful accounts          $ 403,837         $  10,000          $    -              $  248,668(C)        $  165,169
+                                         ---------          ---------          ----------          ----------           ----------
+Sales returns and allowances             $ 268,632         $(268,632)(B)        $    -              $    -               $    -
+                                         ---------          ---------          ----------          ----------           ----------
+
+YEAR ENDED MAY 31, 1993:
+
+Allowance for doubtful accounts          $ 379,364         $  86,075          $      169(A)       $   61,771(C)        $  403,837
+                                         ---------          ---------          ----------          ----------           ----------
+Sales returns and allowances             $ 473,781         $(205,149)(B)       $    -              $    -               $  268,632
+                                         ---------          ---------          ----------          ----------           ----------
+YEAR ENDED MAY 31, 1992:
+
+Allowance for doubtful accounts          $ 251,651         $ 199,113          $    2,431(A)       $   73,831(C)        $  379,364
+                                         ---------          ---------          ----------          ----------           ----------
+Sales returns and allowances             $ 449,656         $  24,125(B)        $    -              $    -               $  473,781
+                                         ---------          ---------          ----------          ----------           ----------
+
+
+<FN>
+- - ----------
+(A) Recoveries of previously written off accounts
+
+(B) Adjustments to reserve balance
+
+(C) Amounts written off
+
+</TABLE>
+
+
+                                      14
+
+
+<PAGE>
+<PAGE>
+
+                              LAZARE KAPLAN INTERNATIONAL INTERNATIONAL INC.
+                                           AND SUBSIDIAIRIES
+
+                                  SCHEDULE IX-SHORT-TERM BORROWINGS
+<TABLE>
+<CAPTION>
+             COLUMN A               COLUMN B            COLUMN C            COLUMN D            COLUMN E            COLUMN F
+             --------               --------            --------            --------            --------            --------
+                                                                             Maximum             Average            Weighted
+                                                        Weighted             Amount              amount              average
+                                     Balance             average           outstanding         outstanding          interest
+       Category of aggregate         at end             interest             during              during            rate during
+       short-term borrowings        of period             rate             the period          the period          the period
+       ---------------------        ---------           --------           ----------          ----------          ----------
+                                                                                                   (A)                 (B)
+<S>                               <C>                    <C>              <C>                 <C>                    <C>
+
+MAY 31, 1994:
+
+Notes payable - banks             $  9,900,000            7.28%           $ 16,834,000        $ 11,371,000            6.18%
+                                  ------------           -----            ------------        ------------            -----
+Notes payable - other             $  3,000,000            4.40%           $  3,000,000        $  3,000,000            4.04%
+                                  ------------           -----            ------------        ------------            -----
+MAY 31, 1993:
+
+Notes payable - banks             $  9,005,000            6.06%           $ 11,220,000        $  3,175,000            6.07%
+                                  ------------           -----            ------------        ------------            -----
+Notes payable - other             $  3,000,000            3.92%           $  3,000,000        $  3,000,000            4.30%
+                                  ------------           -----            ------------        ------------            -----
+MAY 31, 1992:
+
+Notes payable - banks             $     -                   -             $  3,550,000        $     94,000            7.90%
+                                  ------------           -----            ------------        ------------            -----
+Notes payable - other             $  3,000,000            4.80%           $  3,000,000        $  3,000,000            6.24%
+                                  ------------           -----            ------------        ------------            -----
+
+<FN>
+- - --------
+
+(A) Average amount outstanding during the period is computed
+    by dividing the weighted average of daily amounts outstanding
+    by total days outstanding.
+
+(B) Average interest rate for the year is computed by dividing
+    the short-term interest expense by the average short-term
+    debt outstanding.
+
+</TABLE>
+
+
+                                      15
+
+
+
+<PAGE>
+<PAGE>
+
+
+                                                               SCHEDULE X
+
+                          LAZARE KAPLAN INTERNATIONAL INC.
+
+                                 AND SUBSIDIARIES
+
+
+                            SCHEDULE X - SUPPLEMENTARY
+
+
+
+                         STATEMENTS OF OPERATIONS INFORMATION
+
+<TABLE>
+<CAPTION>
+                Column A                      Column B
+                --------                      --------
+                                             Charged to
+                                              costs and
+                  Item                        expenses
+                  ----                        --------
+        <S>                                  <C>
+
+        YEAR ENDED MAY 31, 1994:
+            Advertising costs                $  848,565
+                                             ----------
+
+        YEAR ENDED MAY 31, 1993:
+            Advertising costs                $1,602,756
+                                             ----------
+        YEAR ENDED MAY 31, 1992:
+            Advertising costs                $1,669,151
+                                             ----------
+
+</TABLE>
+
+
+        Other items are not listed because they were either not applicable
+or not present in sufficient amounts to require inclusion.
+
+
+                                       16
+
+
+<PAGE>
+<PAGE>
+
+
+        (b)  Reports on Form 8-K - No reports on Form 8-K were filed during
+             the fourth quarter of the fiscal year ended May 31, 1994.
+
+        (c)  Exhibits
+
+        (3)  (a)  Certificate of Incorporation, as amended - incorporated
+                  herein by reference to Exhibit 3(a) to Report on Form 10-K of
+                  the Registrant for the fiscal year ended May 31, 1987 filed
+                  with the Commission on August 26, 1987, as amended on
+                  January 14, 1988.
+
+             (b)  Certificate of Amendment of Certificate of Incorporation
+                  filed with the Secretary of State of the State of Delaware on
+                  November 1, 1990 - incorporated herein by reference to
+                  Exhibit (3)(b) to Report on Form 10-K of the Registrant for
+                  the fiscal year ended May 31, 1992 filed with the Commission
+                  on August 28, 1992.
+
+             (c)  By-laws, as amended - incorporated herein by reference to
+                  Exhibit 3(b) to Report on Form 10-K of the  Registrant for
+                  the fiscal year ended May 31, 1987 filed with the Commission
+                  on August 26, 1987, as amended on January 14, 1988.
+
+    (10)     Material Contracts
+
+             (a)  Lazare Kaplan International Inc. Amended and Restated 1988
+                  Stock Option Incentive Plan - incorporated herein by
+                  reference to Exhibit 4.1 to Registration Statement on
+                  Form S-8 of the Registrant filed with the Commission on
+                  November 5, 1990.
+
+             (b)  Stockholders' Agreement, dated September 16, 1983, by and
+                  among the Registrant, Maurice Tempelsman, Leon Tempelsman,
+                  Leo L. Kaplan, George R. Kaplan, Howard Herzog, Consolidated
+                  African Selection Trust Limited and Jatel PLC - incorporated
+                  herein by reference to Exhibit 28(b) to Report on Form 8-K
+                  dated September 16, 1983 filed with the Commission on
+                  September 28, 1983.
+
+
+                                      17
+
+             
+             
+<PAGE>
+             
+<PAGE>
+
+             
+             (c)  Note Agreement dated as of May 15, 1991 by and between the
+                  Registrant, Allstate Life Insurance Company, Monumental
+                  Insurance Company and PFL Life Insurance Company -
+                  incorporated herein by reference to Exhibit 28 to Report on
+                  Form 8-K dated May 23, 1991 filed with the Commission on
+                  June 4, 1991.
+
+             (d)  First  Amendment to Note Agreement, dated as of February 28,
+                  1992, by and between the Registrant, Allstate Life Insurance
+                  Company, Monumental Life Insurance Company and PFL Life
+                  Insurance Company incorporated herein by reference to Exhibit
+                  10(d) to Report on Form 10-K of the Registrant for the fiscal
+                  year ended May 31, 1992 filed with the Commission on August
+                  28, 1992.
+
+             (e)  Second Amendment to Note Agreement, dated as of March 25,
+                  1992 by and between the Registrant, Allstate Life Insurance
+                  Company, Monumental Life Insurance Company and PFL Life
+                  Insurance Company incorporated herein by reference to Exhibit
+                  10(e) to Report on Form 10-K of the Registrant for the fiscal
+                  year ended May 31, 1992 filed with the Commission on August
+                  28, 1992.
+
+             (f)  Third Amendment to the Note Agreement, dated as of December
+                  1, 1992 by and between the Registrant, Allstate Life
+                  Insurance Company, Monumental Life Insurance Company and PFL
+                  Life Insurance Company incorporated herein by reference to
+                  Exhibit 10(f) to Report on Form 10-K of the Registrant for
+                  the fiscal year ended May 31, 1993 filed with the Commission
+                  on August 30, 1993.
+
+             (g)  Agreement, dated December 5, 1990, by and between the
+                  Registrant and the Government of  the Republic of Botswana -
+                  incorporated herein by reference to Exhibit 10(f) to Report
+                  on Form 10-K of the Registrant for the fiscal year ended May
+                  31, 1992 filed with the Commission on August 28, 1992.
+
+
+             (h)  Subscription Agreement, dated August 24, 1994, among the
+                  Registrant and the Botswana Development Corporation.
+
+
+        (13) 1994 Annual Report to Security Holders - incorporated herein by
+             reference to the 1994 Annual Report to Stockholders of the
+             Registrant to be filed with the Commission.
+
+        (21) Subsidiaries
+
+
+                                      18
+
+
+
+<PAGE>
+<PAGE>
+
+                                    SIGNATURES
+
+
+
+
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be
+signed on its behalf by the undersigned thereunto duly authorized.
+
+
+
+                        LAZARE KAPLAN INTERNATIONAL INC.
+
+
+
+
+                        By (s) Leon Tempelsman
+                           -----------------------------------------
+                           Leon Tempelsman, Vice Chairman and President
+                           (principal executive officer)
+
+
+
+
+
+
+
+
+
+
+
+                        By (s) Sheldon L. Ginsberg
+                           -----------------------------------------
+                           Sheldon L. Ginsberg, Vice President and
+                           Chief Financial Officer
+                           (principal financial officer)
+
+
+
+
+
+Dated:  August 31, 1994
+
+
+
+
+
+
+
+                                      19
+
+
+
+<PAGE>
+<PAGE>
+
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of
+the registrant and in the capacities and on the dates indicated.
+
+
+
+<TABLE>
+<CAPTION>
+
+
+Signature                     Title                    Date
+- - ---------                     -----                    ----
+
+
+<S>                           <C>                      <C>
+(s) Maurice Tempelsman
+- - --------------------------    Chairman of the          August 31, 1994
+(Maurice Tempelsman)          Board of Directors
+
+
+
+(s) Leon Tempelsman
+- - --------------------------    Vice Chairman of the     August 31, 1994
+(Leon Tempelsman)             Board of Directors
+
+
+
+
+(s) George R. Kaplan
+- - -------------------------     Vice Chairman of the     August 31, 1994
+(George R. Kaplan)            Board of Directors
+
+
+
+(s) Lucien Burstein
+- - -------------------------     Director                 August 31, 1994
+(Lucien Burstein)
+
+
+
+(s) Myer Feldman
+- - -------------------------     Director                 August 31, 1994
+(Myer Feldman)
+
+
+
+(s) Michael W. Butterwick
+- - -------------------------     Director                 August 31, 1994
+(Michael W. Butterwick)
+
+
+
+(s) Sheldon L. Ginsberg
+- - -------------------------     Director                 August 31, 1994
+(Sheldon L. Ginsberg)
+
+
+
+(s) Robert Speisman
+- - -------------------------     Director                 August 31, 1994
+(Robert Speisman)
+
+</TABLE>
+
+
+                                      20
+
+
+
+
+<PAGE>
+<PAGE>
+
+
+
+
+                          LAZARE KAPLAN INTERNATIONAL INC.
+
+
+                   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                        THE SECURITIES EXHCANGE ACT OF 1934
+
+
+
+For the fiscal year ended                          Commission File No. 1-7848
+May 31, 1994
+
+
+                                    EXHIBIT INDEX
+                                    -------------
+
+
+Exhibit                                                           Page No.
+- - -------                                                           --------
+
+(3)  (a)  Certificate of Incorporation, as amended -
+          incorporated herein by reference to Exhibit 3(a) to
+          Report on Form 10-K of the Registrant for the fiscal
+          year ended May 31, 1987 filed with the Commission
+          on August 26, 1987, as amended on January 14,   1988.
+
+     (b)  Certificate of Amendment of Certificate of
+          Incorporation filed with the Secretary of State of the
+          State of Delaware on November 1, 1990 -
+          incorporated herein by reference to Exhibit (3)(b) to
+          Report on Form 10-K of the Registrant for the fiscal
+          year ended May 31, 1992 filed with the Commission
+          on August 28, 1992.
+
+     (c)  By-laws, as amended - incorporated herein by
+          reference to Exhibit 3(b) to Report on Form 10-K of
+          the Registrant for the fiscal year ended May 31,
+          1987 filed with the Commission on August 26, 1987,
+          as amended on January 14, 1988.
+
+
+(10) Material Contracts
+
+     (a)  Lazare Kaplan International Inc. Amended and
+          Restated 1988 Stock Option Incentive Plan -
+          incorporated herein by reference to Exhibit 4.1 to
+          Registration Statement on Form S-8 of the
+          Registrant filed with the Commission on November
+          5, 1990.
+
+
+                                      21
+
+
+
+
+<PAGE>
+<PAGE>
+
+
+Exhibit                                                         Page No.
+- - -------                                                         --------
+
+
+      (b)  Stockholders' Agreement, dated September 16, 1983,
+           by and among the Registrant, Maurice Tempelsman,
+           Leon Tempelsman, Leo L. Kaplan, George R.
+           Kaplan, Howard Herzog, Consolidated African
+           Selection Trust Limited and Jatel PLC - incorporated
+           herein by reference to Exhibit 28(b) to Report on
+           Form 8-K dated September 16, 1983 filed with
+           the Commission on September 28, 1983.
+
+      (c)  Note Agreement dated as of May 15, 1991 by and
+           between the Registrant, Allstate Life Insurance
+           Company, Monumental Insurance Company and
+           PFL Life Insurance Company - incorporated herein
+           by reference to Exhibit 28 to Report on Form 8-K
+           dated May 23, 1991 filed with the Commission on
+           June 4, 1991.
+
+      (d)  First Amendment to Note Agreement, dated as of
+           February 28, 1992, by and between the Registrant,
+           Allstate Life Insurance Company, Monumental Life
+           Insurance Company and PFL Life Insurance
+           Company incorporated herein by reference to Exhibit
+           10(d) to Report on Form 10-K of the Registrant for
+           the fiscal year ended May 31, 1992 filed with the
+           Commission on August 28, 1992.
+
+      (e)  Second Amendment to Note Agreement, dated as of
+           March 25, 1992 by and between the Registrant,
+           Allstate Life Insurance Company, Monumental Life
+           Insurance Company and PFL Life Insurance Company
+           incorporated herein by reference to Exhibit 10(e)
+           to Report on Form 10-K of the Registrant for the
+           fiscal year ended May 31, 1992 filed with the
+           Commission on August 28, 1992.
+
+
+                                      22
+
+
+
+<PAGE>
+<PAGE>
+
+
+Exhibit                                                          Page No.
+- - -------                                                          --------
+
+      (f) Third Amendment to the Note Agreement, dated
+          as of December 1, 1992 by and between the
+          Registrant, Allstate Life Insurance Company,
+          Monumental Life Insurance Company and PFL
+          Life Insurance Company incorporated herein by
+          reference to Exhibit 10(f) to Report of Form 10-K
+          of the Registrant for the fiscal year ended May 31,
+          1993 filed with the Commission on August 30, 1993.
+
+      (g) Agreement, dated December 5, 1990, by and
+          between the Registrant and the Government of
+          the Republic of Botswana - incorporated herein by
+          reference to Exhibit 10(f) to Report on Form 10-K
+          of the Registrant for the fiscal year ended May 31,
+          1992 filed with the Commission on August 28, 1992.
+
+
+      (h) Subscription Agreement, dated August 24, 1994, among
+          the Registrant and the Botswana Development Corporation.       24
+
+
+(13) 1994 Annual Report to Security Holders - incorporated
+     herein by reference to the 1994 Annual Report to Stock-
+     holders of the Registrant to be filed with the Commission.          38
+
+
+(21) Subsidiaries                                                        64
+
+
+                                      23
+
+
+
+<PAGE>
+<PAGE>
+
+
+                                                            Exhibit 10(h)
+
+
+                          SUBSCRIPTION AGREEMENT
+
+
+        SUBSCRIPTION AGREEMENT, dated as of August 24, 1994, among:
+
+        
+        (1)     BOTWSWANA DEVELOPMENT CORPORATION LIMITED,
+                a company incorporated under the laws of
+                the Republic of Botswana, whose registered
+                office is at Plot 6377, Madirelo House,
+                Mmanaka Road, Gaborone, Botswana
+                ("Botswana Development Corporation"), by
+                its duly authorized representative
+                Mr. M.O. Molefane in his capacity as
+                Managing Director of Botswana Development
+                Corporation;
+        
+        (2)     LAZARE KAPLAN INTERNATIONAL INC., a
+                company incorporated under the laws of the
+                State of Delaware in the United States of
+                America, whose principal office is at 529
+                Fifth Avenue, New York, New York 10017,
+                United States of America ("Lazare Kaplan
+                International"), represented by James L.
+                Barnes in his capacity as authorised
+                signatory of Lazare Kaplan International;
+                and
+        
+        (3)     LAZARE KAPLAN BOTSWANA (PTY) LIMITED, a
+                company incorporated under the laws of the
+                Republic of Botswana, whose registered
+                office is at the offices of Deloitte &
+                Touche, Barclays House, Khama Crescent,
+                Gaborone, Botswana (the "Company"),
+                represented by James L. Barnes in his
+                capacity as Managing Director of the
+                Company.
+
+
+
+                  R  E  C  I  T  A  L  S :
+
+
+        A.  The Company wishes to sell to Botswana
+Development Corporation, and Botswana Development
+Corporation wishes to subscribe to, shares of capital
+stock of the Company.
+<PAGE>
+<PAGE>
+
+
+
+
+        B.  The Company wishes to issue to Lazare
+Kaplan International, in consideration for the conversion
+of part of the loans made by Lazare Kaplan International
+to the Company into, shares of capital stock of the
+Company.
+
+        C.  At the Closing (as defined below), the
+Company will have an authorized share capital of Pula
+70,000,000 comprised of 35,000,000 ordinary shares, each
+having a par value of Pula 1 per share and ranking pari
+passu with one another (the "Ordinary Shares"); and
+35,000,000 cumulative redeemable non-voting participating
+preference shares, each having a par value of Pula 1 per
+share, each bearing a dividend entitlement of 10%
+annually for an initial five years and 12.5% annually
+thereafter, each with such further participating
+interest, if any, in dividends as the Company may in its
+sole discretion determine, and none carrying or at any
+time giving rise to voting rights for its holder (the
+"Preference Shares").
+
+        D.  Immediately prior to consummation, at the
+Closing, of the transactions hereunder, Lazare Kaplan
+International will be the beneficial holder of 5,369,447
+Ordinary Shares and the Government of Botswana will be
+the beneficial holder of 947,550 Ordinary Shares.
+
+        Accordingly, in consideration of the agreements
+and obligations herein contained, the parties hereby
+agree as follows:
+
+
+<PAGE>
+<PAGE>
+
+
+
+        1.  PURCHASE OF SHARES BY BOTSWANA DEVELOPMENT
+CORPORATION.  Subject to the terms and conditions set
+forth in this Agreement, the Company hereby agrees to
+issue to Botswana Development Corporation, and Botswana
+Development Corporation hereby agrees to subscribe from
+the Company, 7,660,000 Ordinary Shares and 14,117,000
+Preference Shares (together, the "BDC Shares") for the
+aggregate purchase price of Pula 21,777,000 (the
+"Purchase Price"), consisting of (i) Pula 7,660,000 for
+the Ordinary Shares, and (ii) Pula 14,117,000 for the
+Preference Shares.
+
+        2.  CONVERSION OF LOANS BY LAZARE KAPLAN
+INTERNATIONAL.  Subject to the terms set forth in this
+Agreement, Lazare Kaplan International agrees (i) to
+convert the outstanding principal amount of Pula
+7,971,427 of the loans that it has heretofore made to the
+Company into 7,971,427 Ordinary Shares (the "LKI
+Ordinary Shares") and (ii) to convert the outstanding
+principal amount of Pula 14,117,000 of the loans that it
+has heretofore made to the Company into 14,117,000
+Preference Shares (the "LKI Preference Shares", and
+together with the LKI Ordinary Shares, the "LKI Shares"),
+and in consideration therefor the Company hereby agrees
+to issue the LKI Shares to Lazare Kaplan International.
+
+
+<PAGE>
+<PAGE>
+
+
+        3.  CLOSING.
+
+        (a)  The closing of the transactions
+contemplated hereby shall take place at the offices of
+Botswana Development Corporation, Plot 6377, Madirelo
+House, Mmanaka Road, Gaborone, Botswana, on the first
+business day following satsifaction of the Conditions
+Precedent set forth in Section 5(a), or at such other
+early date thereafter as the parties hereto shall
+mutually agree (the "Closing").
+
+        (b)  At the Closing, the Company shall (i)
+deliver to Botswana Development Corporation duly executed
+share certificates representing the BDC Shares, and
+Botswana Development Corporation shall pay the Purchase
+Price to the Company by cheque in the amount of
+Pula 21,777,000; and (ii) deliver to Lazare Kaplan
+International duly executed share certificates
+representing the LKI Shares, and Lazare Kaplan
+International shall deliver to the Company an instrument
+acknowledging the conversion of Pula 7,971,427 and Pula
+14,117,000 of outstanding loans made by Lazare Kaplan
+International to the Company into the LKI Ordinary Shares
+the LKI Share Premium and the LKI Preference Shares,
+respectively.
+
+
+<PAGE>
+<PAGE>
+
+
+
+        4.  REPRESENTATIONS AND WARRANTIES OF THE
+COMPANY.
+
+        (a)  The Company represents and warrants to
+Botswana Development Corporation and Lazare Kaplan
+International that:
+        
+                (i)  The Company is a corporation duly
+        incorporated and validly existing under the laws of
+        the Republic of Botswana, and has the requisite
+        corporate power and authority to execute and deliver
+        this Agreement and to perform its obligations
+        hereunder; and
+        
+                (ii)  The execution, delivery and
+        performance of this Agreement, and the execution,
+        issuance and delivery of the BDC Shares and the LKI
+        Shares have been duly authorized by all necessary
+        corporate action on the part of the Company. The
+        BDC Shares and LKI Shares, when issued, shall be
+        validly issued, fully paid and nonassessable.
+
+        (b)  LKI and the Company, jointly and
+severally, represent and warrant to Botswana Development
+Corporation that:
+        
+                (i)  The audited financial statements of
+        the Company as of May 31, 1994 were audited by
+        Deloitte & Touche using generally accepted
+        
+        
+<PAGE>
+                
+<PAGE>
+
+        
+        accounting principles and fairly and accurately
+        reflected the assets and liabilities actual or
+        contingent and financial status of the Company as of
+        the date thereof;
+        
+                (ii)  There has been no material change in
+        the assets and liabilities and financial status of
+        the Company since the date of such financial
+        statements to the date of signature hereof, except
+        as may have resulted from (A) the normal and
+        ordinary course of the Company's operations; and (B)
+        implementation of the Restructuring Agreement of
+        even date hereof among the parties hereto and the
+        Government of Botswana in accordance with its terms;
+        
+                (iii)  Neither LKI nor the Company is aware
+        of any material facts or circumstances with respect
+        to the Company's affairs which if known to a
+        reasonable potential investor in the Company would
+        cause such investor to withdraw from involvement in
+        the Company, which have not been disclosed to
+        Botswana Development Corporation;
+        
+                (iv)  All the material facts on which the
+        projections submitted by the Company up to the date
+        of signature hereof for use by Botswana Development
+        Corporation to evaluate its investment in the
+        Company and the terms thereof were based were, to
+        the best of LKI and the Company's knowledge,
+        
+        
+<PAGE>
+                
+<PAGE>
+
+
+        
+        materially correct when such projections were so
+        submitted;
+        
+                (v)  All the material assumptions made in
+        the projections submitted by the Company up to date
+        of signature hereof for use by Botswana Development
+        Corporation to evaluate its investment in the
+        Company and the terms thereof were, to the best of
+        LKI and the Company's knowledge, bona fide, fair and
+        reasonable when such projections were so submitted;
+        and
+        
+                (vi)  Neither LKI nor the Company is aware
+        of any material facts or circumstances which have
+        occurred since submission of the aforementioned
+        projections to Botswana Development Corporation
+        which have not been disclosed to Botswana
+        Development Corporation which would render the
+        material facts referred to in Section 4(b)(iv)
+        materially incorrect or cause the material
+        assumptions referred to in Section 4(b)(v) to be
+        rendered otherwise than bona fide, fair and
+        reasonable.
+
+        5.  CONDITIONS PRECEDENT TO CLOSING.
+
+        (a)  The Closing shall be subject to
+satisfaction of the following conditions precedent (each
+a "Condition Precedent"):
+
+
+<PAGE>
+<PAGE>
+
+
+        
+                (i)  The making available by the
+        Government of Botswana to Botswana Development
+        Corporation of funding specifically for and adequate
+        to enable the investment of Botswana Development
+        Corporation in the Company specified in Section 1;
+        and
+        
+                (ii)  The granting by the Bank of
+        Botswana of such approvals as may be necessary for
+        the transactions contemplated by this Agreement.
+
+        (b)  Each party hereto shall use its best
+efforts to procure the expeditious satisfaction of the
+Conditions Precedent.
+
+        6.  MISCELLANEOUS.
+
+        (a)  RULES OF CONSTRUCTION.  In this
+Agreement, unless the context otherwise requires, words
+in the singular number or in the plural number shall each
+include the singular number and the plural number, words
+of the masculine gender shall include the feminine and
+the neuter, and, when the sense so indicates, words of
+the neuter shall refer to any gender.
+
+        (b)  FURTHER ASSURANCES.  Each party
+hereto shall do and perform or cause to be done and
+performed all further acts and shall execute and deliver
+all other agreements, certificates, instruments and
+documents as the other parties hereto reasonably may
+
+
+<PAGE>
+<PAGE>
+
+
+request in order to carry out the intent and accomplish
+the purposes of this Agreement and the consummation of
+the transactions comtemplated hereby.
+
+        (c)  GOVERNING LAW.  This Agreement and
+the rights and obligations of the parties hereto shall be
+governed by, and construed and enforced in accordance
+with, the laws of the Republic of Botswana.
+
+        (d)  SPECIFIC PERFORMANCE.  In the event
+of any party hereto committing a breach of this
+Agreement, and failing to remedy such breach within seven
+(7) days of receipt by the party so in breach from the
+aggrieved party of written notice of breach, then
+notwithstanding any previous waiver, the aggrieved party
+shall be entitled to claim specific performance, damages
+(if applicable) and, subject to the immediately
+succeeding sentence, such other remedies as may be
+available.  It is specifically agreed that neither party
+shall have the right to cancel this Agreement or to claim
+restitution (whether the breach is material or not).
+
+        (e)  NOTICES.  (i)  Any notices or
+communications given to the parties hereto for the
+purposes of this Agreement shall be in writing and
+addressed as follows:
+
+<PAGE>
+<PAGE>
+
+
+        Botswana Development Corporation:
+
+
+                Botswana Development Corporation Limited
+                Private Bag 160
+                Gaborone
+                Botswana
+                Attention:  Company Secretary
+
+                Telex:  2251BD
+                Cable Address:
+                Telefax:  (267) 373-539; 359-354 or 304-393
+
+
+        Lazare Kaplan International:
+
+        
+                Lazare Kaplan International Inc.
+                529 Fifth Avenue
+                New York, New York 10017
+                United States of America
+                Attention:   The Chief Financial Officer
+
+                Telex:  RCA 222746
+                Cable Address:  MAIDENCAP
+                Telefax:  (212) 972-8561
+
+
+
+<PAGE>
+<PAGE>
+
+
+
+        The Company:
+
+
+                Lazare Kaplan Botswana (Pty) Limited
+                Private Bag 00334
+                Gaborone
+                Botswana
+                Attention:  The Managing Director
+                Telefax:  (267) 320-814
+
+
+Notices or communications given to either Lazare Kaplan
+International or to the Company for the purposes of this
+Agreement shall be deemed also to have been served upon
+the Company or Lazare Kaplan International (as the case
+may be).
+        
+                (ii)  Any notice or communication shall be
+        duly given or made when delivered addressed to the party
+        to whom it is made or to whom it is deemed given at its
+        address as specified in Section 6(e)(i), or at such other
+        address or cable address or telex or telefax number, as
+        such party may specify to the other parties in writing,
+        provided that any such notice of change of address or
+        cable address or telex or telefax number shall be
+        effective only upon receipt. If sent by prepaid
+        registered post, it shall be deemed to have been
+        delivered five days after posting; or if by telegram,
+        three days after dispatch; or if by hand, at the time of
+        delivery, in which case a written receipt must be
+        obtained; or if by telex or telefax, at the time such
+        telex or telefax is sent and acknowledged.
+        
+
+<PAGE>
+<PAGE>
+
+
+        (f)  BINDING EFFECT.  This Agreement shall
+inure to the benefit of and shall be binding upon the
+parties hereto and their respective successors and
+assigns.
+
+        (g)  HEADINGS.  The headings and captions
+contained in this Agreement are inserted only as a matter
+of convenience and in no way define, limit or extend the
+scope or intent of this Agreement or any provisions
+hereof.
+
+        (h)  ENTIRE AGREEMENT.  This Agreement
+contains the entire understanding of the parties hereto
+respecting the subject matter hereof, and supersedes all
+prior agreements, discussions and understandings with
+respect to the subject matter hereof.
+
+        (i)  COUNTERPARTS.  This Agreement may be
+executed in one or more counterparts, each of which when
+so executed shall be deemed an original and all of which,
+when taken together, shall constitute one and the same
+Agreement.
+
+
+        IN WITNESS WHEREOF, the parties have signed
+this Agreement as of the date first above written.
+
+<PAGE>
+<PAGE>
+
+
+AS WITNESSES:
+
+
+1.
+
+
+                   ----------------------------------------
+                                       For and on behalf of
+                   BOTSWANA DEVELOPMENT CORPORATION LIMITED
+
+
+
+2.
+
+
+
+AS WITNESSES:
+
+
+1.
+
+
+                   ----------------------------------------
+                                       For and on behalf of
+                           LAZARE KAPLAN INTERNATIONAL INC.
+
+
+
+2.
+
+
+
+AS WITNESSES:
+
+
+1.
+
+
+                   ----------------------------------------
+                                       For and on behalf of
+                       LAZARE KAPLAN BOTSWANA (PTY) LIMITED
+
+
+
+2.
+
+<PAGE>
+<PAGE>
+
+                                                                 Exhibit 13
+
+
+
+
+
+                  LAZARE KAPLAN INTERNATIONAL INC.
+
+
+
+
+
+               -------------------------------------
+
+
+
+
+                            The leader
+
+
+                           in ideal cut
+
+
+                           diamonds for
+
+
+                          over 90 years.
+
+
+
+
+                               LOGO
+
+
+
+
+
+                              ANNUAL
+
+                              REPORT
+
+                               1994
+
+
+
+
+               -------------------------------------
+
+<PAGE>
+<PAGE>
+
+
+
+            LAZARE KAPLAN INTERNATIONAL INC. AND SUBSIDIARIES
+
+           LAZARE KAPLAN INTERNATIONAL INC. 1994 ANNUAL REPORT
+
+
+Lazare Kaplan International Inc. is engaged in the cutting and polishing of
+ideal cut diamonds, which it laser inscribes and distributes to quality retail
+jewelers internationally under the brand name "Lazare Diamonds(R)". Each diamond
+cut and polished by Lazare Kaplan craftsmen, whatever its size, is finished to
+precise proportions, bringing out all of the diamond's natural brilliance, fire
+and luster. Lazare Kaplan is also engaged in the trading of uncut rough diamonds
+and non-ideal cut, commercial quality diamonds.
+
+
+American Stock Exchange
+
+The Company's common stock is traded on the American Stock Exchange under the
+ticker symbol LKI.
+
+
+Form 10-K
+
+Upon written request, a copy of the Company's Form 10-K Annual Report without
+exhibits for the year ended May 31, 1994 as filed with the Securities and
+Exchange Commission, will be made available to stockholders without charge.
+Requests should be directed to the Controller, Ms. James, Lazare Kaplan
+International Inc., 529 Fifth Avenue, New York, New York 10017.
+
+
+Annual Meeting
+
+November 3, 1994
+11 A.M.
+Chemical Banking Corp.
+270 Park Avenue
+Third Floor, Auditorium
+New York, New York 10017
+
+
+
+
+Market Prices of Common Stock
+by Fiscal Quarter
+
+<TABLE>
+<CAPTION>
+- - -----------------------------------
+                   Fiscal 1994
+               --------------------
+                High           Low
+- - -----------------------------------
+<S>             <C>           <C>
+First           8 3/4         5 3/4
+Second          6 7/8         5 7/8
+Third           9 5/8         6 7/8
+Fourth          9 3/8         8 1/8
+- - -----------------------------------
+<CAPTION>
+                   Fiscal 1993
+               --------------------
+                High           Low
+- - -----------------------------------
+<S>             <C>           <C>
+First           6 3/8         5
+Second          6 3/4         4 3/4
+Third           7             5 3/8
+Fourth          6 7/8         5 5/8
+- - -----------------------------------
+</TABLE>
+
+
+As of June 30, 1994 there were approximately 239 stockholders of record of the
+6,131,106 issued and outstanding shares of the common stock of the Company.
+
+
+<PAGE>
+<PAGE>
+
+              To Our Stockholders:
+
+
+     Our Company's performance in the fiscal year ended May
+31, 1994 showed marked improvement in revenues and net income
+- - -- a continuation of last year's progress.  Net revenues in
+1994 were $204,047,000.  This represents an increase of 29%
+over revenues of $158,075,000 in fiscal 1993.  Net income for
+the period was $3,024,000 compared to a loss of $903,000 in
+the previous fiscal year.  The strategic deployment of
+resources for future growth continued to be a priority for the
+Company.
+
+     Management maintained its rigorous cost controls and
+carefully monitored productivity.  On a comparable basis,
+selling, general and administrative costs increased 1% for the
+year.  Including the effects of costs associated with the
+Company's foreign operations, S, G & A increased 9.5% for the
+year.  As an example of cost containment measures, recent
+renegotiation of the lease for the New York headquarters
+office has resulted in a 50% reduction in rent.
+
+     The U.S. market for diamonds and jewelry showed
+considerable improvement as the domestic economy recovered and
+consumers gained confidence that the recession was over.  The
+extensive nationwide network of quality jewelers who stock and
+market Lazare Diamonds(R) continued to gain market share.  Our
+domestic sales increased by over 50%.  Our jewelers and we
+remain committed to the quality and value represented in the
+brand name Lazare Diamonds(R).  We continue to provide our
+customers with a full package of marketing and point of sale
+support.  We were encouraged by the results of the steps we
+took last year to help our customers meet the challenges of
+the competitive environment that now prevails.
+
+     The Japanese economy, on the other hand, continued to
+lag, as have our sales in that market.  Early indications
+point to a slow economic recovery.  Our Company is well
+positioned to participate in future growth in that important
+market for quality diamonds.  Our distributor of long
+standing, AIWA Co. Ltd., showed great imagination and
+tenacity in confronting the challenges of the Japanese
+recession.  They have made the necessary adjustments to meet
+prevailing competitive conditions.  The strengthening yen,
+in time, should favorably impact sales in Japan as it lowers
+the yen cost of diamonds to Japanese consumers.
+
+     Our revenues and income from sales in the Pacific Rim
+showed significant increases.  This area represents an
+important growth market for our company.  Additional quality
+distribution outlets were added in Hong Kong, Taiwan and
+Thailand.  We have also initiated steps to participate, as
+soon as practicable, in the new market for diamonds that is
+developing in the People's Republic of China.
+
+     Our rough trading operation in Belgium continued to
+perform well and contributed to our profitability.  It also
+enabled us to overcome, in part, the margin pressure on the
+manufacture of rough to polished that we and others in the
+industry confront.  We remain concerned about this problem
+created to some extent by the structural changes now taking
+place in the industry.
+
+     The manufacturing operation in Puerto Rico performed
+well.  Productivity, costs, and yields were closely monitored
+and managed.  Management is staying abreast of new
+technological developments and is alert to their possible
+economic impact.  Great support was also given by Puerto Rico
+management to the new facility in Botswana and to our efforts
+in Russia.
+
+<PAGE>
+<PAGE>
+
+
+     Our new facility in Molepolole, Botswana, completed its
+first year of operations.  It presently employs 350 workers,
+including 330 local employees.  The careful, meticulous
+training program is increasingly achieving the targeted
+productivity objective as well as the quality criteria
+required by the demanding tolerances of Lazare Diamonds(R).
+When the operation is on stream it will also provide us with
+a reliable, consistent supply of smaller sizes (melee) of
+ideal cut stones, as an additional line we can offer to our
+existing customers and to quality jewelry manufacturers.
+Marketing efforts for this new product line were started in
+the course of last year.  Botswana is the world's leading
+producer of rough diamonds.  Its mines are some of the
+lowest cost producers with reserves going well into the next
+century.  We have received the fullest cooperation and
+support from the Botswana Government in line with its
+publicly stated policy to encourage the establishment of a
+domestic cutting industry.  On April 14, 1994 the Botswana
+Development Corporation Limited (BDC) and Lazare Kaplan
+International Inc. jointly announced a new investment by the
+BDC in Lazare Kaplan Botswana. On August 31, 1994 the
+Company completed its transaction with BDC whereby BDC has
+invested 21.8 million pula (approximately $8.0 million) for
+an equity position in Lazare Kaplan Botswana (Pty) Ltd.
+
+     The feasibility study and the interim rehabilitation of
+the Akwatia diamond mine in Ghana, leading to its eventual
+privatization, are proceeding.  On August 2, 1994, the
+Ghanaian parliament ratified the Establishment Agreement
+between the Government of Ghana, De Beers Centenary and the
+Company, establishing a new jointly owned diamond mining
+operation -- Birim River Diamonds Ltd.
+
+     Recent press reports have indicated that rough diamonds
+of alleged Russian origin have appeared on the Antwerp and
+Israeli markets.  These reports also allude to tensions
+between the Central Selling Organization (the marketing arm of
+De Beers) and Roskomdragmet (the Russian Government
+organization responsible for diamond exports) on
+interpretation of the existing sales contract for rough
+diamonds as well as the terms for renewal of that agreement
+when it expires in 1995.  It is difficult to assess the full
+accuracy of the reports, or to estimate the impact of such
+sales on future market conditions.  We are attentive to these
+developments, and will continue to monitor them.  Our venture
+with Roskomdragmet has recently been expanded.  We have
+provided expert management, skilled technicians, and marketing
+facilities from our New York and Puerto Rico operations to
+work with the highly skilled Russian technicians.  Good
+results have been achieved that provide a sound basis for
+further cooperation.
+
+     The managers and employees of the Company, in all
+departments at home and abroad, deserve full credit for the
+results that were achieved last year.  We appreciate their
+continued commitment and professionalism, so critical to the
+company's continued growth in this difficult competitive
+period.
+
+
+       ----------------------        ---------------------
+       Maurice Tempelsman            Leon Tempelsman
+       Chairman of the Board         Vice Chairman and
+                                     President
+
+
+2
+
+<PAGE>
+<PAGE>
+
+
+              LAZARE KAPLAN INTERNATIONAL INC. AND SUBSIDIARIES
+
+                           SELECTED FINANCIAL DATA
+
+
+<TABLE>
+<CAPTION>
+- - ----------------------------------------------------------------------------------------
+(In thousands, except per share data)      1994      1993      1992      1991      1990
+- - ----------------------------------------------------------------------------------------
+<S>                                      <C>       <C>       <C>       <C>       <C>
+Net Sales                                $204,047  $158,075  $151,875  $133,016  $100,012
+- - -----------------------------------------------------------------------------------------
+Income/(loss) before income tax
+ provision, minority interest and
+ extraordinary item                      $  2,803  $  (728)  $(2,287)  $  4,349  $  5,376
+- - ----------------------------------------------------------------------------------------
+Extraordinary item, utilization of net
+ operating loss carryforward                  -         -         -    $  1,821  $  1,688
+- - ----------------------------------------------------------------------------------------
+Net income/(loss)                        $  3,024  $  (903)  $(2,951)  $  4,073  $  5,268
+- - ----------------------------------------------------------------------------------------
+Income/(loss) per share (based on the
+ weighted average number of shares
+ outstanding)(1)                         $    .49  $  (.15)  $  (.48)  $    .80  $   1.65
+- - ----------------------------------------------------------------------------------------
+Fully diluted income/(loss) per share(2) $    .49  $  (.15)  $  (.48)  $    .80  $   1.07
+- - ----------------------------------------------------------------------------------------
+At May 31:
+ Total assets                            $ 93,178  $ 86,452  $ 77,977  $ 79,695  $ 60,552
+- - ----------------------------------------------------------------------------------------
+ Short-term debt                         $ 17,185  $ 12,005  $  3,000  $  3,000  $ 22,455
+- - ----------------------------------------------------------------------------------------
+ Long-term debt                          $ 25,715  $ 30,000  $ 30,000  $ 30,000  $ 15,000
+- - ----------------------------------------------------------------------------------------
+ Working capital                         $ 52,333  $ 53,011  $ 61,079  $ 66,565  $ 28,599
+- - ----------------------------------------------------------------------------------------
+ Stockholders' equity                    $ 38,751  $ 35,671  $ 36,573  $ 39,525  $ 16,081
+- - ----------------------------------------------------------------------------------------
+<FN>
+
+(1)  The effect on earnings per share for the utilization of net operating
+     loss  carryforward was $.36 for 1991, $.53 for 1990.
+
+(2)  The effect on earnings per share fully diluted for the utilization of
+     net  operating loss carryforward was $.34 for 1990.
+
+Note: No cash dividends were declared or paid by the Company during the past
+      five fiscal years.
+
+</TABLE>
+
+
+                                                                           3
+
+
+<PAGE>
+<PAGE>
+
+                MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+
+
+The Net Sales and Net Income tables are bar charts in the printed version
+of this document.
+
+<TABLE>
+<CAPTION>
+                             Net Sales
+                            ($Millions)
+- - ------------------------------------------------------------------------------
+                          1990       1991       1992       1993       1994
+- - ------------------------------------------------------------------------------
+<S>                       <C>        <C>        <C>        <C>        <C>
+Net Sales                 $100,012   $133,016   $151,875   $158,075   $204,047
+- - ------------------------------------------------------------------------------
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                         Net Income (Loss)
+                            ($Millions)
+- - ------------------------------------------------------------------------------
+                          1990      1991      1992      1993        1994
+- - ------------------------------------------------------------------------------
+<S>                       <C>       <C>       <C>       <C>         <C>
+Net Income                $5,268    $4,073    $(2,951)  $  (903)    $3,024
+- - ------------------------------------------------------------------------------
+</TABLE>
+
+
+
+     This discussion and analysis should be read in conjunction with the
+Selected Financial Data on page 3 and the audited financial statements and
+related notes of the Company commencing on page 7 of this report. In this
+discussion, the years "1994", "1993" and "1992" refer to the fiscal years ended
+May 31, 1994, 1993 and 1992, respectively.
+
+
+Results of Operations
+
+Net Sales
+
+     Net sales in 1994 of $204,047,000 were $45,972,000 or 29% above the net
+sales of $158,075,000 in 1993.
+
+     The Company's net revenue from the sale of polished diamonds of $51,349,000
+in 1994 increased 18% compared to 1993 polished sales of $43,409,000. The
+increase was a result of increased polished diamond sales in the United States
+and Pacific Rim (excluding Japan) due to increased demand and strengthening
+local economies and was partially offset by a weaker market in Japan.
+
+     During fiscal 1994, the Company changed its method of selling from using a
+gross price list (allowing various discounts and allowances to be earned by its
+customers) to net pricing. While this change did not have a significant impact
+on the results of operations, the Company believes that it greatly enhanced
+selling efficiency and facilitated increased sales.
+
+     Rough diamond sales increased 33% in 1994. This increase was due to the
+Company's continued expansion of its rough trading operation and also its
+continued efforts to match the quality of its raw materials manufactured with
+the requirements of its customers. Those rough diamonds not selected based on
+economic or quality analysis were promptly sold in the marketplace.
+
+     Net sales in 1993 of $158,075,000 represented an increase of $6,200,000 or
+4% over net sales of $151,875,000 in 1992.
+
+     The Company's net revenue from the sale of polished diamonds in 1993 of
+$43,409,000 increased $1,887,000 or 5% from $41,522,000 in 1992. The higher
+polished diamond sales for 1993 were due to increased demand in Europe and the
+overall comparatively lower level of polished diamond sales in the prior year.
+Sales of rough diamonds increased 4% in 1993.
+
+
+Gross Profit
+
+     The Company's gross margin on net sales of polished diamonds includes all
+overhead costs associated with the purchase, sale and manufacture of rough
+stones (the "Polished Diamond Gross Margin"). Polished Diamond Gross Margin was
+24%, an increase of 4% from 1993 level of 20%. The increase was due to the mix
+of polished diamonds sold wherein a greater proportion of higher quality stones
+and large stones were sold during 1994 than in 1993.
+
+
+4
+
+<PAGE>
+<PAGE>
+
+
+     The gross margin on sales of rough stones not selected for manufacturing,
+including an allocation of overhead costs estimated to be associated with the
+purchase and sale of rough stones, has been traditionally below 3%.
+
+     During 1994, the combined gross margin on net sales of both polished
+diamonds and rough diamonds was 8.0%. This compares to 7.1% in 1993 and 7.6% in
+1992. The higher margin in 1994 was attributable to a higher gross margin on
+polished sales and slightly higher margin on overall sales of rough stones.
+
+     Polished Diamond Gross Margin was 20% in 1993, a decrease of 2% from the
+1992 level of 22%. The decrease was primarily due to the mix of polished
+diamonds sold as well as the inability of the Company to pass along to its
+customers a price increase from its principal supplier.
+
+
+Selling, General and Administrative Expenses
+
+     Selling, general and administrative expenses in 1994 of $9,833,000
+increased 9% or $856,000 compared with expenses of $8,977,000 in 1993. The
+increase was primarily due to the inclusion of expenses associated with the
+Company's operations in Botswana of approximately $749,000. In 1993 these
+expenses were being deferred until the commencement of full operations at that
+location. On a comparable basis, excluding the costs associated with the
+Botswana operation, selling, general and administrative costs were up 1% in
+1994.
+
+     In 1993, selling, general and administrative expenses of $8,977,000
+decreased 15% or $1,581,000 compared with expenses of $10,558,000 in 1992. The
+decrease was due to an overall reduction in the Company's general operating
+expenses, including legal and consulting ($342,000), lower selling and marketing
+expenses ($222,000), and decreased payroll costs of $722,000 which included the
+capitalization of costs ($285,000) associated with the start-up of the Botswana
+operation.
+
+     During 1992 the Company closed its rough diamond buying operation in Sierra
+Leone. This was due to poor performance and the ultimate poor outlook for this
+venture. In 1992 the Company incurred costs of $422,000 associated with this
+operation. These costs were primarily composed of payroll, travel expenditures
+and fixed assets.
+
+
+Interest Expense
+
+     In 1994, interest expense was $4,003,000 which was offset by $256,000 of
+interest income as compared to interest expense of $3,197,000 offset by $190,000
+of interest income in 1993 and interest expense of $3,191,000 in 1992 offset by
+$357,000 of interest income. The increase in interest expense in 1994 was due to
+higher average short-term borrowings of $14,371,000 in 1994 as compared to
+$6,175,000 in 1993, and a full year of the higher interest rate charged on the
+Senior Notes (See Note 6 to the Financial Statements).
+
+     The increase in interest expense in 1993 was due to increased short-term
+borrowings in 1993 as compared to 1992 and the higher interest rate charged on
+the Senior Notes (See Note 6 to the Financial Statements) which was partially
+offset by a capitalization of interest costs in Botswana related to the
+construction of the new factory.
+
+
+Taxes
+
+     During 1992, the Internal Revenue Service ("IRS") completed its examination
+of the Company's Puerto Rico Federal tax returns for the taxable years ended May
+31, 1987 and May 31, 1988. The IRS made an adjustment relating to the imputation
+of interest on intercompany account balances resulting in an assessment of
+$503,000. The Company agreed to this settlement and paid this assessment during
+December, 1991. Beginning in 1989, the Company began to file a consolidated
+Federal income tax return with its Puerto Rico operation and on November 1,
+1993, the Puerto Rico subsidiary was merged into the Company. Therefore, the
+Company does not believe that the adjustments made by the IRS for these years
+will reoccur.
+
+
+Income/(Loss) Per Share
+
+     During 1994, 1993 and 1992 income/(loss) per share was computed based on
+the weighted average number of shares outstanding including, as appropriate, the
+exercise of stock options during the period. For 1994, income per share was $.49
+as compared to loss per share of $.15 in 1993 and loss per share of $.48 in
+1992.
+
+
+Foreign Operations
+
+     International business represents a major portion of the Company's revenues
+and profits. All foreign sales are denominated in U.S. dollars and all pur-
+
+
+                                                                            5
+
+<PAGE>
+<PAGE>
+
+
+                MANAGEMENT'S DISCUSSION AND ANALYSIS
+                         (Continued)
+
+
+chases of rough diamonds worldwide are denominated in U.S. dollars. Therefore,
+the Company does not experience any foreign currency exposure on its
+international business. In addition, the functional currency for Lazare Kaplan
+Botswana (Pty) Ltd. is the U.S. dollar and therefore, it is not affected by any
+foreign currency translation adjustments.
+
+
+Liquidity-Capital Resources
+
+     The Company's working capital at May 31, 1994 was $52,333,000, a decrease
+of $677,000 from 1993.  This decrease was due primarily to the
+reclassification, for the first time, to current liabilities of the portion of
+the Senior Notes which are due within one year.  Without the inclusion of this
+item, working capital increased by $3,608,000 reflecting higher inventory
+levels associated with the Company's new operation in Botswana, and higher
+accounts receivable levels.
+
+     The Company's working capital at May 31, 1993 was $53,011,000, a decrease
+of $8,068,000 from 1992. The decrease in working capital was attributable to an
+increase in short-term borrowings in 1993 of $9,005,000 as compared to a minimal
+amount of borrowings in 1992 and the net loss incurred during the fiscal year.
+These borrowings were used primarily to finance the operations of the Company's
+Botswana facility.
+
+     Net fixed asset additions totaled $1,033,000, $3,500,000 and $2,000,000 in
+1994, 1993 and 1992, respectively. The increase in net fixed asset additions in
+1993 compared to 1992 was primarily attributable to the construction by the
+Company of a cutting and polishing factory and a training facility in Botswana.
+The factory, completed during 1993, is a state-of-the-art facility, using both
+automated and manual equipment and will ultimately be able to employ 500 skilled
+workers. During 1994, $735,000 of fixed assets were placed in service in
+Botswana. During 1993, $1,019,000 of fixed assets were placed in service and
+$2,385,000 was added to the cost of the newly constructed building.
+
+     During August, 1994, the Company completed its transaction with the
+Botswana Development Corporation ("BDC") whereby the BDC invested 21.8
+million pula (approximately $8.0 million) for an equity position in Lazare
+Kaplan Botswana (Pty) Ltd. The investment is in the form of common shares
+and cumulative, redeemable, non-voting, participating preference shares.
+Following this transaction, the Company owns 60% of Lazare Kaplan
+Botswana (Pty) Ltd., the BDC owns 34.9% and the Government of Botswana
+owns 5.1%.
+
+     In May, 1991, the Company, through a private placement, issued $30,000,000
+of 9.97% Senior Notes, due May 15, 2001. A portion of the net proceeds of the
+Senior Notes were used to repay the Company's short-term bank indebtedness
+outstanding and the balance was invested in a money market fund. These Senior
+Notes were amended on December 1, 1992 to revise the consolidated fixed charge
+ratio and increase the interest rate to 10.47% through August 31, 1994.
+
+     The Company has short-term lines of credit with three banks. The agreements
+provide that the Company may borrow up to $20.0 million, in the aggregate. Two
+of the facilities carry an interest rate at each respective bank's prime rate
+and the third facility carries an interest rate of one-eighth of a percent above
+the bank's prime rate. The term of one of the agreements is until September 30,
+1994, the second expires October 31, 1994, and the third expires on November 30,
+1994. As of May 31, 1994 there was a $9,900,000 balance outstanding on these
+facilities. The Company believes that each credit facility will be extended on
+its respective renewal date.
+
+     The Company has a $3.0 million credit facility, payable on demand, at a
+rate of one-half of one percent above the six-month London Interbank Offered
+Rate for Eurodollars. At May 31, 1994, the full amount of this facility had been
+drawn upon.
+
+     Management believes the Company has the ability to meet its current and
+anticipated financing needs.
+
+     Stockholders' equity was $38,751,000 at May 31, 1994, $35,671,000 at May
+31, 1993 and $36,573,000 at May 31, 1992. The increase in 1994 is attributable
+to the net income earned during the period. The decrease in 1993 is attributable
+to the net loss during the period. Stockholders received no dividends in 1994,
+1993 or 1992.
+
+
+6
+
+<PAGE>
+<PAGE>
+
+            LAZARE KAPLAN INTERNATIONAL INC. AND SUBSIDIARIES
+
+               CONSOLIDATED STATEMENTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+                                                    Year Ended May 31
+- - -------------------------------------------------------------------------------
+(In thousands, except per share data)        1994          1993          1992
+- - -------------------------------------------------------------------------------
+<S>                                      <C>           <C>           <C>
+Net Sales (Note 1)                       $  204,047    $  158,075    $  151,875
+Cost of Sales (Note 1)                      187,664       146,819       140,348
+- - -------------------------------------------------------------------------------
+                                            16,383        11,256        11,527
+- - -------------------------------------------------------------------------------
+Selling, general and administrative
+  expenses                                    9,833         8,977        10,558
+Sierra Leone expenses                           -             -             422
+Interest expense--net of interest income
+  of $256, 1994, $190, 1993 and $357, 1992    3,747         3,007         2,834
+- - -------------------------------------------------------------------------------
+                                             13,580        11,984        13,814
+- - -------------------------------------------------------------------------------
+Income/(loss) before income tax provision
+  and minority interest                       2,803         (728)       (2,287)
+Income tax provision (Notes 1 and 3)            118           175           664
+- - -------------------------------------------------------------------------------
+  Income/(loss) before minority interest      2,685         (903)       (2,951)
+Minority interest in loss of consolidated
+  subsidiary                                    339           -            -
+- - -------------------------------------------------------------------------------
+  NET INCOME/(LOSS)                      $    3,024     $   (903)    $  (2,951)
+- - -------------------------------------------------------------------------------
+INCOME/(LOSS) PER SHARE (NOTE 1)              $0.49       $(0.15)       $(0.48)
+- - -------------------------------------------------------------------------------
+Weighted average number of shares
+  outstanding                             6,226,708     6,121,680     6,121,680
+- - -------------------------------------------------------------------------------
+See notes to consolidated financial statements.
+
+</TABLE>
+
+
+                                                                              7
+<PAGE>
+<PAGE>
+
+            LAZARE KAPLAN INTERNATIONAL INC. AND SUBSIDIARIES
+
+          CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+<TABLE>
+<CAPTION>
+                                          Additional                   Total
+                           Common         Paid-in       Retained    Stockholders'
+(In thousands)             Stock          Capital       Earnings       Equity
+- - --------------------------------------------------------------------------------
+<S>                         <C>           <C>            <C>           <C>
+Balance, May 31, 1991      $6,122         $25,837        $ 7,566       $39,525
+Net Loss                      -              -           (2,951)       (2,951)
+- - --------------------------------------------------------------------------------
+Balance, May 31, 1992       6,122          25,837          4,615        36,574
+Net Loss                      -              -             (903)         (903)
+- - --------------------------------------------------------------------------------
+Balance, May 31, 1993       6,122          25,837          3,712        35,671
+Net Income                    -              -             3,024         3,024
+Exercise of Stock Options,
+  9,426 shares issued           9              47           -               56
+- - --------------------------------------------------------------------------------
+Balance, May 31, 1994      $6,131         $25,884        $ 6,736       $38,751
+- - --------------------------------------------------------------------------------
+See notes to consolidated financial statements.
+
+</TABLE>
+
+
+8
+
+<PAGE>
+<PAGE>
+
+
+            LAZARE KAPLAN INTERNATIONAL INC. AND SUBSIDIARIES
+
+                 CONSOLIDATED BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                              May 31,
+- - --------------------------------------------------------------------------------
+(In thousands)                                        1994               1993
+- - --------------------------------------------------------------------------------
+<S>                                                  <C>                <C>
+Assets
+CURRENT ASSETS:
+  Cash                                               $   914            $   553
+  Notes and accounts receivable, less allowance
+    for doubtful accounts and sales returns and
+    allowances ($165, 1994 and $672, 1993)            23,200             20,159
+  Inventories (Note 1):
+    Rough stones                                      14,467             11,943
+    Polished stones                                   39,019             36,550
+                                                      -------------------------
+      Total inventories                               53,486             48,493
+  Prepaid expenses and other current assets            3,255              4,058
+- - --------------------------------------------------------------------------------
+      TOTAL CURRENT ASSETS                            80,855             73,263
+PROPERTY, PLANT AND EQUIPMENT, net (Notes 1 and 2)     6,253              6,314
+OTHER ASSETS                                           6,070              6,875
+- - --------------------------------------------------------------------------------
+                                                     $93,178            $86,452
+- - --------------------------------------------------------------------------------
+Liabilities and Stockholders' Equity
+CURRENT LIABILITIES:
+  Notes payable--banks (Note 5)                      $ 9,900            $ 9,005
+  Notes payable--other (Note 5)                        3,000              3,000
+  Current portion of long-term debt (Note 6)           4,285                -
+  Accounts payable and other current liabilities
+    (Notes 1 and 4)                                   11,337              8,247
+- - --------------------------------------------------------------------------------
+      TOTAL CURRENT LIABILITIES                       28,522             20,252
+SENIOR NOTES (Note 6)                                 25,715             30,000
+- - --------------------------------------------------------------------------------
+      TOTAL LIABILITIES                               54,237             50,252
+- - --------------------------------------------------------------------------------
+COMMITMENTS AND CONTINGENCIES (Note 8)
+MINORITY INTEREST (Note 1)                               190                529
+STOCKHOLDERS' EQUITY (Note 7)
+  Common Stock, par value $1 per share:
+    Authorized, 10,000,000 shares
+    Outstanding, 6,131,106 shares, 1994
+      and 6,121,680 shares, 1993                       6,131              6,122
+  Additional paid-in capital                          25,884             25,837
+  Retained earnings                                    6,736              3,712
+- - --------------------------------------------------------------------------------
+      TOTAL STOCKHOLDERS' EQUITY                      38,751             35,671
+- - --------------------------------------------------------------------------------
+                                                     $93,178            $86,452
+- - --------------------------------------------------------------------------------
+See notes to consolidated financial statements.
+
+</TABLE>
+
+
+<PAGE>
+<PAGE>
+
+
+            LAZARE KAPLAN INTERNATIONAL INC. AND SUBSIDIARIES
+
+               CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<TABLE>
+<CAPTION>
+                                                    Years Ended May 31,
+- - --------------------------------------------------------------------------------
+(In thousands)                               1994          1993          1992
+- - --------------------------------------------------------------------------------
+<S>                                        <C>           <C>          <C>
+Cash Flows From Operating Activities:
+Net income (loss)                          $  3,024      $  (903)     $ (2,951)
+Adjustments to reconcile net income/
+  (loss) to net cash provided by
+  (used in) operating activities:
+    Depreciation and amortization             1,899           893           742
+    Provision for uncollectible accounts        170            86           199
+    Minority interest in loss of
+      consolidated subsidiary                 (339)           -             -
+    Gain on sale of fixed assets                -             -           (109)
+(Increase)/decrease in assets and
+  increase/(decrease) in liabilities:
+    Notes and accounts receivable           (3,211)       (5,138)       (3,385)
+    Inventories                             (4,993)           111         5,813
+    Prepaid expenses and other
+      current assets                            803       (1,061)       (1,092)
+    Other assets                                -         (4,510)       (1,335)
+    Accounts payable and other
+      current liabilities                     3,029         (405)         1,234
+                                          -------------------------------------
+Net cash provided by (used in)
+  operating activities                          382      (10,927)         (884)
+- - --------------------------------------------------------------------------------
+Cash Flows From Investing Activities:
+Proceeds from sale of fixed assets              -             -             167
+Capital expenditures                          (972)       (3,300)       (2,000)
+                                          -------------------------------------
+Net cash used in investing activities         (972)       (3,300)       (1,833)
+- - --------------------------------------------------------------------------------
+Cash Flows From Financing Activities:
+Increase in short-term borrowings               895         9,005            -
+Proceeds from exercise of stock options          56           -              -
+                                          -------------------------------------
+Net cash provided by financing activities       951         9,005            -
+- - --------------------------------------------------------------------------------
+Net increase/(decrease) in cash                 361       (5,222)       (2,717)
+Cash at beginning of year                       553         5,775         8,492
+                                          -------------------------------------
+Cash at end of year                        $    914      $    553      $  5,775
+- - --------------------------------------------------------------------------------
+Supplemental Disclosures of
+  Cash Flow Information:
+Cash paid during the year for:
+Interest expense                           $  4,003      $  3,197      $  3,191
+Income taxes                                    239           209           782
+- - --------------------------------------------------------------------------------
+Supplemental Schedule of
+  Non-Cash Financing Activities:
+Capitalized Leases                         $     61     $     249            -
+Land                                            -              64            -
+License fee                                     -             465            -
+- - --------------------------------------------------------------------------------
+See notes to consolidated financial statements.
+
+</TABLE>
+
+
+10
+
+
+<PAGE>
+<PAGE>
+
+         LAZARE KAPLAN INTERNATIONAL INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+              Years ended May 31, 1994, 1993 and 1992
+
+1. Accounting Policies
+
+a. The Company and its principles of consolidation
+
+     The Company and its subsidiaries are engaged in the cutting, polishing
+and selling of diamonds and the trading of uncut rough diamonds. The
+consolidated financial statements include the accounts of the Company and its
+subsidiaries, all of which are wholly owned except for Lazare Kaplan Botswana
+(Pty) Ltd. which was owned 85% by the Company at May 31, 1994, 1993 and 1992.
+Minority interest represents the minority stockholders' proportionate share of
+the equity of Lazare Kaplan Botswana (Pty) Ltd. All material intercompany
+balances and transactions have been eliminated.
+
+b. Sales, sales returns and allowances
+
+     The Company records sales when title to stones passes to the customer. A
+provision for returns and allowances is provided concurrent with the recording
+of sales. The provision is based upon historical trends and management's
+estimate of industry conditions.
+
+     The Company's net sales to customers in each of the following regions
+for the years ended May 31, 1994, 1993 and 1992 are set forth below:
+
+<TABLE>
+<CAPTION>
+                              1994    1993    1992
+- - ----------------------------------------------------
+<S>                           <C>     <C>     <C>
+United States                  16%     16%     18%
+Pacific Rim                     6%     10%     13%
+Europe, Israel & other         78%     74%     69%
+- - ----------------------------------------------------
+                              100%    100%    100%
+- - ----------------------------------------------------
+</TABLE>
+
+     No single customer of the Company accounted for 10% or more of the
+Company's net sales for the fiscal years ending May 31, 1994, 1993 and 1992.
+
+c. Inventories
+
+     Inventories are stated at the lower of cost, using the first-in, first-
+out method, or market.
+
+d. Property, plant and equipment
+
+     Property, plant and equipment is stated at cost less accumulated
+depreciation and amortization. Depreciation and amortization is provided by the
+straight-line method over the shorter of asset lives or lease terms.
+
+e. Deferred costs
+
+     The Company deferred the recognition of certain costs for professional
+fees, travel and total staffing incurred during the construction and  training
+period of the Company's cutting and polishing facility in Botswana. Such costs
+included only direct and incremental costs incurred during the start-up period.
+These costs are being amortized over a five year period which began on June 1,
+1993.
+
+f. Foreign currency
+
+     All foreign sales of the Company are denominated in U.S. dollars and all
+purchases of rough diamonds worldwide are denominated in U.S. dollars.
+Therefore, the Company does not experience any foreign currency exposure on its
+international business. In addition, the functional currency for Lazare Kaplan
+Botswana (Pty) Ltd. is the U.S. dollar and therefore, it is not affected by any
+foreign currency translation adjustments.
+
+g. Income taxes
+
+     For the years ended May 31, 1993 and 1992, the Company and its
+subsidiary operating in the United States including Puerto Rico filed a
+consolidated income tax return. On November 1, 1993, the Puerto Rican subsidiary
+was merged into the Company. The Company's foreign subsidiaries are not subject
+to Federal income taxes and their provisions for income taxes have been computed
+based on the effective tax rates, if any, in the foreign countries.
+
+     There were no taxable dividends paid to the Company from foreign
+subsidiaries during 1994.
+
+h. Income/(loss) per share
+
+     Income/(loss) per share is computed based on the weighted average number
+of shares outstanding, including, as appropriate, the exercise of stock options,
+during each period.
+
+i. Accounting Standards
+
+     In late 1992, the FASB issued Statement of Financial Accounting
+Standards ("SFAS") No. 112, "Employers' Accounting for Postemployment Benefits,"
+requiring that a liability be recorded for postemployment benefits which meet
+certain conditions. Typical postemployment benefits include salary continuation,
+supplemental unemployment benefits, severance benefits, disability related
+benefits (including workers' compensation), job training and counseling, and
+continuation of benefits such as health care and life insurance coverage. The
+adoption of this Statement, which is not required until fiscal 1995, is not
+expected to have a material effect on the Company's consolidated financial
+statements.
+
+                                                   11
+
+<PAGE>
+<PAGE>
+
+
+
+         LAZARE KAPLAN INTERNATIONAL INC. AND SUBSIDIARIES
+
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                      (Continued)
+
+2. Property, Plant and Equipment
+
+     Property, plant and equipment consists of (in thousands):
+
+<TABLE>
+<CAPTION>
+                                     May 31,
+- - --------------------------------------------------
+                                 1994        1993
+- - --------------------------------------------------
+<S>                            <C>         <C>
+Land and buildings             $ 4,126     $ 4,145
+Leasehold improvements           1,114       1,114
+Machinery, tools and equipment   4,612       3,767
+Furniture and fixtures             898         838
+Computer installation            2,118       1,988
+- - --------------------------------------------------
+                                12,868      11,852
+Less accumulated depreciation
+ and amortization                6,615       5,538
+- - --------------------------------------------------
+                               $ 6,253     $ 6,314
+- - --------------------------------------------------
+Depreciation and amortization rates:
+- - --------------------------------------------------
+Buildings                                2 to 3.7%
+Leasehold improvements                  3.7 to 20%
+Machinery, tools and equipment           10 to 25%
+Furniture and fixtures                   10 to 20%
+Computer installation                    10 to 33%
+- - --------------------------------------------------
+</TABLE>
+
+3. Income Taxes
+
+     Effective June 1, 1993, the Company has provided for deferred income
+taxes in accordance with SFAS No. 109, "Accounting for Income Taxes", whereby
+deferred income taxes are determined based upon the enacted income tax rates for
+the years in which these taxes are estimated to be payable or recoverable. The
+Company had previously accounted for income taxes under Accounting Principles
+Board Opinion No. 11. The adoption of SFAS No. 109 did not have a material
+impact on the Company's consolidated financial statements. Deferred income taxes
+reflect the net tax effects of (a) temporary differences between the carrying
+amounts of assets and liabilities for financial reporting purposes and the
+amounts used for income tax purposes, and (b) operating loss carryforwards. The
+items comprising the Company's net deferred tax liabilities as of May 31, 1994
+are as follows (in thousands):
+
+<TABLE>
+<S>                                         <C>
+Deferred tax liabilities:
+ Depreciation                               $1,500
+Deferred tax assets:
+ Operating loss and other carryforwards     13,200
+ Other                                         300
+- - --------------------------------------------------
+                                            12,000
+Less: Valuation allowance                  (12,000)
+- - --------------------------------------------------
+Net deferred-tax liabilities                    $0
+- - --------------------------------------------------
+</TABLE>
+
+     The income tax provision is comprised of the following (in thousands):
+<TABLE>
+<CAPTION>
+                           Year ended May 31,
+- - --------------------------------------------------
+                         1994      1993       1992
+- - --------------------------------------------------
+<S>                      <C>       <C>        <C>
+Current:
+Federal                  $ 68      $ -        $449
+State and local           185       130         86
+Foreign                    70        45        129
+- - --------------------------------------------------
+                          323       175        664
+- - --------------------------------------------------
+Deferred:
+Federal                   (68)       -          -
+State and local          (137)       -          -
+- - --------------------------------------------------
+                         (205)       -          -
+- - --------------------------------------------------
+                        $ 118      $175       $664
+- - --------------------------------------------------
+</TABLE>
+
+     The tax provision is different from amounts computed by applying the
+Federal income tax rate to the income before taxes as follows (in thousands):
+<TABLE>
+<CAPTION>
+- - --------------------------------------------------
+                          1994     1993       1992
+- - --------------------------------------------------
+<S>                    <C>        <C>        <C>
+Tax provision (benefit)
+ at statutory rate     $   953    $(247)     $(778)
+(Decrease)/increase in
+ taxes resulting from:
+  Net (income)/loss
+   from foreign
+   subsidiaries not sub-
+   ject to Federal tax     694      (60)       127
+  IRS prior years
+   assessment               -         -        503
+  Foreign taxes paid        70       45        129
+  State and local taxes,
+   net of Federal benefit   48      130         86
+  Refund of prior
+   years tax                -         -        (54)
+  Net operating loss
+   carryforward arising
+   in current year not
+   resulting in current
+   benefit                  -       307        651
+  Utilization of
+   net operating loss
+   carryforwards        (1,647)       -         -
+- - --------------------------------------------------
+Actual tax provision    $  118    $ 175      $ 664
+- - --------------------------------------------------
+</TABLE>
+
+12
+
+<PAGE>
+<PAGE>
+
+
+
+     The Company has available Federal net operating losses to offset future
+taxable income which expire as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                             Net
+                                          operating
+Year                                        losses
+- - --------------------------------------------------
+<S>                                     <C>
+1998                                     $  12,100
+1999                                         4,200
+2000                                         4,300
+2001                                         3,500
+2002                                           500
+2007                                         1,000
+2008                                         1,500
+- - --------------------------------------------------
+                                         $  27,100
+- - --------------------------------------------------
+</TABLE>
+
+     In addition, the Company has New York State and New York City net
+operating loss carryforwards of approximately $29,700,000 each, expiring from
+1997 to 2008. The Company has Puerto Rico net operating loss carryforwards of
+approximately $4,900,000 expiring from 1996 through 2001 and Botswana net
+operating loss carryforwards of approximately $4,400,000 expiring from 1998
+through 1999.
+
+     During 1992, the Internal Revenue Service ("IRS") completed its
+examination of the Company's Puerto Rico Federal tax return for the taxable
+years ended May 31, 1987 and May 31, 1988. The IRS made an adjustment relating
+to the imputation of interest on intercompany account balances resulting in an
+assessment of $503,000, which was paid by the Company.
+
+4. Accounts Payable and Other
+   Current Liabilities
+
+     Accounts payable and other current liabilities consist of (in
+thousands):
+
+<TABLE>
+<CAPTION>
+                                    1994     1993
+- - --------------------------------------------------
+<S>                                <C>      <C>
+Accounts payable                   $ 4,422  $4,861
+Accrued expenses and
+ income taxes                        6,915   3,386
+- - --------------------------------------------------
+                                   $11,337  $8,247
+- - --------------------------------------------------
+</TABLE>
+
+5. Lines of Credit
+
+     The Company has unsecured lines of credit with three banks. The
+agreements provide that the Company may borrow up to $20.0 million, in the
+aggregate. Two of the facilities carry an interest rate at the bank's prime rate
+and the third facility carries an interest rate of one-eighth of a percent above
+the bank's prime rate (which was 7.25% on May 31). The term of the first
+agreement is until September 30, 1994, the second expires on October 31, 1994
+and the third expires on November 30, 1994. At May 31, 1994, $9,900,000 was
+outstanding.
+
+     The Company has a $3.0 million credit facility, payable on demand, at a
+rate of one-half of one percent above the six-month London Interbank Offered
+Rate (which was 5.38% on June 12). At May 31, 1994, the full amount of this
+facility had been drawn upon.
+
+6. Senior Notes
+
+     In May, 1991 the Company, through a private placement, issued
+$30,000,000 of unsecured 9.97% Senior Notes, due May 15, 2001. Interest is
+payable semi-annually every May 15 and November 15. Repayments of $4,285,000
+annually on May 15 will commence in 1995 and end in 2000 with the remaining
+principal of $4,290,000 payable on May 15, 2001. A portion of the net proceeds
+of the Senior Notes was used to repay the Company's short-term bank indebtedness
+outstanding after the closing. The remaining proceeds were invested in short-
+term interest bearing funds and were used for working capital and expansion.
+
+     Provisions of the Senior Notes require, among other things, (a)
+maintenance of defined levels of consolidated tangible net worth and current
+working capital, (b) limitation of borrowing levels and (c) limitations on
+restricted payments, including the amount of dividends. Under the provision of
+the Senior Notes, the Company is not permitted to declare or pay any dividends
+either in cash or property through August 31, 1994. Commencing September 1,
+1994, this restriction will be modified to allow the declaration of dividends
+subject to certain limitations set forth in the Senior Note Agreement.
+
+                                                                           13
+<PAGE>
+<PAGE>
+
+
+
+      LAZARE KAPLAN INTERNATIONAL INC. AND SUBSIDIARIES
+          NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                  (Continued)
+
+     On February 28, 1992, certain provisions of the Senior Notes were
+amended to modify the limitations relating to the incurrence of indebtedness,
+the making of restricted payments and to revise the consolidated fixed charge
+ratio. On March 25, 1992, the Senior Notes were again amended to modify the
+level of consolidated tangible net worth required to be maintained by the
+Company.
+
+     On December 1, 1992, the Senior Notes were amended to revise the
+consolidated fixed charge ratio and increase the interest rate to 10.47% through
+August 31, 1994.
+
+7. Stock Option Incentive Plan
+
+     A Stock Option Incentive Plan was approved by the Board of Directors on
+March 11, 1988 (the "1988 Plan"). The Plan has reserved 650,000 shares of the
+common stock of the Company for issuance to key employees of the Company and its
+subsidiaries.
+
+     The purchase price of each share of common stock subject to an incentive
+option under the 1988 Plan is not to be less than 100 percent of the fair market
+value of the stock on the day the option is granted (110 percent for 10 percent
+beneficial owners). The Compensation Committee determines the period or periods
+of time during which an option may be exercised by the participant and the
+number of shares as to which the option is exercisable during such period or
+periods, provided that the option period shall not extend beyond ten years (five
+years in the case of 10 percent beneficial owners) from the date the option is
+granted.
+
+     A summary of the Plan's activity for the three years ended May 31, 1994
+is as follows:
+
+<TABLE>
+<CAPTION>
+                                 Number
+                                of shares      Option price
+- - -------------------------------------------------------------
+<S>                              <C>           <C>
+Outstanding-June 1, 1991         239,558       $5.000-$11.275
+Options issued                   142,500       $6.000-$ 7.625
+Options cancelled                 (2,750)      $8.000-$10.875
+- - -------------------------------------------------------------
+Outstanding-May 31, 1992         379,308       $5.000-$11.275
+Options surrendered             (212,117)      $5.500-$11.275
+Options reissued                 212,117       $5.125-$ 5.638
+Options cancelled                 (3,725)      $5.000-$10.875
+Options issued                   144,950       $6.000-$ 6.600
+- - -------------------------------------------------------------
+Outstanding-May 31, 1993         520,533       $5.000-$ 7.625
+Options issued                   101,750       $6.000-$ 8.387
+Options exercised                (11,434)      $5.000-$ 8.000
+Options cancelled                (10,601)      $5.125-$ 7.625
+- - -------------------------------------------------------------
+Outstanding-May 31, 1994         600,248       $5.000-$ 8.387
+ (exercisable 293,605)
+- - -------------------------------------------------------------
+</TABLE>
+
+8. Commitments and Contingencies
+
+     Future minimum payments under noncancelable operating leases with
+initial terms of more than one year consist of the following at May 31, 1994 (in
+thousands):
+<TABLE>
+<CAPTION>
+                                          Operating
+Year                                        leases
+- - --------------------------------------------------
+<S>                                         <C>
+1995                                        $  507
+1996                                           436
+1997                                           340
+1998                                           321
+1999                                           321
+Thereafter                                   1,377
+- - --------------------------------------------------
+                                            $3,302
+- - --------------------------------------------------
+</TABLE>
+
+     Rental expenses, including additional charges paid for increases in real
+estate taxes, etc., for the years ended May 31, 1994, 1993 and 1992, were
+approximately $565,000, $438,000 and $476,000, respectively.
+
+9. Profit Sharing Plan
+
+     During 1990, the Company adopted a profit sharing and retirement plan
+subject to Section 401(k) of the Internal Revenue Code.  The plan covers all
+full-time employees who complete at least one year of service, or were
+full-time employees at January 1, 1990.  Participants may contribute up to a
+defined percentage of their annual compensation through salary deductions.  The
+Company intends to match contributions in an amount equal to $0.50 for every
+pretax dollar contributed up to the first 6% on the first $20,000 of
+compensation providing the Company's pretax earnings for that fiscal year
+exceeds $3,500,000.  The Company contributed approximately $54,000 in February,
+1992 for calendar 1991.  The Company did not make matching contributions for
+calendar 1993 or 1992.
+
+14
+
+
+
+<PAGE>
+<PAGE>
+
+
+
+10. Geographic Segment Information
+
+     Revenue, operating profit and income/(loss) before income tax provision
+and minority interest for the three years ended May 31, 1994 and identifiable
+assets at the end of each of those years, classified by geographic area which
+was determined by where sales originated from and where identifiable assets are
+held, were as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                        United                         Elimi-   Consoli-
+                                        States    Europe     Africa   nations     dated
+- - -------------------------------------------------------------------------------------------
+<S>                                     <C>        <C>       <C>       <C>         <C>
+Year ended May 31, 1994
+- - -----------------------
+Net sales to unaffiliated customers     $130,070   $73,921   $    56   $   -       $204,047
+Transfers between geographic areas        22,092    13,984     8,737    (44,813)       -
+                                        ---------------------------------------------------
+  Total revenue                         $152,162   $87,905   $ 8,793   $(44,813)   $204,047
+                                        ---------------------------------------------------
+Operating profit                        $ 15,663   $   772   $    85   $   (137)   $ 16,383
+                                        ---------------------------------------------------
+Income/(loss) before income tax
+ provision and minority interest        $  4,990   $   420   $(2,461)  $   (146)   $  2,803
+                                        ---------------------------------------------------
+Identifiable assets at May 31, 1994     $ 92,628   $ 8,386   $20,374   $(28,210)   $ 93,178
+- - -------------------------------------------------------------------------------------------
+Year ended May 31, 1993
+- - -----------------------
+Net sales to unaffiliated customers     $106,550   $51,474   $    51   $   -       $158,075
+Transfers between geographic areas         3,353     2,401     4,575    (10,329)       -
+                                        ---------------------------------------------------
+  Total revenue                         $109,903   $53,875   $ 4,626   $(10,329)   $158,075
+                                        ---------------------------------------------------
+Operating profit                        $ 10,491   $   711   $   129   $    (75)   $ 11,256
+                                        ---------------------------------------------------
+(Loss)/income before income tax
+ provision                              $   (828)  $   209   $   (34)  $    (75)   $   (728)
+                                        ---------------------------------------------------
+Identifiable assets at May 31, 1993     $ 84,839   $ 3,645   $14,795   $(16,827)   $ 86,452
+- - -------------------------------------------------------------------------------------------
+Year ended May 31, 1992
+- - -----------------------
+Net sales to unaffiliated customers     $119,122   $32,753      -      $   -       $151,875
+Transfers between geographic areas           218         8      -          (226)       -
+                                        ---------------------------------------------------
+  Total revenue                         $119,340   $32,761      -      $   (226)   $151,875
+                                        ---------------------------------------------------
+Operating profit                        $ 11,237   $   290      -      $   -       $ 11,527
+                                        ---------------------------------------------------
+(Loss) before income tax provision      $ (1,958)  $  (329)     -      $   -       $ (2,287)
+                                        ---------------------------------------------------
+Identifiable assets at May 31, 1992     $ 83,165   $ 4,366      -      $ (9,554)   $ 77,977
+- - -------------------------------------------------------------------------------------------
+
+</TABLE>
+
+
+     The identifiable assets which are included in the eliminations primarily
+represent advances to affiliates. These advances are included therein since the
+Company, which is the parent company, finances the operations of these
+affiliates.
+
+
+11. Subsequent Event
+
+      On August 31, 1994, the Company completed its transaction with the
+Botswana Development Corporation ("BDC") whereby the BDC invested 21.8
+million pula (approximately $8.0 million) for an equity position in Lazare
+Kaplan Botswana (Pty) Ltd. The investment is in the form of common shares
+and cumulative, redeemable, non-voting, participating preference shares.
+Following this transaction, the Company owns 60% of Lazare Kaplan Botswana
+(Pty) Ltd., the BDC owns 34.9% and the Government of Botswana owns 5.1%.
+
+
+                                                                         15
+
+<PAGE>
+<PAGE>
+
+
+
+               INDEPENDENT AUDITORS' REPORT
+
+
+
+Board of Directors and Stockholders
+Lazare Kaplan International Inc.
+New York, New York
+
+
+     We have audited the accompanying consolidated balance sheets of Lazare
+Kaplan International Inc.  and subsidiaries as of May 31, 1994 and 1993, and
+the related consolidated statements of operations, stockholders' equity and
+cash flows for each of the three years in the period ended May 31, 1994.  These
+financial statements are the responsibility of the Company's management.  Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+     We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+     In our opinion, such consolidated financial statements present fairly,
+in all material respects, the financial position of Lazare Kaplan International
+Inc. and subsidiaries as of May 31, 1994 and 1993 and the results of their
+operations and their cash flows for each of the three years in the period ended
+May 31, 1994 in conformity with generally accepted accounting principles.
+
+
+
+
+
+Deloitte & Touche LLP
+
+New York, New York
+July 13, 1994
+(August 31, 1994 as to Note 11)
+
+
+16
+
+
+<PAGE>
+<PAGE>
+
+
+
+
+            LAZARE KAPLAN INTERNATIONAL INC. AND SUBSIDIARIES
+
+                          CORPORATE INFORMATION
+
+Corporate Headquarters
+
+529 Fifth Avenue
+New York, New York 10017
+Telephone (212) 972-9700
+
+Subsidiaries
+
+Lazare Kaplan (Sierra Leone) Limited
+Lazare Kaplan Japan Inc.
+Lazare Kaplan Belgium, N.V.
+Lazare Kaplan Europe Inc.
+Lazare Kaplan Africa Inc.
+Lazare Kaplan Botswana (Pty) Limited
+Lazare Kaplan Ghana Ltd.
+Lazare Kaplan (Bermuda) Ltd.
+Kaplan Offshore Trading Company
+Supreme Gems N.V.
+Lazare Kaplan Belgium Jewelry N.V.
+
+Directors and Officers
+
+Maurice Tempelsman
+Director;
+Chairman of the Board
+
+Leon Tempelsman
+Director;
+Vice Chairman of the  Board
+and President
+
+George R. Kaplan
+Director;
+Vice Chairman of the Board
+
+Michael W. Butterwick
+Director;
+Business Consultant
+
+Lucien Burstein
+Director;
+Secretary
+Partner
+Warshaw Burstein Cohen
+Schlesinger & Kuh
+(attorneys)
+
+Myer Feldman
+Director;
+Partner
+Ginsburg, Feldman and Bress,
+Chartered (attorneys)
+
+Sheldon L. Ginsberg
+Director;
+Chief Financial Officer and
+Vice President
+
+Robert Speisman
+Director;
+Vice President-Sales
+
+Registrar and Transfer Agent
+
+Mellon Bank N.A.
+P.O. Box 444
+Pittsburgh, PA 15230
+
+Counsel
+
+Warshaw Burstein Cohen
+Schlesinger & Kuh
+555 Fifth Avenue
+New York, New York 10017
+
+Accountants
+
+Deloitte & Touche LLP
+1633 Broadway
+New York, New York 10019
+
+<PAGE>
+<PAGE>
+
+
+
+                                                               EXHIBIT 21
+
+
+
+                     LIST OF SUBSIDIARIES OF
+                 LAZARE KAPLAN INTERNATIONAL INC.
+
+
+
+
+NAME                                              ORGANIZED UNDER LAWS OF
+- - ----                                              -----------------------
+
+
+Lazare Kaplan (Sierra Leone) Limited              Sierra Leone
+
+Lazare Kaplan Japan Inc.                          Delaware
+
+Lazare Kaplan Europe Inc.                         Delaware
+
+Lazare Kaplan Belgium, N.V.                       Belgium
+
+Lazare Kaplan Africa Inc.                         Delaware
+
+Lazare Kaplan Botswana (Pty) Limited              Botswana
+
+Lazare Kaplan Ghana Ltd.                          Bermuda
+
+Lazare Kaplan (Bermuda) Ltd.                      Bermuda
+
+Kaplan Offshore Trading Company                   Bermuda
+
+Supreme Gems N.V.                                 Belgium
+
+Lazare Kaplan Belgium Jewelry N.V.                Belgium
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

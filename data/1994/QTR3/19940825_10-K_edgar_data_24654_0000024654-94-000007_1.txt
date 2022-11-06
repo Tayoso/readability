@@ -1,0 +1,2711 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ jPZtHoziHkpPNtl7D0uxazbGveMgcxzulxYKukxgPluKzYZX69kJqXsmpQ7b/zlE
+ fu+8vbHNOtVSnOpAKESf7Q==
+
+<IMS-DOCUMENT>0000024654-94-000007.txt : 19940831
+<IMS-HEADER>0000024654-94-000007.hdr.sgml : 19940831
+ACCESSION NUMBER:		0000024654-94-000007
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940825
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CORDIS CORP
+		CENTRAL INDEX KEY:			0000024654
+		STANDARD INDUSTRIAL CLASSIFICATION:	3841
+		IRS NUMBER:				590870525
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-03274
+		FILM NUMBER:		94545959
+
+	BUSINESS ADDRESS:	
+		STREET 1:		14201 NW 60 AVE
+		CITY:			MIAMI LAKES
+		STATE:			FL
+		ZIP:			33014
+		BUSINESS PHONE:		3058242000
+
+	MAIL ADDRESS:	
+		STREET 1:		14201 N W 60TH
+		CITY:			MIAMI LAKES
+		STATE:			FL
+		ZIP:			33014
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>SEC FORM 10-K
+<TEXT>
+
+             UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+
+                          Washington, D.C. 20549
+
+                                 FORM 10-K
+
+ ( X )      Annual Report Pursuant to Section 13 or 15(d) of the Securities
+            Exchange Act of 1934 (Fee Required)
+
+            For the fiscal year ended June 30, 1994
+
+                                    or
+
+ (   )      Transition Report Pursuant to Section 13 or 15(d) of the Securities
+            Exchange Act of 1934 (No Fee Required)
+
+            For the transition period from
+
+                                      to
+
+            Commission File Number 0-3274
+
+                            CORDIS CORPORATION
+
+Incorporated in the                                      I.R.S. Employer
+State of Florida                              Identification No. 59-0870525
+
+            14201 N.W. 60th Avenue, Miami Lakes, Florida 33014
+
+                              (305) 824-2000
+
+        Securities registered pursuant to Section 12(b) of the Act:
+
+                                   None
+
+        Securities registered pursuant to Section 12(g) of the Act:
+
+                         Common Stock $1 Par Value
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  Yes   X    No      
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the 
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  (   )
+
+The aggregate market value of voting stock held by non-affiliates of Cordis
+Corporation was approximately $681.9 million at August 22, 1994.
+
+At August 22, 1994, 16,012,582 shares of common stock were outstanding.
+
+                    DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the Proxy Statement for the Annual Meeting of Stockholders to be 
+held October 27, 1994, are incorporated by reference into Part III.
+
+There are 44 pages included in this Form 10-K Report.  The exhibit index is at
+page 39.                                 
+
+                                    Part I
+
+Item 1.  Business
+
+General Development of Business and Industry Segments
+
+The Company was incorporated in the State of Florida in 1959.  The Company has
+its principal headquarters at 14201 N.W. 60th Avenue, Miami Lakes, Florida 33014
+and its telephone number is (305) 824-2000.
+
+Effective in April 1994, the Company, through a wholly owned subsidiary, 
+acquired all of the outstanding stock of Webster Laboratories, Inc.("Webster"), 
+a company which develops and manufactures electrophysiology catheters for the 
+diagnosis and treatment of cardiac arrythmias (see Note 3 of Notes to
+Consolidated Financial Statements).  The transaction was accounted for as a 
+pooling of interests, and, accordingly, all prior year financial information 
+has been restated.
+
+The Company operates in a single industry segment consisting of the design,
+manufacture and sale of medical devices, primarily angiographic catheters,
+neuroscience devices and other related medical devices (See Note 9 of Notes to
+Consolidated Financial Statements).
+
+Description of Business
+
+The Company's net sales, with approximate breakdowns by major product class
+during the past three fiscal years, were as follows (in thousands): 
+
+                                               Years ended June 30,       
+                                    1994               1993           1992   
+                                                 
+                                             
+Angiographic products              $320,579           $250,322       $213,720  
+Neuroscience products                15,963             17,124         16,757
+
+        Total                      $336,542           $267,446       $230,477
+                                           
+
+Angiographic Products
+
+The Company manufactures an extensive line of angiographic devices for the
+diagnosis and treatment of various cardiovascular diseases.  The diagnostic
+devices include catheters and related equipment that are inserted into a
+patient's circulatory system to allow introduction of contrast media enabling a
+physician to study the heart, blood vessels and other soft-tissue organs for the
+purpose of determining the proper treatment of patients exhibiting disorders of
+such tissues.  Other diagnostic devices include electrophysiology catheters that
+are used to diagnose the patient's electrical system in order to identify and
+locate electrical conduction abnormalities.  The interventional devices include
+balloon dilatation catheters, guiding catheters, steerable guidewires and
+accessory products which are used to treat such patients. 
+
+Neuroscience Products
+
+The Company manufactures and sells several types of neuroscience products,
+including implantable cerebrospinal fluid ("CSF") shunts for the treatment of
+hydrocephalus (an excess accumulation of CSF in the ventricles of the brain) and
+disposable intracranial pressure monitoring and drainage systems. 
+
+Principal Markets, Methods of Distribution
+
+The Company's products are sold worldwide to hospitals, other medical
+institutions and physicians.  No customer individually accounts for a material
+amount of the Company's total sales. In the U.S., all products are sold directly
+through full-time employee sales representatives.  Outside the U.S., they are
+sold through employee sales representatives and distributors.  The Company
+maintains inventories of products in various locations worldwide.  Periodically,
+backlog orders have occurred, but none have been material to the Company's
+business.  An increasing number of hospitals in the U.S. participate in group
+purchase organizations.  These organizations negotiate prices on behalf of their
+member organizations.  The Company's business is generally not subject to
+seasonal fluctuations. 
+
+Sources and Availability of Raw Materials
+
+The Company's products incorporate components manufactured internally and others
+purchased from external suppliers.  Most purchased components could be obtained
+from multiple sources if necessary.
+
+Patents, Trademarks and Licenses
+
+The Company currently owns over 325 patents, has several patents pending on
+certain of its products and files applications to obtain patents on new
+inventions when practical.  Additionally, the Company has and endeavors to 
+obtain licenses from third parties for technology it deems necessary or 
+beneficial to the conduct of its business.  The industry in which the  
+Company competes has been characterized by rapid technological advances. The 
+Company does not believe its business is materially dependent on any individual 
+patent.
+
+Competition
+
+Success in the medical device field is dependent upon product quality,
+reliability, design features, service, price, and the relationship between the
+Company and the physicians utilizing the products.  The Company believes that 
+its product lines are competitive with other product lines in the market. 
+
+The Company's products compete with those of a number of other domestic and
+foreign manufacturers. In the sale of angiographic products the Company competes
+with several manufacturers, including C.R. Bard, Inc., Scimed Life Systems, Inc.
+and divisions of Eli Lilly and Company and Pfizer, Inc., some of whom compete in
+the sale of diagnostic products, others in the sale of interventional products,
+and some in both.  Based upon current information the Company believes that it
+is a leading provider of diagnostic angiographic products and a less substantial
+provider in the sale of interventional angiographic products. 
+
+With the rapid progress of medical technology the Company's products are always
+subject to the risk of obsolescence through the introduction of new products or
+techniques. 
+
+International Operations
+
+In addition to the U.S. manufacturing operations, the Company manufactures
+products at its facilities in Roden, The Netherlands, and Biot, France.  The
+Company's European headquarters is located in Waterloo, Belgium. The Company
+maintains sales and marketing offices in many European and other countries. 
+
+Operations in countries outside the U.S. are subject to certain financial and
+other risks, including currency restrictions, currency exchange fluctuations and
+changes in foreign laws.  Several countries in which the Company does business
+have enacted laws and regulations that are protectionist in nature and have
+resulted in increased costs and operational efforts by the Company in order to
+continue to effectively compete in those countries.  The Company does not
+presently believe that such laws and regulations will have a material adverse
+effect on the Company's foreign operations. 
+
+Research and Development
+
+The Company is continually engaged in product development and improvement
+programs.  A major portion of development resources are devoted to 
+interventional angiographic devices and to a lesser extent to diagnostic 
+devices. Additionally, the Company invests a portion of development funds on 
+advanced technologies for the treatment of vascular diseases.  During the 
+fiscal years ended June 30, 1994, 1993 and 1992, the Company spent 
+approximately $26.0 million, $20.1 million and $19.8 million, respectively, on 
+research and development activities. The Company has not engaged in material 
+customer or government sponsored research.
+
+
+Government Regulation
+
+The Company's activities are regulated by the United States Food and Drug
+Administration ("FDA") and several state and foreign governmental authorities. 
+The FDA regulations govern the testing, marketing and registration of new 
+medical devices, in addition to regulating manufacturing practices, labeling 
+and record keeping procedures.  The process of obtaining clearance from the FDA 
+to market products either through pre-market approvals or pre-market 
+notifications is costly and time consuming and can delay the marketing and sale 
+of the Company's products.  Additionally, there is no assurance that such 
+approval will be granted.  The FDA is empowered to perform unannounced 
+inspections of the Company's facilities and operations and to restrain 
+violations of the Food, Drug and Cosmetic Act.  On July 18, 1994, a warning 
+letter was issued by the FDA requiring the Company to correct certain violations
+observed during an inspection of the Company's facility in France, relative to 
+its neuroscience devices. While no adverse action has been instituted against 
+the Company at the present time, should the agency be dissatisfied with the 
+Company's corrective action and/or responses, the FDA is empowered to issue an 
+import alert or to take other action as it deems appropriate.  The Company is in
+the process of responding to the agency's concerns. 
+
+Medical device laws, ranging from device approval requirements to requests for
+product data and price controls, are in effect in many countries in which the
+Company does business outside the United States.  In addition, government
+reimbursement policies for health care costs are becoming increasingly
+significant factors for medical device companies.  Currently, U.S. Congress is
+considering various health care reforms that are designed to broaden coverage 
+and reduce the cost of existing government and private insurance programs.  It 
+is uncertain at this time what impact, if any, the health care reform efforts 
+will have on the Company.  Any changes that limit or reduce reimbursement for 
+the Company's products could have a material adverse effect on the financial
+condition of the Company. 
+
+The Company is also subject to federal, state and local laws which regulate the
+discharge of materials into the environment and which seek to protect the
+environment.  Compliance with such laws has not resulted in material 
+expenditures nor are such expenditures anticipated to have a material adverse 
+effect on the Company's business. 
+
+Employees
+
+As of June 30, 1994, the Company and its subsidiaries had approximately 3,370
+employees. 
+
+Financial Information Relating to Foreign and Domestic Operations and Export
+Sales 
+
+For a summary of foreign and domestic operations and segment reporting, see Note
+9 of Notes to Consolidated Financial Statements. 
+
+Item 2.  Properties
+
+The Company's principal facilities, located in Miami Lakes, Florida; Roden, The
+Netherlands; Biot, France and Baldwin Park, California consist of manufacturing
+plants and research and administrative offices.  The Company owns most of its
+principal facilities and its production machinery and equipment.  The Company is
+evaluating the need for expansion of facilities based on its expected growth. 
+Management believes the Company's manufacturing facilities are adequate for
+current levels of operation. 
+
+In September 1991 the Company subleased its former Administrative and Technical
+Center ("ATC") to a third party for a term equal to the remaining term of its
+capitalized lease (see Note 8 of Notes to Consolidated Financial Statements). 
+
+
+
+
+
+Item 3.  Legal Proceedings
+
+For a summary of legal proceedings, see Note 8 of Notes to Consolidated 
+Financial Statements.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+Not applicable.
+
+EXECUTIVE OFFICERS
+
+The executive officers of the Company as of August 24, 1994 are as follows: 
+
+        Name                    Age              Position                 
+
+Robert C. Strauss               53    President and Chief Executive Officer
+
+Diane M. Barrett                33    Treasurer
+
+Tony R. Brown                   55    Vice President, and President and Chief
+                                      Executive Officer, Cordis Webster, Inc.
+
+Richard J. Faleschini           47    Vice President, Marketing and Sales,
+                                      Americas Division
+
+Jeffrey G. Gold                 46    Vice President, and President, Cordis
+                                      Endovascular Systems, Inc. 
+
+Daniel G. Hall                  48    Vice President, Legal Affairs, 
+                                      Secretary and General Counsel 
+
+Rudy J. Kranys                  57    Senior Vice President, Operations,
+                                      Americas Division 
+
+Charles R. McDowell             57    Vice President, Corporate Relations 
+                                      and Assistant Secretary 
+
+Philip J. Monks                 46    Vice President, Marketing and Sales,
+                                      European Division
+
+Alfred J. Novak                 46    Vice President and Chief Financial 
+                                      Officer 
+
+Barbara G. Ramseyer             46    Vice President, Regulatory Affairs 
+                                      and Quality Assurance 
+
+Egbert Ratering                 46    Vice President, Operations, European
+                                      Division
+
+Fernando V. Sanchez             41    Vice President and Controller 
+
+George von Klan                 65    Vice President, International Marketing 
+                                      and Sales 
+
+Wilton W. Webster               66    Vice President and Senior Scientific 
+                                      Advisor and Vice President, Research and 
+                                      Development and Chief Engineer, Cordis
+                                      Webster, Inc.
+
+
+
+                                      
+
+Robert C. Strauss was elected President and Chief Executive Officer of the
+Company in February 1987.  He joined the Company in 1983 as Vice President and
+Chief Financial Officer and was elected Senior Vice President in March 1986. 
+
+Diane M. Barrett joined the Company in June 1990 as Manager, Internal Audit. 
+From May 1992 through December 1992 she served as Senior Manager, Corporate
+Finance.  In December 1992 she was elected to the additional position of
+Assistant Treasurer and in June 1993 was elected Director, Corporate Finance and
+Assistant Treasurer. She remained in that position until her election as
+Treasurer in June 1994.  Prior to employment by the Company, she served as an
+Audit Manager with Arthur Andersen & Co.
+
+Tony R. Brown was elected Vice President of the Company in April 1994, upon the
+merger of Webster with a Company subsidiary.  Mr. Brown has served as President
+and Chief Executive Officer of Webster from April 1993 to the present date. 
+Prior to joining Webster, he served as Chief Operating Officer of Bio-Rad
+Laboratories, Inc. between August 1990 and April 1993.  From August 1986 to
+August 1990 he served as President of Bentley Laboratories.
+
+Richard J. Faleschini was elected Vice President, Marketing and Sales, Americas
+Division in August 1994, having served as Vice President, North American
+Marketing and Sales since June 1990.  For the prior five years he was Vice
+President, Marketing and Sales of Biomagnetic Technologies, Inc. 
+
+Jeffrey G. Gold joined the Company in May 1978 as Assistant Program Manager,
+Angiographic Systems, and was promoted to Director, Manufacturing and 
+Development in February 1982, and Vice President, Manufacturing, North American
+Operations in February 1991.  In August 1991, he was elected to the position of
+Vice President, Research and Development, North American Operations.  In August 
+1993, he was elected Vice President and President, Cordis Endovascular 
+Systems, Inc.
+
+Daniel G. Hall joined the Company as General Counsel in December 1981.  He was
+elected to the additional position of Assistant Secretary in February 1982 and
+Secretary in July 1982.  In April 1987, he was elected Vice President, Legal
+Affairs, Secretary and General Counsel. 
+
+Rudy J. Kranys joined the Company in October 1984 as Vice President and 
+President of the Angiographic Products Division.  In April 1987, he was elected 
+Senior Vice President, North American Operations, and in August 1994, he was 
+elected Senior Vice President, Operations, Americas Division. 
+
+Charles R. McDowell joined the Company in January 1976 as Assistant to the
+Executive Vice President.  He was named Assistant to the President in February
+1977 and was elected to the position of Assistant Secretary in July 1982.  In
+February 1985, he was elected to the additional position of Vice President,
+Corporate Relations. 
+
+Philip J. Monks joined the Company in August 1978 as a sales representative in
+the United Kingdom.  From 1980 through March 1985, he served as Division manager
+for the United Kingdom and as Sales Manager for Scandinavia.  He became 
+Director, European Sales in April 1985, and was promoted to Division Vice 
+President, Sales and Marketing, Europe in 1987.  In June 1990 he was elected 
+Vice President, European Marketing and Sales, and in August 1994, he was elected
+Vice President, Marketing and Sales, European Division. 
+
+Alfred J. Novak was elected Vice President and Chief Financial Officer in August
+1989 and assumed the additional title of Treasurer from August 1991 until June
+1994.  He joined the Company in April 1984 as Manager, Affiliate Operations and
+in February 1987 was elected President and Chief Executive Officer of Norland
+Corporation, a former subsidiary of the Company.  In July 1987, he was elected
+Vice President, Corporate Development and subsequently in February 1988 he was
+elected Vice President, Administration. 
+
+Barbara G. Ramseyer was elected Vice President, Regulatory Affairs and Quality
+Assurance in August 1991.  Prior to joining the Company she was Director-
+Corporate Regulatory Affairs for the Hospital Products Group of Pfizer
+Corporation since 1984.
+
+Egbert Ratering joined the Company's subsidiary in Roden, The Netherlands, in
+March 1974 as Finance and Accounting Manager.  He became European Controller in
+1978, and was promoted to Director of Finance, Europe in July 1984.  In March
+1987 he was promoted to Division Vice President, Finance, Europe and was elected
+Vice President, European Operations in June 1990.  In August 1994, he was 
+elected Vice President, Operations, European Division. 
+
+Fernando V. Sanchez joined the Company in January 1991 as Vice President and
+Controller.  Prior to joining the Company he was Vice President, Finance for
+Racal-Milgo, Inc., from June 1988.  For three years prior, he served as
+Controller for Racal-Milgo, Inc. 
+
+George von Klan joined the Company in April 1984 as Director of Sales, Europe 
+and the Middle East.  In February 1985, he was elected Vice President, European
+Marketing.  In April 1987, he was elected Vice President, International 
+Marketing and Sales.
+
+Wilton W. Webster, Jr., founder of Webster, was elected Vice President and 
+Senior Scientific Advisor of the Company in April 1994, upon the merger of 
+Webster with a Company subsidiary.  He served as President, Chief Executive 
+Officer and Chief Engineer of Webster from its inception to April 1993.  From 
+April 1993 he served as Vice President and Chief Engineer, and Vice President, 
+Research and Development and Chief Engineer from April 1994 to the present date.
+
+The executive officers hold office for one year or until their successors are
+elected by the Board of Directors. 
+
+                                  Part II
+
+Item 5.  Market for the Registrant's Common Stock and Related Shareholder 
+         Matters.
+
+The Company's common stock is traded in the over-the-counter market and is 
+quoted in the NASDAQ National Market System under the symbol CORD.  The 
+following table sets forth the high and low sale prices of the Company's common 
+stock for the period from July 1, 1992 through June 30, 1994 reported in the 
+NASDAQ National Market System.  Sale prices represent quotations between dealers
+without adjustment for retail markups, markdowns or commissions, and may not 
+represent actual transactions.
+
+        Fiscal Year                                     High Sale       Low Sale
+                             
+           1993
+                          First Quarter.....             $30-3/4        $21-3/4
+                          Second Quarter....              38             23-1/4
+                          Third Quarter.....              40-1/4         23-1/4
+                          Fourth Quarter....              32-3/4         21-1/4
+           1994
+                          First Quarter.....             $35-1/2        $27-3/4
+                          Second Quarter....              50-1/2         31-1/2
+                          Third Quarter.....              54-1/2         41-1/4
+                          Fourth Quarter....              54-1/4         38   
+
+As of August 22, 1994, the number of shareholders of record of the common stock
+was 1,120.  The Company has not paid cash dividends to date and has no present
+intention to do so (see Note 4 of Notes to Consolidated Financial Statements).
+
+
+Item 6.  Selected Financial Data
+
+Five-Year Summary of Operations and Financial Information (restated)
+(Dollars in thousands except per share amounts)
+<TABLE>
+<CAPTION>
+                                   1994     1993      1992      1991      1990     
+
+<S>                              <C>      <C>       <C>       <C>       <C>
+Net sales                        $336,542 $267,446  $230,477  $202,560  $165,689
+
+Income from continuing opera-
+ tions before income taxes,
+ equity in loss of Theratek
+ International, Inc. and         
+ cumulative effect of
+ accounting change               $ 58,380 $ 42,709  $ 35,157  $ 27,200  $ 17,495 
+Provision for income taxes         20,889   11,243     9,426     7,115     4,270
+Equity in loss of Theratek
+ International, Inc.                     -        -        -         -    (2,880)
+Income from continuing
+ operations before cumulative
+ effect of accounting change     $ 37,491 $ 31,466  $ 25,731  $ 20,085  $ 10,345  
+
+Earnings per share:
+Income from continuing
+ operations before cumulative    
+ effect of accounting change     $   2.27 $   1.94  $   1.65  $   1.32  $    .70  
+
+Total assets                     $288,127 $210,519  $171,986  $143,635  $146,654
+
+Long-term liabilities            $  9,128 $  7,993  $  9,677  $ 29,948  $ 36,885
+
+Cash dividends declared per
+ common share                    $      - $      -  $      -  $      -  $      - 
+
+</TABLE>
+
+
+
+Item 7.  Management's Discussion and Analysis of Financial
+         Condition and Results of Operations        
+
+Liquidity and Capital Resources
+
+Cash and cash equivalents increased $6.5 million (15%) to $48.5 million at June
+30, 1994 compared to June 30, 1993.  Working capital increased by $33.7 million
+in the same period, and the current ratio remained constant at 2.7.  The 
+long-term debt to equity ratio remained constant at approximately zero. During
+1994, cash generated from operations was $41.7 million compared to $32.4 million
+in 1993.  The $9.3 million increase was principally due to increased income
+before cumulative effect of accounting change and higher accounts payable and
+accrued expenses balances, offset in part by cash invested in  higher accounts
+receivable and inventory levels. 
+
+Cash used in investing activities increased $16.3 million from $14.5 million in
+1993 to $30.8 million in 1994.  The principal components of the increase were
+additions to property, plant and equipment which were $7.2 million higher in
+1994 than in 1993 and purchases of short-term and other investments of $9.1
+million.  Most of the increase in capital additions was attributable to the
+expansion of manufacturing operations.
+
+Cash of $4.4 million was used in financing activities in 1994, a $14.6 million
+increase from the $10.2 million provided by such activities in 1993.  The
+principal causes of the increase were lower additions to short-term borrowings
+in Europe, lower proceeds from the issuance of common stock and an increase in
+the repurchases of common stock.
+
+Total assets increased $77.6 million to $228.1 million at June 30, 1994 from
+$210.5 million at June 30, 1993.  The increase occurred principally in the
+following areas:
+
+- - -     Cash and cash equivalents increased $6.5 million for the reasons outlined
+      above.
+      
+- - -     Short-term investments increased by $7.1 million.
+
+- - -     Accounts receivable increased $22.3 million (37%), due principally to the
+      sales increase in the fourth quarter of 1994, where sales grew $25.0
+      million (36%) over the fourth quarter of 1993.
+
+- - -     Inventories increased by $11.1 million (30%) to meet the increased demand
+      for the Company's products, evidenced by the growth rate in fourth quarter
+      sales indicated above.
+
+- - -     Deferred income taxes (current plus long-term) increased $12.7 million
+      mainly due to the adoption of a new accounting standard for income taxes
+      (see Note 6 of Notes to Consolidated Financial Statements).
+
+- - -     Net property, plant and equipment increased $12.2 million due to higher
+      spending worldwide on projects associated with the interventional and
+      diagnostic cardiology markets.
+
+Current liabilities increased $21.9 million due to increased salaries and
+employee benefits, accounts payable balances, and a $5.2 million accrual for a
+legal settlement (see Note 8 of Notes to the Consolidated Financial Statements).
+
+The Company has a $25 million line of credit and a $2 million letter of credit
+facility with a U.S. bank.  No borrowings were outstanding under the agreement
+at either June 30, 1994 or 1993.  In addition, the Company continues its policy
+of borrowing funds in Europe to provide financing of local receivables and to
+partially hedge its foreign currency positions.  At both June 30, 1994 and 1993,
+such loans totaled $9.1 million.                     
+
+In September 1991 the Company subleased ATC which is held under a capitalized
+lease until December 31, 2005 (see Note 8 of Notes to Consolidated Financial
+Statements). Under the terms of the sublease the sublessee is responsible for
+substantially all of the operating expenses of the property, in addition to
+rental payments.  The sublease gives cancellation options at the end of the
+fifth and tenth years to the sublessee which, if exercised, will require
+repayments of leasehold improvement allowances by the sublessee to the Company 
+of $3.8 million and $2.0 million, respectively.  The sublessee also has an 
+option to extend the lease for five years or to purchase the facility at 
+December 31, 2005.  The Company has accrued for future costs relating to the 
+discounted shortfall in rental income compared to the underlying payments over 
+the remaining term of the capitalized lease.  In November 1993, the sublessee 
+announced that the division that currently subleases ATC is for sale.  The 
+Company has not been notified by the sublessee whether or not to exercise its 
+option to cancel the sublease on December 31, 1996.  In the event  that the 
+sublessee does exercise the cancellation option, the Company believes the 
+proceeds of $3.8 million from the repayment of leasehold improvement allowances 
+by the sublessee, combined with the current reserve for future costs, will be 
+sufficient to cover the carrying costs of the building until a replacement 
+tenant can be found. Accordingly, the Company does not believe that cancellation
+of the sublease would have a material effect on the future liquidity or 
+financial condition of the Company.
+
+Management anticipates that cash generated from operations and utilization of 
+its credit lines, if necessary, will be sufficient to meet the Company's current
+operating requirements and to cover the shortfall in rental income from the 
+sublease of ATC compared to the underlying lease payments over the lease term 
+and the effects, if any, of cancellation of the ATC sublease by the sublessee.  
+On a long-term basis, management will continue to address the Company's 
+liquidity requirements and implement necessary financing strategies. 
+
+Results of Operations:
+
+Sales
+
+Net sales in fiscal 1994 were $336.5 million, an increase of $69.1 million (26%)
+from fiscal 1993.  Sales in fiscal 1993 were $267.4 million, $37.0 million (16%)
+higher than fiscal 1992.  Had currency exchange rates remained constant 
+throughout the periods, the increases in sales in 1994 over 1993 and in 1993 
+over 1992 would have been 32% and 15%, respectively.
+
+1994 compared to 1993:
+
+Sales of angiographic products were $320.6 million in 1994, an increase of $70.3
+million (28%).  U.S. sales, which accounted for 44% of worldwide angiographic
+products sales in 1994 and 45% in 1993, increased 24% due principally to higher 
+unit sales volumes of interventional cardiology products (PTCA balloon 
+catheters, PTCA guiding catheters and PTCA steerable guidewires).  
+Interventional cardiology sales accounted for 31% of total U.S. angiography 
+sales in 1994, compared to 18% in 1993. Foreign sales increased by 31% over 1993
+(had currency exchange rates remained constant throughout the periods, this 
+increase would have been 43%), due principally to higher unit sales volumes of 
+interventional cardiology products in Europe and the Far East.
+
+Sales of neuroscience products were $16.0 million in 1994, a decrease of $1.2
+million (7%) from 1993.  Most of the decrease was due to adverse currency 
+exchange rate translation effects in Europe; had currency exchange rates 
+remained constant throughout the periods, the decrease in worldwide 
+neuroscience products sales would have been 1%.
+
+1993 compared to 1992:
+
+In 1993 angiographic products sales were $250.3 million, $36.6 million (17%) 
+higher than 1992.  U.S. sales increased 8% due principally to higher unit sales 
+volumes of interventional cardiology products, and, to a lesser extent, 
+increased sales volumes of electrophysiology products.  U.S. sales accounted for
+45% of worldwide angiography sales in 1993 compared to 49% in 1992.  Most of the
+increase in angiography sales arose in markets outside the U.S., where sales 
+grew by 26% from 1992.  Had currency exchange rates remained constant throughout
+the periods, this increase would have been 25%.  The increase in foreign 
+angiography sales was principally due to higher unit sales volumes of 
+interventional cardiology catheters and diagnostic cardiology catheters.
+
+Sales of neuroscience products were $0.4 million (2%) higher than 1992, due
+principally to higher sales of pressure monitoring and drainage systems and 
+other products.  At constant currency exchange rates, the year-to-year increase 
+would have been 1%.
+
+Operating Costs and Expenses
+
+Cost of goods sold as a percent of net sales was 40% in 1994, compared to 39% in
+1993 and 40% in 1992.  The one percentage point decrease in the 1994 gross 
+profit margin compared to 1993 was principally due to higher royalty expenses 
+on higher worldwide sales of PTCA balloon catheters.  Under the terms of a 
+settlement agreement with C. R. Bard, in December 1993, the Company elected to 
+pay a license fee for the license of PTCA balloon catheter technology.  
+Utilizing a five year amortization period from the agreement date of May 1991, 
+the Company expensed $1.9 million of the $3.0 million license fee in 1994, of 
+which $1.3 million related to the period from May 1991 to June 1993.  Royalty 
+expenses, which included the $1.9 million license fee, were 2% of sales in 1994 
+compared to 1% in 1993.  The Company's gross profit margin improved in 1994 due 
+to the favorable effect of increased sales of higher margin interventional 
+cardiology products, but this was offset by unfavorable currency exchange rate 
+effects upon European gross profit margins caused by currency devaluations in 
+some countries and a stronger U.S. dollar.  The one percentage point increase 
+in the gross profit margin in 1993 compared to 1992 was principally due to a 
+more favorable sales mix which arose from increased sales of higher margin 
+products.
+
+Research and development expenses were $26.0 million in 1994, an increase of 
+$5.8 million (29%) over 1993.  Most of the increase was due to higher spending 
+on interventional cardiology, electrophysiology and neuroradiology products.  
+Research and development expenses increased $0.3 million (2%) to $20.1 million 
+in 1993 compared to 1992; most of the increase was attributable to higher 
+spending on electrophysiology and neuroradiology products.  Had currency 
+exchange rates remained constant throughout the periods, research and 
+development expenses would have been 32% higher in 1994 compared to 1993, and 
+approximately the same in 1993 as 1992. As a percentage of net sales, research 
+and development expenses were 8% in 1994 and 1993 and 9% in 1992.
+
+Selling, general and administrative ("SG&A") expenses were $115.8 million in 
+1994, $21.7 million (23%) higher than 1993.  The factors that contributed most 
+to the increase were higher salary and fringe benefit expenses due to expansions
+of the sales forces in the U.S. and Europe; higher travel, sales commissions and
+promotional expenses incurred as a result of the increase in worldwide sales; 
+higher legal costs incurred in the defense of patent suits and other litigation,
+and costs of approximately $1.3 million related to the acquisition of Webster 
+(see Note 3 of Notes to Consolidated Financial Statements).  In 1993, SG&A 
+expenses were $94.1 million, $11.9 million (15%) higher than 1992.  The increase
+was caused by most of the factors that affected 1994, namely higher employee 
+related expenses, travel, commissions and promotional costs.  Had currency 
+exchange rates remained constant throughout the periods, the increases in SG&A 
+expenses in 1994 compared to 1993 and in 1993 compared to 1992 would have been 
+28% and 13%, respectively.  As a percentage of net sales, SG&A expenses were 34%
+in 1994, 35% in 1993 and 36% in 1992. 
+
+Other Expenses (Income) 
+
+Net interest and other expense was $2.4 million in 1994 compared to $5.4 million
+in 1993, a decrease of $3.0 million (56%).  Other expense in 1994 contained an 
+accrual of $5.2 million related to a legal settlement (see Note 8 of Notes to 
+Consolidated Financial Statements), but this was more than offset by higher 
+interest income on higher average invested cash balances, lower foreign currency
+transaction losses on intercompany purchases of inventory, and lower losses from
+reserves for an uncollectible investment and other items which did not recur.  
+Comparing 1993 with 1992, net interest and other expense was $4.8 million 
+higher; the increase was attributable to higher foreign currency transaction 
+losses and the non-recurring reserves mentioned previously.
+
+Income Taxes
+
+Expressed as a percent of pretax income, the income tax provisions for 1994, 
+1993 and 1992 were 36%, 26% and 27%, respectively.  The ten percentage point 
+increase in 1994's rate compared to 1993 was principally due to an increase in 
+the U.S. effective rate resulting from the adoption of a new accounting standard
+for income taxes at the beginning of fiscal 1994 (see Note 6 of Notes to 
+Consolidated Financial Statements).  In 1993, the effective rate was one 
+percentage point lower than 1992, principally due to lower effective rates in 
+Europe which arose from the utilization of net operating loss carryforwards in 
+France as a result of the generation of profits in that subsidiary compared to 
+losses in prior years for which there was no carryback benefit.
+
+Cumulative Effect of Accounting Change
+
+Effective July 1, 1993, the Company adopted Statement of Financial Accounting
+Standards No. 109, "Accounting for Income Taxes".  The cumulative effect on 
+prior periods of this accounting change of $10.1 million or $0.61 per share is 
+reported as a one-time benefit in the Consolidated Statement of Operations 
+for 1994.
+
+Net Income
+
+Income before the cumulative effect of an accounting change was $37.5 million in
+1994, an increase of $6.0 million (19%) over 1993.  Net income was $47.6 million
+in 1994, $16.1 million (51%) higher than 1993.  In 1993 both income before the
+cumulative effect of an accounting change and net income were $31.5 million, 
+$5.7 million (22%) higher than 1992.
+
+Earnings per share before the cumulative effect of an accounting change was 
+$2.27 in 1994, $0.33 (17%) higher than 1993.  Net income per share in 1994 was 
+$2.88, $0.94 (48%) higher than 1993.  Earnings per share before the cumulative 
+effect of an accounting change and net income per share were both $1.94 in 1993,
+$0.29 (18%) higher than 1992.
+
+Item 8.  Financial Statements and Supplementary Data
+
+See index to financial statements and financial statement schedules on page 13.
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting 
+           and Financial Disclosure
+
+None.
+
+                                   Part III
+      
+The information required by Item 10 - Directors and Executive Officers of the
+Registrant (other than information as to executive officers set forth in Part I 
+on pages 5, 6 and 7), Item 11 - Executive Compensation, Item 12 - Security 
+Ownership of Certain Beneficial Owners and Management and Item 13 - Certain 
+Relationships and Related Transactions is incorporated in this Report by 
+reference from the proxy statement to be filed at least 20 business days prior 
+to the Company's 1994 Annual Meeting of Stockholders to be held on October 27, 
+1994.
+
+                                   Part IV
+
+
+
+Item 14.    Exhibits, Financial Statement Schedules, and Reports on Form 8-K 
+
+(a)   1.    Financial statements and financial statement schedules
+
+            The financial statements and schedules listed in the
+      following index are filed as part of this annual report:
+
+                           (ITEM 14(a)(i) and (ii))
+
+                                                                          Page
+
+      Independent Auditors' Report.............................             14
+
+      Management's Responsibility for Financial Reporting......             15
+
+      Consolidated Statements of Operations for the three
+      years ended June 30, 1994................................             16
+
+      Consolidated Balance Sheets at June 30, 1994 and 1993....           17-18
+
+      Consolidated Statements of Shareholders' Equity for the
+      three years ended June 30, 1994..........................             19
+
+      Consolidated Statements of Cash Flows for the three years
+      ended June 30, 1994......................................             20
+
+      Notes to Consolidated Financial Statements...............           21-34
+
+      2.    Schedules for the three years ended June 30, 1994:
+
+         V-Property, Plant and Equipment.......................             35
+
+        VI-Accumulated Depreciation and Amortization of
+           Property, Plant and Equipment.......................             36
+
+      VIII-Valuation and Qualifying Accounts...................             37
+
+        IX-Short-Term Borrowings...............................             38
+
+         X-Supplementary Income Statement Information..........             38
+
+            Schedules other than those listed above are omitted because
+            they are not applicable or the required information is shown
+            in the financial statements or notes thereto.
+
+(b)   Report on Form 8-K
+
+            The Company filed a report on Form 8-K dated April 25, 1994 as to:
+
+            Item 2.  The acquisition of Webster.  The transaction was structured
+            as a tax-free reorganization of Webster and has been accounted for 
+            as a pooling of interests.
+
+
+Independent Auditors' Report
+
+
+The Board of Directors and Shareholders
+Cordis Corporation
+
+
+We have audited the accompanying consolidated balance sheets of Cordis 
+Corporation and its subsidiaries as of June 30, 1994 and 1993 and the related 
+consolidated statements of operations, shareholders' equity, and cash flows for 
+each of the three years in the period ended June 30, 1994.  Our audits also 
+included the financial statement schedules listed in the Index at Item 14(a).  
+These financial statements and financial statement schedules are the 
+responsibility of the Company's management.  Our responsibility is to express 
+an opinion on the financial statements and financial statement schedules based 
+on our audits.
+
+We conducted our audits in accordance with generally accepted auditing 
+standards. Those standards require that we plan and perform the audit to obtain 
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting 
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the accounting principles used and significant estimates made by 
+management, as well as evaluating the overall financial statement presentation. 
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, such consolidated financial statements present fairly, in all
+material respects, the financial position of Cordis Corporation and its 
+subsidiaries as of June 30, 1994 and 1993, and the results of their operations 
+and their cash flows for each of the three years in the period ended June 30, 
+1994 in conformity with generally accepted accounting principles.  Also, in our 
+opinion, such financial statement schedules, when considered in relation to the 
+basic consolidated financial statements taken as a whole, present fairly in all 
+material respects the information set forth therein.
+
+As discussed in Note 6 of Notes to Consolidated Financial Statements, the 
+Company changed its method of accounting for income taxes effective July 1, 1993
+as required by Statement of Financial Accounting Standards No. 109.
+
+
+
+
+Deloitte and Touche LLP
+Miami, Florida
+August 10, 1994 
+
+Management's Responsibility for Financial Reporting
+
+
+Management is responsible for the preparation as well as the integrity and
+objectivity of the Company's financial statements.  The financial statements 
+have been prepared in conformity with generally accepted accounting principles 
+and, accordingly, include amounts which represent the best estimates and 
+judgements of management.
+
+While no system of internal control can ensure elimination of errors and
+irregularities, the systems employed by the Company have been designed to 
+provide reasonable assurance that assets are safeguarded, policies and 
+procedures are followed and transactions are properly executed and reported.  
+These systems are periodically reviewed and modified in response to changing 
+conditions.
+
+The Audit Committee of the Board of Directors, which is comprised of directors 
+who are not officers or employees of the Company, meet with senior management, 
+the chief financial officer, the Company's internal auditor and the independent 
+certified public accountants to review audit plans and results as well as 
+management's actions taken in discharging its responsibilities for accounting, 
+financial reporting and internal control systems.  The Audit Committee reports 
+its findings to the Board of Directors and also recommends the selection and 
+engagement of independent certified public accountants.  Management, the 
+internal auditor and the independent certified public accountants have direct 
+and confidential access to the Audit Committee.
+
+
+Robert C. Strauss
+President and Chief
+Executive Officer
+
+
+Alfred J. Novak
+Vice President and
+Chief Financial Officer
+
+Cordis Corporation
+Consolidated Statements of Operations
+Three Years ended June 30, 1994
+(Dollars in thousands except per share amounts)
+
+                                               1994         1993         1992   
+
+Net sales                                   $336,542     $267,446     $230,477  
+
+Operating costs and expenses:
+Cost of goods sold                           133,992      105,097       92,782  
+Research and development                      25,959       20,139       19,793  
+Selling, general and administrative          115,837       94,092       82,185  
+
+Total operating costs and expenses           275,788      219,328      194,760  
+
+Operating profit                              60,754       48,118       35,717  
+
+Other expenses (income):
+Interest expense                               1,737        1,639        3,156  
+Interest income                               (2,102)      (1,185)      (1,024)
+Other, net                                     2,739        4,955       (1,572) 
+                                            
+Total other expenses                           2,374        5,409          560  
+
+
+Income before income taxes and 
+ cumulative effect of accounting
+ change                                       58,380       42,709       35,157  
+Provision for income taxes                    20,889       11,243        9,426  
+
+Income before cumulative effect of
+ accounting change                            37,491       31,466       25,731
+Cumulative effect of accounting change        10,115            -            - 
+
+
+Net income                                  $ 47,606     $ 31,466     $ 25,731 
+                                            
+
+Earnings per share:
+Income before cumulative effect of
+ accounting change                          $   2.27     $   1.94     $   1.65 
+Cumulative effect of accounting change           .61            -            -  
+   
+Net income                                  $   2.88     $   1.94     $   1.65  
+
+
+See accompanying notes.
+
+Cordis Corporation
+Consolidated Balance Sheets
+At June 30, 1994 and 1993
+(Dollars in thousands)
+
+                                                             1994        1993   
+
+Assets
+
+Current assets:
+Cash and cash equivalents                                  $ 48,531    $ 42,042 
+Short-term investments, at cost                               7,055           -
+Accounts receivable (less allowance for doubtful
+ accounts of $2,207 in 1994 and $1,661 in 1993)              82,502      60,220 
+
+Inventories:
+Finished goods                                               25,770      19,194
+Work-in-process                                              12,483      10,179
+Raw materials and supplies                                    9,913       7,672
+
+                                                             48,166      37,045
+
+Deferred income taxes                                        10,350       3,810
+Other current assets                                          5,942       3,764
+
+     Total current assets                                   202,546     146,881
+
+
+Property, plant and equipment, at cost:
+Land                                                          5,045       4,829
+Buildings and improvements                                   54,836      49,940
+Leasehold improvements                                        3,532       2,457
+Machinery and equipment                                      61,702      51,821 
+Construction in progress                                     10,641       4,403 
+
+                                                            135,756     113,450 
+Less accumulated depreciation and amortization               64,509      54,386 
+
+                                                             71,247      59,064
+
+Deferred income taxes                                         6,844         663
+Other assets                                                  7,490       3,911 
+
+                                                           $288,127    $210,519
+
+
+See accompanying notes.
+
+
+Cordis Corporation
+Consolidated Balance Sheets
+At June 30, 1994 and 1993
+(Dollars in thousands)
+
+                                                            1994         1993   
+
+Liabilities and Shareholders' Equity
+
+Current liabilities:
+Notes payable                                            $  9,057     $  9,092 
+Accounts payable                                           10,916        6,792 
+Accrued salaries and employee benefits                     25,373       15,797 
+Accrued taxes                                               7,926        6,542
+Accrued litigation settlement                               5,180            -
+Other accrued expenses                                     11,850       11,213
+Income taxes                                                5,245        3,892 
+Current portion of long-term debt                             613          903  
+                                                                        
+Total current liabilities                                  76,160       54,231 
+
+
+Long-term liabilities:
+Long-term debt                                              1,894        1,112 
+Other                                                       7,234        6,881  
+
+     Total long-term liabilities                            9,128        7,993  
+
+     Total liabilities                                     85,288       62,224 
+
+
+Commitments and contingencies (Note 8)
+
+Shareholders' equity:
+Preferred stock, $1 par value; authorized 2,500,000
+ shares; none issued                                            -            - 
+Common stock, $1 par value; authorized 50,000,000
+ shares, issued and outstanding 16,001,206 shares
+ in 1994 and 15,920,307 shares in 1993                     16,001       15,920 
+Capital in excess of par value                             62,016       58,808 
+Retained earnings                                         115,658       68,052  
+Foreign currency translation adjustments                    9,164        5,515  
+
+     Total shareholders' equity                           202,839      148,295  
+
+                                                         $288,127     $210,519 
+
+
+
+
+See accompanying notes.
+
+
+Cordis Corporation
+Consolidated Statements of Shareholders' Equity
+Three years ended June 30, 1994
+(Dollars and shares in thousands)
+<TABLE>
+<CAPTION>
+                                                                 Foreign
+                                             Capital             Currency
+                                              in                  Trans-
+                                              Excess              lation   
+                          Common Stock        of Par    Retained   Adjust-    
+                          Shares    Amount     Value    Earnings    ments          Total 
+
+Balance at 
+June 30, 1991:
+<S>                       <C>      <C>        <C>       <C>        <C>             <C>
+As previously reported    13,874   $13,874    $52,555   $  9,522   $ 3,654         $ 79,605
+Pooling of interests 
+ with Webster              1,124     1,124     (1,018)     1,333         -            1,439
+As restated               14,998    14,998     51,537     10,855     3,654           81,044        
+Stock issued under
+ employee retirement and
+ stock option plans          151       151      2,509          -         -            2,660
+Foreign currency
+ translation adjustments                                             9,992            9,992 
+Net income                     -         -          -     25,731         -                          25,731
+Balance at
+June 30, 1992             15,149    15,149     54,046     36,586    13,646          119,427
+
+Stock issued under
+ employee retirement
+ and stock option
+ plans                       616       616      6,472          -         -            7,088
+Issuance of stock            337       337      1,640          -         -            1,977   
+Tax benefit from exercise of
+ stock options                 -         -        410          -         -              410
+Stock issued under employee
+ performance award plan       31        31        893          -         -              924
+Purchases and retirement
+ of common stock            (213)     (213)    (4,653)         -         -           (4,866)
+Foreign currency
+ translation adjustments       -         -           -         -    (8,131)          (8,131)
+Net income                     -         -          -     31,466         -           31,466
+Balance at
+ June 30, 1993            15,920    15,920     58,808     68,052     5,515          148,295
+
+Stock issued under
+ employee retirement
+ and stock option
+ plans                       244       244      3,792          -         -            4,036
+Tax benefit from exercise
+ of stock options              -         -      5,740          -         -            5,740
+Stock issued under
+ employee performance
+ award plan                   37        37      1,082          -         -            1,119
+Purchases and retirement  
+ of common stock            (200)     (200)    (7,406)         -         -           (7,606)
+Foreign currency
+ translation adjustments       -         -          -         -      3,649            3,649
+Net income                     -         -          -     47,606         -           47,606
+Balance at
+ June 30, 1994            16,001   $16,001    $62,016   $115,658   $ 9,164         $202,839
+
+See accompanying notes.
+</TABLE>
+
+
+
+
+Cordis Corporation
+Consolidated Statements of Cash Flows
+Three years ended June 30, 1994
+(Dollars in thousands)
+
+                                                 1994        1993        1992   
+
+Cash flows from operating activities:
+ Net income                                   $ 47,606    $ 31,466    $ 25,731
+ Noncash items included therein:
+  Cumulative effect of accounting change       (10,115)          -           - 
+  Depreciation and amortization                 11,424      10,121      12,576 
+  Deferred income tax provision (benefit)        3,096      (3,635)     (1,895) 
+  Provisions for inventory obsolescence,
+   doubtful accounts, uncollectible
+   investment and other                          2,038       4,192       1,962
+  Currency transaction losses                    1,115       2,604         332 
+ Changes in assets and liabilities:
+  Increase in accounts receivable              (22,138)    (13,259)     (8,102) 
+  Increase in inventories                      (11,162)     (9,252)     (2,906)
+  Increase in other current assets              (1,860)     (1,315)     (1,262) 
+  (Increase) decrease in other assets           (1,378)        154      (3,719) 
+  Increase in accounts payable and accruals     21,126      11,477       3,653 
+  Increase in current and deferred 
+   income taxes payable, net                     1,379       1,210       3,999  
+  Other, net                                       613      (1,345)     (5,372) 
+
+Net cash provided by operating
+ activities                                     41,744      32,418      24,997  
+
+Cash flows from investing activities:
+ Additions to property, plant and
+  equipment                                    (22,771)    (15,573)    (11,211)
+ Purchases of short-term and 
+  other investments                             (9,055)          -           -
+ Proceeds from the sale of property,
+  plant and equipment                              618         215         408
+ Proceeds from collections of notes 
+  receivable                                       417         846         202 
+                                                          
+Net cash used in investing activities          (30,791)    (14,512)    (10,601)
+
+Cash flows from financing activities:
+ Bank loans                                      1,729       7,801       3,175 
+ Debt retirement                                (1,760)     (1,077)    (17,752) 
+ Proceeds from the sale of common stock          3,264       8,365       2,096
+ Repurchases of common stock                    (7,606)     (4,866)          -  
+
+Net cash (used in) provided by financing
+ activities                                     (4,373)     10,223     (12,481)
+
+Effect of exchange rate changes on cash            (91)       (189)        223  
+
+Increase in cash and cash equivalents            6,489      27,940       2,138  
+
+Cash and cash equivalents:
+ Beginning of year                              42,042      14,102      11,964  
+
+ End of year                                  $ 48,531    $ 42,042    $ 14,102  
+
+
+See accompanying notes.
+
+
+Notes to Consolidated Financial Statements
+June 30, 1994, 1993 and 1992
+
+
+1.    Summary of significant accounting policies
+
+a.    Principles of consolidation
+
+The Consolidated Financial Statements of Cordis Corporation include the accounts
+of Cordis Corporation and its subsidiaries (the "Company").  All significant
+intercompany transactions have been eliminated.
+
+b.    Revenue recognition
+
+The Company's revenue is derived from sales of medical devices.  Revenue from 
+such sales is generally recognized at the time of shipment to customers.
+
+c.    Inventories
+
+Inventories are stated at the lower of cost (first-in, first-out) or net 
+realizable value. Inventory costs include material, labor and manufacturing 
+overhead.
+
+d.    Property, plant and equipment
+
+The lives used in calculating provisions for depreciation and amortization of 
+the principal assets using the straight-line method are as follows:
+
+      Buildings and improvements              10 - 30 years
+      Leasehold improvements                  10 - 20 years
+      Machinery and equipment                  3 - 10 years
+
+e.    Earnings per share
+
+Primary earnings per share of common stock have been determined on the basis of 
+the average number of shares of common stock and common stock equivalents 
+outstanding during the year.  The exercise of outstanding options, computed 
+under the treasury stock method based upon average stock prices during the year,
+has been included in the computation when dilutive.  The computation of fully 
+diluted earnings per share resulted in no material dilution.
+
+f.    Foreign currency translation
+
+Foreign currency translation adjustments, which result from translating the 
+assets and liabilities of foreign subsidiaries into the U.S. dollar, have been 
+excluded from each component of the Consolidated Statements of Cash Flows.  
+Aggregate exchange losses resulting from foreign currency transactions during 
+the years ended June 30, 1994, 1993 and 1992 were $1,115,000, $2,604,000 and 
+$332,000, respectively, and are included in the Consolidated Statements of 
+Operations.
+
+g.    Cash and cash equivalents
+
+For the purposes of reporting cash flows, cash and cash equivalents include
+marketable securities with a maturity of three months or less at acquisition, 
+and approximate fair values at June 30, 1994 and 1993.  One investment, 
+representing approximately 19% of the recorded balance at June 30, 1994, is a 
+money market mutual fund maintained with a brokerage firm.
+
+For the years ended June 30, 1994, 1993 and 1992, income taxes paid, net, were
+$17,312,000, $13,851,000 and $8,391,000, and interest paid, including interest 
+on the capitalized lease (see Note 8 of Notes to Consolidated Financial 
+Statements), was $3,398,000, $3,748,000 and $4,664,000, respectively.
+
+h.    Foreign currency contracts
+
+The Company enters into foreign currency contracts as a hedge against assets and
+liabilities denominated in foreign currencies.  Such assets and liabilities 
+relate mainly to intercompany purchases of inventory.  At the end of each period
+foreign currency contract balances are marked to market, and the resulting gain 
+or loss is recognized in the Consolidated Statements of Operations.  At June 30,
+1994 and 1993, the Company had approximately $20,500,000 and $3,900,000, 
+respectively, in contracts to buy or sell various denominations of foreign 
+currency in the future.  At June 30, 1994, based upon the rights of offset 
+contained in the various foreign currency contract agreements, the carrying 
+values of such contracts were a current asset of $66,000 and a current liability
+of $220,000, which approximated fair value.
+
+i.  Reclassifications
+
+Certain amounts in prior years have been reclassified to conform to the 1994
+Consolidated Financial Statement presentation.
+
+2.    Inventory obsolescence
+
+Cost of goods sold for the years ended June 30, 1994, 1993 and 1992 included
+provisions for obsolescence of $1,436,000, $1,061,000 and $994,000, 
+respectively, for inventory which management considered to be in excess of that 
+required for future sales.  At June 30, 1994 and 1993 inventories are stated net
+of allowances for obsolescence of approximately $2,259,000 and $2,472,000, 
+respectively.
+
+3.    Acquisition of Business
+
+During April 1994, the Company completed its acquisition of Webster 
+Laboratories, Inc. ("Webster"), a California based company engaged in the 
+design, manufacture and marketing and sale of electrophysiology catheters.  
+The acquisition was achieved through the merger between Webster and one of the 
+Company's subsidiaries.  The Company issued approximately 1.67 million shares of
+common stock for all the common stock of Webster, and assumed an additional 
+192,000 shares of Webster's outstanding stock options.  The transaction was 
+accounted for as a pooling of interests; accordingly, the Company's financial 
+statements for prior years have been restated to reflect the merger.  Webster 
+previously prepared its financial statements on a November 30 fiscal year end 
+basis, however, the restated financial statements include Webster's financial 
+results prepared on a June 30 fiscal year end basis. Webster, renamed Cordis 
+Webster, Inc., has changed its fiscal year end to June to conform to the 
+Company's year end.  Summarized financial statements for the years ended June 
+30, 1993 and 1992 are as follows (in thousands):
+
+                                                1993        1992  
+Sales Revenue
+      Cordis                                  $255,458    $222,959
+      Webster                                   11,988       7,518
+        Total                                 $267,446    $230,477
+
+Net Income
+      Cordis                                  $ 29,060    $ 24,014
+      Webster                                    2,406       1,717
+        Total                                 $ 31,466    $ 25,731
+
+Total Assets
+      Cordis                                  $200,401    $168,154
+      Webster                                   10,118       3,832
+        Total                                 $210,519    $171,986
+                                                                                
+
+
+4.    Notes payable and long-term debt
+
+Notes payable:
+
+The Company's European subsidiaries have various credit lines denominated in 
+local currencies which are available to provide working capital and to hedge 
+foreign exchange exposures.  The total amount of credit available under these 
+agreements was $26,200,000 at June 30, 1994.  Amounts outstanding were 
+$9,057,000 at June 30, 1994 and $9,092,000 at June 30, 1993, with interest rates
+ranging from 6-1/2% to 18-1/2% throughout the years ended June 30, 1994 
+and 1993.
+
+Long-term debt:
+
+The Company has a $25 million revolving line of credit and a $2 million letter 
+of credit facility with a U.S. bank, which terminates on December 31, 1996.  A 
+one year extension of the termination date may be granted annually at the 
+discretion of the lender.  During the revolving credit period, the Company has 
+the option of borrowing at the prime interest rate, or at the London Interbank 
+Offered Rate plus 1-1/4%. A facility fee of 1/4% of the unused portion of the 
+$25 million commitment is payable quarterly.  The agreement contains various 
+covenants, which require the Company to maintain certain financial ratios and 
+meet certain net worth and indebtedness tests, and which restrict the payment 
+of cash dividends by the Company. No borrowings were outstanding under the 
+agreement at June 30, 1994 or 1993. Interest rates ranged from 6% to 7-1/4% 
+throughout the years ended June 30, 1994 and 1993.
+
+At June 30, 1994 and 1993, the Company's European subsidiaries had long-term
+borrowings totaling $2,447,000 and $1,930,000, respectively, under several
+agreements.  These loans are denominated in European currencies at interest 
+rates ranging from 8% to 9-3/4% throughout the periods, due at various times 
+through January 1999.  One of the loans outstanding at June 30, 1993 was secured
+by tangible fixed assets; this loan was repaid in fiscal 1994.  The carrying 
+amounts of these loans approximated their fair values at June 30, 1994 and 1993.
+
+Principal payments on existing long-term debt for the fiscal years ending 
+June 30, are as follows:  1995 - $613,000; 1996 - $578,000; 1997 - $605,000; 
+1998 - $390,000; 1999 - $321,000.
+
+5.    Stock option plans
+
+The Cordis Corporation Non-Qualified Stock Option Plan ("Non-Qualified Plan")
+authorizes grants of options to purchase up to 1,875,000 shares of the Company's
+authorized but unissued common stock.  The options granted pursuant to the Plan
+either are exercisable after one year from the date of grant or vest in 
+increments over four years, must be exercised within either five or ten years 
+depending on the date of the grant, and must be granted at a price not less than
+the market value on the date of grant.
+
+At June 30, 1994, awards to purchase  1,825,830 shares under the Non-Qualified 
+Plan (net of cancellations and repurchases) had been granted.  There are 49,170 
+shares available for future grants under the Non-Qualified Plan.  Of the options
+granted, 178,930 shares were exercised under the Non-Qualified Plan during 1994.
+At June 30, 1994 and 1993, 333,429 options and 337,110 options, respectively, 
+were exercisable under the Non-Qualified Plan.
+
+The Cordis Corporation Incentive Stock Option Plan of 1982 ("Option Plan") 
+expired by its terms in October 1992.  In 1994, 19,225 shares were exercised 
+under the Option Plan.  No options were granted under this plan in either fiscal
+1994 or fiscal 1993, and 5,775 options and 27,125 options, respectively, were 
+outstanding and exercisable at June 30, 1994 and 1993.  Options under the Option
+Plan qualify as "incentive stock options" under the Economic Recovery Tax Act of
+1981. 
+
+The Webster Laboratories, Inc. 1992 Stock Plan ("Webster Plan"), was adopted by 
+the Board of Directors of Webster in June 1992 (see Note 3 of Notes to 
+Consolidated Financial Statements).  Under the Webster Plan, awards to purchase 
+412,000 shares had been granted at June 30, 1994.  During fiscal 1994, 23,969 
+shares were exercised, and at June 30, 1994 and 1993, 79,195 options and 44,212 
+options were exercisable, respectively.  The Webster Plan options were granted 
+for a term of ten years at an exercise price fixed by the Webster Plan 
+administrator, and are exercisable at such times as set forth in each individual
+option agreement.
+
+The Cordis Corporation Director Non-Qualified Stock Option Plan provides 
+incentives in the form of stock option grants  for the non-employee members of 
+the Company's Board of Directors.  Of the 200,000 shares authorized, 56,000 have
+been granted to Board members through June 30, 1994, and 38,000 and 28,000 of 
+these were exercisable, respectively,  at June 30, 1994 and 1993.  During 1994, 
+options for 4,000 shares were exercised.  The options, which are granted 
+automatically each year, vest in full one year after the anniversary of the date
+of the grant, must be exercised within five years and are granted at a price 
+equal to the market value on the date of the grant.
+
+A summary of option transactions follows:
+<TABLE>
+<CAPTION>
+                                          1994                            1993                           1992          
+                                No. of         Option           No. of          Option           No.of        Option
+                                Shares    Price per Share       Shares     Price per Share      Shares    Price per Share 
+
+<S>                           <C>         <C>    <S><C>       <C>          <C>    <S><C>       <C>        <C>    <S><C>
+Options outstanding
+at beginning of
+ year                         1,164,693   $ 0.88 to $36.75    1,391,619    $ 0.28 to $36.75    1,206,491  $ 0.28 to $36.75
+
+Options granted                 322,107   $ 7.11 to $49.25      379,670    $ 0.88 to $26.75      317,103  $ 0.88 to $35.50
+
+Options exercised              (226,124)  $ 0.88 to $36.75     (594,834)   $ 0.28 to $27.25     (130,725) $14.50 to $19.88
+
+Options canceled                (14,242)  $ 0.88 to $29.25      (11,762)   $ 3.55 to $36.75       (1,250) $19.88 to $27.25
+
+Options outstanding
+ at end of year               1,246,434   $ 0.88 to $49.25    1,164,693    $ 0.88 to $36.75    1,391,619  $ 0.28 to $36.75
+</TABLE>
+The income tax benefits derived from the exercise of non-qualified stock options
+and disqualifying dispositions of incentive stock options, when realized, are
+credited to capital in excess of par value.
+
+6.  Income taxes
+
+Effective July 1, 1993, the Company adopted Statement of Financial Accounting
+Standards No. 109 ("SFAS No. 109"), Accounting for Income Taxes.  The cumulative
+effect on prior periods of this accounting change of $10.1 million, or $.61 per
+share, is reported as a one time benefit in the Consolidated Statement of
+Operations for the year ended June 30, 1994.  In addition a one time adjustment
+of $4.2 million was recorded to capital in excess of par value in the
+Consolidated Balance Sheet as of June 30, 1994 due to the income tax benefits
+derived from the exercise of non-qualified stock options and disqualifying
+dispositions of incentive stock options.
+
+SFAS No. 109 is an asset and liability approach that requires the recognition of
+deferred tax assets and liabilities for the expected future tax consequences of
+events that have been recognized in the Company's financial statements or tax
+returns.  In estimating future tax consequences, SFAS No. 109 generally 
+considers all expected future events other than enactments of changes in the tax
+law or rates.  Previously, the Company used the Statement of Financial 
+Accounting Standards No. 96 ("SFAS No. 96") asset and liability approach that 
+gave no recognition to future events other than the recovery of assets and 
+settlement of liabilities at their carrying amounts.  Under SFAS No. 96, tax 
+credits are reflected as reductions of income tax expense using the flow through
+method in the year they are utilized.
+
+The distribution of income before income taxes and cumulative effect of
+accounting change between domestic and foreign sources was as follows (in
+thousands):
+                                             1994           1993        1992    
+
+Domestic                                   $ 36,219     $ 21,600     $ 18,417  
+Foreign                                      22,161       21,109       16,740  
+
+Total                                      $ 58,380     $ 42,709     $ 35,157  
+
+The provision (benefit) for income taxes consists of (in thousands):
+
+                                               1994          1993         1992 
+Current:
+Federal                                     $  8,980     $  4,937     $  1,515  
+State                                          1,169          698          420 
+Foreign                                        7,644        9,243        9,386  
+      
+                                              17,793       14,878       11,321 
+
+Deferred:
+Federal                                        3,149       (2,256)         (12)
+State                                            257          (84)          (4)
+Foreign                                         (310)      (1,295)      (1,879)
+      
+                                               3,096       (3,635)      (1,895)
+
+Provision for income  
+ taxes                                      $ 20,889     $ 11,243     $  9,426 
+
+The tax effect of the significant temporary differences which comprised the
+deferred tax assets and liabilities at June 30, 1994 was as follows (in
+thousands):
+
+Assets:
+      Discontinued operations               $ 5,124
+      Intercompany profit adjustments in
+        inventories and other assets          4,527
+      Asset valuation reserves                4,122
+      Net operating loss carryforwards        2,485
+      Employee benefits                       1,930
+      Depreciation                            1,686
+      Other accrued expenses                    745
+      Other                                     138
+                                             20,757
+      Valuation allowance                    (2,618)
+
+           Total deferred tax assets         18,139
+
+Liabilities:
+      Employee benefit plans                   (940)
+      Other                                      (5)
+           Total deferred tax liabilities      (945)
+
+Net deferred tax asset                      $17,194
+
+The valuation allowance relates primarily to net operating loss carryforwards of
+the Company's European subsidiaries.  The reserve decreased during 1994 due to
+the utilization of net operating losses.  As of June 30, 1994 the European
+subsidiaries had a net operating loss carryforward of approximately $6,600,000. 
+           
+
+
+
+
+
+
+As permitted under SFAS No. 109, prior years' financial statements have not been
+restated.  The principal temporary differences under SFAS No. 96 in the deferred
+tax (benefit) provision were (in thousands):
+                                                            1993        1992   
+
+Intercompany profit adjustments in
+ foreign inventories                                     $(1,339)     $  (122)
+Asset valuation reserves:
+ Domestic                                                   (271)          (4)
+ Foreign                                                       -          197 
+Foreign research and development
+ credits                                                       -       (1,962)
+Deferred expenses                                         (1,363)           - 
+Other items, net                                            (662)          (4)  
+
+Total                                                    $(3,635)     $(1,895)
+
+The effective income tax rates in the Consolidated Statements of Operations
+differ from the statutory federal income tax rates as follows:
+
+                                                   1994       1993      1992   
+
+Statutory U.S. income tax rate                     35.0%     34.0%      34.0%  
+
+Increase (decrease) resulting from:
+Foreign statutory tax rates differential            (.2)      1.7        3.8   
+Foreign operating loss for which no carryback
+ benefit is available                                 -        .2        1.1
+Utilization of net operating losses                (1.6)     (8.4)     (16.4) 
+Minimum tax                                           -       2.0        1.8
+Foreign tax credits                                   -      (9.3)         -
+Other items, net                                    2.6       6.1        2.5  
+
+Effective tax rates                                35.8%     26.3%      26.8% 
+
+Undistributed earnings of foreign subsidiaries of $76.6 million at June 30, 1994
+are indefinitely reinvested in foreign operations; accordingly no provision has
+been made for income taxes that might be payable upon remittance.  It is not
+practical to estimate the amount of tax that might be payable on the eventual
+remittance of such earnings.  On remittance, certain foreign countries impose
+withholding taxes that are then available for use as credits or deductions
+against U.S. tax liability, if any, subject to certain limitations.  The amount
+of withholding tax that would be payable on remittance of the entire amount of
+undistributed earnings at June 30, 1994 would approximate $3.9 million.
+
+7.    Employee benefit plans
+
+The Company has a domestic non-contributory defined benefit pension plan (the
+"Plan") which covers substantially all full-time domestic employees.  The
+Company's policy is to contribute amounts as are necessary on an actuarial basis
+to provide assets sufficient to meet the benefits requirements in accordance 
+with ERISA and federal income tax regulations.  The assets of the Plan consist 
+mainly of common stock and intermediate bond investments.
+
+Net periodic pension cost for each of the three years ended June 30, 1994, 1993
+and 1992 included the following components (in thousands):
+
+                                                     1994      1993      1992  
+Service cost - benefits earned during the
+ period                                           $ 1,661   $ 1,303    $ 1,148 
+Interest cost on projected benefit obligation       2,875     2,585      2,272 
+Return on assets                                   (2,011)   (2,339)    (2,990)
+Net amortization and deferral                        (356)      102        739
+
+Net pension cost                                  $ 2,169   $ 1,651    $ 1,169 
+
+The actuarial assumptions used in the three year period ended June 30, 1994 were
+as follows:
+
+                                                      1994      1993     1992  
+      
+      Discount rates                                    8%   8-1/2%    8-1/2%
+      Long-term rate of return on assets                9%       9%    8-1/2%
+      Rates of increase in compensation levels:
+           To age 30                                    9%       9%       10%
+           To age 40                                    7%       7%        8%
+           Thereafter                                   5%       5%        6%
+
+
+The following table sets forth the Plan's funded status and amounts recognized
+in the Company's Consolidated Balance sheets at June 30, 1994 and 1993 (in
+thousands):
+
+                                                    1994       1993   
+
+Actuarial present value of benefit obligations:
+Vested benefit obligation                         $(31,912) $(27,756)  
+Nonvested benefit obligation                          (660)     (404)  
+
+Accumulated benefit obligation                     (32,572)  (28,160)  
+Excess of projected benefit obligation over
+  accumulated benefit obligation                    (7,056)   (5,284)  
+
+Projected benefit obligation                       (39,628)  (33,444)  
+Plan assets at fair value                           30,850    27,965   
+
+Projected benefit obligation in excess of plan
+ assets                                             (8,778)   (5,479)  
+Unrecognized net loss                                8,323     4,886    
+Unrecognized prior service cost                      3,102     3,633    
+Unrecognized net transition (asset) originating
+ July 1, 1986                                       (3,742)   (4,490)
+Additional minimum liability                          (626)        - 
+
+      Accrued pension costs                       $ (1,721) $ (1,450)
+
+The provisions of Financial Accounting Standards Board Statement No. 87,
+"Employers' Accounting for Pensions", require recognition in the balance sheet
+of an additional minimum liability up to the unfunded accumulated benefit
+obligation and related intangible asset for pension plans with accumulated
+benefits in excess of plan assets.  Accordingly, an intangible asset equal to 
+the amount of the additional minimum liability of $626,000 above has been 
+recorded in other assets in the Consolidated Balance Sheet at June 30, 1994.
+
+The Company sponsors a defined contribution retirement savings plan for its
+domestic employees and matches a portion of employee contributions with
+contributions of the Company's stock.  Contributions made to the plan for the
+years ended June 30, 1994, 1993, and 1992 were $752,000, $599,000 and $564,000,
+respectively.
+
+Certain of the Company's foreign subsidiaries provide retirement and termination
+indemnity benefits for employees through multiemployer and other types of plans
+with insurance companies, which cover a majority of full-time employees, based
+on compensation and years of service.  Pension costs for these plans for the
+years ended June 30, 1994, 1993 and 1992 were $968,000, $828,000 and $778,000,
+respectively.  At June 30, 1994 and 1993, unfunded benefits included in current
+and other long-term liabilities were $1,072,000 and $939,000, respectively.
+
+The Company maintains a performance award plan for officers and key senior
+employees.  Awards are earned upon achievement of certain performance objectives
+as determined annually by the Compensation Committee of the Board of Directors. 
+For the years ended June 30, 1994, 1993 and 1992, provisions for this plan were
+$3,146,000, $2,541,000 and $1,005,000 respectively.
+
+The Company has deferred compensation or supplemental retirement agreements with
+present and past key officers, directors and employees.  The cost of such plans
+is being or has been accrued over the period of active employment from the
+contract or agreement date.  Certain payments, insignificant in amount, are
+charged to expense when due.  Costs for these agreements approximated $734,000,
+$520,000 and $471,000 for the years ended June 30, 1994, 1993 and 1992,
+respectively.
+
+The Company adopted Statement of Financial Accounting Standards ("SFAS") No.106,
+"Employers Accounting for Postretirement Benefits Other Than Pensions" in fiscal
+1994, effective for U.S. plans. For foreign plans, SFAS No. 106 is effective for
+fiscal year ending June 30, 1996.  In November 1992, SFAS No. 112, "Employers'
+Accounting for Postemployment Benefits" was issued, effective for the fiscal 
+year ending June 30, 1995.  The Company does not believe that adoption of either
+of these standards will have a significant effect on future operations.
+
+8.    Commitments and contingencies
+
+Leases:
+
+During fiscal 1987, the Company initiated a plan to dispose of all businesses
+other than its angiographic and neuroscience product lines.  This plan included
+the disposal of the worldwide cardiac pacing operations, of which the
+Administrative and Technical Center ("ATC") in Miami, Florida, which is held
+under a capitalized lease, was a principal asset.
+
+In September 1991, the Company entered into an agreement to sublease ATC.  Both
+the sublease and the Company's existing capitalized lease expire on December 31,
+2005.  Under the terms of the sublease, the sublessee is responsible for all
+taxes (except taxes on vacant land), insurance and operating expenses, in
+addition to rental payments which commenced on January 1, 1992 of $1.2 million
+annually which increase annually to $2.2 million in the final year of the
+sublease.  During 1992 the Company paid the sublessee $5.0 million in leasehold
+improvement allowances.  The sublease gives cancellation options at the end of
+the fifth and tenth years to the sublessee which, if exercised, will require
+repayments of leasehold improvement allowances by the sublessee to the Company
+of $3.8 million and $2.0 million, respectively.  The sublessee also has an 
+option to extend the lease for five years or to purchase the facility at 
+December 31, 2005.  The reserve for future costs relates to the discounted 
+shortfall in rental income from the sublease compared to the underlying payments
+over the full term of its existing capitalized lease.  In November 1993, the 
+sublessee announced that the division that currently subleases ATC is for sale.
+The Company has not been notified by the sublessee whether or not it intends to 
+exercise its option to cancel the sublease on December 31, 1996.  In the event 
+that the sublessee does exercise the cancellation option, the Company believes 
+that the proceeds of $3.8 million from the repayment of leasehold improvement 
+allowances by the sublessee, combined with the current reserve for future costs,
+will be sufficient to cover the carrying costs of the building until a 
+replacement tenant can be found.  Accordingly, the Company does not believe that
+cancellation of the sublease would have a material effect on the future 
+liquidity or financial condition of the Company.
+
+The net annual cost of the capitalized lease, which expires in December 2005, is
+approximately $2.2 million.  Aggregate gross future payments under the
+capitalized lease totaled approximately $27,762,000 at June 30, 1994.
+
+Rental income received by the Company in 1994, 1993 and 1992 was $1,333,000, 
+$1,237,000, and $595,000, respectively.  Future minimum sublease payments
+receivable under the noncancellable portion are as follows:  
+
+              Year Ending June 30                         Amount  
+              1995                                      $1,438,000
+              1996                                       1,553,000
+              1997 (6 months)                              807,000
+
+At June 30, 1994 and 1993, assets and liabilities of the discontinued operations
+are reflected below (in thousands):
+                                                        1994            1993    
+Property, plant & equipment, net of accumulated
+ depreciation and amortization of $12,373 at June
+ 30, 1994 and $10,944 at June 30, 1993                $ 17,805       $ 19,467   
+Other assets, net                                        1,307          1,353   
+Capital lease liability                                (16,628)       (17,380) 
+
+Net capital lease asset                                  2,484          3,440  
+Reserve for future costs                                (6,316)        (7,912) 
+
+                                                        (3,832)        (4,472)  
+Amount included in current liabilities                     842            988  
+
+Net liabilities - non-current                         $ (2,990)      $ (3,484)
+
+The Company has several long-term operating leases which expire at various times
+through 2008.  Most of the leases contain renewal options and require the 
+Company to pay for maintenance, taxes and insurance.  Rental expenses charged to
+operations in 1994, 1993 and 1992 were $2,328,000, $1,867,000 and $1,559,000, 
+respectively.  Future lease commitments are estimated as follows: 1995 -
+$2,182,000; 1996  - $1,572,000; 1997 - $1,009,000; 1998 - $662,000; 1999 -
+$438,000; thereafter - $1,088,000.
+
+Legal proceedings:
+
+The Company is engaged in various ordinary routine litigation and administrative
+proceedings incidental to the business of the Company, some of which involve
+claims for substantial amounts of money and include claims for punitive damages.
+The Company does not, however, anticipate that any amounts required to be paid
+by reason thereof will, in the aggregate, have a material adverse effect on the
+financial condition of the Company.
+
+The Company self-insures a portion of its products liability claims and 
+maintains insurance coverage in excess of that retention.  Such insurance may 
+not cover or indemnify awards of punitive damages.  The Company believes its 
+insurance coverage is adequate to protect it against any product related losses 
+that could otherwise have a material adverse effect on the financial condition 
+of the Company.
+
+Pacer product liability litigation
+
+As part of the transaction involving the sale of the Company's pacing operations
+in 1987, the purchaser assumed certain contingent liabilities including several
+pending lawsuits.  However the Company retained liability for any punitive
+damages awarded in connection with pacer-related products liability litigation
+involving products sold by the Company prior to April 30, 1987.  Since 1987 
+there have been no such punitive damage awards, nor does the Company anticipate 
+that future awards, if any, would have a material adverse effect on the 
+financial condition of the Company.
+
+In November 1986 a product liability class action suit was filed against the
+Company and others in the United States District Court for the Southern District
+of Ohio.  The suit seeks compensatory and punitive damages regarding certain of
+the Company's pacemakers.  In 1989, a second pacemaker class action lawsuit was
+filed against the Company in the United States District Court for the Southern
+District of California.  This case was transferred and consolidated with the 
+Ohio action in 1990.
+
+The Company has vigorously defended the pacemaker product liability class action
+since its inception.  In December 1992, the Court conditionally certified the
+proceedings as a class action.  The Complaint claims substantial compensatory 
+and punitive damages are due to the class members.  However, the number of 
+claimants and nature and extent of damages allegedly suffered by any purported 
+class members are not yet known and the Company is unable to meaningfully assess
+the likely final outcome of the class action litigation.  The Company believes 
+it has defenses to plaintiffs' claims and, as more fully described below, that 
+it has available adequate and effective indemnification and insurance coverage.
+
+Beginning in 1986 and thereafter, the Company duly notified its insurance
+carriers of the filing of the initial pacemaker class action.  In response, the
+carriers agreed to provide a defense to the Company, subject to various
+reservations of rights.  Such insurance may not cover or indemnify against 
+awards of punitive damages.
+
+In 1987, subsequent to the filing of the pacemaker class action claim, the
+Company sold its pacemaker business to TNC Medical Devices Pte, Ltd.  ("TNC"). 
+As part of that transaction, TNC agreed to indemnify the Company for contingent
+liabilities relating to its pacemaker operations, including the pacemaker class
+action litigation and other pacemaker product liability actions, except for any 
+award of punitive damages.  This obligation was guaranteed by Telectronics
+Holdings, Ltd., the parent of TNC.  In past pacemaker cases, there has never 
+been an award of punitive damages against the Company.
+
+In November and December 1993, the Company's insurance carriers filed two
+separate actions against the Company and TNC in the United States District Court
+for the Southern District of Florida, seeking a declaratory adjudication of the
+extent of their duties to defend and indemnify the Company for claims made in 
+the pacemaker class action.  Additionally, the carriers seek an adjudication 
+that, in connection with TNC's acquisition of the Company's pacemaker business, 
+TMC agreed to assume the primary obligation to defend and indemnify the Company 
+for the pacemaker product liability litigation.  Both insurance actions have 
+been consolidated with the Ohio action.  The Company intends to vigorously 
+respond to the insurance carriers' lawsuits and urge the court to affirm the 
+responsibility of the Company's insurance carriers and TNC for any award of 
+compensatory damages and all defense costs relating to the pacemaker product 
+liability class action. The Company has filed a motion for partial summary 
+judgement to affirm the carriers' duty to defend the Company.  Only in the event
+that the class action plaintiffs are successful in their claims, the Company's 
+defenses are rejected and there is an adjudication that neither the Company's 
+insurance carriers nor TNC and its parent have responsibility for any such 
+liability (or the Company is unable to collect any amounts owed to it pursuant 
+to the terms of TMC's indemnity or the guarantee of TNC's parent), could these 
+lawsuits have a material adverse effect on the Company's financial condition.  
+Based upon current facts, communications with outside counsel and internal 
+analyses of the cases, Company believes that such an outcome is unlikely.
+
+Other litigation
+
+In December 1988, the Company was sued in the U.S. District Court for the
+Southern District of Florida by approximately 160 former Company employees who
+became employed by the company which purchased the pacing operations in 1987. 
+The suit alleged that these employees were entitled to severance benefits and 
+pay in lieu of notice as a result of their termination of employment with the
+Company.  In January 1993, the Court granted the Company's cross motion for
+summary judgment.  The former employees appealed that decision.  Approximately
+one-half of the former employees voluntarily dismissed their appeal with
+prejudice while the remainder are pursuing the appeal.
+
+On or about May 1, 1990 a class action suit was filed by a former employee of 
+the Company against the Company, the Company's Retirement Plan ("the Plan"), and
+the Retirement Plan Administration Committee, in the U.S. District Court for the
+Southern District of Florida, alleging that the former employees who became
+employed by the purchaser of the pacing operations were entitled to lump sum
+distributions under the Company Retirement Plan and that the Company failed to
+notify class members of their right under COBRA to elect continued health
+insurance coverage under the Company's health insurance plans upon termination
+of their employment with the Company, thus entitling the class to statutory
+penalties.  The District Court Judge granted the Company's motion to dismiss the
+lump sum claim.  The former employee voluntarily dismissed the COBRA claim and
+has appealed the lump sum count.  Oral argument was heard by the Eleventh 
+Circuit Court of Appeals in March 1994 but no decision has been rendered.  
+
+In December 1989, the Company's former Middle Eastern distributor filed an 
+action in the United States District Court for the Southern District of Florida,
+alleging breach of contract, intentional interference with business 
+relationships and wrongful termination and seeking monetary damages in excess of
+$8 million against the Company.  The Company filed a counterclaim against the 
+distributor for damages relating to fraud, defamation and breach of contract. 
+The Company, in order to minimize the risks of exposure to claimed damages in 
+the litigation and to halt the escalating costs being incurred as a result of 
+discovery and procedural matters in the case, elected to negotiate and settle 
+the matter by payment of the sum of $5.2 million to the Plaintiff.  This amount 
+is included in net other expenses in the 1994 Consolidated Statement of 
+Operations, and in current liabilities in the June 30, 1994 Consolidated Balance
+Sheet.
+
+In October 1992, a suit was filed by Schneider (USA) Inc. against the Company in
+the United States District Court for the District of Minnesota, Third Division,
+alleging that certain of the Company's angiographic catheters and the Company's
+guiding catheters infringe a Schneider patent. Discovery proceedings are
+continuing, with a cutoff period established for September 1994.  The Company 
+has instituted patent infringement actions against Schneider AG in Great Britain
+and Germany alleging that certain Schneider products infringe on the Company's
+patents regarding its nylon balloon technology.
+
+It is not expected that the outcomes of the litigation described above, either
+individually or in the aggregate, will have a material adverse effect on the
+financial condition of the Company.
+ 
+ 9.  Foreign and domestic operations and segment reporting
+
+The Company operates in a single industry segment: the design, manufacture and
+sale of medical devices.  These products are sold to hospitals and other medical
+institutions and physicians.  In order to reduce credit risk, the Company
+performs credit evaluations of its customers on a regular basis, and generally
+does not require collateral.  The Company has a large number of customers
+worldwide with no single customer accounting for a significant portion of trade
+accounts receivable.  At June 30, 1994, the principal geographical regions and
+their respective balances included in accounts receivable were as follows (in
+thousands):
+
+                    United States                     $21,033
+                    Italy                              11,530
+                    France                              8,556
+                    Spain                               8,253
+      
+
+
+
+The following presents information on geographic segments for the fiscal years
+ended June 30, 1994, 1993 and 1992 (in thousands):
+                                     Adjust-
+                                    Domestic    Foreign   ments and
+                                     Opera-      Opera-    Elimina-   Consoli- 
+                                     tions       tions      tions      dated   
+1994
+
+Sales to unaffiliated customers     $174,447   $162,095   $      -    $336,542 
+Transfers between geographic
+ areas                                40,551     14,734    (55,285)          - 
+Total revenues                      $214,998   $176,829   $(55,285)   $336,542 
+Operating profit from geographic
+ segments                           $ 55,326   $ 37,820   $ (3,312)   $ 89,834 
+Research and development                                               (25,959)
+General corporate expense                                               (5,860)
+Interest income, net                                                       365 
+Income before income taxes and
+ cumulative effect of accounting
+ change                                                               $ 58,380 
+Identifiable assets                 $118,919   $118,996   $ (5,374)   $232,541 
+Corporate assets                                                        55,586 
+
+Total assets at June 30, 1994                                         $288,127 
+
+
+1993
+
+Sales to unaffiliated customers     $136,843   $130,603   $      -    $267,446 
+Transfers between geographic
+ areas                                26,472     12,759    (39,231)          - 
+Total revenues                      $163,315   $143,362   $(39,231)   $267,446 
+Operating profit from geographic
+ segments                           $ 38,203   $ 30,181   $ (1,084)   $ 67,300 
+Research and development                                               (20,139)
+General corporate expense                                               (3,998)
+Interest (expense), net                                                   (454)
+Income before income taxes                                            $ 42,709 
+Identifiable assets                 $ 81,825   $ 89,732   $ (3,080)   $168,477 
+Corporate assets                                                        42,042 
+
+Total assets at June 30, 1993                                         $210,519 
+
+1992
+
+Sales to unaffiliated customers     $121,369   $109,108   $      -    $230,477 
+Transfers between geographic
+ areas                                18,540     11,298    (29,838)          - 
+Total revenues                      $139,909   $120,406   $(29,838)   $230,477 
+Operating profit from geographic
+ segments                           $ 34,428   $ 25,818   $    462    $ 60,708
+Research and development                                               (19,793)
+General corporate expense                                               (3,626)
+Interest (expense), net                                                 (2,132) 
+Income before income taxes                                            $ 35,157 
+
+Identifiable assets                 $ 72,208   $ 87,094   $ (1,418)   $157,884 
+Corporate assets                                                        14,102 
+
+Total assets at June 30, 1992                                         $171,986 
+
+
+
+Transfers between geographic areas are made at amounts which would approximate
+those prices charged to unaffiliated distributors.  Operating profits from
+geographic segments represent total revenue less cost of goods sold and direct
+operating expenses.  It excludes research and development expense, general
+corporate expense, net interest expense, income taxes, and cumulative effect of
+accounting change.
+
+Identifiable assets are those that are identified with the operations in each
+geographic area.  Corporate assets are cash and cash equivalents and short-term
+investments.  Total foreign assets at June 30, 1994, 1993 and 1992 are indicated
+above.  The corresponding liabilities for foreign operations were $41,168,000,
+$29,038,000 and $27,136,000, respectively.
+
+10.  Quarterly financial data
+
+Quarterly financial data, restated to give effect to the Webster pooling (see
+Note 3 of Notes to Consolidated Financial Statements), is as follows (unaudited)
+(dollars in thousands except per share amounts):
+<TABLE>
+<CAPTION>
+                           First                       Second                 Third                  Fourth
+                          Quarter                     Quarter                Quarter                Quarter      
+                         As                          As                     As                     As
+                         Previously       As         Previously  As         Previously  As         Previously  As
+                         Reported         Restated   Reported    Restated   Reported    Restated   Reported    Restated
+
+<S>                      <C>              <C>         <C>        <C>         <C>        <C>         <C>    <C> <C>
+1994
+Net sales                $ 69,145         $ 73,147    $ 75,401   $ 79,453    $ 85,043   $ 88,942    $      -   $ 95,000
+Gross profit               41,838           44,775      44,943     47,893      51,569     54,425           -     55,457
+Income before cumulative
+  effect of accounting
+  change                    7,908            8,723       8,591      9,134       9,936     10,540           -      9,094
+Net income                 18,023           18,838       8,591      9,134       9,936     10,540           -      9,094
+Per share:
+Income before cumulative
+  effect of accounting
+  change                      .54              .53         .58        .55         .67        .63           -        .55
+Net income                   1.24             1.15         .58        .55         .67        .63           -        .55
+
+1993
+Net sales                $ 62,515         $ 64,931    $ 61,971   $ 65,118    $ 64,219   $ 67,402    $ 66,753   $ 69,995
+Gross profit               38,493           40,345      38,321     40,431      37,631     40,198      39,064     41,375
+Net income                  6,054            6,576       6,917      7,518       7,743      8,593       8,346      8,779
+Net income per share          .42              .41         .47        .46         .53        .53         .58        .54
+</TABLE>
+              
+
+In December 1993, under the terms of a settlement agreement with C. R. Bard, the
+Company elected to pay a license fee for the license of PTCA balloon catheter
+technology.  Utilizing a five year amortization period from the agreement date
+of May 1991, the Company expensed $1.5 million of the $3.0 million license fee
+in cost of goods sold in the second quarter of fiscal 1994, of which
+approximately $1.3 million ($0.05 per share after tax) related to the period 
+from May 1991 to June 1993.
+
+In the fourth quarter of fiscal 1994, the Company incurred costs of
+approximately $1.3 million ($0.05 per share after tax), included in selling, 
+general and administrative expenses,  related to the Webster merger transaction.
+The Company settled a lawsuit in July 1994 in the amount of $5.2 million, for 
+which it had previously accrued $3.0 million in other expenses during 1994.  The
+balance of the settlement of $2.2 million ($0.08 per share after tax) was 
+expensed in the fourth quarter (see Note 8 of Notes to Consolidated Financial 
+Statements).
+
+11.      Common stock purchase rights
+
+On September 12, 1986 the Company's Board of Directors adopted a Rights
+Agreement, as subsequently amended, authorizing a dividend distribution on each
+share of common stock, $1.00 par value, of the Company's outstanding shares on
+the distribution date, as defined, in the form of a right to purchase one-half
+of a share of common stock upon the occurrence of certain events.  The exercise
+price to purchase one-half of a share of common stock, initially established at
+$25, is subject to adjustment.  The rights become exercisable if an entity,
+person or group acquires beneficial ownership of 20% or more of the Company's
+outstanding common stock or commences a tender offer that would result in that
+entity, person or group acquiring beneficial ownership of 30% or more of the
+outstanding common stock of the Company.  The rights, which do not entitle
+holders to vote or receive dividends, expire on September 22, 1996 and may be
+redeemed by the Company at a price of $0.01 per right at any time prior to the
+earlier of (i) the tenth day following the public announcement of intent to
+acquire the Company's stock as described above or the date a majority of the
+Board of Directors becomes aware of an acquiring entity, person or group, as
+defined, or (ii) the expiration date.  As of June 30, 1994 rights to purchase
+8,000,603  shares of common stock were outstanding.
+<PAGE>
+
+                            CORDIS CORPORATION
+                SCHEDULE V - PROPERTY, PLANT AND EQUIPMENT
+                              (In thousands)
+
+
+
+                               Balance 
+                                at be-             Retire-            Balance
+                               ginning    Addi-    ments or   Other    at end
+                                    of    tions      sales   changes     of
+                                period  at cost      (a)      (b)     period  
+
+Year ended June 30, 1994:
+
+Land                          $  4,829  $   127   $     -  $    89   $  5,045
+
+Building and improvements       49,940    3,743     (113)    1,266     54,836
+
+Leasehold improvements           2,457    1,233     (238)       80      3,532
+
+Machinery and equipment         51,821   10,702   (2,631)    1,810     61,702
+
+Construction in progress         4,403    6,966        -      (728)    10,641
+      
+                              $113,450  $22,771   $(2,982) $ 2,517   $135,756
+
+Year ended June 30, 1993:
+
+Land                          $  4,761  $   237   $     -  $  (169)    $4,829
+
+Building and improvements       50,413    2,541     (892)   (2,122)    49,940
+
+Leasehold improvements           1,363    1,346      (85)     (167)     2,457
+
+Machinery and equipment         49,335   10,917   (5,303)   (3,128)    51,821
+
+Construction in progress         4,465      532        -      (594)     4,403
+
+                              $110,337  $15,573  $(6,280)  $(6,180)  $113,450
+
+Year ended June 30, 1992:
+
+Land                          $  4,487  $     -  $     -   $   274   $  4,761
+
+Buildings and improvements      46,153      976     (170)    3,454     50,413
+
+Leasehold improvements             959      313      (59)      150      1,363
+
+Machinery and equipment         38,176    8,579   (1,137)    3,717     49,335
+
+Construction in progress         3,098    1,343         -       24      4,465 
+
+                              $ 92,873  $11,211  $(1,366)  $ 7,619   $110,337 
+
+
+
+(a)   Includes normal retirements of assets.
+
+(b)   Includes reclassifications between categories, and the translation effect
+      of Statement of Financial Accounting Standards No. 52.
+
+                            CORDIS CORPORATION
+                SCHEDULE VI - ACCUMULATED DEPRECIATION AND
+               AMORTIZATION OF PROPERTY, PLANT AND EQUIPMENT
+                              (In thousands)
+
+
+
+                                Balance    Addi-
+                                 at be-    tions    Retire-             Balance
+                                ginning  charged    ments     Other     at end
+                                     of       to    or sales   changes      of
+                                 period   income     (a)       (b)     period 
+
+Year ended June 30, 1994:
+
+Buildings and improvements      $22,063  $ 2,860   $   (18)   $   644   $25,549
+
+Leasehold improvements              759      323      (192)        17       907
+
+Machinery and equipment          31,564    7,656    (2,106)       939    38,053
+
+                                $54,386  $10,839  $(2,316)  $ 1,600    $64,509
+
+
+Year ended June 30, 1993:
+
+Buildings and improvements      $21,296  $ 2,721   $  (860)   $(1,094)  $22,063
+
+Leasehold improvements              722      192       (63)       (92)      759
+
+Machinery and equipment          31,461    6,825    (5,083)    (1,639)   31,564
+
+                                $53,479  $ 9,738   $(6,006)   $(2,825)  $54,386
+
+Year ended June 30, 1992:
+
+Buildings and improvements      $16,964  $ 2,628   $   (73)   $ 1,777   $21,296
+
+Leasehold improvements              551      151       (59)        79       722
+
+Machinery and equipment          24,477    5,965      (952)     1,971    31,461
+
+                                $41,992  $ 8,744   $(1,084)   $ 3,827   $53,479
+
+
+
+
+(a)   Includes normal retirements of assets.
+
+(b)   Includes reclassifications between categories, and the translation effect
+      of Statement of Financial Accounting Standards No. 52.
+
+                            CORDIS CORPORATION
+             SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+                              (In thousands)
+
+
+
+                                                    Addi-
+                                         Balance    tions    Deduc-
+                                         at be-    charged   tions/    Balance
+                                         ginning     to      other      at end
+                                             of    costs &   changes      of
+                                          period   expenses     (a)      period
+
+Allowance for doubtful accounts -
+ deducted from accounts receivable
+ in the balance sheet:
+
+Year ended June 30, 1994                 $ 1,661   $   776    $  (230)  $ 2,207
+
+Year ended June 30, 1993                 $ 1,535   $   593    $  (467)  $ 1,661
+
+Year ended June 30, 1992                 $ 1,163   $   216    $   156   $ 1,535
+
+
+
+Allowance for inventory obsolescence
+ - deducted from inventory in the
+ balance sheet:
+
+Year ended June 30, 1994                 $ 2,472   $ 1,436    $(1,649)  $ 2,259
+
+Year ended June 30, 1993                 $ 2,826   $ 1,061    $(1,415)  $ 2,472
+
+Year ended June 30, 1992                 $ 2,526   $   994    $  (694)  $ 2,826
+
+
+
+Allowance for uncollectible
+ notes receivable - deducted
+ from other assets in the
+ balance sheet:
+
+Year ended June 30, 1994                 $ 5,422    $ (326)   $(1,449)  $ 3,647
+
+Year ended June 30, 1993                 $ 4,943    $  524    $   (45)  $ 5,422
+
+Year ended June 30, 1992                 $ 4,191    $  752    $   -     $ 4,943
+
+
+
+Allowance for uncollectible
+ investment - deducted from
+ other assets in the balance
+ sheet:
+
+Year ended June 30, 1994                 $ 2,014   $   152    $     -   $ 2,166
+
+Year ended June 30, 1993                 $    -    $ 2,014    $     -   $ 2,014
+
+
+(a)   Includes the translation effect of Statement of Financial Accounting     
+      Standards No. 52.
+
+
+
+                            CORDIS CORPORATION
+                    SCHEDULE IX - SHORT-TERM BORROWINGS
+                              (In thousands)
+
+                                               Maximum                Weighted
+                                                amount                 average
+                                                 out-       Average      of     
+                                               standing     amount    interest
+                                                at any       out-       rates
+                         Balance    Weighted     month     standing     during
+                         at end      average      end       during        the
+                            of      interest    during      period      period
+                         period       rate      period        (1)         (2)  
+
+Years ended
+  June 30,
+
+      1994              $ 9,057       8.0%     $ 9,057     $ 6,604      9.3%
+
+      1993              $ 9,092       9.3%     $ 9,092     $ 4,217     11.9%    
+
+      1992              $ 2,638      13.4%     $ 2,864     $ 2,120     14.6%
+    
+      
+
+
+(1)   Average amount outstanding during the period is computed by
+      dividing the total of month-end outstanding principal balances by the 
+      number of periods.
+
+(2)   Weighted average interest rate for the year is computed by
+      dividing the actual short-term interest expense by the average short-term
+      debt outstanding.
+
+
+
+
+                            CORDIS CORPORATION
+          SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+                              (In thousands)
+
+
+                           Maintenance
+                                and
+                             repairs         Royalties          Advertising
+
+Year ended June 30, 1994     $ 3,898           $ 7,885             $ 2,993
+
+Year ended June 30, 1993     $ 3,303           $ 1,853             $ 2,768
+
+Year ended June 30, 1992     $ 2,633           $ 1,242             $ 1,858
+
+
+
+
+                              Exhibits Index
+
+Certain of the exhibits listed below are incorporated by reference to exhibits
+to previously filed registration statements or reports of the Company as
+indicated in the "Incorporated by Reference to" column.
+
+               Incorporated     
+             by Reference to   
+ Ex-                      Ex-    
+hibit     Registration   hibit   
+ No.      No. or Report   No.                      Description                  
+
+ 2(a)    Form S-4 No.     2(a)   Agreement and Plan of Reorganization, as 
+         33-52399 dated          amended by and among Cordis Corporation, Cordis
+         February 25, 1994       Acquisition, Inc., Webster Laboratories, Inc.
+                                 and certain shareholders of Webster dated as of
+                                 January 20, 1994.
+
+ 3       Form 10-K for    3      Restated Articles of Incorporation of the
+         year ended              Company dated February 9, 1978, and Articles of
+         June 30, 1983           Amendment thereto dated November 1, 1978.
+
+ 3(a)    Form S-4 No.     3(a)   Articles of Amendment to the Company's Restated
+         33-52399 dated          Articles of Incorporation filed with the 
+         February 25, 1994       Florida Secretary of State on November 3, 1993.
+
+ 3(a)    Form 10-K for    3(a)   By-Laws of the Company.
+         year ended
+         June 30, 1983
+ 
+10(a)    Form 10-K for   10(a)   Revolving Credit and Reimbursement Agreement,
+         year ended              dated as of December 30, 1991, between Cordis
+         June 30, 1992           Corporation as Borrower and NCNB National Bank 
+                                 of Florida as Lender.
+
+10(a)    Form S-4 No.    10(a)   Employment Agreement by and among Tony R.Brown,
+         33-52399 dated          Cordis Corporation and Cordis Webster, Inc.
+         February 25, 1994
+
+10(a)    Form S-4 No.    10(a)   Employment Agreement by and among Wilton W.
+         33-52399 dated          Webster, Jr., Cordis Corporation and Cordis
+         February 25, 1994       Webster, Inc.
+
+10(b)    Form 10-K for   10(b)   Lease Agreement dated as of March 1, 1979,
+         year ended              between the Company and Olympia & York Florida
+         June 30, 1985           Equity Corp.
+
+10(b)    Form 10-K for   10(b)   Lease Agreement dated as of September 20, 1991
+         year ended              between the Company and Baxter Diagnostics,Inc.
+         June 30, 1991
+
+10(d)    Form 10-K for   10(d)   Cordis Corporation Incentive Stock Option Plan
+         year ended              of 1982.
+         June 30, 1983
+
+10(d)    Form 10-Q for   10(d)   Amendment, dated April 13, 1987, to Cordis     
+         quarter ended           Corporation Incentive Stock Option Plan of 
+         March 31, 1987          1982.   
+
+10(d)    Form S-8 No.    10(d)   Cordis Corporation Non-qualified Stock Option 
+         33-23668 dated          Plan.
+         August 30, 1988
+
+10(d)    Form S-8 No.    10(d)   Cordis Corporation Non-qualified Stock Option
+         33-35304 dated          Plan.
+         June 28, 1990
+
+Exhibits Index Continued
+
+10(d)    Form S-8 No.    10(d)   Cordis Corporation Non-qualified Stock Option
+         33-63634 dated          Plan.
+         June 1, 1993
+
+10(d)    Form S-8 No.    10(d)   Webster Laboratories, Inc. 1992 Stock Plan
+         33-53835 dated
+         May 26, 1994
+
+10(d)    Form 10-K for   10(d)   Cordis Corporation Director Non-qualified Stock
+         year ended              Option Plan.
+         June 30, 1992
+
+10(d)    Form S-8 No.    10(d)   Cordis Corporation Director Non-qualified Stock
+         33-44953 dated          Plan.   
+         January 6, 1992
+
+10(d)    Form 10-K for   10(d)   Cordis Corporation Supplemental Executive
+         year ended              Retirement Plan
+         June 30, 1992
+
+10(d)    Form 10-K for   10(d)   Cordis Corporation Salary Deferral Plan
+         year ended
+         June 30, 1992
+
+10(d)    Form 10-K for   10(d)   Amended Cordis Corporation Director Retirement
+         year ended              Policy
+         June 30, 1992
+
+10(f)    Form 10-K for   10(f)   Cordis Corporation 1991 Performance Unit Award
+         year ended              Plan 
+         June 30, 1992
+
+10(i)    Form 10-Q for   10(i)   Acquisition Agreement by and between TNC 
+         quarter ended           Medical Device and Cordis Corporation, dated as
+         March 31, 1987          of April 14, 1987, including amendments thereto
+                                 dated April 14, 1987 and April 30, 1987, with 
+                                 respect to the sale of the Company's worldwide
+                                 cardiac pacing operations.
+
+10(j)    Form 8-K dated   4      Rights Agreement, dated September 12, 1986 
+         September 12,           between the Company and Manufacturers Hanover
+         1986                    Trust Company.
+
+10(j)    Form 10-K for   10(j)   Amendment No. 1, dated as of September 15, 1989
+         year ended              to the Rights Agreement, dated September 12, 
+         June 30, 1989           1986 between the Company and Manufacturers 
+                                 Hanover Trust Company.
+
+10(j)    Form 10-K for   10(j)   Amendment No. 2, dated as of October 12, 1989 
+         year ended              to the Rights Agreement, dated September 12, 
+         June 30, 1991           1986 between the Company and Manufacturers 
+                                 Hanover Trust Company.
+
+10(j)    Form 10-K for   10(j)   Amendment No. 3, dated as of November 15, 1989
+         year ended              to the Rights Agreement, dated September 12, 
+         June 30, 1991           1986 between the Company and Manufacturers 
+                                 Hanover Trust Company.
+
+11             -           -     Computation of earnings per share.
+
+22             -           -     Subsidiaries of Cordis Corporation.
+
+24             -           -     Consents of Independent Certified Public       
+                                 Accountants.
+
+
+
+The documents listed herein with the exception of Exhibits, 11, 22, and 24 are
+not included in copies of this form.  The Company will furnish any of these
+documents upon request and payment of a fee to cover its expenses.  Requests
+should be made to:
+                            Corporate Secretary
+                            Cordis Corporation
+                             P. O. Box 025700
+                         Miami, Florida 33102-5700
+                                     
+                                SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                            CORDIS CORPORATION
+
+
+Date:                                         By  Robert C. Strauss             
+August 24, 1994                                 Robert C. Strauss
+                                                President
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the date indicated.
+
+              Signature                                   Title
+
+
+
+Robert Q. Marston                             Chairman of the Board of Directors
+Robert Q. Marston
+
+
+Robert C. Strauss                             Director, President and Chief
+Robert C. Strauss                             Executive Officer
+
+
+Richard W. Foxen                              Director
+Richard W. Foxen
+
+
+Donald F. Malin, Jr.                          Director
+Donald F. Malin, Jr.
+
+
+David R. Challoner                            Director
+David R. Challoner
+
+
+Wilton W. Webster, Jr.                        Director
+Wilton W. Webster, Jr.                        
+
+
+Patricia K. Woolf                             Director
+Patricia K. Woolf
+
+
+J. L. de Ruyter van Steveninck                Director
+J. L. de Ruyter van Steveninck
+
+
+Alfred J. Novak                               Vice President and Chief 
+Alfred J. Novak                               Financial Officer
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<DESCRIPTION>EPS EXHIBIT
+<TEXT>
+
+                                                                  Exhibit 11
+
+
+                            CORDIS CORPORATION
+                 COMPUTATION OF PRIMARY EARNINGS PER SHARE
+                  (In thousands except per share amounts)
+
+
+                                                   Years ended June 30,       
+                                            1994        1993        1992   
+
+Income:
+
+Income before cumulative effect of
+ accounting change                        $ 37,491    $ 31,466    $ 25,731
+Cumulative effect of accounting change      10,115           -           -
+            
+     Net income                           $ 47,606    $ 31,466    $ 25,731    
+
+Common shares:
+
+PRIMARY
+
+Weighted average shares outstanding         15,995      15,847      15,093  
+Potential dilution on exercise
+ of stock options (1)                          557         367         486   
+      
+Shares included in the computation
+ of primary earnings per share              16,552      16,214      15,579    
+
+FULLY DILUTED
+
+Weighted average shares outstanding         15,995      15,847      15,093
+Potential dilution on exercise of
+ stock options (1)                             578         410         496 
+
+Shares included in the computation of
+ fully diluted earnings per share           16,573      16,257      15,589 
+
+Earnings per share:
+
+PRIMARY
+
+Income before cumulative effect of 
+ accounting change                        $   2.27    $   1.94    $   1.65
+Cumulative effect of accounting change         .61           -           - 
+
+     Net income                           $   2.88    $   1.94    $   1.65    
+
+FULLY DILUTED
+
+Income before cumulative effect of 
+ accounting change                        $   2.26    $   1.94    $   1.65
+Cumulative effect of accounting change         .61           -           - 
+
+     Net income                           $   2.87    $   1.94    $   1.65 
+
+
+(1) Computed under the treasury stock method based on the average price during
+the periods for primary earnings per share, and the higher of the average
+price during the periods or the end of period closing price for fully diluted
+earnings per share.
+
+NOTE:  The fully diluted calculation is submitted in accordance with
+Regulation S-K item 601(b) (11) although not required by Accounting Principles
+Board Opinion No. 15 because it results in a dilution of less than 3%.
+            
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-22
+<SEQUENCE>3
+<DESCRIPTION>SIGNIFICANT SUBSIDIARIES EXHIBIT
+<TEXT>
+
+
+
+                                                                    Exhibit 22
+
+
+
+
+
+                    SUBSIDIARIES OF CORDIS CORPORATION
+
+
+
+The significant subsidiaries of the Registrant, all of which are included in
+the Consolidated Financial Statements, are as follows:
+
+
+
+                                                                 Jurisdiction
+                                                                      of
+  Name                                                           Incorporation
+
+
+Cordis International Corporation............................    Delaware
+
+
+Cordis Holding B.V..........................................    The Netherlands
+
+
+Cordis Europa N.V...........................................    The Netherlands
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>4
+<DESCRIPTION>AUDITORS'CONSENT
+<TEXT>
+
+
+                                                                     Exhibit 24
+
+
+
+
+                       INDEPENDENT AUDITORS' CONSENT
+
+
+
+We consent to the incorporation by reference in the Registration Statement
+(Form S-8, No. 33-23668) pertaining to the Non-Qualified Stock Option Plan of
+Cordis Corporation and in the related Prospectus of our report dated August
+10, 1994 appearing in the Annual Report on Form 10-K of Cordis Corporation for
+the year ended June 30, 1994.
+
+Additionally, we consent to the incorporation by reference in the Registration
+Statement (Form S-8, No. 2-87829) pertaining to the Incentive Stock Option
+Plan of 1982 of Cordis Corporation and in the related Prospectus of our report
+dated  August 10, 1994 appearing in the Annual Report on Form 10-K of Cordis
+Corporation for the year ended June 30, 1994.
+
+Additionally, we consent to the incorporation by reference in the Registration
+Statement (Form S-8, No. 33-35304) pertaining to the Non-Qualified Stock
+Option Plan of Cordis Corporation and in the related Prospectus of our report
+dated August 10, 1994 appearing in the Annual Report on Form 10-K of Cordis
+Corporation  for the year ended June 30, 1994.
+
+Additionally, we consent to the incorporation by reference in the Registration
+Statement (Form S-8, No. 33-44953) pertaining to the Director Non-Qualified
+Stock Option Plan of Cordis Corporation and in the related Prospectus of our
+report dated August 10, 1994 appearing in the Annual Report on Form 10-K of
+Cordis Corporation for the year ended June 30, 1994.
+
+Additionally, we consent to the incorporation by reference in the Registration
+Statement (Form S-8, No. 33-63634) pertaining to the Non-Qualified Stock
+Option Plan of Cordis Corporation and in the related Prospectus of our report
+dated August 10, 1994 appearing in the Annual Report on Form 10-K of Cordis
+Corporation for the year ended June 30, 1994.
+
+Additionally we consent to the incorporation by reference in the Registration
+Statement (Form S-8, No. 33-53835) pertaining to the Webster Laboratories,
+Inc. 1992 Stock Plan and in the related Prospectus of our report dated August
+10, 1994 appearing in the Annual Report on Form 10-K of Cordis Corporation for
+the year ended June 30, 1994.
+
+
+Deloitte and Touche LLP
+Miami, Florida
+August 24, 1994
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3190 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ qLoK5PupY61kLLaMhSGpTsXDq/OHxBeik6lkzAaTx7pnmAwrEkjfZSPDFIzhFDE7
+ cwxbspfCf0xIryRI9mnMHQ==
+
+<IMS-DOCUMENT>0000950109-94-001614.txt : 19940902
+<IMS-HEADER>0000950109-94-001614.hdr.sgml : 19940902
+ACCESSION NUMBER:		0000950109-94-001614
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	19940531
+FILED AS OF DATE:		19940826
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TEXAS INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000097472
+		STANDARD INDUSTRIAL CLASSIFICATION:	3312
+		IRS NUMBER:				750832210
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04887
+		FILM NUMBER:		94546282
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7610 STEMMONS FRWY STE 200
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75247
+		BUSINESS PHONE:		2146476700
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>
+ 
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D. C. 20549
+
+                                   FORM 10-K
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934 (FEE REQUIRED).
+
+     For the fiscal year ended May 31, 1994
+
+                                      OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934 (NO FEE REQUIRED).
+
+     For the transition period from ________________  to ________________
+
+     Commission File Number 1-4887
+
+                            TEXAS INDUSTRIES, INC.
+            (Exact name of registrant as specified in the charter)
+
+
+          Delaware                                     75-0832210
+(State or other jurisdiction of           (I. R. S. Employer Identification No.)
+incorporation or organization)
+
+               7610 Stemmons Freeway, #200, Dallas, Texas 75247
+            ------------------------------------------------------
+              (Address of principal executive offices) (Zip Code)
+
+       Registrant's telephone number, including area code (214)647-6700
+
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+
+    Title of each class                Name of each exchange on which registered
+  -----------------------              -----------------------------------------
+
+Common stock, Par Value $1.00          New York Stock Exchange
+
+
+       Securities registered pursuant to Section 12(g) of the Act:  NONE
+
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes  X     No
+                                              -----     -----      
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  [  ].
+
+     The aggregate market value of the Registrant's Common Stock, $1.00 par
+value, held by non-affiliates of the Registrant as of August 5, 1994 was
+$422,504,906.  As of August 5, 1994, 12,490,749 shares of the Registrant's
+Common Stock, $1.00 par value, were outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE.
+     Portions of the Registrant's Annual Report to Shareholders for the year
+ended May 31, 1994 included as Exhibit 13 to this Annual Report, are
+incorporated by reference into Parts I and II.
+
+     Portions of the Registrant's definitive proxy statement for the annual
+meeting of shareholders to be held October 18, 1994 (SEC File Number: 
+1.001-04887), are incorporated by reference into Part III.
+<PAGE>
+ 
+                               TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                    Page
+                                    PART I
+ 
+     <S>        <C>                                                  <C>
+     Item 1.    Business..........................................    3
+                                                  
+     Item 2.    Properties........................................    7
+                                                  
+     Item 3.    Legal Proceedings.................................    7
+                                                  
+     Item 4.    Submission of Matters to a Vote of
+                 Security Holders.................................    7
+
+
+<CAPTION>
+                                    PART II
+ 
+     <S>        <C>                                                  <C>
+     Item 5.    Market for the Registrant's Common Stock and
+                 Related Security Holder Matters..................    8
+ 
+     Item 6.    Selected Financial Data...........................    8
+ 
+     Item 7.    Management's Discussion and Analysis of
+                 Financial Condition and Results of
+                 Operations.......................................    8
+ 
+     Item 8.    Financial Statements and Supplementary
+                 Data.............................................    8
+ 
+     Item 9.    Disagreements on Accounting and Financial
+                 Disclosure.......................................    8
+
+
+<CAPTION>
+                                    PART III
+ 
+     <S>        <C>                                                  <C>
+     Item 10.   Directors and Executive Officers of the
+                 Registrant.......................................    9
+ 
+     Item 11.   Executive Compensation............................    9
+ 
+     Item 12.   Security Ownership of Certain Beneficial
+                 Owners and Management............................   10
+ 
+     Item 13.   Certain Relationships and Related
+                 Transactions.....................................   12
+
+
+<CAPTION>
+                                    PART IV
+
+     <S>        <C>                                                  <C>
+     Item 14.   Exhibits, Financial Statements, Schedules
+                 and Reports on Form 8-K..........................   13
+</TABLE> 
+
+                                      -2-
+<PAGE>
+ 
+                                    PART I
+
+ITEM 1.   BUSINESS
+          --------
+
+(a)  General Development of Business
+
+     Texas Industries, Inc. (the "Registrant" or "Company"), incorporated April
+19, 1951, directly and through subsidiaries, is a producer of steel and
+cement/concrete products for the construction and manufacturing industries. In
+November 1985, the Registrant purchased the remaining 50% interest in Chaparral
+Steel Company ("Chaparral").  Chaparral sold 5,940,000 shares of its common
+stock in a public offering for approximately $83 million in July 1988.
+Brookhollow owns commercially zoned land for investment, resale and other real
+estate activities.
+
+(b)  Financial Information about Industry Segments
+
+     For a description of Registrant's industry segments, refer to Notes to
+Consolidated Financial Statements entitled "Business Segments" on page 14 of the
+Registrant's Annual Report to Shareholders for the year ended May 31, 1994,
+incorporated herein by reference.
+
+(c)  Narrative Description of Business
+
+
+STEEL OPERATIONS
+
+     Chaparral, an 81 percent-owned subsidiary, has operated a steel mill at
+Midlothian, Texas, since 1975.  The steel operation follows a market mill
+concept which entails the low cost production of a wide variety of products
+ranging from reinforcing bar and specialty products to large-sized structural
+beams.  Chaparral operates two electric arc furnaces with continuous casters
+which feed a bar mill, a structural mill and a large beam mill which together
+produce a broader array of steel products than a traditional mini-mill.
+Finished products produced include beams, merchant quality rounds, special bar
+quality rounds, rebar and channels. In fiscal year 1992, commissioning was
+completed on the new large beam mill, with a rolling capacity exceeding 400,000
+tons per year, which produces structural steel beams up to twenty-four inches
+wide.  The current rated production capacity of the melting operation exceeds
+1.5 million tons per year;  the rolling capacity is 2.0 million tons per year.
+Approximately 1.4 million tons of finished products were produced in 1994.
+
+     Chaparral's primary raw material is scrap steel, which includes shredded
+steel.  A major portion of the shredded steel requirements are produced by the
+shredder operation at the steel mill.  The shredded material is primarily
+composed of crushed auto bodies purchased on the open market.  The supply of
+scrap steel is expected to be adequate to meet future requirements.
+
+     Chaparral's products are marketed in 44 states and to a limited extent in
+Canada, Mexico, Western Europe, China and Japan.  Sales are primarily to the
+construction industry and to the railroad, defense, automotive, mobile home and
+energy industries.  Chaparral's principal customers are steel service centers,
+steel fabricators, forgers and original equipment manufacturers.  No single
+customer purchases ten percent or more of the sales volume within any one year.
+Sales to affiliates are minimal.  Orders are generally filled within 45 days and
+are cancelable.
+
+     Chaparral competes with steel producers, including foreign producers, on
+the basis of price, quality and service.  Certain of the foreign and domestic
+competitors, including both large integrated steel producers and mini-mills,
+have substantially greater assets and larger sales organizations than Chaparral.
+Intense sales competition exists for substantially all of Chaparral's products.
+
+                                      -3-
+<PAGE>
+ 
+     Chaparral's steel mill consumes large amounts of electricity and natural
+gas.  Electricity is obtained from a local electric utility under an
+interruptible supply contract with six-month price adjustments which reflect
+increases or decreases in the utility's fuel costs.  Natural gas is obtained
+from a local gas utility under a supply contract.  Chaparral believes that
+adequate supplies of both electricity and natural gas are readily available.
+
+     Delivery of finished products is accomplished by common-carrier, customer-
+owned trucks, rail and barge.  Chaparral also operates two distribution
+facilities.  Currently, Chaparral does not place heavy reliance on franchises,
+licenses or concessions.
+
+
+CEMENT/CONCRETE
+
+     The cement/concrete business segment includes the manufacture and sale of
+cement, aggregates, ready-mix concrete, concrete pipe, block and brick.
+Production and distribution facilities are concentrated in Texas and Louisiana
+with markets extending into contiguous states.  The Registrant also has certain
+patented and unpatented mining claims in Southern California which contain
+deposits of limestone.
+
+     Cement production facilities are located at two sites in Texas:  one at
+Midlothian, approximately 25 miles south of Dallas/Fort Worth, which is the
+largest cement plant in Texas, and the other at Hunter, approximately 40 miles
+south of Austin.  The limestone reserves used as the primary raw material are
+located on fee-owned property which is adjacent to each of these plants.  The
+rated annual capacity and estimated minimum reserves of limestone for each of
+these plants are as follows:
+
+<TABLE>
+<CAPTION> 
+                              Annual Rated Productive          Estimated Minimum
+         Plant              Capacity - (Tons of Clinker)       Reserves - Years
+         -----              ----------------------------       -----------------
+    <S>                            <C>                              <C>
+  
+     Midlothian, Texas               1,200,000                         100
+     Hunter, Texas                     750,000                         100
+</TABLE>
+
+     The cement plants produced approximately 2.0 million tons of finished
+cement in 1994, 1.7 million tons in 1993 and 1.4 million tons in 1992.  Annual
+shipments of finished cement to outside trade customers were approximately 1.6
+million tons in 1994, 1.2 million tons in 1993 and 1.0 million tons in 1992.
+Additional shipments of clinker were approximately .4 million tons in 1994, .6
+million tons in 1993 and .5 million tons in 1992.
+
+     The Registrant's principal marketing area for cement includes Texas,
+Louisiana, Colorado, Oklahoma, and New Mexico.  Sales offices are maintained
+throughout the marketing area and sales are made primarily for use in the
+construction industry to numerous customers, no one of which would purchase ten
+percent or more of the trade sales volume within any one year.  The major volume
+of unit trade sales is of standard portland cement, although the Registrant
+produces and markets a variety of specialty cements.
+
+     The Registrant distributes cement from its plants by rail and truck to 8
+distribution terminals located throughout the marketing area.
+
+     The Registrant's aggregate business, which includes sand, gravel, crushed
+limestone and expanded shale and clay, is conducted from facilities primarily
+serving Dallas/Fort Worth, Austin and Houston, Texas, and Alexandria, New
+Orleans, Baton Rouge, and Monroe, Louisiana, areas.  The following table
+summarizes certain information about the Registrant's aggregate production
+facilities:
+
+                                      -4-
+<PAGE>
+ 
+<TABLE> 
+<CAPTION> 
+                                                          Estimated Annual          Estimated 
+                            Type of         Number of        Productive              Minimum               
+  General Location          Facility          Plants          Capacity           Reserves - Years          
+- - --------------------   ------------------   ----------    -------------------    ----------------          
+<S>                      <C>                   <C>       <C>                           <C> 
+North Central Texas      Sand & Gravel          3         3.0 million tons               7                 
+                                                                                                           
+North Central Texas      Crushed                                                                           
+                         Limestone              1         4.5 million tons              30                 
+                                                                                                           
+North Central and        Expanded Shale                                                                    
+ South Texas             & Clay                 2         1.2 million cu. yds.          25                 
+                                                                                                           
+Louisiana                Sand & Gravel          9         5.0 million tons               8                 
+                                                                                                           
+Central Texas            Sand & Gravel          1         900,000 tons                  18                 
+                                                                                                           
+South Central                                                                                              
+  Oklahoma               Sand & Gravel          1         600,000 tons                  13                           
+
+</TABLE> 
+
+     The reserves shown above are contained on 26,728 acres of land, 12,090
+acres of which are owned in fee by the Registrant and the remainder of which are
+leased.  The expanded shale and clay plants operated at 80 percent of capacity
+for 1994 with sales of approximately 928,000 cubic yards.  Production for the
+remaining aggregate facilities was 79 percent of practical capacity and sales
+for the year totaled 10.8 million tons, of which approximately 8.0 million tons
+were shipped to outside trade customers.
+
+     Sales of these various aggregates are generally related to the level of
+construction activity within close proximity of the plant location.  The cost of
+transportation limits the marketing of these products to the areas relatively
+close to the plant sites.  These products are marketed by the Registrant's sales
+organization located in the areas served by the plants and are sold to numerous
+customers, no one of which would be considered significant to the Registrant's
+business.  The distribution of these products is provided to trade customers
+principally by contract and customer-owned haulers, and a limited amount of
+these products is distributed by rail for affiliated usage.
+
+     The Registrant's ready-mix concrete operations are located in three areas
+in Texas (Dallas/Fort Worth, East Texas and Houston) and four areas in Louisiana
+(New Orleans, Alexandria, Shreveport and Monroe).  The following table
+summarizes various information concerning these facilities:
+
+<TABLE>
+<CAPTION> 
+     Location            Number of Plants            Number of Trucks
+     --------            ----------------            ----------------
+    <S>                       <C>                         <C>
+  
+     Texas                      18                         176
+     Louisiana                  11                          89
+</TABLE>
+
+     The plants listed above are located on sites owned and leased by the
+Registrant.  The Registrant manufactures and supplies a substantial amount of
+the cement and aggregates used by the ready-mix plants with the remainder being
+purchased from outside suppliers.  Ready-mix concrete is sold to various
+contractors in the construction industry, no one of which would be considered
+significant to the Registrant's business.
+
+                                      -5-
+<PAGE>
+ 
+     The remainder of the major products manufactured and marketed by the
+Registrant within the concrete products segment are summarized by location
+below:
+<TABLE>
+<CAPTION>
+
+          Location                       Products Produced/Sold           
+          --------                       ----------------------           
+    <S>                                 <C>   
+    Dallas/Fort Worth, Texas            Concrete block and brick           
+                                        Sakrete and related products       
+                                                                           
+    Houston, Texas                      Sakrete and related products       
+                                                                           
+    Corpus Christi, Texas               Concrete block and pipe            
+                                                                           
+    New Orleans, Louisiana              Concrete pipe                      
+                                                                           
+    Alexandria, Louisiana               Concrete block and brick           
+                                        Concrete pipe                      
+                                                                           
+    Shreveport, Louisiana               Concrete block and pipe            
+                                        Sakrete and related products       
+                                        Bridge Spans                       
+                                                                           
+    Athens, Texas                       Clay Brick                          
+    
+</TABLE> 
+
+     The plant sites for the above products (except for one that is leased) are
+owned by the Registrant.  The products are marketed by the Registrant's sales
+force in each of these locations, and are primarily delivered by trucks owned by
+the Registrant.  Because the cost of delivery is significant to the overall cost
+of most of these products, the market area is generally restricted to within
+approximately one hundred miles of the plant locations.  These products are sold
+to various contractors, owners and distributors, none of which would be
+considered significant to the Registrant's business.
+
+     Currently, Registrant does not place heavy reliance on patents, franchises,
+licenses or concessions related to its cement/concrete segment.  The
+Registrant's cement plants and expanded shale and clay plants can burn either
+coal, natural gas or other high BTU fossil fuels.
+
+     In most of the Registrant's principal markets for concrete products, the
+Registrant competes vigorously with at least three other vertically integrated
+concrete companies.  The Registrant believes that it is a significant
+participant in each of the Texas and Louisiana concrete products markets.  The
+principal methods of competition in concrete products markets are quality and
+service at competitive prices.
+
+     The Registrant is involved in the development of its surplus real estate
+and real estate acquired for development of high quality industrial, office and
+multi-use parks in the metropolitan areas of Dallas/Fort Worth and Houston,
+Texas and Richmond, Virginia.
+
+
+ENVIRONMENTAL MATTERS
+
+     The operations of the Company and its subsidiaries are subject to various
+federal and state environmental laws and regulations.  Under these laws the U.
+S. Environmental Protection Agency ("EPA") and agencies of state government have
+the authority to promulgate regulations which could result in substantial
+expenditures for pollution control and solid waste treatment.  Three major areas
+regulated by these authorities are air quality, water quality and hazardous
+waste management.  Pursuant to these laws and regulations emission sources at
+the Company's facilities are regulated by a combination of permit limitations
+and emission standards of statewide application, and the Company believes that
+it is in substantial compliance with its permit limitations and applicable laws
+and regulations.
+
+                                      -6-
+<PAGE>
+ 
+     Chaparral's steel mill generates, in the same manner as other steel mills
+in the industry, electric arc furnace ("EAF") dust that contains lead, chromium
+and cadmium.  The EPA has listed this EAF dust, which Chaparral collects in
+baghouses, as a hazardous waste.  Chaparral has contracts with reclamation
+facilities in the United States and Mexico pursuant to which such facilities
+receive the EAF dust generated by the steel mill and recover the metals from the
+dust for reuse, thus rendering the dust non-hazardous.  In addition, Chaparral
+is continually investigating alternative reclamation technologies and has
+implemented processes for diminishing the amount of EAF dust generated.
+
+     Under a permit, the Company substitutes recycled high BTU liquid waste
+materials for fossil fuel, principally coal, at its Midlothian cement plant.
+Use of these recycled materials not only diminishes the amount of air emissions
+as compared to coal but contributes to the reduction of waste and to the
+conservation of depleting natural resources.  The Company's part B permit
+application to utilize these recycled materials is currently being processed by
+the Texas Natural Resource Conservation Commission.
+
+     The Company intends to comply with all legal requirements regarding the
+environment but since many of these requirements are not fixed, presently
+determinable, or are likely to be affected by future legislation or rule making
+by government agencies, it is not possible to accurately predict the aggregate
+future costs or benefits of compliance and their effect on the Company's
+operations, future net income or financial condition.  Notwithstanding such
+compliance, if damage to persons or property or contamination of the environment
+has been or is caused by the conduct of the Company's business or by hazardous
+substances or wastes used in, generated or disposed of by the Company, the
+Company may be held liable for such damages and be required to pay the cost of
+investigation and remediation of such contamination.  The amount of such
+liability could be material.  Changes in federal or state laws, regulations or
+requirements or discovery of unknown conditions could require additional
+expenditures by or provide additional benefits to the Company.
+
+
+OTHER ITEMS
+
+     The Registrant provides products for the construction industry.  It is not
+uncommon for the Registrant to report a loss from its cement/concrete operations
+in the quarter ending February due to adverse weather conditions.  The dollar
+amount of Registrant's backlog of orders is not considered material to an
+understanding of the business of the Registrant.
+
+     Registrant's enterprise employs approximately 2,700 persons.
+
+
+ITEM 2.   PROPERTIES
+          ----------
+
+     The information required by this item is included in the answer to Item 1.
+
+
+ITEM 3.   LEGAL PROCEEDINGS
+          -----------------
+
+     There are no pending legal proceedings against the Registrant and
+subsidiaries which in management's judgement (based upon the opinion of counsel)
+would have a material adverse effect on the consolidated financial position.
+
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+          ---------------------------------------------------
+
+     None
+
+                                      -7-
+<PAGE>
+ 
+                                    PART II
+
+
+ITEM 5.   MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED SECURITY HOLDERS
+          --------------------------------------------------------------------- 
+          MATTERS
+          -------
+              
+     Common Stock market prices, dividends and certain other items as shown in
+the "Quarterly Financial Information" located on page 14 of the Registrant's
+Annual Report to Shareholders for the year ended May 31, 1994, are incorporated
+herein by reference.  The restriction on the payment of dividends described in
+the Notes to Consolidated Financial Statements entitled "Long-Term Debt" on
+pages 11 and 12 of the Registrant's Annual Report to Shareholders for the year
+ended May 31, 1994, is incorporated herein by reference.  At the July 1990 Board
+of Directors' meeting, the Directors voted to reduce the quarterly cash dividend
+from twenty cents per share to five cents per share.
+
+
+ITEM 6.   SELECTED FINANCIAL DATA
+          -----------------------
+
+     The "Selected Financial Data" on Page 3 of the Registrant's Annual Report
+to Shareholders for the year ended May 31, 1994, is incorporated herein by
+reference.
+
+
+ITEM 7.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND       
+          ---------------------------------------------------------------
+          RESULTS OF OPERATIONS
+          ---------------------
+
+     The "Discussion of Results of Operations & Financial Condition" on pages 4
+through 6 of the Registrant's Annual Report to Shareholders for the year ended
+May 31, 1994, is incorporated herein by reference.
+
+
+ITEM 8.   FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+          -------------------------------------------
+
+     The following Consolidated Financial Statements of the Registrant and its
+subsidiaries, included in the Registrant's Annual Report to Shareholders for the
+year ended May 31, 1994, are incorporated herein by reference:
+
+     Consolidated Balance Sheets - May 31, 1994 and 1993
+     Consolidated Statements of Income - Years ended May 31, 1994, 1993 and 1992
+     Consolidated Statements of Cash Flows - Years ended May 31, 1994, 1993 and
+       1992
+     Consolidated Statements of Shareholders' Equity - Years ended May 31, 1994,
+       1993 and 1992
+     Notes to Consolidated Financial Statements
+
+
+ITEM 9.   DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURES
+          -----------------------------------------------------
+
+     None
+
+                                      -8-
+<PAGE>
+ 
+                                   PART III
+
+ITEM 10.   DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+           --------------------------------------------------
+
+     Reference is made to "Election of Directors" on Page 3 of Registrant's
+Proxy Statement for the Annual Meeting of Shareholders to be held October 18,
+1994.  Information on executive officers of the Registrant is presented below:
+
+<TABLE> 
+<CAPTION> 
+
+                                           Positions with Registrant, Other
+Name                         Age         Employment During Last Five (5) Years
+- - ----                         ---         -------------------------------------
+<S>                          <C>         <C>
+                                   
+Robert D. Rogers             58          President and Chief Executive Officer and Director
+                                   
+Melvin G. Brekhus            45          1989, Technical Manager, Missouri Portland Cement
+                                         Co. and Davenport Cement; 1989 to 1991, Divisional
+                                         Vice President - Cement Production; 1991 to present,
+                                         Vice President - Cement Production
+ 
+Brooke E. Brewer             52          Vice President - Human Resources
+ 
+Roman J. Figueroa            48          1989, Manager, Texas Aggregates Production; 1989
+                                         to 1991, Divisional Vice President - Texas
+                                         Aggregates; 1991 to present, Vice President -
+                                         Aggregates
+ 
+Richard M. Fowler            51          Senior Vice President - Finance, Chaparral
+                                         Steel Company; 1989 to present,
+                                         Vice President - Finance and Chief Financial Officer
+ 
+James R. McCraw              50          1989 to 1991, Controller; 1991 to present,
+                                         Vice President - Controller
+ 
+Robert C. Moore              60          Vice President - General Counsel and Secretary
+ 
+Burl W. Ruth                 46          1989 to 1991, Divisional Vice President - South
+                                         Texas Concrete; 1991 to present, Vice President -
+                                         Concrete
+ 
+Tommy A. Valenta             45          1989 to 1991, Divisional Vice President - North
+                                         Texas Ready Mix; 1991 to present, Vice President -
+                                         North Texas Concrete/Cement Marketing
+ 
+Kenneth R. Allen             37          1989 to 1990, Corporate Financial Manager; 1990 to
+                                         1991, Director of Investor Relations; 1991 to present,
+                                         Treasurer
+ 
+</TABLE>
+
+ITEM 11.  EXECUTIVE COMPENSATION
+          ----------------------
+
+     Reference is made to "Executive Compensation" and "Report of the
+Compensation Committee on Executive Compensation" on pages 6 through 11 of the
+Registrant's Proxy Statement for the Annual Meeting of Shareholders to be held
+October 18, 1994.
+
+                                      -9-
+<PAGE>
+ 
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+          --------------------------------------------------------------
+
+(a)  Security Ownership of Certain Beneficial Owners
+
+     The following table furnishes information concerning all persons known to
+the Company to beneficially own 5% or more of any class of voting stock of the
+Company as of  August 5, 1994.
+
+Beneficial Ownership Table
+- - --------------------------
+<TABLE>
+<CAPTION> 
+                                                                Amount and Nature               
+    Name and Address of                      Title of                   of                   Percent                         
+      Beneficial Owner                       Security          Beneficial Ownership          of Class                       
+  -----------------------                    --------          --------------------          --------                       
+<S>                                        <C>                 <C>                            <C> 
+Co-Steel, Inc.                             Common Stock        1,216,652 shares (1)             9.7%                        
+Scotia Plaza                                                                                                                
+40 King Street West, Suite 5010                                                                                             
+P. O. Box 130                                                                                                               
+Toronto, Ontario, Canada  M5H3Y2                     
+                                                     
+Dietche & Field Advisors, Inc.             Common Stock          814,000 shares (2)             6.5%                        
+437 Madison Avenue                                                                                                          
+New York, NY  10022                                                                                                         
+                                                                                                                            
+FMR Corp.                                  Common Stock        1,245,900 shares (3)            10.0%                        
+82 Devonshire Street                                                                                                        
+Boston, Massachusetts  02109                                                                                                
+                                                                                                                            
+Trimark Investment Management, Inc.        Common Stock          752,835 shares (4)             6.0%                        
+Scotia Plaza                                                                                                                
+40 King Street West, Suite 5200                                                                                             
+Toronto, Ontario, Canada  M5H3Z3                                                                                            
+                                                    
+Gerald R. Heffernan                        $5 Cumulative           2,500 shares                41.8%                        
+22 St. Clair Avenue E., Suite 1700         Preferred Stock                                                                 
+Toronto, Ontario, Canada  M4T2S3                                                                                            
+                                                                                                                            
+Sally M. Eldredge (Mrs.)                   $5 Cumulative             315 shares                 5.3%                        
+P. O. Box 539                              Preferred Stock                                                                  
+Newport, New Hampshire 03773                                                                                                
+                                                                                                                            
+KINSAT                                     $5 Cumulative             551 shares                 9.2%                        
+Bankers Trust Co.                          Preferred Stock                                                                
+P. O. Box 704                                                                                                               
+Church Street Station                                                                                                       
+New York, New York 10015                                                                              
+                                                                                               
+John C. McCrillis                          $5 Cumulative             315 shares                 5.3%                 
+P. O. Box 458                              Preferred Stock                                              
+Newport, New Hampshire 03773                                                                                        
+                                                                                                                    
+Merrill Lynch, Pierce,                     $5 Cumulative           1,213 shares                20.2%  
+  Fenner and Smith, Inc.                   Preferred Stock        
+P. O. Box 12006
+Newark, New Jersey 07101
+</TABLE> 
+- - ----------------------------
+
+                                      -10-
+<PAGE>
+ 
+Beneficial Ownership Table Footnotes
+
+       (1)  Robert D. Rogers, Gordon E. Forward and Richard M. Fowler have sole
+            voting power as co-trustees under a Voting Trust which expires
+            August 29, 1995, and Co-Steel, Inc. has sole dispositive power.
+
+       (2)  Based on Schedule 13G dated March 11, 1994 which indicates that
+            Dietche & Field Advisors, Inc. has sole voting and dispositive power
+            over 814,000 shares.
+
+       (3)  Based on Schedule 13G dated June 6, 1994 which indicates that FMR
+            Corp. has sole voting power over 48,900 shares and sole dispositive
+            power over 1,245,900 shares.
+
+       (4)  Based on Amendment 4 to Schedule 13G dated February 12, 1993 which
+            indicates that Trimark Investment Management, Inc. has sole voting
+            and dispositive power over 752,835 shares.
+
+(b)  Security Ownership of Management
+
+      The following table sets forth as of August 5, 1994, the approximate
+number of shares of Common Stock and common stock of Chaparral Steel Company
+("Chaparral") beneficially owned by each director, by each executive officer
+named in the Summary Compensation Table on page 6 of the Registrant's Proxy
+Statement for the Annual Meeting of Shareholders and by all directors and
+executive officers of the Company as a group.
+
+Management Ownership Table
+- - --------------------------
+<TABLE>
+<CAPTION>
+
+                                                                  COMPANY                        CHAPARRAL
+                                                                COMMON SHARES                  COMMON SHARES
+                                                           ------------------------        ----------------------
+
+                                                           Beneficially                    Beneficially
+                                                           Owned **          %(1)          Owned**         %(2)
+                                                           -----------      -------       ------------    -------
+<S>                                                       <C>                <C>          <C>               <C> 
+Robert Alpert........................................        3,555 (3)        *              1,000           *
+Melvin G. Brekhus....................................        5,112 (3)        *               None           *
+Gordon E. Forward....................................       52,974 (3)        *             89,100 (4)       *
+Richard M. Fowler....................................       41,332 (3)        *             36,100 (4)       *
+Richard I. Galland...................................        8,807 (3)        *              3,000           *
+Gerald R. Heffernan(5)(6)............................      111,000 (3)        *               None           *
+Robert C. Moore......................................       13,167 (3)        *             16,600 (4)       *
+Ralph B. Rogers(7)...................................       32,434            *              5,000           *
+Robert D. Rogers(8)..................................      149,320 (3)       1.2%          106,800 (4)       *
+Tommy A. Valenta.....................................        4,950 (3)        *               None           *
+Ian Wachtmeister(9)..................................        3,371 (3)        *               None           *
+All Directors and Executive Officers as a Group (10                                                    
+Persons).............................................      451,503 (3)       3.6%          259,650 (4)       *
+</TABLE>
+
+- - -----------------------
+
+                                      -11-
+<PAGE>
+ 
+Management Ownership Table Footnotes
+
+      *  Represents less than one percent (1%) of the total number of shares
+         outstanding.
+
+      ** Except as indicated in the notes below, each person has the sole voting
+         and investment authority with respect to the shares set forth in the
+         above table.
+
+     (1) Based on the sum of (i) 12,490,749 shares of Common Stock, which on
+         August 5, 1994, was the approximate number of shares outstanding, and
+         (ii) the number of shares subject to options exercisable by such
+         person(s) within 60 days of such date.
+
+     (2) Based on the sum of (i) 29,679,900 shares of common stock, which on
+         August 5, 1994, was the approximate number of shares outstanding, and
+         (ii) the number of shares subject to options exercisable by such
+         person(s) within 60 days of such date.
+
+     (3) Includes, with respect to such person(s), shares of Common Stock
+         subject to options exercisable within 60 days of August 5, 1994, as
+         follows: Robert D. Rogers, 20,000 shares; Robert Alpert, 1,000 shares;
+         Melvin G. Brekhus, 4,600 shares; Gordon E. Forward, 5,490 shares;
+         Richard M. Fowler, 9,300 shares; Richard I. Galland, 1,000 shares;
+         Gerald R. Heffernan, 1,000 shares; Robert C. Moore, 8,300 shares; Tommy
+         A. Valenta, 4,600 shares; Ian Wachtmeister, 1,000 shares; and all
+         Directors and Executive Officers as a group, 74,490 shares.
+
+     (4) Includes, with respect to such person(s), shares of common stock
+         subject to options exercisable within 60 days of August 5, 1994 as
+         follows: Gordon E. Forward, 74,000 shares; Richard M. Fowler, 35,000
+         shares; Robert C. Moore, 16,000 shares; Robert D. Rogers, 66,000
+         shares; and all Directors and Executive Officers as a group, 193,000
+         shares.
+
+     (5) Mr. Heffernan owns 2,500 shares of $5 Preferred Stock approximately
+         41.8% of the class outstanding. See Security Ownership of Certain
+         Beneficial Owners and Management.
+
+     (6) The wife of Mr. Heffernan owns 971 shares of Common Stock as to which
+         he disclaims beneficial ownership.
+
+     (7) The wife of Mr. Rogers owns 5,214 shares of Common Stock, as to which
+         he disclaims beneficial ownership.
+
+     (8) The wife of Mr. Rogers owns 4,000 shares of Chaparral common stock, as
+         to which he disclaims beneficial ownership.
+
+     (9) Includes 100 shares of Common Stock owned by the wife of Mr.
+         Wachtmeister.
+
+
+
+(c)  Changes in Control
+
+     Registrant knows of no contractual arrangements which may at a subsequent
+date result in a change in control of the Registrant.
+
+
+ITEM 13.   CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+           ----------------------------------------------
+
+     None
+
+                                      -12-
+<PAGE>
+ 
+                                    PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+         -----------------------------------------------------------------
+
+(a)(1) and (2)  The response to this portion of Item 14 is submitted as a
+separate section of this report.
+
+(a)(3)  Listing of Exhibits
+
+      3.  Articles of Incorporation (previously filed and incorporated herein by
+          reference)
+
+      4.  Instruments defining rights of security holders (previously filed and 
+          incorporated herein by reference)
+
+     The Registrant agrees to furnish to the Commission, upon request, copies of
+all instruments with respect to long-term debt not being registered where the
+total amount of securities authorized thereunder does not exceed 10% of the
+total assets of Registrant and its subsidiaries on a consolidated basis.
+
+     11.  Statement re:  computation of per share earnings
+
+     13.  Annual report to security holders
+
+     Registrant's annual report to security holders for its last fiscal year,
+except for those portions thereof which are expressly incorporated by reference
+in this filing, is furnished for the information of the Commission and is not to
+be deemed "filed" as part of this filing.  Since the financial statements in the
+report have been incorporated by reference in this filing, the accountant's
+certificate is manually signed in the signed copy of this filing.
+
+     21.  Subsidiaries of the Registrant
+
+     23.  Consent of Independent Auditors
+
+     24.  Power of attorney for certain members of the Board of Directors
+
+(b)  Reports on Form 8-K
+
+     No reports on Form 8-K were filed during the quarter ended May 31, 1994.
+
+(c)  Exhibits
+
+     The response to this portion of Item 14 is submitted as a separate section
+of this report.
+
+(d)  Financial Statement Schedules
+
+     The response to this portion of Item 14 is submitted as a separate section
+of this report.
+
+                                      -13-
+<PAGE>
+ 
+                                  SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the issuer has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized on the 26th day of August,
+1994.
+
+                                        TEXAS INDUSTRIES, INC.
+
+
+
+                                   By   /s/ Robert D. Rogers
+                                        ----------------------------------
+                                        Robert D. Rogers, President
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<CAPTION>
+ 
+    Signature                         Title                             Date
+    ---------                         -----                             ----
+<S>                              <C>                                 <C>    
+ 
+                                 
+/s/  Robert D. Rogers            President and Chief                 August 26, 1994 
+- - -------------------------         Executive Officer                                                                  
+     Robert D. Rogers            (Principal Executive Officer)  
+                                                                
+/s/  Richard M. Fowler           Vice President - Finance and        August 26, 1994
+- - -------------------------         Chief Financial Officer                                       
+     Richard M. Fowler           (Principal Financial Officer)   
+                                 
+                                                                
+/s/  James R. McCraw             Vice President - Controller         August 26, 1994
+- - -------------------------        (Principal Accounting Officer)                                 
+     James R. McCraw             
+                                                                
+                                 Director                            August 26, 1994
+- - -------------------------
+     Robert Alpert                                              
+                                                                
+/s/  Gordon E. Forward*          Director                            August 26, 1994
+- - -------------------------                                       
+     Gordon E. Forward                                          
+                                                                
+/s/  Richard I. Galland*         Director                            August 26, 1994
+- - -------------------------                                       
+     Richard I. Galland                                         
+                                                                
+/s/  Gerald R. Heffernan*        Director                            August 26, 1994
+- - -------------------------                                       
+     Gerald R. Heffernan                                        
+                                                                
+/s/  Ralph B. Rogers*            Director                            August 26, 1994
+- - -------------------------                                       
+     Ralph B. Rogers                                            
+                                                                
+/s/  Robert D. Rogers            Director                            August 26, 1994
+- - -------------------------                                       
+     Robert D. Rogers                                           
+                                                                
+/s/  Ian Wachtmeister*           Director                            August 26, 1994
+- - -------------------------       
+     Ian Wachtmeister
+
+
+
+* BY  /s/  James R. McCraw       Vice President - Controller         August 26, 1994
+      -----------------------                                              
+      James R. McCraw
+
+</TABLE>
+
+                                      -14-
+<PAGE>
+ 
+                          ANNUAL REPORT ON FORM 10-K
+
+                      ITEM 14(a)(1) and (2), (c) and (d)
+
+                            YEAR ENDED MAY 31, 1994
+
+                    TEXAS INDUSTRIES, INC. AND SUBSIDIARIES
+
+                                 DALLAS, TEXAS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  LIST OF FINANCIAL STATEMENTS AND SCHEDULES
+
+                         FINANCIAL STATEMENT SCHEDULES
+
+                               INDEX TO EXHIBITS
+
+                               CERTAIN EXHIBITS
+<PAGE>
+ 
+                                     F - 1
+
+                                   FORM 10-K
+
+                     ITEM 14(a)(1) and (2) and ITEM 14(d)
+
+                  LIST OF FINANCIAL STATEMENTS AND SCHEDULES
+
+
+     The following consolidated financial statements of Texas Industries, Inc.,
+and subsidiaries included in the annual report of the Company to its
+shareholders for the year ended May 31, 1994, are incorporated herein by
+reference:
+
+TEXAS INDUSTRIES, INC. AND SUBSIDIARIES
+
+     Consolidated Balance Sheets - May 31, 1994 and 1993
+     Consolidated Statements of Income - Years ended May 31, 1994, 1993 and 
+     1992.
+     Consolidated Statements of Cash Flows - Years ended May 31, 1994, 1993 and
+     1992.
+     Consolidated Statements of Shareholders' Equity - Years ended May 31, 1994,
+     1993 and 1992.
+     Notes to Consolidated Financial Statements
+     Report of Independent Auditors
+
+     The following consolidated financial statement schedules for the years
+ended May 31, 1994, 1993 and 1992 are submitted herewith:
+
+     Schedule III    -     Financial information of Registrant
+     Schedule V      -     Property, plant and equipment
+     Schedule VI     -     Accumulated depreciation, depletion and amortization
+                               of property, plant and equipment.
+     Schedule IX     -     Short-term borrowings
+     Schedule X      -     Supplementary income statement information
+
+     All other schedules for which provision is made in the applicable
+accounting regulations of the Securities and Exchange Commission are not
+required under the related instructions, or are inapplicable, and therefore,
+have been omitted.
+<PAGE>
+ 
+                                     F - 2
+
+              SCHEDULE III - FINANCIAL INFORMATION OF REGISTRANT
+
+                                BALANCE SHEETS
+                            TEXAS INDUSTRIES, INC.*
+<TABLE> 
+<CAPTION> 
+                                                          May 31,
+                                                      1994       1993
+                                                      ----       ----
+                                                       In thousands
+      ASSETS
+<S>                                                 <C>        <C> 
+CURRENT ASSETS
+ Cash and temporary investments                     $ 28,197   $ 17,777
+ Notes and accounts receivable                        33,369     40,518
+ Inventories                                          17,949     19,668
+ Prepaid expenses                                     18,766     17,022
+                                                    --------   --------
+      TOTAL CURRENT ASSETS                            98,281     94,985
+ 
+OTHER ASSETS
+ Investment in and net advances to
+  subsidiaries                                       265,456    280,405
+ Other assets                                         18,138     11,906
+                                                    --------   --------
+                                                     283,594    292,311
+ 
+PROPERTY, PLANT AND EQUIPMENT
+ Land and land improvements                           58,576     46,153
+ Buildings                                            24,097     14,495
+ Machinery and equipment                             279,670    210,974
+                                                    --------   --------
+                                                     362,343    271,622
+ Less allowances for depreciation and depletion      260,545    203,038
+                                                    --------   --------
+                                                     101,798     68,584
+                                                    --------   --------
+                                                    $483,673   $455,880
+                                                    ========   ========
+ 
+ 
+      LIABILITIES AND SHAREHOLDERS' EQUITY
+CURRENT LIABILITIES
+ Trade accounts payable                             $ 13,902   $ 18,875
+ Accrued interest, wages and other items              10,100      9,259
+ Current portion of long-term debt                    12,820      6,448
+                                                    --------   --------
+      TOTAL CURRENT LIABILITIES                       36,822     34,582
+ 
+LONG-TERM DEBT                                        72,834    126,255
+ 
+DEFERRED FEDERAL INCOME TAXES AND OTHER CREDITS       21,346     12,532
+ 
+SHAREHOLDERS' EQUITY
+ Preferred stock                                         598        598
+ Common stock, $1 par value                           12,534     11,100
+ Additional paid-in capital                          265,790    220,776
+ Retained earnings                                    75,511     52,933
+ Cost of common shares in treasury                    (1,762)    (2,896)
+                                                    --------   --------
+                                                     352,671    282,511
+                                                    --------   --------
+                                                    $483,673   $455,880
+                                                    ========   ========
+</TABLE>
+
+* Registrant only (solely parent company) with subsidiaries carried on the
+  equity method.  These statements are furnished to satisfy disclosure
+  requirements due to the percentage of consolidated net assets which reside in
+  subsidiary companies and which are subject to third party restrictions.
+<PAGE>
+ 
+                                     F - 3
+
+              SCHEDULE III - FINANCIAL INFORMATION OF REGISTRANT
+
+                             STATEMENTS OF INCOME
+                            TEXAS INDUSTRIES, INC.*
+<TABLE> 
+<CAPTION> 
+                                                     Year Ended May 31,
+                                                 1994       1993       1992
+                                                 ----       ----       ----
+                                                         In thousands
+<S>                                            <C>        <C>        <C>
+ 
+NET SALES                                      $248,325   $197,829   $178,988
+                                                     
+COSTS AND EXPENSES (INCOME)                          
+ Cost of products sold                          198,163    162,022    160,642
+ Selling, administrative and general             26,569     24,052     23,934
+ Interest                                        12,980     16,621     16,821
+ Other income                                    (8,613)    (7,081)   (19,731)
+                                               --------   --------   --------
+                                                229,099    195,614    181,666
+                                               --------   --------   --------
+   INCOME (LOSS) BEFORE THE FOLLOWING ITEMS      19,226      2,215     (2,678)
+                                                     
+INCOME TAXES                                         
+ Expense (benefit)                                3,872        657     (1,792)
+ Change in statutory federal tax rate               268         --         --
+                                               --------   --------   --------
+                                                  4,140        657     (1,792)
+                                               --------   --------   --------
+   INCOME (LOSS) FROM OPERATIONS                 15,086      1,558       (886)
+                                                     
+EQUITY IN EARNINGS OF SUBSIDIARIES                   
+ Income (loss) from continuing operations            
+  of subsidiaries                                10,665       (500)     2,806
+                                               --------   --------   --------
+    NET INCOME                                 $ 25,751   $  1,058   $  1,920
+                                               ========   ========   ========
+</TABLE>
+
+* Registrant only (solely parent company) with subsidiaries carried on the
+  equity method.  These statements are furnished to satisfy disclosure
+  requirements due to the percentage of consolidated net assets which reside in
+  subsidiary companies and which are subject to third party restriction.
+<PAGE>
+ 
+                                     F - 4
+
+              SCHEDULE III - FINANCIAL INFORMATION OF REGISTRANT
+
+                           STATEMENTS OF CASH FLOWS
+                            TEXAS INDUSTRIES, INC.*
+<TABLE> 
+<CAPTION> 
+                                                    Year ended May 31,
+                                                  1994     1993      1992
+                                                  ----     ----      ----
+                                                       In thousands
+ 
+<S>                                              <C>      <C>       <C>
+NET CASH PROVIDED BY OPERATIONS                  $39,178  $21,609   $ 3,597
+ 
+INVESTING ACTIVITIES:
+ Capital expenditures                            (14,814)  (7,591)   (6,627)
+ Proceeds from disposition of assets               2,454      377    18,040
+ Purchase of investments                          (2,017)  (4,660)   (3,796)
+ Proceeds from investments                         8,374    2,084        --
+ Cash surrender value-insurance                     (820)   5,555    (1,839)
+ Other - net                                      (7,417)  (2,151)   (3,365)
+                                                 -------  -------   -------
+    Net cash (used) provided by investing        (14,240)  (6,386)    2,413
+ 
+FINANCING ACTIVITIES:
+ Proceeds of long-term borrowing                  71,257      600       100
+ Debt retirements                                (73,505)  (6,146)   (5,674)
+ Dividends paid                                   (2,308)  (2,228)   (2,214)
+ Other - net                                      (3,629)  (1,439)   (1,445)
+                                                 -------  -------   -------
+    Net cash used by financing                    (8,185)  (9,213)   (9,233)
+                                                 -------  -------   -------
+Increase (decrease) in cash                       16,753    6,010    (3,223)
+ 
+Cash at beginning of year                         11,444    5,434     8,657
+                                                 -------  -------   -------
+Cash at end of year                               28,197   11,444     5,434
+Temporary investments                                 --    6,333     3,796
+                                                 -------  -------   -------
+Cash and temporary investments at end of year    $28,197  $17,777   $ 9,230
+                                                 =======  =======   =======
+</TABLE>
+
+* Registrant only (solely parent company) with subsidiaries carried on the
+  equity method.  These statements are furnished to satisfy disclosure
+  requirements due to the percentage of consolidated net assets which reside in
+  subsidiary companies and which are subject to third party restriction.
+<PAGE>
+ 
+                                     F - 5
+
+              SCHEDULE III - FINANCIAL INFORMATION OF REGISTRANT
+
+NOTES TO FINANCIAL INFORMATION OF REGISTRANT
+
+LONG-TERM DEBT
+
+     Long-term debt is comprised of the following:
+
+<TABLE> 
+<CAPTION> 
+                                                         1994      1993
+                                                         ----      ----
+                                                          In thousands
+<S>                                                    <C>       <C>
+Secured Debt:                               
+  Senior note due through 1999,             
+    interest rate at 6.69% (2% over LIBOR)             $ 71,000   $    --
+  Purchase money obligations                           
+    interest rates from 7% to 10%                           842       268
+                                                       
+Unsecured Debt:                                        
+  Pollution control bonds, due through                 
+    2007, interest rate 4.5% to 10%                      11,366    10,655
+  12-7/8% subordinated debentures due                  
+    1995, effective rate 13%, less                     
+    unamortized discount                                     --    49,924
+  9% convertible subordinated                          
+    debentures due 2008                                      --    49,965
+  Senior notes, due through 1994,                      
+    interest rate at 5/8% over CD rate                       --    18,750
+  Other, interest rates from 7.5% to 10%                  2,446     3,141
+                                                       --------  --------
+                                                         85,654   132,703
+Less current maturities                                  12,820     6,448
+                                                       --------  --------
+                                                       $ 72,834  $126,255
+                                                       ========  ========
+</TABLE>
+
+    Annual maturities of long-term debt for each of the five succeeding years
+are $12.8, $16.6, $16.5, $16.4, and $15.9 million.
+
+    The Company has available a bank line of credit of $25 million of which $4.4
+million has been utilized to support letters of credit.  This line is due to
+expire in November 1996.  The interest rate charged on borrowings is 1.75% over
+LIBOR.  Commitment fees at an annual rate of 1/2 of 1% are paid on the unused
+portion of this line.
+
+    As a result of a sinking fund payment and a notice of redemption issued by
+the Company, holders of $46.9 million of the Company's outstanding 9%
+convertible subordinated debentures due in 2008 converted such debentures into
+1,432,296 shares of the Company's common stock at $32.74 per share.
+
+DIVIDENDS FROM SUBSIDIARIES
+
+    The Company received cash dividends from subsidiaries of $6.4 million in
+1994, and $4.8 million in 1993 and 1992.
+
+RESTRICTED TRANSFER OF ASSETS FROM SUBSIDIARIES
+
+    A subsidiary has loan covenants that restrict the transfer of assets by
+loans, advances or dividends to the parent.  These covenants require that the
+subsidiary maintain minimum levels of working capital, restrict loans and the
+percentage of net income that can be distributed as dividends.  The restricted
+net assets were $188.1 million and the restricted retained earnings were $35.7
+million at May 31, 1994.  The retained earnings of subsidiaries included in the
+consolidated retained earnings at May 31, 1994, were $24.5 million.
+<PAGE>
+ 
+                                     F - 6
+
+                  SCHEDULE V - PROPERTY, PLANT AND EQUIPMENT
+
+                    TEXAS INDUSTRIES, INC. AND SUBSIDIARIES
+                                 In thousands
+<TABLE>
+<CAPTION>
+                              Balance at                                Other     Balance at
+                               Beginning    Additions                  Changes      End of
+       Classification          of Period     at Cost   Retirements   Add (Deduct)   Period
+- - ---------------------------   ----------    ---------  -----------   -----------  ----------
+<S>                             <C>          <C>          <C>          <C>         <C>
+ 
+Year ended May 31, 1994:
+ Land and land improvements     $ 86,697     $ 4,051      $    63      $           $ 90,685-A
+ Buildings                        51,533         324           81                    51,776
+ Machinery and equipment         617,411      10,341        3,990            9 -D   623,771
+ Capital leases                   15,156          90          462                    14,784
+ Mobile equipment                 65,276       2,578        6,683           (9)-D    61,162
+ Office furniture & fixtures       7,650       1,602          447                     8,805
+ Leasehold improvements              288          21                       (56)-B       253
+ Construction in progress         14,745       4,298-C                               19,043
+                                --------     -------      -------      -------     --------
+                                $858,756     $23,305      $11,726      $   (56)    $870,279
+                                ========     =======      =======      =======     ========
+ 
+Year ended May 31, 1993:
+ Land and land improvements     $ 86,483     $   589      $   372      $    (3)-D  $ 86,697-A
+ Buildings                        51,435         224          126                    51,533
+ Machinery and equipment         609,981       8,567        1,140            3 -D   617,411
+ Capital leases                   15,196          57           97                    15,156
+ Mobile equipment                 64,611       3,558        1,525       (1,368)-D    65,276
+ Office furniture & fixtures       7,165         712          227                     7,650
+ Leasehold improvements              269          77                       (58)-B       288
+ Construction in progress         10,595       4,150-C                               14,745
+                                --------     -------      -------      -------     --------
+                                $845,735     $17,934      $ 3,487      $(1,426)    $858,756
+                                ========     =======      =======      =======     ========
+ 
+Year ended May 31, 1992:
+ Land and land improvements     $ 90,101     $ 1,124      $ 4,742      $           $ 86,483-A
+ Buildings                        52,376         937        1,878                    51,435
+ Machinery and equipment         602,051      15,196        7,266                   609,981
+ Capital leases                   16,665         241        1,710                    15,196
+ Mobile equipment                 70,546       2,626        8,561                    64,611
+ Office furniture & fixtures       7,663         648        1,146                     7,165
+ Leasehold improvements              303         127           25         (136)-B       269
+ Construction in progress          9,504       1,094-C          3                    10,595
+                                --------     -------      -------      -------     --------
+                                $849,209     $21,993      $25,331      $  (136)    $845,735
+                                ========     =======      =======      =======     ========
+</TABLE>
+
+   ()      - Indicates negative amount or deduction.
+   Note A  - Includes land subject to depletion in the amount of $21,055,000 in
+             1994, $20,255,000 in 1993 and $19,687,000 in 1992.
+   Note B  - Amortization charged against income.
+   Note C  - Net change (additions less completions).
+   Note D  - Miscellaneous reclassifications.
+   Note E  - The rates generally used in computing provision for depreciation 
+             and depletion are as follows:
+
+Land improvements              2.5% to 33.3%
+Buildings                      2.5% to 33.3%
+Machinery and equipment        3.33% to 33.3%
+Capital leases                 6.66% to 33.3%
+Mobile equipment               6.66% to 33.3%
+Office furniture and fixtures  5% to 33.3%
+Depletable assets              $0.00112 to $1.599 per ton of sand, gravel, etc.
+                               extracted
+<PAGE>
+ 
+                                     F - 7
+
+      SCHEDULE VI - ACCUMULATED DEPRECIATION, DEPLETION AND AMORTIZATION
+                       OF PROPERTY, PLANT AND EQUIPMENT
+
+
+                    TEXAS INDUSTRIES, INC. AND SUBSIDIARIES
+                                 In thousands
+<TABLE>
+<CAPTION>
+                               Balance at                             Other      Balance at
+                               Beginning   Additions                 Changes       End of
+       Classification          of Period    at Cost   Retirements  Add (Deduct)    Period
+- - ----------------------------   ---------  ----------  -----------  ------------  ----------
+<S>                             <C>         <C>           <C>          <C>         <C>
+ 
+Year ended May 31, 1994:
+ Land and land improvements     $ 35,391     $ 3,337      $    19      $           $ 38,709-A
+ Buildings                        23,893       1,761           81                    25,573
+ Machinery and equipment         356,699      34,582        3,854            9 -B   387,436
+ Capital leases                   14,743         186          462                    14,467
+ Mobile equipment                 56,263       2,942        6,518           (9)-B    52,678
+ Office furniture & fixtures       6,209         761          447                     6,523
+                                --------     -------      -------      -------     --------
+                                $493,198     $43,569      $11,381      $    --     $525,386
+                                ========     =======      =======      =======     ========
+ 
+Year ended May 31, 1993:
+ Land and land improvements     $ 32,731     $ 2,953      $   293      $           $ 35,391-A
+ Buildings                        22,223       1,790          120                    23,893
+ Machinery and equipment         322,532      35,248        1,081                   356,699
+ Capital leases                   14,635         206           98                    14,743
+ Mobile equipment                 54,935       3,469        1,494         (647)-B    56,263
+ Office furniture & fixtures       5,639         740          170                     6,209
+                                --------     -------      -------      -------     --------
+                                $452,695     $44,406      $ 3,256      $  (647)    $493,198
+                                ========     =======      =======      =======     ========
+ 
+Year ended May 31, 1992:
+ Land and land improvements     $ 29,804     $ 3,379      $   452      $           $ 32,731-A
+ Buildings                        21,665       1,868        1,310                    22,223
+ Machinery and equipment         293,131      35,229        5,828                   322,532
+ Capital leases                   16,172         173        1,710                    14,635
+ Mobile equipment                 57,088       4,806        6,959                    54,935
+ Office furniture & fixtures       5,993         733        1,087                     5,639
+                                --------     -------      -------      -------     --------
+                                $423,853     $46,188      $17,346      $           $452,695
+                                ========     =======      =======      =======     ========
+</TABLE>
+
+  Note A  - Includes depletion on land of $8,404,000 in 1994, $7,704,000 in 1993
+            and $7,168,000 in 1992.
+  Note B  - Miscellaneous reclassifications.
+<PAGE>
+ 
+                                     F - 8
+
+                      SCHEDULE IX - SHORT-TERM BORROWINGS
+
+
+                    TEXAS INDUSTRIES, INC. AND SUBSIDIARIES
+                                 In thousands
+<TABLE>
+<CAPTION>
+                                                       Maximum        Average         Weighted
+                                         Weighted      Amount         Amount          Average
+                             Balance     Average     Outstanding    Outstanding      Interest
+  Category of Aggregate      at End      Interest    During the     During the      Rate During
+  Short-Term Borrowings     of Period      Rate        Period         Period        the Period
+- - --------------------------  ---------  ------------  -----------  --------------  ---------------
+<S>                         <C>        <C>           <C>          <C>             <C>
+ 
+Year ended May 31, 1994:
+ CHAPARRAL STEEL COMPANY
+   Borrowings from banks     $15,000       4.34%       $20,000       $7,250(1)        4.36%(2)
+Year ended May 31, 1993:                                                           
+ CHAPARRAL STEEL COMPANY                                                           
+   Borrowings from banks         -0-       6.21%         4,000          -0-(1)(3)       N/A(2)(3)
+Year ended May 31, 1992:                                                           
+ CHAPARRAL STEEL COMPANY                                                           
+   Borrowings from banks         -0-       6.51%        13,000        4,500(1)        7.12%(2)
+ 
+</TABLE>
+
+(1)  Computed on total of each month's ending balance divided by 12.
+
+(2)  Computed by dividing interest expense for the period by the average amount
+     outstanding during the period.
+
+(3)  No borrowings were outstanding at the month-ends during the period.
+<PAGE>
+ 
+                                     F - 9
+
+            SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+
+
+                    TEXAS INDUSTRIES, INC. AND SUBSIDIARIES
+                                 In thousands
+<TABLE>
+<CAPTION>
+                                                    Year ended May 31,
+                                                1994       1993       1992
+                                               -------    -------    ------- 
+<S>                                            <C>        <C>        <C>
+ 
+Maintenance and repairs                        $81,403    $85,246 *  $84,886 *
+                                                       
+Depreciation and amortization of                       
+  intangible assets and commissioning costs      5,336      5,336      3,324
+                                                       
+Taxes, other than payroll and income taxes:            
+  Property & miscellaneous taxes                11,630     10,179      9,540
+  Franchise taxes                                1,163      1,092      1,149
+                                               -------    -------    -------
+                                                12,793     11,271     10,689
+                                                       
+Royalties                                        3,053      2,294      1,846
+ 
+</TABLE>
+
+Amounts for advertising costs are not presented as such amounts are less than 1%
+of total sales and revenues.
+
+* Certain items in prior year amounts were reclassified to conform to current
+year presentation.
+<PAGE>
+ 
+                               INDEX TO EXHIBITS
+
+
+        
+        
+EXHIBITS                          DESCRIPTION
+- - --------                          -----------
+
+     3.  Articles of Incorporation (previously filed and incorporated herein by 
+         reference)
+
+     4.  Instruments defining rights of security holders (previously filed and 
+         incorporated herein by reference)
+
+     The Registrant agrees to furnish to the Commission, upon request, copies of
+all instruments with respect to long-term debt not being registered where the 
+total amount of securities authorized thereunder does not exceed 10% of the 
+total assets of Registrant and its subsidiaries on a consolidated basis.
+
+     11. Statement re: computation of per share earnings
+
+     13. Annual report to security holders
+
+     Registrant's annual report to security holders for its last fiscal year, 
+except for those portions thereof which are expressly incorporated by reference 
+in this filing, is furnished for the information of the Commission and is not to
+be deemed "filed" as part of this filing. Since the financial statements in the 
+report have been incorporated by reference in this filing, the accountant's 
+certificate is manually signed in the signed copy of this filing.
+
+     21. Subsidiaries of the Registrant
+
+     23. Consent of Independent Auditors
+
+     24. Power of attorney for certain members of the Board of Directors
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<DESCRIPTION>COMPUTATION OF EARNINGS
+<TEXT>
+
+<PAGE>
+ 
+                                  EXHIBIT 11
+
+                       COMPUTATION OF EARNINGS PER SHARE
+                    TEXAS INDUSTRIES, INC. AND SUBSIDIARIES
+<TABLE> 
+<CAPTION> 
+                                                 Year Ended May 31,
+                                              1994     1993      1992
+                                             -------  -------   -------
+                                            In thousands except per share
+
+<S>                                          <C>      <C>       <C>
+AVERAGE SHARES OUTSTANDING
+Primary:
+  Average shares outstanding                  11,208   10,976    10,918
+  Stock options and other equivalents -
+    treasury stock method using
+    average market prices                        119      109       138
+                                             -------  -------   -------
+       TOTALS                                 11,327   11,085    11,056
+                                             =======  =======   =======
+ 
+ Fully diluted:
+  Average common shares outstanding           11,208   10,976    10,918
+  Stock options and other equivalents -
+    treasury stock method using end of
+    quarter market price if higher than
+    average                                      139      109       145
+  Assumed conversion of 9% convertible
+    subordinated debentures                    1,251       --        --
+                                             -------  -------   -------
+       TOTALS                                 12,598   11,085    11,063
+                                             =======  =======   =======
+ 
+INCOME APPLICABLE TO COMMON STOCK
+ Primary:
+  Net income                                 $25,751  $ 1,058   $ 1,920
+  Adjustments:
+    Dividend on preferred stock                  (30)     (30)      (30)
+    Contingent price amortization                233      233       233
+                                             -------  -------   -------
+      NET INCOME                             $25,954  $ 1,261   $ 2,123
+                                             =======  =======   =======
+ 
+ Fully diluted:
+  Net income                                 $25,751  $ 1,058   $ 1,920
+  Adjustments:
+    9% convertible subordinated debenture
+     interest, net of federal income tax
+     effect                                    1,728       --        --
+    Dividend on preferred stock                  (30)     (30)      (30)
+    Contingent price amortization                233      233       233
+                                             -------  -------   -------
+      NET INCOME                             $27,682  $ 1,261   $ 2,123
+                                             =======  =======   =======
+ 
+PER SHARE
+ Primary:
+   Net income per common share and
+    common equivalent share                    $2.29     $.11      $.19
+                                             =======  =======   =======
+ 
+ Fully diluted:
+   Net income per common share and
+    dilutive common equivalent share           $2.20*    $.11      $.19
+                                             =======  =======   =======
+</TABLE>
+
+*  Not separately disclosed on the Consolidated Statements of Income due to 9%
+   convertible subordinated debentures being converted in April 1994.
+   Supplemental earnings per share assuming such debentures were converted as of
+   June 1993 is disclosed in long-term debt note to consolidated financial
+   statements.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>3
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+<PAGE>
+ 
+                                  EXHIBIT 13
+
+     The Registrant's complete annual report to security holders is furnished 
+under Item 14(a) of this report for convenience only where the financial 
+statements are incorporated by reference.
+
+
+                                 [FRONT COVER]
+
+
+TEXAS INDUSTRIES, INC.
+
+
+
+                               [CORPORATE LOGO]
+
+
+                                                              1994 ANNUAL REPORT
+
+
+                             [INSIDE FRONT COVER]
+
+
+                                 OUR MISSION:
+
+                        We will be the most efficient,
+             high value supplier of cement and aggregate products
+          and will provide superior service in the markets we serve.
+                   We will continue to grow in our industry
+              through innovation and geographic diversification.
+
+
+                                 [BACK COVER]
+
+                       A New York Stock Exchange Company
+
+                            Texas Industries, Inc.
+                             7610 Stemmons Freeway
+                              Dallas, Texas 75247
+                                 214-647-6700
+                              FAX:  214-647-3878
+
+<PAGE>
+ 
+CORPORATE PROFILE
+
+Texas Industries, Inc. (TXI), a Fortune 500 company, is a leading producer of
+steel and construction materials, including cement, aggregates and concrete.
+
+Chaparral Steel Company, an 81 percent-owned subsidiary of TXI, produces a broad
+range of carbon steel products and distributes them to markets in North America
+and, under certain market conditions, to Europe and Asia.
+
+TXI's cement, aggregate and concrete products operations are concentrated in
+Texas and Louisiana. The Company is the largest producer of cement in Texas.
+
+Throughout all operations, TXI strives to maintain its position as the highest
+quality, low-cost producer in the marketplace.
+
+FINANCIAL HIGHLIGHTS
+
+<TABLE> 
+<CAPTION> 
+- - -------------------------------------------------------------------
+In thousands except per share               1994             1993
+- - -------------------------------------------------------------------
+<S>                                       <C>              <C> 
+RESULTS OF OPERATIONS
+   Net sales                              $707,147         $614,292
+   Net income                               25,751            1,058
+- - -------------------------------------------------------------------
+PER SHARE INFORMATION
+   Net income                                 2.29              .11
+   Cash dividends                              .20              .20
+- - -------------------------------------------------------------------
+FOR THE YEAR
+   Cash from operations                     51,372           49,361
+   Capital expenditures                     23,305           17,212
+- - -------------------------------------------------------------------
+YEAR END POSITION
+   Total assets                            749,120          757,300
+   Net working capital                     161,383          159,408
+   Shareholders' equity                    352,671          282,511
+</TABLE> 
+<PAGE>
+ 
+TO OUR SHAREHOLDERS:
+
+Net income for Fiscal Year 1994 equalled $25.8 million or $2.29 per share, up
+substantially from the prior year's income of $1.1 million or $.11 per share.
+The cement, aggregate and concrete operations continued to improve for the
+fourth consecutive year while Chaparral earnings increased from the previous
+year in spite of a difficult market for structural steel beams.
+
+In the coming year, the positive trend in earnings is expected to continue as
+the cement, aggregate and concrete operations benefit from the recovery in
+construction activity in the Texas region. Chaparral's earnings will largely be
+determined by structural steel beam market conditions.
+
+CEMENT, AGGREGATE AND CONCRETE OPERATIONS
+
+Operating profit of $46.7 million for 1994 compared with a level of $31.7
+million for the previous year. Revenues for the segment were $244.9 million, a
+26% increase over last year. Revenues for all product groups were up for the
+year.
+
+Favorable trends in Texas construction activity were maintained during the year
+due to both increased residential building and street and highway construction.
+Some modest improvement in commercial building was apparent as well. While by no
+means representing a construction boom, this level of building activity served
+to bring demand and supply for cement into balance for the first time since the
+mid-eighties. As a result, cement prices have risen from the extremely low
+levels of four years ago to levels that are more representative of markets
+outside the region. Construction activity in the region had a similar impact on
+the aggregate, ready-mix and other product groups of the segment.
+
+The general recovery of the Texas economy, together with the benefits from free
+trade with Mexico, are expected to result in continued growth in construction
+activity. As the largest cement producer in Texas and one of the largest
+producers of aggregates in the region, the segment is well positioned to take
+advantage of this further growth.
+
+STEEL OPERATIONS
+
+Operating profit for Chaparral Steel was $35.5 million, up from last year's
+level of $12.9 million. The increase in profit was due to both improved cost
+efficiencies and a concentration on more desirable market areas and products.
+
+Shipments of 1.36 million tons were 2% lower than in the previous year. Average
+prices were up 12% as more sales were made in home market areas and as scrap
+cost increases were passed along. Demand for Chaparral's primary product,
+structural steel beams, remained at a low level during the year. There are
+indications that commercial construction activity in the United States is
+beginning to improve somewhat; however, a quick recovery is not currently
+expected.
+
+During Fiscal Year 1995, Chaparral will continue to focus on improving its
+production operations, expanding its presence in the market for special bar
+quality products and working on new applications for lightweight structural
+steel beams.
+
+Empowered employees continue to enhance the Company's competitive position in
+both production and marketing. Self-directed work teams are being successfully
+<PAGE>
+ 
+implemented. Employees throughout the Company are establishing solid customer
+bonds and developing new, value-added products to meet customer needs.
+
+During 1994, $71 million of debt was replaced with lower interest rate
+financing. In the spring, $47 million of subordinated debt was converted to
+equity. Both of these events resulted in a significant improvement in financial
+flexibility. These capital structure changes and the internal efforts discussed
+above will give the Company the ability to expand in markets and products which
+fit with our strengths as opportunities develop.
+
+
+
+/s/ Robert D. Rogers
+- - -----------------------
+Robert D. Rogers
+President
+July 15, 1994
+<PAGE>
+ 
+SELECTED FINANCIAL DATA
+Texas Industries, Inc. and Subsidiaries
+
+<TABLE>
+<CAPTION>
+- - --------------------------------------------------------------------------------------------
+$ In thousands except per share           1994       1993       1992       1991       1990
+- - --------------------------------------------------------------------------------------------
+<S>                                     <C>        <C>        <C>        <C>        <C>
+RESULTS OF OPERATIONS
+   Net sales                            $707,147   $614,292   $601,129   $619,827   $609,063
+   Operating profit                       82,130     44,572     47,207     40,876     37,700
+   Net income (loss)                      25,751      1,058      1,920     22,086     (7,342)    
+   Return on average common equity          8.1%        .4%        .7%       8.5%        N/A
+
+- - -------------------------------------------------------------------------------------------- 
+PER SHARE INFORMATION *
+   Net income (loss) (primary)          $   2.29   $    .11   $    .19   $   1.97   $   (.84)
+   Cash dividends                            .20        .20        .20        .20        .80
+   Book value                              31.14      25.49      25.50      25.58      21.67
+
+- - -------------------------------------------------------------------------------------------- 
+FOR THE YEAR
+   Cash from operations                 $ 51,372   $ 49,361   $ 26,217   $ 37,478   $ 32,810
+   Capital expenditures                   23,305     17,212     21,621     98,386     51,305
+
+- - -------------------------------------------------------------------------------------------- 
+YEAR END POSITION
+   Total assets                         $749,120   $757,300   $776,738   $788,577   $703,323
+   Net working capital                   161,383    159,408    134,806    115,895    152,818
+   Long-term debt                        171,263    267,243    289,390    293,136    259,528
+   Shareholders' equity                  352,671    282,511    281,902    282,124    239,654
+   Long-term debt to total 
+     capitalization                        32.7%      48.6%      50.7%      51.0%      52.0%
+
+- - -------------------------------------------------------------------------------------------- 
+OTHER INFORMATION
+   Average common shares 
+     outstanding (in 000's) *             11,327     11,085     11,056     11,030     11,060
+   Number of common shareholders           4,647      5,061      5,432      5,607      6,009
+   Number of employees                     2,700      2,700      2,700      2,800      2,900
+   Wages, salaries and employee 
+     benefits                           $102,853   $ 96,891   $ 97,950   $101,386   $100,241
+   Common stock prices (high-low) *      39 - 21    28 - 19    25 - 18    23 - 10    36 - 18
+</TABLE> 
+ 
+* Adjusted for stock dividend in 1990.
+<PAGE>
+ 
+DISCUSSION OF RESULTS OF OPERATIONS & FINANCIAL CONDITION
+
+GENERAL
+
+The Company has two major business segments: steel and cement/concrete. The
+steel operation produces beams, merchant quality rounds, special bar quality
+rounds, reinforcing bars, and channels. The cement/concrete segment supplies
+cement and aggregates, ready-mix, pipe, block and brick.
+
+The steel plant follows a market mill concept which entails producing a wide
+variety of products from steel scrap. Chaparral strives to be a low-cost
+supplier and is able to change its product mix to recognize changing market
+conditions or customer requirements. Steel products are sold principally to
+steel service centers, fabricators, cold finishers, forgers and original
+equipment manufacturers. Chaparral distributes primarily to markets in North
+America and, under certain market conditions, to Europe and Asia.
+
+The cement/concrete facilities are concentrated in Texas and Louisiana, with
+markets extending into contiguous states. As a vertically integrated concrete
+products supplier, TXI owns or leases more than 25,000 acres of mineral-bearing
+land. Cement/concrete operations require large amounts of capital investment,
+energy, labor and maintenance.
+
+Corporate resources, which are excluded from operating profit, include the
+president's office as well as certain financial, legal, environmental, personnel
+and public ownership expenses, none of which are allocated to operations.
+Brookhollow's real estate activities are also included in corporate resources.
+
+RESULTS OF OPERATIONS
+
+NET SALES
+
+Consolidated 1994 sales achieved a record $707.1 million, an increase of 15%
+over last year. Steel sales were up 10% due to 12% higher average selling
+prices. Cement/concrete sales increased 26% on improved volumes and selling
+prices of all primary products. Steel shipments of 1.36 million tons were
+slightly lower than 1993. Product mix between the bar mill and structural mills
+was substantially unchanged compared to 1993. Bar mill prices averaged 9%
+higher, while structurals were up 13%. Steel pricing overall had trended up
+until May, when a $20 per ton decrease in certain wide flange beams was
+required. Wide flange beams are generally used in commercial buildings for which
+demand has been flat for the last few years.
+
+Strong demand for cement/concrete products permitted significantly greater
+shipments of cement, aggregates and ready-mix, which comprise 82% of segment
+sales. Cement prices averaged 6% higher, ready-mix was up 2% and, due to product
+mix, average aggregate pricing was down 1%. Cement consumption in Texas reached
+the in-state production capacity during the year, increasing 13% compared to the
+prior year. Prices for cement/concrete products are expected to improve further
+over the next year if demand remains strong.
+
+Consolidated 1993 sales of $614.3 million increased 2% over 1992. Steel sales
+were up 1% as average prices trended up on similar volume. Cement tons increased
+20% with slightly higher prices. Ready-mix volume was down as highway projects
+in Houston and Louisiana tailed off, although average unit pricing gained 4%.
+Aggregate sales were improved by 8% greater volume and 7% better average price.
+
+<PAGE>
+
+BUSINESS SEGMENTS
+ 
+<TABLE> 
+<CAPTION> 
+
+                                              Year ended May 31,
+- - -------------------------------------------------------------------------
+In thousands                           1994          1993          1992
+- - -------------------------------------------------------------------------
+<S>                                  <C>           <C>           <C> 
+
+NET SALES
+   Bar mill                          $138,353      $126,830      $141,538
+   Structural mills                   320,210       289,862       272,474
+   Transportation                       3,712         3,518         2,598
+- - -------------------------------------------------------------------------
+   TOTAL STEEL                       $462,275      $420,210      $416,610
+                                                             
+   Cement                            $ 93,181      $ 71,240      $ 58,407
+   Ready-mix                           86,213        70,151        73,341
+   Stone, sand & gravel                56,736        47,890        41,529
+   Other products                      50,239        40,918        45,545
+   Interplant                         (41,497)      (36,117)      (34,303)
+- - -------------------------------------------------------------------------
+   TOTAL CEMENT/
+     CONCRETE                        $244,872      $194,082      $184,519
+- - -------------------------------------------------------------------------
+   TOTAL NET SALES                   $707,147      $614,292      $601,129
+                                     ====================================
+
+UNITS SHIPPED
+   Bar mill (tons)                        424           422           484
+   Structural mills (tons)                938           962           914
+- - -------------------------------------------------------------------------
+   TOTAL STEEL TONS                     1,362         1,384         1,398
+
+   Cement (tons)                        2,120         1,720         1,439
+   Ready-mix (cubic yards)              1,913         1,586         1,733
+   Stone, sand & gravel (tons)         11,649         9,695         8,968
+
+STEEL OPERATIONS
+   Gross profit                      $ 81,777      $ 58,624      $ 66,678
+   Less: Depreciation & 
+          amortization                 33,756        33,814        29,477
+         Selling, general & 
+          administrative               15,937        13,992        17,437
+         Other income                  (3,372)       (2,072)       (5,217)
+- - ------------------------------------------------------------------------- 
+   OPERATING PROFIT                  $ 35,456      $ 12,890      $ 24,981
+
+CEMENT/CONCRETE OPERATIONS
+   Gross profit                      $ 75,334      $ 57,636      $ 38,894
+   Less: Depreciation, depletion & 
+          amortization                 14,458        15,168        17,321
+         Selling, general & 
+          administrative               17,330        12,842        15,248
+         Other income                  (3,128)       (2,056)      (15,901)
+- - -------------------------------------------------------------------------  
+   OPERATING PROFIT                  $ 46,674      $ 31,682      $ 22,226
+- - ------------------------------------------------------------------------- 
+TOTAL OPERATING PROFIT               $ 82,130      $ 44,572      $ 47,207
+                                     ====================================
+
+CORPORATE RESOURCES
+   Other income                      $  2,114      $  2,511      $  2,892
+   Less: Depreciation & 
+          amortization                    748           817           697
+         Selling, general & 
+          administrative               13,677        13,651        13,240
+- - -------------------------------------------------------------------------  
+                                      (12,311)      (11,957)      (11,045)
+ 
+   INTEREST EXPENSE                   (26,231)      (32,596)      (31,149)
+- - -------------------------------------------------------------------------  
+Income before taxes & other 
+  items                              $ 43,588      $     19      $  5,013
+                                     ====================================  
+
+CAPITAL EXPENDITURES
+   Steel                             $  7,805      $  7,426      $ 12,616
+   Cement/concrete                     15,252         9,121         8,021
+   Corporate                              248           665           984
+- - ------------------------------------------------------------------------- 
+                                     $ 23,305      $ 17,212      $ 21,621
+                                     ==================================== 
+
+IDENTIFIABLE ASSETS
+   Steel                             $488,307      $480,811      $504,905
+   Cement/concrete                    159,133       169,941       195,221
+   Corporate                          101,680       106,548        76,612
+- - ------------------------------------------------------------------------- 
+                                     $749,120      $757,300      $776,738
+                                     ====================================
+</TABLE>
+<PAGE>
+ 
+COST OF PRODUCTS SOLD
+
+Consolidated cost of products sold, including depreciation and amortization, was
+$598.6 million on increased shipments of cement/concrete and higher steel scrap
+costs. Chaparral's costs were $18.9 million higher at $414.2 million. Scrap
+costs increased $18 per ton during the year. Cement costs were $5.8 million
+higher in 1994 due to lower clinker sales than in 1993 (the profit from clinker
+sales is credited as a reduction of costs). The 23% increase in cement tons and
+21% increase in ready-mix volume account for the majority of the $34.6 million
+increase in cement/concrete cost of products sold, which total $184.4 million
+for the year. Unit production costs of ready-mix and aggregates were lower due
+to higher production volumes and continuing operating efficiency improvements.
+
+The 1993 cost, totaling $545.2 million, increased $2.8 million from 1992.
+Chaparral depreciation and amortization added $5.3 million for the large beam
+mill. Steel costs per ton were somewhat higher as a result of upgrading the
+product mix with large beam products. Cement/concrete costs of sales declined
+$13.1 million or 8%, due largely to the absence of Dolphin Construction
+activities. Cement unit costs were lower due to higher production volumes and
+added savings from resource recovery activities. These activities use waste
+products to displace coal which would otherwise be consumed at the Midlothian
+cement plant.
+
+OPERATING PROFIT
+
+Near record operating profit of $82.1 million resulted from steel operations
+increasing by $22.6 million and cement/concrete improving by $15.0 million,
+both compared to the prior year's level. Steel prices per ton averaged $36
+higher against unit cost increases of $19. Operational selling, general and
+administrative costs included $1.9 million additional for steel profit sharing.
+Cement/concrete profits were enhanced by added shipments of all products in
+combination with improved pricing. Operational SG&A was up $4.5 million in this
+segment due to increased selling and technical support for resource recovery
+activities.
+
+Operating profit in 1993 was $44.6 million as steel profits declined by $12.1
+million and cement/concrete advanced $9.5 million. The 1992 profit included an
+$11 million land gain from disposing of a ready-mix plant site. Steel profits
+in 1993 were decreased by $5.3 million additional depreciation expense of the
+large beam mill, as well as higher costs of producing large beam products, which
+in that year sold at depressed prices. Cement/concrete profits rose on greater
+shipments of cement and aggregates, which both had improved unit costs.
+
+SELLING, ADMINISTRATIVE EXPENSE AND OTHER INCOME
+
+Total selling, general and administrative expense, including both operations and
+corporate, increased 10% to $47.3 million. Steel costs of $15.9 million
+included $1.9 million in additional profit sharing and $1.6 million in severance
+pay. These increases were offset by reductions in compensation and other
+expenses following the 1993 restructuring. Cement/concrete costs increased $4.5
+million due to expanded marketing for products and technical support for
+resource recovery activities.
+
+Consolidated other income increased $2 million to $8.6 million. Chaparral's
+other income, at $3.4 million, was $1.3 million greater due in part to disposal
+of certain assets. Cement/concrete other income of $3.1 million is comprised
+largely of gains from the sale of retired transportation equipment. Corporate
+other income of $2.1 million is comprised primarily of $1.5 million in
+Brookhollow land gains and $1.3 million in investment income.
+<PAGE>
+ 
+Prior year's consolidated other income of $6.6 million is similarly constituted
+of gains from routine asset retirement, land gains and investment income. The
+$24 million 1992 amount contained an $11 million land gain from disposal of a
+downtown Dallas plant site.
+
+INTEREST EXPENSE
+
+Interest expense reduced $6.4 million to $26.2 million; $5.1 million of
+reduction came from TXI and $1.3 million from Chaparral. A major TXI refinancing
+was completed in two phases during the year as $71 million in notes payable
+were replaced in September with lower interest rate obligations. Additionally,
+$40 million in consolidated notes were repaid during the year. In April, $46.9
+million in convertible debentures were exchanged for common stock. Interest
+expense on these debentures terminated in January. The Chaparral expense
+reduction reflects continued, scheduled repayment of debt. The $1.5 million
+increase in 1993 over 1992 was due to Chaparral capitalizing $3.4 million in
+interest charges during 1992.
+
+FINANCIAL CONDITION
+
+With 1994 yielding the best operating cash and net income results in the last
+several years, the Company's financial condition has continued to improve.
+Shareholders' equity grew $70 million to $353 million while long-term debt
+decreased by $96 million. The year end debt-to-total capitalization ratio of 33%
+is the lowest in Company history. While working capital and cash balances were
+about the same as last year, significant progress was made on accounts
+receivable, considering that the same $77 million balance supports $93 million,
+or 15%, more sales volume. Inventory increased by $18 million as steel
+production outpaced shipments during the second half of the year.
+
+Capital expenditures increased $6 million to $23 million, spent largely on
+replacement items. An additional $18 million in capital items were added to
+lease commitments in the cement/concrete segment. Capital expenditure plans for
+1995 contemplate $50 million as each business segment envisions doubling the
+pace of recent expenditures. An additional $12 million in upgrade projects and
+replacement mobile equipment is projected to be leased.
+
+Net debt retirement of $40 million, excluding the converted debentures,
+represented the greatest use of cash. Repayment flexibility was achieved through
+TXI's refinancing as maturities previously scheduled for 1995 and 1996 were
+replaced with a six-year amortization. A credit line of $25 million was arranged
+for TXI as a part of the refinancing, $4.4 million of which has been utilized to
+support letters of credit. This line is due to expire in November 1996.
+Chaparral has short-term credit facilities of $20 million, $15 million of which
+was outstanding at May. This credit line is eligible to be renewed in January
+1995.
+
+The Company generally maintains a policy of financing major capital expansion
+projects with long-term borrowing. Working capital, investments and replacement
+assets are funded out of cash flow from operations. The Company expects current
+financial resources and cash from 1995 operations to be sufficient to provide
+funds for planned capital expenditures, scheduled debt payments and other known
+working capital needs for fiscal 1995. If additional funds are required to
+accomplish long-term expansion of operations, management believes that funding
+can be obtained through lending or equity sources to meet such requirements.
+<PAGE>
+ 
+CONSOLIDATED BALANCE SHEETS
+Texas Industries, Inc. and Subsidiaries
+
+<TABLE> 
+<CAPTION> 
+                                                           May 31,
+- - --------------------------------------------------------------------------- 
+In thousands                                       1994              1993
+- - ---------------------------------------------------------------------------
+<S>                                              <C>               <C> 
+ASSETS
+ 
+CURRENT ASSETS
+   Cash and temporary investments                $ 31,766          $ 33,089
+   Notes and accounts receivable                   76,815            76,711
+   Inventories                                    135,851           117,987
+   Prepaid expenses                                32,646            32,745
+- - ---------------------------------------------------------------------------
+     TOTAL CURRENT ASSETS                         277,078           260,532
+ 
+OTHER ASSETS
+   Real estate and other investments               30,523            30,188
+   Goodwill                                        72,916            75,234
+   Commissioning costs and other assets            23,710            25,788
+- - --------------------------------------------------------------------------- 
+                                                  127,149           131,210
+
+PROPERTY, PLANT AND EQUIPMENT
+   Land and land improvements                      90,685            86,697
+   Buildings                                       51,776            51,533
+   Machinery and equipment                        727,818           720,526
+- - --------------------------------------------------------------------------- 
+                                                  870,279           858,756
+   Less allowances for depreciation               525,386           493,198
+- - ---------------------------------------------------------------------------
+                                                  344,893           365,558
+                                                 -------------------------- 
+                                                 $749,120          $757,300
+                                                 ==========================
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+ 
+CURRENT LIABILITIES
+   Notes payable to banks                        $ 15,000          $   --
+   Trade accounts payable                          44,022            48,662
+   Accrued interest, wages and other items         25,546            29,668
+   Current portion of long-term debt               31,127            22,794
+- - --------------------------------------------------------------------------- 
+     TOTAL CURRENT LIABILITIES                    115,695           101,124
+ 
+LONG-TERM DEBT                                    171,263           267,243
+
+DEFERRED FEDERAL INCOME TAXES AND OTHER CREDITS    73,196            71,313
+
+MINORITY INTEREST                                  36,295            35,109
+
+SHAREHOLDERS' EQUITY
+   Preferred stock                                    598               598
+   Common stock, $1 par value                      12,534            11,100
+   Additional paid-in capital                     265,790           220,776
+   Retained earnings                               75,511            52,933
+   Cost of common shares in treasury               (1,762)           (2,896)
+- - --------------------------------------------------------------------------- 
+                                                  352,671           282,511
+                                                 --------------------------
+                                                 $749,120          $757,300
+                                                 ==========================
+</TABLE> 
+
+See notes to consolidated financial statements.
+<PAGE>
+ 
+CONSOLIDATED STATEMENTS OF INCOME
+Texas Industries, Inc. and Subsidiaries
+
+<TABLE> 
+<CAPTION> 
+                                                    Year Ended May 31,
+- - -----------------------------------------------------------------------------
+In thousands except per share                  1994        1993        1992
+- - -----------------------------------------------------------------------------
+<S>                                          <C>         <C>         <C> 
+NET SALES                                    $707,147    $614,292    $601,129
+ 
+COSTS AND EXPENSES (INCOME)
+   Cost of products sold                      598,601     545,200     542,355
+   Selling, general and administrative         47,341      43,116      46,622
+   Interest                                    26,231      32,596      31,149
+   Other income                                (8,614)     (6,639)    (24,010)
+- - ----------------------------------------------------------------------------- 
+                                              663,559     614,273     596,116
+- - -----------------------------------------------------------------------------
+          INCOME BEFORE THE FOLLOWING ITEMS    43,588          19       5,013
+
+INCOME TAXES
+     Expense (benefit)                         13,607        (646)      1,737
+     Change in statutory federal tax rate       1,949         --          --
+- - -----------------------------------------------------------------------------
+                                               15,556        (646)      1,737
+- - ----------------------------------------------------------------------------- 
+                                               28,032         665       3,276
+
+Minority interest in Chaparral                 (2,281)        393      (1,356)
+- - ----------------------------------------------------------------------------- 
+          NET INCOME                         $ 25,751    $  1,058    $  1,920
+                                             ================================
+
+Average common shares                          11,327      11,085      11,056
+                                             ================================  
+
+Net income per common share                  $   2.29    $    .11    $    .19
+                                             ================================
+
+Cash dividends                               $    .20    $    .20    $    .20
+                                             ================================
+</TABLE> 
+
+See notes to consolidated financial statements.
+<PAGE>
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Texas Industries, Inc. and Subsidiaries
+ 
+<TABLE> 
+<CAPTION> 
+
+                                                          Year Ended May 31,
+- - ----------------------------------------------------------------------------------
+In thousands                                           1994       1993       1992
+- - ----------------------------------------------------------------------------------
+<S>                                                 <C>        <C>        <C>  
+OPERATING ACTIVITIES
+   Net income                                       $ 25,751   $  1,058   $  1,920
+   Gain on disposal of assets                         (2,535)      (264)   (13,805)
+   Non-cash items
+     Depreciation, depletion and amortization         48,962     49,799     47,495
+     Deferred taxes                                    3,790     (4,284)       432
+     Undistributed minority interest                   1,186     (1,528)       206
+     Other -- net                                      1,575        819        880
+   Changes in operating assets and liabilities
+     Notes and accounts receivable                      (937)    (2,125)    (3,645)
+     Inventories and prepaid expenses                (18,468)     2,431    (12,719)
+     Accounts payable and accrued liabilities         (7,980)     2,470      4,575
+     Real estate and investments                          28        985        878
+- - ----------------------------------------------------------------------------------
+       NET CASH PROVIDED BY OPERATIONS                51,372     49,361     26,217
+ 
+INVESTING ACTIVITIES
+   Capital expenditures                              (23,305)   (17,212)   (21,621)
+   Proceeds from disposition of assets                 2,880        497     21,794
+   Purchase of temporary investments                  (2,017)    (4,660)    (6,528)
+   Proceeds from temporary investments                 8,374      4,816        --
+   Cash surrender value -- insurance                    (821)     5,554     (1,840)
+   Commissioning costs and other -- net                 (315)      (375)    (8,412)
+- - ----------------------------------------------------------------------------------
+       NET CASH USED BY INVESTING                    (15,204)   (11,380)   (16,607)
+ 
+FINANCING ACTIVITIES
+   Proceeds of short-term borrowing                   30,000      7,000     18,000
+   Repayments of short-term borrowing                (15,000)    (7,000)   (28,000)
+   Proceeds of long-term borrowing                    71,517        600     20,337
+   Debt retirements                                 (111,738)   (22,290)   (25,351)
+   Dividends paid                                     (2,308)    (2,228)    (2,213)
+   Other -- net                                       (3,629)    (1,439)    (1,451)
+- - ----------------------------------------------------------------------------------
+       NET CASH USED BY FINANCING                    (31,158)   (25,357)   (18,678)
+- - ----------------------------------------------------------------------------------
+Increase (decrease) in cash                            5,010     12,624     (9,068)
+
+Cash at beginning of year                             26,756     14,132     23,200
+- - ----------------------------------------------------------------------------------
+Cash at end of year                                   31,766     26,756     14,132
+Temporary investments                                    --       6,333      6,528
+- - ----------------------------------------------------------------------------------
+CASH AND TEMPORARY INVESTMENTS AT END OF YEAR        $31,766    $33,089    $20,660
+                                                     =============================
+</TABLE> 
+
+See notes to consolidated financial statements.
+<PAGE>
+ 
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+Texas Industries, Inc. and Subsidiaries
+
+<TABLE> 
+<CAPTION> 
+
+- - ----------------------------------------------------------------------------------------------------------------------------------
+                                                              Common                                                         
+                                                               Stock        Additional               Treasury     Total      
+                                                Preferred     $1 Par         Paid-in      Retained    Common   Shareholders' 
+In thousands                                      Stock        Value         Capital      Earnings     Stock      Equity     
+- - ---------------------------------------------------------------------------------------------------------------------------------
+<S>                                             <C>          <C>             <C>           <C>       <C>          <C>        
+May 31, 1991                                         $598    $11,100         $220,776      $55,875   $(6,225)     $282,124   
+                                                                                                                             
+   Net income                                                                                1,920                   1,920   
+   Cash dividends                                                                                                            
+     Preferred stock -- $5 a share                                                             (30)                    (30)  
+     Common stock -- $.20 a share                                                           (2,183)                 (2,183)  
+   Treasury stock issued for bonuses                                                                                         
+     and options -- 3,250 shares                                                               (38)      109            71   
+- - ---------------------------------------------------------------------------------------------------------------------------------
+May 31, 1992                                          598     11,100          220,776       55,544    (6,116)      281,902   
+                                                                                                                             
+   Net income                                                                                1,058                   1,058   
+   Cash dividends                                                                                                            
+     Preferred stock -- $5 a share                                                             (30)                    (30)  
+     Common stock --$.20 a share                                                            (2,198)                 (2,198)  
+   Treasury stock issued for bonuses                                                                                         
+     and options -- 96,451 shares                                                           (1,441)    3,249         1,808   
+   Treasury stock purchased -- 1,034 shares                                                              (29)          (29)  
+- - ---------------------------------------------------------------------------------------------------------------------------------
+May 31, 1993                                          598     11,100          220,776       52,933    (2,896)      282,511   
+                                                                                                                             
+   Net income                                                                               25,751                  25,751   
+   Cash dividends                                                                                                            
+     Preferred stock -- $5 a share                                                             (30)                    (30)  
+     Common stock -- $.20 a share                                                           (2,278)                 (2,278)  
+   Common stock issued for bond                                                                                              
+     conversion -- 1,432,296 shares                            1,432           44,876                               46,308   
+   Common and treasury stock issued                                                                                          
+     for bonuses and options --                                                                                              
+     136,476 shares                                                2              138         (865)    4,729         4,004   
+   Treasury stock purchased --                                                                                               
+     94,978 shares                                                                                    (3,595)       (3,595)  
+- - ---------------------------------------------------------------------------------------------------------------------------------
+May 31, 1994                                         $598    $12,534         $265,790      $75,511   $(1,762)     $352,671    
+                                                     ============================================================================
+</TABLE> 
+
+At May 31, 1994, Common Stock and Additional Paid-in Capital include $127.8
+million of accumulated transfers from Retained Earnings in connection with stock
+dividends.
+
+See notes to consolidated financial statements.
+<PAGE>
+ 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+The consolidated financial statements include the accounts of Texas Industries,
+Inc. (the Company) and all subsidiaries. The minority interest represents the
+19.1% separate public ownership of Chaparral Steel Company (Chaparral).
+
+Property, plant and equipment is recorded at cost. Provisions for depreciation
+are computed generally using the straight-line method. Provisions for depletion
+of mineral deposits are computed on the basis of the estimated quantity of
+recoverable raw materials.
+
+For cash flow purposes, temporary investments which have maturities of less than
+90 days when purchased, are considered cash equivalents. Temporary investments
+of $6.3 million at May 31, 1993, which are included in cash on the balance
+sheets, exceed 90-day maturity.
+
+Earnings per share are computed by deducting preferred dividends from net income
+and adjusting for amortization of additional goodwill in connection with the
+contingent payment for the acquisition of Chaparral, then dividing this amount
+by the weighted average number of common shares outstanding during the period,
+including common stock equivalents.
+
+Goodwill, currently being amortized on a straight-line basis over a 40-year
+period, is net of accumulated amortization of $9.9 million at May 31, 1994 and
+$7.6 million at May 31, 1993. Management regularly reviews remaining goodwill
+with consideration toward recovery through future operating results
+(undiscounted) at the current rate of amortization.
+
+The Company's policy for new facilities is to capitalize certain costs until the
+facility is substantially complete and ready for its intended use. Chaparral
+began the commissioning of the large beam mill in February 1991. The mill was
+substantially complete and ready for its intended use in the third quarter of
+fiscal 1992 with a total of $15.1 million of costs deferred. The amounts of
+amortization charged to income were $3 million, $3 million and $1 million in
+1994, 1993 and 1992, respectively, based on a five-year period.
+
+The estimated fair value of each class of financial instrument as of May 31,
+1994 approximates carrying value except for Chaparral's long-term debt. The fair
+value of all long-term debt at May 31, 1994, estimated by applying discounted
+cash flow analysis based on interest rates currently available to the Company
+for such debt with similar terms and remaining maturities, is approximately
+$218.2 million compared to the carrying amount of $202.4 million.
+
+Certain amounts in the 1992 and 1993 financial statements have been reclassified
+to conform to the 1994 presentation.
+
+
+
+WORKING CAPITAL
+
+Working capital totaled $161.4 million at May 31, 1994, compared to $159.4
+million at the prior year-end.
+
+Notes and accounts receivable of $76.8 million at May 31, 1994, compared with
+$76.7 million in 1993, are presented net of allowances for doubtful receivables
+of $4.6 million in 1994 and $4.2 million in 1993.
+
+Inventories are stated at cost (not in excess of market) generally using the
+last-in, first-out method (LIFO). If the average cost method (which approximates
+current replacement cost) had been used, inventory values would have been higher
+by $12.0 million in 1994 and $6.6 million in 1993.
+
+
+Inventories are summarized as follows:
+
+<TABLE> 
+<CAPTION> 
+- - ----------------------------------------------
+In thousands                    1994    1993
+- - ----------------------------------------------
+<S>                           <C>      <C>
+Finished products            $ 72,583 $ 54,049
+ 
+Work in process                21,708   21,279
+ 
+Raw materials and supplies     41,560   42,659
+- - ----------------------------------------------
+                             $135,851 $117,987
+                             =================
+</TABLE>
+<PAGE>
+ 
+LONG-TERM DEBT
+
+Long-term debt is comprised of the following:
+
+<TABLE> 
+<CAPTION> 
+- - ---------------------------------------------------------------------------------------------------
+In thousands                                                                    1994         1993
+- - ---------------------------------------------------------------------------------------------------
+<S>                                                                           <C>          <C> 
+Secured Debt                                                              
+   Senior note due through 1999, interest rate at 6.69% (2% over LIBOR)       $71,000      $   --
+   First mortgage notes of Chaparral, due through 1995, interest rates      
+     from 5% to 5.5% (up to 2% over LIBOR)                                      7,256        15,759
+   First mortgage notes of Chaparral, due through 2001, interest rate       
+     14.2%                                                                     26,595        30,687
+   Purchase money obligations, maturing through 1999, interest rates        
+     from 7% to 11.5%                                                           3,727         3,867
+Unsecured Debt                                                            
+   Senior notes of Chaparral, due through 2004, interest rates to 10.85%       80,000        80,000
+   Pollution control bonds, due through 2007, interest rates from 4.5%     
+     to 10%                                                                    11,366        12,719
+   Refinanced debt                                                               --          92,674
+   Converted debt                                                                --          49,965
+   Other, maturing through 2005, interest rates from 7.5% to 10%                2,446         4,366
+- - ---------------------------------------------------------------------------------------------------
+                                                                              202,390       290,037
+
+Less current maturities                                                        31,127        22,794
+- - ---------------------------------------------------------------------------------------------------
+                                                                             $171,263      $267,243
+                                                                             ======================
+</TABLE> 
+
+Annual maturities of long-term debt for each of the five succeeding years are
+$31.1, $32.6, $28.6, $28.5 and $28.0 million.
+
+The Company has available a bank line of credit of $25 million of which $4.4
+million has been utilized to support letters of credit. This line is due to
+expire in November 1996. The interest rate charged on borrowings is 1.75% over
+LIBOR. Commitment fees at an annual rate of 1/2 of 1% are paid on the unused
+portion of this line.
+
+Chaparral has utilized $15 million of its $20 million available bank lines of
+credit, which are due to expire in January 1995, if not renewed. Interest rates
+on borrowings currently range from 4.69% to 4.88%. Commitment fees at an annual
+rate of 3/8 of 1% are paid on the unused portions of these lines.
+
+The loan agreements contain covenants which provide for minimum working capital,
+restrictions on purchases of treasury stock, payment of dividends on common
+stock, limitations on incurring certain indebtedness and making certain
+investments. Under the most restrictive of these agreements, the aggregate
+amount of annual cash dividends on common stock is limited based on the ratio,
+excluding Chaparral, of earnings before interest, taxes, depreciation and
+amortization plus dividends from Chaparral to fixed charges. Chaparral loan
+agreements also restrict dividends and advances to its shareholders, including
+the parent company, to $33.0 million as of May 31, 1994. The Company and
+Chaparral are in compliance with all loan covenant restrictions.
+<PAGE>
+ 
+As a result of a sinking fund payment and a notice of redemption issued by the
+Company, holders of $46.9 million  of the Company's outstanding 9% convertible
+subordinated debentures due in 2008 converted such debentures into 1,432,296
+shares of the Company's common stock at $32.74 per share. Assuming these
+convertible debentures had been converted as of June 1, 1993, supplemental
+earnings per share for fiscal year 1994 would have been $2.20.
+
+Property, plant and equipment, principally Chaparral's, carried at a net amount
+of approximately $231.0 million at May 31, 1994 is mortgaged as collateral for
+$37.6 million of secured debt. The Company's Chaparral stock is pledged as
+collateral for the $71 million Senior note and the $25 million line of credit.
+
+The amount of interest paid was $31.6 million in 1994, $33.4 million in 1993 and
+$34.7 million in 1992. Interest capitalized totaled $3.4 million in 1992.
+
+SHAREHOLDERS' EQUITY
+
+Common stock consists of:
+
+<TABLE> 
+<CAPTION>  
+- - -------------------------------------------------------------------
+In thousands                                          1994    1993
+- - -------------------------------------------------------------------
+<S>                                                  <C>     <C> 
+Shares authorized                                    15,000  15,000
+Shares outstanding at May 31                         12,489  11,015
+Average shares outstanding including equivalents     11,327  11,085
+Shares held in treasury                                  45      85 
+Shares reserved for:
+  Convertible subordinated debentures                   --    1,526
+  Stock options and other                             1,334     640
+ 
+</TABLE>
+
+There are authorized 100,000 shares of Cumulative Preferred Stock, no par value,
+of which 20,000 shares are designated $5 Cumulative Preferred Stock (Voting),
+redeemable at $105 per share and entitled to $100 per share upon dissolution.
+There were 5,976 shares of $5 Cumulative Preferred Stock outstanding at May 31,
+1994 and 1993.
+
+An additional 50,000 shares are designated Series A Junior Participating
+Preferred Stock, redeemable under certain conditions at a redemption price,
+subject to adjustment, equal to 200 times the aggregate amount to be distributed
+per share to holders of Common Stock but not less than $100. There are
+outstanding rights, issued to common shareholders under the Company's
+Shareholders Protection Plan, to purchase 48,484 shares of Series A Junior
+Participating Preferred Shares, none of which were outstanding. Under certain
+conditions, each right may be exercised to purchase one two-hundredth of a share
+for $100. The rights, which are non-voting, expire in 1996 and may be redeemed
+by the Company at a price of five cents per right at any time.
+
+STOCK OPTION PLANS
+
+The Company's stock option plans provide that non-qualified and incentive stock
+options to purchase Common Stock may be granted to officers and key employees at
+market prices at date of grant. Generally, options become exercisable in
+installments beginning one or two years after date of grant, and expire six or
+ten years later depending on the initial date of grant. A summary of option
+transactions for the two years ended May 31, 1994, follows:
+
+<TABLE> 
+<CAPTION> 
+                                   Shares Under          Aggregate
+                                      Option           Option Price
+- - -----------------------------------------------------------------------
+$ In thousands                     1994     1993       1994      1993
+- - ----------------------------------------------------------------------- 
+<S>                             <C>       <C>        <C>       <C>    
+Outstanding at June 1            429,874   471,068   $10,129   $11,105
+  Granted                         87,450    60,500     2,108     1,388
+  Exercised                     (134,492)  (14,508)   (3,856)     (320)
+  Cancelled                      (22,828)  (87,186)     (598)   (2,044)
+- - ----------------------------------------------------------------------- 
+Outstanding at May 31            360,004   429,874   $ 7,783   $10,129
+                                 ======================================
+Shares at May 31
+  Exercisable                     71,644
+  Available for future grants    914,550
+</TABLE> 
+
+The options outstanding at May 31, 1994, expire on various dates to October 19,
+2003.
+<PAGE>
+ 
+INCOME TAXES
+
+The provisions for income taxes are composed of:
+
+<TABLE> 
+<CAPTION> 
+- - ----------------------------------------------------------------------
+In thousands                                  1994     1993      1992 
+- - ----------------------------------------------------------------------   
+<S>                                         <C>      <C>        <C>   
+Current                                     $11,766  $ 3,637    $1,305
+Deferred                                      3,790   (4,283)      432
+- - ----------------------------------------------------------------------
+Expense (benefit)                           $15,556  $  (646)   $1,737
+                                            ==========================
+</TABLE> 
+
+A reconcilement from statutory federal taxes to the above provisions follows:
+
+<TABLE> 
+<CAPTION> 
+- - ----------------------------------------------------------------------
+In thousands                                  1994     1993      1992
+- - ----------------------------------------------------------------------
+<S>                                         <C>      <C>      <C>
+Taxes at statutory rate                     $15,256  $     6   $ 1,704
+  Change in statutory federal tax rate        1,949      --        --
+  Tax credit carryforwards                      (36)     653       546
+  Additional depletion                       (2,107)  (1,831)   (1,213)
+  Goodwill                                      811      788       788
+  State income tax                              242      220       276
+  Non taxable insurance benefits               (528)    (481)     (377)
+  Other -- net                                  (31)      (1)       13
+- - ----------------------------------------------------------------------
+                                            $15,556  $  (646)  $ 1,737
+                                            ==========================
+</TABLE>
+
+Effective June 1, 1992, the Company adopted Statement of Financial Accounting
+Standards 109, "Accounting for Income Taxes" (SFAS 109). An additional income
+tax provision of $1,949,000 was recognized in 1994, due to federal tax
+legislation enacted on August 10, 1993, which increased the corporate tax rate
+to 35%.
+
+The provision for 1992 deferred income taxes (prior to the adoption of SFAS 109)
+was principally comprised of the tax effects of temporary differences as
+follows: $3.2 million commissioning costs, $4.6 million real estate gains and
+($7.0 million) net operating loss utilization.
+
+The Company joins in filing a consolidated tax return with its subsidiaries.
+Current and deferred tax expense is allocated among the members of the group
+based on the net taxable income or loss of the individual member.
+
+As of May 31, 1994, for tax purposes, the Company has net operating loss
+carryforwards available for offset against both regular taxable income and
+alternative minimum taxable income of approximately $6.1 million, which expire
+in the years 1997 through 2000. The Company has general business tax credit
+carryforwards of approximately $2.5 million which expire in the years 1995
+through 2009. The Company made income tax payments of $9.7 million, $.4 million,
+and $2.5 million in 1994, 1993 and 1992, respectively.
+<PAGE>
+ 
+The components of the net deferred tax liability at May 31 are summarized below:
+
+<TABLE> 
+<CAPTION> 
+- - ----------------------------------------------------------------------
+In thousands                                          1994       1993
+- - ----------------------------------------------------------------------
+<S>                                                <C>        <C>  
+Deferred tax assets                                        
+  Deferred compensation                            $  3,317   $  3,360
+  Expenses not currently tax deductible               9,154      9,924
+  Tax cost in inventory                               3,516      3,148
+  Net operating loss carryforwards                    2,129      8,772
+  Tax credit carryforwards                            2,486      4,403
+  Alternative minimum tax credit carryforwards       18,446     14,232
+  Other                                                 --         826 
+- - ----------------------------------------------------------------------
+     Total deferred tax assets                       39,048     44,665
+
+Deferred tax liabilities                                   
+  Accelerated tax depreciation                       72,800     73,952
+  Deferred real estate gains                          5,488      5,331
+  Deferred acquisition expense                        9,381      9,113
+  Commissioning costs                                 2,817      3,762
+  Other                                               1,427      1,583
+- - ----------------------------------------------------------------------
+     Total deferred tax liabilities                  91,913     93,741
+
+Net tax liability                                    52,865     49,076
+Less current portion (asset)                        (10,691)   (11,392)
+- - ----------------------------------------------------------------------
+Net deferred tax liability                         $ 63,556   $ 60,468
+                                                   ===================
+</TABLE> 
+
+LEGAL PROCEEDINGS AND CONTINGENT LIABILITIES
+
+The Company is subject to federal, state and local environmental laws and
+regulations concerning, among other matters, air emissions, furnace dust
+disposal and wastewater discharge. The Company believes it is in substantial
+compliance with applicable environmental laws and regulations. Notwithstanding
+such compliance, if damage to persons or property or contamination of the
+environment has been or is caused by the conduct of the Company's business or by
+hazardous substances or wastes used in, generated or disposed of by the Company,
+the Company may be held liable for such damages and be required to pay the cost
+of investigation and remediation of such contamination. The amount of such
+liability could be material. Changes in federal or state laws, regulations or
+requirements or discovery of unknown conditions could require additional
+expenditures by the Company.
+
+The Company and subsidiaries are defendants in lawsuits which arose in the
+normal course of business. In management's judgment (based on the opinion of
+counsel) the ultimate liability, if any, from such legal proceedings will not
+have a material effect on the consolidated financial position.
+
+RETIREMENT PLANS
+
+Substantially all employees of the Company are covered by a series of defined
+contribution retirement plans. The amount of pension expense charged to costs
+and expenses for the above plans was $1.5 million in 1994, $1.8 million in 1993,
+and $1.7 million in 1992. It is the Company's policy to fund the plans to the
+extent of charges to income.
+
+INCENTIVE PLANS
+
+All personnel employed as of May 31 share in the pretax income of the Company
+for the year then ended based on predetermined formulas. The duration of the
+plans is one year and is subject to annual renewal by the Company's Board of
+Directors. The expense for these plans, included  in selling, general and
+administrative, was $4.1 million, $1.8 million and $1.4 million for 1994, 1993,
+and 1992, respectively.
+
+Certain executives of Chaparral participate in a deferred compensation plan
+based on a five-year average of earnings. Amounts recorded as expense
+(reduction) under the plan were $(2.0) million, $(2.4) million and $(.6) million
+for 1994, 1993, and 1992, respectively.
+<PAGE>
+
+OPERATING LEASES
+
+Total expense for operating leases for mobile equipment, office space and other
+items (other than for mineral rights) amounted to $10.0 million in 1994, $9.6
+million in 1993 and $9.9 million in 1992. Non-cancelable operating leases with
+an initial or remaining term of more than one year totaled $20.8 million at May
+31, 1994. Annual lease payments for the five succeeding years are $5.3 million,
+$4.4 million, $3.1 million, $4.1 million and $.6 million.
+
+BUSINESS SEGMENTS
+
+Business segment information is on pages 4 and 5. Intersegment sales, which are
+not material, are accounted for at prices comparable to normal trade customer
+sales. Operating profit is total sales and revenue less operating costs and
+expenses, excluding general corporate expenses and interest expense.
+Identifiable assets by segment are those assets that are used in the Company's
+operations in each segment. Corporate assets consist primarily of cash and
+temporary investments, real estate subsidiaries and other financial assets not
+identified with a major business segment.
+
+QUARTERLY FINANCIAL INFORMATION (Unaudited)
+
+The following is a summary of quarterly financial information for the two years
+ended May 31, 1994 (in thousands except per share):
+
+<TABLE> 
+<CAPTION> 
+                                            Three months ended 
+- - ------------------------------------------------------------------------
+1994                                 Aug.     Nov.      Feb.      May
+- - ------------------------------------------------------------------------
+<S>                               <C>       <C>       <C>       <C>  
+Net sales
+  Steel                           $101,896  $117,225  $118,687  $124,467
+  Cement/concrete                   66,852    55,898    51,414    70,708
+- - ------------------------------------------------------------------------
+                                   168,748   173,123   170,101   195,175
+                                  ======================================
+
+Operating profit
+  Steel                              4,353    10,741    10,697     9,665
+  Cement/concrete                   11,568     8,309     5,588    21,209
+- - ------------------------------------------------------------------------
+                                    15,921    19,050    16,285    30,874
+                                  ======================================
+
+Net income                           1,426     5,585     2,866    15,874
+Per share
+  Net income *                         .13       .51       .26      1.33
+  Dividends                            .05       .05       .05       .05
+  Stock price      
+    High                            24 7/8    26        36        39 3/4    
+    Low                             21 7/8    23 1/8    26        30 7/8    
+</TABLE> 
+
+<TABLE> 
+<CAPTION> 
+- - ------------------------------------------------------------------------
+1993                                 Aug.     Nov.      Feb.      May
+- - ------------------------------------------------------------------------
+<S>                               <C>       <C>       <C>       <C>  
+Net sales
+  Steel                           $101,558  $106,568  $103,396  $108,688
+  Cement/concrete                   53,948    46,843    38,884    54,407
+- - ------------------------------------------------------------------------
+                                   155,506   153,411   142,280   163,095
+                                  ======================================
+Operating profit
+  Steel                               (682)    4,913     4,371     4,288
+  Cement/concrete                    9,365     7,036       730    14,551
+- - ------------------------------------------------------------------------
+                                     8,683    11,949     5,101    18,839
+                                  ======================================
+
+Net income (loss)                     (943)      264    (4,465)    6,202
+Per share
+  Net income (loss)                   (.08)      .03      (.40)      .56
+  Dividends                            .05       .05       .05       .05
+  Stock prices          
+    High                            24 1/4    21 3/4    28 3/4    28 1/2    
+    Low                             20 1/2    19 1/4    20 5/8    21 1/4    
+</TABLE>
+
+*The sum of these amounts does not equal the annual amount because of changes in
+ the average number of common equity shares outstanding during the year.
+<PAGE>
+ 
+REPORT OF INDEPENDENT AUDITORS
+
+Board of Directors
+Texas Industries, Inc.
+
+We have audited the accompanying consolidated balance sheets of Texas
+Industries, Inc. and subsidiaries as of May 31, 1994 and 1993, and the related
+consolidated statements of income, cash flows and shareholders' equity for each
+of the three years in the period ended May 31, 1994. These financial statements
+are the responsibility of the Company's management. Our responsibility is to
+express an opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Texas Industries,
+Inc. and subsidiaries at May 31, 1994 and 1993, and the consolidated results of
+their operations and their cash flows for each of the three years in the period
+ended May 31, 1994, in conformity with generally accepted accounting principles.
+
+
+                                                /s/  Ernst & Young, LLP
+                                                -------------------------------
+
+Dallas, Texas
+July 15, 1994
+ 
+FORM 10-K REQUESTS
+
+Shareholders may obtain, without charge, a copy of the Company's Form 10-K for
+the year ended May 31, 1994, as filed with the Securities and Exchange
+Commission. Written requests should be addressed to Investor Relations.
+
+The information contained herein is not given in connection with any sale or
+offer of, or solicitation of any offer to buy, any securities.
+
+TRANSFER AGENT AND REGISTRAR
+
+Chemical Bank
+  Common Stock
+  Shareholder Inquiries 1-800-635-9270
+
+STOCK EXCHANGE LISTING
+
+New York Stock Exchange (ticker symbol TXI)
+
+ANNUAL MEETING
+
+The Annual Meeting of Shareholders of Texas Industries, Inc. will be held
+Tuesday, October 18, 1994, at 9:30 a.m. CDT, at The Ballpark in Arlington, 1000
+Ballpark Way, Arlington, Texas. Proxies for this Meeting will be requested by
+Management. All Shareholders are cordially urged to attend in order to comment
+and advise on matters concerning the Company.
+<PAGE>
+ 
+TEXAS INDUSTRIES, INC. 
+
+DIRECTORS
+
+Ralph B. Rogers
+Chairman of the Board
+
+Robert D. Rogers
+President and Chief Executive Officer
+
+Robert Alpert, Chairman of the Board
+Alpert Companies
+Dallas, Texas
+
+Gordon E. Forward, President and Chief Executive Officer
+Chaparral Steel Company
+Midlothian, Texas
+
+Richard I. Galland
+Attorney at Law
+Dallas, Texas
+
+Gerald R. Heffernan, President
+G. R. Heffernan & Associates, Ltd.
+Toronto, Ontario
+
+Ian Wachtmeister, Chairman and Chief Executive Officer
+The Empire AB
+Stockholm
+
+CORPORATE OFFICERS
+
+Robert D. Rogers
+President and Chief Executive Officer
+
+Melvin G. Brekhus
+Vice President -- Cement Production
+
+Brooke E. Brewer
+Vice President -- Human Resources
+
+Roman J. Figueroa
+Vice President -- Aggregates
+
+Richard M. Fowler
+Vice President -- Finance
+
+James R. McCraw
+Vice President -- Controller
+
+Robert C. Moore
+Vice President -- General Counsel and Secretary
+
+Burl W. Ruth
+Vice President -- Concrete
+
+Tommy A. Valenta
+Vice President -- North Texas Concrete/Cement Marketing
+
+Kenneth R. Allen
+Treasurer
+
+E. Leo Faciane
+Environmental Affairs
+
+Julia P. Fuller
+Assistant Treasurer
+
+CHAPARRAL STEEL COMPANY
+
+DIRECTORS
+
+Robert D. Rogers
+Chairman of the Board
+
+Gordon E. Forward
+President and Chief Executive Officer
+
+Robert Alpert, Chairman of the Board
+Alpert Companies
+Dallas, Texas
+
+John M. Belk, Chairman of the Board
+Belk Stores Services, Inc.
+Charlotte, North Carolina
+
+Lic. Eugenio Clariond Reyes
+Director General and Chief Executive Officer
+Grupo IMSA, S.A.
+Monterrey
+
+Gerald R. Heffernan, President
+G. R. Heffernan & Associates, Ltd.
+Toronto, Ontario
+
+Dr. Gerhard Liener, Chief Financial Officer
+Daimler - Benz AG
+Stuttgart
+
+OFFICERS
+
+Gordon E. Forward
+President and Chief Executive Officer
+
+Kenneth R. Allen
+Director -- Investor Relations
+
+Dennis E. Beach
+Vice President -- Administration
+
+Larry L. Clark
+Vice President -- Controller and Assistant Treasurer
+
+David A. Fournie
+Vice President -- Operations
+
+Richard M. Fowler
+Senior Vice President -- Finance
+
+Richard T. Jaffre
+Vice President -- Raw Materials
+
+Robert C. Moore
+Vice President -- General Counsel and Secretary
+
+Libor F. Rostik
+Senior Vice President -- Engineering
+
+Jeffry A. Werner
+Senior Vice President -- Commercial
+
+Peter H. Wright
+Vice President -- Quality Control and SBQ Sales
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<DESCRIPTION>WHOLLY OWNED SUBSIDIARIES
+<TEXT>
+
+<PAGE>
+ 
+                                  EXHIBIT 21
+
+
+
+                                                          STATE OF
+WHOLLY-OWNED SUBSIDIARIES OF REGISTRANT                 INCORPORATION
+- - ---------------------------------------                 -------------
+                                                    
+                                                    
+Athens Brick Company                                        Delaware
+Brookhollow of Virginia, Inc.                               Virginia
+Brookhollow Corporation                                     Delaware
+  Brookhollow of Alexandria, Inc.                           Louisiana
+  Brookhollow of Houston, Inc.                              Texas
+  Brook Hollow Properties, Inc.                             Texas
+  Empire Central Investment Corporation                     Texas
+  Brookhollow Hotel Corporation                             Texas
+  Brookhollow of North Carolina, Inc.                       North Carolina
+  Brookhollow/Arlington, Inc.                               Texas
+  Clodine Properties Inc.                                   Texas
+Creole Corporation                                          Delaware
+Crestview Corporation                                       Tennessee
+Diamond Pro Inc.                                            Texas
+Dolphin Construction Company                                Louisiana
+Louisiana Industries, Inc.                                  Louisiana
+TXI Aggregate Transportation Company                        Texas
+TXI Aviation, Inc.                                          Texas
+TXI Cement Company, formerly TXI Structural Products, Inc.  Delaware
+TXI Transportation Company                                  Texas
+                                                      
+                                                      
+COMPANY 81% OWNED BY REGISTRANT                       
+- - -------------------------------                       
+                                                      
+Chaparral Steel Company                                     Delaware
+  TA Joist Company                                          Delaware
+  Ferrco Dallas, Inc.                                       Texas
+                                                      
+  COMPANIES 80% OWNED BY CHAPARRAL                    
+  --------------------------------                    
+                                                      
+    American Steel Transport, Inc.                          Texas
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<DESCRIPTION>ERNST & YOUNG CONSENT
+<TEXT>
+
+<PAGE>
+ 
+                                  EXHIBIT 23
+
+                        Consent of Independent Auditors
+
+
+We consent to the incorporation by reference in this Annual Report (Form 10-K)
+of Texas Industries, Inc. of our report dated July 15, 1994, included in the
+1994 Annual Report to Shareholders of Texas Industries, Inc.
+
+Our audits also included the financial statement schedules of Texas Industries,
+Inc. listed in Item 14(a).  These schedules are the responsibility of the
+Company's management.  Our responsibility is to express an opinion based on our
+audits.  In our opinion, the financial statement schedules referred to above,
+when considered in relation to the basic financial statements taken as a whole
+present fairly in all material respects the information set forth therein.
+
+We also consent to the incorporation by reference in the Registration Statement
+Number 2-95879 on Form S-8, Post-Effective Amendment Number 9 to Registration
+Statement Number 2-48986 on Form S-8, and Registration Number 33-53715 on Form
+S-8 of Texas Industries, Inc. and in the related Prospectuses of our report
+dated July 15, 1994, with respect to the consolidated financial statements and
+schedules of Texas Industries, Inc. included or incorporated by reference in
+this Annual Report (Form 10-K) for the year ended May 31, 1994.
+
+
+
+                                            /s/ Ernst & Young LLP
+                                            --------------------------
+                                                Ernst & Young LLP
+
+
+
+Dallas, Texas
+August 24, 1994
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>6
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+
+<PAGE>
+ 
+                                  EXHIBIT 24
+
+                               POWER OF ATTORNEY
+                               -----------------
+
+     Each of the undersigned hereby constitutes and appoints ROBERT D. ROGERS,
+RICHARD M. FOWLER and JAMES R. McCRAW, and each of them, with full power of
+substitution as the undersigned's attorney or attorney-in-fact, to sign for each
+of them and in each of their names, as members of the Board of Directors, an
+Annual Report on Form 10-K for the year ended May 31, 1994, and any and all
+amendments, filed by TEXAS INDUSTRIES, INC., a Delaware corporation, with the
+Securities and Exchange Commission under the provisions of the Securities Act of
+1934, as amended, with full power and authority to do and perform any and all
+acts and things necessary or appropriate to be done in the premises.
+
+DATED:      July 15, 1994
+
+
+ 
+                                      ------------------------------
+                                           ROBERT ALPERT
+                                           (Director)
+
+
+                                      /s/  GORDON E. FORWARD
+                                      ------------------------------
+                                           GORDON E. FORWARD
+                                           (Director)
+
+
+                                      /s/  RICHARD I. GALLAND
+                                      ------------------------------
+                                           RICHARD I. GALLAND
+                                           (Director)
+
+
+                                      /s/  GERALD R. HEFFERNAN
+                                      ------------------------------
+                                           GERALD R. HEFFERNAN
+                                           (Director)
+
+
+                                      /s/  RALPH B. ROGERS
+                                      ------------------------------
+                                           RALPH B. ROGERS
+                                           (Director)
+
+
+                                      /s/  IAN WACHTMEISTER
+                                      ------------------------------
+                                           IAN WACHTMEISTER
+                                           (Director)
+
+STATE OF TEXAS   (S)
+                 (S)
+COUNTY OF DALLAS (S)
+
+     On this 15th day of July, 1994, before me personally came ROBERT ALPERT,
+                                                               --------------
+GORDON E. FORWARD, RICHARD I. GALLAND, GERALD R. HEFFERNAN, RALPH B. ROGERS AND
+- - -------------------------------------------------------------------------------
+IAN WACHTMEISTER, known to me to be the same persons described in and who
+- - ----------------                                                         
+executed the foregoing Power of Attorney and each of them duly acknowledged to
+me that they each executed the same for the purposes therein stated.
+
+
+
+                                      /s/  GWYNN E. HERRICK
+                                      ------------------------------
+  [SEAL]                              Notary Public in and for the
+                                       State of Texas
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

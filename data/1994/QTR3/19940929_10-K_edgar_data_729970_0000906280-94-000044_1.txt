@@ -1,0 +1,2793 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ dbrtXfFuU0qtXLg9zZ2jwUV1e1Z+p5Rx+r1bIcDCP/Y7S1lR+KPeWM+EZ3sXqkaY
+ 8WPCFI2pTPWrGC1lheuPVA==
+
+<IMS-DOCUMENT>0000906280-94-000044.txt : 19941007
+<IMS-HEADER>0000906280-94-000044.hdr.sgml : 19941007
+ACCESSION NUMBER:		0000906280-94-000044
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19940702
+FILED AS OF DATE:		19940929
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DELCHAMPS INC
+		CENTRAL INDEX KEY:			0000729970
+		STANDARD INDUSTRIAL CLASSIFICATION:	5411
+		IRS NUMBER:				630245434
+		STATE OF INCORPORATION:			AL
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12923
+		FILM NUMBER:		94550996
+
+	BUSINESS ADDRESS:	
+		STREET 1:		305 DELCHAMPS DR
+		STREET 2:		P O BOX 1668
+		CITY:			MOBILE
+		STATE:			AL
+		ZIP:			36602
+		BUSINESS PHONE:		2054330431
+
+	MAIL ADDRESS:	
+		STREET 1:		305 DELCHAMPS DR
+		STREET 2:		PO BOX 1668
+		CITY:			MOBILE
+		STATE:			AL
+		ZIP:			36602
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+                      SECURITIES AND EXCHANGE COMMISSION
+
+                        WASHINGTON, D.C.  20549
+
+                                 FORM 10-K
+             
+             ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE 
+                      SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended July 2, 1994
+
+Commission File Number 0-12923
+
+                                 Delchamps, Inc.
+                 ______________________________________________
+                        (Exact name of registrant as
+                          specified in its charter)
+
+           Alabama                                          63-0245434
+_________________________________                   __________________________
+(State or other jurisdiction of                         (I.R.S. Employer
+incorporation of organization)                        Identification Number)
+
+305 Delchamps Drive   Mobile, AL                              36602
+__________________________________                       _________________
+(Address of principal executive                            (Zip Code)
+    offices)
+
+    (205) 433-0431
+ _________________________
+(Registrant's telephone number,
+including area code)
+
+     Securities registered pursuant to Section 12 (g) of the Act:  Common 
+Stock, $.01 par value.  
+
+     Indicate by check mark whether the registrant (1) has 
+filed all reports required to be filed by Section 13 or 15 (d)
+of the Securities Exchange Act of 1934 during the preceding 12 
+months ( or for such shorter period the  registrant was
+required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes __X__ No _____
+
+     Indicate by check mark if disclosure of delinquent filers 
+pursuant to Item 405 of Regulation S-K is not contained herein,
+and will not be contained, to the best of registrant's knowledge,
+in definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  [   ]
+
+     The aggregate market value of the voting stock held 
+by non-affilates (affiliates being directors, executive officers 
+and holders of more than 5% of the Company's common stock) of the 
+Registrant at August 25, 1994 was at $94,000,000.
+
+     The number of shares of Registrant's common stock, par 
+value one cent ($.01) per share, outstanding at August 25, 1994, was 
+7,113,581. 
+
+     Documents incorporated by reference:  Parts II and IV 
+incorporate by reference portions of the Company's 1994 Annual Report
+to shareholders.  Portions of the Company's definitive Proxy Statement
+for its 1994 annual meeting of shareholders (the "Proxy Statement")
+is incorporated by reference into Part III.
+
+     The Exhibit Index follows the schedules of this document.
+
+                                PART   I
+                                _________
+
+Item 1.     Business
+_________   __________         
+
+
+(a)     The Registrant, Delchamps, Inc.  (the "Company") is a 
+corporation which was organized under the laws of the State of
+Alabama in 1946; from the Company's founding in 1921 until it
+was incorporated, it operated as a partnership.  The Company
+operates a chain of supermarkets under the name "Delchamps" in 
+Alabama, Florida, Louisiana, and Mississippi and has operated
+continuously for over 70 years.
+
+     The number of supermarkets operated by the  Company has
+grown from 110 at June 30, 1990 to 115 at June 27, 1992, and
+120 at July 2, 1994.  In addition to regularly opening new
+stores, the Company expands and remodels existing units, and 
+closes outmoded or unprofitable stores.  During the five years
+ended July 2, 1994, the Company closed 11 outdated or un-
+profitable stores and opened 27 new stores that are all
+considerably larger than the stores that were closed.  The 
+Company also remodeled and expanded 22 stores during the same 
+5 year period.
+
+     The Company, in addition to operating supermarkets, operates
+twelve liquor stores in the State of Florida.  Eleven are 
+small units located adjacent to the Company's supermarkets, and 
+the twelfth liquor store, operating under the name of "The
+Liquor Place", is a free-standing unit of approximately 26,000
+square feet from a converted Delchamps supermarket in Pensacola,
+Florida.
+
+     The Company's wholly-owned subsidiary, Supermarket Cigarette
+Sales,  Inc., functions as the purchasing agent and
+distributor for cigarettes sold by the Company's supermarkets
+in Louisiana, Mississippi, and Florida.
+
+     The 120 supermarkets operated by the Company at July 2, 
+1994 range in size from 12,000 square feet to 57,669 square
+feet, and average 40,068 square feet.  The average square 
+footage of selling area per supermarket increased from ap-
+proximately 26,291 square feet at June 30, 1990, to approximately
+28,950 at July 2, 1994, and the total sales area in all
+stores increased from 2,892,000 to 3,474,000 square feet
+during the same period.  The Company's new stores will range
+from approximately 46,000 to 62,000 square feet in size (and
+from approximately 34,000 to 47,000 square feet of selling
+space) depending upon the size of the store's market area.
+
+     The Company plans to continue to expand the supermarket 
+chain through the addition of new supermarkets in its present
+areas of operation, in new market areas and through expansion
+of existing stores.
+     
+     The Company opened three new supermarkets during fiscal year
+1994, closed one store, and has opened or has plans to open
+four additional supermarket during fiscal year 1995.  Four
+stores were expanded during the 1994 fiscal year and the Company
+plans to remodel and expand nine existing supermarkets in fis-
+cal 1995.
+     
+     The following table sets forth certain statistical information
+with respect to the Company's operations for the periods indicated:
+
+<TABLE>
+<CAPTION>
+                                                                            DELCHAMPS, INC.
+
+                                                                      Selected Financial Information
+
+                                                                          Fiscal Year Ended
+                                      ___________________________________________________________________________________
+                                              July 2,         July 3,         June 27,       June 29,       June 30,
+                                               1994            1993            1992           1991           1990
+                                            (52 Weeks)       (53 Weeks)      (52 Weeks)     (52 Weeks)    (52 Weeks)
+                                            ___________     ____________     ____________   ___________   ___________
+<S>                                         <C>             <C>              <C>            <C>           <C>  
+Sales (in thousands)                      $  1,067,191     $  1,034,531     $   949,849    $   959,169   $   948,257
+Number of supermarkets:
+     Opened in period                                 3                4               6              5             9
+     Closed in period                                 1                1               3              3             3
+     Total  <FN1>                                   120              118             115            112           110
+Average sales per supermarket
+     (in thousands)<FN2>                   $      8,968     $      8,880     $     8,369    $     8,641   $     8,862
+Total square feet of selling
+     space (in thousands):
+     Opened in period                               155              167             241            178           323
+     Closed in period                                22               19              65             53            64
+     Total<FN1>                                   3,474            3,341           3,193          3,017         2,892
+Total square feet of selling
+     space per supermarket<FN1>                  28,950           28,314          27,765         26,938        26,291
+Average sales per square foot
+     of selling space <FN3>                $        313     $        317     $       306    $       325   $       343
+__________________________
+
+<FN1> At the end of period.
+<FN2> Sales for the period divided by the average number of supermarkets for the period.
+<FN3> Sales for the period divided by the average square feet of selling space for the period.
+
+</TABLE>
+
+
+     The Company believes that a vital factor in a successful
+supermarket expansion program is the careful selection of store
+locations.  The Company analyzes prospective locations on a continuous
+basis, both internally and with assistance of outside
+consultants, and locates stores primarily in suburban shopping
+centers in areas with stable or growing middle and upper-middle
+class populations.  The Company enlarges, modernizes, relocates
+or closes stores in light of their past performance and the 
+Company's assessment of their future potential.
+
+(b)     Financial information on industry segments and lines of 
+business is omitted because, apart from its principal business
+of operating retail self-service food stores and liquor stores, 
+the Company had no other lines of business or  industry segments.
+
+(c)     (i)     Merchandising is the responsibility of the Senior Vice
+President of Merchandising who supervises the directors of 
+the five merchandising departments:   Grocery; Meat; Produce;
+Deli/bakery; and General Merchandise and Health and Beauty
+Care.  The department directors, in turn, supervise the twelve
+category managers responsible for purchasing and merchandising 
+various lines of products.
+     
+     The Company's principal merchandising strategies are to 
+maintain an overall value image and to achieve high sales
+volume by offering quality products and services at 
+competitive prices.  Since the Company's stores carry many of the 
+same products, centralized purchasing and distribution facilities
+are essential.  All purchases are made by specialized
+category managers under central buying procedures, rather than
+on a store-by-store basis, which allows the Company to maintain
+quality control of its products and to take advantage of 
+volume discounts.  Inventories are adjusted on a frequent
+basis to take into account seasonal changes in consumer demand.
+     
+     Delchamps supermarkets operate on a self-service basis, and 
+the vast majority are open from 6:00 a.m. until 11:00 p.m. seven
+days per week, except Christmas, Easter and Thanksgiving.  The
+Company's beachfront stores are open 24 hours per day four
+months out of the year.  The supermarkets are clean, spacious,
+air conditioned, well-lighted, colorfully decorated, well-stocked
+equipped with modern features and adjacent to offstreet
+parking facilities.  Except in selected locations, customers
+carry their own purchases from the check-out counters to their
+automobiles unless they ask for special assistance.
+     
+     Delchamps supermarkets carry fresh meat and produce,
+frozen and other convenience foods, dairy products, specialty
+and other gourmet products, and general grocery products, as well as
+selected lines of non-grocery merchandise.  All stores opened
+during the last several years have contained salad bars,
+bakeries, delicatessens and service meat departments and offer
+prepared ready-to-eat foods.  In addition, delicatessens, salad
+bars, bakeries and service meat departments have been added
+to most of the Company's other larger stores.  Seafood 
+departments, video departments, banking facilities and dining
+areas have been added to several stores and nearly all new
+stores will offer these departments.  The Company operates one
+pharmacy and intends to add pharmacies to selected locations.
+     
+     The Company's supermarkets offer a selection of national 
+and regional brand-name products, generic products and products
+bearing brand names of Topco Associates, Inc. ("Topco"), a
+cooperative purchasing organization of which the Company is a 
+shareholding member.
+     
+     The Company's affiliation with Topco, the largest cooperative
+grocery products purchasing organization in the United
+States, enables it to procure quality merchandise on a competitive
+basis with larger, national food retailers.  Topco's membership
+of 32 retail grocery chains and wholesalers located
+throughout the United States enables it to employ large volume
+buying techniques on behalf of its members.  Topco products are
+sold under its own brand names, such as "Food Club", "Topco",
+"Top Fresh" and "Top Frost", or under generic labels.  The
+Company's purchases from or through Topco were approximately
+20% of total inventory purchases in fiscal year 1994, 23%
+in 1993, and 26% in 1992.  The Company's president serves as a 
+director of Topco.
+     
+     Advertising and promotion are important factors in the 
+Company's merchandising strategy.  In fiscal year 1994, the 
+Company's advertising expenditures, including television, radio,
+newspaper, magazine and circular advertising, were .90% of
+sales.  The  Company's advertising program features a quality
+image, emphasizing value with competitive prices and "bonus
+buys" (merchandise purchased at reduced prices from vendors and 
+featured for resale with favorable retail prices).  The Company
+does not issue trading stamps at any of its stores and does not 
+expect to do so in the future.
+     
+     Store operations are the responsibility of the Senior Vice
+President, of Retail Operations, who supervises the Company's 
+Vice President, Retail Operations, who in turn supervises the
+Company's six area supervisors.  Each area supervisor is 
+responsible for approximately 15 to 25 supermarkets in his area.
+Area supervisors regularly visit the supermarkets under their
+jurisdiction, thereby providing continuous, direct supervision
+of day-to-day store operations, including such matters as
+quality of merchandise, adequacy of staffing levels and 
+adherence to Company policies.  Each supermarket is individually
+supervised by a store manager, assistant store managers, a meat 
+market manager and other department managers.  The Company's 
+management monitors the results of operations of each
+supermarket through the close and direct supervision of the 
+area supervisors.
+     
+     The Company stresses the importance of customer satisfaction 
+with its associates and insists that associates provide
+courteous and efficient service.  Customer satisfaction is also
+achieved through rapid response to changing consumer tastes
+and well-stocked stores.  Additionally, it is the Company's
+polity to have a management or supervisory associate respond
+personally to customer complaints.
+     
+     Technology also enables the Company to more efficiently
+serve its customers.  The use of such technological advances
+as computerized scanning check-out equipment, direct store
+delivery systems and time and attendance systems are designed
+to enhance customer satisfaction and employee productivity.
+     
+     The Company was among the first grocery chains  
+operating in the Southeast to install computerized scanning check-out
+equipment in its stores and now has such equipment in all of
+its stores.  A computerized order entry system is used at each
+of the Company's supermarkets to record merchandise orders and 
+transmit them electronically to the Company's central distribution
+facilities.  Restocking is achieved through frequent deliveries
+from the Company's central distribution centers and from
+local suppliers, thus minimizing the space required at each 
+store for warehousing inventory.
+     
+     A computerized direct store delivery system has been implemented 
+in all of the Company's stores.  This system improves
+accounting for and control of the merchandise delivered directly
+to the Company's supermarkets by suppliers, which represented
+30% of total merchandise inventory purchases in fiscal year 1994.
+In addition, an electronic time, attendance and work scheduling system, 
+utilizing the same hardware as the direct store delivery system, has been 
+installed in the Company's supermarkets.  This latter system assists the 
+Company in controlling labor costs through more efficient use of manpower.
+     
+     Advances in technology are important to the Company's 
+ability to improve productivity and keep costs in line and 
+emphasis will continue to be placed on innovations in this area.
+     
+     The Company's supermarket products are purchased from over
+1,000 suppliers, of which Topco is by far the most important,
+supplying approximately 20% of the Company's total inventory
+purchases during fiscal year 1994.  No other supplier accounted
+for more than 5% of the Company's purchases during the fiscal
+year.  During fiscal year 1994, approximately 70% of inventories
+(valued at cost) were supplied to the Company's stores
+through its central distribution facilities in Mobile and Hammond.
+The remaining items were furnished directly to the stores
+by local distributors.  Major product lines supplied in this
+manner included beverages, bread and snack foods.
+     
+     The Company's central distribution facilities are serviced
+by rail and truck and are operated 24 hours per day, 7 days per
+week.  All supermarkets receive deliveries 7 days per week from
+the Mobile and Hammond facilities through a transportation
+fleet leased by the Company.  The Company believes that its
+distribution system has an effective range of approximately
+350 miles in all directions.
+
+(ii)     The Company has not publicly announced or otherwise made
+public information about any new product or industry segment
+that would require the investment of a material amount of the 
+assets of the Company or which otherwise is material.
+
+(iii)     Sources and availability of raw materials are factors
+that do not directly affect the Company's business.
+
+(iv)     Patents and trademarks owned by the Company are not of 
+material importance to its operations.
+
+(v)     Seasonality does impact the Company, as sales tend to increase
+in the summer season because certain of its stores are 
+located near Gulf Coast beaches.
+
+(vi)     The Company has no unusual working capital requirements.
+
+(vii)     The business of the Company is not dependent upon a single
+or a few customers.  The Company does not sell goods or 
+services in an amount that equals 10 percent or more of the 
+Company's consolidated revenue to any single customer or group
+of customers under common control or to any affiliated group of 
+customers.
+
+(viii)   Backlog ordering is not a factor in the business of the Company.
+
+(ix)    No portion of the business of the Company is subject to 
+renegotiation of profits or termination of contracts or subcontracts 
+at the election of any government.
+
+(x)     The supermarket business is intensely competitive.  The
+number of competitors and the amount of competition experienced
+by the Company's supermarkets vary by location.  Principal competitive
+factors include store location, price, service, convenience,
+cleanliness and product quality and variety.  Because the 
+supermarket business is characterized by narrow profit margins,
+the Company's earnings depend primarily on the efficiency of its
+operations and its ability to maintain a large sales volume.
+     
+     The Company's principal competitors are the supermarket
+chains operated by Winn-Dixie Stores, Inc., The Great Atlantic 
+and Pacific Tea Company, Bruno's, Inc., The Kroger Co. and  
+Albertson's, Inc., and other large regional and national food 
+store chains.  Both Winn-Dixie and A&P compete with the Company 
+throughout Alabama, Florida, Louisiana, and Mississippi.
+Bruno's Supermarkets compete with the Company's Alabama,
+Florida and Mississippi Gulf Coast supermarkets.  Albertson's
+competes with the Company in the Florida panhandle
+and certain locations in Louisiana.  Kroger has stores on the 
+Mississippi Gulf Coast and Central and Southwestern Louisiana.
+Delchamps supermarkets also compete with local supermarkets, 
+specialty and convenience food stores and local chains that 
+have significant market shares in limited aeas, such as the 
+Schwegmann Brothers' Giant Supermarket chain in Southeastern
+Louisiana.  Certain of the Company's major competitors have 
+financial resources that are substantially greater than those of 
+the Company.
+
+(xi)    The Company did not spend a material amount on Company
+sponsored research and development activities or on customer
+sponsored research activities relating to the development of 
+new products, services or techniques, or the improvement of 
+existing products, services or techniques during fiscal years
+1994, 1993, and 1992.
+
+(xii)  The Company's compliance with federal, state, and local 
+provisions that have been enacted or adopted regulating the discharge of 
+materials into the environment, or otherwise relating to the protection 
+of the environment has not had, and is not expected to have, a material 
+effect upon its capital expenditures, earnings or competitive position.
+
+(xiii)  At the end of fiscal year 1994, the Company had approximately
+4,065 full-time and 4,095 part-time employees, none of 
+whom is covered by a collective bargaining agreement.
+
+(d)     The Company does not engage in any operations in foreign
+countries, nor is any portion of its sales or revenue derived
+from customers in any foreign country.  All sales by the Company
+occur at locations in Alabama, Florida, Louisiana and Mississippi.
+
+
+Item 2.          Properties
+_________       ______________
+
+     The Company leases all of its supermarkets under standard
+commercial leases, no one of which is material to the Company.
+Most of these leases are for a period of 20 years,
+and contain several renewal options.  The leases provide for
+fixed rentals ranging from $2.00 to $14.15 per square foot, with 
+an average rental of $7.45 per square foot.  Many of its leases,
+including most of the leases negotiated in the last five years,
+provide for the payment by the Company of taxes, insurance and
+certain maintenance expenses, as well as additional rental based
+on sales volume.  One of the Company's store leases is
+scheduled to expire by the end of the 1995 fiscal year, and no
+more than five leases will expire in any one year thereafter
+until the year 2005.
+     
+     When a store is closed, the Company attempts to sublease 
+or assign its lease.  The Company is presently paying $70,519
+in aggregate monthly rentals on eight leases of closed stores
+that have not yet been sublet or assigned.
+     
+     The Company owns the furnishings and fixtures in all
+supermarkets.  It is anticipated that the Company will own the  
+furnishings and fixtures in its stores presently under construction.
+     
+     The Company owns two warehouses in Mobile containing an
+aggregate of 232,000 square feet of storage space formerly used
+for dry groceries, dairy products, meats and perishables.  Both
+buildings are currently being offered for sale or lease; however,
+the Mobile facilities are also being used to warehouse
+merchandise inventories bought "on deal" under the Company's 
+forward buying program.
+     
+     The Company's central distribution center is on a 272-acre 
+site in Hammond, Louisiana.  The distribution facility comprises
+approximately 662,000 square feet and has fully automated dry
+grocery and frozen food warehouses.  The center also contains a 
+perishables warehouse, an ice manufacturing plant, a remote
+storage facility to house flammable items, and a transportation
+facility.
+     
+     The Company owns the 65,000 square foot building in which 
+its corporate headquarters is situated at 305 Delchamps Drive,
+Mobile, Alabama, as well as a 2.7 acre parcel adjacent to the 
+headquarters which may be used for future office expansion and 
+parking.  The  Company also owns an undeveloped 6.8 acre parcel
+of real estate and a 3 acre parcel upon which a Company 
+supermarket is located; both were acquired from Western Supermarkets
+in 1987 and are located near Birmingham, Alabama.  In
+addition, the Company owns a one-half interest in a partnership 
+which has developed a 22 acre site near Mobile; the site currently has a 
+Company supermarket, K-Mart, and other shops.  Further, the Company
+owns a one-half interest in land located in Panama City, Florida.  
+The Company intends to use this land for development of a supermarket 
+and other shops.
+
+Item 3.          Legal Proceedings
+___________      __________________     
+     
+     The Company is the defendant in a number of legal proceedings
+involving claims for money damages arising in the ordinary
+course of business which are either covered by insurance or are
+within the Company's self-insurance program, and in a number of 
+other proceedings otherwise not deemed material.  In the opinion
+of management, none of such litigation has resulted or will
+result in any materially adverse effect on the financial position 
+or operations of the Company.
+
+Item 4.        Submission of Matters to a Vote of Security Holders
+__________     ____________________________________________________
+
+     The Company did not submit any matters to a vote of security
+holders during the fourth quarter of its fiscal year ended
+July 2, 1994.
+
+Item 4(a).     Executive Officers of the Registrant
+___________    _____________________________________ 
+
+     All Executive Officers are appointed by the Board of 
+Directors and, except in certain circumstances following a 
+change in control, may be removed at any time, with or without
+cause by the Board.                                                           
+
+NAME                   POSITIONS HELD WITH COMPANY                      AGE
+_____                  ____________________________                    ______
+
+Randy Delchamps        Chairman of the Board, President 
+                        and Chief Executive Officer                      51
+                                              
+Patrick J. Curran      Senior Vice President, 
+                        Merchandising                                    42
+                                                                      
+Timothy E. Kullman     Senior Vice President, Chief
+                        Financial Officer                                39
+
+Hugh Van Hooser        Senior Vice President, Retail
+                        Operations                                       61
+
+George J. Waldron, III Senior Vice President, Marketing
+                        and Corporate Relations                          52
+
+V. Lawrence Abreo      Vice President, Management
+                        Information Services                             41
+
+Heidi E. Finchem       Vice President, Benefits and
+                        Corporate Secretary                              36
+
+J.D. Foshee, Jr.       Vice President, Real Estate                       37
+
+Larry S. Griffin       Vice President, Planning and
+                        Development                                      52
+
+Roy W. Henderson       Vice President, Finance and
+                        Treasurer                                        46
+
+William D. Kruse       Vice President, Retail Operations                 50
+
+Donald A. Mathews      Vice President, Distribution                      55
+
+James H. McDonald, Jr. Vice President and General Counsel                41
+
+Thomas R. Trebesh      Vice President, Personnel                         45
+
+Robert E. Whitlock     Vice President, Engineering                       56
+
+
+
+     Randy Delchamps has been with the Company since 1966 and 
+and presently serves as Chairman of the Board, President and Chief 
+Executive Officer.  He was named to those positions in October,
+1989.  He had served as President and Chief Operations Officer
+since June, 1989.  He served as Executive Vice President from
+June, 1988 to June, 1989.  He also served the Company as Vice
+President, Real Estate, from 1972 until June, 1987.  From June,
+1987, until he was named Executive Vice President, Mr. Delchamps
+was Vice President, Administration.
+     
+     Patrick J. Curran began employment with the Company in
+April, 1994 and serves as Senior Vice President, Merchandising.
+Prior to Delchamps. Mr. Curran was employed by Acme Supermarkets
+in Philadelphia, Pennsylvania, Bi-Lo Supermarkets in the
+Carolina and Georgia markets, and Jewel Food Stores in Chicago,
+Illinois.
+     
+     Timothy E. Kullman began employment in August, 1994 and 
+serves as Senior Vice President, Chief Financial Officer.  Mr.
+Kullman was previously with Farm Fresh, Inc., Norfolk, Virginia
+as Senior Vice President and Chief Financial Officer.  He was
+also associated with Blue Cross/Blue Shield of Michigan as well 
+as Deloitte, Haskins and Sells of Detroit, Michigan.
+     
+     Hugh Van Hooser, has been employed with the Company
+since 1953.  He was named Senior Vice President, Retail Operations 
+in January, 1992.  He was named Vice President,
+Marketing , in January, 1990 and served as Director of Marketing
+from July, 1989 until then.  Prior to that time, he was
+Director, Meat Merchandising.
+     
+     George J. Waldron, III has been employed by the Company
+since 1965.  In July, 1994, Mr. Waldron was named Senior Vice 
+President, Marketing and Corporate Relations.  He has served as
+Vice President, Marketing and Corporate Relations, and was appointed
+to that position in June, 1993.  Prior to that time, Mr. 
+Waldron served as Director, Advertising. 
+     
+     V. Lawrence Abreo has been employed by the Company since
+1971.  He serves as Vice President, Management Information Services, 
+and was appointed to that position in January, 1992.  Prior to that time, 
+Mr. Abreo was Director of Management Information Services.
+      
+      Heidi E. Finchem has been employed by the Company since
+1982.  She serves as Vice President, Benefits and Corporate Secretary,
+and was appointed to that position in June, 1993.  Prior to that time, 
+Mrs. Finchem served as Corporate Secretary and Employee Benefits Manager.
+     
+     J.D. Foshee, Jr. has been employed by the Company since
+1982.  He serves as Vice President, Real Estate, and was appointed
+to that position in June, 1993.  Prior to that time, Mr. Foshee
+served as Director, Real Estate.
+     
+     Larry S. Griffin has been employed by the Company since
+1964.  In April, 1994, Mr. Griffin was named Vice President,
+Planning and Development.  He was named Senior Vice President,
+Merchandising in January, 1992, and Vice President, Merchandising,
+in July, 1988.  In March, 1987, he was appointed Director,
+Merchandising and, prior to that time, served as Director of 
+Grocery Merchandising.
+     
+     Roy W. Henderson has been employed by the Company since
+1969.  He serves as Vice President, Finance and Treasurer, and 
+was appointed to that position in January, 1992.  Prior to that
+time, Mr. Henderson served as Director of Accounting.  
+
+     William D. Kruse has been employed by the Company since
+1960.  He serves as Vice President, Retail Operations, and was
+appointed to that position in June, 1993.  Prior to that time,
+Mr. Kruse served as Director, Retail Operations.
+     
+     Donald A. Mathews has been employed by the Company since
+1974.  He serves as Vice President, Distribution, and was
+appointed to that position in April, 1985.  Prior to that time
+Mr. Mathews was Director of Warehouse and Transportation.
+     
+     James H. McDonald, Jr., has been employed with the Company 
+since 1984.  He was named Vice President and General Counsel in 
+June, 1987.  In June, 1986, he was appointed Director, Legal
+Services.  From 1984 to 1986,   Mr. McDonald served the Company as
+Corporate Counsel.  Prior to his employment with Delchamps, Inc.,
+Mr. McDonald was a partner in a Mobile law firm.
+     
+     Thomas R. Trebesh has been employed by the Company since
+1978.  He serves as Vice President, Personnel, and was appointed 
+to that position in June, 1993.  Prior to that time Mr. Trebesh
+served as Director, Personnel.
+     
+     Robert E. Whitlock has been employed by the Company since
+1984.  He serves as Vice President, Engineering, and was appointed 
+to that position in June, 1993.  Prior to that time, Mr. Whitlock
+served as Director, Construction and Maintenance.
+
+                                 PART II
+                              ______________
+
+Item 5.      Market for the Registrant's Common Stock and Related Matters
+________     _____________________________________________________________
+
+     "Management's  Report on Dividends and Stock Prices" on
+page 6 of the Company's Annual Report to Shareholders for 
+1994 is incorporated herein by reference.
+     
+     As of July 28, 1994, there were 1,191 record holders 
+of the Company's common stock.
+     
+     The following table sets forth the cash dividends declared
+on the Company's common stock for the two most recent fiscal
+years.  Future dividends will depend on the Company's earnings,
+financial requirements and other relevant factors.
+                                                                
+                                                                 
+                                 1994                  1993
+                                ______                _______
+
+     First Quarter             $  .11                 $  .11
+     Second Quarter               .11                    .11
+     Third Quarter                .11                    .11
+     Fourth Quarter               .11                    .11
+                               _______                ________
+     TOTAL                     $  .44                 $  .44
+                               =======                ========
+
+     Restrictions on the Company's paying of dividends are set
+forth in Note 5 of the Company's financial statements on page 11
+of the Company's 1994 Annual Report to Shareholders and is incorporated
+herein by reference.
+
+Item 6.      Selected Financial Data
+________     ________________________
+
+     The selected financial data of the Company are set forth
+under the caption "Five Year Financial Highlights" included in
+the Company's 1994 Annual Report to Shareholders and are
+incorporated herein by reference.  Such financial data should be
+read in conjunction with the financial statements and accompanying
+notes included under Item 8, below.
+
+Item 7.       Management's Discussion and Analysis of Results of 
+                 Operations and Financial Condition
+________      ____________________________________________________
+
+    "Management's Discussion and Analysis of Results of
+Operations and Financial Condition" on pages 14, 15, and 16 of 
+the Company's 1994 Annual Report to Shareholders is incorporated 
+herein by reference.
+
+Item 8.       Financial Statements and Supplementary Data
+________      ____________________________________________________
+
+     The Company's financial statements, including the notes
+thereto, and the report of KPMG Peat Marwick LLP are contained
+on pages 6 through 13 of the Company's 1994 Annual Report to 
+Shareholders and are incorporated herein by reference.
+
+Item 9.       Changes In and Disagreements with Accountants on 
+                Accounting and Financial Disclosure
+________      _____________________________________________________ 
+
+     There have been no changes in our disagreement on 
+accounting principles or practices or financial statement disclosure
+between the Company and its independent certified public accountants 
+within the twenty-four months prior to July 2, 1994.
+
+                                 
+                                 PART III
+                              ______________
+
+Item 10.       Directors and Executive Officers of the Registrant
+_________      _____________________________________________________
+
+     Information about nominees for election as Director and
+the Directors of the Company appears in the Company's Proxy Statement 
+under the caption "Election of Directors"  and is incorporated
+herein by reference.  Certain information concerning the 
+Company's Executive Officers is included in Item 4 (a) of Part I
+of this report.
+
+Item 11.       Executive Compensation
+__________     ___________________________
+
+     Information concerning executive compensation is contained
+in the Company's Proxy Statement under the caption "Executive
+Compensation", and is incorporated herein by reference.
+
+Item 12.       Security Ownership of Certain Beneficial Owners and Management
+__________     ______________________________________________________________
+
+     Information concerning certain beneficial owners of the 
+Company's stock appears in the Company's Proxy Statement under 
+the subcaption "Security Holdings of Certain Beneficial Owners"; 
+information as to security ownership of management is contained in
+the Company's Proxy Statement under the subcaption "Security Holdings of 
+Directors and Executive Officers."  All such information is incorporated
+herein by reference.
+
+Item 13.        Certain Relationships and Related Transactions
+__________      ________________________________________________
+
+     Information concerning certain relationships and related
+transactions appears in the Company's Proxy Statement under the caption 
+"Compensation Committee Interlocks and Insider Participation."
+
+                                PART IV
+
+Item 14.      Exhibits, Financial Statements Schedules, and Reports 
+                on Form 8-K
+__________    ________________________________________________________
+
+(a) Documents filed as part of this report:
+
+(1)  Financial Statements
+
+     The financial statements of Delchamps, Inc. listed below
+are incorporated by reference from portions of the Company's 1994 
+Annual Report to Shareholders.                                            
+                                                               
+                                                               Page In 
+                                                                Annual
+                                                                Report
+                                                               _________
+
+     Report of KPMG Peat Marwick LLP                               6
+
+     Consolidated Balance Sheets as of July 2, 1994 
+       and July 3, 1993                                            7
+
+     Consolidated Statements of Earnings for the fiscal            
+       years ended July 2, 1994, July 3, 1993 and 
+       June 27, 1992                                               8
+
+     Consolidated Statements of Stockholders' Equity              
+       for the fiscal years ended July 2, 1994, 
+       July 3, 1993 and June 27, 1992                              8
+
+     Consolidated Statements of Cash Flows for the fiscal         
+       years ended July 2, 1994, July 3, 1993 and 
+       July 27, 1994                                               9
+
+     Notes to Consolidated Financial Statements                   10
+                                                                 
+
+(2)  Financial Statement Schedules.                             
+
+     
+     
+     Schedule I         Marketable Securities -
+                         Other Investments                       
+
+     Schedule V         Property and Equipment                    
+                                                                  
+
+     Schedule VI        Accumulated Depreciation and 
+                          Amortization of Property 
+                          and Equipment                            
+
+
+     Schedule X         Supplementary Statement of 
+                           Earnings Information                    
+
+     All other schedules are omitted as the required information
+is inapplicable or the information is presented in the financial 
+statements or the related notes.
+
+(3)  Exhibits.
+
+     The exhibits listed below and marked with an asterisk are
+filed herewith and are listed in the attached Exhibit Index; the 
+other exhibits are incorporated herein by reference from the
+document indicated:
+
+
+Exhibit No.
+______________
+
+3(a)      Articles of Amendment to the Articles of Incorporation
+          and Restated Articles of Incorporation of the Company,
+          each dated October 5, 1984.  (Exhibit 3 (a) to Form 10-K
+          for fiscal year ended June 29, 1985).
+
+3(b)     The Company's By-Laws, as amended on July 28, 1989 
+         (Exhibit 3 (b) to Form 10-K for fiscal year ended July 1, 1989).
+
+4(a)     Specimen of Common Stock Certificate (Exhibit 4(a) to
+         Form 10-K for fiscal year ended June 30, 1990).
+
+10(a)    Membership and Licensing Agreement dated August 1, 1973
+         between Topco Associates, Inc.  and Delchamps, Inc. and 
+         attached copy of Articles of Incorporation and By-Laws of 
+         Topco Associates, Inc.  (Exhibit 10(a) to Registration
+         Statement on Form S-1, No. 2-86926).
+
+10(b)    1987 Restricted Stock Plan, as amended (Exhibit 10 (i) to 
+         Form 10-K for fiscal year ended July 2, 1988).
+
+10(c)    Indemnity Agreement dated November 24, 1987 between 
+         Delchamps, Inc.  and First Alabama Bank (Exhibit 10 (o) to 
+         Form 10-K for fiscal year ended July 2, 1988).
+
+10(d)    Guaranty Agreement dated November 24, 1987 between
+         Delchamps, Inc. and First Alabama (Exhibit 10(p) to 
+         Form 10-K for fiscal year ended July 2, 1988).
+
+10(e)    The Company's Share Purchase Rights Plan (Exhibit 1 to
+         Report on Form 8-K filed with the Securities and Exchange
+         Commission October 20, 1988).
+
+10(f)    Form of Change of Control Severance Agreement between the 
+         Company and certain of its officers and employees dated
+         September 11, 1989 (Exhibit 10 (n) to Form 10-K for fiscal
+         year ended July 1, 1989).
+
+10(g)    Loan agreement dated June 30, 1993 between Delchamps,
+         Inc., and the Great West Life Annuity, Mutual of Omaha Insurance
+         Company, and United of Omaha Insurance Company (Exhibit 10(g) to
+         Form 10-K for fiscal year ended July 3, 1993).  
+
+13       Portions of the Company's 1994 Annual Report to Shareholders.* 
+   
+21       Subsidiary of the Registrant.*
+
+27       Financial Data Schedule*
+
+        ____________________________
+
+
+(b)      Reports on Form 8-K - There  were no reports filed on Form
+         8-K during the quarter ended July 2, 1994.
+
+
+<PAGE>
+SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the 
+Securities Exchange Act of 1934, the Registrant has duly caused this report 
+to be signed on its behalf by the undersigned, thereunto duly authorized.
+                             
+                                         DELCHAMPS, INC.
+
+                                        /s/  Randy Delchamps
+                             By: _______________________________________
+                                   Randy Delchamps, Chairman of the 
+                                    Board, President and Chief
+                                    Executive Officer
+
+Dated September 15, 1994
+
+
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934, 
+this report has been signed below by the following persons on behalf of the 
+Registrant and in the capacities and on the dates indicated.
+                             
+    Signature                       Title                      Date
+
+/s/  J. Thomas Arendall,  Jr.      Director               Sept. 15, 1994
+_______________________________
+J. Thomas Arendall,  Jr. 
+
+
+/s/  Carl F. Bailey                Director               Sept. 15, 1994
+_____________________
+Carl F. Bailey
+
+
+/s/  E. Eugene Bishop              Director               Sept. 15, 1994
+_____________________
+E. Eugene Bishop
+
+
+/s/  John A. Caddell               Director               Sept. 15, 1994
+_____________________
+John A. Caddell
+
+
+/s/  James M. Cain                 Director               Sept. 15, 1994
+_____________________
+James M. Cain
+
+
+/s/  William W. Crawford           Director               Sept. 15, 1994
+_____________________
+William W. Crawford
+
+
+/s/  Randy Delchamps         Chairman of the Board,       Sept. 15, 1994
+_____________________        President and Chief
+Randy Delchamps              Executive  Officer
+
+
+/s/  T. W. Mitchell                Director               Sept. 15, 1994
+_____________________
+T. W. Mitchell
+
+
+/s/  Timothy E. Kullman      Senior Vice President,        Sept. 15, 1994
+_____________________        Chief Financial Officer
+/s/  Timothy E. Kullman
+
+<PAGE>
+
+KPMG Peat Marwick LLP
+303 Peachtree Street, N.E.    Telephone 404 222 3000   Telefax 404 222 3050
+Suite 2000
+Atlanta, GA  30308    
+
+                             
+                             Independent Auditors' Report
+
+
+The Stockholders and Board of Directors
+Delchamps, Inc.
+
+Under date of August 5, 1994, we reported on the consolidated balance sheets 
+of Delchamps, Inc. and subsidiary as of July 2, 1994 and July 3, 1993, and 
+the related consolidated statements of earnings, stockholders' equity, and 
+cash flows for each of the years in the three-year period ended July 2, 1994, 
+as contained in the 1994 annual report to stockholders.  These financial 
+statements and our report thereon are incorporated by reference in the annual 
+report on Form 10-K for the year 1994.  In connection with our audits of the 
+aforementioned consolidated financial statements, we have also audited the 
+related supplementary financial statement schedules as listed in the 
+accompanying index.  These supplementary financial statement schedules are 
+the responsibility of the Company's management.  Our responsibility is to 
+express an opinion on these supplementary financial statement schedules based 
+on our audits.
+
+In our opinion, such supplementary financial statement schedules, when 
+considered in relation to the basic consolidated financial statements taken 
+as a whole, present fairly, in all material respects, the information set 
+forth therein.
+
+
+August 5, 1994                              /s/  KPMP Peat Marwick LLP
+
+
+<PAGE>
+<TABLE>                                                                   
+<CAPTION>
+
+                                                                                          Schedule I
+
+                                    DELCHAMPS, INC. 
+
+                      Marketable Securities - Other Investments
+                                    July 2, 1994
+                                          
+
+                                                                                           Amount at which
+                                                                                           each portfolio of
+                                                                                           equity security
+                          Numbers of shares           Cost          Market Value           issues and each
+Names of Issuer           or units-principal           of           of each issue          other security
+and title of              amount of bonds             each          at balance             issue carried in
+each issue                and notes                  issue          sheet date             the balance sheet
+___________________     ______________________     ____________   ________________      ______________________
+
+<S>                         <C>                      <C>             <C>                    <C>
+Merrill Lynch Pierce
+ Fenner & Smith
+ Corporate Income Fund      933,406                  933,406         933,406                $    933,406
+                                          
+Cash Management
+ Tax Exempt Refund          170,984                  170,984         170,984                     170,984
+                                          
+                                                                                           _________________
+                                                                                            $  1,104,390
+                                                                                          
+</TABLE>
+<PAGE>                                          
+                                          
+                                          
+                                                                     Schedule V
+
+<TABLE>                                          
+<CAPTION>
+                                          DELCHAMPS, INC.
+                                      Property and Equipment                                               
+                                                                                                          
+                                      Balance at                                                Balance
+                                      beginning     Addition                                    at end
+Classification                        of period     at cost    Retirements     Transfers       of period
+________________                     ____________  __________  ___________  _______________  _____________
+
+Year ended June 27, 1992:                                                                              
+__________________________
+<S>                            <C>                  <C>          <C>            <C>             <C>
+Land.........................  $     5,463,953      741,327          4,500            -            6,200,780 
+
+Buildings....................       32,282,562        -                -              -           32,282,562 
+
+Leasehold improvements.......       10,195,822        -             32,982       2,348,000        12,510,840
+
+Fixtures and equipment.......      142,709,121        -          2,650,035      25,880,595       165,939,681
+
+Transportation equipment.....        1,959,187        -            418,070            -            1,541,117
+
+Construction in progress.....        4,343,419     31,146,241         -       (28,228,595)         7,261,065 
+                               ________________  _____________ _____________  _______________  ______________
+                                                                                                  
+                               $   196,954,064     31,887,568    3,105,587            -          225,736,045
+                               ================  ============= =============  ===============  ==============
+
+Year ended July 3, 1993:                    
+______________________________
+
+Land.........................  $     6,200,780        294,076          -             -              6,494,856
+
+Buildings....................       32,282,562        937,520          -             -              3,220,082 
+
+Leasehold improvements.......       12,510,840          -               195        3,761,495       16,272,140
+
+Fixtures and equipment.......      165,939,681          -         1,957,744       19,764,619      183,746,556 
+
+Transportation equipment.....        1,541,117          -            77,270            -            1,463,847 
+
+Construction in progress.....        7,261,065     19,603,926          -         (23,526,114)       3,338,877
+                               _________________  _____________  _____________  ______________ _________________
+                               $   225,736,045     20,835,522     2,035,209            -          244,536,358 
+                               =================  =============  ============== ============== =================
+
+Year ended July 2, 1994:                                                                             
+______________________________
+
+Land.........................  $     6,494,856         15,099       19,744           -              6,312,211
+
+Buildings....................       33,220,082              -           -            -             33,220,082
+
+Leasehold improvements.......       16,272,140              -           -         2,249,494        18,521,634
+
+Fixtures and equipment.......      183,746,556              -       123,376      13,408,630       197,031,810
+
+Transportation equipment.....        1,463,847              -       148,000         397,935         1,713,782   
+
+Construction in progress.....        3,338,877      17,689,655          -       (16,056,059)        4,972,473     
+                               _________________  ______________  ____________ ______________  ________________
+                               $   244,536,358      17,704,754      469,120          -            261,771,992   
+                               =================  ==============  ============ ==============  ================        
+</TABLE>
+
+Depreciation is computed on the straight-line method for assets acquired
+after July 1, 1984; for assets acquired before July 1, 1984, depreciation is  
+computed primarily on the double-declining balance method, except for 
+buildings acquired after 1969 on which depreciation is computed on the 
+150% declining balance method.  The Company uses the following period for 
+depreciating and amortizing property and equipment:
+
+                 Buildings                                10-50 years
+                 Leasehold improvements                      10 years
+                 Fixtures and equipment                    5-10 years
+
+
+<PAGE>                             
+                                                               Schedule VI
+<TABLE>                             
+<CAPTION>
+                             
+
+                                DELCHAMPS, INC.
+                   Accumulated Depreciation and Amortization
+                          of Property and Equipment                        
+                                                                         
+                                   Balance at                                              Balance 
+                                   beginning           Additions                           at end
+Classification                     of period            at cost         Retirements       of period
+__________________             __________________   _______________   _______________   ______________
+
+Year ended June 27, 1992:                                                                    
+__________________________
+
+<S>                             <C>                     <C>               <C>              <C>    
+Buildings....................   $     9,832,135         1,297,600             -            11,129,735
+
+Leasehold improvements.......         4,409,437           851,132           31,967          5,228,602
+
+Fixtures and equipment.......        74,591,958        13,842,428        2,413,077         86,021,309
+
+Transportation equipment.....         1,622,609           135,161          302,731          1,455,039
+                                __________________   ________________   _____________   ______________
+                                $    90,456,139        16,126,321        2,747,775        103,834,685
+                                ==================   ================   =============    =============                         
+Year ended July 3, 1993:
+___________________________
+
+Buildings....................   $    11,129,735         1,298,799              -           12,428,534
+
+Leasehold improvements.......         5,228,602         1,142,752              -            6,371,354
+
+Fixtures and equipment.......        86,021,309        15,433,586        1,430,122        100,024,773
+
+Transportation equipment.....         1,455,039            64,701           73,322          1,446,418
+                                 _________________   ________________   ______________   _____________
+                                $   103,834,685        17,939,838        1,503,444        120,271,079
+                                 =================   ================   ==============   =============
+
+Year ended July 2, 1994:
+____________________________                                                                  -    
+
+Buildings....................   $    12,428,534         1,302,848              -           13,731,382
+
+Leasehold improvements.......         6,371,354         1,451,897              -            7,823,251
+
+Fixtures and equipment.......       100,024,773         15,756,680          93,807        115,687,646
+
+Transportation equipment.....         1,446,418            101,998         147,551          1,400,865
+                                __________________   ________________   _______________  _____________
+                                $   120,271,079         18,613,423         241,358        138,643,144 
+                                ==================   ================   ===============  =============
+</TABLE>                             
+<PAGE>
+                             
+                             
+                                                                   Schedule X
+                                                                     
+                                    DELCHAMPS, INC.
+
+                   Supplementary Statement of Earnings Information*
+           For The Years Ended July 2, 1994, July 3, 1993 and June 27, 1992
+
+
+Item                                    Charged to Costs and Expense
+_______                              ___________________________________
+
+                                        1994        1993        1992
+                                      _________  __________  _________
+
+Advertising.....................  $  9,622,354    9,048,191  8,818,816
+
+
+
+____________________________
+
+    *Maintenance and repairs, amortization of intangible assets, taxes
+other than payroll and income taxes, and royalties did not exceed 1% of
+revenues in 1994, 1993, or 1992.
+
+<PAGE>
+               E  X  H  I  B  I  T      I  N  D  E  X
+
+                                                               
+Number                       Description             
+___________    _______________________________________ 
+
+13             Portions of the Company's 1994 Annual Report 
+               to Shareholders 
+                                                       
+21             Subsidiary of the Company               
+
+27             Financial Data Schedule
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<TEXT>
+
+                                                                 EXHIBIT 13
+                          
+                          DELCHAMPS, INC. AND SUBSIDIARY
+
+
+Portion of inside front cover of 1994 Annual Report
+
+<TABLE>
+<CAPTION>
+
+FIVE YEAR FINANCIAL HIGHLIGHTS                                              
+(In thousands except per share amounts)                       
+                                                     
+                                                                           FISCAL YEAR ENDED
+                                                     ____________________________________________________________
+                                                      JULY 2,     JULY 3,     JUNE 27,    JUNE 29,     JUNE 30,
+STATEMENT OF EARNINGS DATA:                            1994        1993         1992        1991         1990
+                                                    (52 WEEKS)  (53 WEEKS)   (52 WEEKS)   (52 WEEKS)  (52 WEEKS)
+_________________________________________________________________________________________________________________
+<S>                                                 <C>         <C>          <C>         <C>          <C> 
+Sales                                               $1,067,191  $ 1,034,531  $ 949,849   $  959,169   $ 948,257
+Operating Income                                        22,019       27,907     12,885       28,703      27,854
+Earnings before income taxes
+     and cumulative effect of changes
+     in accounting principles                           17,858       22,738      8,005       23,299     22,122
+Net earnings                                            10,951       14,373      5,799       15,247     14,385
+Net earnings per common share                             1.54         2.02       0.81         2.14       2.02
+Dividends declared per common share                       0.44         0.44       0.44         0.43       0.39
+Weighted average shares outstanding                      7,114        7,114      7,126        7,132      7.132
+
+
+BALANCE SHEET DATA:
+_________________________________________________________________________________________________________________
+
+Working Capital                                     $   54,926   $   49,511  $  38,448   $   41,793   $ 38,197
+Total assets                                           263,269      252,052    246,725      223,857    220,183
+Long term debt and obligations under
+     capital leases, excluding current 
+     installments                                       32,169       39,503     42,214       36,062     44,147
+Stockholders' equity                                   136,300      126,262    112,800      107,873     91,180
+
+</TABLE>
+
+
+<PAGE>
+
+Pages 6 through 13 of 1994 Annual Report
+
+                               DELCHAMPS, INC. AND SUBSIDIARY
+                        FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+
+
+DELCHAMPS, INC. AND SUBSIDIARY
+Reports of Independent Auditors and Management
+______________________________________________________________________________
+INDEPENDENT AUDITORS' REPORT
+
+The Board of Directors and Stockholders
+Delchamps, Inc.:
+
+We have audited the accompanying consolidated balance sheets of Delchamps, 
+Inc. and subsidiary as of July 2, 1994 and July 3, 1993, and the related 
+consolidated statements of earnings, stockholders' equity, and cash flows for
+each of the years in the three-year period ended July 2, 1994.  These 
+consolidated financial statements are the responsibility of the Company's
+management.  Our responsibility is to express an opinion on these consolidated
+financial statements based on our audits.
+     
+We conducted our audits in accordance with generally accepted auditing 
+standards.  Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free 
+of material misstatement.  An audit includes examining, on a test basis, 
+evidence supporting the amounts and disclosures in the financial statements.
+An audit also includes assessing the accounting principles used and 
+significant estimates made by management, as well as evaluating the overall 
+financial statement presentation.  We believe that our audits provide a 
+reasonable basis for our opinion.
+     
+In our opinion, the consolidated financial statements referred to above 
+present fairly, in all material respects, the financial position of Delchamps,
+Inc. and subsidiary at July 2, 1994 and July 3, 1993, and the results of their 
+operations and their cash flows for each of the years in the three-year 
+period ended July 2, 1994, in conformity with generally accepted 
+accounting principles.
+     
+As discussed in note 9 to the consolidated financial statements the Company 
+changed its method of accounting for postemployment benefits in 1994 to adopt
+the provisions of the Financial Accounting Standards Board's Statement of 
+Financial Accounting Standards No. 112, "Employers' Accounting for 
+Postemployment Benefits".  As discussed in note 10 to the consolidated
+financial statements, the Company changed its method of accounting for income 
+taxes in 1994 to adopt the provisions of the Financial Accounting Standards 
+Board's Statement of Financial Accounting Standards No. 109, "Accounting for 
+Income Taxes".
+
+August 5, 1994
+Atlanta, Georgia        /s/   KPMG Peat Marwick LLP
+
+MANAGEMENT'S REPORT ON FINANCIAL STATEMENTS
+
+     The Management of Delchamps, Inc. and subsidiary (the "Company") is 
+responsible for the preparation, integrity, and objectivity of the 
+consolidated financial statements and related information appearing in the 
+Annual Report.  The consolidated financial statements were prepared in 
+accordance with generally accepted accounting principles and include amounts 
+and interpretations that are based on Management's best estimates and 
+judgments.
+     The Company maintains a system of internal accounting control which 
+provides reasonable assurance that financial records are reliable for 
+preparation of financial statements and that assets are properly accounted 
+for and safeguarded.
+     The consolidated financial statements were audited by KPMG Peat Marwick 
+LLP, independent auditors appointed by the Stockholders of the Company upon 
+the recommendation of the Board of Directors.  Their audits provide an 
+independent review of Management's discharge of its responsibilities for 
+reporting the Company's financial condition and results of operations.  
+The Audit and Finance Committee of the Board of Directors, the majority of 
+whom are outside directors, meets periodically with the internal and 
+independent auditors to review their accounting, financial and audit reports 
+and any recommendations they have for improvements in the system of internal 
+accounting control.
+
+MANAGEMENT'S REPORT ON DIVIDENDS AND STOCK PRICES
+
+    The common stock of Delchamps, Inc. is traded on the Nasdaq National Market
+under the symbol DLCH.  Trading commenced with the Company's initial public 
+offering on November 23, 1983.  The following information represents the high
+and low sales prices on the Nasdaq National Market.
+
+    Fiscal Year Ended                                                  
+      July 2, 1994                                   High      Low
+    First Quarter                                     24         19
+    Second Quarter                                  24.5       20.5
+    Third Quarter                                     24      20.75
+    Fourth Quarter                                  22.5       20.5
+     
+    Fiscal Year Ended                                               
+      July 3, 1993                                   High      Low
+    First Quarter                                   22.25    16.625
+    Second Quarter                                     25     17.25
+    Third Quarter                                    27.5      21.5
+    Fourth Quarter                                   27.5        20
+
+     The Company has paid a regular quarterly dividend of $.07 per share from
+November 1, 1983 through August 1988, $.09 per share from September 1988 
+through August 1989, $.10 per share from September 1989 through August 1990, 
+and $.11 per share thereafter.
+  As of July 28, 1994, there were approximately 1,191 shareholders of record.
+
+<PAGE>
+
+DELCHAMPS, INC. AND SUBSIDIARY
+CONSOLIDATED BALANCE SHEETS
+July 2, 1994 and July 3, 1993
+(In thousands except share data)
+
+<TABLE>
+<CAPTION>
+
+__________________________________________________________________________________
+                              Assets                           1994        1993
+__________________________________________________________________________________
+<S>                                                           <C>        <C>
+Current assets:
+     Cash and cash equivalents (note 2)                     $  15,378    12,070
+     Trade and other accounts receivable                        9,475     7,941
+     Merchandise inventories (note 3)                         105,663    97,083
+     Prepaid expenses                                             443     1,242
+     Income taxes receivable (note 10)                             58         -
+     Deferred income taxes (note 10)                            1,529     2,129
+                                                             _________ _________  
+Total current assets                                          132,546   120,465
+                                                             _________ _________
+Property and equipment (notes 4 and 5):
+     Land                                                       6,312     6,495
+     Buildings and improvements                                51,742    49,492
+     Fixtures and equipment                                   198,746   185,211
+    Construction in progress                                    4,972     3,339
+                                                             _________ _________ 
+                                                              261,772   244,537
+Less accumulated depreciation and amortization                138,643   120,271
+                                                             _________ _________
+Net property and equipment                                    123,129   124,266
+                                                             _________ _________ 
+                                                             
+Cost in excess of fair value of assets acquired, 
+net of accumulated amortization
+of $1,062 in 1994 and $905 in 1993                              5,210     5,367
+
+Other assets                                                    2,384     1,954
+                                                             _________ _________
+                                                            $ 263,269   252,052
+                                                             __________ ________
+
+_____________________________________________________________________________________
+               Liabilities and Stockholders' Equity             1994       1993
+_____________________________________________________________________________________
+Current liabilities:
+     Current installments of obligations under 
+       capital leases (note 4)                               $  1,576     1,705
+     Current installments of long-term debt (note 5)            3,760     3,759
+     Notes payable (note 6)                                    11,574     3,847
+     Current installments of guaranteed ESOP debt (note 7)      2,000     2,000
+     Accounts payable                                          43,578    39,785
+
+Accrued expenses:
+     Salaries and wages                                         2,007     4,423
+     Licenses and other taxes                                   7,185     8,070
+     Other                                                      5,940     5,934
+                                                              _________ ________
+Total accrued expenses                                         15,132    18,427
+                                                              _________ ________
+Income taxes (note 10)                                              -     1,431
+                                                              _________ ________
+Total current liabilities                                      77,620    70,954
+                                                              _________ ________
+Obligations under capital leases, excluding current 
+     installments (note 4)                                     11,811    13,387
+Long-term debt, excluding current installments (note 5)        18,358    22,116
+Guaranteed ESOP debt, excluding current installments (note 7)   2,000     4,000
+Deferred income taxes (note 10)                                14,154    14,785
+Other liabilities                                               3,026       548
+                                                             _________ _________
+Total liabilities                                             126,969   125,790
+                                                             _________ _________
+Stockholders' equity (notes 5 and 11):
+     Junior participating preferred stock of no par value.
+          Authorized 5,000,000 shares; no shares issued             -         -
+     Common stock of $.01 par value.  Authorized 25,000,000 
+          shares; issued 7,113,581 shares                          71        71
+     Additional paid-in capital                                19,731    19,731
+     Retained earnings                                        121,434   113,611
+                                                              ________ _________
+                                                              141,236   133,413
+Less:                                                         
+     Guaranteed ESOP debt (note 7)                              4,000     6,000
+     Unamortized restricted stock award compensation (note 8)     936     1,151
+                                                              ________ _________
+     Total stockholders' equity                               136,300   126,262
+                                                              ________ _________
+Commitments and contingencies (notes 4, 8, and 12)
+                                                           $  263,269   252,052
+                                                              ======== =========
+See accompanying notes to consolidated financial statements.
+
+</TABLE>
+<PAGE>
+
+
+DELCHAMPS, INC. AND SUBSIDIARY
+Consolidated Statements of Earnings
+Years ended July 2, 1994, July 3, 1993 and June 27, 1992
+(In thousands except per share amounts)
+
+<TABLE>
+<CAPTION>
+__________________________________________________________________________________________________________________
+                                                                                  1994         1993        1992
+__________________________________________________________________________________________________________________
+<S>                                                                           <C>           <C>          <C>
+Sales                                                                         $ 1,067,191   1,034,531    949,849
+Cost of sales (note 3)                                                            796,364     770,457    713,865
+                                                                             _____________ ___________ __________
+     Gross profit                                                                 270,827     264,074    235,984
+
+Selling, general and administrative expenses                                      248,808     236,167    223,099
+                                                                             _____________ ___________ __________
+    Operating income                                                               22,019      27,907     12,885
+                                                                             _____________ ___________ __________
+Other income (expense):
+     Interest expense                                                              (4,298)     (5,389)    (5,258)
+     Interest income                                                                  137         220        378
+                                                                             _____________ ___________ __________
+                                                                                   (4,161)     (5,169)    (4,880)
+                                                                             _____________ ___________ __________
+                                                                              
+     Earnings before income taxes and cumulative effect of changes in 
+           accounting principles                                                   17,858      22,738      8,005
+
+Income taxes (note 10)                                                              6,207       8,365      2,206
+                                                                             _____________ ___________ __________  
+     Earnings before cumulative effect of changes in accounting 
+           principles                                                              11,651      14,373      5,799
+
+Cumulative effect of change in accounting for income taxes (note 10)                  900           -          -
+Cumulative effect of change in accounting for postemployment benefits
+  (net of income tax benefits of $1,000) (note 9)                                  (1,600)          -          -
+                                                                               
+      Net earnings                                                           $     10,951      14,373      5,799
+                                                                             ============== ============ =========
+Earnings per common share:
+   Earnings before cumulative effect of changes in accounting principles     $      1.64         2.02       0.81
+   Cumulative effect of change in accounting for income taxes                       0.12            -          -
+   Cumulative effect of change in accounting for postemployment benefits          (0.22)           -          -
+                                                                             ______________ ____________ __________
+   Net earnings per common shares                                            $      1.54         2.02       0.81
+                                                                             ============== ============ ==========
+Weighted average number of common shares                                           7,114        7,114      7,126
+                                                                             ============== ============ ==========
+See accompanying notes to consolidated financial statements.
+
+</TABLE>
+
+DELCHAMPS, INC. AND SUBSIDIARY
+Consolidated Statements of Stockholders' Equity
+Years ended July 2, 1994, July 3, 1993, and June 27, 1992             
+(In thousands)
+
+<TABLE>                                 
+<CAPTION>
+___________________________________________________________________________________________________________________________
+                                             Common Stock
+                                             _____________             
+                                               Issued         Additional                          Restricted    Total
+                                             _____________     Paid-in    Retained   Guaranteed     Stock    Stockholders'
+                                             Shares  Amount    Capital    Earnings   ESOP Debt      Award       Equity
+___________________________________________________________________________________________________________________________
+<S>                                         <C>     <C>        <C>        <C>        <C>           <C>       <C>
+Balances at June 29, 1991                   7,132   $  71     20,212      99,703    (10,000)      (2,113)     107,873
+Amortization of restricted stock awards         -       -           -           -          -          262         262
+Retirement of restricted stock awards
+     (note 8)                                 (18)      -        (481)          -          -          481           -
+Reduction of guaranteed ESOP debt               -       -           -           -      2,000            -       2,000
+Net earnings                                    -       -           -       5,799          -            -       5,799
+Dividends declared of $.44 per share            -       -           -      (3,134)         -            -      (3,134)
+                                            ______  _______   ________   __________  _________     ________   ________
+Balances at June 27, 1992                   7,114      71      19,731     102,368     (8,000)      (1,370)    112,800
+
+Amortization of restricted stock awards         -       -           -           -          -          219         219
+Reduction of guaranteed ESOP debt               -       -           -           -      2,000            -       2,000
+Net earnings                                    -       -           -      14,373          -            -      14,373
+Dividends declared of $.44 per share            -       -           -      (3,130)         -            -      (3,130)
+                                            ______  _______   ________   _________   _________     ________   ________
+Balances at July 3, 1993                    7,114      71      19,731     113,611     (6,000)      (1,151)    126,262
+
+Amortization of restricted stock awards         -       -           -          -           -          215         215
+Reduction of guaranteed ESOP debt               -       -           -          -       2,000            -       2,000
+Net earnings                                    -       -           -      10,951          -            -      10,951
+Dividends declared of $.44 per share            -       -           -      (3,128)         -            -      (3,128)
+                                           _______  _______  ________     ________    _______      _________  ________
+Balances at July 2, 1994                    7,114   $  71      19,731     121,434     (4,000)        (936)    136,300
+                                           =======  =======  ========     ========    =======      =========  ========
+See accompanying notes to consolidated financial statements.
+
+</TABLE>
+<PAGE>
+
+
+
+DELCHAMPS, INC. AND SUBSIDIARY
+Consolidated Statements of Cash Flows
+Years ended July 2, 1994, July 3, 1993, and June 27, 1992
+(In thousands)
+
+<TABLE>
+<CAPTION>
+__________________________________________________________________________________________________________________
+                                                                                  1994         1993        1992
+__________________________________________________________________________________________________________________
+<S>                                                                           <C>           <C>          <C>
+Cash flows from operating activities:
+  Net earnings                                                             $  10,951        14,373       5,799
+  Adjustments to reconcile net earnings to net cash provided by
+    operating activities:
+    Depreciation and amortization                                             18,770        18,099      15,599
+    (Gain)loss on sale of property and equipment                                (115)           12         319
+    Restricted stock award amortization                                          215           219         262
+    Deferred income tax (benefit) expense                                       (631)        2,117       1,231
+    Cumulative effect of change in accounting for income taxes                  (900)            -           -
+    Cumulative effect of change in accounting for postemployment benefits      1,600             -           -
+    Increase in merchandise inventories                                       (8,580)       (1,663)     (3,256)
+    Increase (decrease) in accounts payable and accrued expenses                 501          (884)      7,330
+    (Decrease) increase in income taxes, net                                    (889)        1,760      (3,000)
+    Other, net                                                                   700        (1,131)     (1,362)
+                                                                            ____________ ____________ ___________
+    Net cash flows provided by operating activities                           21,622        32,902      22,922
+
+Cash flows from investing activities:
+   Additions to property and equipment                                       (17,705)      (20,824)    (31,530)
+   Proceeds from sale of property and equipment, net                             256           507         365
+                                                                            ____________ ____________ ___________
+    Net cash used in investing activities                                    (17,449)      (20,317)    (31,165)
+
+Cash flows from financing activities:
+   Principal payments on obligations under capital leases                    (1,705)        (1,812)     (2,260)
+   Principal payments on long-term debt and notes payable                    (7,606)       (39,118)    (22,135)
+   Proceeds from issuance of long-term debt and notes payable                11,574         32,222      38,475 
+   Dividends paid                                                            (3,128)        (3,130)     (3,134)
+                                                                            ____________ _____________ __________
+                                                                            
+   Net cash (used in) provided by financing activities                         (865)       (11,838)     10,946
+
+Net increase in cash and cash equivalents                                     3,308            747       2,703
+
+Cash and cash equivalents at beginning of year                               12,070         11,323       8,620
+                                                                            ____________ _____________ __________
+
+Cash and cash equivalents at end of year                                   $ 15,378         12,070      11,323
+                                                                            ============ ============= ==========
+
+See accompanying notes to consolidated financial statements.
+
+</TABLE>
+<PAGE>
+
+
+DELCHAMPS, INC. AND SUBSIDIARY
+Notes To Consolidated Financial Statements
+July 2, 1994, July 3, 1993, and June 27, 1992
+
+(1)  Summary of Significant Accounting Policies
+
+(a)  Description of Business
+     
+     Delchamps, Inc. and subsidiary (the "Company")  are
+engaged in the business of retail food distribution through
+the Company's supermarkets located in Alabama, Florida
+Louisiana, and Mississippi.
+
+(b)  Definition of Fiscal Year
+     
+     The Company's fiscal year ends on the Saturday
+closest to June 30.  Fiscal years 1994 and 1992 comprised
+52 weeks while fiscal year 1993 comprised 53 weeks.
+
+(c)  Principles of Consolidation
+     
+     The consolidated financial statements include the 
+accounts of Delchamps, Inc. and its wholly owned
+wholesale subsidiary.  All significant intercompany balances
+and transactions were eliminated in consolidation.
+
+(d)  Cash Equivalents
+     
+     For purposes of the consolidated statements of 
+cash flows, the Company considers all highly liquid debt
+instruments purchased with a maturity of three months or
+less to be cash equivalents.
+
+(e)  Merchandise Inventories
+     
+     Inventories are stated at the lower of cost or market.
+Cost is determined on the last-in, first-out ("LIFO")  basis for
+87% of inventories in 1994, 85% in 1993, and 87% in 1992.
+With respect to the remaining inventories, primarily produce
+and market, cost is determined on the first-in, first-out ("FIFO")
+basis.  Inventories developed from the retail method
+comprised approximately 50% of total inventories in 1994,
+52% in 1993, and 58% in 1992.
+
+(f)  Property and Equipment
+     
+     Property and equipment are stated at cost.  Buildings 
+and equipment acquired prior to July 1, 1984 are depreciated
+over the estimated useful lives of the respective assets using
+primarily the double-declining-balance method.  Buildings
+and equipment acquired subsequent to July 1, 1984, are
+depreciated over the estimated useful lives of the respective 
+assets using the straight-line method.
+      
+     Buildings and equipment under capital leases are 
+stated at the lower of the present value of the minimum
+lease  payments at the beginning of the lease term or fair
+value of the property at the inception of the lease.  Assets
+leased under capital leases and leasehold improvements
+are amortized using the straight-line method over the lesser
+of the lease term or the estimated useful lives of the related
+assets.  The Company uses the following periods for depre-
+ciating and amortizing property and equipment:
+
+Buildings............................... 10-50 years
+Leasehold improvements......................10 years
+Fixtures and equipment....................5-10 years
+
+(g) Cost in Excess of Fair Value of Assets Acquired
+    
+    Cost in excess of fair value of assets acquired arose
+from the purchase of 3 supermarkets and real estate in 
+August, 1987 and is being amortized over a 40 year period
+on a straight-line basis.
+     
+(h)  Income Taxes
+     
+     Deferred income taxes are recognized for all
+significant temporary differences between the tax basis and 
+financial statement amount of assets and liabilities.  The tax
+consequences of those differences expected to occur in 
+the subsequent year are classified as a current asset
+or liability.
+     
+     Job credits are recorded as a reduction of the pro-
+vision for Federal income taxes in the year realized.
+     
+     In February 1992, the Financial Accounting Standards
+Board ("FASB") issued Statement of Accounting Standards
+No. 109, "Accounting for Income Taxes" ("SFAS No. 109")
+which supersedes SFAS No. 96.  Under the asset and 
+liability method of SFAS No. 109, deferred tax assets and
+liabilities are recognized for the future tax consequences
+attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their
+respective tax bases.  Deferred tax assets and liabilities are
+measured using enacted tax rates expected to apply to tax-
+able income in the years in which those temporary differences
+are expected to be recovered or settled.  Under SFAS No. 109,
+the effect on deferred tax assets and liabilities of a change in 
+tax rates is recognized in income in the period that includes
+the enactment date.
+     
+     In fiscal year 1994, the Company adopted SFAS No. 109, 
+and has reported the cumulative effect of that change in the 
+method of accounting for income taxes in the 1994 consolidated 
+statements of earnings.
+
+(i)   Earnings Per Share
+            
+     Earnings per share are computed by dividing net 
+earnings by the weighted average number of shares of 
+common stock outstanding.
+
+(2) Cash Equivalents
+           
+    Cash equivalents are stated at cost which
+approximates market value.  Cash equivalents at July 2, 1994, and 
+July 3, 1993 consisted of the following:
+
+                                          (In thousands)
+                                          1994       1993
+                                      ___________ ___________
+
+Marketable Unit Investment Fund       $    993       1,521
+Cash Management Tax Exempt Fund            171           9
+                                      ___________ ___________
+                                      $  1,104       1,530
+                                      =========== ===========
+
+(3) Merchandise Inventories
+     
+     The  Company uses the LIFO method of valuing
+certain of its merchandise inventories to minimize inflation
+induced inventory profits and to achieve a better matching of 
+current costs with current revenues.  Inventories would
+increase by approximately $13,012,000 at July 2, 1994 and 
+$13,050,000 at July 3, 1993 if all of the Company's inventories 
+were stated at cost determined by the first-in, first-out
+method.  Further, net earnings would decrease by approxi-
+mately $24,000 in fiscal year 1994, increase by $130,000 in
+fiscal year 1993, and decrease by $732,000 in fiscal year
+1992, after applying the Company's marginal tax rate and 
+without assuming an investment return on the applicable
+income tax savings.
+     
+     The Company is a member of a cooperative asso-
+ciation from which it purchases private label merchandise
+for resale and certain store equipment.  Merchandise inven-
+tories purchased from this cooperative association approxi-
+mated 20% of total inventory purchases in 1994, 23% in 
+1993, and 26% in 1992.
+
+(4) Leases
+          
+     The Company leases certain store properties and 
+warehouse equipment under capital leases that expire over
+the next 13 years.  The Company also leases store proper-
+ties, and transportation equipment under noncancelable
+operating leases that expire over the next 23 years.
+Contingent rentals on store properties are paid as a
+percentage of sales in excess of a stipulated minimum.  In
+the normal course of business, it is expected that most
+leases will be renewed or replaced by leases on other
+properties and equipment.
+     
+     Included in property and equipment are the following
+amount applicable to capital leases:
+
+                                        (In thousands)
+                                     1994          1993
+                                 ____________   ___________   
+
+Buildings                        $ 13,998          13,998
+Fixtures and equipment             19,040          19,040
+                                 ____________   ____________
+                                   33,038          33,038
+Less accumulated amortization      24,975          23,487
+                                 ____________   ____________
+                                 $  8,063           9,551        
+                                 ============   ============
+                               
+   
+   Future minimum lease payments under noncancelable operating 
+leases and the present value of future minimum capital lease 
+payments as of July 2,1994 are as follows:
+
+                                           (In thousands)
+                                        Capital   Operating
+Fiscal year                              Leases      Leases
+                                        __________ __________
+
+   1995                                $   3,126    38,771
+   1996                                    2,079    38,380
+   1997                                    2,081    37,661
+   1998                                    2,081    36,764
+   1999                                    2,081    36,045
+Later years                               13,090   306,655
+                                        __________ __________
+Total minimum lease payments              24,538   494,276
+                                                   ==========
+Less amount representing interest         11,151
+                                        __________
+Present value of net minimum capital
+  lease payments                          13,387
+Less current installment of 
+   obligations under capital leases        1,576
+                                        ___________
+Long-term obligations under capital 
+  leases                                $  11,811
+                                        ===========
+
+     Rental expense and contingent rentals for operating
+leases are as follows:                                        
+
+                                               (In thousands)
+                                          1994     1993      1992
+                                        ________ ________ _________
+                                                            
+Minimum rentals                       $  40,979   38,201   34,388
+Contingent rentals                          110     105       281
+                                        ________ ________ _________
+                                       $  41,089   38,306   34,669
+                                        ======== ======== =========
+
+     Most of the Company's leases stipulate that the 
+Company pay taxes, maintenance, insurance, and certain
+other operating expenses applicable to the leased property.
+     
+     As of July 2, 1994, the Company had entered into
+additional lease commitments for 10 store properties.  The
+following table summarizes the approximate rentals which 
+will be required for the store property leases for the next
+20 years.
+
+
+                           (In thousands)
+    Fiscal year                Rent
+ ________________       __________________
+
+        1995               $  3,022
+        1996                  3,022
+        1997                  3,022
+        1998                  3,022
+        1999                  3,085
+   2000-2014                 38,760
+
+(5) Long-Term Debt
+     
+     Long-term debt as of July 2, 1994 and July 3, 1993
+consisted of the following:
+
+
+                                                    (In thousands)
+                                                  1994          1993
+                                               ___________  ____________
+5.51% Note payable, due in 84 monthly
+ installments of $297,619 in principal
+ plus interest, with the final installment
+ due July 1, 2000, unsecured                  $   21,430        25,000
+
+Note payable, with interest rates based
+ on LIBOR + 1.5 % due in 60 monthly
+ installments of $15,625 in principal plus
+ interest, with the final installment due
+ March 1, 1998, secured by deposit accounts
+ with the lender                                     688           875 
+                                               ___________   ____________
+          Total long-term debt                    22,118        25,875
+Less current installments                          3,760         3,759
+                                               ___________   ____________
+Long-term debt, excluding current
+    installments                               $  18,358        22,116  
+                                               ===========   ============
+    
+    Agreements underlying the notes payable contain
+restrictive covenants which limit the payment of dividends,
+additional debt, lease rentals, and transactions with affiliates,
+and require maintenance of certain working capital and
+equity levels.  At July 2, 1994, the Company was in compliance
+with all covenants.  At July 2, 1994, approximately $22,070,000
+of the Company's retained earnings was available for the 
+payment of dividends under such restrictive provisions.
+     
+     Cash payments for interest were approximately
+$4,312,000, $5,383,000, and $5,275,000 in 1994, 1993 
+and 1992, respectively.
+     
+     Aggregate annual maturities on long-term debt for 
+fiscal years after July 2, 1994 are approximately as follows:
+
+                               (In thousands)
+      Fiscal year             Annual maturities
+    _______________         ___________________
+        1995                    $   3,759
+        1996                        3,759
+        1997                        3,759
+        1998                        3,697
+        1999                        3,572
+        2000                        3,572
+
+     Based on the borrowing rates currently available
+to the Company for long-term debt with similar terms and 
+maturities, the fair value of the long-term debt outstanding
+at July 2, 1994 approximates the carrying value.
+
+(6)  Notes Payable
+
+     Notes payable as of July 2, 1994 and July 3, 1993
+consisted of the following:
+
+                                     (In thousands)
+                                   1994          1993
+                                ___________   ___________
+Unsecured borrowings under
+lines of credit, due on
+various dates throughout
+fiscal 1995, with floating
+interest rates that are 
+currently less than the 
+prime rate                      $ 11,574        3,847
+
+
+
+     At July 2, 1994, the Company had $93,426,000
+in available unsecured lines of credit with various financial
+institutions which expire throughout fiscal 1995 and provide for 
+interest at rates of at least 200 basis points below the prime 
+interest rates.
+
+(7) Leveraged Employee Stock Ownership Plan
+
+     In November 1987, the Company leveraged its
+existing Employee Stock Ownership Plan ("ESOP").  The
+ESOP used the proceeds of the loan to purchase approxi-
+mately 1,097,000 shares of the Company's common stock.
+The common stock is held by the ESOP trustee in a 
+"suspense account" and these shares serve as collateral for
+the loan.  Each year the Company will make a contribution to
+the ESOP which the trustee will use to make principal
+payments.  With each loan payment a portion of the common
+stock is released from the "suspense account" and allocated
+to participating employees.  The Company is required to pay
+interest on the loan in excess of any dividends received on
+unallocated shares.
+     
+     The Company guaranteed $20 million of ESOP debt
+under the loan agreement.  The loan is repayable in 10 equal 
+annual installments of principal, with the final installment due
+in June 1996.  Interest is payable quarterly at a rate equal to
+80% of the prime rate.  The loan obligation of the ESOP 
+is considered an unearned employee profit sharing trust con-
+tribution and is recorded as a reduction of the Company's
+stockholders' equity.  Both the loan obligation and the unearned
+employee profit sharing trust contribution are reduced by the 
+amount of any loan repayments made by the ESOP.
+
+
+(8)  Employee Benefit and Incentive Plans
+     
+     The Company has a profit-sharing plan and an 
+employee stock ownership plan covering substantially all
+employees who have completed two years of service.  The
+total annual contributions to these plans for fiscal years
+1994, 1993, and 1992 were as follows:
+
+                                      (In thousands)
+                                   1994      1993     1992
+                                _________ _________ ________
+Employee stock ownership plan     $2,000    2,000    2,000
+
+     The Company has an incentive compensation plan for
+certain management personnel tied to the Company's overall
+performance.  There was no charge to operations for this plan 
+in 1994, $2,274,000 was charged to operations in 1993 and 
+$725,000 in 1992.
+     
+     In fiscal 1988, the Company adopted, with stock-
+holder approval, a restricted stock award plan.  The plan
+provides that a maximum of 150,000 shares of common
+stock be awarded to key executives.  During 1989, 138,000  
+shares were awarded to key executives at a price of $.01
+per share.  No shares have been awarded since 1989.  Total
+compensation expense to be charged to operations over the
+term of the plan is approximately $3,209,000.  Total
+compensation expense associated with the plan was determined
+based on the difference between the market value and the 
+purchase price of the stock at the date of award, and is
+being amortized on a straight-line basis over the period
+the restrictions lapse.  Charges to operations for this plan
+were approximately $215,000 in 1994, $219,000 in 1993,
+and $262,000 in 1992.
+     
+     In February 1992, the Company repurchased shares 
+previously awarded to three key executives.  A total of 18,000
+shares was repurchased for $.01 per share, the cost to the 
+key executives at award date.  Restricted stock awards totaling
+$481,000 and representing the market value of the awarded
+shares at grant date, were retired concurrent with the repurchase.
+
+
+(9)  Postemployment Benefits Other Than Pensions
+
+     Effective for fiscal year 1994 the Company adopted 
+Statement of Financial Accounting Standards No. 112,
+("SFAS No. 112"), "Employers' Accounting for Postemployment
+Benefits." Under SFAS No. 112, the cost of employment
+benefits must be recognized on an accrual basis as
+employees perform services to earn the benefits.
+     
+     The Company provides a bonus to associates who
+leave employment.  The amount of the bonus is based on 
+longevity.
+     
+     The Company previously expensed the cost of this
+bonus as incurred.  The  Company has elected to recognize
+this change in accounting principle on the immediate recog-
+nition basis.  The cumulative effect for fiscal year 1994 of
+adopting SFAS No. 112 was an increase in accrued postemploy-
+ment benefit costs of $2,600,000 ($1,600,000 after the income)  
+tax benefit of $.22 per share).
+
+(10) Income Taxes
+     
+     As discussed in note 1, the Company adopted
+Statement of Financial Accounting Standards No. 109,
+"Accounting for Income Taxes" ("SFAS No. 109") for fiscal
+1994.  The cumulative effect of this change in accounting for 
+income taxes of $900,000 is determined as of July 4, 1993
+and is reported separately in the consolidated statements of 
+earnings for the year ended July 2, 1994.  Prior years'
+financial statements have not been restated to apply the
+provisions of SFAS No. 109.
+     
+     The components of income tax expense are as follows:
+
+                                                (In thousands)
+                                            Current    Deferred     Total
+                                           __________  _________  _________
+1994:
+     Federal                               $  5,304       176        5,480
+     State                                      706        21          727
+                                           __________  __________  _________
+                                           $  6,010       197        6,207
+                                           ==========  ==========  =========
+1993:
+     Federal                               $  5,519     1,869        7,388
+     State                                      729       248          977
+                                           __________  __________  _________
+                                           $  6,248     2,117        8,365
+                                           ==========  ==========  =========
+1992:
+     Federal                               $    809     1,085        1,894
+     State                                      166       146          312
+                                           __________  __________  _________
+                                           $    975     1,231        2,206
+                                           ==========  ==========  =========
+
+     The actual income tax expense differs from the
+statutory tax rate for all years (computed by applying the
+U.S. Federal corporate rate to earnings before income 
+taxes) as follows:
+                                                   (In thousands)
+                                               1994      1993       1992
+                                           __________  _________  _________
+Statutory tax rate                         $   6,072     7,731      2,722
+Increase (reduction) in income taxes        
+  resulting from:                              
+  State income taxes, net of 
+   Federal income tax benefit                    480       645        206
+  Targeted jobs tax credits                     (507)     (157)      (482)
+  Cost in excess of fair value
+    of assets acquired                            53        53         53
+  Other, net                                     109        93       (293)
+                                           __________  __________  _________ 
+    Actual tax expenses                    $   6,207     8,365      2,206
+                                           ==========  ==========  =========
+    Effective tax rate                          34.8%     36.8       27.6
+                                           ==========  ==========  =========
+     
+     The tax effects of temporary differences that give rise
+to the deferred tax assets and deferred tax liabilities at July 2,
+1994 are as follows (in thousands):
+
+
+
+Deferred Tax Assets:
+Capital lease obligation                                    $   2,043
+Accrued self-insurance                                          1,391
+Accrued postemployment benefits                                   998
+State tax deduction                                               730
+Other accrued liabilities                                       1,092
+                                                            ______________
+   Net deferred tax assets                                      6,254
+                                                            ______________
+Deferred Tax Liabilities:
+Accelerated depreciation                                       18,720
+Other                                                             159
+                                                            ______________
+    Total gross deferred liabilities                           18,879
+                                                            ______________
+    Net deferred tax lability                               $  12,625
+                                                            ==============
+
+     No valuation allowance was recorded against the 
+deferred tax assets at July 2, 1994.  The Company's manage-
+ment believes the existing net deductible temporary differences
+comprising the total gross deferred tax assets will reverse
+during the periods in which the Company generates net
+taxable income.
+     
+     The sources of deferred income taxes and their tax 
+effects are as follows:
+                                                            (In thousands)
+                                                         1993         1992
+                                                     _____________ ___________
+Excesss tax depreciation over financial
+     statement depreciation                           $   1,658      1,239
+Excess financial statement interest and
+     amortization over tax rent expense on 
+     capitalized leases                                     203        131
+
+Accrued expenses recognized for 
+     financial statement purposes, but
+     not for tax purposes                                   258       (348)
+
+Other                                                        (2)       209
+                                                      ____________ ___________
+                                                      $   2,117      1,231
+                                                      ============ ===========
+
+     Cash payments for income taxes were approximately
+$5,741,000, $5,452,000, and $3,896,000 in 1994, 1993,and 
+1992, respectively.
+
+
+(11)  Share Purchase Rights Plan
+
+     In October 1988, the Company adopted a Share
+Purchase Rights Plan and declared a dividend distribution
+of one Right for each outstanding share of common stock.
+Under certain conditions, each Right may be exercised to
+purchase one one-hundredth of a share of Junior Participat-
+ing Preferred Stock at a purchase price of $70, subject to
+adjustment.  The Company will be entitled to redeem the 
+Rights at $.01 per Right at any time prior to the earlier of the 
+expiration of the Rights in October 1998 or ten days following
+the time a person or group acquires or obtains the right to
+acquire a 15% position in the Company.  The Rights do not
+have voting or dividend privileges.  Until such time as they
+become exercisable, the Rights have no dilutive effect on the 
+earnings per share of the Company.
+
+(12) Commitments and Contingencies
+
+     The Company is a defendant in various claims and legal
+actions considered to be in the normal course of business.
+Management intends to vigorously default these claims
+and believes that the ultimate disposition of these matters
+will not have a material adverse effect on the Company's 
+consolidated financial condition.
+     
+     In fiscal 1989, and subsequently, the Company has 
+entered into certain agreements with officers and key man- 
+agement.  The agreements contain provisions entitling each
+officer or employee covered by these agreements to receive
+from 1 to 3 times his annual compensation (as defined) if 
+there is a change in control of the Company (as defined) and
+a termination of employment.  The agreements also pro-
+vide for severance benefits under certain other circumstances.
+The agreements do not constitute employment contracts and 
+only apply in circumstances following a change in control of 
+the Company.  In the event of a change in control of the 
+Company and termination of all persons covered by these
+agreements, the cost would be approximately $10,000,000.
+
+(13) Selected Quarterly Financial Data (Unaudited)
+
+     Selected quarterly financial data for the years ended
+July 2, 1994 and July 3, 1993 is summarized as follows:
+                                                                   
+                     (In thousands except per share amounts)
+                                  Fiscal Quarters
+                     _________________________________________
+     
+1994                 Fourth     Third       Second      First
+                    _________ _________   __________ _________ 
+                    
+Sales              $ 260,969   265,146      274,506    266,570
+Gross profit          66,961    67,739       67,367     68,760
+Earnings before
+ income taxes
+ and cumulative
+ effect of changes
+ in accounting
+ principles            3,558     5,420        3,787      5,093
+Earnings before
+ cumulative effect
+ of changes in
+ in accounting
+ principles            2,397     3,562        2,471      3,221
+Cumulative effect
+ of change
+ in accounting for
+ income taxes              -         -            -        900
+Cumulative effect
+ of change
+ in accounting for
+ postemployment
+ benefits                  -         -           -      (1,600)
+Net earnings           2,397     3,562        2,471      2,521
+Earnings per common
+ share:
+Earnings before
+ cumulative effect
+ of changes in
+ in accounting
+ principles          $  0.34      0.50         0.35       0.45
+Cumulative effect
+ of change
+ in accounting for
+ income taxes              -         -            -       0.12
+Cumulative effect
+ of change in accounting
+ for postemployment
+ benefits                  -         -            -      (0.22)
+Net earnings per
+ common share           0.34       0.50         0.35      0.35
+Dividends declared
+ per common share    $  0.11       0.11         0.11      0.11
+
+
+
+                     (In thousands except per share amounts)
+                                  Fiscal Quarters
+                     _________________________________________
+     
+1993                 Fourth     Third       Second      First
+                    _________ _________   __________ _________
+                    
+Sales              $ 282,408   246,521     250,228    255,374
+Gross profit          70,965    64,096      65,313     63,700
+Earnings before                                                   
+   income taxes        6,909     5,507       5,616      4,706
+Net earnings           4,313     3,534       3,528      2,998
+Net earnings per
+  common share     $    0.60      0.50        0.50       0.42
+Dividends declared
+  per common share $    0.11      0.11        0.11       0.11
+
+
+<PAGE>
+
+Page 14 through 16 of 1994 Annual Report
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS AND
+FINANCIAL CONDITION
+
+      The following discussion should be read in conjunction
+with the financial statement and notes thereto 
+contained herein.
+
+RESULTS OF OPERATIONS
+
+     At the end of the 1994 fiscal year Delchamps operated
+120 supermarkets in Alabama, Florida, Mississippi and 
+Louisiana, compared with 118 at the end of the 1993 fiscal
+year and 115 at the end of fiscal year 1992.  The Company
+also operated twelve liquor stores in Florida at the end of
+fiscal year 1994, compared with ten liquor stores at the end
+of fiscal years 1993 and 1992.  Results of operations set
+forth in the following tables and narrative are for 52-week
+periods in fiscal years 1994 and 1992 and for a 53-week
+period in fiscal year 1993.  The Company's fiscal year ends
+on the Saturday closest to June 30.
+
+Sales
+
+                                     (dollars in thousands)
+                                   1994        1993      1992
+                               ___________ ___________ _________    
+                               
+Sales                         $ 1,067,191   1,034,531   949,849
+Increase/(decrease) from
+  prior year                       32,660      84,682    (9,320)
+Percentage increase/(decrease)
+  from prior year                    3.2%         8.9%    (1.0%)
+Percentage increase/(decrease)                                         
+  in same store sales                1.2%         3.2%    (4.7%)
+
+     Sales increased in 1994 because of the addition
+of new supermarkets (three were opened in 1994 and four
+were opened in 1993), the expansion of supermarkets (four
+were expanded in 1994 and seven were expanded in 1993),
+and same store sales increased 1.2% based on a compa-
+rable 52 week period in fiscal year 1993.  Same store
+sales increased because of supermarket expansions
+and increased sales from promotional activities.  Promo-
+tional activities include increased "Bonus Buy" promotions
+(in which certain products are featured at reduced retail
+prices), implementing a continuity program and 
+introducing a line of soft drink products with Delchamps
+as the brand name.  In addition, there was significant
+growth in the existing Cash Back For Schools program (in
+which the Company makes cash donations to schools
+equal to 1% of the total cash register receipts collected
+by each school over a specified time period).
+
+     Sales increased in 1993 because of the addition of 
+new supermarkets (four were opened in 1993 and six were
+opened in 1992), the expansion of supermarkets (seven
+were expanded in 1993 and five were expanded in 1992),
+the extra week in the 1993 53-week period compared to the 
+1992 52-week period, and same store sales increased 3.2%
+based on a comparable 53-week period for fiscal year 1992.
+Same store sales increased in 1993 because of supermarket
+expansions and success from promotional activities.  Promo-
+tional activities included Double Coupons (implemented
+during fiscal year 1992 under which the Company doubles 
+coupons that have a face value of up to sixty cents), Triple 
+Coupons (implemented in selected markets during fiscal
+year 1993 under which the Company triples coupons that
+have a face value of up to thirty-four cents), and Cash Back
+For Schools (implemented during fiscal year 1992).
+
+     Sales decreased in 1992 because same store sales
+decreased.  Same store sales decreased because of a 
+sluggish economy, heavy promotional activity by competitors,
+food price deflation of approximately 1.5%, and the opening
+of a significant number of supermarkets by competitors.  As
+noted above, the Company implemented the Double Coupon
+and Cash Back For Schools programs in an effort to improve
+sales trends.  In addition, the Company continued its program
+of remodeling and expanding existing supermarkets in 
+order to add service departments and increase the variety
+of merchandise sold.  These efforts resulted in improved
+sales beginning in the fourth quarter of fiscal year 1992.
+
+Gross Profit
+                                  (dollars in thousands)                  
+                               1994         1993       1992           
+                             __________  __________ ____________
+Gross Profit                $ 270,827     264,074     235,984
+Gross Profit percentage          25.4%       25.5%       24.8%
+(Decrease)/increase in
+  percentage from 
+  prior year                     (0.1%)      (0.7%)      (0.9%)
+
+     Gross profit percentage decreased slightly in 1994
+because of increased markdowns (retail price reductions)
+from the "Bonus Buy" promotional program.
+
+      Gross profit percentage increased in 1993 because
+of increased buying allowances, increased sales of higher
+margin products located in the specialty departments of 
+the Company's newer and expanded supermarkets, and 
+increased sales of private label products (which have higher
+margins than brand name products).
+
+     Gross profit percentage decrease in 1992 because 
+of increased promotional activity and reductions in retail prices.
+
+
+Selling, General and Administrative Expenses
+                                           
+                                              (dollars in thousands)
+                                            1994      1993       1992
+                                         __________ __________ __________
+
+Selling, general and 
+  administrative (SG &A)               $    248,808   236,167    223,099
+Increase from prior year                     12,641    13,068      5,694
+SG & A as a percentage of sales                23.3%     22.8%      23.5%
+Increase/(decrease) in percentage
+  from prior year                               0.5%     (0.7%)       0.8%
+
+     SG & A expense increased in 1994 because of 
+increased supermarket expenses which occurred primarily
+as a result of new and expanded supermarkets.  Supermarket
+expenses that increased over the 1993 period include the 
+following: wages and salaries increased $3.5 million, utilities
+increased $1.2 million, promotion expenses relating to the 
+Double Coupon program and continuity program (described
+in the sales section) increased $2.2 million, and building rent
+increased $2.7 million.  Wages and salaries, utilities and rent
+increased primarily because of new and expanded supermarkets.
+Promotion expenses increased because of the 
+implementation of the continuity program in 1994.  SG & A
+increased as a percentage of sales over the 1993 fiscal year
+because the 1993 period included 53-weeks; therefore, in
+1993 fixed costs such as rent and depreciation were divided
+into sales for a 53-week period.
+
+     SG & A expense increased in 1993 because of added
+costs of new and expanded supermarkets and the extra         
+week in the 1993 53-week period compared to the 1992
+52-week period.  SG & A as a percentage of sales decreased
+in 1993 as a result of the additional week in 1993.  The decline
+was also attributable to savings from an ongoing cost con-   
+trol program which improved labor scheduling, reductions in 
+advertising and improvements in the utilization of supplies.
+   
+     SG & A expense in 1992 increased because of added 
+costs associated with new and expanded supermarkets.
+SG & A as a percentage of sales increased in 1992 because
+of slow sales growth combined with the increased cost of 
+operating new locations and service departments.
+
+Other Income and Expense
+                                        (In thousands)
+                                   1994      1993      1992
+                               ___________ _________ __________
+Interest expense               $ 4,298        5,389     5,258
+(Decrease)/increase from                                     
+  prior year                    (1,091)         131      (560)
+Interest income                    137          220       378
+Decrease from prior year           (83)        (158)      (36)
+
+     Interest expense decreased in 1994 primarily
+because the Company refinanced $25 million of long-term
+debt at the end of the 1993 fiscal year.  The interest rate on
+this debt was reduced to 5.51% from 7.70%  The decrease
+in interest expense was also caused by lower levels of 
+indebtedness and a general decline in interest rates. 
+
+     Interest expense increased in 1993 because of
+increased levels of short-term indebtedness under the 
+Company's lines of credit.  Interest expense decreased 
+in 1992 because of an overall decline in interest rates and 
+because the Company refinanced a large portion of its debt
+at lower interest rates.
+     
+     Interest income decreased in the 1994, 1993, and 
+1992 periods.  These decreases resulted from lower levels
+of invested cash and reduction in interest rates.
+
+
+Income Taxes                                                 
+                                    (dollars in thousands)
+                                   1994      1993      1992
+                               ___________ _________ __________
+
+Income tax expenses             $ 6,207       8,365     2,206
+Income tax effective rate          34.8%       34.8%     27.6%
+Increase/(decrease) in rate 
+  from prior year                  (2.0%)       9.2%     (7.0%)
+
+     In fiscal year 1994, the Company's effective income 
+tax rate decreased from the 1993 level because earnings 
+decreased (in 1994 the majority of earnings were taxed at 
+a Federal rate of 34% and in 1993 the majority of earnings 
+were taxed at a Federal rate of 35%) and targeted jobs tax 
+credits were reinstated by the Revenue Reconciliation
+Act of 1993.
+     
+     In fiscal year 1993, the Company's effective income
+tax rate increased because of the expiration of targeted
+jobs tax credits.  The effective rate in 1993 approximates
+the combined Federal and states statutory rates.
+
+     In fiscal year 1992, the Company's effective income
+tax rate decreased because of decreased earnings combined
+with consistent levels of targeted jobs tax credits.
+
+Cumulative Effect of Changes in Accounting Principles
+
+                                        (In thousands)
+                                   1994      1993      1992
+                               ___________ _________ __________
+Cumulative effect of 
+     change in accounting
+     for income taxes            $   900       -         -
+Cumulative effect of 
+     change in accounting for
+     postemployment benefits      (1,600)      -         -
+
+     The Financial Accounting Standards Board issued
+Statement of Financial Accounting Standards No. 109,
+"Accounting for Income Taxes", ("SFAS No. 109") which
+supersedes SFAS No. 96.  The Company implemented
+SFAS No. 109 in fiscal year 1994.  The cumulative effect of 
+implementing SFAS No. 109 was to increase earnings $900,000.
+     
+     The Financial Accounting Standards Board issued
+Statement of Financial Accounting Standards No. 112,
+"Employers' Accounting for Postemployment Benefits,"
+("SFAS No. 112") which the Company implemented in fiscal
+year 1994.  SFAS No. 112 requires that postemployment
+benefits, representing longevity bonus, be recognized on
+an accrual basis.  The cumulative effect of adopting SFAS
+No 112 was to decrease earnings $1,600,000.
+
+Net Earnings
+
+
+                                   (dollars in thousands)
+                                   1994      1993      1992
+                               ___________ _________ __________
+Net earnings                   $  10,951    14,373     5,799
+(Decrease)/increase from
+  prior year                      (3,422)    8,574    (9,448)
+Percentage (decrease)/increase
+  from prior year                 (23.8%)   147.9%    (62.0%)
+Net earnings as a
+  percentage of sales               1.0%      1.4%       0.6%
+
+     Net earnings decreased in 1994 from 1993 because
+same store sales growth decreased (to 1.2% in 1994 from
+3.2% in 1993) and the Company experienced an increased
+rate of growth in SG & A expenses (to 23.3% of sales in
+1994 from 22.8% of sales in 1993).
+
+     Net earnings for 1993 increased because of improved
+sales, an increase in gross profit margin, and a reduction in 
+SG & A expenses.     
+
+     Net earnings for 1992 decreased because of weak 
+sales and a decline in gross profit margin.
+
+Other
+
+
+                                     (dollars in thousands)
+                                   1994      1993      1992
+                               ___________ _________ __________
+
+Provision for LIFO
+  (benefit)/expense               ($38)       210     (1,368)
+Inflation index                0.99960    1.00222    0.98505
+
+
+
+     In fiscal years 1994 and 1993, the rate of inflation 
+was relatively unchanged from the prior year.  Fiscal year
+1992 had deflation of approximately 1.5%.  The effect of
+inflation on the Company's operating earnings is considered
+to be minimal.  Management does not expect the Company
+to be adversely affected by future inflation because a large
+number of its stores are leased at fixed rents for up to
+twenty-five year periods and because increases in the cost
+of merchandise can be generally passed on through retail
+price increases.  While inflation has not had a material impact
+on past operating results, there is no assurance that the  
+Company will not be affected by inflation in the future.
+
+                                         1994      1993       1992
+                                      __________ __________ ____________
+Inventory turnover (annual)           7.9 times   8.0 times  7.6 times
+(Decrease)/increase from
+     prior year                       (.1)        0.4        0.4
+
+
+
+     Inventory turnover decreased slightly in 1994 compared
+to 1993 because the 1994 period was a 52-week fiscal year
+compared to the 1993 period which was a 53-week fiscal year.
+
+     In 1993, inventory turnover increased because the 1993
+period was a 53-week period compared to the 1992 period which
+was a 52-week fiscal year.
+
+     Inventory turnover decreased in 1992 because
+of weak sales and higher inventory levels.  Inventory levels
+increased because of the introduction of the Company's 
+new and expanded formats, which contain significantly
+greater square footage, more inventory and more 
+service departments.
+
+               
+                                   (dollars in thousands)
+                                   1994      1993      1992
+                               ___________ _________ __________
+Dividends paid                  $3,128        3,130     3,134
+Dividends per share               0.44         0.44      0.44
+Dividends as a percentage of 
+     net earnings                28.6%         21.8%     54.0%
+
+     In fiscal year 1994, dividends as a percentage of net
+earnings increased from 1993 because of decreased earnings
+in 1994.  Dividends paid per share remained unchanged
+for the 1994, 1993 and 1992 periods.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Capital Spending
+
+     The following table shows capital expenditures
+during the last three fiscal years and planned capital 
+expenditures during the 1995 fiscal year.
+                                                              
+                                     Plan            Actual
+                                  __________  _______________________
+Fiscal Year                          1995      1994     1993     1992
+                                  __________  ________________________
+
+Capital expenditures                                             
+  (millions)                      $  36.1      17.7      20.8    31.5
+Supermarkets
+  opened                                4         3          4      6
+Supermarkets                                                        
+  closed                                1         1          1      3
+Remodels/expansions                                                 
+     completed                          9         4          7      5
+  
+     The Company's plans with respect to store construction,
+acquisition, remodeling, and expansion are frequently
+reviewed and revised in light of changing conditions.  In 
+addition, the Company's ability to proceed with projects, or to
+complete projects during a particular period, is subject to
+successful negotiation of satisfactory contractual arrangements,
+and the timing of projects is subject to normal construction
+and other delays.  Therefore, it is possible that not all the 
+projects described above will be commenced or completed
+in fiscal year 1995, and it is possible that a portion of the 
+expenditures with respect to projects commenced during a
+fiscal year carry over to the next year.
+
+Financing and Liquidity
+
+     Although the Company's supermarket locations are
+leased, the Company makes substantial expenditures to  
+equip new and expanded supermarkets.  The cost to equip a
+new supermarket is approximately $2.3 million while the 
+cost to equip an expanded supermarket is approximately
+$1.7 million.  In addition, the Company makes substantial
+expenditures for distribution center facilities and equipment.
+The Company plans to finance its capital expenditures
+with funds provided by operations.  However, if an insufficient
+amount of funds is generated, the Company may
+obtain long-term financing or draw on short-term credit lines.
+The Company has $105.0 million in credit lines from financial
+institutions of which $93.4 million is available for future use.
+While these credit lines expire throughout fiscal year 1995, the
+Company expects the majority of these credit lines to be 
+extended annually as they are deemed necessary.
+
+    Working capital increased $5,415,000 to $54,926,000 
+to July 4, 1993 to July 2, 1994.  Additions to property and 
+equipment were $17,705,000 during fiscal 1994 and
+consisted primarily of purchases of fixtures and equipment
+for new and remodeled stores and equipment for distribution 
+center facilities.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<TEXT>
+
+
+                                                               EXHIBIT 21       
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                                              Percentage 
+                                                              of Voting
+                                                              Securities
+                                      Jurisdiction of          Owned By
+Name                                   Incorporation          Registrant
+___________________________         _____________________    ______________
+
+Supermarket Cigarette Sales, Inc.         Louisiana               100%
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM CONSOLIDATED
+FINANCIAL STATEMENTS FOR THE PERIOD ENDING JULY 2, 1994 AND IS QUALIFIED IN ITS
+ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUL-02-1994
+<PERIOD-END>                               JUL-02-1994
+<CASH>                                          15,378
+<SECURITIES>                                         0
+<RECEIVABLES>                                    9,475
+<ALLOWANCES>                                         0
+<INVENTORY>                                    105,663
+<CURRENT-ASSETS>                               132,546
+<PP&E>                                         261,772
+<DEPRECIATION>                                 138,643
+<TOTAL-ASSETS>                                 263,269
+<CURRENT-LIABILITIES>                           77,620
+<BONDS>                                         32,169
+<COMMON>                                            71
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                     136,229
+<TOTAL-LIABILITY-AND-EQUITY>                   263,269
+<SALES>                                      1,067,191
+<TOTAL-REVENUES>                             1,067,191
+<CGS>                                          796,364
+<TOTAL-COSTS>                                1,045,172
+<OTHER-EXPENSES>                                 4,161
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               4,298    
+<INCOME-PRETAX>                                 17,858
+<INCOME-TAX>                                     6,207
+<INCOME-CONTINUING>                             11,651
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                        (700)
+<NET-INCOME>                                    10,951
+<EPS-PRIMARY>                                     1.54
+<EPS-DILUTED>                                        0
+        
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

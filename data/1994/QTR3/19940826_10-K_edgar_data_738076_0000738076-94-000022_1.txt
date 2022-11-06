@@ -1,0 +1,3884 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ TMdeE1ed9r1GrlSrxHK8jrrZ6ZCYeda+AwBTGXzjoeBOyllG92Q5UoY6I1xG2HdG
+ ZwvkSucHTlsm0OjnjxWNhw==
+
+<IMS-DOCUMENT>0000738076-94-000022.txt : 19940928
+<IMS-HEADER>0000738076-94-000022.hdr.sgml : 19940928
+ACCESSION NUMBER:		0000738076-94-000022
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	19940531
+FILED AS OF DATE:		19940826
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			3COM CORP
+		CENTRAL INDEX KEY:			0000738076
+		STANDARD INDUSTRIAL CLASSIFICATION:	3577
+		IRS NUMBER:				942605794
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12867
+		FILM NUMBER:		94546545
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5400 BAYFRONT PLZ
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087645000
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>10KBODY FIRST TRY
+<TEXT>
+
+                                            SECURITIES AND
+EXCHANGE COMMISSION
+
+Washington, D. C. 20549
+
+
+FORM 10-K
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+OF 1934
+
+For the Fiscal Year Ended May 31, 1994        Commission File No. 0-12867
+
+                               3Com Corporation
+           (Exact name of registrant as specified in its charter)
+
+               California                          94-2605794
+    (State or other jurisdiction of             (I.R.S. Employer
+    incorporation or organization)             Identification No.)
+
+          5400 Bayfront Plaza
+        Santa Clara, California                       95052
+(Address of principal executive offices)            (Zip Code)
+
+Registrant's telephone number, including area code  (408) 764-5000
+
+Securities registered pursuant to Section 12(b) of the Act:  NONE
+
+Securities registered pursuant to Section 12(g) of the Act:
+Common Stock, no par value.
+
+Indicate by check mark whether the Registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the Registrant was required to
+file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.     Yes XX             
+
+Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 405 of Regulation S-K is not contained herein,
+and will not be contained, to the best of Registrant's knowledge,
+in definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  [  ]
+
+The aggregate market value of the Registrant's Common Stock held
+by non-affiliates on July 31, 1994 (based upon the average of the
+high and low sale prices of such stock as of such date) was
+$1,668,633,772.
+
+As of July 31, 1994, 32,289,110 shares of the Registrant's Common
+Stock were outstanding.
+
+The Registrant's definitive Proxy Statement for the Annual
+Meeting of Shareholders to be held on September 29, 1994 is
+incorporated by reference in Part III of this Form 10-K to the
+extent stated herein.
+
+
+                                   3Com Corporation
+                                      Form 10-K
+                 For the Fiscal Year Ended May 31, 1994
+                                   Table of Contents
+
+PART I
+  Item 1.    Business
+  Item 2.    Properties
+  Item 3.    Legal Proceedings
+  Item 4.    Submission of Matters to a Vote of Security Holders
+  Executive Officers of the Registrant
+
+PART II
+  Item 5.    Market for Registrant's Common Stock and Related Stockholder 
+             Matters
+  Item 6.    Selected Financial Data
+  Item 7.    Management's Discussion and Analysis of Financial Condition
+             and Results of Operations
+  Item 8.    Financial Statements and Supplementary Data
+  Item 9.    Changes in and Disagreements with Accountants on Accounting
+             and Financial Disclosure
+
+PART III
+  Item 10.   Directors and Executive Officers of 3Com
+  Item 11.   Executive Compensation
+  Item 12.   Security Ownership of Certain Beneficial Owners and Management
+  Item 13.   Certain Relationships and Related Transactions
+
+PART IV
+  Item 14.   Exhibits, Financial Statement Schedules, and Reports on Form 8-K
+  Exhibit Index
+  Signatures
+  Financial Statement Schedules
+
+
+3Com, LANplex, TokenLink, EtherLink, LinkBuilder, NETBuilder,
+NETBuilder II and CardBoard are registered trademarks of 3Com
+Corporation.  Transcend, AccessBuilder, FDDILink, SuperStack,
+Parallel Tasking, FMS, MSH, LinkSwitch, and 3ComFacts are
+trademarks of 3Com Corporation.  MicroChannel is a registered
+trademark of International Business Machines Corporation.  TROPIC
+is a trademark of National Semiconductor Corporation.  All other
+trademarks belong to their respective organizations.
+
+PART I
+
+ITEM 1.  Business
+
+     3Com Corporation (referred to herein as "3Com," "Registrant"
+or the "Company") was founded on June 4, 1979 and pioneered the
+networking industry.  The Company evolved from a supplier of
+discrete networking products to a supplier of networking systems
+for five types of connectivity environments: building/campus
+backbone, wide-area backbone, workgroup, remote office and
+personal office.  Today, 3Com is a Fortune 500 company offering
+customers a broad range of ISO 9000-compliant global data
+networking solutions that includes routers, hubs, remote access
+servers, switches and adapters for Ethernet, Token Ring, fiber
+distributed data interface (FDDI) and other high speed networks.
+The Company's products are distributed and serviced worldwide
+through 3Com and its partners: principally systems integrators,
+value-added resellers, national resellers and dealers,
+distributors and original equipment manufacturers.
+
+     3Com's name is derived from its focus on computer
+communication compatibility.  With its long-standing commitment
+to multi-vendor interoperability, the Company has been a leader
+in defining, shaping and promoting the growth of networking
+infrastructures that transmit data to all parts of the world
+quickly and efficiently.  Underlying this commitment is a focus
+on simplicity in the way we design and manufacture products, as
+well as in the way we work with customers; scalability of
+products to allow customers to purchase networking components
+that meet their requirements today, with the assurance that 3Com
+has cost-effective migration and upgrade paths as customers'
+networking needs change; and value by providing high-performance
+products, managed through a single, powerful network management
+application, that lower the overall cost of the network
+ownership.
+
+     During fiscal 1992 and 1993, 3Com focused on rebuilding its
+product portfolio with the introduction of new adapter, hub and
+internetworking platforms, retraining its sales force to sell
+connectivity systems and solutions, and expanding its global
+presence with new sales offices, service centers, and "parts
+banks" worldwide.  The acquisition of the data networking
+products business of U.K.-based BICC Group, plc (BICC) in January
+1992 strengthened the Company's position in the structured wiring
+hub market and expanded 3Com's position in the Europe.  In
+January 1993, the Company enhanced its Token Ring technology base
+with the acquisition of Star-Tek, Inc., a Massachusetts-based
+Token Ring hub manufacturer.  Further, in September 1993, the
+Company began full-scale operations at its 60,000 square foot
+manufacturing facility in Blanchardstown, Ireland.
+
+     During fiscal 1994, 3Com introduced its High Performance
+Scalable Networking (HPSN) architecture with Transcend network
+management, demonstrating the Company's ability to deliver
+complete connectivity systems with a full breadth of products,
+and providing customers with a framework for building and
+managing scalable, high-performance networking infrastructures.
+During the year, the Company enhanced its product offerings under
+HPSN with two strategic acquisitions:
+
+o    In January 1994, 3Com acquired Synernetics, Inc.
+(Synernetics), the Company's long-term development partner and
+the revenue leader in the local area network (LAN) switching
+market.  The switching products of Synernetics are marketed under
+the LANplex name and include the LANplex 5000/3GH and LANplex
+6000 switches.
+
+o    In February 1994, 3Com completed the purchase of Centrum
+Communications, Inc. (Centrum), an innovator in remote access
+internetworking technology.  The Centrum remote access servers
+for Ethernet and Token Ring networks are marketed under the 3Com
+trade name AccessBuilder.
+
+     The aggregate purchase price of the two acquisitions
+consisted of $140.0 million plus $3.3 million of costs attributed
+to the exchange of Synernetics options for 3Com options and $13.1
+million of costs directly attributable to the completion of the
+acquisitions.  Approximately $132.1 million of the aggregate
+purchase price represented in-process technology and was charged
+to the Company's operations during the third fiscal quarter of
+1994.
+
+     Additionally, in December 1993, the Company entered into a
+technology licensing agreement with Pacific Monolithics, Inc., a
+wireless communications developer, that will allow the Company to
+offer 10 megabits-per second (Mbps) wireless products for local
+area networks.  The cost of the license was $2.5 million,
+substantially all of which was charged to the Company's
+operations during the third fiscal quarter as purchased in-
+process technology.  Fiscal 1994 results included a $134.5
+million pre-tax charge to operations for the combined effect of
+purchased in-process technology related to the acquisitions and
+licensing agreement.
+
+     Also during the year, 3Com expanded the breadth and depth of
+its product offerings with new and enhanced adapter,
+internetworking and stackable hub products, extended its
+worldwide presence with sales offices in five additional
+countries, expanded its major accounts sales force and added new
+production lines at its manufacturing facilities in both the U.S.
+and Ireland.
+
+     3Com believes that its principal competitive advantages lie
+primarily in the depth and breadth of technologically innovative,
+industry-leading product it offers and a strong yet flexible
+business infrastructure.  The Company has strong brand
+recognition in Ethernet adapters, which we believe is
+transferable to other product and technology areas, as well as a
+leadership position in stackable networking systems, LAN
+switching, remote office and personal office internetworking
+platforms.  Additionaloly, 3Com believes its low-cost
+manufacturing, worldwide presence, flexible distribution
+strategy, and comprehensive service and support capabilities are
+allowing the Company to take advantage of market trends that are
+extending the reach, scope and performance of today's data
+networks.
+
+
+INDUSTRY SEGMENT INFORMATION
+
+     3Com operates in one industry segment as described above.
+
+
+PRODUCTS
+
+     3Com's High Performance Scalable Networking architecture
+with Transcend network management provides customers with a
+blueprint for building and managing networking infrastructures
+using both current and emerging technologies, and for cost-
+effectively migrating to higher performance networks using
+existing platforms.  HPSN defines five connectivity environments
+and delivers cost-effective, scalable systems solutions for each,
+using the full breadth of 3Com products.  HPSN encourages
+customers to build networks to meet their current business
+objectives, while offering the assurance that their networks will
+scale as they add more users and new applications and migrate to
+emerging high performance technologies such as 100 (Mbps)
+Ethernet and Asynchronous Transfer Mode (ATM).  The five types of
+connectivity environments defined by HPSN are:
+
+o    Workgroup.  Early data networks were installed as a means of
+connecting individual members of a workgroup to share files and
+other computing resources, such as printers, using Ethernet or
+Token Ring technology.  While this remains true today, the trend
+toward mission-critical applications and client/server topologies
+has created a need for more sophisticated workgroup connectivity
+with higher bandwidth capabilities, enhanced resilience, and a
+more powerful and flexible feature set.  3Com's industry-leading
+EtherLink, TokenLink and FDDILink adapters provide the desktop
+connection to the LAN, while 3Com LinkBuilder stackable and
+chassis-based hubs concentrate and redirect network traffic PCs,
+workstations and servers.  The SuperStack network system, which
+includes hubs, bridge/routers, switches and an SDLC converter for
+IBM SNA connectivity, allows network administrators to add
+functionality as needed and build in fault tolerance with an
+optional redundany power system.
+
+o    Building/Campus backbone.  As the number and complexity of
+workgroup networks has increased, the need for sophisticated
+inter- and intranetworking has led to the creation of building-
+and campus-wide "collapsed backbone" networks to transmit data
+quickly and efficiently within a single site.  Collapsed backbone
+networks condense network traffic from workgroup and floor-based
+hubs along the backplane of a single powerful device.  Working as
+collapsed backbone devices, 3Com's LANplex family of intelligent
+switches and NETBuilder II routers simplify wiring complexity,
+centralize management, boost performance and lower costs.
+Furthermore, the HPSN framework provides for an economical, step-
+by-step migration to even greater performance through 100 Mbps
+Ethernet and ATM using existing routing and switching platforms.
+
+o    WAN backbone. The WAN backbone is the nerve center for wide-
+area data communications.  3Com's high-performance NETBuilder II
+routers connect to wide-area resources ranging from leased lines
+and dial-up connections to packet-switched and digital telephone
+services.  Transcend applications deliver self-managing
+intelligence, putting wide-area bridge/router administration
+within the power of a centrally located manager.
+
+o    Remote Office.  The remote office is a specialized type of
+workgroup environment, one with all the connectivity needs of a
+workgroup located at the corporate headquarters, but because
+networking experts are scarce in the remote office, all products
+must have plug-and-play simplicity.  3Com's SuperStack system
+provides hubbing, switching, and routing in a single stackable
+system that meets the special needs of the remote office for
+simple, easy to maintain high-performance connectivity.  3Com's
+innovative Boundary Routing software, running on the NETBuilder
+Remote Office router "slice" of the SuperStack system, simplifies
+remote access to the corporate network and allows managers to
+maximize their resources and reduce expenses by consolidating
+complex operations at headquarters.  Further, the Transcend
+network management software centralizes the network management
+function as well.
+
+o    Personal Office. The current trend toward "virtual"
+corporations has resulted in widely dispersed teleworkers at home
+and in small offices.  There are also millions of business
+travelers and nomadic users with computers but no fixed network
+connections.  3Com's AccessBuilder remote access servers give
+these peripheral users simplified dial-up access to the network.
+Available for Ethernet and Token Ring networks, AccessBuilder
+offers higher performance and more flexibility than less
+sophisticated connection devices, and includes a superior suite
+of security measures to block unauthorized access.
+
+     3Com offers a broad range of connectivity products for the
+five environments, which can be grouped into two major
+categories:
+
+     Network Adapters:  Network adapters, also known as network
+interface cards, are add-in printed circuit boards that allow
+personal computers, laptop computers, workstations and personal
+digital assistance (PDAs) to connect to the local area network.
+3Com is the world's largest supplier of Ethernet adapters, with
+more than 11 million adapters installed worldwide.  In fiscal
+1994, adapters accounted for 57 percent of total sales and
+increased 31 percent from fiscal 1993 sales.  The increase in
+network adapter sales represented an increase in unit volume,
+partially offset by continuation of the industry-wide trend
+toward decreasing average selling prices.
+
+     In fiscal 1993, the Company began shipping its family of
+EtherLink III Parallel Tasking adapters, based on a 3Com-designed
+custom application-specific integrated circuit (ASIC).  Parallel
+Tasking is an innovative architecture that speeds data transfers
+by allowing separate tasks to be performed in parallel, resulting
+in higher overall adapter efficiency and performance than would
+otherwise be possible.  The Company has applied for patents on
+this technology.  In fiscal 1994, the Company introduced Ethernet
+PCMCIA adapters for laptop and other portable computers, further
+extending the EtherLink III family.  3Com's EtherLink III
+adapters include 16-bit ISA, 32-bit EISA, MicroChannel and Combo
+adapters as well as the recently introduced PCMCIA adapter.  All
+are designed around 3Com's custom ASIC, which results in products
+that are inherently more reliable, easier to install and
+configure, and less expensive to manufacture.
+
+     In addition to Ethernet adapters, 3Com offers Token Ring and
+FDDI adapters.  Based on the IBM-designed TROPIC chipset, 3Com's
+TokenLink III 16/4 family of ISA, EISA and MicroChannel adapters
+is designed to work seamlessly with IBM drivers and applications
+while offering enhanced installation and network management
+features.  In calendar 1993, its first full year of shipments,
+the TokenLink III adapters garnered 4.5 market share points.
+3Com's FDDILink family of adapters connects devices to the
+network via copper wiring and fiber at 100 Mbps.  When combined
+with the Company's FDDI Concentrator (hub), FDDILink adapters
+offer workstation and high-end PC users a cost-effective solution
+for high-bandwidth applications.  All 3Com adapters carry 3Com's
+standard adapter limited lifetime warranty.
+
+     Network Systems Products:  3Com's network systems products
+include hubs, internetworking bridge/routers, LAN switches and
+remote access servers.  When combined within the HPSN framework,
+they create a network infrastructure that delivers scalable, cost-
+effective solutions for each of the five connectivity
+environments.  Network systems sales represented 37 percent of
+total sales and increased 49 percent from fiscal 1993.  The
+increase was led primarily by LinkBuilder FMS stackable hubs, the
+high-performance NETBuilder II bridge/router and the LANplex
+family of switching products.  Similar to network adapters, the
+increase in systems product sales represented an increase in unit
+volume which was partially offset by a decrease in average
+selling prices.
+
+     Internetworking Products: 3Com's internetworking products
+include the high-performance NETBuilder II bridge/router for
+collapsed backbone and wide-area network environments and the
+NETBuilder Remote Office family of remote and access routers.
+Additionally, the AccessBuilder remote access server provides
+Ethernet and Token Ring dial-up connectivity for individual
+remote users.   The NETBuilder Remote Office family of
+bridge/routers supports Ethernet, Token Ring and Integrated
+Services Digital Network (ISDN) network technologies and can be
+operated as either conventional stand-alone routers or using
+3Com's Boundary Routing system.  Additionally, both the
+NETBuilder Remote Office family and the AccessBuilder remote
+access server are available as part of the SuperStack network
+system.
+
+     Shortly after the end of fiscal 1994, 3Com introduced the
+NETBuilder II MultiProcessor (MP) bridge/router, a high-density,
+high-performance router using a RISC multiprocessor design, which
+offers performance improvements.  The MP modules are backward
+compatible with earlier NETBuilder II 4- and 8-slot chassis,
+demonstrating 3Com's commitment to scalability and value through
+continued product enhancements that protect customers'
+investments in networking hardware.
+
+     LAN Switches:  LAN switches provide cost-effective, high-
+speed links between multiple network segments, simplifying
+network design and reducing network latency in client/server
+networks.  3Com offers a full range of LAN switches, from the
+high density LANplex 6000 to the floor-based LinkSwitch Ethernet-
+to-FDDI switch. The LinkSwitch can operate as a stand-alone
+switch, as a module for the LinkBuilder Multi-Service Hub (MSH)
+chassis-based hub, or as part of the SuperStack network system.
+
+     In July 1994, 3Com announced its Intelligent Switching
+Engine (ISE) custom ASIC.  Essentially a switch on a chip, ISE
+integrates field-proven hardware and software functions from
+today's LANplex products, which the Company believes will
+dramatically improve performance and reliability while reducing
+costs.  The Company plans to incorporate ISE into both existing
+and new switching products.
+
+     Hubs:  3Com designs, manufactures and markets a full range
+of Ethernet, Token Ring and FDDI hubs in either stackable or
+chassis-based configurations. The Company's stackable hubs,
+including the LinkBuilder FMS for Ethernet and Token Ring
+networks, provide users a highly reliable, cost effective
+solution for networking workgroups and remote offices.
+
+     In fiscal 1994, 3Com expanded its hub offerings with the 24-
+port LinkBuilder FMS stackable hub, the LinkBuilder FDDI
+workgroup hub and a re-engineered 12-port LinkBuilder TP.  In
+addition, the Company enriched its chassis hub, the LinkBuilder
+MSH, with Ethernet-to-FDDI switching, FDDI concentration and
+advanced Token Ring technology.  The powerful backplane of the
+LinkBuilder MSH supports Ethernet, Token Ring and FDDI
+connectivity today and ATM connectivity in the future.
+
+     Network Management:  In September 1993, 3Com introduced
+Transcend, a family of network management applications that
+represents a significant advance in simplified and logical
+management of local and wide area networks.  Using Transcend
+applications on the network management platform of their choice,
+network administrators are able to create logical groups of hubs,
+routers, servers and desktop devices, regardless of physical
+location, to obtain correlated management information and
+control.  To keep network administration down, Transcend products
+also leverage administrative resources by consolidating
+repetitive tasks, such as downloading router software, into a
+single command.
+
+     Other products include communication servers, which provide
+terminal-to-host connectivity for terminals and workstations over
+the network, protocol software and worldwide service and support
+programs.
+
+
+PRODUCT DEVELOPMENT
+
+      The Company's product development efforts are focused
+exclusively on its strategic product lines: adapters and network
+systems, including internetworking platforms, switches, hubs and
+network management.  3Com's ownership of core networking
+technologies creates opportunities to leverage its engineering
+investments and develop more integrated products for simpler,
+more innovative networking solutions for customers.   The Company
+plans to invest in emerging technologies for use in existing and
+future products, and as well as to improve and enhance existing
+products to extend their lifecycles, reduce manufacturing costs
+and increase functionality.  In addition to the development of
+custom ASICs to improve performance, increase reliability and
+reduce manufacturing costs, 3Com is  investing in the following
+areas:
+
+     o    100 Mbps Ethernet
+     o    Wireless local area network communications
+     o    Asynchronous Transfer Mode (ATM) capabilities
+     o    LAN switching
+     o    Integrated Services Digital Network (ISDN)
+     o    Enhanced connectivity in IBM environments
+     o    Remote access for single and mobile users
+
+     The industry in which the Company competes is subject to
+rapid technological developments, evolving industry standards,
+changes in customer requirements and frequent new product
+introductions and enhancements.  As a result, 3Com's success in
+part depends upon its ability, on a cost-effective and timely
+basis, to continue to enhance its existing products and to
+develop and introduce new products that take advantages of
+technological advances.  There can be no assurance that the
+Company will be able to successfully develop new products to
+address new industry transmission standards and technological
+changes or to respond to new product announcements by others or
+that such products will achieve market acceptance.
+
+     During fiscal 1992, 1993, and 1994, research and development
+expenses were $48.2 million, $64.3 million, and $76.5 million,
+respectively.
+
+
+MARKETS AND CUSTOMERS
+
+     3Com's customers are represented among the world's leading
+industries, including finance, health care, manufacturing,
+government, education, and service organizations. In fiscal 1994,
+the Company began targeting specific vertical markets, including
+health care, education, finance and government, through an
+expanded major accounts sales force.
+
+     Around the world, 3Com serves its customers through a
+variety of sales channels including direct and indirect channels.
+Indirect channels include systems integrators, value-added
+resellers, distributors, national dealers and resellers, and
+original equipment manufacturers (OEMs).  The Company's multi-
+channel sales strategy encourages broad market coverage, by
+allowing 3Com sales personnel to create demand for 3Com products
+while giving customers the flexibility to choose the most
+appropriate delivery option.
+
+     International Operations:  The Company distinguishes itself
+from many of its competitors with its dedicated research and
+development, manufacturing, sales and service organizations
+outside the United States.  3Com maintains sales offices in 21
+countries, including new offices opened in fiscal 1994 in Japan,
+Brazil, Mexico, South Africa and China.  Sales outside the United
+States continue to be the fastest growing segment of the
+Company's business and accounted for approximately 47 percent, 50
+percent and 52 percent of the Company's sales in fiscal 1992,
+1993 and 1994, respectively.  The Company primarily markets its
+products internationally through subsidiaries, sales offices and
+partnerships with local distributors in Europe, Canada,
+Asia/Pacific and Latin America.  (See Note 14 relating to
+geographic area information in the Notes to Consolidated
+Financial Statements in the Financial Statements Section (Item 8)
+of Part II.)
+
+     Customer Service:  Because global data networking
+infrastructures are becoming increasingly complex, customers
+require vendors to help them manage and support their networks as
+well as design and build them.  Additionally, as customers'
+networking purchases transition from point product to
+connectivity systems, a more solutions-oriented approach to
+service and support is required.  3Com recognized these trends
+early and invested in a comprehensive worldwide service and
+support organization.
+
+     Worldwide logistics include support and repair centers in
+the United States, dedicated service organizations at most
+subsidiaries, parts stock at more than 25 locations, and
+electronic bulletin boards throughout the world.  In addition to
+on-site training, the Company also provides computer-based
+courses that allow customers to learn networking technologies at
+their own pace in their own environments.  During fiscal 1994,
+the Company handled more than 300,000 direct support calls and
+more than 125,000 calls to the automated 3ComFacts fax-back
+systems and CardBoard electronic bulletin board.
+
+
+BACKLOG
+
+     3Com manufactures its products based upon its forecast of
+the demand of its customers worldwide and maintains inventories
+of finished products in advance of receipt of firm orders from
+its customers.  Orders are generally placed by the customer on an
+as-needed basis and products are usually shipped within one to
+four weeks after receipt of an order.  Such orders generally may
+be cancelled or rescheduled by the customer without significant
+penalty.  Accordingly, 3Com does not maintain a substantial
+backlog, and backlog as of any particular date may not be
+indicative of 3Com's actual sales in any succeeding period.
+
+
+MANUFACTURING AND SUPPLIERS
+
+     3Com's primary production activities are conducted at its
+Santa Clara, California and Blanchardstown, Ireland facilities.
+Purchasing, mechanical assembly, burn-in, testing, final
+assembly, and quality assurance functions are performed at both
+of these facilities.  The Company also manufactures certain
+produdts and subassemblies through subcontractors.  Over the past
+several years, the Company has been investing in automating its
+manufacturing capabilities, decreasing the costs and increasing
+the quality of both manufacturing design and production.  To meet
+increased demand for its global data networking products, in
+fiscal 1994 the Company added new automated production lines in
+both its California and Ireland plants.
+
+     The Company is committed to being an environmentally
+conscious manufacturer and pioneered implementation of a
+chlorofluorocarbon (CFC)-free semi-aqueous cleaning process at
+its California plant with DuPont and Corpane Corporations.  The
+same process is used at the Ireland facility and 3Com met its
+goal of being CFC-free by the end of calendar year 1993.
+
+     Components purchased by 3Com are generally available from
+multiple suppliers.  However, certain components may be available
+from sole sources.  The inability of 3Com to obtain certain
+components could require the Company to redesign  or delay
+shipments of several of its data networking products.  The
+Company has sought to establish close relationships with sole-
+source suppliers and/or to build up inventory of such components;
+however, there can be no assurance that production will not be
+interrupted due to the unavailability of components.  3Com
+believes that its inventory levels of these components, combined
+with finished components held by the Company's suppliers, are
+adequate for its presently forecasted needs.
+
+COMPETITION
+
+     Data networking is an emerging field within the information
+systems industry encompassing both on-premises (e.g., desktop
+connectivity devices, internetworking platforms and wiring hubs)
+and off-premises (e.g., wide-area networking) technologies.  3Com
+participates exclusively in designing, manufacturing and
+marketing on-premises equipment.  The Company's primary
+competitors are often single product companies who typically
+compete in one segment of the on-premises sector of the data
+networking market.  These companies are using their resources and
+technical expertise to improve and expand their product lines in
+an effort to gain market share.  Several are extending their
+product offerings beyond a single market segment and pursue
+strategies more closely resembling 3Com's global data networking
+strategy.  The industry recently has witnessed a wave of merger,
+acquisition and strategic partnering activity as many of these
+companies seek to provide broader networking solutions.
+
+     Network Adapters:  The market for network adapters is highly
+competitive, with companies offering products that support a
+range of Ethernet, Token Ring and FDDI media.  Principal
+competitors in the adapter market include Intel Corporation,
+Standard Microsystems Corporation, IBM Corporation, Madge N.V.,
+Olicom A/S, and Xircom.  According to International Data
+Corporation (IDC), a leading market research firm, the Company
+gained seven market share points in calendar 1993 and is the
+worldwide leader in Ethernet network adapters with 29 percent
+market share.  This gain reflects the strength of the Company's
+technology, strong distribution franchise and commitment to
+increasing manufacturing efficiencies.  Nonetheless, competitors
+are likely to continue to use their resources and technical
+expertise to continue to improve products and drive down prices
+in an effort to gain market share.
+
+     Network Systems Products:  Competition in the network
+systems business, formerly characterized by  niche-based
+competitors focused on a single industry segment, is shifting
+toward more broad-based suppliers offering multiple product
+lines.  This has been achieved through mergers and acquistions,
+through joint marketing agreements, and through internally
+developed products.  For example, Cisco Systems, which had
+focused exclusively on routers, is now offering customers both
+routers and switches and has formed alliances with both Cabletron
+Systems and Chipcom Corporation, two, a hub vendors.  SynOptics,
+a hub vendor, and Wellfleet Communications, a router vendor,
+recently announced a merger agreement.   Additionally, Cisco
+Systems, SynOptics Communications, Chipcom Corporation and others
+have announced acquisitions of smaller networking companies,
+Crescendo Communications, Coral Networks, and David Systems,
+respectively, in an effort to strengthen their positions in the
+emerging and fast-growing markets for LAN switching, remote
+access, and high-speed networking.  This industry consolidation,
+and the convergence of hub, switching and routing technologies on
+single platforms, will likely continue, intensifying competition
+among a small group of companies with broad product offerings.
+
+     The Company believes it competes favorably in the data
+networking market by providing customers with a full breadth of
+products based on leading technologies, which when combined under
+the HPSN framework, address connectivity needs for each of the
+connectivity environments and provide cost-effective migration
+paths to higher performance technologies.  Additionally, 3Com
+products typically offer excellent price-performance and enjoy a
+reputation for both high quality and reliability.  The Company
+also believes its multichannel sales strategy and comprehensive
+service and support programs will continue to enhance its
+success.
+
+
+PATENTS, LICENSES AND RELATED MATTERS
+
+     The Company relies on U.S. and foreign patents, copyright,
+trademark and trade secrets to establish and maintain proprietary
+rights in its technology and products.  The Company has an active
+program to file applications for and obtain patents in the United
+States and in selected foreign countries where a potential market
+for the Company's products exists.  The Company's general policy
+has been to seek patent protection for those inventions and
+improvements likely to be incorporated in its products or
+otherwise expected to be of value.  The Company has been issued
+16 utility patents and one design patent in the U.S., and has
+been issued two foreign patents.  Numerous other patent
+applications are currently pending which relate to the Company's
+research and development, including U.S. and foreign patent
+applications related to the Company's LAN Security Architecture,
+Boundary Routing internetworking technology, and Parallel Tasking
+Ethernet adapter inventions.
+
+     There can be no assurance that any of these patents would be
+upheld as valid if litigated.  While the Company believes that
+its patents and applications have value, it also believes that
+its competitive position depends primarily on the innovative
+skills, technological expertise and management abilities of its
+employees.
+
+     The Company has been granted licenses by others, including a
+fully paid, perpetual, non-exclusive license to a patent held by
+Xerox covering a portion of the Ethernet technology.
+
+     The Company has registered 36 trademarks in the United
+States and has registered 11 trademarks in one or more of 33
+foreign countries.  Numerous applications for registration of
+domestic and foreign trademarks are currently pending.
+
+     Many of the Company's products are designed to include
+software or other intellectual property licensed from third
+parties.  The Company actively seeks to license software that
+promotes the compatibility of its products with industry
+standards, including standard protocols and architectures.  The
+loss of rights in software or other intellectual property
+licensed from a third party and designed into a particular
+product might disrupt or delay the Company's distribution of that
+product.  While it may be necessary in the future to seek or
+renew licenses relating to various aspects of its products, the
+Company believes that, based upon past experience and standard
+industry practice, such licenses generally could be obtained on
+commercially reasonable terms.
+
+
+EMPLOYEES
+
+     As of May 31, 1994, 3Com had 2,306 full-time employees, of
+whom 510 were employed in engineering, 738 in sales, marketing
+and customer service, 729 in manufacturing, and 329 in finance
+and administration.  None of 3Com's employees is represented by a
+labor organization and 3Com considers its employee relations to
+be excellent.
+
+
+ITEM 2.  Properties
+
+     3Com's headquarters facility consists of a 495,000 square
+foot office, manufacturing and research and development campus in
+Santa Clara, California.  The facility is leased from a limited
+partnership in which a subsidiary of 3Com is a partner.  The
+lease expires in January 2000 with options to renew for up to 15
+years.  3Com also has an option to purchase the facility.
+
+     3Com leases approximately 50,000 square feet of office space
+near its headquarters site for its Customer Services Operations.
+The facility is scheduled to be occupied in September 1994.  The
+lease expires in August 1997.  3Com has two one-year renewals to
+extend the lease.
+
+     As a result of its acquisition of Synernetics, Inc., 3Com
+leases 30,000 square feet of office, manufacturing and
+distribution space in North Billerica, Massachusetts.  The lease
+expires in March 1995 with an option to renew for an additional 3
+years.  3Com also leases a 30,000 square foot office,
+manufacturing and distribution facility in Northboro,
+Massachusetts for its Star-Tek Division.  The lease expires in
+March 1996 with an option to renew for an additional 3 years.
+
+     3Com leases several facilities in England including a 47,000
+foot manufacturing and research and development facility in Hemel-
+Hempstead, Hertfordshire.  The lease expires in December 1996.
+The Company also leases 13,000 square feet of office space in
+Bourne End, Buckinghamshire.  The lease expires in December 1996.
+3Com's European headquarters consists of 17,000 square feet of
+office space in Marlow-on-Thames, Buckinghamshire.  The lease
+expires in December 2013.
+
+     In July 1992, 3Com Ireland, a wholly owned subsidiary of the
+Company, completed, occupied and began operations in its
+Blanchardstown, Ireland manufacturing facility.  The 60,000
+square foot facility, including approximately 9.5 acres of land,
+is owned by 3Com Ireland which also has an option to purchase an
+additional 3.5 acres of land adjoining the facility.
+
+     3Com also leases various sales and service offices
+throughout the United States, Canada, Europe, Australia, Latin
+America, and Asia.  All of 3Com's facilities are well maintained
+and are adequate to conduct 3Com's current business.
+
+     In July 1994, the Company signed a five-year lease for
+225,000 square feet of office and manufacturing space to be built
+on land adjacent to its existing headquarters in Santa Clara.
+The Company estimates that it will commence occupancy of portions
+of the facility in early fiscal 1996 but lease payments are
+required to begin no later than April 1996.
+
+
+ITEM 3.  Legal Proceedings
+
+     None.
+
+
+ITEM 4.  Submission of Matters to a Vote of Security Holders
+
+     None.
+
+
+Executive Officers of the Registrant
+
+     The following table lists the names, ages and positions held
+with the Registrant of all executive officers of the Registrant.
+There are no family relationships between any director or
+executive officer and any other director or executive officer of
+the Registrant.  Executive officers serve at the discretion of
+the Board of Directors.
+
+     Name                                 Age     Position
+
+     Eric A. Benhamou             39       Chairman, President
+                                           and Chief Executive Officer
+
+     Debra J. Engel               42       Vice President,
+                                           Corporate Services
+
+     Robert J. Finocchio, Jr.     43       Executive Vice
+                                           President and General
+                                           Manager,Network Systems
+                                           Operations
+
+     Ralph B. Godfrey             54      Vice President, Channel
+                                          Sales-Americas
+
+     John H. Hart                 48      Vice President and
+                                          Chief Technical Officer
+
+     Richard W. Joyce             38      Vice President, Sales
+                                          Europe and Asia/Pacific Rim
+
+     Alan J. Kessler              37      Vice President,
+                                          Systems Sales-Americas
+
+     Christopher B. Paisley       42      Vice President, Finance
+                                          and Chief Financial Officer
+
+     Janice M. Roberts            38     Vice President, Marketing
+
+     Douglas C. Spreng            50     Vice President and
+                                         General Manager, Network
+                                         Adapter Division
+
+     Eric A. Benhamou has been the Company's President and Chief
+Executive Officer since April 1990 and September 1990,
+respectively.  Mr. Benhamou became Chairman of the Board of
+Directors of the Company in July 1994.  Mr. Benhamou served as
+the Company's Chief Operating Officer from April 1990 through
+September 1990.  From October 1987 through April 1990, Mr.
+Benhamou held various general management positions within the
+Company.  Prior to that, Mr. Benhamou was one of the founders of
+Bridge Communications, Inc., in September 1981, and held various
+executive positions in that company in the field of engineering
+and product development, most recently as Vice President of
+Engineering, until that company merged with 3Com in September
+1987.  Mr. Benhamou serves as a Director of Cypress
+Semiconductor, Inc.  Mr. Benhamou is also a member of the Board
+of Directors of Smart Valley, Inc., and serves as a member of the
+Board of Trustees of the Leavy School of Business, Santa Clara
+University.
+
+     Debra J. Engel has been Vice President, Corporate Services
+since March 1990.  From the time Ms. Engel joined the Company in
+November 1983 until March 1990, she was Vice President, Human
+Resources.  Prior to that, she was with Hewlett-Packard Company
+for seven years, most recently as Corporate Staffing Manager at
+Hewlett-Packard's Corporate Headquarters.
+
+     Robert J. Finocchio, Jr. has been Executive Vice President
+and General Manager, Network Systems Operations since June 1993.
+From January 1990 through May 1993, Mr. Finocchio served as
+Executive Vice President, Field Operations.  Mr. Finocchio joined
+the Company in December 1988 as Vice President of Sales,
+Marketing and Services, a position he held through January 1990.
+Prior to joining the Company, Mr. Finocchio was with Rolm, Inc.
+for nine years, where he held various executive positions in
+sales and service.  Most recently he was Vice President of Rolm
+Systems Marketing.
+
+     Ralph B. Godfrey has been Vice President, Channel Sales-
+Americas since June 1993.  Mr. Godfrey joined the Company in June
+1990 as Vice President of 3Com USA, a position he held through
+May 1993.  Prior to joining the Company, Mr. Godfrey was with
+Unisys, Inc. for two years, where he held several executive
+positions in sales, most recently as President of the Value-Added
+Marketing Division.  Prior to Unisys, Mr. Godfrey was with
+Hewlett-Packard Company for 20 years where he held several field
+sales management positions, the most recent as National Sales
+Manager for Business Systems.
+
+     John H. Hart has been Vice President and Chief Technical
+Officer since joining the Company in September 1990.  Prior to
+joining the Company, Mr. Hart worked for Vitalink Communications
+Corporation for seven years, where he held various executive
+positions in product engineering and development.  Mr. Hart's
+final position with Vitalink was Vice President of Network
+Products.
+
+     Richard W. Joyce has been Vice President, Sales Europe and
+Asia/Pacific Rim (APR) since June 1993.  Since January 1990, Mr.
+Joyce has also served as President, 3Com Europe Limited.  Mr.
+Joyce joined the Company in November 1987 as Sales Manager of
+3Com (UK) Limited, a position he held until September 1988.  From
+September 1988 until January 1990, Mr. Joyce served as Managing
+Director of 3Com (UK) Limited.  Most recently prior to joining
+the Company, Mr. Joyce held the position of Managing Director
+Europe for State Street Trade Development Corporation from 1985
+through 1987.  Prior to this, Mr. Joyce held several different
+positions with a variety of data networking and communications
+companies.
+
+     Alan J. Kessler has been Vice President, Systems Sales-
+Americas since June 1993.  From May 1991 through May 1993, Mr.
+Kessler served as Vice President and General Manager, Network
+Systems Division.  From April 1990 until May 1991, Mr. Kessler
+served as Vice President and General Manager, Distributed Systems
+Division.  Previously, he served as Product Marketing Manager of
+the Distributed Systems Division from November 1988 through April
+1990 and as Product Line Manager from October 1985 through
+November 1988.
+
+     Christopher B. Paisley has served as the Company's Vice
+President, Finance and Chief Financial Officer since September
+1985.  Prior to joining the Company, Mr. Paisley was Vice
+President, Finance of Ridge Computers from May 1982 to September
+1985.  Previously, Mr. Paisley was employed by Hewlett-Packard
+Company for five years in a variety of accounting and finance
+positions.
+
+     Janice M. Roberts has been Vice President, Marketing since
+June 1992, and has also served as General Manager, Personal
+Office Division since February 1994.  From February 1992 until
+June 1992, Ms. Roberts was Vice President and General Manager of
+the Premises Distribution Division.  During the period January
+1989 to February 1992, Ms. Roberts served as Director of BICC
+Technologies Limited and President of BICC Technologies, Inc. and
+BICC Communications, Inc.  She was also Chairman and Managing
+Director of BICC Data Networks Limited.  From December 1986
+through January 1989, Ms. Roberts was Manager of Sales and
+Marketing of STC Components Ltd. located in Harlowe, United
+Kingdom.
+
+     Douglas C. Spreng has been Vice President and General
+Manager of the Company's Network Adapter Division since March
+1992.  Prior to joining the Company, Mr. Spreng was President and
+Chief Operations Officer of Domestic Automation Company, a
+private communications system start-up company based in San
+Carlos, California.  Previously, Mr. Spreng spent 23 years with
+Hewlett-Packard Company (H-P) in a variety of key marketing,
+manufacturing and general management positions, including General
+Manager of H-P's Commercial Systems Group.  Most recently he
+served as General Manager of H-P's Manufacturing Applications
+Group.
+
+
+PART II
+
+ITEM 5.  Market for Registrant's Common Stock and Related
+Stockholder Matters
+
+   Fiscal 1994       High       Low     Fiscal 1993     High      Low
+
+First Quarter      $29 1/4    $19 5/8   First Quarter   $13 3/8  $ 9 5/8
+Second Quarter      37         24 1/8   Second Quarter   24       11 1/4
+Third Quarter       63 1/4     35 3/8   Third Quarter    34 5/8   21 3/8
+Fourth Quarter      63 3/4     46 7/16  Fourth Quarter   40       25 7/8
+
+     3Com Corporation common stock has been traded in the over-
+the-counter market under the symbol COMS since the company's
+initial public offering on March 21, 1984.  The preceding table
+sets forth the high and low sales prices as reported on the over-
+the-counter Nasdaq Stock Market System during the last two years.
+As of May 31, 1994, the company had approximately 1,240
+shareholders of record.  3Com has not paid and does not
+anticipate it will pay cash dividends on its common stock.  Also
+see Note 10 of Notes to Consolidated Financial Statements.
+
+     The current financial information does not reflect a two-for-
+one split of its common stock that was effective as of close of
+business on August 16, 1994.  The common stock will begin trading
+at the split value on September 1, 1994.
+
+ITEM 6.  Selected Financial Data
+
+     The following selected financial information has been
+derived from the Consolidated Financial Statements that have been
+audited by Deloitte & Touche LLP, independent auditors.  The
+information set forth below is not necessarily indicative of
+results of future operations, and should be read in conjunction
+with "Management's Discussion and Analysis of Financial Condition
+and Results of Operations" and the consolidated financial
+statements and related notes thereto included elsewhere in this
+Form 10-K.
+
+                                       Years ended May 31,
+(Dollars in thousands, except per share and employee data)
+                  1994         1993          1992          1991        1990
+
+Sales             $826,995   $617,168      $423,801      $413,239    $430,283
+Net income (loss)  (28,694)    38,561         7,958       (23,831)     23,229
+Net income (loss)
+    per share:
+      Primary        (0.92)      1.22          0.27         (0.79)       0.75
+      Fully-diluted  (0.92)      1.20          0.26         (0.79)       0.75
+
+Total assets      $444,343   $367,578      $298,306      $275,056    $298,002
+Working capital    198,543    196,231       144,564       149,930     173,376
+Long-term
+ obligations         1,058      1,134         7,807         8,128         834
+Retained earnings   61,326    103,163        71,354        73,206     113,525
+Shareholders' 
+ equity            280,756    258,263       202,425       193,667     235,412
+
+Number of 
+ employees           2,306      1,971         1,963         1,731       2,008
+
+
+     Notes:  Net loss for fiscal 1994 included a charge of
+approximately $134.5 million ($3.84 per share) for purchased in-
+process technology (see Notes 3 and 4 to the consolidated
+financial statements) and a gain of $17.7 million ($.34 per
+share) on the sale of an investment.  Net income for fiscal 1993
+included a charge of approximately $1.3 million ($.04 per share)
+for non-recurring items (see Note 5 to the consolidated financial
+statements).  Net income for fiscal 1992 included a charge of
+approximately $10.4 million ($.30 per share) for purchased in-
+process technology (see Note 3 to the consolidated financial
+statements).  Net loss for fiscal 1991 included a charge of
+approximately $67.0 million ($1.43 per share) for restructuring
+costs.  Net income for fiscal 1990 included a charge of
+approximately $2.5 million ($.05 per share) accrued for the
+relocation in fiscal 1991 of the Company's corporate facilities.
+
+
+ITEM 7.  Management's Discussion and Analysis of Financial
+Condition and Results of Operations
+
+     The following discussion should be read in conjunction with
+the Consolidated Financial Statements and Notes thereto.
+
+Acquisitions
+
+During the fiscal year ended May 31, 1994, 3Com Corporation
+enhanced its High Performance Scalable Networking architecture
+with two strategic acquisitions (see Note 3 of Notes to
+Consolidated Financial Statements).  The Company completed the
+acquisitions of Synernetics, Inc. ("Synernetics"), a market
+leader in LAN switching products, on January 14, 1994, and
+Centrum Communications, Inc. ("Centrum"), an innovator of remote
+access products, on February 2, 1994.  Both acquisitions were
+accounted for as purchases. The aggregate purchase price
+consisted of $140.0 million plus $3.3 million of costs attributed
+to the exchange of Synernetics options for 3Com options and $13.1
+million of costs directly attributable to the completion of the
+acquisitions. Approximately $132.1 million of the aggregate
+purchase price represented in-process technology and was charged
+to the Company's operations during the third fiscal quarter of
+1994.  In December 1993, the Company also entered into a
+technology licensing agreement with Pacific Monolithics, Inc., a
+developer of wireless communications (see Note 4 of Notes to
+Consolidated Financial Statements).  The cost of the license
+agreement was $2.5 million, substantially all of which was
+charged to the Company's operations during the third fiscal
+quarter as purchased in-process technology.  Fiscal 1994 results
+included a $134.5 million pre-tax charge to operations for the
+combined effect of purchased in-process technology related to the
+acquisitions and the license agreement.  The Company's
+consolidated results of operations for the fiscal year ended May
+31, 1994 include the operating results of Synernetics and Centrum
+from the respective dates of acquisition.
+
+     In fiscal 1993, 3Com acquired Star-Tek, Inc. ("Star-Tek"), a
+company specializing in Token Ring technology (see Note 3 of
+Notes to Consolidated Financial Statements), in a pooling-of-
+interests transaction.  References to the Company herein refer to
+3Com Corporation and its subsidiaries.
+
+Results of Operations
+
+Orders for the Company's products totaled $819.5 million in
+fiscal 1994, an increase of 31 percent from $626.4 million in
+fiscal 1993.  Fiscal 1992 orders were $422.3 million.  Fiscal
+1994 sales increased 34 percent to $827.0 million from $617.2
+million in fiscal 1993.  This followed a 46 percent increase in
+sales in fiscal 1993 from fiscal 1992 sales of $423.8 million.
+
+     The Company believes that the increase in fiscal 1994 orders
+and sales from those of fiscal years 1993 and 1992 reflects the
+actions the Company has taken during the past years to establish
+itself as a leader in the emerging global data networking
+environment.  In addition to the acquisitions of Synernetics and
+Centrum in fiscal 1994 and Star-Tek in fiscal 1993, significant
+actions taken by the Company included acquiring the data
+networking products business of U.K.-based BICC Group, plc
+("BICC") in fiscal 1992, formulating the Company's High
+Performance Scalable Networking architecture to meet the demands
+of growing networks and advanced network applications, and
+opening new markets in Latin America, Asia and Europe.
+Furthermore, general market strength in the data networking
+market, rapid growth in sales outside the U.S., revenues from
+sales of key data networking products such as the EtherLink III
+Parallel Tasking network adapter, the NETBuilder II bridge/router
+and the LinkBuilder FMS stackable hub, and the Company's ability
+to deliver complete data networking solutions for different
+connectivity environments also contributed to increased sales.
+Revenue from businesses acquired during the year did not account
+for a material portion of the year-over-year increase.  Sales
+from products introduced in the last 12 months represented 32
+percent of sales in fiscal 1994, compared to 48 percent of total
+sales in fiscal 1993 as several high volume products such as the
+EtherLink III network adapter and LinkBuilder FMS stackable hub
+met their one-year anniversary in the first half of fiscal 1994.
+
+     Sales of network adapters in fiscal 1994 represented 57
+percent of total sales and increased 31 percent from fiscal 1993
+sales.  Sales of network adapters in fiscal years 1993 and 1992
+represented 58 percent and 57 percent of total sales,
+respectively.  The increase in network adapter sales represented
+an increase in unit volume partially offset by continuation of
+the industry-wide trend toward decreasing average selling prices
+and a shift in demand towards the lower-priced EtherLink III
+network adapter.  The increase in unit volume resulted from sales
+of the EtherLink III and the TokenLink III network adapters.
+
+     Sales of systems products (internetworking, hub and
+switching products) in fiscal 1994 represented 37 percent of
+total sales and increased 49 percent from fiscal 1993.  This
+followed an 84 percent increase in system sales in fiscal 1993
+from fiscal 1992.  The increase was led primarily by the
+LinkBuilder FMS stackable hub, the high-performance NETBuilder II
+bridge/router and the LANplex family of switching products.
+Similar to network adapters, the increase in systems products
+sales represented an increase in unit volume which was partially
+offset by a decrease in average selling prices.  During the year,
+the industry has experienced a trend towards demand for fully
+functional, lower cost, lower price hubs and routers, such as
+3Com's family of LinkBuilder stackable hubs and NETBuilder remote
+office products.
+
+     Sales of other products (terminal servers, customer service,
+protocols, operating systems, file servers and other products)
+represented six percent of fiscal 1994 sales and continued to
+decrease from levels in fiscal 1993 and fiscal 1992.
+
+     Sales outside of the United States comprised 52 percent of
+total sales in fiscal 1994 compared to 50 percent in fiscal 1993
+and 47 percent in fiscal 1992.  The growth of international sales
+was particularly strong in Europe and the Latin America region in
+fiscal 1994.  The Company believes that the increase in
+international sales reflected the same factors that affect the
+Company as a whole, including the results of the Company's
+continued expansion globally, continued increases in revenue from
+the data networking products acquired from U.K.-based BICC, the
+worldwide expansion of service and support programs, and the
+opening of new sales offices.
+
+     Cost of sales as a percentage of sales was 49.1 percent in
+fiscal 1994, compared to 51.9 percent in fiscal 1993 and 52.9
+percent in fiscal 1992.  The 2.8 percentage point improvement in
+gross margin in fiscal 1994 primarily resulted from improved
+efficiency of manufacturing operations, a favorable shipment mix
+with higher volume shipments of the lower-cost and higher-margin
+EtherLink III network adapter, lower freight and duties which
+resulted from an increase in the volume of products manufactured
+in the Ireland plant, and reduction in product material costs.
+The 1.0 percentage point improvement in gross margin in fiscal
+1993 from fiscal 1992 was due primarily to a favorable shipment
+mix of EtherLink III network adapters, as well as LinkBuilder FMS
+and LinkBuilder ECS hub products.  The trend noted above towards
+demand for lower cost, lower price systems products allows the
+Company to further leverage its manufacturing infrastructure.
+
+     Total operating expenses in fiscal 1994 were $418.1 million
+compared to $235.9 million in fiscal 1993 and $187.8 million in
+fiscal 1992.  Excluding non-recurring charges, operating expenses
+increased $49.1 million or 21 percent from fiscal 1993 to fiscal
+1994, but decreased as a percentage of sales from 38.0 percent of
+sales in fiscal 1993 to 34.3 percent of sales in fiscal 1994.
+The increase in operating expenses from fiscal 1993 reflected
+increased selling costs associated with higher sales, the cost of
+developing and promoting the Company's systems products,
+increased cooperative advertising expenses, and growth in the
+number of employees to support the higher volume of business.
+Research and development expenses as a percentage of sales in
+fiscal 1994 decreased from fiscal 1993 and 1992, but increased in
+absolute dollars.  The increase in spending reflected the
+Company's continued commitment to develop and introduce high
+quality, innovative products.  Operating expenses increased $57.1
+million or 32 percent from fiscal 1992 to fiscal 1993, excluding
+non-recurring charges.  The increase in operating expenses
+reflected the cost of developing and promoting new products, and
+growth in the number of employees and spending due to the
+acquisition of the data networking products business of BICC in
+January 1992.
+
+Summary of Operating Expenses
+
+                      Fiscal    Percent     Fiscal   Percent  Fiscal  Percent
+(Dollars in thousands) 1994     of Sales    1993     of Sales 1992    of Sales
+
+Sales and marketing $171,799    20.8%      $137,021  22.2%    $97,997  23.1%
+Research and
+  development         76,467     9.2         64,346  10.4      48,220  11.4
+General and           35,379     4.3         33,176   5.4      31,190   7.4
+  administrative
+Non-recurring charges:
+   Purchased in-process
+      technology     134,481    16.3             -    -        10,404   2.4
+   Non-recurring 
+    items                 -      -            1,316   0.2          -     -
+
+Total operating
+  expenses           418,126    50.6        235,859  38.2     187,811  44.3
+
+Total operating expenses
+  excluding non-
+  recurring charges $283,645   34.3%       $234,543  38.0%   $177,407  41.9%
+
+
+     In the third quarter of fiscal 1994, the Company recorded a
+$134.5 million pre-tax charge to operations for the combined
+effect of purchased in-process technology related to the
+acquisitions of Synernetics and Centrum and the technology
+license agreement with Pacific Monolithics, Inc.  Fiscal 1993
+results included a non-recurring charge of $1.3 million which
+consisted of the net cost of a litigation settlement of $3.6
+million, merger costs of $1.0 million related to the acquisition
+of Star-Tek, offset by a reduction in accrued restructuring costs
+of $3.3 million based on revised estimates of future costs.
+Fiscal 1992 results included a $10.4 million pre-tax charge to
+operations for purchased in-process technology related to the
+acquisition of the data networking products business of BICC.
+
+     Other expenses (net) were $1.2 million in fiscal 1994,
+compared to $0.7 million in fiscal 1993 and $0.3 million in
+fiscal 1992.  The increase in other expenses (net) in fiscal 1994
+from fiscal 1993 resulted primarily from a higher provision for
+doubtful accounts partially offset by more favorable foreign
+exchange results and higher interest income.  The increase in
+other expenses (net) in fiscal 1993 from fiscal 1992 resulted
+primarily from lower interest income and higher foreign exchange
+costs, partially offset by a lower provision for doubtful
+accounts.
+
+     The Company provided $48.2 million for income taxes in
+fiscal 1994 on income before income taxes of $19.5 million
+because a significant portion of the purchased in-process
+technology charge was not tax deductible.  Excluding the effect
+of the purchased in-process technology charge, the effective tax
+rate would have been 35.0 percent.  The Company's effective tax
+rate in fiscal 1993 was 36.0 percent, as compared to 43.0 percent
+in fiscal 1992.  In fiscal 1992, as in fiscal 1994, a portion of
+the purchased in-process technology charge was not tax
+deductible, which increased the effective tax rate.
+
+     Net loss for fiscal 1994 was $28.7 million, or $0.92 per
+share, compared to net income for fiscal 1993 of $38.6 million,
+or $1.20 per share.  Net loss for fiscal 1994 included the
+aforementioned $134.5 million pre-tax charge associated with
+purchased in-process technology, a $17.7 million pre-tax gain
+from the sale of the Company's investment in Madge N.V. and a
+$1.2 million tax benefit due to retroactive changes and the
+effect of changes in federal statutory rates of the Revenue
+Reconciliation Act of 1993.  Excluding these one-time charges and
+gains, the Company would have realized net income of $86.9
+million, or $2.54 per share in fiscal 1994.  Excluding the effect
+of non-recurring items in fiscal 1993, the Company would have
+realized net income of $39.8 million, or $1.24 per share.  Net
+income for fiscal 1992 was $8.0 million, or $0.26 per share.
+Excluding the effect of the purchased in-process technology
+charge in fiscal 1992, the Company would have realized net income
+of $17.1 million, or $0.56 per share.
+
+Business Environment and Risk Factors
+
+The Company's future operating results may be affected by various
+trends and factors which the Company must successfully manage in
+order to achieve favorable operating results.  In addition, there
+are trends and factors beyond the Company's control which affect
+its operations.  Such trends and factors include adverse changes
+in general economic conditions, governmental regulation or
+intervention affecting communications or data networking,
+fluctuations in foreign exchange rates, and other factors listed
+below.  The data networking industry has become increasingly
+competitive, and the Company's results may be adversely affected
+by the actions of existing or future competitors.  Such actions
+may include the development or acquisition of new technologies,
+the introduction of new products, the assertion by third parties
+of patent or similar intellectual property rights, and the
+reduction of prices by competitors to gain or retain market
+share.  Industry consolidation or alliances may also affect the
+competitive environment.
+
+     The market for the Company's products is characterized by
+rapidly changing technology.  An unexpected change in one or more
+of the technologies affecting data networking could have a
+material adverse effect on the Company's operating results.  For
+instance, a large portion of the Company's revenues is comprised
+of sales of products based on the Ethernet technology.  The
+Company's operating results could be adversely affected if there
+is an unexpected change in such technology or if the Company does
+not respond timely and effectively to expected changes.  The
+Company is engaged in research and development activities in
+certain emerging high-speed technologies, such as the 100 Mbps
+Ethernet, ATM and FDDI.  If the industry standardizes on high-
+speed technologies which are different from the technology in
+which the Company has invested, this may have a material adverse
+effect on the Company's ability to compete in the marketplace.
+While the Company continues to introduce new products and
+technology to the marketplace, the success of the new products is
+dependent on many factors, including timely introduction and
+market acceptance, the Company's ability to manage the risks
+associated with product transitions, the Company's ability to
+manage future inventory levels in line with anticipated product
+demand and to manufacture its products in appropriate quantities
+to meet anticipated demand.
+
+     Some key components of the Company's products are currently
+available only from single sources.  There can be no assurance
+that in the future the Company's suppliers will be able to meet
+the Company's demand for such components in a timely and cost
+effective manner.  The Company's operating results and customer
+relationships could be adversely affected by either an increase
+in prices for, or an interruption or reduction in supply of, any
+key components.
+
+     The market price of the Company's common stock has been, and
+may continue to be, extremely volatile.  Factors such as new
+product announcements by the Company or its competitors,
+quarterly fluctuations in the Company's operating results and
+general conditions in the data networking market may have a
+significant impact on the market price of the Company's common
+stock.  These conditions, as well as factors which generally
+affect the market for stocks of high technology companies, could
+cause the price of the Company's stock to fluctuate substantially
+over short periods.
+
+     The Company's corporate headquarters and a large portion of
+its research and development activities and other critical
+business operations are located near major earthquake faults.
+Operating results could be materially adversely affected in the
+event of a major earthquake.  Because of the foregoing factors,
+as well as other factors affecting the Company's operating
+results, past trends should not be used by investors to
+anticipate future results or trends.  Further, the Company's
+prior performance should not be presumed to be an accurate
+indicator of future performance.
+
+Liquidity and Capital Resources
+
+     Cash, cash equivalents and temporary cash investments at May
+31, 1994 were $129.7 million as compared to $117.2 million and
+$79.4 million at the end of fiscal 1993 and 1992, respectively.
+
+     Net cash generated from operations was $127.9 million in
+fiscal 1994 and $51.7 million in fiscal 1993.   Trade receivables
+at May 31, 1994 increased $35.2 million from May 31, 1993 due
+primarily to higher sales in the fourth quarter of fiscal 1994 as
+compared to the comparable prior-year period.  Days sales
+outstanding decreased from 45 days in fiscal 1993 to 44 days in
+fiscal 1994.  Inventory levels increased $3.3 million from May
+31, 1993 and inventory turnover improved from 5.3 turns at May
+31, 1993  to 6.5 turns at May 31, 1994.
+
+     Investing activities for fiscal 1994 included $18.1 million
+of proceeds from the sale of the Company's investment in Madge
+N.V., offset by $36.5 million used for capital expenditures.
+Major capital expeditures in fiscal 1994 included the addition of
+a new line in the Ireland manufacturing plant, worldwide
+implementation of a new network operating system and electronic
+mail infrastruture, and upgrades of desktop systems and servers
+necessitated by the new network operating system.  The Company
+spent $98.1 million in net cash for the acquisitions of
+Synernetics and Centrum which were funded through cash balances
+and the liquidation of temporary cash investments.  As of May 31,
+1994, the Company has an outstanding obligation of $14.3 million
+related to the Centrum acquisition which is payable in August
+1994.
+
+     During fiscal 1994, the Company repurchased 700,000 shares
+of its common stock at an average price of $23.78, for a total
+cash outlay of $16.6 million.  The Company received cash of $22.7
+million from sale of its common stock to employees through its
+employee stock purchase and option plans.  As of May 31, 1994,
+the Board of Directors has authorized the Company to repurchase
+up to an additional 1.8 million shares of its common stock in the
+open market.
+
+     In January 1994, the Company increased its revolving bank
+credit agreement from $20 million to $40 million and extended the
+expiration date to December 31, 1996.  No amount is outstanding
+under the credit agreement.  Based on current plans and business
+conditions, the Company believes that its existing cash balances,
+together with cash generated from operations, the established
+revolving credit agreement and other reasonable sources of
+capital, are sufficient to satisfy anticipated operating cash
+requirements through fiscal 1995.
+
+
+ITEM 8.  Financial Statements and Supplementary Data
+
+Index to Consolidated Financial Statements and Financial Statement Schedules
+
+Financial Statements:
+  Independent Auditors' Report - Deloitte & Touche LLP
+  Independent Auditors' Report - Levine, Zeidman & Daitch, P.C.
+  Consolidated Statements of Operations for the years ended May 31, 1994, 
+    1993 and 1992                                       
+  Consolidated Balance Sheets at May 31, 1994 and 1993 
+  Consolidated Statements of Shareholders' Equity for the years ended May 31,
+   1994, 1993 and 1992                             
+  Consolidated Statements of Cash Flows for the years ended May 31, 1994, 
+   1993 and 1992                                     
+  Notes to Consolidated Financial Statements
+  Quarterly Results of Operations (Unaudited)
+  Financial Statement Schedules:
+    Schedule I - Temporary Cash Investments                                  S-1
+    Schedule II - Amounts Receivable from Related Parties and Underwriters, 
+      Promoters and Employees other than Related Parties
+    Schedule VIII - Valuation and Qualifying Accounts and Reserves
+    Schedule X - Supplementary Income Statement Information  
+
+     All other schedules are omitted, because they are not
+required, are not applicable, or the information is included in
+the consolidated financial statements and notes thereto.
+
+
+Independent Auditors' Report
+
+To the Shareholders and Board of Directors of 3Com Corporation:
+
+We have audited the accompanying consolidated balance sheets of
+3Com Corporation and its subsidiaries as of May 31, 1994 and
+1993, and the related consolidated statements of operations,
+shareholders' equity, and cash flows for each of the three years
+in the period ended May 31, 1994.  Our audits also included the
+financial statement schedules listed in the accompanying Index to
+Consolidated Financial Statements and Financial Statement
+Schedules at Item 8.  These financial statements and financial
+statement schedules are the responsibility of the Company's
+management.  Our responsibility is to express an opinion on these
+financial statements and financial statement schedules based on
+our audits.  The consolidated financial statements give
+retroactive effect to the fiscal 1993 merger of 3Com Corporation
+and Star-Tek, Inc., which has been accounted for as a pooling of
+interests as described in Note 3 to the consolidated financial
+statements.  We did not audit the statements of income,
+shareholders' equity and cash flows of Star-Tek, Inc. for the
+year ended December 31, 1991, which statements reflect sales of
+$15,413,000 and net income of $5,914,000.  Those statements were
+audited by other auditors whose report has been furnished to us,
+and our opinion, insofar as it relates to the amounts included
+for Star-Tek, Inc., is based solely on the report of such other
+auditors.
+
+We conducted our audits in accordance with generally accepted
+auditing standards.  Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether
+the financial statements are free of material misstatement.  An
+audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An
+audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  We believe that
+our audits and the report of the other auditors provide a
+reasonable basis for our opinion.
+
+In our opinion, based on our audits and the report of the other
+auditors, the accompanying consolidated financial statements
+present fairly, in all material respects, the financial position
+of 3Com Corporation and its subsidiaries at May 31, 1994 and
+1993, and the results of their operations and their cash flows
+for each of the three years in the period ended May 31, 1994 in
+conformity with generally accepted accounting principles.  Also,
+in our opinion, such financial statement schedules, when
+considered in relation to the basic consolidated financial
+statements taken as a whole, present fairly in all material
+respects the information set forth therein.
+
+/s/ Deloitte & Touche LLP
+DELOITTE & TOUCHE LLP
+
+San Jose, California
+June 15, 1994
+
+
+Independent Auditors' Report
+
+To the Board of Directors
+Star-Tek, Inc.
+Northboro, Massachusetts
+
+We have audited the accompanying statements of income, and
+retained earning and of cash flows for the year ended December
+31, 1991 of Star-Tek, Inc. (a Massachusetts corporation).  These
+financial statements are the responsibility of the Company's
+management.  Our responsibility is to express an opinion on these
+financial statements based on our audit.
+
+We conducted our audit in accordance with generally accepted
+auditing standards.  Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether
+the financial statements are free of material misstatement.  An
+audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An
+audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  We believe that
+our audit provides a reasonable basis of our opinion.
+
+In our opinion, the financial statements of Star-Tek, Inc.
+referred to above present fairly, in all material respects, the
+results of its operations and its cash flows for the year ended
+December 31, 1991 in conformity with generally accepted
+accounting principles.
+
+/s/ Levine, Zeidman & Daitch, P.C.
+LEVINE, ZEIDMAN & DAITCH, P.C.
+
+Wellesley Hills, Massachusetts
+February 24, 1992
+
+
+Consolidated Statements of Operations
+
+                                                 Years Ended May 31,
+(In thousands, except per share data)        1994       1993        1992
+
+Sales                                     $826,995    $617,168     $423,801
+
+Costs and Expenses:
+  Cost of sales                            405,927     320,386      224,309
+  Sales and marketing                      171,799     137,021       97,997
+  Research and development                  76,467      64,346       48,220
+  General and administrative                35,379      33,176       31,190
+  Purchased in-process
+     technology                            134,481          -        10,404
+  Non-recurring items                           -        1,316           -
+  Total                                    824,053     556,245      412,120
+
+Operating income                             2,942      60,923       11,681
+Gain on sale of investment                  17,746          -            -
+Other expense-net                           (1,150)       (677)        (347)
+Income before income taxes                  19,538      60,246       11,334
+Income tax provision                        48,232      21,685        4,874
+Income (loss) before
+  minority interest                       (28,694)      38,561        6,460
+Minority interest in net loss of
+  consolidated subsidiary                      -            -         1,498
+Net income (loss)                        $(28,694)    $ 38,561     $  7,958
+Net income (loss) per common and
+  equivalent share:
+     Primary                             $  (0.92)    $   1.22     $   0.27
+     Fully-diluted                       $  (0.92)    $   1.20     $   0.26
+Common and equivalent
+  shares used in computing
+  per share amount:
+     Primary                               31,310        31,624      29,929
+     Fully-diluted                         31,310        32,146      30,287
+
+See notes to consolidated financial statements.
+
+
+Consolidated Balance Sheets
+
+                                                 Years Ended May 31,
+(Dollars in thousands)                        1994               1993
+
+ASSETS
+
+Current Assets:
+  Cash and cash equivalents                $ 66,284           $ 40,046
+  Temporary cash inves                       63,413             77,184
+  Trade receivables, less allowance
+    for doubtful accounts ($10,402
+    in 1994 and $6,498 in 1993)             118,653             83,481
+  Inventories                                71,352             68,061
+  Deferred income taxes                      31,236             19,805
+  Other                                      10,134             15,835
+
+Total current assets                        361,072            304,412
+Property and equipment-net                   67,001             55,248
+
+Other assets                                 16,270              7,918
+
+Total                                      $444,343           $367,578
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Current Liabilities
+  Accounts payable                         $ 51,827           $ 40,212
+  Accrued and other liabilities              91,130             58,311
+  Income taxes payable                       19,090              8,637
+  Current portion of long-term
+    obligations                                 482              1,021
+
+Total current liabilities                   162,529            108,181
+
+Long-term obligations                         1,058              1,134
+
+Shareholders' Equity:
+  Preferred stock, no par value,
+    3,000,000 shares authorized; 
+    none outstanding                             -                  -
+  Common stock, no par value, 100,000,000 shares
+    authorized; shares outstanding:
+    1994--32,526,450; 1993--30,850,377     219,937             154,958
+  Unamortized restricted stock grants         (202)                 -
+  Retained earnings                         61,326             103,163
+  Accumulated translation adjustments         (305)                142
+
+Total shareholders' equity                 280,756             258,263
+
+Total                                     $444,343            $367,578
+
+See notes to consolidated financial statements.
+
+
+Consolidated Statements of Shareholders' Equity
+
+                                  Unamortized
+                                  Restricted
+                                  Stock Grants
+                                  and Notes
+                                  Receivable              Accumulated
+                  Common  Stock   From Sale of  Retained  Transition
+(In thousands)    Shares  Amount  Common Stock  Earnings  Adjustments  Total
+
+Balances,
+June 1, 1991      27,203  $119,760    $(24)     $73,206    $   725   $193,667
+
+  Common stock
+    issued under
+    stock plans    1,393    10,876    (131)                            10,745
+  Stock warrants
+    issued                   1,400                                      1,400
+  Repurchase of
+    common stock    (991)   (4,477)              (6,102)              (10,579)
+  Repayment of
+    note receivable                     21                                 21
+  Tax benefit from
+    employee stock
+    transactions             1,504                                      1,504
+  Amortization of
+    restricted
+    stock grants                        11                                 11
+  Stock dividend
+    pooled entity            1,733                                         -
+  Pro forma tax
+    provision of
+    pooled entity                                  2,092                2,092
+  Equity distributions
+    of pooled entity                              (5,800)              (5,800)
+  Interest accrued on
+    notes receivable                      3                                 3
+  Accumulated translation
+    adjustments                                               1,403     1,403
+  Net income                                                  7,958     7,958
+
+Balances,
+June 1, 1992      29,338    129,063    (120)      71,354      2,128   202,425
+
+  Common stock
+    issued under
+    stock plans    2,382     19,413                                    19,413
+  Stock warrants
+    buyback                  (1,300)                                   (1,300)
+  Repurchase of
+    common stock    (860)    (4,042)              (5,340)              (9,382)
+  Tax benefit from
+    employee stock
+    transactions             11,955                                    11,955
+  Cancellation of
+    restricted
+    stock grants     (10)      (131)    120                               (11)
+  Pro forma tax
+    provision of
+    pooled entity                                  1,604                1,604
+  Equity distributions
+    of pooled entity                              (5,179)              (5,179)
+  Adjustment to conform
+    fiscal year of
+    pooled entity                                  2,163                2,163
+  Accumulated translation
+    adjustments                                               (1,986)  (1,986)
+  Net income                                      38,561               38,561
+
+Balance,
+June 1, 1993        30,850  154,958      -       103,163         142  258,263
+
+  Common stock
+    issued under
+    stock plans       2,376  22,917    (255)                           22,662
+  Repurchase of
+    common stock       (700) (3,501)             (13,143)             (16,644)
+  Tax benefit
+    from employee
+    stock transactions       24,474                                    24,474
+  Amortization of
+    restricted
+    stock grants                         53                                53
+  Stock options
+    assumed in
+    connection with
+    acquisitions              21,089                                   21,089
+  Accumulated
+    translation
+    adjustments                                                (447)     (447)
+  Net loss                                        (28,694)            (28,694)
+
+Balances,
+May 31, 1994      32,526    $219,937  $(202)      $61,326     $(305) $280,756
+
+
+See notes to consolidated financial statements.
+
+
+Consolidated Statements of Cash Flows
+
+                                                Years Ended May 31,
+(Dollars in thousands)                         1994       1993        1992
+
+Cash flows from operations:
+  Net income (loss)                          $(28,694)   $ 38,561   $  7,958
+  Adjustments to reconcile net income
+    (loss) to cash provided by operations:
+      Depreciation and amortization            30,610      25,135     21,660
+      Gain on sale of investment              (17,746)         -          -
+      Deferred income taxes                    (9,865)     (3,523)     1,581
+      Purchased in-process technology         134,481          -      10,404
+      Minority interest                            -           -      (1,498)
+      Adjustment to conform fiscal year
+        of pooled entity                           -        2,163         -
+      Pro forma provision for income taxes         -        1,604      2,092
+      Non-cash restructuring costs                 -       (3,346)        -
+      Changes in assets and liabilities
+        net of effects of acquisitions:
+          Trade receivables                   (30,045)     (20,991)     (432)
+          Inventories                           1,637      (19,139)   (9,982)
+          Other current assets                  6,190       (3,889)   (1,480)
+          Accounts payable                      8,886       11,525     5,573
+          Accrued and other liabilities        (2,461)       6,016   (11,140)
+          Income taxes payable                 34,927       17,618     3,487
+  Net cash provided by operations             127,920       51,734    28,223
+
+Cash flows from investment activities:
+  Proceeds from sale of investment             18,066           -         -
+  Purchase of property and equipment          (36,474)     (22,263)  (21,783)
+  Purchase of temporary cash investments      (76,841)     (72,962)  (33,423)
+  Proceeds from temporary cash investments     90,612       40,496    67,815
+  Acquisition of businesses and related
+    purchase-price adjustment                 (98,128)       2,946   (25,000)
+  Other-net                                    (3,020)         908       528
+
+Net cash used for investment activities      (105,785)     (50,875)  (11,863)
+
+Cash flows from financing activities:
+  Sale of stock                                22,662       19,413    10,769
+  Repurchase of common stock                  (16,644)      (9,382)  (10,579)
+  Repurchase of stock warrants                     -        (1,300)       -
+  Notes payable                                    -         3,326     4,795
+  Repayments of notes payable and capital
+    lease obligations                          (1,462)        (513)     (429)
+  Equity distributions of pooled entity            -        (5,179)   (5,800)
+  Other-net                                      (453)      (1,872)      268
+Net cash provided by (used for)
+  financing activities                          4,103        4,493      (976)
+
+Increase in cash and cash equivalents          26,238        5,352    15,384
+
+Cash and cash equivalents at
+  beginning of year                            40,046       34,694    19,310
+
+Cash and cash equivalents at end of year     $ 66,284     $ 40,046  $ 34,694
+
+Other cash flow information:
+  Interest paid                              $     66     $    254  $    245
+  Income taxes paid (refunded)                 21,614        5,910    (7,267)
+  Non-cash investing and financing activities-
+     Property and equipment acquired under
+     capital leases                                -            -      2,062
+
+
+In connection with the acquisitions in fiscal 1994 (see Note 3),
+the Company paid cash, net of cash acquired, of $98.1 million
+plus $14.3 million payable in August 1994, and recorded non-cash
+value of options assumed of $21.1 million.  The fair value of
+assets acquired, excluding the $132.1 million purchased in-
+process technology charged to operations, was $35.6 million, and
+liabilities of $11.3 million were assumed.
+
+In connection with the acquisition in fiscal 1992 (see Note 3),
+the Company paid cash of $25 million (subsequently adjusted to
+$22 million), issued stock warrants with an estimated value of
+$1.4 million (subsequently repurchased) and assumed liabilities
+of $13.9 million.
+
+See notes to consolidated financial statements.
+
+
+
+Notes to Consolidated Financial Statements
+
+Note 1:  Description Of Business
+
+     Founded in 1979, 3Com Corporation pioneered the data
+networking industry and is committed to providing customers
+global access to information.  Today, 3Com offers a broad range
+of ISO 9000-compliant global data networking solutions that
+include routers, hubs, switches and adapters for Ethernet, Token
+Ring, FDDI and ATM networks.  Headquartered in Santa Clara,
+California, 3Com is a Fortune 500 company with worldwide research
+and development, manufacturing, marketing, sales and support
+capabilities.
+
+Note 2:  Significant Accounting Policies
+
+Principles of consolidation.  The consolidated financial
+statements include the accounts of 3Com Corporation and its
+wholly- and majority-owned subsidiaries.  All significant
+intercompany balances and transactions are eliminated in
+consolidation.
+
+Cash equivalents are highly liquid debt investments acquired with
+a maturity of three months or less.
+
+Temporary cash investments consist of short-term investments
+stated at cost.
+
+Financial instruments.  The Company has not yet adopted Statement
+of Financial Accounting Standards No. 115, "Accounting for
+Investments: Debt and Equity Securities".  The Company believes
+that the carrying values of its financial instruments approximate
+their fair value, and the adoption of this new standard in the
+first quarter of fiscal 1995 will not have a significant impact
+on the consolidated financial position or results of operations.
+
+Concentrations of credit risk.  Financial instruments which
+potentially subject the Company to concentrations of credit risk
+consist principally of investments and trade receivables.  The
+Company invests in instruments with an investment credit rating
+of AA and better.  The Company also places its investments for
+safekeeping with a high-credit-quality financial institution.
+Credit risk with respect to trade receivables is generally
+diversified due to the large number of entities comprising the
+Company's customer base and their dispersion across many
+different industries and geographies.  The Company often sells
+its products through third-party distributors, and, as a result,
+may maintain individually significant receivable balances with
+major distributors.  The Company believes that its credit
+evaluation, approval and monitoring processes substantially
+mitigate potential credit risks.
+
+Inventories are stated at the lower of standard cost (which
+approximates first-in, first-out cost) or market.
+
+Property and equipment is stated at cost.  Equipment under
+capital leases is stated at the lower of fair market value or the
+present value of the minimum lease payments at the inception of
+the lease.
+
+Purchased technology is included in other assets and is amortized
+over 2-4 years.
+
+Depreciation and amortization are computed over the shorter of
+the estimated useful lives, lease terms, or terms of license
+agreements of the respective assets, on a straight-line basis -
+generally 2-7 years with buildings at 25 years.
+
+Revenue recognition.  The Company recognizes revenue and accrues
+related royalty and warranty expenses upon shipment.  Revenue
+from variable royalties pursuant to license agreements is
+recognized upon receipt.  Service and subscription revenue is
+recognized over the term of the related contractual period.
+
+Development costs.  Development costs incurred in the research
+and development of new software products and enhancements to
+existing software products are expensed as incurred until
+technological feasibility has been established.  The Company
+believes its current process for developing software is
+essentially completed concurrently with the establishment of
+technological feasibility; accordingly, software costs incurred
+after the establishment of technological feasibility have not
+been material and therefore have been expensed.
+
+Income taxes.  The Company accounts for income taxes under
+Statement of Financial Accounting Standards No. 109, "Accounting
+for Income Taxes" which requires an asset and liability approach
+to account for income taxes.
+
+Foreign currency translations.  For foreign operations with the
+local currency as the functional currency, assets and liabilities
+are translated at year-end exchange rates, and statements of
+operations are translated at the average exchange rates during
+the year.  Gains or losses resulting from foreign currency
+translation are accumulated as a separate component of
+shareholders' equity.
+
+     For foreign operations with the U.S. dollar as the
+functional currency, assets and liabilities are translated at the
+year-end exchange rates except for inventories, prepaid expenses,
+and property and equipment, which are translated at historical
+exchange rates.  Statements of operations are translated at the
+average exchange rates during the year except for those expenses
+related to balance sheet amounts that are translated using
+historical exchange rates.  Gains or losses resulting from
+foreign currency translation are included in other expense - net
+in the statements of operations.
+
+Net income (loss) per common and equivalent share is computed
+using the weighted average number of common shares outstanding
+and the dilutive effects of stock options, using the treasury
+stock method.
+
+Reclassifications. Certain prior year amounts have been
+reclassified to conform to the current year presentation.
+
+Note 3:  Business Combinations
+
+On January 14, 1994, the Company acquired all of the outstanding
+shares of Synernetics, Inc. ("Synernetics") and assumed all
+outstanding Synernetics stock options.  The purchase price
+consisted of approximately $104.0 million plus $3.3 million of
+stock options.  A substantial portion of the purchase price was
+paid using funds from the Company's working capital.  Synernetics
+is engaged in the development, manufacturing and marketing of LAN
+switching products.
+
+     On February 2, 1994, the Company acquired all of the
+outstanding shares of Centrum Communications, Inc. ("Centrum")
+and assumed all outstanding Centrum stock options.  The purchase
+price consisted of approximately $36.0 million of which $16.0
+million was paid in cash and $14.3 million is payable in August
+1994 and the remainder was associated with the value of the
+assumed stock options.  Centrum is engaged in the development,
+manufacturing and marketing of remote access products and
+technology.
+
+     The acquisitions were accounted for as purchases and,
+accordingly, the acquired assets and liabilities were recorded at
+their estimated fair values at the dates of acquisition.  The
+aggregate purchase price of $143.3 million plus $13.1 million of
+costs directly attributable to the completion of the acquisitions
+has been allocated to the assets and liabilities acquired.
+Approximately $132.1 million of the total purchase price
+represented in-process technology that had not yet reached
+technological feasibility and was charged to the Company's
+operations.
+
+     The Company's consolidated results of operations include the
+operating results of the acquired companies since their
+acquisition dates.
+
+     The following table summarizes the unaudited pro forma
+combined results of operations for the years ended May 31, 1994
+and 1993 as if the acquisitions had occurred at the beginning of
+each of the periods presented:
+
+(Unaudited)
+                                                      Years Ended May 31,
+(In thousands, except per share amounts)           1994             1993
+
+Sales                                            $838,953          $628,546
+Net income                                       $ 96,033          $ 33,623
+Net income per share:
+  Primary                                        $   2.85          $  1.05
+  Fully-dilute                                   $   2.81          $  1.04
+Shares used in computing per share amounts:
+  Primary                                          33,717            32,066
+  Fully-diluted                                    34,180            32,309
+
+     The above table includes, on a pro forma basis, the
+Company's consolidated financial information for the year ended
+May 31, 1994 combined with the financial information of
+Synernetics and Centrum for the same twelve months.  The
+Company's consolidated financial information for the year ended
+May 31, 1993 is combined with the financial information of
+Synernetics and Centrum for the twelve months ended June 30,
+1993.  The above table excludes the one-time $132.1 million
+charge for purchased in-process technology arising from these
+acquisitions as it was a material non-recurring charge.  This
+charge is included in the actual consolidated statement of
+operations for the year ended May 31, 1994.
+
+     The unaudited pro forma combined results of operations are
+presented for illustrative purposes only and are not necessarily
+indicative of the operating results that would have occurred had
+the acquisitions been consummated at the beginning of the periods
+presented, nor are they necessarily indicative of future
+operating results.
+
+     On January 29, 1993, the Company acquired Star-Tek, Inc.
+("Star-Tek") by issuing approximately 1.74 million shares of
+common stock for all of the outstanding shares of Star-Tek.
+
+     Star-Tek designs, manufactures and markets a range of Token
+Ring products focused primarily on the connectivity needs of
+larger organizations with IBM mainframe, mid-range and Token Ring
+LAN-based information systems.  The acquisition was accounted for
+by the pooling-of-interests method.  Star-Tek maintained its
+financial records on a fiscal year ending December 31.  The
+consolidated statements of operations and cash flows for the year
+ended May 31, 1992 include the Star-Tek statements of operations
+and cash flows for the year ended December 31, 1991.
+
+     The results of operations of Star-Tek for the five-month
+period ended May 31, 1992 reflected net income of $1.6 million
+and pro-forma tax adjustment of $595,000, the sum of which has
+been reported as an increase in the Company's fiscal 1993
+retained earnings.
+
+     In January 1992, the Company acquired the data networking
+products business of U.K.-based BICC Group, plc.  This
+acquisition has been accounted for as a purchase and,
+accordingly, the acquired assets and liabilities were recorded at
+their estimated fair values at the date of acquisition.  The
+acquisition price consisted of approximately $22 million in cash
+and a warrant to purchase 500,000 shares of the Company's common
+stock.  The stock warrant was subsequently repurchased by the
+Company.  Approximately $10.4 million of the purchase price
+represented in-process technology that had not yet reached
+technological feasibility and was charged to the Company's
+operations.  The Company's consolidated results of operations
+include the operating results of the acquired business from the
+January 31, 1992 date of acquisition.
+
+Note 4:  License
+
+     In the third quarter of fiscal 1994, the Company licensed
+certain in-process wireless technology from Pacific Monolithics,
+Inc.  This technology is still under development and,
+accordingly, $2.4 million of the $2.5 million cost of obtaining
+this license represented in-process technology and was charged to
+operations in the third quarter of fiscal 1994.
+
+Note 5:  Non-recurring Items
+
+     Non-recurring items for the year ended May 31, 1993 consists
+of the net cost of a litigation settlement of $3.6 million (see
+Note 15), and merger costs of $1.0 million related to the
+acquisition of Star-Tek (see Note 3), offset by a reduction in
+accrued restructuring costs of $3.3 million in the fourth quarter
+of fiscal 1993 based on revised estimates of future costs.
+
+Note 6:  Foreign Exchange Contracts
+
+     The Company enters into foreign exchange contracts to hedge
+certain balance sheet exposures and intercompany balances against
+future movements in foreign exchange rates.  Gains and losses on
+the foreign exchange contracts are included in other  expense -
+net, which offset foreign exchange gains or losses from
+revaluation of foreign currency-denominated balance sheet items
+and intercompany balances.
+
+     At May 31, 1994 and 1993, the Company had outstanding
+foreign exchange contracts of $14.6 million and $14.0 million,
+respectively.  The contracts require the Company to exchange
+foreign currencies for U.S. dollars or vice versa, and generally
+mature in one month.
+
+Note 7:  Inventories
+
+Inventories at May 31 consist of:
+(Dollars in thousands)                          1994          1993
+
+Finished goods                                $44,770       $41,331
+Work-in-process                                 8,232         4,912
+Raw materials                                  18,350        21,818
+Total                                         $71,352       $68,061
+
+Note 8:  Property And Equipment
+
+Property and equipment at May 31 consists of:
+
+(Dollars in thousands)                        1994             1993
+
+Land                                      $  1,303           $ 1,303
+Building                                     7,372             7,372
+Machinery and equipment                    122,892            89,830
+Furniture and fixtures                      14,591            12,476
+Leasehold improvements                      15,446            14,604
+Construction in progress                        -                756
+Total                                      161,604           126,341
+Accumulated depreciation and
+     amortization                          (94,603)          (71,093)
+Property and equipment - net              $ 67,001           $55,248
+
+Note 9:  Accrued And Other Liabilities
+
+Accrued and other liabilities at May 31 consist of:
+(Dollars in thousands)                        1994         1993
+
+Accrued payroll and related
+  expenses                                  $ 21,387     $16,671
+Accrued product warranty                      13,686      10,553
+Accrued cooperative advertising               11,544       7,885
+Accrued payment to Centrum
+  shareholders                                14,267          -
+ Other accrued liabilities                    30,246      23,202
+Accrued and other liabilities               $ 91,130     $58,311
+
+Note 10:  Borrowing Arrangements And Commitments
+
+     The Company has a $40 million revolving bank credit
+agreement which expires on December 31, 1996.  Under the
+agreement, the Company may select among various interest rate
+options, including borrowing at the bank's prime rate.  The
+agreement requires that the Company maintain certain financial
+ratios and minimum net worth and restricts payment of cash
+dividends.  At May 31, 1994, all such requirements were met and
+there were no outstanding borrowings under the agreement.
+
+     The Company has guaranteed borrowings of its former Japanese
+joint venture, 3Com K.K., of 450 million Yen or approximately
+$4.3 million as of May 31, 1994.
+
+     3Com Development Corporation, a wholly-owned subsidiary of
+3Com, is a limited partner in a lease/joint venture arrangement
+to acquire and develop the Company's corporate offices in Santa
+Clara, which were initially occupied in the first quarter of
+fiscal 1991.  Future minimum lease payments are included in the
+table below.
+
+     The Company has signed an agreement with a third party to
+lease the buildings to be built on land adjacent to the Company's
+existing corporate offices in Santa Clara.  The estimated date of
+occupancy is April 1996.  Future minimum lease payments are
+included in the table below.
+
+     The Company leases its facilities and certain equipment
+under operating leases.  Leases expire at various dates from 1995
+to 2013 and certain facility leases have renewal options with
+rentals based upon changes in the Consumer Price Index or the
+fair market rental value of the property.
+
+Future operating lease commitments are as follows:
+(Dollars in thousands)
+
+     Fiscal year
+     1995              $14,302
+     1996               13,471
+     1997               12,230
+     1998               10,261
+     1999               10,145
+     Thereafter         16,984
+
+     Total             $77,393
+
+     Rent expense was $13.5 million, $13.4 million, and $13.8
+million for fiscal 1994, 1993, and 1992, respectively.
+
+Note 11:  Common Stock
+
+Shareholder Rights Plan.  In September 1989, the Company's Board
+of Directors approved a stock purchase rights plan and declared a
+dividend distribution of one common stock purchase right for each
+outstanding share of its common stock.  The rights become
+exercisable based on certain limited conditions related to
+acquisitions of stock, tender offers and certain business
+combination transactions of the Company.  Initially, each right
+entitles the shareholder to buy one-half share of the Company's
+common stock at an exercise price of $50.  The rights are
+redeemable at the Company's option for $.01 per right and expire
+on September 19, 1999.
+
+Stock Option Plans.  The Company has stock option plans under
+which employees and directors may be granted options to purchase
+common stock.  Options are generally granted at not less than the
+fair market value at grant date, vest over a four-year period,
+and expire ten years after the grant date.
+
+A summary of option transactions under the plans follows:
+                                                       Years ended May 31,
+(In thousands except price per share)            1994       1993       1992
+
+     Number of option shares:
+     Granted and assumed                     2,350        2,055      1,836
+     Exercised                              (1,859)      (1,828)      (912)
+     Cancelled                                (211)        (321)      (673)
+     Outstanding at end of year              6,150        5,870      5,964
+
+     Option price per share:
+     Granted and assumed                 $0.87-61.75 $10.00-39.38 $7.00-14.38
+     Exercised                            0.87-51.75   5.63-35.00  6.00-11.75
+     Cancelled                            0.89-56.38   6.63-35.10  6.00-19.88
+     Outstanding at end of year          $0.87-61.75 $ 5.63-39.38 $5.63-14.38
+
+     In connection with the Synernetics and Centrum acquisitions
+discussed in Note 3, the Company assumed certain outstanding
+options to purchase common stock of the acquired companies and
+exchanged them for options to acquire 429,000 shares of the
+Company's common stock at exercise prices of $0.87 to $23.26 per
+share.
+
+     At May 31, 1994, options for 2.3 million shares were
+exercisable, 1.9 million shares were available for future grants,
+and 8.1 million shares were reserved for issuance under the stock
+option plans.
+
+Employee Stock Purchase Plan.  The Company has an employee stock
+purchase plan, under which eligible employees may authorize
+payroll deductions of up to 10 percent of their compensation (as
+defined) to purchase common stock at a price equal to 85 percent
+of the lower of the fair market values as of the beginning or the
+end of the offering period.  At May 31, 1994, 645,000 shares of
+common stock were reserved for issuance under this plan.
+
+Restricted Stock Plan.  The Company has a Restricted Stock Plan,
+under which 100,000 shares of common stock were reserved for
+issuance at no cost to key employees.  The shares are issued at
+the fair market value on the date of the grant.  The fair market
+value of shares granted to an eligible participant cannot exceed
+50 percent of the base salary of the eligible participant and any
+compensation expense is recognized as the granted shares vest
+over a one to four year period.  In fiscal 1994, 5,000 shares of
+common stock were issued under this plan.  At May 31, 1994,
+95,000 shares were reserved for future issuance.
+
+Stock Repurchase Program.  The Board of Directors has authorized
+the Company to repurchase up to 7.5 million shares of common
+stock.  Under this authorization, 5.7 million shares have been
+repurchased and the Company may repurchase up to an additional
+1.8 million shares of common stock.
+
+Note 12:  Other Expense - Net
+
+Other Expense - net consists of:
+(Dollars in thousands)                   1994          1993         1992
+
+Interest income                        $ 3,954       $ 3,602      $ 5,080
+Provision for doubtful accounts         (4,459)       (1,995)      (3,683)
+Other                                     (645)       (2,284)      (1,744)
+Total                                  $(1,150)      $  (677)     $  (347)
+
+     Other includes gains, losses and transaction costs from
+foreign exchange transactions and property and equipment
+dispositions.
+
+Note 13:  Income Taxes
+
+The provision for income taxes consists of:
+(Dollars in thousands)                   1994          1993          1992
+
+Current:
+  Federal                               $31,761       $13,786      $ 2,721
+  State                                   7,862         3,110          623
+  Foreign                                16,771         8,293          (39)
+Total current                            56,394        25,189        3,305
+
+Deferred:
+  Federal                                (9,266)       (1,658)       3,109
+  Foreign                                 1,104        (1,846)      (1,540)
+Total deferred                           (8,162)       (3,504)       1,569
+Total                                   $48,232       $21,685      $ 4,874
+
+     Deferred and prepaid income taxes, which result from
+temporary differences in the recognition of revenue and expense
+for tax and financial reporting purposes, consist of:
+
+(Dollars in thousands)                    1994         1993          1992
+
+Tax depreciation and
+  operating lease expenses            $  (397)      $(1,354)       $(1,228)
+Reserves not recognized
+  for tax purposes                     (8,538)       (1,323)         4,132
+DISC commission                            -           (194)          (209)
+Alternative minimum tax credits          (363)          573           (936)
+Other                                   1,136        (1,206)          (190)
+Total                                 $(8,162)      $(3,504)        $ 1,569
+
+The components of the net deferred tax asset consist of:
+(Dollars in thousands)                            1994             1993
+
+Deferred tax assets:
+  Depreciation and amortization                 $ 5,686           $ 5,117
+  Reserves not recognized for tax purposes       31,483            21,699
+  Deferred tax assets of acquired businesses      1,703                -
+  Other                                             (87)              815
+  Alternative minimum tax credits                    -                363
+  Valuation allowance                            (6,097)           (5,171)
+Total deferred tax asset                        $32,688           $22,823
+ Deferred tax liabilities-Other                     (25)              (25)
+     Net deferred tax asset                     $32,663           $22,798
+
+     Valuation allowance relates primarily to expenses, the
+deduction of which is not assured on future state income tax
+returns.  The net increase in the valuation allowance in fiscal
+1994, 1993, and 1992 was $926,000, $1.1 million and $408,000,
+respectively.
+
+     Tax carryforwards of acquired businesses consist of $4.6
+million and $739,000 of net operating loss and tax credit
+carryforwards, respectively, that expire in 2004 through 2008.
+
+     The provision for income taxes differs from the amount
+computed by applying the federal statutory income tax rate to
+income before taxes as follows:
+
+                                             1994         1993          1992
+
+Tax computed at federal statutory rate       35.0%        34.0%         34.0%
+State income taxes, net
+  of federal effect                           3.0          3.4           3.6
+Foreign sales corporation                    (5.2)        (1.3)         (3.6)
+Tax exempt investment income                 (5.7)        (1.5)        (13.0)
+Foreign losses without benefits
+  of carryovers or carrybacks                 -            -            11.8
+Difference between federal
+  statutory rate and foreign
+  effective rates                            (7.5)        (0.4)         (1.8)
+Research tax credits                         (8.7)        (0.2)         (6.9)
+Non-deductible purchased
+  in-process technology                     241.5          -            18.7
+Effect of tax law changes                    (6.4)         -                  -
+Other                                          .9          2.0           0.2
+Total                                       246.9%        36.0%         43.0%
+
+Income before income taxes for the years ended 1994, 1993,
+and 1992 include income (loss) of $58.2 million, $18.7 million
+and $(10.9 million) from the Company's foreign subsidiaries.  The
+Company has not provided for federal income taxes on $27.9
+million of undistributed earnings of foreign subsidiaries, which
+the Company intends to reinvest in subsidiary operations
+indefinitely.  If such undistributed earnings were to be
+remitted, the related tax liability would be approximately $1.9
+million.
+
+Note 14:  Geographic Area Information
+
+     The Company operates in a single industry segment:  the
+design, manufacture, marketing, and support of data networking
+systems.  The Company's foreign operations consist of central
+distribution and order administration, manufacturing and research
+and development facilities in Western Europe, and sales and
+marketing activities conducted through sales subsidiaries
+throughout the world.
+
+     Sales, operating income and identifiable assets, classified
+by the major geographic areas in which the Company operates, are
+as follows:
+
+(Dollars in thousands)                     1994         1993         1992
+
+Revenues from unaffiliated customers:
+
+United States                            $399,836     $308,879     $223,947
+Export sales from United States           103,127       69,237       94,305
+Europe                                    324,032      224,891       98,650
+Other                                          -        14,161        6,899
+Total                                    $826,995     $617,168     $423,801
+
+Transfers from geographic areas
+  (eliminated in consolidation):
+
+United States                            $112,418     $101,570     $ 56,690
+Europe                                     52,595       39,920       12,567
+Other                                          -        23,354        4,356
+Total                                    $165,013     $164,844     $ 73,613
+
+Operating income (loss):
+
+United States                            $(57,025)    $ 40,811     $ 22,736
+Europe                                     55,890       17,370        2,255
+Other                                       8,679        6,467      (12,396)
+Eliminations                               (4,602)      (3,725)        (914)
+Total                                    $  2,942      $ 60,923    $ 11,681
+
+Identifiable assets:
+
+United States                            $332,651      $268,254
+Europe                                    121,019       102,054
+Other                                       4,623         4,492
+Eliminations                              (13,950)       (7,222)
+Total                                    $444,343      $367,578
+
+     Transfers between geographic areas are accounted for at
+prices representative of unaffiliated party transactions.
+
+Note 15:  Litigation
+
+     In August 1989, four class action lawsuits were filed in the
+United States District Court for the Northern District of
+California naming the Company and certain of its directors and
+officers as defendants.  The suits, which were consolidated into
+a single action, alleged that defendants misrepresented or failed
+to disclose material facts about the Company's operations and
+financial results, which plaintiffs contended artificially
+inflated the price of the Company's securities during the period
+December 6, 1988 to August 7, 1989.
+
+     In April 1993, the Company and plaintiffs reached an
+agreement to settle the consolidated action in its entirety.
+Although the Company believed that the claims asserted in the
+class action were without merit, the Company believed it was in
+the best interest of its shareholders to settle the case due to
+the continuing costs of defense, the distraction of management's
+attention and the uncertainties inherent in any litigation.  The
+principal terms of the agreement called for a settlement of $9.9
+million, a substantial portion of which was paid by the Company's
+insurance carrier.
+
+<TABLE>
+Quarterly Results of Operations (Unaudited)
+(Dollars in thousands, except per share data)
+<CAPTION>
+                 Fiscal 1994 Quarters Ended                 Fiscal 1993 Quarters Ended
+         May 31    Feb. 28   Nov. 30   Aug. 31   May 31    Feb. 28   Nov. 30   Aug.31
+         1994      1994      1993      1993      1993      1993      1992      1992
+
+
+<S>      <C>       <C>       <C>       <C>       <C>       <C>       <C>       <C>
+Sales    $241,463  $218,166  $205,275  $162,091  $167,458  $161,396  $152,697  $135,617
+
+Gross
+<S>       <C>       <C>       <C>        <C>       <C>       <C>       <C>       <C>
+margin    124,605   113,183   102,865    80,415    83,093    78,396    73,809    61,484
+
+Gross
+<S>    <C>  <C>       <C>       <C>       <C>       <C>       <C>       <C>       <C>
+margin %    51.6%     51.9%     50.1%     49.6%     49.6%     48.6%     48.3%     45.3%
+
+Operating
+income
+<C>        <C>      <C>        <C>       <C>       <C>       <C>       <C>        <C>
+(loss)     41,755   (93,203)   33,512    20,878    20,534    17,475    14,624     8,290
+
+Net
+income
+<C>        <C>     <C>         <C>       <C>       <C>       <C>        <C>       <C>
+(loss)     27,189  (103,460)   21,463    26,114    13,271    10,160     9,280     5,850
+
+Net
+income
+<C>    <C>  <C>      <C>        <C>       <C>        <C>        <C>      <C>       <C>
+(loss) %    11.3%    (47.4%)    10.5%     16.1%      7.9%       6.3%     6.1%      4.3%
+
+Net
+income
+(loss)
+per
+<S>         <C>      <C>        <C>       <C>       <C>        <C>      <C>       <C>
+share       $0.78    $(3.28)    $0.65     $0.80     $0.40      $0.31    $0.29     $0.20
+</TABLE>
+     Notes:  Net loss for the quarter ended February 28, 1994
+included a charge of approximately $134.5 million ($4.00 per
+share) for purchased in-process technology (see Notes 3 and 4 to
+the consolidated financial statements).  Net income for the
+quarter ended August 31, 1993 included a gain of approximately
+$17.7 million ($.35 per share) related to the sale of an
+investment.  Net income for the quarter ended February 28, 1993
+included a charge of approximately $1.6 million ($.06 per share)
+for merger costs associated with the Company's acquisition of
+Star-Tek, Inc. (see Notes 3 and 5 to the consolidated financial
+statements).
+
+
+ITEM 9.  Changes in and Disagreements with Accountants on
+Accounting and Financial Disclosure
+
+     Not applicable.
+
+PART III
+
+ITEM 10.  Directors and Executive Officers of 3Com
+
+     The information required by Item 10 of Form 10-K with
+respect to identification of directors is incorporated by
+reference to the information contained in the section captioned
+"Election of Directors" in 3Com's definitive Proxy Statement for
+the Annual Meeting of Shareholders to be held September 29, 1994
+(the "Proxy Statement"), a copy of which has been filed with the
+Securities and Exchange Commission.  For information with respect
+to the executive officers of the Registrant, see "Executive
+Officers of the Registrant" at the end of Part I of this report.
+
+ITEM 11.  Executive Compensation
+
+     The information required by Item 11 of Form 10-K is
+incorporated by reference to the information contained in the
+section captioned "Executive Compensation and Other Matters" in
+the Proxy Statement.
+
+ITEM 12.  Security Ownership of Certain Beneficial Owners and
+Management
+
+     The information required by Item 12 of Form 10-K is
+incorporated by reference to the information contained in the
+section captioned "General Information" in the Proxy Statement.
+
+ITEM 13.  Certain Relationships and Related Transactions
+
+     The information required by Item 13 of Form 10-K is
+incorporated by reference to the information contained in the
+section captioned "Compensation Committee Interlocks and Insider
+Participation" in the Proxy Statement.
+
+
+                                  PART IV
+
+ITEM 14.  Exhibits, Financial Statement Schedules, and Reports on
+Form 8-K
+
+     (a)  (1)  Financial Statements_See Index to Financial Statements and
+               Financial Statement Schedules
+
+          (2)  Financial Statement Schedules-See Index to Financial Statements
+               and Financial Statement Schedules
+
+          (3)  Exhibits-See Exhibit Index
+
+     (b)  The Registrant did not file any reports on Form 8-K during the last
+          quarter of the fiscal year ended May 31, 1994.
+
+     (c)  See Exhibit Index at page 36 of this Form 10-K.
+
+     (d)  See Index to Financial Statements and Financial Statement Schedules
+
+                                EXHIBIT INDEX
+
+Exhibit
+Number        Description
+
+ 3.1         Amended and Restated Articles of Incorporation
+             (Exhibit 19.1 to Form 10-Q) (8)
+ 3.2         Certificate of Amendment of the Amended and Restated Articles of
+             Incorporation
+ 3.3         Bylaws, as amended and restated (Exhibit 3.2 to Form 10-K) (10)
+ 4.1         Reference is made to Exhibit 3.1
+10.1         1983 Stock Option Plan, as amended (Exhibit 10.1 to Form 10-K) 
+             (10)
+10.2         Amended and Restated Incentive Stock Option Plan (4)
+10.3         License Agreement dated March 19, 1981 (1)
+10.4         First Amended and Restated 1984 Employee Stock Purchase Plan, 
+             as amended (Exhibit 19.1 to Form 10-Q) (11)
+10.5         License Agreement dated as of June 1, 1986 (Exhibit 10.16 to
+             Form 10-K) (3)
+10.6         3Com Corporation Director Stock Option Plan, as amended (Exhibit
+             19.3 to Form 10-Q) (11)
+10.7         Bridge Communications, Inc. 1983 Stock Option Plan, as amended
+             (Exhibit 4.7 to Form S-8) (2)
+10.8         3Com Headquarters Lease dated December 1, 1988, as amended
+             (Exhibit 10.14 to Form 10-K) (10)
+10.9         Ground Lease dated July 5, 1989 (Exhibit 10.19 to Form 10-K) (5)
+10.10        Sublease Agreement dated February 9, 1989 (Exhibit 10.20 to Form
+             10-K) (5)
+10.11        Credit Agreement dated April 21, 1993
+10.12        Asset Purchase Agreement dated as of January 24, 1992 (Exhibit
+             2.1 to Form 8-K) (12)
+10.13        3Com Corporation Restricted Stock Plan dated July 9, 1991
+             (Exhibit 19.2 to Form 10-Q) (11)
+10.14        Agreement and Plan of Merger dated December 16, 1992 (Exhibit 3
+             to Form 8-K) (13)
+10.15        Form of Indemnity Agreement for Directors and Officers (Exhibit
+             10.15 to Form 10-Q) (13)
+10.16        Agreement and Plan of Reorganization dated December 16, 1993
+             among 3Com Corporation, 3Sub Corporation and Synernetics, Inc.
+             (Exhibit 7.1 to Form 8-K) (14)
+10.17        Side Agreement Regarding Agreement and Plan of Reorganization
+             dated January 14, 1993 among 3Com Corporation, 3Sub Corporation
+             and Synernetics, Inc. (Exhibit 7.2 to Form 8-K) (14)
+10.18        Agreement and Plan of Reorganization dated January 18, 1994
+             (Exhibit 7.2 to Form 8-K) (15)
+10.19        Indemnity and Escrow Agreement dated February 2, 1994.  (Exhibit
+             7.3 to Form 8-K) (15)
+10.20        Amendment to Credit Agreement
+10.21        Second Amendment to Credit Agreement
+10.22        1994 Stock Option Plan
+21.1         Subsidiaries of the Registrant
+23.1         Consent of Deloitte & Touche LLP
+23.2         Consent of Levine, Zeidman & Daitch, P.C.
+99.1         Descriptive List of Exhibits and Schedules to the Agreement and
+             Plan of Reorganization dated December 16, 1993 by and among 3Com
+             Corporation, 3Sub Corporation and Synernetics, Inc.
+99.2         Descriptive List of Exhibits and Schedules to the Agreement and
+             Plan of Reorganization dated January 18, 1994 by and among
+             3Com Corporation, 3Sub Acquisition Corporation and Centrum
+             Communications, Inc.
+
+
+     (1)  Incorporated by reference to the corresponding Exhibit
+          previously filed as an Exhibit to Registrant's Registration
+          Statement on Form S-1 filed January 25, 1984  (File No. 2-89045).
+
+     (2)  Incorporated by reference to the Exhibit identified in
+          parentheses previously filed as an Exhibit to Registrant's
+          Registration Statement on Form S-8 filed October 13, 1987 (File
+          No. 33-17848).
+
+     (3)  Incorporated by reference to the corresponding Exhibit
+          or the Exhibit identified in parentheses previously filed as
+          an Exhibit to Registrant's Form 10-K filed August 29, 1987 (File
+          No. 0-12867).
+
+     (4)  Incorporated by reference to Exhibit 10.2 to Registrant's
+          Registration Statement on Form S-4 filed on August 31, 1987 (File
+          No. 33-16850).
+
+     (5)  Incorporated by reference to the corresponding Exhibit or the
+          Exhibit identified in parentheses previously filed as an Exhibit
+          to Registrant's Form 10-K filed on August 28, 1989
+          (File No. 0-12867).
+
+     (6)  Incorporated by reference to Exhibit 19.1 to Registrant's Form 10-Q
+          filed on April 14, 1990 (File No. 0-12867).
+
+     (7)  Incorporated by reference to the corresponding Exhibit or the
+          Exhibit identified in parentheses previously filed as
+          an Exhibit to Registrant's Form 10-K filed on August 28, 1990
+          (File No. 0-12867).
+
+     (8)  Incorporated by reference to the Exhibit identified in
+          parentheses previously filed as an Exhibit to Registrant's Form
+          10-Q filed on January 2, 1991 (File No. 0-12867).
+
+     (9)  Incorporated by reference to the Exhibit identified in
+          parentheses previously filed as an Exhibit to Registrant's Form
+          10-Q filed on April 15, 1991 (File No. 0-12867).
+
+    (10)  Incorporated by reference to the Exhibit identified in
+          parentheses previously filed as an Exhibit to Registrant's Form
+          10-K filed on August  27, 1991 (File No. 0-12867).
+
+    (11)  Incorporated by reference to the Exhibit identified in
+          parentheses previously filed as an Exhibit to Registrant's Form
+          10-Q filed January 10, 1992 (File No. 0-12867).
+
+    (12)  Incorporated by reference to the Exhibit identified in
+          parentheses previously filed as an Exhibit to Registrant's Form 8-
+          K filed on February 18, 1992 (File No. 0-12867).
+
+    (13)  Incorporated by reference to the Exhibit identified in
+          parentheses previously filed as an Exhibit to Registrant's Form 8-
+          K filed on February 12, 1993 (File No. 0-12867).
+
+    (14)  Incorporated by reference to the Exhibit identified in
+          parentheses previously filed as an Exhibit to Registrant's Form 8-
+          K filed on January 31, 1994 (File No. 0-12867).
+
+    (15)  Incorporated by reference to the Exhibit identified in
+          parentheses previously filed as an Exhibit to Registrant's Form 8-K
+          filed on February 11, 1994 (File No. 0-12867).
+
+    (16)  Incorporated by reference to the Exhibit identified in
+          parentheses previously filed as an Exhibit to Registrant's Form 10-
+          K filed on August 27, 1993 (File No. 0-12867).
+
+    (17)  Incorporated by reference to the Exhibit identified in
+          parentheses previously filed as an Exhibit to Registrant's Form 10-
+          Q filed on April 13, 1994 (File No. 0-12867).
+
+    (18)  Incorporated by reference to the Exhibit identified in parentheses
+          previously filed as an Exhibit to Registrant's Form 10-Q filed on
+          January 14, 1994 (File No. 0-12867).
+
+
+
+                DESCRIPTIVE LIST OF EXHIBITS AND SCHEDULES TO THE
+                      AGREEMENT AND PLAN OF REORGANIZATION
+                      Dated December 16, 1993 By and Among
+                        3COM CORPORATION, 3SUB CORPORATION
+                              AND SYNERNETICS, INC.
+
+
+Exhibit A:    The Agreement of Merger as filed with the Secretaries
+              of State of Delaware and California setting forth the
+              terms of the Merger (consistent with the terms in the
+              Agreement)
+Exhibit B-1:  Form of Key Employee Agreement
+Exhibit B-2:  Scheduled Employees of Synernetics
+Exhibit C:    Disclosure Schedule stating exceptions from representations
+Exhibit D:    Disclosure Schedule stating exceptions from representations
+Exhibit F:    Opinion of Gray Cary Ware & Freidenrich
+Exhibit G:    Opinion of Testa, Hurwitz & Thibeault
+
+
+
+                DESCRIPTIVE LIST OF EXHIBITS AND SCHEDULES TO THE
+                        AGREEMENT AND PLAN OF REORGANIZATION
+                          Dated January 18, 1994 By and Among
+                 3COM CORPORATION, 3SUB ACQUISITION CORPORATION
+                       AND CENTRUM COMMUNICATIONS, INC.
+
+
+Exhibit A:   The Agreement of Merger as filed with the Secretary of State
+             of California setting forth the terms of the Merger
+             (consistent with the terms in the Agreement)
+Exhibit B:   Disclosure Schedule stating exceptions from representations
+Exhibit C:   List of Option Holders
+Exhibit D:   Disclosure Schedule stating exceptions from representations
+Exhibit F:   Opinion of Counsel to 3Com
+Exhibit G:   Opinion of Counsel to Centrum
+Exhibit H-1: Non-compete Agreement with Mr. Gilbert Hu
+Exhibit H-2: Employment and Non-competition Agreement with Vincent Liu
+Exhibit H-3: Employment and Non-competition Agreement with Ann Zeichner
+
+
+
+                                             SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the Registrant has duly caused
+this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+                                       3Com Corporation
+                                       (Registrant)
+
+Date:  August 26, 1994    By   /s/      Eric A. Benhamou
+                                        Eric A. Bhamou
+                                        Chairman, President and Chief 
+                                        Executive Officer
+
+     Pursuant to the requirements of the Securities Exchange Act
+of 1934, this report has been signed below by the following
+persons on behalf of the Registrant and in the capacities and on
+the dates indicated.
+
+Signature                               Title                      Date
+
+                                Chairman of the Board
+/s/  Eric A. Benhamou           President, and                August 26, 1994
+                                 Chief Executive Officer
+    (Eric A. Benhamou)          Principal Executive Officer)
+
+
+                               Vice President, Finance and
+/s/ Christopher B. Paisley     Chief Financial Officer        August 26, 1994
+                               (Principal Financial and
+   (Christopher B. Paisley)    Accounting Officer)
+
+
+/s/ James L. Barksdale           Director                     August 26, 1994
+   (James L. Barksdale)
+
+
+/s/ Gordon  A. Campbell       Director                        August 26, 1994
+   (Gordon A. Campbell)
+
+
+/s/ Jean-Louis Gassee            Director                     August 26, 1994
+   (Jean-Louis Gassee)
+
+
+/s/ Stephen  C. Johnson         Director                      August 26, 1994
+   (Stephen C. Johnson)
+
+
+/s/ Philip C. Kantz                 Director                  August 26, 1994
+   (Philip C. Kantz)
+
+
+/s/ William F. Zuendt             Director                    August 26, 1994
+   (William F. Zuendt)
+
+
+/s/ Jack L. Hancock                Director                   August 26, 1994
+   (Jack L. Hancock)
+
+
+SCHEDULE I
+
+                                           3Com Corporation
+
+                      TEMPORARY CASH INVESTMENTS
+                                               May 31, 1994
+                                               (in thousands)
+
+
+                                                      Amount at Which Carried
+Description     Par Value     Cost    Market Value    in Balance Sheet
+
+Various Tax 
+Exempt 
+municipal 
+bonds(1)         $59,860     $63,413   $63,208            $63,413
+
+(1)  Municipal obligations consist primarily of prerefunded general
+     obligations and revenue bonds carried at cost.  No individual issue
+     exceeds 2% of total assets.
+
+
+SCHEDULE II
+
+                                3Com Corporation
+
+ AMOUNTS RECEIVABLE FROM RELATED PARTIES AND UNDERWRITERS,
+        PROMOTERS, AND EMPLOYEES OTHER THAN RELATED PARTIES
+
+                For the Years Ended May 31, 1992, 1993, and 1994
+                              (in thousands)
+
+Year                         Balance                              Balance at
+ended                        beginning                            end of
+May 31     Name of debtor    of period  Additions  Collections    period-
+                                                                  current 
+
+1992        J. Koch             -         $225 (1)     -          $225
+1993        J. Koch           $225          -        $225           -
+1994        M. Kapp             -         $567 (2)     -          $567
+
+(1)  Consists of a promissory note issued on May 28, 1992 and paid in full on
+July 7, 1992. The note bore interest at 5.5% and was interest free for the 
+first 90 days.  The note was paid within the 90-day interest free period.
+
+(2)  Represents a one-year, interest-free bridge loan granted in November 1993.
+
+SCHEDULE VIII
+
+
+                           3Com Corporation
+
+<TABLE>
+VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+            For the Years Ended May 31, 1992, 1993 and 1994
+                             (in thousands)
+
+<CAPTION>
+                                        Reclassi-
+                            Additions   fications
+                 Balance at charged to  and charges           Pooled   Balance
+                 beginning  costs and   to other              Business  at end
+                 of period  expenses    accounts   Deductions  -Net(1) of period
+
+DESCRIPTION
+Year ended
+May 31, 1992:
+Allowance
+for
+doubtful
+<S>              <C>        <C>         <C> <C>     <C>           <C>    <C>
+accounts         $ 5,129    $ 3,683     $   306(3)  $ 2,019(2)    -      $ 7,099
+
+Product
+return
+<S>                <C>        <C>           <C>       <C>         <C>      <C>
+reserve            3,040      2,080         308(3)    1,421       -        4,007
+
+Accrued
+product
+<S>                <C>        <C>            <C>      <C>         <C>      <C>
+warranty           5,370      6,587          -        4,392       -        7,565
+
+Restructuring
+reserves:
+
+  Inventory
+  <S>              <C>           <C>         <C>      <C>         <C>      <C>
+  reserve          2,974         -           -        1,794       -        1,180
+
+  Property
+  and
+  equipment
+  <S>              <C>           <C>      <C>   <C>   <C>         <C>      <C>
+  reserve          2,633         -        3,123 (4)   1,598       -        4,158
+
+  Accrued
+  restruc-
+  turing
+  <S>             <C>            <C>     <C>         <C>          <C>     <C>
+  costs           29,915         -       (3,123)(4)  14,219       -       12,573
+
+  Total
+  restruc-
+  turing
+  <S>             <C>            <C>          <C>    <C>          <C>     <C>
+  reserves        35,522         -            -      17,611       -       17,911
+
+YEAR ENDED
+MAY 31, 1993:
+
+Allowance
+for
+doubtful
+<S>             <C>         <C>                <C>   <C>         <C>     <C>
+accounts        $ 7,099     $ 1,995            -  $  2,636(2)    $40     $ 6,498
+
+Product
+return
+<S>               <C>         <C>              <C>   <C>          <C>      <C>
+reserve           4,007       2,088            -     2,716        53       3,432
+
+Accrued
+product
+<S>               <C>         <C>              <C>   <C>          <C>     <C>
+warranty          7,565       9,494            -     6,546        40      10,553
+
+Restructuring
+reserves:
+
+  Inventory
+  <S>             <C>            <C>       <C>   <C> <C>          <C>      <C>
+  reserve         1,180          -         1,834 (4) 1,315        -        1,699
+
+  Property
+  and
+  equipment
+  <S>             <C>        <C>              <C>    <C>          <C>         <C>
+  reserve         4,158      (1,844)(5)       25 (4) 2,246        -           93
+
+  Accrued
+  restructuring
+  <S>            <C>         <C>          <C>        <C>          <C>          <C>
+  costs          12,573      (1,502)(5)   (1,859)(4) 5,155        -            4,057
+
+  Total
+  restructuring
+  <S>            <C>         <C>              <C>    <C>          <C>          <C>
+  reserve        17,911      (3,346)          -      8,716        -            5,849
+
+YEAR ENDED
+MAY 31, 1994:
+
+Allowance
+for
+doubtful
+<S>             <C>         <C>          <C>    <C>    <C>        <C>        <C>
+accounts        $ 6,498     $ 4,459      $  168 (3)    723(2)     -          $10,402
+
+Product
+return
+<S>               <C>         <C>            <C>     <C>          <C>          <C>
+reserve           3,432       1,759          -       1,422        -            3,769
+
+Accrued
+product
+<S>              <C>         <C>            <C>       <C>         <C>         <C>
+warranty         10,553      11,776         863       9,506       -           13,686
+
+Restructuring
+reserves:
+
+  Inventory
+  <S>             <C>           <C>          <C>        <C>       <C>            <C>
+  reserve         1,699         -            -          774       -              925
+
+  Property
+  and
+  equipment
+  <S>                 <C>       <C>          <C>         <C>      <C>            <C>
+  reserve             93        -            -           -        -              93
+
+  Accrued
+  restructuring
+  <S>              <C>          <C>          <C>      <C>         <C>          <C>
+  costs            4,057        -            -        1,321       -            2,736
+
+    Total
+    restructuring
+    <S>            <C>          <C>          <C>      <C>         <C>          <C>
+    reserves       5,849        -            -        2,095       -            3,754
+</TABLE>
+<F1>
+(1)  Pooled business - net represents activity of Star-Tek for the period of 
+     January 1, 1992 through May 31, 1992 (see Note 3 to the Consolidated
+     Financial Statements).
+<F2>
+(2)  Accounts written off - net of recoveries.
+<F3>
+(3)  Adjustments relating to purchased businesses.
+<F4>
+(4)  Accrued restructuring costs reclassified to other restructuring reserves.
+<F5>
+(5)  Reduction in restructuring reserves based on current estimates of future
+     costs.
+
+SCHEDULE X
+                                      3Com Corporation
+                          SUPPLEMENTARY INCOME STATEMENT INFORMATION
+                       For the Years Ended May 31, 1992, 1993 and 1994
+                                   (in thousands)
+
+                                   Charged to Costs and Expenses
+Item                           1992              1993             1994
+
+Advertising costs             $15,918           $40,014         $53,288
+
+
+The amounts for maintenance and repairs, depreciation and
+amortization of intangible assets, preoperating costs and
+similiar deferrals, taxes other than payroll and income taxes and
+royalties are not presented, as these items did not exceed 1% of
+total sales in each of the three periods presented.
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3
+<SEQUENCE>2
+<DESCRIPTION>FIRST EXHIBIT 3-2
+<TEXT>
+
+EXHIBIT 3.2
+
+
+                                        CERTIFICATE OF AMENDMENT
+                                     OF THE AMENDED AND RESTATED
+                                        ARTICLES OF INCORPORATION
+
+OF
+                                               3COM CORPORATION
+
+
+      The  undersigned,  Eric A. Benhamou and  Mark  D.  Michael,
+hereby certify
+
+that:
+
+      1.   They are the duly elected and acting President and
+           Secretary, respectively, of 3Com Corporation, a California 
+           corporation (the "Corporation").
+      2.   Article III of the Amended and Restated Articles of
+           Incorporation of the Corporation is hereby amended to read in 
+           full as follows:
+
+                   "ARTICLE III
+                      STOCK
+
+     This corporation is authorized to issue two classes of
+shares, designated respectively "Common Stock" and "Preferred
+Stock."  Upon amendment of this Article to read as herein set
+forth, the number of shares of Common Stock which this
+corporation is authorized to issue is 200,000,000, the number of
+shares of Preferred Stock, which this corporation is authorized
+to issue is 3,000,000, and each share of outstanding Common Stock
+is converted into and reconstituted as two (2) shares of Common
+Stock.
+
+     The Preferred Stock may be issued from time to time in one
+or more series.  The Board of Directors of this corporation is
+authorized to determine the designation of any series, to fix the
+number of shares of any series, to determine or alter the rights,
+preferences, privileges and restrictions granted to or imposed
+upon any wholly unissued series of Preferred Stock, and within
+the limits or restrictions stated in any resolution of
+resolutions of the Board of Directors originally fixing the
+number of shares constituting any series, to increase or decrease
+(but not below the number of shares of any such series then
+outstanding) the number of shares of any such series subsequent
+to the issue of shares of that series."
+
+      3.   The foregoing amendment of the Amended and Restated
+           Articles of Incorporation has been duly approved by the Board of
+           Directors of the Corporation  in accordance with section 902(c) of
+           the  California Corporations Code.  The Corporation has only one
+           class of shares outstanding. Executed at Santa Clara, California
+           on the 8th day of August 1994.
+
+
+/S/     Eric A. Benhamou
+        Eric    A. Benhamou, President
+
+
+/S/     Mark D. Michael
+        Mark D. Michael, Secretary
+
+
+      The  undersigned declare under penalty of perjury that  the
+      matters setforth  in the foregoing certificate are true and correct of
+      their own knowledge.
+      
+      Executed at Santa Clara, California on the 8th day of August 1994.
+
+
+/S/     Eric A. Benhamou
+        Eric A. Benhamou, President
+
+
+/S/    Mark D. Michael
+       Mark D. Michael, Secretary
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 21-1
+<TEXT>
+
+EXHIBIT 21.1
+
+                                
+                                            3COM CORPORATION
+SUBSIDIARIES
+
+
+3Com Asia Limited (Hong Kong)
+3Com Benelux B.V. (The Netherlands)
+3Com Canada Inc. (Canada)
+3Com Credit Corporation (California, U.S.A.)
+3Com do Brasil Servicos Ltda. (Brazil)
+3Com de Mexico, S.A. de C.V. (Mexico)
+3Com Development Corporation (California, U.S.A.)
+3Com Engineering Limited (United Kingdom)
+3Com Europe Limited (United Kingdom)
+3Com GmbH (Germany)
+3Com Holdings Limited (Cayman Islands)
+3Com International, Inc. (Delaware, U.S.A.)
+3Com Ireland (Cayman Islands)
+3Com Ireland Technologies Limited (Ireland)
+3Com Limited (United Kingdom)
+3Com Japan K.K. (Japan)
+3Com Mediteraneo S.r.l. (Italy)
+3Com Nordic AB (Sweden)
+3Com S.A.R.L. (France)
+3Com Technologies Limited (Cayman Islands)
+3Com U.K. Holdings Limited (United Kingdom)
+3Com (U.K.) Limited (United Kingdom)
+3Com World Trade, Inc. (U.S. Virgin Islands)
+Synernetics, Inc. (Delaware, U.S.A.)
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT 23-1
+<TEXT>
+
+EXHIBIT 23.1
+
+
+CONSENT OF DELOITE & TOUCHE LLP
+
+
+3Com Corporation:
+
+We consent to the incorporation by reference in Registration
+Statements Nos. 2-92053, 33-2171, 33-17848, 33-33803, 33-33807,
+33-36911, 33-45176, 33-45233, 33-56952, 33-58708 and 33-72158 on
+Form S-8 of our report dated June 15, 1994 appearing in this
+Annual Report on Form 10-K of 3Com Corporation for the year ended
+May 31, 1993.
+
+
+
+DELOITTE & TOUCHE LLP
+
+San Jose, California
+August 23, 1994
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<DESCRIPTION>EXHIBIT 23-2
+<TEXT>
+
+EXHIBIT 23.2
+
+
+CONSENT OF LEVINE, ZEIDMAN & DAITCH, P.C.
+
+
+3Com Corporation
+
+We consent to the incorporation by reference in 3Com Corporation
+Registration Statements Nos. 2-92053, 33-2171, 33-17848, 33-
+33803, 33-33807, 33-39323, 33-36911, 33-45176, 33-45231, 33-
+45233, 33-56952, 33-58708 and 33-72158 on Form S-8 of our report
+dated February 24, 1992 relating to the financial statement of
+Star-Tek, Inc. for the year ended December 31, 1991 appearing in
+this Annual Report on Form 10-K of 3Com Corporation for the year
+ended May 31, 1993.
+
+
+
+LEVINE, ZEIDMAN & DAITCH, P.C.
+
+Wellesley Hills, Massachusetts
+August 23, 1994
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>6
+<DESCRIPTION>EXHIBIT 10-2
+<TEXT>
+
+EXHIBIT 10.2.2
+
+
+                                           3COM CORPORATION
+
+                                       1994 STOCK OPTION PLAN
+
+
+     1.     Purpose.  The 3Com Corporation 1994 Stock Option Plan
+(the "Plan") is  established to create additional incentive for
+eligible employees of 3Com Corporation and any successor
+corporation thereto (collectively referred to as the "Company"),
+and any present or future parent and/or subsidiary corporations
+of such corporation (all of whom along with the Company being
+individually referred to as a "Participating Company" and
+collectively referred to as the "Participating Company Group"),
+to promote the financial success and progress of the
+Participating Company Group.  For purposes of the Plan, a parent
+corporation and a subsidiary corporation shall be as defined in
+sections 424(e) and 424(f) of the Internal Revenue Code of 1986,
+as amended (the "Code").
+
+     2.     Administration.
+
+            (a)     General.  The Plan shall be administered by
+the Board of Directors of the Company (the "Board") and/or by a
+duly appointed committee of the Board having such powers as shall
+be specified by the Board.  Any subsequent references herein to
+the Board shall also mean the committee if such committee has
+been appointed and, unless the powers of the committee have been
+specifically limited, the committee shall have all of the powers
+of the Board granted herein, including, without limitation, the
+power to terminate or amend the Plan at any time, subject to the
+terms of the Plan and any applicable limitations imposed by law.
+All questions of interpretation of the Plan or of any options
+granted under the Plan (an "Option") shall be determined by the
+Board, and such determinations shall be final and binding upon
+all persons having an interest in the Plan and/or any Option.
+
+            (b)     Options Authorized.  Options may be only
+nonqualified stock options, that is, options which are not
+incentive stock options as defined in section 422 of the Code.
+
+            (c)     Authority of Officers.  Any officer of a
+Participating Company shall have the authority to act on behalf
+of the Company with respect to any matter, right, obligation, or
+election which is the responsibility of or which is allocated to
+the Company herein, provided the officer has apparent authority
+with respect to such matter, right, obligation, or election.
+
+     3.     Eligibility.  The Options may be granted only to
+employees of the Participating Company Group; provided, however,
+that no Option may be granted to (i) a person who, at the time of
+such grant, is an officer or director of the Company or a
+beneficial owner of more than ten percent (10%) of any class of
+equity securities of the Company registered pursuant to section
+12 of the Securities Exchange Act of 1934, as amended, or (ii)
+any person whose eligibility to participate in the Plan would
+require the Company to obtain shareholder approval of the Plan
+pursuant to the Bylaws of the National Association of Securities
+Dealers (and any schedules thereto) or the provisions contained
+in the New York Stock Exchange Listed Company Manual.  For
+purposes of the foregoing sentence, "employees" shall include
+prospective employees to whom Options are granted in connection
+with written offers of employment with the Participating Company
+Group.  The Board shall, in the Board's sole discretion,
+determine which eligible persons shall be granted Options (an
+"Optionee").  An Optionee may, if otherwise eligible, be granted
+additional Options.
+
+     4.     Shares Subject to Option.  Options shall be options
+for the purchase of the authorized but unissued common stock of
+the Company (the "Stock"), subject to adjustment as provided in
+paragraph 9 below.  The maximum number of shares of Stock which
+may be issued under the Plan shall be One Million Nine Hundred
+Thousand (1,900,000) shares.  In the event that any outstanding
+Option for any reason expires or is terminated or canceled and/or
+shares of Stock subject to repurchase are repurchased by the
+Company, the shares allocable to the unexercised portion of such
+Option, or such repurchased shares, may again be subjected to an
+Option.
+
+     5.     Time for Granting Options.  The Plan shall continue
+until terminated by the Board or until all of the shares of Stock
+reserved for issuance under the Plan have been issued, whichever
+shall first occur.
+
+     6.     Terms, Conditions and Form of Options.  Subject to
+the provisions of the Plan, the Board shall determine for each
+Option (which need not be identical) the number of shares of
+Stock for which the Option shall be granted, the exercise price
+of the Option, the exercisability of the Option, and all other
+terms and conditions of the Option not inconsistent with the
+Plan.  Options granted pursuant to the Plan shall be evidenced by
+written agreements specifying the number of shares of Stock
+covered thereby, in such form as the Board shall from time to
+time establish, and shall comply with and be subject to the
+following terms and conditions:
+
+            (a)     Exercise Price.  The exercise price for each
+Option shall be established in the sole discretion of the Board;
+provided, however, that the exercise price per share shall not be
+less than the fair market value, as determined by the Board, of a
+share of Stock on the date of the granting of the Option.
+Notwithstanding the foregoing, an Option may be granted with an
+exercise price lower than the minimum exercise price set forth
+above if such Option is granted pursuant to an assumption or
+substitution for another option in a manner qualifying with the
+provisions of section 424(a) of the Code.
+
+            (b)     Exercise Period of Options.  The Board shall
+have the power to set the time or times within which each Option
+shall be exercisable or the event or events upon the occurrence
+of which all or a portion of each Option shall be exercisable and
+the term of each Option; provided, however, that no Option shall
+be exercisable after the expiration of ten (10) years after the
+date such Option is granted.
+
+            (c)     Payment of Exercise Price.  Payment of the
+exercise price for the number of shares of Stock being purchased
+pursuant to any Option shall be made (i) in cash, by check, or
+cash equivalent, (ii) by tender to the Company of shares of the
+Company's stock owned by the Optionee having a value, as
+determined by the Board (but without regard to any restrictions
+on transferability applicable to such stock by reason of federal
+or state securities laws or agreements with an underwriter for
+the Company), not less than the exercise price, (iii) by the
+assignment of the proceeds of a sale of some or all of the shares
+being acquired upon the exercise of an Option (including, without
+limitation, through an exercise complying with the provisions of
+Regulation T as promulgated from time to time by the Board of
+Governors of the Federal Reserve System), or (iv) by any
+combination thereof.  The Board may at any time or from time to
+time, by adoption of or by amendment to the form of Standard
+Option Agreement described in paragraph 7 below, or by other
+means, grant Options which do not permit all of the foregoing
+forms of consideration to be used in payment of the exercise
+price and/or which otherwise restrict one (1) or more forms of
+consideration.  Notwithstanding the foregoing, an Option may not
+be exercised by tender to the Company of shares of the Company's
+stock to the extent such tender of stock would constitute a
+violation of the provisions of any law, regulation and/or
+agreement restricting the redemption of the Company's stock.
+
+            (x)     Unless otherwise provided by the Board, an
+Option may not be exercised by tender to the Company of the
+Company's stock unless such shares of the Company's stock either
+have been owned by the Optionee for more than one (1) year or
+were not acquired, directly or indirectly, from the Company.
+
+            (y)     The Company reserves, at any and all times,
+the right, in the Company's sole and absolute discretion, to
+establish, decline to approve and/or terminate any program and/or
+procedures for the exercise of Options by means of an assignment
+of the proceeds of a sale of some or all of the shares of Stock
+to be acquired upon such exercise.
+
+     7.     Standard Form of Stock Option Agreement.
+
+            (a)     Nonqualified Stock Options.  Unless otherwise
+provided for by the Board at the time an Option is granted, an
+Option shall comply with and be subject to the terms and
+conditions set forth in the form of nonqualified stock option
+agreement attached hereto as Exhibit A and incorporated herein by
+reference.
+
+            (b)     Standard Term for Options.  Unless otherwise
+provided for by the Board in the grant of an Option, any Option
+granted hereunder shall be exercisable for a term of ten (10)
+years.
+
+     8.     Authority to Vary Terms.  The Board shall have the
+authority from time to time to vary the terms of the Standard
+Option Agreement described in paragraph 7 above either in
+connection with the grant of an individual Option or in
+connection with the authorization of a new standard form or
+forms; provided, however, that the terms and conditions of such
+revised or amended standard form or forms of stock option
+agreement shall be in accordance with the terms of the Plan.
+Such authority shall include, but not by way of limitation, the
+authority to grant Options which are immediately exercisable.
+
+     9.     Effect of Change in Stock Subject to Plan.
+Appropriate adjustments shall be made in the number and class of
+shares of Stock subject to the Plan and to any outstanding
+Options and in the exercise price of any outstanding Options in
+the event of a stock dividend, stock split, reverse stock split,
+combination, reorganization, reclassification, or like change in
+the capital structure of the Company.
+
+    10.     Transfer of Control.  For purposes hereof, "Control
+Company" shall mean the Participating Company whose stock is
+subject to the Option.  An "Ownership Change" shall be deemed to
+have occurred in the event any of the following occurs with
+respect to the Control Company.
+
+            (a)     a direct or indirect sale or exchange by the
+shareholders of the Control Company of all or substantially all
+of the stock of the Control Company;
+
+            (b)     a merger in which the Control Company is a
+party; or
+
+            (c)     the sale, exchange, or transfer of all or
+substantially all of the Control Company's assets (other than a
+sale, exchange, or transfer to one (1) or more corporations where
+the shareholders of the Control Company before such sale,
+exchange, or transfer retain, directly or indirectly, at least a
+majority of the beneficial interest in the voting stock of the
+corporation(s) to which the assets were transferred).
+
+            A "Transfer of Control" shall mean an Ownership
+Change in which the shareholders of the Control Company before
+such Ownership Change do not retain, directly or indirectly, at
+least a majority of the beneficial interest in the voting stock
+of the Control Company.  In the event of a Transfer of Control,
+any unexercisable and/or unvested portion of the outstanding
+Options shall be immediately exercisable and vested as of 30 days
+prior to the Transfer of Control unless the surviving,
+continuing, successor, or purchasing corporation, as the case may
+be (the "Acquiring Corporation") assumes the Company's rights and
+obligations under outstanding stock option agreements or
+substitutes options for the Acquiring Corporation's stock for
+such outstanding Options.  The exercise and/or vesting of any
+Option that was permissible solely by reason of this paragraph 10
+shall be conditioned upon the consummation of the Transfer of
+Control.  Any Options which are neither assumed by the Acquiring
+Corporation nor exercised as of the date of the Transfer of
+Control shall terminate effective as of the date of the Transfer
+of Control.
+
+    11.     Provision of Information.  Each Optionee shall be
+given access to information concerning the Company equivalent to
+that information generally made available to the Company's common
+shareholders.
+
+    12.     Options Non-Transferable.  Unless otherwise provided
+by the Board, during the lifetime of the Optionee, the Option
+shall be exercisable only by the Optionee, and no Option shall be
+assignable or transferable by the Optionee, except by will or by
+the laws of descent and distribution.
+
+    13.     Termination or Amendment of Plan or Options.  The
+Board, including any duly appointed committee of the Board, may
+terminate or amend the Plan or any Option at any time.  In any
+event, no amendment may adversely affect any then outstanding
+Option or any unexercised portion thereof, without the consent of
+the Optionee.
+
+     IN WITNESS WHEREOF, the undersigned Assistant Secretary of
+the Company certifies that the foregoing 3Com Corporation 1994
+Stock Option Plan was duly adopted by the Board of Directors of
+the Company on July 13, 1994.
+
+
+
+/S/   Ronald B. Friedman
+
+
+                           3COM CORPORATION
+                         1994 STOCK OPTION PLAN
+                             PLAN HISTORY
+
+
+July 13, 1994             1994 Stock Option Plan adopted by Board with share
+                          reserve of 1,900,000 shares.
+
+EXHIBIT A
+     
+                               STANDARD FORM OF
+                              3COM CORPORATION
+                      NONQUALIFIED STOCK OPTION AGREEMENT
+                                
+                              3COM CORPORATION
+
+                      NONQUALIFIED STOCK OPTION AGREEMENT
+
+     3Com Corporation (the "Company"), granted to the individual
+named below an option to purchase certain shares of common stock
+of the Company, in the manner and subject to the provisions of
+this Option Agreement and the 3Com Corporation 1994 Stock Option
+Plan (the "Plan"), all of the terms of which are incorporated by
+reference herein.
+
+     1.     Definitions:
+
+            (a)     "Notice" shall mean the "3Com Corporation
+NOTICE OF GRANT OF STOCK OPTIONS AND GRANT AGREEMENT" which is
+attached hereto.
+
+            (b)     "Optionee" shall mean the individual whose
+name is set forth in the Notice.
+
+            (c)     "Date of Option Grant" shall mean the "Date
+of Grant" set forth in the Notice.
+
+            (d)     "Number of Option Shares" shall mean the
+"Total Number of Shares Granted" as set forth in the Notice.
+Such number of shares of common stock of the Company may be
+adjusted from time to time pursuant to paragraph 9 below.
+
+            (e)     "Exercise Price" shall mean the "Option Price
+per Share" set forth in the Notice.  Such price per share as
+adjusted from time to time pursuant to paragraph 9 below.
+
+            (f)     "Initial Exercise Date" shall be the Initial
+Vesting Date.
+
+            (g)     "Initial Vesting Date" shall be the latter of
+(i) the date occurring one  (1) month after the Date of Option
+Grant, or (ii) the date occurring six (6) months after the date
+on which the employee commenced employment with the Company.
+
+            (h)     Determination of "Vested Ratio":
+
+                    Prior to Initial Vesting Date
+0
+                    On Initial Vesting Date, for each full
+1/48
+                    month of the Optionee's continuous
+                    employment by a Participating Company
+                    from the Date of Option Grant until
+                    the Initial Vesting Date
+
+                    Plus
+
+                    For each full month of the Optionee's
+1/48
+                    continuous employment by a Participating
+                    Company from the Initial Vesting Date
+
+                    In no event shall the Vested Ratio exceed
+1/1.
+
+            (i)     "Option Term Date" shall mean the date ten
+(10) years after the Date of Option Grant.
+
+            (j)     "Code" shall mean the Internal Revenue Code
+of 1986, as amended.
+
+            (k)     "Company" shall mean 3Com Corporation, a
+California corporation, and any successor corporation thereto.
+            (l)     "Participating Company" shall mean (i) the
+Company and (ii) any present or future parent and/or subsidiary
+corporation of the Company while such corporation is a parent or
+subsidiary of the Company.  For purposes of this Option
+Agreement, a parent corporation and a subsidiary corporation
+shall be as defined in sections 424(e) and 424(f) of the Code.
+
+            (m)     "Participating Company Group" shall mean at
+any point in time all corporations collectively which are then a
+Participating Company.
+
+     2.     Status of the Option.  This Option is intended to be
+a nonqualified stock option and shall not be treated as an
+incentive stock option as described in Section 422 of the Code.
+
+     3.     Administration.  All questions of interpretation
+concerning this Option Agreement shall be determined by the Board
+of Directors of the Company (the "Board") and/or by a duly
+appointed committee of the Board having such powers as shall be
+specified by the Board.  Any subsequent references herein to the
+Board shall also mean the committee if such committee has been
+appointed and, unless the powers of the committee have been
+specifically limited, the committee shall have all of the powers
+of the Board granted in the Plan, including, without limitation,
+the power to terminate or amend the Plan at any time, subject to
+the terms of the Plan and any applicable limitations imposed by
+law.  All determinations by the Board shall be final and binding
+upon all persons having an interest in the Option.  Any officer
+of a Participating Company shall have the authority to act on
+behalf of the Company with respect to any matter, right,
+obligation, or election which is the responsibility of or which
+is allocated to the Company herein, provided the officer has
+apparent authority with respect to such matter, right,
+obligation, or election.
+
+     4.     Exercise of the Option.
+
+            (a)     Right to Exercise.  The Option shall first
+become exercisable on the Initial Exercise Date.  The Option
+shall be exercisable on and after the Initial Exercise Date and
+prior to the termination of the Option in the amount equal to the
+Number of Option Shares multiplied by the Vested Ratio as set
+forth in paragraph 1 above less the number of shares previously
+acquired upon exercise of the Option.  In no event shall the
+Option be exercisable for more shares than the Number of Option
+Shares.
+
+            (b)     Method of Exercise.  The Option may be
+exercised by written notice to the Company which must state the
+election to exercise the Option, the number of shares for which
+the Option is being exercised and such other representations and
+agreements as to the Optionee's investment intent with respect to
+such shares as may be required pursuant to the provisions of this
+Option Agreement.  The written notice must be signed by the
+Optionee and must be delivered in person or by certified or
+registered mail, return receipt requested, to the Chief Financial
+Officer of the Company, or other authorized representative of the
+Participating Company Group, prior to the termination of the
+Option as set forth in paragraph 6 below, accompanied by full
+payment of the exercise price for the number of shares being
+purchased.
+
+            (c)     Form of Payment of Exercise Price.  Such
+payment shall be made (i) in cash, by check, or cash equivalent,
+(ii) by tender to the Company of shares of the Company's common
+stock owned by the Optionee having a value not less than the
+exercise price, which either have been owned by the Optionee for
+more than one (1) year or were not acquired, directly or
+indirectly, from the Company, (iii) by Immediate Sales Proceeds,
+as defined below, or (iv) by any combination of the foregoing.
+Notwithstanding the foregoing, the Option may not be exercised by
+tender to the Company of shares of the Company's common stock to
+the extent such tender of stock would constitute a violation of
+the provisions of any law, regulation and/or agreement
+restricting the redemption of the Company's common stock.
+"Immediate Sales Proceeds" shall mean the assignment in form
+acceptable to the Company of the proceeds of a sale of some or
+all of the shares acquired upon the exercise of the Option
+pursuant to a program and/or procedure approved by the Company
+(including, without limitation, through an exercise complying
+with the provisions of Regulation T as promulgated from time to
+time by the Board of Governors of the Federal Reserve System).
+The Company reserves, at any and all times, the right, in the
+Company's sole and absolute discretion, to decline to approve any
+such program and/or procedure.
+
+            (d)     Tax Withholding.  At the time the Option is
+exercised, in whole or in part, or at any time thereafter as
+requested by the Company, the Optionee hereby authorizes payroll
+withholding and otherwise agrees to make adequate provision for
+foreign, federal and state tax withholding obligations of the
+Company, if any, which arise in connection with the Option,
+including, without limitation, obligations arising upon (i) the
+exercise, in whole or in part, of the Option, (ii) the transfer,
+in whole or in part, of any shares acquired on exercise of the
+Option, or (iii) the lapsing of any restriction with respect to
+any shares acquired on exercise of the Option.
+
+            (e)     Certificate Registration.  The certificate or
+certificates for the shares as to which the Option shall be
+exercised shall be registered in the name of the Optionee, or, if
+applicable, the heirs of the Optionee.
+
+            (f)     Restrictions on Grant of the Option and
+Issuance of Shares.  The grant of the Option and the issuance of
+the shares upon exercise of the Option shall be subject to
+compliance with all applicable requirements of federal or state
+law with respect to such securities.  The Option may not be
+exercised if the issuance of shares upon such exercise would
+constitute a violation of any applicable federal or state
+securities laws or other law or regulations.  In addition, no
+Option may be exercised unless (i) a registration statement under
+the Securities Act of 1933, as amended (the "Securities Act"),
+shall at the time of exercise of the Option be in effect with
+respect to the shares issuable upon exercise of the Option or
+(ii) in the opinion of legal counsel to the Company, the shares
+issuable upon exercise of the Option may be issued in accordance
+with the terms of an applicable exemption from the registration
+requirements of the Securities Act.  THE OPTIONEE IS CAUTIONED
+THAT THE OPTION MAY NOT BE EXERCISABLE UNLESS THE FOREGOING
+CONDITIONS ARE SATISFIED.  ACCORDINGLY, THE OPTIONEE MAY NOT BE
+ABLE TO EXERCISE THE OPTION WHEN DESIRED EVEN THOUGH THE OPTION
+IS VESTED.  As a condition to the exercise of the Option, the
+Company may require the Optionee to satisfy any qualifications
+that may be necessary or appropriate, to evidence compliance with
+any applicable law or regulation and to make any representation
+or warranty with respect thereto as may be requested by the
+Company.
+
+            (g)     Fractional Shares.  The Company shall not be
+required to issue fractional shares upon the exercise of the
+Option.
+
+     5.     Non-Transferability of the Option.  The Option may be
+exercised during the lifetime of the Optionee only by the
+Optionee and may not be assigned or transferred in any manner
+except by will or by the laws of descent and distribution.
+
+     6.     Termination of the Option.  The Option shall
+terminate and may no longer be exercised on the first to occur of
+(a) the Option Term Date as defined above, (b) the last date for
+exercising the Option following termination of employment as
+described in paragraph 7 below, or (c) upon a Transfer of Control
+as described in paragraph 8 below.
+
+     7.     Termination of Employment.
+
+            (a)     Termination of the Option.  If the Optionee
+ceases to be an employee of the Participating Company Group for
+any reason except death or disability within the meaning of
+section 422(c) of the Code, the Option, to the extent unexercised
+and exercisable by the Optionee on the date on which the Optionee
+ceased to be an employee, may be exercised by the Optionee within
+three (3) months after the date on which the Optionee's
+employment terminates, but in any event no later than the Option
+Term Date.  If the Optionee's employment with the Participating
+Company Group is terminated because of the death or disability of
+the Optionee within the meaning of section 422(c) of the Code,
+the Option, to the extent unexercised and exercisable by the
+Optionee on the date on which the Optionee ceased to be an
+employee, may be exercised by the Optionee (or the Optionee's
+legal representative) at any time prior to the expiration of
+twelve (12) months from the date the Optionee's employment
+terminated, but in any event no later than the Option Term Date.
+The Optionee's employment shall be deemed to have terminated on
+account of death if the Optionee dies within three (3) months
+after the Optionee's termination of employment.
+
+            (b)     Termination of Employment Defined.  For
+purposes of this paragraph 7, the Optionee's employment shall be
+deemed to have terminated either upon an actual termination of
+employment or upon the Optionee's employer ceasing to be a
+Participating Company.
+
+            (c)     Extension if Exercise Prevented by Law.
+Except as provided in this paragraph 7, the Option shall
+terminate and may not be exercised after the Optionee's
+employment with the Participating Company Group terminates unless
+the exercise of the Option in accordance with this paragraph 7 is
+prevented by the provisions of paragraph 4(f) above.  If the
+exercise of the Option is so prevented, the Option shall remain
+exercisable until three (3) months after the date the Optionee is
+notified by the Company that the Option is exercisable, but in
+any event no later than the Option Term Date.
+
+            (d)     Leave of Absence.  For purposes hereof, the
+Optionee's employment with the Participating Company Group shall
+not be deemed to terminate if the Optionee takes any military
+leave, sick leave, or other bona fide leave of absence approved
+by the Company of ninety (90) days or less.  In the event of a
+leave in excess of ninety (90) days, the Optionee's employment
+shall be deemed to terminate on the ninety-first (91st) day of
+the leave unless the Optionee's right to reemployment with the
+Participating Company Group remains guaranteed by statute or
+contract.  Notwithstanding the foregoing, however, a leave of
+absence shall be treated as employment for purposes of
+determining the Optionee's Vested Ratio if and only if the leave
+of absence is designated by the Company as (or required by law to
+be) a leave for which vesting credit is given.
+
+     8.     Transfer of Control.  For purposes hereof, "Control
+Company" shall mean the Participating Company whose stock is
+subject to the Option.  An "Ownership Change" shall be deemed to
+have occurred in the event any of the following occurs with
+respect to the Control Company.
+
+            (a)     a direct or indirect sale or exchange by the
+shareholders of the Control Company of all or substantially all
+of the stock of the Control Company;
+
+            (b)     a merger in which the Control Company is a
+party; or
+
+            (c)     the sale, exchange, or transfer of all or
+substantially all of the Control Company's assets (other than a
+sale, exchange, or transfer to one (1) or more corporations where
+the shareholders of the Control Company before such sale,
+exchange, or transfer retain, directly or indirectly, at least a
+majority of the beneficial interest in the voting stock of the
+corporation(s) to which the assets were transferred).
+
+            A "Transfer of Control" shall mean an Ownership
+Change in which the shareholders of the Control Company before
+such Ownership Change do not retain, directly or indirectly, at
+least a majority of the beneficial interest in the voting stock
+of the Control Company.  In the event of a Transfer of Control,
+any unexercisable and/or unvested portion of the Option shall be
+immediately exercisable and vested as of 30 days prior to the
+Transfer of Control unless the surviving, continuing, successor,
+or purchasing corporation, as the case may be (the "Acquiring
+Corporation") assumes the Company's rights and obligations under
+this Option Agreement or substitutes options for the Acquiring
+Corporation's stock for the Option.  The exercise and/or vesting
+of any Option that was permissible solely by reason of this
+paragraph 8 shall be conditioned upon the consummation of the
+Transfer of Control.  The Option shall terminate effective as of
+the date of the Transfer of Control to the extent that the Option
+is neither assumed or substituted for by the Acquiring
+Corporation nor exercised as of the date of the Transfer of
+Control.
+
+     9.     Effect of Change in Stock Subject to the Option.
+Appropriate adjustments shall be made in the number, exercise
+price and class of shares of stock subject to the Option in the
+event of a stock dividend, stock split, reverse stock split,
+combination, reorganization, reclassification, or like change in
+the capital structure of the Company.  In the event a majority of
+the shares which are of the same class as the shares that are
+subject to the Option are exchanged for, converted into, or
+otherwise become shares of another corporation (the "New
+Shares"), the Company may unilaterally amend the Option to
+provide that the Option is exercisable for New Shares.  In the
+event of any such amendment, the number of shares and the
+exercise price shall be adjusted in a fair and equitable manner.
+
+    10.     Rights as a Shareholder or Employee.  The Optionee
+shall have no rights as a shareholder with respect to any shares
+covered by the Option until the date of the issuance of a
+certificate or certificates for the shares for which the Option
+has been exercised.  No adjustment shall be made for dividends or
+distributions or other rights for which the record date is prior
+to the date such certificate or certificates are issued, except
+as provided in paragraph 9 above.  Nothing in the Option shall
+confer upon the Optionee any right to continue in the employ of a
+Participating Company or interfere in any way with any right of
+the Participating Company Group to terminate the Optionee's
+employment at any time.
+
+    11.     Legends.  The Company may at any time place legends
+referencing any applicable federal or state securities law
+restrictions on all certificates representing shares of stock
+subject to the provisions of this Option Agreement.  The Optionee
+shall, at the request of the Company, promptly present to the
+Company any and all certificates representing shares acquired
+pursuant to the Option in the possession of the Optionee in order
+to effectuate the provisions of this paragraph.
+
+    12.     Binding Effect.  This Option Agreement shall inure to
+the benefit of and be binding upon the parties hereto and their
+respective heirs, executors, administrators, successors and
+assigns.
+
+    13.     Termination or Amendment.  The Board, including any
+duly appointed committee of the Board, may terminate or amend the
+Plan and/or the Option at any time; provided, however, that no
+such termination or amendment may adversely affect the Option or
+any unexercised portion hereof without the consent of the
+Optionee.
+
+    14.     Integrated Agreement.  This Option Agreement
+constitutes the entire understanding and agreement of the
+Optionee and the Participating Company Group with respect to the
+subject matter contained herein, and there are no agreements,
+understandings, restrictions, representations, or warranties
+among the Optionee and the Company other than those as set forth
+or provided for herein.  To the extent contemplated herein, the
+provisions of this Option Agreement shall survive any exercise of
+the Option and shall remain in full force and effect.
+
+    15.     Applicable Law.  This Option Agreement shall be
+governed by the laws of the State of California.
+
+               3COM CORPORATION
+By:
+Title:
+
+     The Optionee represents that the Optionee is familiar with
+the terms and provisions of this Option Agreement and hereby
+accepts the Option subject to all of the terms and provisions
+thereof.  The Optionee hereby agrees to accept as binding,
+conclusive and final all decisions or interpretations of the
+Board upon any questions arising under this Option Agreement.
+
+Date:
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

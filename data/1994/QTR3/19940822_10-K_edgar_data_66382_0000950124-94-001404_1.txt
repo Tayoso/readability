@@ -1,0 +1,2941 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ AKmtowiNQiG2zeoQ4IgBGBGyEHO1ik/cYg2ZeNhvROV759xuKH4Y65JrCyBVd4Nh
+ SdPNuAnLqCgBuuRROcykHg==
+
+<IMS-DOCUMENT>0000950124-94-001404.txt : 19940825
+<IMS-HEADER>0000950124-94-001404.hdr.sgml : 19940825
+ACCESSION NUMBER:		0000950124-94-001404
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19940528
+FILED AS OF DATE:		19940822
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MILLER HERMAN INC
+		CENTRAL INDEX KEY:			0000066382
+		STANDARD INDUSTRIAL CLASSIFICATION:	2520
+		IRS NUMBER:				380837640
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-05813
+		FILM NUMBER:		94545345
+
+	BUSINESS ADDRESS:	
+		STREET 1:		855 E MAIN AVE
+		STREET 2:		PO BOX 302
+		CITY:			ZEELAND
+		STATE:			MI
+		ZIP:			49464-0302
+		BUSINESS PHONE:		6166543000
+
+	MAIL ADDRESS:	
+		STREET 1:		8500 BYRON RD
+		CITY:			ZEELAND
+		STATE:			MI
+		ZIP:			49464
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MILLER HERMAN FURNITURE CO
+		DATE OF NAME CHANGE:	19690610
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STAR FURNITURE CO
+		DATE OF NAME CHANGE:	19671116
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MICHIGAN STAR FURNITURE CO
+		DATE OF NAME CHANGE:	19671116
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, DC  20549
+
+                                   FORM 10-K
+
+  X       ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE 
+          ACT OF 1934
+
+_____     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES 
+          EXCHANGE ACT OF 1934
+
+For Fiscal Year Ended May 28, 1994                    Commission File No. 0-5813
+
+                              Herman Miller, Inc.
+             (Exact name of registrant as specified in its charter)
+
+             Michigan                                     38-0837640
+   (State or other jurisdiction                         (I.R.S. Employer
+of incorporation or organization)                       Identification No.)
+
+       855 East Main Avenue
+            PO Box 302
+         Zeeland, Michigan                                     49464-0302
+       (Address of principal                                   (Zip Code)
+        executive offices)
+
+Registrant's telephone number, including area code: (616) 654 3000
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Securities registered pursuant to Section 12(g) of the Act:      Common Stock, 
+                                                                 $.20 Par Value
+                                                                (Title of Class)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+Yes   X  . No     .
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.  _____
+
+The aggregate market value of the voting stock held by "nonaffiliates" of the
+registrant (for this purpose only, the affiliates of the registrant have been
+assumed to be the executive officers and directors of the registrant and their
+associates) as of August 8, 1994, was approximately $688,886,586 (based on
+$27.625 per share which was the closing sale price in the over-the-counter
+market as reported by NASDAQ).
+
+The number of shares outstanding of the registrant's common stock, as of August
+8, 1994: Common stock, $.20 par value--24,595,475 shares outstanding.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Certain portions of the Registrant's Proxy Statement for the Annual Meeting of
+Shareholders to be held on October 6, 1994, are incorporated into Part III of
+this report.
+<PAGE>   2
+
+                                     PART 1
+
+Item 1  BUSINESS
+
+(a)  General Development of Business
+
+The company primarily is engaged in the design, manufacture, and sale of
+furniture systems and furniture, and related products and services, for
+offices, and, to a lesser extent, for health-care facilities and other uses.
+Through research, the company seeks to define and clarify customer needs and
+problems existing in its markets and to design, through innovation where
+feasible, products and systems as solutions to such problems.
+
+Herman Miller, Inc., was incorporated in Michigan in 1905. One of the company's
+major plants and its corporate offices are located at 855 East Main Avenue, PO
+Box 302, Zeeland, Michigan, 49464-0302, and its telephone number is (616) 654
+3000. Unless otherwise noted or indicated by the context, the term "company"
+includes Herman Miller, Inc., its predecessors and subsidiaries.
+
+(b)  Financial Information About Industry Segments
+
+A dominant portion (more than 90 percent) of the company's operations is in a
+single industry segment--the design, manufacture, and sale of office furniture
+systems and furniture, and related products and services. Accordingly, no
+separate industry segment information is presented.
+
+(c)  Narrative Description of Business
+
+The company's principal business consists of the research, design, development,
+manufacture, and sale of furniture systems and furniture, and related products
+and services. Most of these systems and products are coordinated in design so
+that they may be used both together and interchangeably. The company's products
+and services are purchased primarily for offices, and, to a lesser extent,      
+health-care facilities and other uses. The company is a leader in design and
+development of furniture and furniture systems. This leadership is exemplified
+by the innovative concepts introduced by the company in its modular systems
+known as "Action Office(R)," "Co/Struc(R)," and "Ethospace(R)."  Action Office,
+the company's series of three freestanding office partition and furnishing
+systems, is believed to be the first such system to be introduced and
+nationally marketed and as such popularized the "open plan" approach to office
+space utilization. Co/Struc is a unique system for storing and handling
+materials and supplies within health-care facilities and laboratories.
+Ethospace interiors is a system of movable full- and partial-height walls, with
+panels and individual wall segments that interchangeably attach to wall
+framework. It includes wall-attached work surfaces and storage/display units,
+electrical distribution, lighting, organizing tools, and freestanding
+components. The company also offers a broad array of seating (including
+"Equa(R)" and "Ergon(R)" office chairs), storage (including Meridian filing
+products), and freestanding furniture products.   
+
+                                     -2-
+<PAGE>   3
+
+The company's products are marketed worldwide by its own sales staff. These 
+sales persons work with dealers, the design and architectural community, as
+well as directly with end users. Seeking and strengthening the various
+distribution channels within the marketplace is a major focus of the company.
+Independent dealerships concentrate on the sale of Herman Miller products and a
+few complementary product lines of other manufacturers. Approximately 83.9
+percent of the company's sales (in the fiscal year ended May 28, 1994) were
+made to or through independent dealers. The remaining sales (16.1 percent) were
+made directly to end-users, including federal, state, and local governments,
+and several major corporations.
+
+The company's furniture systems, seating, storage, and freestanding furniture
+products, and related services are used in (1) office/institution environments
+including offices and related conference, lobby and lounge areas, and general
+public areas including transportation terminals; (2) health/science
+environments including hospitals and other health care facilities; (3)
+clinical, industrial, and educational laboratories; and (4) other environments.
+In the following table, sales are classified by end-user (in millions):
+
+<TABLE>
+<CAPTION>
+                                                               Year Ended                                     
+                                    ------------------------------------------------------------------
+                                          May 28,                May 29,                 May 30,
+                                            1994                  1993                   1992         
+                                    --------------------  --------------------   ---------------------
+                                    Net          % of       Net         % of       Net          % of
+                                    Sales       Total       Sales      Total       Sales       Total
+                                    -----       -----       -----      -----       -----       -----
+<S>                                <C>           <C>       <C>         <C>       <C>           <C>
+Office/Institution Environments    $922.1        96.7      $824.2       96.3      $773.5        96.1
+
+Other (1)                            31.1         3.3        31.5        3.7        31.2         3.9
+                                   ------       -----      ------     ------      ------       -----
+
+  Total                            $953.2       100.0      $855.7     100.00      $804.7       100.0
+                                   ======       =====      ======     ======      ======       =====
+</TABLE>
+
+(1)      Includes health/science, industrial light assembly, and other users.
+
+New Product and Industry Segment Information
+
+During the past 12 months, the company has not made any public announcement of,
+or otherwise made public information about, a new product or a new industry     
+segment which would require the investment of a material amount of the
+company's assets or which would otherwise result in a material cost.
+
+Raw Materials
+
+The company's manufacturing materials are available from a significant number
+of sources within the United States, Canada, Europe, and the Far East. To date,
+the company has not experienced any difficulties in obtaining its raw
+materials. The raw materials used are not unique to the industry nor are they
+rare.
+
+
+
+                                      -3-
+<PAGE>   4
+Patents, Trademarks, Licenses, Etc.
+
+The company has approximately 169 active United States utility patents on
+various components used in its products and systems and approximately 85 active
+United States design patents. Many of the inventions covered by the United
+States patents also have been patented in a number of foreign countries.
+Various trademarks, including the name and style "Herman Miller," and the "   "
+trademark, are registered in the United States and certain foreign countries.
+The company does not believe that any material part of its business is
+dependent on the continued availability of any one or all of its patents or
+trademarks, or that its business would be materially adversely affected by the
+loss of any thereof except the "Herman Miller," "Action Office," "Co/Struc,"
+"Ergon," "Ethospace," "Equa," and "    " trademarks.
+
+Seasonal Nature of Business
+
+The company does not consider its business to be seasonal in nature.
+
+Working Capital Practices
+
+The company does not believe that it or the industry in general has any special
+practices or special conditions affecting working capital items that are
+significant for an understanding of the company's business.
+
+Customer Base
+
+No single dealer accounted for more than 3.0 percent of the company s net sales
+in the fiscal year ended May 28, 1994. For fiscal 1994, the largest single
+end-user customer accounted for approximately 9.4 percent of the company's net
+sales with the 10 largest of such customers accounting for approximately 17.3
+percent of the company's sales. The company does not believe that its business
+is dependent on any single or small number of customers, the loss of which
+would have a materially adverse effect upon the company.
+
+Backlog of Orders
+
+As of May 28, 1994, the company's backlog of unfilled orders was $138.6
+million. At May 29, 1993, the company's backlog totalled $129.8 million. It is
+expected that substantially all the orders forming the backlog at May 28, 1994,
+will be filled during the current fiscal year.  Many orders received by the
+company are filled from existing raw material inventories and are reflected in
+the backlog for only a short period while other orders specify delayed
+shipments and are carried in the backlog for up to one year. Accordingly, the
+amount of the backlog at any particular time is not necessarily indicative of
+the level of net sales for a particular succeeding period.
+
+
+                                      -4-
+<PAGE>   5
+Government Contracts
+
+Other than standard price reduction and other provisions contained in contracts
+with the United States government, the company does not believe that any
+significant portion of its business is subject to material renegotiation of
+profits or termination of contracts or subcontracts at the election of various
+government entities.
+
+Competition
+
+All aspects of the company's business are highly competitive. The principal
+methods of competition utilized by the company include design, product and
+service quality, speed of delivery, and product pricing. The company believes
+that it is the second largest office furniture manufacturer in the United
+States. However, in several of the markets served by the company, it competes
+with up to 400 smaller companies and with several manufacturers that have
+significantly greater resources and sales. Price competition intensified during
+the past several years and especially during fiscal 1992 and the first half of
+fiscal 1993. Prices stabilized beginning in the last half of fiscal 1993 and
+during fiscal 1994. Prior to 1994, the company's gross profit margin declined
+due to price competition. Through manufacturing productivity gains, and
+improved purchasing procedures, the company has been able to partially offset
+the effects of price discounting on its gross margin. These factors, together
+with price stability during 1994 resulted in an improved gross margin.
+
+Research, Design and Development
+
+One of the competitive strengths of the company is its research, design and
+development programs. Accordingly, the company believes that its research and
+design activities are of significant importance. Through research, the company
+seeks to define and clarify customer needs and problems and to design, through
+innovation where feasible, products and services as solutions to these customer
+needs and problems. The company utilizes both internal and independent research
+and design resources. Exclusive of royalty payments, approximately $26.7
+million, $22.4 million, and $20.3 million was spent by the company on design
+and research activities in fiscal 1994, fiscal 1993, and fiscal 1992,
+respectively. Royalties are paid to designers of the company's products as the
+products are sold and are not considered research and development expenditures.
+
+Environmental Matters
+
+The company does not believe, based on existing facts known to management, that
+existing environmental laws and regulations have had or will have any material
+effects upon the capital expenditures, earnings, or competitive position of the
+company. Further, the company continues to rigorously reduce, recycle, and
+reuse the solid wastes generated by its manufacturing processes. Its
+accomplishments and these efforts have been widely recognized.
+
+
+                                      -5-
+<PAGE>   6
+Human Resources
+
+The company considers another of its major competitive strengths to be its
+human resources. The company stresses individual employee participation and     
+incentives, and believes that this emphasis has helped to attract and retain a
+capable work force. The company has a human resources group to provide employee
+recruitment, education and development, and compensation planning and   
+counseling. There have been no work stoppages or labor disputes in the
+company's history, and its relations with its employees are considered
+excellent. Approximately 462 of the company's employees are represented by
+collective bargaining agents, most of whom are employees of its Integrated
+Metal Technology, Inc., and Herman Miller, Limited (U.K.) subsidiaries. As
+such, these subsidiaries are parties to collective bargaining agreements with
+these employees.
+
+As of May 28, 1994, the company employed 5,940 full-time and 513 part-time
+employees, representing a 9.1 percent increase in full-time employees and a 8.2
+percent decrease in part-time employees compared with May 29, 1993. In addition
+to its employee work force, the company uses purchased labor to meet uneven
+demand in its manufacturing operations. Throughout the course of the year the
+use of purchased labor increased by 56.0 percent. The increase is due to the
+company experiencing a significant increase in sales during the second half of
+fiscal 1994.
+
+(d)  Information About International Operations
+
+The company's sales in international markets primarily are made to
+office/institution customers. Foreign sales mostly consist of office furniture
+products such as Ethospace and Action Office systems, seating, and storage
+products. The company has focused its international operations on four major
+markets: Canada, Europe, Latin America, and the Asia/Pacific region. In certain
+other foreign markets, the company's products are offered through licensing of
+foreign manufacturers on a royalty basis.
+
+At the present time, the company's products sold in international markets are
+manufactured by wholly owned subsidiaries in the United States, United Kingdom,
+Mexico, and Japan. Sales are made through wholly owned subsidiaries in
+Australia, Canada, France, Germany, Japan, Mexico, the Netherlands, and the
+United Kingdom. The company's products are offered in the Middle East through
+dealers.
+
+In several other countries, the company licenses manufacturing and selling
+rights. Historically, these licensing arrangements have not required a
+significant investment of funds or personnel by the company, and, in the
+aggregate, have not produced a material net income for the company.
+
+Additional information with respect to operations by geographic area appears in
+the note "Segment Information" of the Notes to Consolidated Financial
+Statements set forth on pages 34 and 35. Fluctuating exchange rates and factors
+beyond the control of the company, such as tariff and foreign economic
+policies, may affect future results of international operations.
+
+
+                                      -6-
+<PAGE>   7
+Item 2  PROPERTIES
+
+The company owns or leases facilities which are located throughout the United
+States and several foreign countries, including Canada, France, Germany, Japan,
+Mexico, the Netherlands, and the United Kingdom. The location, square footage,
+and use of the most significant facilities at May 28, 1994, were as follows:
+
+Location
+
+<TABLE>
+<CAPTION>
+                                   Square 
+Owned Locations                    Footage                  Use            
+- - ---------------                    -------          -----------------------
+<S>                                <C>              <C>
+Zeeland, Michigan                  749,000          Manufacturing, Warehouse, and Office
+Spring Lake, Michigan              584,000          Manufacturing, Warehouse, and Office
+Holland, Michigan                  355,000          Distribution and Warehouse
+Rocklin, California                343,600          Manufacturing and Warehouse
+Roswell, Georgia                   220,000          Manufacturing and Warehouse
+Holland, Michigan                  216,900          Design Center
+Holland, Michigan                  200,000          Manufacturing and Warehouse
+Grandville, Michigan               214,800          Manufacturing, Warehouse, and Office
+Sanford, North Carolina            160,000          Manufacturing, Warehouse, and Office
+
+Leased Locations
+- - ----------------
+
+Zeeland, Michigan                  358,300          Manufacturing, Warehouse, and Office
+Dayton, New Jersey                 244,700          Manufacturing and Warehouse
+Dallas, Texas                      131,600          Manufacturing and Warehouse
+Chippenham, England, U.K.          104,900          Manufacturing and Warehouse
+Stone Mountain, Georgia             84,500          Manufacturing and Warehouse
+Mexico City, Mexico                 66,200          Manufacturing, Warehouse, and Office
+</TABLE>
+
+The company also maintains showrooms or sales offices near most major
+metropolitan areas throughout North America, Europe, the Middle East,
+Asia/Pacific, and South America. A complete listing of the company's showrooms
+and sales offices is contained in the Annual Report to Shareholders for the
+year ended May 28, 1994. The company considers its existing facilities to be in
+excellent condition, efficiently utilized, well suited, and adequate for its
+design, production, distribution, and selling requirements.
+
+Item 3  PENDING LEGAL PROCEEDINGS
+
+On January 7, 1992, Haworth, Inc., filed a lawsuit in the U.S. District Court
+for the Northern District of Georgia (Atlanta Division), against Herman Miller,
+Inc., alleging that the electrical systems used in certain of the company's
+products infringe one or more of Haworth's patents.  On December 9, 1992, the
+company's motion for change of venue was granted, and the lawsuit was
+transferred to the U.S. District Court for the Western District of Michigan
+(Southern Division).
+
+                                      -7-
+<PAGE>   8
+The litigation is considered to be in an intermediate stage, and the company is
+defending its position vigorously. The company has requested a jury trial,
+which has been tentatively set for August 1995 by the court. The patents that
+are the source of controversy expire on or before December 1, 1994. Since 1991,
+the company has sold a system of enhanced electrical components on the majority
+of its product lines, both by number and dollar volume. Haworth has admitted
+the enhanced electrical components do not infringe the patents in suit. If
+Haworth were to be successful on its claims, the statute of limitation would
+bar recovery of any damages arising prior to January 1986.
+
+In November 1985, Haworth filed a lawsuit against Steelcase, Inc., the
+industry's leader in market share, alleging violations of the same patents, and
+thus far has prevailed on the issue of liability. The litigation between
+Haworth and Steelcase currently is continuing on the issue of damages. The
+company's defenses are substantially different from those relied upon by
+Steelcase.
+
+The company believes, based upon written opinion of counsel, that its products
+do not infringe Haworth's patents and that the company is more likely than not
+to prevail on the merits, although, as with all litigation, there can be no
+absolute assurance of success. At this time, management does not expect the
+ultimate resolution of this matter to have a material adverse effect on the
+company's consolidated financial position. However, the outcome of this matter
+is not subject to prediction with certainty.
+
+Item 4  SUBMISSION OF MATTER TO A VOTE OF SECURITY HOLDERS
+
+No matters were submitted to a vote of security holders during the fourth
+quarter of the year ended May 28, 1994.
+
+                                      -8-
+<PAGE>   9
+ADDITIONAL ITEM: EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Certain information relating to Executive Officers of the company is as
+follows:
+
+<TABLE>
+<CAPTION>
+                                        Year Elected an           Position with
+             Name                 Age   Executive Officer         the Company
+             ----                 ---   -----------------         -----------
+            <S>                   <C>         <C>                 <C>
+            James H. Bloem        44          1987                Vice President, Chief Financial Officer, and Treasurer
+
+            Hansjorg Broser       53          1992                Vice President and President,
+                                                                  Herman Miller Europe
+
+            J. Kermit Campbell    55          1992                President and Chief Executive Officer(1)(2)
+
+            James E. Christenson  47          1989                Vice President, General Counsel, and Secretary
+
+            Max O. DePree         69          1950                Chairman of the Board(1)(2)
+
+            Robert A. Harvey      58          1984                Senior Vice President for Business Development
+
+            Andrew C. McGregor    44          1988                Vice President and General Manager of Seating
+
+            Philip J. Mercorella  50          1981                Senior Vice President and General Manager of Systems
+
+            Gary S. Miller        45          1984                Senior Vice President for Design and Development
+
+            Richard H. Ruch       64          1969                Vice Chairman of the Board(1)(2)
+
+            James G. Schreiber    44          1984                Vice President for Information and Corporate Controller
+
+            Gary J. TenHarmsel    46          1982                Senior Vice President for North American Distribution Alignment
+</TABLE>
+
+(1)  Director of the company and not an employee
+(2)  Member of the executive committee of the Board of Directors
+
+                                      -9-
+<PAGE>   10
+                                    PART II
+
+Item 5   MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED
+SHAREHOLDER MATTERS
+
+Share Price, Earnings, and Dividends Summary
+
+Herman Miller, Inc., common stock is quoted in the NASDAQ-National Market
+System (NASDAQ-NMS Symbol: MLHR). As of August 8, 1994, there were
+approximately 11,000 shareholders of the company's common stock.
+
+<TABLE>
+<CAPTION>
+                                 Market          Market    Market   Per         Per
+                                 Price           Price     Price    Share       Share
+Per Share and Unaudited          High            Low       Close    Earnings    Dividends
+- - -----------------------          ----            ---       -----    --------    ---------
+<S>                            <C>              <C>        <C>        <C>         <C>
+Year Ended May 28, 1994
+First quarter                  29.875           25.000     28.000      .30        .13
+Second quarter                 31.000           24.750     29.250      .44        .13
+Third quarter                  35.000           27.125     34.625      .44        .13
+Fourth quarter                 34.750           23.750     24.875      .42        .13
+Year                           35.000           23.750     24.875     1.60        .52
+
+Year Ended May 29, 1993
+First quarter                  19.500           15.875     16.125      .10        .13
+Second quarter                 17.000           14.750     16.625      .14        .13
+Third quarter                  22.750           16.500     22.250      .29        .13
+Fourth quarter                 26.375           19.250     25.625      .35        .13
+Year                           26.375           14.750     25.625      .88        .52
+</TABLE>
+
+
+                                     -10-
+<PAGE>   11
+Item 6 SELECTED FINANCIAL DATA
+
+REVIEW OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+In Thousands Except Per Share Data                        1994           1993        1992         1991       1990
+                                                          ----           ----        ----         ----       ----
+<S>                                                     <C>           <C>         <C>          <C>         <C>
+OPERATING RESULTS
+Net Sales                                               $953,200      $855,673    $804,675     $878,732    $865,016
+Gross Margin                                             337,138       298,501     277,076      314,159     313,171
+Gross Margin Percent                                        35.4          34.9        34.4         35.8        36.2
+Operating Income(1,2)                                     61,798        43,769       1,989       39,206      82,704
+Design and Research Expense                               30,151        24,513      20,725       23,212      20,784
+Income (Loss) Before Income Taxes(1,2)                    63,473        42,354       (988)       33,159      74,996
+Net Income (Loss)(1,2,3,4)                                40,373        22,054    (14,145)       14,059      46,596
+After-Tax Return on Net Sales (Percent; 1,2,3,4)             4.2           2.6       (1.8)          1.6         5.4
+After-Tax Return on Average
+   Assets (Percent, 1,2,3,4)                                 7.9           4.6       (2.9)          2.7         8.8
+After-Tax Return on Average
+   Equity (Percent, 1,2,3,4)                                13.9           7.8       (4.8)          4.5        15.7
+Cash Flow from Operating Activities                       69,764        82,588      77,000       86,393      81,706
+Capital Expenditures                                      40,347        43,387      32,024       32,609      34,978
+Depreciation and Amortization                             33,207        31,600      30,473       32,761      28,005
+
+COMMON SHARE DATA
+Earnings per Share(1,2,3,4)                                 1.60           .88       (.56)          .55        1.82
+Cash Dividends Declared per Share                            .52           .52         .52          .52         .52
+Common Stock Repurchased                                 $25,363      $  8,155     $10,445       $4,690      $2,005
+Cash Dividends Paid                                       13,098        13,002      13,113       13,326      12,777
+Common Stock Repurchased plus
+    Cash Dividends Paid                                   38,461        21,157      23,558       18,016      14,782
+Average Shares and Equivalents Outstanding                25,255        24,993      25,163       25,685      25,643
+Book Value per Share at Year-End                           11.73         11.36       11.14        12.33       12.27
+Market Price per Share at Year-End                        24.875        25.625      19.000       20.125      20.500
+
+FINANCIAL CONDITION
+Total Assets                                             533,746       484,342     471,268      492,947     533,982
+Working Capital                                           50,943        62,711      66,545      113,980     127,003
+Current Ratio                                               1.29          1.43        1.48         2.06        2.09
+Interest-Bearing Debt                                     70,017        39,877      53,975       75,693     109,997
+Long-Term Debt                                            20,600        21,128      29,445       54,720      89,043
+Shareholders' Equity                                     296,325       283,942     280,082      314,782     314,315
+Total Capital                                            316,925       305,070     309,527      369,502     403,358
+Percent Long-Term Debt to Total Capital                      6.5           6.9         9.5         14.8        22.1
+Interest Expense                                           1,828         2,089       6,879       10,260      11,756
+Interest Coverage Times(1,2,3,4)                            35.7          21.3          .9          4.2         7.4
+</TABLE>
+
+(1) Includes $30.2 million of pretax charges, including restructuring charges
+of $25.0 million, and other charges of $5.2 million in 1992.  These charges
+decreased net income by $20.6 million, or $.82 per share.
+(2) Includes $25.9 million of pretax charges, including wood casegoods
+restructuring charge of $18.6 million and other pretax charges of $7.3 million
+in 1991. These charges decreased net income by $22.9 million, or $.89 per
+share.
+(3) Includes cumulative effect of change in accounting principle of $8.0
+million after-tax expense ($.31 per share) in 1992 and $3.3 million after-tax
+income ($.13 per share) in 1989.
+(4) Includes loss on extinguishment of long-term debt of $2.7 million, or $.11
+per share in 1992.
+
+
+
+
+
+                                     -11-
+<PAGE>   12
+Item 7  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+
+RESULTS OF OPERATIONS
+NET SALES Net sales increased $97.5 million (11.4 percent) in 1994, increased
+$51.0 million (6.3 percent) in 1993, and decreased $74.1 million (8.4 percent)
+in 1992. The increases in 1994 and 1993 primarily were due to higher unit
+volumes. Price stability, which began in the last half of fiscal 1993,
+continued throughout fiscal 1994. Prior to that time, realized unit prices
+decreased. Changes in the rate of exchange between the United States dollar and
+other currencies decreased net sales $5.5 million (.6 percent) in fiscal 1994
+and $2.9 million (.3 percent) in fiscal 1993. In 1992, the decrease in net
+sales primarily was due to increased price competition, which resulted in
+realized price decreases, together with lower unit volumes worldwide. The
+remainder of the decrease in 1992 was due to the effect of changes in foreign
+exchange rates, which decreased net sales $2.3 million (.3 percent).
+
+Net sales of international operations and export sales from the United States
+were $141.0 million, $121.5 million, and $124.0 million in 1994, 1993, and
+1992, respectively. The increase in 1994 of $19.5 million (16.0 percent) was
+primarily due to higher unit volume offset by changes in foreign exchange
+rates, which decreased net sales by $5.5 million (3.9 percent). Geographically,
+net sales increased over 50 percent in Asia Pacific/Latin America while
+decreasing nearly 20 percent in Europe. The decrease in 1993 of $2.5 million
+(2.0 percent) primarily was due to changes in foreign exchange rates. In 1993,
+net sales increased 6.5 percent in Europe and 7.6 percent in Asia Pacific/Latin
+America.
+
+The Business and Institutional Furniture Manufacturers Association ("BIFMA"),
+the United States office furniture trade association, reported that United
+States industry sales increased approximately 7.0 percent in 1994, 7.7 percent
+in 1993, and decreased 4.2 percent in 1992. These figures compare with a 10.6
+percent increase, a 7.9 percent increase, and a 6.2 percent decline in the
+company s United States net sales for fiscal 1994, 1993, and 1992,
+respectively. The company's market share grew in 1994 and 1993, and declined
+slightly in 1992. The small market share decline in 1992 ended a two-year
+period where the company maintained its market share as measured by BIFMA.
+Comparable industry measures for share of international markets either are not
+as comprehensive or are unavailable, so as to prohibit meaningful comparison
+with the company's international net sales and export sales from the United
+States. During 1994, based on anecdotal evidence, the company believes it
+increased its share of international markets except in Europe. During 1993,
+based on anecdotal evidence, the company believes it has maintained or slightly
+increased its share of international markets. Despite the significant decline
+in European and particularly United Kingdom net sales in 1992, based on
+anecdotal evidence, the company believes it also maintained its share of these
+markets during 1992.
+
+The backlog of unfilled orders on May 28, 1994, was $138.6 million compared
+with $129.8 million on May 29, 1993, and $116.2 million on May 30, 1992. New
+orders increased $92.8 million (10.7 percent) in 1994, $60.5 million (7.5
+percent) in 1993, and $29.8 million (3.8 percent) in 1992.
+
+
+
+
+
+                                     -12-
+<PAGE>   13
+GROSS MARGIN The company's gross margin percentage was 35.4 percent of net
+sales in 1994 compared with 34.9 percent in 1993, and 34.4 percent in 1992. The
+.5 percent improvement in 1994 gross margin was due to reduced overhead
+spending and increased volume which leveraged fixed overhead. Price stability
+during 1994 also contributed to the gross margin improvement. The .5 percent
+improvement in 1993 gross margin primarily was due to the inclusion of
+additional inventory reserves of $3.6 million in 1992. These additional
+inventory reserves were part of the $30.2 million of restructuring and other
+pretax charges recorded in the fourth quarter of 1992, which are discussed
+under the Restructuring and Other Charges section below. During 1993, the
+company continued to experience increased price discounting, which was offset
+partially by cost savings on materials.
+
+In 1992 the decreased gross margin primarily was due to inventory reserves,
+increased price discounting, and lower unit volumes which resulted in the
+application of higher labor and overhead rates.
+
+OPERATING EXPENSES Selling, general, and administrative expenses were $245.2
+million (25.7 percent of net sales); $230.2 million (26.9 percent of net
+sales); and $229.4 million (28.5 percent of net sales) in 1994, 1993, and 1992,
+respectively. The decrease in 1994 as a percent of net sales primarily was due
+to higher net sales. The increase in total operating expenses in fiscal 1994
+primarily was attributable to increases in both compensation ($5.2 million,
+primarily incentive based) and related benefits ($1.4 million, primarily
+defined benefit plan and health-care expenses), the adoption of Statement of
+Financial Accounting Standards No. 112, "Employers  Accounting for
+Postemployment Benefits" ($.8 million of the total $1.7 million cumulative
+effect), and the addition of Mexican operations effective January 1, 1994 ($4.3
+million). The decrease in operating expenses in 1993 as a percent of net sales
+primarily was due to higher net sales, since total operating expenses increased
+only $.8 million, or .4 percent. The modest increase in total operating
+expenses in fiscal 1993 primarily was attributable to a lower fixed cost
+structure resulting from the previous year's restructuring charges ($3.6
+million) and lower provisions for uncollectible accounts and notes receivable
+($4.1 million), offset by increases in both compensation ($4.9 million,
+primarily incentive based) and related benefits ($3.6 million, primarily
+defined benefit plan and health-care expenses). The increase in 1992 as a
+percent of net sales was directly attributable to the decline in net sales,
+since total operating expenses were less than the previous year by $3.7 million
+(1.6 percent). The decrease in total operating expenses in fiscal 1992
+primarily was due to lower provisions for uncollectible accounts and notes
+receivable ($1.8 million) and lower incentive-based compensation at all levels
+of the company ($1.5 million).
+
+Design and research expenses were $30.2 million in 1994, compared with $24.5
+million in 1993, and $20.7 million in 1992. As a percentage of net sales,
+design and research expenses were 3.2 percent of net sales in 1994, 2.9 percent
+of net sales in 1993, and 2.6 percent of net sales in 1992. This percentage
+compares with the industry-wide rate of 1.5 percent of net sales reported by
+BIFMA for calendar 1993. The 23.3 percent increase in research and design
+expense for fiscal 1994 supports several new products that will be introduced
+in the next 18 months. These products will focus on the continuing need for
+
+
+                                     -13-
+<PAGE>   14
+improved ergonomic and productivity solutions in the office and health-care
+environments.
+
+RESTRUCTURING AND OTHER CHARGES There were no restructuring charges in 1994 or
+1993. As previously mentioned, the company recorded $30.2 million of pretax
+charges in its fourth quarter ended May 30, 1992. These charges included
+leasehold abandonments and facility closings ($8.1 million), product
+discontinuance and production relocation charges ($9.9 million), a
+reorganization reserve and early retirement incentive ($7.0 million), and
+additional reserves for both inventories ($3.6 million) and uncollectible
+accounts receivables ($1.6 million). In addition, the company recorded an
+extraordinary loss of $4.2 million ($2.7 million, net of applicable income
+taxes) on the prepayment of $42.9 million of long-term debt in the fourth
+quarter of 1992.
+
+OTHER EXPENSES AND INCOME Interest income, net of interest expense, was $1.5
+million in 1994, $1.0 million in 1993 compared with interest expense, net of
+interest income of $2.6 million in 1992. The decreasing level of interest
+expense primarily was due to the decreasing level of average interest-bearing
+debt during each fiscal year. Total interest-bearing debt was $70.0 million on
+May 28, 1994, compared with $39.9 million on May 29, 1993, and $54.0 million on
+May 30, 1992.
+
+Other net expenses were $1.2 million in 1994, $3.5 million in 1993, and $.5
+million in 1992. The increase from 1992 to 1993 primarily was due to loss on
+disposals of fixed assets and, to a lesser extent, charges for a
+reconfiguration of European operations.
+
+INCOME TAXES The effective tax rate was 36.4 percent in 1994 and 47.9 percent
+in 1993. The lower 1994 rate primarily was attributable to improved
+international operating results, especially in the United Kingdom, together
+with the effects of a corporate-owned life insurance program implemented in the
+second half of the year. The company expects its effective tax rate for fiscal
+1995 to be in the range of 35 to 38 percent. The high tax rate in 1993
+primarily was due to the then-current nondeductibility of the $3.2 million
+after-tax charges for reconfiguration of European operations. Before giving
+effect to these nondeductible European charges, the effective tax rate was 37.5
+percent in 1993. In 1992, the tax provision on net loss (excluding the
+extraordinary loss on prepayment of long-term debt and the cumulative effect of
+change in accounting principle) was $2.5 million. The fiscal 1992 provision
+resulted from nondeductible capital losses and net operating losses for
+European operations, which are at a lower statutory tax rate than the United
+States. In addition, during the fourth quarter of 1992, the company exhausted
+its ability to carry back net operating losses to prior periods for income tax
+purposes in the United Kingdom.
+
+NET INCOME (LOSS) The company recorded net income of $40.4 million in 1994 and
+$22.1 million in 1993, compared with a $14.1 million net loss in 1992. The 1992
+amount includes $30.2 million of pretax charges, a $2.7 million extraordinary
+loss, net of applicable income taxes, and $8.0 million cumulative effect of
+change in accounting principle, net of applicable income taxes. These charges
+decreased net income by $32.3 million.
+
+
+
+                                     -14-
+<PAGE>   15
+EXTRAORDINARY LOSS In May 1992 the company paid a $4.2 million pretax
+prepayment penalty for early extinguishment of a $42.9 million, 10.15 percent
+per annum, unsecured note payable due in 1997. The penalty of $2.7 million, net
+of applicable income taxes, or $.11 per share, was recorded as an extraordinary
+loss.
+
+CUMULATIVE EFFECT OF CHANGE IN ACCOUNTING PRINCIPLE During the fourth quarter
+of 1992 and retroactive to June 2, 1991, the company adopted Statement of
+Financial Accounting Standards No. 106, "Employers  Accounting for
+Postretirement Benefits Other Than Pensions" (SFAS No. 106), which requires the
+recognition of such costs, principally retiree health care, on an accrual
+rather than on a cash basis. As a result, 1992 net income was reduced by $9.1
+million, or $.35 per share. Approximately $8.0 million, or $.31 per share, was
+recorded to establish an accrued liability for the cumulative effect of this
+accounting change as of the beginning of fiscal 1992. Additionally, earnings
+were reduced by $1.1 million, or $.04 per share, by the use of the accrual
+method in 1992. The charges resulting from the adoption of SFAS No. 106 had no
+effect on the company s cash position and represented 3.2 percent of total
+shareholders' equity on an after-tax basis.
+
+LIQUIDITY AND CAPITAL RESOURCES
+CASH FLOWS FROM OPERATING ACTIVITIES Cash provided by operating activities was
+$69.8 million in 1994 compared with $82.6 million in 1993, and $77.0 million in
+1992. The decline in 1994 was attributable to an increase in the use of working
+capital, primarily accounts receivable and inventory which accompany higher
+sales. The increase in 1993 primarily was due to higher net income and
+increasingly effective asset utilization. The decrease in 1992 primarily was
+due to the net loss, partially offset by the restructuring and other pretax
+charges that did not require cash outlays.
+
+In each of the past three years, cash provided by operating activities has been
+sufficient to finance the company s working capital needs, property and
+equipment additions, and cash dividend payments. In fiscal 1993 and 1992, cash
+provided by operating activities also financed all repurchases of the company's
+common stock.
+
+CASH FLOWS FROM INVESTING ACTIVITIES Expenditures for property and equipment
+additions were $40.3 million in 1994 compared with $43.4 million in 1993, and
+$32.0 million in 1992. The increased level of spending in fiscal 1994 and 1993
+was used to fund capital expenditures for improvements required to achieve
+higher product and service quality standards and shortened customer lead times,
+as well as for new products.  Net cash used for loans to independent Office
+Pavilion dealers amounted to $7.3 million in 1994. This compares with net cash
+used for similar loans of $6.8 million in 1993 and $1.0 million in 1992. The
+volume of cash flows through these revolving credit loans, which support the
+sale of the company's products by these independent dealers, has increased
+significantly over the past three years.
+
+CASH FLOWS FROM FINANCING ACTIVITIES In 1994, the company borrowed (net of
+repayments) $23.8 million of short-term and long-term debt. The increased
+short-term borrowings principally were due to repurchases of common stock
+primarily in the fourth quarter of fiscal 1994, as discussed below. These
+borrowings are considered temporary.
+
+
+
+
+
+                                     -15-
+<PAGE>   16
+The company repaid (net of borrowings)  $14.1 million and $21.7 million of
+short-term and long-term debt in 1993 and 1992, respectively. The company has
+available formal and informal lines of credit totalling $135.0 million should
+additional borrowings be required for operating, investing, or financing
+activities. In 1992, the company prepaid a $42.9 million, 10.15 percent per
+annum unsecured note payable due in 1997.  The entire amount prepaid, $47.5
+million (including accrued interest and the prepayment penalty), was financed
+by the company's formal and informal lines of credit from then existing cash
+balances.
+
+In 1994, the company repurchased $25.4 million of its common stock compared
+with $8.2 million in 1993, and $10.4 million in 1992. In May, the company
+completed the 2.0 million share repurchase program announced in January 1991,
+buying back slightly more than 2.27 million shares, or 8.8 percent of the
+then-outstanding common stock, at an average cost of $21.25. At the same time
+in May, the company also announced plans to purchase up to an additional 2.0
+million common stock, or 8.1 percent of its 24.59 million common shares
+currently outstanding. In 1994, .929 million shares, or 3.7 percent of total
+shares outstanding at May 29, 1993, were repurchased at an average cost of
+$27.31 per share. In 1993, .529 million, or 2.1 percent of total shares
+outstanding on May 30, 1992, were repurchased at an average cost of $15.43 per
+share. In 1992, .578 million, or 2.3 percent of the total shares outstanding on
+June 1, 1991, were repurchased at an average cost of $17.81 per share. All
+repurchases were made in the open market on an unsolicited basis.
+
+EXPECTED FUTURE CASH FLOWS Cash provided by operating activities is not
+expected to change significantly in 1995. The company anticipates that cash
+flows from operating activities and short-term borrowings, if necessary, will
+be adequate to fund its capital expenditures, dividend payments, common stock
+repurchases, and modest required long-term debt repayments.
+
+Capital expenditures are expected to be approximately $45.0 million in 1995 and
+to consist principally of expenditures relating to continued enhancement of the
+company's existing facilities and equipment, as well as costs associated with
+new products to be introduced in fiscal 1995 and 1996.
+
+The volume of cash flows and the outstanding balance of the revolving credit
+loans to independent dealers are not expected to change significantly in 1995.
+As previously discussed, the company is committed to its 2.0 million share
+repurchase program announced in May 1994 and anticipates that all shares
+repurchased will be permanently funded by cash flows from operating activities.
+Dividend payments are expected to be $13.2 million in 1995.
+
+
+
+
+
+                                     -16-
+<PAGE>   17
+Item 8  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+Quarterly Financial Data
+
+Summary of the quarterly operating results on a consolidated basis:
+
+<TABLE>
+<CAPTION>
+May 28, 1994; May 29, 1993; May 30, 1992
+In Thousands Except Per Share Data                       First           Second          Third        Fourth     
+and Unaudited                                            Quarter         Quarter         Quarter      Quarter    
+                                                         ------          -------         -------      -------    
+<S>      <C>                                            <C>             <C>             <C>        <C>        
+1994     Net sales                                      $221,566        $241,822        $241,949      $247,863   
+         Gross margin                                     76,323          84,330          84,158        92,327   
+         Net income                                        7,474          11,183          11,181        10,535   
+         Net income per share                               $.30            $.44            $.44          $.42   
+1993     Net sales                                      $199,596        $204,974        $217,462      $233,641   
+         Gross margin                                     68,396          68,860          75,999        85,246   
+         Net income                                        2,409           3,558           7,237         8,850   
+         Net income per share                               $.10            $.14            $.29          $.35   
+1992     Net sales                                      $184,634        $206,090        $198,820      $215,131   
+         Gross margin                                     64,039          72,359          67,988        72,690   
+         Income (loss) before extraordinary                                                                      
+         loss and cumulative effect of                                                                           
+         change in accounting principle                    2,219           5,348           3,904   (14,959)(1)   
+         Extraordinary loss on early                                                                             
+         extinguishment of debt, net of                                                                          
+         applicable income taxes                              --              --              --       (2,681)   
+         Net income (loss) before cumulative                                                                     
+         effect of change in accounting principle          2,219           5,348           3,904   (17,640)(1)   
+         Cumulative effect of change in                                                                          
+         accounting  principle, net of                                                                           
+         applicable income taxes                         (7,976)              --              --            --   
+         Net income (loss)                               (5,757)           5,348           3,904   (17,640)(1)   
+         Income (loss) per share before                                                                          
+         extraordinary loss and cumulative                                                                       
+         effect of change in accounting principle           $.09            $.21            $.16    $ (.60)(1)   
+         Extraordinary loss per share                         --              --              --        $(.11)   
+         Cumulative per share effect of change                                                                   
+         in accounting principle                          $(.31)              --              --            --   
+         Net income (loss) per share                      $(.22)            $.21            $.16     $(.71)(1)   
+</TABLE>    
+
+(1)  Includes $30.2 million of pretax charges, including restructuring charges
+of $25.0 million and other charges of $5.2 million. These charges decreased net
+income by $20.6 million, or $.82 per share.
+
+
+
+
+
+                                     -17-
+<PAGE>   18
+Consolidated Statements of Operations
+
+<TABLE>
+<CAPTION>
+May 28, 1994; May 29, 1993; and May 30, 1992             1994            1993             1992
+                                                         ----            ----             ----
+In Thousands Except Per Share Data
+<S>                                                     <C>              <C>             <C>
+NET SALES                                               $953,200         $855,673         $804,675
+Cost of Sales                                            616,062          557,172          527,599
+                                                         -------          -------          -------
+    GROSS MARGIN                                         337,138          298,501          277,076
+                                                         -------          -------          -------
+Operating Expenses:
+    Selling, general, and administrative                 245,189          230,219          229,392
+    Design and research                                   30,151           24,513           20,725
+    Restructuring charges                                     --               --           24,970
+                                                         -------          -------          -------
+    TOTAL OPERATING EXPENSES                             275,340          254,732          275,087
+                                                         -------          -------          -------
+OPERATING INCOME                                          61,798           43,769            1,989
+                                                         -------          -------          -------
+Other Expenses (Income):
+    Interest expense                                       1,828            2,089            6,879
+    Interest income                                       (3,278)          (3,041)          (4,300)
+    Gain on foreign exchange                              (1,464)          (1,130)            (123)
+    Other--net                                             1,239            3,497              521
+                                                         -------          -------          -------
+    NET OTHER (INCOME) EXPENSES                           (1,675)           1,415            2,977
+                                                         =======          =======          =======
+INCOME (LOSS) BEFORE INCOME TAXES, EXTRAORDINARY
+LOSS, AND CUMULATIVE EFFECT OF CHANGE IN
+ACCOUNTING PRINCIPLE                                      63,473           42,354             (988)
+Income Taxes                                              23,100           20,300            2,500
+                                                         -------          -------          -------
+Income (Loss) Before Extraordinary Loss and
+Cumulative Effect of Change in Accounting Principle       40,373           22,054           (3,488)
+Extraordinary Loss on Early Extinguishment
+of Debt, Net of Applicable Income Taxes                       --               --           (2,681)
+                                                         -------          -------          -------
+Net Income (Loss) Before Cumulative Effect
+of Change in Accounting Principle                         40,373           22,054           (6,169)
+                                                         =======          =======          =======
+Cumulative Effect of Change in Accounting Principle,
+Net of Applicable Income Taxes                                --               --           (7,976)
+                                                         -------          -------          -------
+NET INCOME (LOSS)                                        $40,373          $22,054         $(14,145)
+                                                         -------          -------          -------
+NET INCOME (LOSS) PER SHARE BEFORE EXTRAORDINARY
+LOSS AND CUMULATIVE EFFECT OF CHANGE IN
+ACCOUNTING PRINCIPLE                                       $1.60             $.88            $(.14)
+Extraordinary Loss Per Share                                  --               --             (.11)
+Cumulative Per Share Effect of Change in
+Accounting Principle                                          --               --             (.31)
+                                                         -------          -------          -------
+NET INCOME (LOSS) PER SHARE                                $1.60             $.88            $(.56)
+                                                         =======          =======          =======
+</TABLE>
+
+The accompanying notes are an integral part of these statements.
+
+
+
+
+
+                                     -18-
+<PAGE>   19
+Consolidated Balance Sheets
+
+<TABLE>
+<CAPTION>
+May 28, 1994 and May 29, 1993
+In Thousands Except Per Share Data
+ASSETS                                                                        1994             1993
+                                                                              ----             ----
+<S>                                                                          <C>              <C>
+Current Assets:                                                           
+   Cash and cash equivalents                                                  $22,701          $16,531
+   Accounts receivable, less allowances of $6,742                         
+      in 1994 and $6,168 in 1993                                              121,564          111,218
+   Inventories                                                                 59,813           56,038
+   Prepaid expenses and other                                                  24,590           23,783
+                                                                             --------         --------
+       TOTAL CURRENT ASSETS                                                   228,668          207,570
+                                                                             ========         ========
+Property and Equipment:                                                   
+   Land and improvements                                                       27,602           27,153
+   Buildings and improvements                                                 145,131          135,584
+   Machinery and equipment                                                    258,167          250,719
+   Construction in progress                                                    23,994           17,951
+                                                                             --------         --------
+                                                                              454,894          431,407
+   Less--accumulated depreciation                                             215,932          202,963
+                                                                             --------         --------
+       NET PROPERTY AND EQUIPMENT                                             238,962          228,444
+Notes Receivable, less allowances of $2,159 in 1994 and $2,106 in 1993         36,659           32,174
+Other Assets                                                                   29,457           16,154
+                                                                             --------         --------
+       TOTAL ASSETS                                                          $533,746         $484,342
+                                                                             ========         ========
+                                                                          
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current Liabilities:
+   Current portion of long-term debt                                             $506             $515
+   Notes payable                                                               48,911           18,234
+   Accounts payable                                                            42,121           38,654
+   Accrued liabilities                                                         86,187           87,456
+                                                                             --------         --------
+       TOTAL CURRENT LIABILITIES                                              177,725          144,859
+Long-Term Debt, less current portion above                                     20,600           21,128
+Deferred Taxes                                                                  3,819            7,412
+Other Liabilities                                                              35,277           27,001
+                                                                             --------         --------
+       TOTAL LIABILITIES                                                      237,421          200,400
+                                                                             ========         ========
+Shareholders' Equity:                                                     
+   Preferred stock, no par value (10,000,000 shares authorized, none      
+   issued)                                                                         --               --
+   Common stock, $.20 par value (60,000,000 shares authorized,            
+   24,589,825 and 25,003,963 shares issued and outstanding in 1994        
+   and 1993)                                                                    4,918            5,001
+   Additional paid-in capital                                                  16,649           29,863
+   Retained earnings                                                          279,161          251,831
+   Cumulative translation adjustment                                           (3,460)          (1,349)
+   Unearned stock grant compensation                                             (943)          (1,404)
+                                                                             --------         --------
+       TOTAL SHAREHOLDERS' EQUITY                                             296,325          283,942
+                                                                             --------         --------
+       TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                            $533,746         $484,342
+                                                                             ========         ========
+                                                                          
+</TABLE>
+
+The accompanying notes are an integral part of these balance sheets.
+
+
+
+
+
+                                     -19-
+<PAGE>   20
+Consolidated Statements of Shareholders' Equity
+
+<TABLE>
+<CAPTION>
+In Thousands                        Common      Additional  Retained    Cumulative    Unearned      Total
+                                    Stock       Paid-In     Earnings    Translation   Stock Grant   Shareholders
+                                                Capital                 Adjustment    Compensation  Equity
+<S>                                 <C>        <C>          <C>          <C>       <C>           <C>
+BALANCE JUNE 1, 1991                 $5,106     $38,382     $269,963       $1,679    $  (348)      $314,782
+Net loss                                 --          --      (14,145)          --         --        (14,145)
+Cash dividends ($.52 per share)          --          --      (13,070)          --         --        (13,070)
+Exercise of stock options                10         458           --           --         --            468
+Common stock issued pursuant
+to employee stock purchase plan          29       2,090           --           --         --          2,119
+Repurchase and retirement of
+583,671 shares of common stock         (118)    (10,327)          --           --         --        (10,445)
+Stock grants earned                      --          --           --           --        234            234
+Stock grants issued                       3         299           --           --       (302)            --
+Current year translation adjustment      --          --           --          139         --            139
+                                     ------     -------     --------       ------    -------       --------
+BALANCE MAY 30, 1992                 $5,030     $30,902     $242,748       $1,818    $  (416)      $280,082
+Net income                               --          --       22,054           --         --         22,054
+Cash dividends ($.52 per share)          --          --      (12,971)          --         --        (12,971)
+Exercise of stock options                36       3,642           --           --         --          3,678
+Common stock issued pursuant
+to employee stock purchase plan          25       2,014           --           --         --          2,039
+Repurchase and retirement of
+528,700 shares of common stock         (106)     (8,049)          --           --         --         (8,155)
+Stock grants earned                      --          --           --           --        382            382
+Stock grants issued                      16       1,354           --           --     (1,370)            --
+Current year translation adjustment      --          --           --       (3,167)        --         (3,167)
+                                     ------     -------     --------       ------    -------       --------
+BALANCE MAY 29, 1993                 $5,001     $29,863     $251,831     $ (1,349)   $(1,404)      $283,942
+Net income                               --          --       40,373           --         --         40,373
+Cash dividends ($.52 per share)          --          --      (13,043)          --         --        (13,043)
+Exercise of stock options                85       9,770           --           --         --          9,855
+Common stock issued pursuant
+to employee stock purchase plan          18       2,193           --           --         --          2,211
+Repurchase and retirement of
+928,800 shares of common stock         (186)    (25,177)          --           --         --        (25,363)
+Stock grants earned                      --          --           --           --        461            461
+Current year translation adjustment      --          --           --       (2,111)        --         (2,111)
+                                     ------     -------     --------       ------    -------       --------
+BALANCE MAY 28, 1994                 $4,918     $16,649     $279,161     $ (3,460)   $  (943)      $296,325
+                                     ------     -------     --------       ------    -------       --------
+</TABLE>
+
+The accompanying notes are an integral part of these statements.
+
+
+
+
+
+                                     -20-
+<PAGE>   21
+consolidated Statements of Cash Flows
+
+<TABLE>
+<CAPTION>
+May 28, 1994; May 29, 1993; and May 30, 1992                  1994           1993           1992      
+                                                              ----           ----           ----      
+In Thousands                                                                                          
+<S>                                                         <C>             <C>          <C>         
+Cash Flows from Operating Activities:                                                                 
+Net Income (Loss)                                            $40,373        $22,054      $ (14,145)   
+                                                              ------         ------        -------    
+Adjustments to reconcile net income (loss)                                                            
+to net cash provided by operating activities                  29,391         60,534         91,145    
+                                                              ------         ------          ------   
+    NET CASH PROVIDED BY OPERATING ACTIVITIES                 69,764         82,588         77,000    
+                                                              ------         ------          ------   
+Cash Flows from Investing Activities:                                                                 
+Notes receivable repayments                                  360,047        323,983        289,818    
+Notes receivable issued                                     (367,366)      (330,789)      (290,826)   
+Property and equipment additions                             (40,347)       (43,387)       (32,024)   
+Proceeds from sales of property and equipment                    212            114          1,769    
+Net cash paid for acquisition                                 (7,744)            --             --    
+Other, net                                                    (4,002)        (2,501)           901    
+                                                              ------         ------        -------    
+    NET CASH USED FOR INVESTING ACTIVITIES                   (59,200)       (52,580)       (30,362)   
+                                                              ------         ------        -------    
+Cash Flows from Financing Activities:                                                                 
+Increase (decrease) in short-term debt                        24,090         (3,826)         9,511    
+Long-term debt borrowings                                         --             28         20,000    
+Long-term debt repayments                                       (260)       (10,345)       (52,138)   
+Dividends paid                                               (13,098)       (13,002)       (13,113)   
+Common stock issued                                           12,066          5,717          2,587    
+Common stock repurchased and retired                         (25,363)        (8,155)       (10,445)   
+Capital lease obligation repayments                             (276)          (280)          (324)   
+                                                              ------         ------        -------    
+    NET CASH USED FOR FINANCING ACTIVITIES                    (2,841)       (29,863)       (43,922)   
+                                                              ------         ------        -------    
+Effect of Exchange Rate Changes                                                                       
+on Cash and Cash Equivalents                                  (1,553)          (563)        (1,136)   
+                                                                                                      
+    Net Increase (Decrease) in Cash and Cash Equivalents       6,170           (418)         1,580    
+                                                              ------         ------        -------    
+Cash and Cash Equivalents, Beginning of Year                  16,531         16,949         15,369    
+                                                              ------         ------        -------    
+CASH AND CASH EQUIVALENTS, END OF YEAR                       $22,701        $16,531      $  16,949    
+                                                              ------         ------          ------   
+</TABLE>      
+
+The accompanying notes are an integral part of these statements.
+
+
+
+
+
+                                     -21-
+<PAGE>   22
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+SIGNIFICANT ACCOUNTING AND REPORTING POLICIES
+The following is a summary of significant accounting and reporting policies not
+reflected elsewhere in the accompanying financial statements.
+         PRINCIPLES OF CONSOLIDATION  The consolidated financial statements
+include the accounts of Herman Miller, Inc., and its wholly owned domestic and
+foreign subsidiaries (the "company"). All significant intercompany accounts and
+transactions have been eliminated.
+         DESCRIPTION OF BUSINESS  The company is engaged in the design,
+manufacture, and sale of furniture and furniture systems for offices, and, to a
+lesser extent, for health-care facilities. The company's products primarily are
+sold to or through independent contract office furniture dealers. Accordingly,
+accounts and notes receivable in the accompanying balance sheets principally
+are amounts due from the company's dealers.
+         FISCAL YEAR  The company's fiscal year ends on the Saturday closest to
+May 31. The years ended May 28, 1994, May 29, 1993, and May 30, 1992, each
+contain 52 weeks.
+         FOREIGN CURRENCY TRANSLATION  In accordance with Statement of
+Financial Accounting Standards No. 52, "Foreign Currency Translation," all
+balance sheet items are translated at the current rate as of the end of the
+accounting period, and statement of operations items are translated at average
+currency exchange rates. The resulting translation adjustment is recorded as a
+separate component of shareholders' equity.
+         CASH EQUIVALENTS  The company invests in certain debt and equity
+securities as part of its cash management function. Due to the relative
+short-term maturities and high liquidity of these securities, they are included
+in the accompanying consolidated balance sheets as cash equivalents at market
+value and total $7.4 million and $4.8 million as of May 28, 1994, and May 29,
+1993, respectively. All cash and cash equivalents are high-credit quality
+financial instruments, and the amount of credit exposure to any one financial
+institution or instrument is limited.
+         During fiscal 1994, the company adopted the provisions of Statement of
+Financial Accounting Standards No. 115, "Accounting for Certain Investments in
+Debt and Equity Securities." Under the provision of this statement, the
+company's cash equivalents are considered "available for sale." As of May 28,
+1994, the market value approximated the securities' cost.
+         PROPERTY, EQUIPMENT, AND DEPRECIATION  Property and equipment are
+stated at cost. The cost is depreciated over the estimated useful lives of the
+assets using the straight-line method. The average useful lives of the assets
+are 32 years for buildings and 7 years for all other property and equipment.
+         NOTES RECEIVABLE  The notes receivable are from certain independent
+contract office furniture dealers. The notes are collateralized by the assets
+of the dealers and bear interest based on the prevailing prime rate. Interest
+income, net of abatements, relating to these notes was $2.7, $2.3, and $2.7
+million in 1994, 1993, and 1992, respectively. No interest abatements were
+granted in 1994 or 1993. Interest abatements of $1.1 million were granted in
+1992 to certain dealerships that were start-up operations in order to
+facilitate their long-term financial viability.
+
+
+
+
+
+                                     -22-
+<PAGE>   23
+         In May 1993, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 114, "Accounting by Creditors for
+Impairment of a Loan," (SFAS No. 114). The company is required to adopt this
+statement as of the beginning of fiscal 1996. This statement requires that the
+recorded investment in certain impaired loans (as defined by the statement) be
+adjusted by means of a valuation allowance to reflect a net carrying value.
+When adopted, the provisions of SFAS No. 114 are not expected to have a
+material effect on the company's financial condition or results of operations.
+         INTANGIBLE ASSETS  Intangible assets included in other assets, consist
+mainly of patents and other acquired intangibles, and are carried at cost less
+applicable amortization of $2.2 and $1.6 million in 1994 and 1993,
+respectively. These assets are amortized using the straight-line method over
+periods of 5 to 10 years. The company continuously evaluates the realizability
+of its intangible assets using various methodologies and adjusts their carrying
+value if necessary. Such adjustments were not significant in 1994, 1993, and
+1992.
+         SELF INSURANCE  The company is partially self insured for general
+liability, workers' compensation, and certain employee health benefits. The
+general and workers' compensation liabilities are managed through a wholly
+owned insurance captive, the results of which are included in the accompanying
+statements of operations. The company's policy is to accrue amounts equal to
+the  actuarially determined liabilities.
+         RESEARCH, DEVELOPMENT, ADVERTISING, AND OTHER RELATED COSTS  Research,
+development, advertising materials, pre-production and start-up costs are
+expensed as incurred. Research and development costs included in "Design and
+research" expense in the accompanying statements of operations were $26.7,
+$22.4, and $20.3 million in 1994, 1993, and 1992, respectively.
+         RESTRUCTURING CHARGES  In 1992, the company recorded a $25.0 million
+charge as a result of the refocusing of its facility and product strategies and
+simplifying of its work processes. The restructuring charge included in the
+accompanying 1992 statement of operations includes leasehold abandonments and
+facility closings, product discontinuance and production relocation charges, a
+corporate reorganization reserve, and an early retirement incentive. (See
+Management's Discussion and Analysis for further detail.)
+         EXTRAORDINARY LOSS  In 1992, the company incurred a $4.2 million
+prepayment penalty on the complete early extinguishment of a $50.0 million,
+10.15 percent per annum, unsecured note payable to a large insurance company.
+The note balance was $42.9 million, with principal payments of $7.1 million,
+payable annually beginning October 1991. The remaining balance was due in
+October 1997. The penalty of $2.7 million, net of applicable income taxes, was
+recorded as an extraordinary loss in the accompanying 1992 statement of
+operations.
+         INCOME TAXES  The company has utilized a liability based method for
+all periods presented which requires recognition of deferred tax assets and
+liabilities for the expected future tax consequences attributable to
+differences between the financial statement carrying amounts of existing assets
+and liabilities and their respective tax bases. Deferred tax assets and
+liabilities are measured using the enacted tax rates expected to apply to
+taxable income in the years in which those temporary differences are expected
+to reverse.
+
+
+
+
+
+                                     -23-
+<PAGE>   24
+ACQUISITIONS
+The company purchased Herman Miller Righetti S.A. de C.V. of Mexico
+("Righetti") on February 9, 1994, for approximately $8.5 million. Righetti has
+been the company's joint-venture partner in Mexico since 1981, and is the
+largest international office furniture company operating in Mexico. Upon
+acquisition, Righetti was re-incorporated as Herman Miller Mexico, Inc.
+("Mexico").
+         The acquisition has been accounted for as a purchase, and accordingly,
+the purchase price has been allocated to the assets acquired and liabilities
+assumed based on the estimated fair values at the effective date of the
+acquisition (January 1, 1994). The cost of the acquisition in excess of net
+tangible assets acquired was $5.5 million and has been recorded as goodwill.
+The results of operations of Mexico are included in the company's consolidated
+financial statements from the effective date of the acquisition. Consolidated
+operating results would not have differed materially from the amounts reported
+if the acquisition was assumed to have occurred at the beginning of fiscal
+1992.
+         In addition, as part of the acquisition, the company entered into
+non-competition agreements with the former shareholders of Righetti.
+Approximately $7.3 million of the purchase price was allocated to these
+agreements. These agreements expire five years from the effective date of the
+acquisition.
+
+<TABLE>
+<CAPTION>
+INVENTORIES
+In Thousands                     1994                      1993
+                                 ----                      ----
+<S>                           <C>                       <C>
+Finished products             $20,299                   $18,923
+Work in process                 6,183                     6,692
+Raw materials                  33,331                    30,423
+                               ------                    ------
+                              $59,813                   $56,038
+                               ------                    ------
+</TABLE>                     
+
+         Inventories are valued at the lower of cost or market and include
+material, labor, and overhead. The inventories of Herman Miller, Inc., are
+valued using the last-in, first-out (LIFO) method. The inventories of the
+company's  subsidiaries are valued using the first-in, first-out method.
+Inventories valued using the LIFO method amounted to $39.2 and $38.7 million at
+May 28, 1994, and May 29, 1993, respectively.
+         If all inventories had been valued using the first-in, first-out
+method, inventories would have been $18.5 and $17.0 million higher than
+reported at May 28, 1994, and May 29, 1993, respectively. The LIFO method
+decreased net income by $.9 million ($.04 per share) in 1994, had no effect on
+net income in 1993, and increased net income by $1.3 million ($.05 per share)
+in 1992.
+
+<TABLE>
+<CAPTION>
+PREPAID EXPENSES AND OTHER
+In Thousands                               1994                      1993
+                                           ----                      ----
+<S>                                       <C>                       <C>
+Current deferred income taxes             $10,777                   $13,292
+Other                                      13,813                    10,491
+                                           ------                    ------
+                                          $24,590                   $23,783
+                                           ------                    ------
+</TABLE>                                 
+
+
+
+
+
+                                     -24-
+<PAGE>   25
+<TABLE>
+<CAPTION>
+ACCRUED LIABILITIES
+In Thousands                                  1994                      1993
+                                              ----                      ----
+<S>                                          <C>                       <C>
+Compensation and employee benefits           $24,770                   $25,172
+Restructuring reserves                         7,272                    10,375
+Other taxes                                    8,532                     8,644
+Other                                         45,613                    43,265
+                                              ------                    ------
+                                             $86,187                   $87,456
+                                              ------                    ------
+</TABLE>                                    
+
+<TABLE>
+<CAPTION>
+OTHER LIABILITIES
+In Thousands                                   1994                      1993
+                                               ----                      ----
+<S>                                           <C>                       <C>
+Postretirement benefits                       $16,172                   $14,867
+Other                                          19,105                    12,134
+                                               ------                    ------
+                                              $35,277                   $27,001
+                                               ------                    ------
+</TABLE>                                     
+
+<TABLE>
+<CAPTION>
+NOTES PAYABLE
+Outstanding short-term borrowings are shown below:
+In Thousands                                  1994                      1993
+                                              ----                      ----
+<S>                                          <C>                       <C>
+United States dollar                         $24,300                   $12,000
+Other currencies                              24,611                     6,234
+                                              ------                   -------
+                                             $48,911                   $18,234
+                                              ------                    ------
+</TABLE>                                    
+
+         The following information relates to short-term borrowings in 1994:
+
+<TABLE>
+<CAPTION>
+                                                   Domestic        Foreign
+<S>                                                  <C>              <C>
+Weighted average interest rate at May 28, 1994         4.6%           8.1%
+Weighted average interest rate during 1994             3.7%           7.8%
+Unused short-term credit lines                       $5,000            -- 
+</TABLE>                                                          
+
+         In addition to the company's formal short-term credit lines shown
+above, the company has available informal lines of credit totalling $130.0
+million.
+
+<TABLE>
+<CAPTION>
+LONG-TERM DEBT
+In Thousands                                       1994          1993
+                                                   ----          ----
+<S>                                             <C>              <C>
+Unsecured revolving credit loan                 $20,000          $20,000
+Other                                             1,106            1,643
+                                                -------         --------
+                                                $21,106          $21,643
+Less--current portion                               506              515
+                                                -------         --------
+                                                $20,600          $21,128
+                                                -------         --------
+</TABLE>                                                      
+
+
+
+
+
+                                     -25-
+<PAGE>   26
+         The unsecured revolving credit loan provides for a $20.0 million line
+of credit which matures on October 31, 1995. Outstanding borrowings bear
+interest, at the option of the company, at rates based on the prime rate,
+certificates of deposit, LIBOR, or negotiated rates.  The company borrowed at a
+negotiated rate of 4.66 percent and 3.5 percent as of May 28, 1994 and May 29,
+1993, respectively. Interest is payable periodically throughout the period a
+borrowing is outstanding.
+         Provisions of the unsecured revolving credit loan limit, without prior
+consent, borrowings, long-term leases, sale of certain assets, and acquisitions
+of the company's stock. In addition, the company has agreed to maintain
+specified levels of working capital and certain financial performance ratios.
+At May 28, 1994, the company was in compliance with all these provisions.
+         Annual maturities of long-term debt for the five years subsequent to
+May 28, 1994, (in millions) are as follows: 1995--$.5; 1996--$20.5; 1997--$.1;
+1998 and thereafter--none.
+
+OPERATING LEASES
+The company leases real property and equipment under agreements which expire on
+various dates. Certain leases contain renewal provisions and generally require
+the company to pay utilities, insurance, taxes, and other operating expenses.
+         Future minimum rental payments (in millions) required under operating
+leases that have initial or remaining noncancellable lease terms in excess of
+one year as of May 28, 1994, are as follows: 1995--$17.6; 1996--$14.5;
+1997--$10.8; 1998--$6.5; 1999--$5.3; thereafter--$26.2.
+         Total rental expense charged to operations was $18.3, $18.1, and $26.2
+million in 1994, 1993, and 1992, respectively. Substantially all such rental
+expense represented the minimum rental payments under operating leases. The
+1992 rental expense includes $5.5 million of leasehold abandonment charges
+which are included in the restructuring charges in the accompanying statement
+of operations.
+
+EMPLOYEE BENEFIT PLANS
+The company maintains plans which provide retirement benefits for substantially
+all employees.
+         PENSION PLANS  The principal domestic plan is a noncontributory
+defined benefit pension plan. Benefits under this plan are based upon an
+employee's years of service and the average earnings for the five highest
+consecutive years of service during the ten years immediately preceding
+retirement. Domestically, the company's policy is to fund its plan to the
+maximum amount currently deductible for federal income tax purposes which
+equals or exceeds the minimum amount required by the Employee Retirement Income
+Security Act.
+         One of Herman Miller, Inc.'s wholly owned foreign subsidiaries has a
+defined benefit pension plan which is similar to the principal domestic plan.
+This plan is included in the information presented below.
+
+
+
+
+
+                                     -26-
+<PAGE>   27
+         Net pension cost included the following components:
+<TABLE>
+<CAPTION>
+In Thousands                                                1994               1993             1992
+                                                            ----               ----             ----
+<S>                                                      <C>                <C>              <C>
+Service cost--benefits earned during the year             $7,223             $6,065           $5,448
+Interest cost on projected benefit obligation              8,074              7,061            6,289
+Return on assets:
+    Actual                                                (4,417)            (5,109)          (6,959)
+    Deferred loss                                         (2,631)            (2,392)            (592)
+Net amortization                                            (170)              (519)            (513)
+Cost of early retirement incentive program                    --                449            1,057
+                                                          ------             ------           ------
+Net pension cost                                          $8,079             $5,555           $4,730
+                                                          ------             ------           ------
+</TABLE>
+
+         The following table presents a reconciliation of the funded status of
+the plans and the amount recorded in the accompanying balance sheets:
+<TABLE>
+<CAPTION>
+In Thousands                                                                   1994             1993
+                                                                               ----             ----
+<S>                                                                       <C>               <C>
+Plan assets at fair market value                                         $  96,421        $  91,231
+Actuarial present value of benefit obligations:
+    Vested benefits                                                        (76,220)         (64,286)
+    Nonvested benefits                                                      (2,028)          (1,895)
+                                                                          --------         -------- 
+Accumulated benefit obligation                                             (78,248)         (66,181)
+Effect of projected future salary increases                                (41,098)         (32,383)
+                                                                         ---------          ------- 
+Projected benefit obligation                                              (119,346)         (98,564)
+                                                                          --------          ------- 
+Unrecognized net asset from date of adoption of SFAS No. 87                 (4,122)          (4,644)
+                                                                                   
+Unrecognized net loss from past experience different from that
+assumed and changes in assumptions                                          18,793            5,980
+Unrecognized prior service cost                                             (1,091)             295
+                                                                            ------           -------
+Accrued pension cost included in accrued and other liabilities           $  (9,345)       $  (5,702)
+                                                                            ------           ------ 
+</TABLE>
+
+         The assumptions used in the determination of net pension cost were as
+follows:
+<TABLE>
+<CAPTION>
+                                                                1994               1993            1992
+                                                                ----               ----            ----
+<S>                                                            <C>                <C>              <C>
+Discount rate                                                  7.50%              8.00%            8.25%
+Rate of salary progression                                     5.00%              5.00%            5.00%
+Long-term rate of return on assets                             7.50%              9.00%            9.50%
+</TABLE>
+
+         Plan assets consist primarily of listed common stocks, mutual funds,
+and corporate obligations. Plan assets at May 28, 1994, and May 29, 1993,
+included 327,672 shares of Herman Miller, Inc., common stock.
+         In connection with the 1992 restructuring, the company offered an
+early retirement incentive program to eligible participants. The results of
+this program are reflected in the net cost and funded status of the pension
+plan and postretirement benefits.
+         PROFIT SHARING PLAN  Herman Miller, Inc., and three of its
+subsidiaries have a trusteed profit sharing plan that covers substantially all
+employees who have completed one year of employment. The plan provides for
+discretionary contributions (payable in the company's common stock) of not more
+than 6.0 percent of pretax income of the participating companies, or such other
+lesser amounts as may be established by the board of directors. The cost of the
+plan charged against operations was $2.9, $2.2, and $1.5 million in 1994, 1993,
+and 1992, respectively.
+
+
+
+
+
+                                     -27-
+<PAGE>   28
+         POSTRETIREMENT BENEFITS  In addition to providing pension and
+profit-sharing benefits, the company provides health-care and life insurance
+benefits for certain retired employees. In May 1992, the company made
+significant changes to its retiree medical plan. Among these changes was the
+establishment of plan cost maximums in order to more effectively control future
+medical costs.
+         During the fourth quarter of 1992, the company adopted Statement of
+Financial Accounting Standards No. 106, "Employers' Accounting for
+Postretirement Benefits Other Than Pensions," (SFAS No. 106) retroactive to
+June 2, 1991. This statement requires the accrual of the cost of providing
+postretirement benefits for health-care and life insurance coverage over the
+active service period of the employee. The company elected to recognize
+immediately the accumulated liability which totalled $12.6 million as of June
+2, 1991. The adoption of SFAS No. 106 increased 1992 expense by $1.1 million,
+or $.01 per share per quarter. Prior to 1992, the company recognized retiree
+health-care and life insurance costs in the year the benefits were paid.
+
+         The components of net postretirement benefit cost were as follows:
+<TABLE>
+<CAPTION>
+
+In Thousands                                                     1994             1993           1992
+                                                                 ----             ----           ----
+<S>                                                            <C>             <C>            <C>
+Service cost                                                  $   868          $  724        $   704
+Interest cost on accumulated benefit obligation                 1,192           1,192          1,017
+Cost of early retirement program                                   --             800             --
+Amortization of prior service cost                                (25)             --             --
+                                                              -------         -------        -------
+Net postretirement benefit cost                               $ 2,035         $ 2,716        $ 1,721
+                                                              -------         -------        -------
+</TABLE>
+         The following table presents the plan's funded status reconciled with
+amounts recognized in the accompanying balance sheets:
+<TABLE>
+<CAPTION>
+In Thousands                                                                   1994           1993
+                                                                               ----           ----
+<S>                                                                          <C>            <C>
+Accumulated postretirement benefit obligation:
+    Retirees                                                                 $ (7,194)      $ (8,090)
+    Fully eligible active plan participants                                       (53)           (31)
+    Other active plan participants                                             (9,497)        (8,353)
+Unrecognized prior service cost                                                (1,326)            --
+Unrecognized net loss                                                           1,098            788
+                                                                             --------      ---------
+Accrued postretirement benefit obligation                                    $(16,972)      $(15,686)
+                                                                            ---------       -------- 
+</TABLE>
+
+         The accumulated postretirement benefit obligation was computed using
+an assumed discount rate of 7.5 and 8.0 percent for May 28, 1994, and May 29,
+1993, respectively.
+         The weighted average annual assumed rate of increase in the per capita
+cost of covered benefits (i.e., health care cost trend rate) is 10 percent for
+1995 and is assumed to decrease gradually to 6 percent for 2001 and remain at
+that level thereafter. A 1 percent increase in this annual trend rate would
+have increased the accumulated postretirement benefit obligation at May 28,
+1994, by $.6 million, with an immaterial effect on 1994 postretirement benefit
+cost.
+         POSTEMPLOYEEMENT BENEFITS The company provides certain postemployment
+benefits to former or inactive employees and their dependents during the time
+period following employment but before retirement. In May 1994, the company
+adopted Statement of Financial Accounting Standards No. 112, "Employers
+Accounting for Postemployment Benefits" (SFAS No. 112). Prior to 1994, certain
+postemployment
+
+
+
+
+
+                                     -28-
+<PAGE>   29
+benefit expenses were recognized as they were paid.  This statement requires
+recognition of these liabilities if they are attributable to employees' service
+already rendered. The cumulative net effect of adopting SFAS No. 112 was not
+material to the 1994 results of operations, since the company was, prior to
+1994, accounting for substantially all of these costs in accordance with the
+statement.
+
+STOCK OPTION PLANS
+The company has stock option plans under which options are granted to employees
+and nonemployee officers and directors at a price not less than the market
+price of the company's common stock on the date of grant. All options become
+exercisable one year from date of grant and expire ten years from date of
+grant. No charges to operations are recorded with respect to authorization,
+grant, or exercise of these stock options. At May 28, 1994, there were 223
+employees and 11 nonemployee officers and directors eligible, all of whom were
+participants in the plans. At May 28, 1994, there were 292,020 shares available
+for future options.
+         A summary of the stock option transactions is as follows:
+<TABLE>
+<CAPTION>
+                                                     Number of          Exercise Price    Weighted Average
+                                                     Shares             Per Share Range   Price Per Share
+<S>                                                    <C>                <C>                    <C>
+Outstanding at June 1, 1991                            1,467,180           $6.33-29.43           $21.44
+Granted                                                   15,000                 19.50            19.50
+Exercised                                                (46,249)           6.33-20.63             8.54
+Terminated                                               (51,850)          19.88-26.75            22.41
+                                                     -----------          ------------            -----
+Outstanding at May 30, 1992                            1,384,081          $11.04-29.43           $21.82
+Granted                                                  255,940           15.88-22.25            18.75
+Exercised                                               (191,980)          11.04-22.50            19.19
+Terminated                                              (132,700)          18.63-29.43            22.94
+                                                     -----------          ------------           ------
+Outstanding at May 29, 1993                            1,315,341          $15.88-26.75           $21.50
+Granted                                                  269,740           26.88-34.63            27.35
+Exercised                                               (458,406)          16.00-26.75            21.24
+Terminated                                                (7,000)          18.63-26.88            26.21
+                                                      ----------          ------------           ------
+Outstanding at May 28, 1994                            1,119,675          $15.88-34.63           $22.98
+                                                      ----------          ------------           ------
+Exercisable at May 28, 1994                              851,785          $15.88-26.75           $21.61
+                                                      ----------          ------------           ------
+</TABLE>
+
+EMPLOYEE STOCK PURCHASE PLAN
+Under the terms of the company's 1987 Employee Stock Purchase Plan, 1.1 million
+shares of authorized common stock were reserved for purchase by plan
+participants at 85 percent of the market price. At May 28, 1994, 224,697 shares
+remained available for purchase through the plan, and there were 5,028
+employees eligible to participate in the plan, of which 1,341, or 26.7 percent,
+were participants. Employees purchased 90,470 shares, at prices ranging from
+$21.15 to $29.43, during the year. Total receipts to the company were $2.2
+million. Since the inception of the employee stock purchase program in 1977,
+employees have purchased a total of 1,835,914 shares at prices ranging from
+$1.90 to $29.43. Since the plan is noncompensatory, no charges to operations
+have been recorded.
+
+
+
+
+
+                                     -29-
+<PAGE>   30
+RESTRICTED STOCK GRANTS
+The company has granted restricted common shares to certain key employees.
+Shares were awarded in the name of the employee, who has all rights of a
+shareholder, subject to certain restrictions on transferability and a risk of
+forfeiture. The forfeiture provisions on the awards expire annually, over a
+period not to exceed six years, as certain financial goals are achieved. During
+fiscal 1994, the forfeiture provisions expired on 26,100 shares. No shares were
+granted or forfeited during the year. As of May 28, 1994, 53,400 shares
+remained subject to forfeiture provisions and 93,000 shares remained subject to
+restrictions on transferability.
+         The remaining shares subject to forfeiture provisions have been
+recorded as unearned stock grant compensation and are presented as a separate
+component of shareholders' equity. The unearned compensation is being charged
+to selling, general, and administrative expense over the five-year vesting
+period and was $.5, $.4, and $.2 million in 1994, 1993, and 1992, respectively.
+
+INCOME TAXES
+The domestic and foreign components of income (loss) before income taxes,
+extraordinary loss, and cumulative effect of change in accounting principle
+were as follows:
+<TABLE>
+<CAPTION>
+In Thousands                                                1994             1993              1992
+                                                            ----             ----              ----
+<S>                                                       <C>             <C>            <C>
+Domestic                                                  $71,150          $55,195           $11,326
+Foreign                                                    (7,677)         (12,841)          (12,314)
+                                                          -------          -------       -----------
+                                                          $63,473          $42,354       $      (988)
+                                                          -------          -------       -----------
+</TABLE>
+
+         The provision for income taxes before the tax effect of extraordinary
+loss and cumulative effect of change in accounting principle consisted of the
+following:
+<TABLE>
+<CAPTION>
+In Thousands                                               1994             1993              1992
+                                                           ----             ----              ----
+<S>          <C>                                         <C>              <C>              <C>
+Current:     Domestic--Federal                           $24,780          $18,647           $16,930
+             Domestic--State                               1,213              474             2,158
+             Foreign                                      (1,338)          (1,983)           (2,495)
+                                                          ------           ------            ------ 
+                                                         $24,655          $17,138           $16,593
+                                                          ------           ------            ------
+Deferred:    Domestic--Federal                            (1,097)           1,999           (11,398)
+             Domestic--State                                 187            1,193            (1,923)
+             Foreign                                        (645)             (30)             (772)
+                                                          ------           ------            ------ 
+                                                          (1,555)           3,162           (14,093)
+                                                          ------           ------            ------ 
+                                                         $23,100          $20,300          $  2,500
+                                                          ------           ------            ------ 
+</TABLE>
+
+
+
+
+
+                                     -30-
+<PAGE>   31
+         A reconciliation of income taxes at the United States statutory rate
+with the effective tax rate before extraordinary loss and cumulative effect of
+change in accounting principle follows:
+<TABLE>
+<CAPTION>
+In Thousands                                               1994              1993             1992
+                                                           ----              ----             ----
+<S>                                                      <C>              <C>                <C>
+Income taxes computed at the United States
+statutory rate of 35% in 1994, and 34%
+in 1993 and 1992                                         $22,216          $14,400             $(336)
+Increase (decrease) in taxes resulting from:
+    State taxes--net                                         910            1,110                58
+    Foreign net operating losses                             586            4,282                --
+    Other nondeductible reserves                              --               --             1,190
+    Rate differences--foreign operations                      --               --               667
+    Nondeductible capital losses                              --               --               510
+    Other                                                   (612)             508               411
+                                                         -------          -------            ------
+                                                         $23,100          $20,300            $2,500
+                                                         -------          -------            ------
+</TABLE>
+
+         The tax effects and types of temporary differences that give rise to
+significant components of the deferred tax assets and liabilities at May 28,
+1994 and May 29, 1993, are presented below:
+
+<TABLE>
+<CAPTION>
+In Thousands                                                                 1994              1993
+                                                                             ----              ----
+<S>                                                                     <C>               <C>
+Deferred tax assets:
+Foreign net operating loss carryforwards                                $  15,991          $ 13,718
+Compensation related accruals                                               6,946             4,837
+Accrued postretirement benefit obligation                                   5,940             5,361
+Long-term capital loss carryforwards                                        5,497             5,347
+Insurance accruals                                                          3,065             1,806
+Reserve for uncollectible accounts and notes receivable                     2,712             3,106
+Restructuring charge accruals                                               2,401             4,560
+Other                                                                       9,748             8,014
+Valuation allowance                                                       (21,488)          (19,065)
+                                                                        ---------          -------- 
+                                                                          $30,812          $ 27,684
+                                                                        ---------          -------- 
+Deferred tax liabilities:
+Excess of tax over book depreciation                                    $ (17,022)         $(15,250)
+Prepaid employee benefits                                                  (2,584)           (2,391)
+Other                                                                      (3,771)           (4,163)
+                                                                        ---------          -------- 
+                                                                        $ (23,377)         $(21,804)
+                                                                        ---------          -------- 
+</TABLE>
+
+         The deferred tax credit component of the provision in 1992 resulted
+primarily from restructuring reserves.
+         As a result of restructuring charges incurred in fiscal 1992 and 1991,
+the company has long-term capital loss carryforwards, the tax benefit of which
+is approximately $5.5 million after tax at May 28, 1994, which expire at
+various dates through 1996. In addition, the company had foreign net operating
+loss carryforwards, the tax benefit of which is approximately $16.0 million,
+which have an unlimited expiration. For financial statement purposes, the tax
+benefit of these tax loss carryforwards has been recognized as a deferred tax
+asset, subject to a valuation allowance of 100 percent.
+
+
+
+
+
+                                     -31-
+<PAGE>   32
+         The company has not provided for United States income taxes on
+undistributed earnings of foreign subsidiaries totalling $20.4 million.
+Recording of deferred income taxes on these undistributed earnings is not
+required as these earnings have been permanently reinvested. These amounts
+would be subject to possible U.S. taxation only if remitted as dividends. The
+determination of the hypothetical amount of unrecognized deferred U.S. taxes on
+undistributed earnings of foreign entities is not practicable.
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+The carrying amount of the company's financial instruments included in current
+assets and current liabilities approximate their fair value due to their
+short-term nature. The fair value of the notes receivable is estimated by
+discounting expected future cash flows using current interest rates at which
+similar loans would be made to borrowers with similar credit ratings and
+remaining maturities. As of May 28, 1994 and May 29, 1993, the fair value of
+the notes receivable approximated the carrying value. The company intends to
+hold these notes to maturity and has recorded allowances to reflect the terms
+negotiated for carrying value purposes. The company's long-term debt reprices
+frequently at the then-prevailing market interest rates. As of May 28, 1994 and
+May 29, 1993, the carrying value approximated the fair value of the company's
+long-term debt.
+
+FINANCIAL INSTRUMENTS WITH OFF-BALANCE-SHEET RISK
+At May 28, 1994 and May 29, 1993, the company had outstanding $8.5 million and
+$8.0 million, respectively, of financial instruments to purchase and sell
+foreign currencies, consisting primarily of forward exchange contracts. The
+exposure to credit risk is minimal since the counterparties are major financial
+institutions. The market risk exposure is essentially limited to currency rate
+movements. The gains or losses arising from these financial instruments are
+applied to offset exchange gains or losses on related hedged exposures.
+Realized and unrealized gains or losses in 1994 and 1993, were not material to
+the company's results of operations.
+
+
+
+
+
+                                     -32-
+<PAGE>   33
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION
+The components of the adjustments to reconcile net income (loss) to net cash
+provided by operating activities:
+
+<TABLE>
+<CAPTION>
+In Thousands                                              1994            1993             1992
+                                                          ----            ----             ----
+<S>                                                    <C>               <C>             <C>
+Depreciation and amortization                          $ 33,207         $ 31,600         $ 30,473
+Restructuring charges                                        --               --           24,970
+Provision for losses on accounts and
+notes receivable                                          3,481            7,492           11,588
+Loss on sales of property and equipment                   1,832            3,350              392
+Deferred taxes                                           (1,555)           3,162          (12,297)
+Other liabilities                                         8,258            3,928           19,285
+Stock grants earned                                         461              382              234
+Changes in current assets and liabilities:
+    Decrease (increase) in assets:
+         Accounts receivable                             (7,151)          (4,240)           4,754
+         Inventories                                     (3,671)           3,074            9,115
+         Prepaid expenses and other                      (3,352)            (845)          (4,169)
+    Increase (decrease) in liabilities:
+         Accounts payable                                 1,123            2,073            2,558
+         Accrued liabilities                             (3,242)          10,558            4,242
+                                                         ------           ------            -----
+                                                        (16,293)          10,620           16,500
+                                                        -------           ------           ------
+    Total adjustments                                   $29,391         $ 60,534         $ 91,145
+                                                         ------           ------           ------
+</TABLE>
+
+         Cash payments for interest and income taxes were as follows:
+<TABLE>
+<CAPTION>
+In Thousands                                              1994             1993             1992
+                                                          ----             ----             ----
+<S>                                                      <C>              <C>              <C>
+Interest paid                                           $ 1,799          $ 2,339          $ 6,596
+Income taxes paid                                        25,784           11,944           12,428
+</TABLE>
+
+PER SHARE INFORMATION
+Earnings per share of common stock have been computed using the weighted
+average number of outstanding common shares and common share equivalents to the
+extent they are dilutive during each of the three years in the period ended May
+28, 1994 (25,254,743 in 1994; 24,992,600 in 1993; and 25,162,973 in 1992).
+
+CONTINGENCIES
+On January 7, 1992, Haworth, Inc., filed a lawsuit in the U.S. District Court
+for the Northern District of Georgia (Atlanta Division), against Herman Miller,
+Inc., alleging that the electrical systems used in certain of the company's
+products infringe one or more of Haworth's patents.  On December 9, 1992, the
+company's motion for change of venue was granted, and the lawsuit was
+transferred to the U.S. District Court for the Western District of Michigan
+(Southern Division).
+         The litigation is considered to be in an intermediate stage, and the
+company is defending its position vigorously. The company has requested a jury
+trial, which has been tentatively set for August 1995 by the court. The patents
+that are the source of controversy expire on or before December 1, 1994. Since
+1991, the company has sold a system of enhanced electrical components on the
+majority of its product lines, both by
+
+
+
+
+
+                                     -33-
+<PAGE>   34
+number and dollar volume. Haworth has admitted the enhanced electrical 
+components do not infringe the patents in suit. If Haworth were to 
+be successful on its claims, the statute of limitation would bar recovery 
+of any damages arising prior to January 1986.
+         In November 1985, Haworth filed a lawsuit against Steelcase, Inc., the
+industry's leader in market share, alleging violations of the same patents, and
+thus far has prevailed on the issue of liability. The litigation between
+Haworth and Steelcase currently is continuing on the issue of damages. The
+company's defenses are substantially different from those relied upon by
+Steelcase.
+         The company believes, based upon written opinion of counsel, that its
+products do not infringe Haworth's patents and that the company is more likely
+than not to prevail on the merits, although, as with all litigation, there can
+be no absolute assurance of success. At this time, management does not expect
+the ultimate resolution of this matter to have a material adverse effect on the
+company's consolidated financial position. However, the outcome of this matter
+is not subject to prediction with certainty.
+
+SEGMENT INFORMATION
+The company operates on a worldwide basis in a single industry consisting of
+the design, manufacture, and sale of office furniture systems, products, and
+related services. The following information is presented with respect to the
+company's operations in different geographic areas for the fiscal years ended
+May 28, 1994, May 29, 1993, and May 30, 1992. Transfers between geographic
+areas represent the selling price of sales to affiliates, which is generally
+based on cost plus a mark-up. Net income of foreign operations and export
+includes royalty income from licensee sales and reflects the gain or loss on
+foreign currency exchange. The cash and cash equivalents accounts of the
+company are considered to be corporate assets. All other assets have been
+identified with domestic or foreign operations. No single customer accounted
+for more than 10 percent of consolidated net sales.
+
+
+
+
+
+                                     -34-
+<PAGE>   35
+<TABLE>
+<CAPTION>
+In Thousands
+                                                        Foreign         Adjustments
+                                                        Operations      and
+                                      United States     and Export      Eliminations    Consolidated
+                                      -------------     ----------      ------------    ------------
+<S>                                        <C>            <C>            <C>               <C>
+1994
+Sales to unaffiliated customers              $812,158        $141,042    $        --         $953,200
+Transfers between geographic areas             35,579           5,711        (41,290)              --
+                                             --------        --------    -----------         --------
+
+Net sales                                    $847,737        $146,753    $   (41,290)        $953,200
+                                             --------        --------    -----------         --------
+Net income (loss)                            $ 42,374        $ (2,001)   $        --         $ 40,373
+                                             --------        --------    -----------         --------
+Identifiable assets                          $454,210        $ 56,835    $        --         $511,045
+                                             --------        --------    -----------         --------
+Corporate assets                                                                               22,701
+                                                                                             --------
+Total assets                                                                                 $533,746
+                                                                                             --------
+
+1993
+Sales to unaffiliated customers              $734,159        $121,514    $        --         $855,673
+Transfers between geographic areas             29,381           7,165        (36,546)              --
+                                             --------        --------    -----------         --------
+
+Net sales                                    $763,540        $128,679    $   (36,546)        $855,673
+                                             --------        --------    -----------         --------
+Net income (loss)                            $ 30,687        $ (8,633)   $        --         $ 22,054
+                                             --------        --------    -----------         --------
+Identifiable assets                          $432,650        $ 35,161    $        --         $467,811
+                                             --------        --------    -----------         --------
+Corporate assets                                                                               16,531
+                                                                                             --------
+Total assets                                                                                 $484,342
+                                                                                             --------
+
+1992
+Sales to unaffiliated customers              $680,712        $123,963    $        --         $804,675
+Transfers between geographic areas             31,750          14,749        (46,499)              --
+                                             --------        --------    -----------         --------
+
+Net sales                                    $712,462         138,712    $   (46,499)        $804,675
+                                             --------        --------    -----------         --------
+Net income (loss)(1)                        $   2,992        $ (6,480)   $        --         $ (3,488)
+                                             --------        --------    -----------         --------
+Identifiable assets                          $415,323        $ 38,996    $        --         $454,319
+                                             --------        --------    -----------         --------
+Corporate assets                                                                               16,949
+                                                                                             --------
+Total assets                                                                                 $471,268
+                                                                                             --------
+</TABLE>
+
+(1) Excludes $16.8 million of pretax charges including $12.6 million cumulative
+effect from a change in accounting principle and $4.2 million extraordinary
+loss from the early extinguishment of debt. These charges decreased net income
+by $10.7 million.
+
+
+
+
+
+                                     -35-
+<PAGE>   36
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To the Shareholders and Board of Directors of Herman Miller, Inc.:
+
+We have audited the accompanying consolidated balance sheets of Herman Miller,
+Inc. (a Michigan corporation) and subsidiaries as of May 28, 1994, and May 29,
+1993, and the related consolidated statements of operations, shareholders'
+equity and cash flows for each of the three years in the period ended May 28,
+1994. These financial statements are the responsibility of the company's
+management. Our responsibility is to express an opinion on these financial
+statements based on our audits.
+         We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+         In our opinion, the financial statements referred to above present
+fairly, in all material respects, the financial position of Herman Miller,
+Inc., and subsidiaries as of May 28, 1994, and May 29, 1993, and the results of
+their operations and their cash flows for each of the three years in the period
+ended May 28, 1994, in conformity with generally accepted accounting
+principles.
+         As explained in the notes to the consolidated financial statements,
+Employee Benefit Plans, in fiscal 1992, the company changed its method of
+accounting for postretirement benefits to adopt the provisions of Statement of
+Financial Accounting Standards No. 106, "Employers' Accounting for
+Postretirement Benefits Other Than Pensions."
+
+Arthur Andersen & Co.
+Grand Rapids, Michigan
+June 24, 1994
+
+
+
+
+
+                                     -36-
+<PAGE>   37
+MANAGEMENT'S REPORT ON FINANCIAL STATEMENTS
+
+The financial statements of Herman Miller, Inc., and subsidiaries were prepared
+by and are the responsibility of management. The statements have been prepared
+in conformity with generally accepted accounting principles appropriate in the
+circumstances and include amounts that are based on management's best estimates
+and judgments.
+         The company maintains systems of internal accounting controls designed
+to provide reasonable assurance that all transactions are properly recorded in
+the company's books and records, that policies and procedures are adhered to,
+and that assets are protected from unauthorized use. The systems of internal
+accounting controls are supported by written policies and guidelines and are
+complemented by a staff of internal auditors and by the selection, training,
+and development of professional financial managers.
+         The financial statements have been audited by the independent public
+accounting firm Arthur Andersen & Co., whose appointment is ratified annually
+by shareholders at the annual shareholders meeting. The independent public
+accountants conduct a review of internal accounting controls to the extent
+required by generally accepted auditing standards and perform such tests and
+related procedures as they deem necessary to arrive at an opinion on the
+fairness of the financial statements.
+         The Finance and Audit Committee of the Board of Directors, composed
+solely of directors from outside the company, regularly meets with the
+independent public accountants, management, and the internal auditors to
+satisfy itself that they are properly discharging their responsibilities. The
+independent public accountants have unrestricted access to the Finance and
+Audit Committee, without management present, to discuss the results of their
+audit and the quality of financial reporting and internal accounting control.
+
+J. Kermit Campbell President and Chief Executive Officer
+James H. Bloem Vice President, Chief Financial Officer, and Treasurer
+June 24, 1994
+
+
+
+
+
+                                     -37-
+<PAGE>   38
+Item 9  DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+No changes in, or disagreements with, accountants referenced in Item 304 of
+Regulation S-K occurred during the 24-month period ended May 28, 1994.
+
+                                    PART III
+
+Item 10  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Directors of Registrant
+
+Information relating to directors and director nominees of the registrant is
+contained under the caption "Director and Executive Officer Information," in
+the company's definitive Proxy Statement, dated August 22, 1994, relating to
+the company's 1994 Annual Meeting of Shareholders and the information within
+that section is incorporated by reference. Information relating to Executive
+Officers of the company is included in Part I hereof entitled "Executive
+Officers of the Registrant." Information relating to delinquent filers pursuant
+to Item 405 of Regulation S-K is contained under the caption "Miscellaneous" in
+the company's definitive Proxy Statement dated August 22, 1994.
+
+There are no family relationships between or among the above-named executive
+officers. There are no arrangements or understandings between any of the
+above-named officers pursuant to which any of them was named an officer.
+
+Except as discussed in this paragraph, each of the named officers has served
+the company in an executive capacity for more than five years.  Prior to
+joining the company, Mr. Campbell and Mr. Broser were vice presidents of Dow
+Corning Corporation.
+
+Item 11  EXECUTIVE COMPENSATION
+
+Information relating to management remuneration is contained under the tables
+and discussions on pages 6-8 in the company's definitive Proxy Statement, dated
+August 22, 1994, relating to the company's 1994 Annual Meeting of Shareholders,
+and the information within those sections is incorporated by reference.
+
+Item 12  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+AND MANAGEMENT
+
+The sections entitled "Voting Securities and Principal Shareholders" and
+"Director and Executive Officer Information" in the definitive Proxy Statement,
+dated August 22, 1994, relating to the company's 1994 Annual Meeting of
+Shareholders and the information within those sections is incorporated by
+reference.
+
+Item 13  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+Information concerning certain relationships and related transactions contained
+under the captions "Director and Executive Officer Information" and
+"Compensation of Board Members and Non-Employee Officers" in the definitive
+Proxy Statement, dated August 22, 1994, relating to the company's 1994 Annual
+Meeting of Shareholders is incorporated by reference.
+
+
+
+
+
+                                     -38-
+<PAGE>   39
+                                    PART IV
+
+Item 14  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND
+REPORTS ON FORM 8-K
+
+(a)  1.      Financial Statements
+
+     The following consolidated financial statements of the company are
+     included in this Form 10-K on the pages noted:
+
+                                                             Page Number in
+                                                             the Form 10-K
+                                                             -------------
+     Consolidated Statements of Operations                       18
+     Consolidated Balance Sheets                                 19
+     Consolidated Statements of Shareholders' Equity             20
+     Consolidated Statements of Cash Flows                       21
+     Notes to Consolidated Financial Statements                  22-35
+     Report of Independent Public Accountants                    36
+     Management's Report on Financial Statements                 37
+
+(a)  2.      Financial Statement Schedules
+
+     The following financial statement schedules and related Report of
+     Independent Public Accountants on Financial Statement Schedules are
+     included in this Form 10-K on the pages noted:
+
+                                                               Page Number in
+                                                               this Form 10-K
+                                                               --------------
+     Report of Independent Public Accountants                
+     on Financial Statement Schedules                              41
+                                                             
+     Consent of Independent Public Accountants                     42
+                                                             
+     Schedule V-         Property and Equipment for          
+                         Years Ended May 28, 1994,           
+                         May 29, 1993, and May 30, 1992            44
+
+
+
+
+
+                                     -39-
+<PAGE>   40
+                                                               Page Number in
+                                                               this Form 10-K
+                                                               --------------
+     Schedule VI-        Accumulated Depreciation           
+                         and Amortization of                
+                         Property and Equipment             
+                         for the Years Ended May            
+                         28, 1994; May 29, 1993;            
+                         and May 30, 1992                            45
+                                                            
+     Schedule VIII-      Valuation and Qualifying           
+                         Accounts and Reserves for          
+                         the Years Ended May 28,            
+                         1994; May 29, 1993; and            
+                         May 30, 1992                                46
+                                                            
+     Schedule IX-        Short-term Borrowings for the      
+                         Years Ended May 28, 1994; May      
+                         29, 1993; and May 30, 1992                  47
+                                                            
+     Schedule X-         Supplementary Consolidated Income  
+                         Statement Information for the      
+                         Years Ended May 28, 1994; May 29,  
+                         1993; and May 30, 1992                      48
+
+     All other schedules required by Form 10-K Annual Report have been
+     omitted because they were inapplicable, included in the notes to
+     consolidated financial statements, or otherwise not required under
+     instructions contained in Regulation S-X.
+     
+     Financial statements of the company have been omitted since the
+     company is primarily an operating company and all subsidiaries
+     included in the consolidated financial statements filed are wholly
+     owned subsidiaries.
+     
+     (a)     3.       Exhibits
+     
+     Reference is made to the Exhibit Index which is found on pages 49
+     through 51 of this Form 10-K Annual Report.
+
+     (b)     Reports on Form 8-K
+
+             No reports on Form 8-K were filed during the fourth quarter of
+             the year ended May 28, 1994.
+
+
+
+
+
+                                     -40-
+<PAGE>   41
+       REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS ON FINANCIAL STATEMENT SCHEDULES
+
+To the Shareholders and Board of Directors of Herman Miller, Inc.:
+
+We have audited in accordance with generally accepted auditing standards, the
+consolidated financial statements included in Herman Miller, Inc., and
+subsidiaries' annual report to shareholders included in this Form 10-K, and
+have issued our report thereon dated June 24, 1994. Our report on the
+consolidated financial statements includes an explanatory paragraph with
+respect to the change in the method of accounting for postretirement benefits
+in fiscal 1992 as explained in the notes to the consolidated financial
+statements "Employee Benefit Plans." Our audits were made for the purpose of
+forming an opinion on those statements taken as a whole. The schedules listed
+at Item 14(a)2 above are the responsibility of the company's management and are 
+presented for purposes of complying with the Securities and Exchange
+Commission's rules and are not part of the basic financial statements. These
+schedules have been subjected to the auditing procedures applied in the audits
+of the basic financial statements and, in our opinion, fairly state in all
+material respects the financial data required to be set forth therein in
+relation to the basic financial statements taken as a whole.
+
+         /s/ Arthur Andersen & Co.
+         -------------------------
+         ARTHUR ANDERSEN & CO.
+         Grand Rapids, Michigan
+         June 24, 1994
+
+
+
+
+
+                                     -41-
+<PAGE>   42
+                   CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+To Herman Miller, Inc.:
+
+As independent public accountants, we hereby consent to the incorporation of
+our reports included in this Form 10-K, into the Company's previously filed
+Form S-8 Registration Statement File Numbers 33-5810, 33-43234, 33-43235,
+33-45812, and 2-84202.
+
+                 /s/ Arthur Andersen & Co.
+                 -------------------------
+                 ARTHUR ANDERSEN & CO.
+                 Grand Rapids, Michigan
+                 August 22, 1994
+
+
+
+
+
+                                     -42-
+<PAGE>   43
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+HERMAN MILLER, INC.
+
+
+/s/ J. Kermit Campbell          and     /s/ James H. Bloem
+- - ----------------------                  ------------------
+By   J. Kermit Campbell                 By   James H. Bloem
+     (President and                          (Vice President, Chief Financial
+     Chief Executive Officer)                Officer, and Principal Accounting
+                                             Officer)
+
+Date: August 22, 1994
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below on August 22, 1994, by the following persons on
+behalf of the Registrant in the capacities indicated. Each Director of the
+Registrant, whose signature appears below, hereby appoints J. Kermit Campbell
+as his attorney-in-fact, to sign in his name and on his behalf, as a Director
+of the Registrant, and to file with the Commission any and all amendments to
+this Report on Form 10-K.
+
+
+         /s/ Max O. DePree                         /s/ Richard H. Ruch
+         ------------------------                  ----------------------------
+         Max O. DePree                             Richard H. Ruch
+         (Chairman of the Board)                   (Vice Chairman of the Board)
+ 
+
+         /s/ J. Kermit Campbell                    /s/ William K. Brehm
+         ------------------------                  ----------------------------
+         J. Kermit Campbell                        William K. Brehm
+         (President, Chief Executive               (Director)
+          Officer and Director)
+
+         /s/ E. David Crockett                     /s/ Alan M. Fern
+         ------------------------                  ----------------------------
+         E. David Crockett                         Alan M. Fern
+         (Director)                                (Director)
+ 
+
+
+         /s/ Lord Griffiths of Fforestfach         /s/ David L. Nelson
+         ---------------------------------         ----------------------------
+         Lord Griffiths of Fforestfach             David L. Nelson
+         (Director)                                (Director)
+
+
+         /s/ C. William Pollard                    /s/ Charles D. Ray
+         ------------------------                  ----------------------------
+         C. William Pollard                        Charles D. Ray
+         (Director)                                (Director)
+
+
+         /s/ Ruth A. Reister               
+         ------------------------
+         Ruth A. Reister
+         (Director)
+
+
+
+
+
+                                     -43-
+<PAGE>   44
+                     HERMAN MILLER, INC., AND SUBSIDIARIES
+
+                      SCHEDULE V---PROPERTY AND EQUIPMENT
+                                 (In Thousands)
+
+<TABLE>                                 
+<CAPTION>                               
+Column A                          Column B         Column C         Column D         Column E         Column F
+- - --------                          --------         --------         --------         --------         --------
+                                                                                     Other
+                                  Balance at                                         changes          Balance
+                                  beginning        Additions                         add              at end
+Description                       of period        at cost(1)       Retirements      (deduct)(2)      of period
+- - -----------                       ---------        -------          -----------      --------         ---------
+<S>                               <C>             <C>               <C>           <C>               <C>
+Year ended May 28, 1994:                                            
+   Land and improvements          $ 27,153         $    465         $     11      $       (5)        $  27,602
+   Buildings and improvements      135,584           10,684            1,187              50           145,131
+   Machinery and equipment         250,719           25,988           19,853           1,313           258,167
+   Construction in progress         17,951            6,045                2              --            23,994
+                                  --------         --------         --------      ----------          --------
+     Total                        $431,407         $ 43,182         $ 21,053      $    1,358          $454,894
+                                  ========         ========         ========      ==========          ========
+                                
+Year ended May 29, 1993:        
+   Land and improvements          $ 26,850         $    416        $      92       $     (21)         $ 27,153
+   Buildings and improvements      136,393            1,183            1,480            (512)          135,584
+   Machinery and equipment         235,609           36,525           19,778          (1,637)          250,719
+   Construction in progress         12,861            5,091               --              (1)           17,951
+                                  --------        ---------         --------       ---------          --------
+     Total                        $411,713         $ 43,215         $ 21,350       $  (2,171)         $431,407
+                                  ========         ========         ========      ==========          ========
+                                
+Year ended May 30, 1992:        
+   Land and improvements          $ 26,067        $     385        $     194        $    592          $ 26,850
+   Buildings and improvements      131,923            6,003            2,025             492           136,393
+   Machinery and equipment         213,738           31,397           11,004           1,478           235,609
+   Construction in progress         17,836          (4,971)               --              (4)           12,861
+                                  --------           -----          --------       ---------          --------
+     Total                        $389,564         $ 32,814         $ 13,223        $  2,558          $411,713
+                                  ========         ========         ========      ==========          ========
+</TABLE>                                
+
+
+(1) Additions net of transfers to other classifications.
+(2) Primarily the effects of foreign currency translation.
+
+
+
+
+
+                                      -44-
+<PAGE>   45
+                     HERMAN MILLER, INC., AND SUBSIDIARIES
+
+    SCHEDULE VI---ACCUMULATED DEPRECIATION AND AMORTIZATION OF PROPERTY AND
+                                   EQUIPMENT
+                                 (In Thousands)
+
+<TABLE>
+<CAPTION>
+Column A                                       Column B         Column C         Column D         Column E         Column F
+- - --------                                       --------         --------         --------         --------         --------
+                                                                Additions                         Other
+                                               Balance at       charged to                        changes          Balance
+                                               beginning        costs and                         add              at end
+Description                                    of period        expenses(1)      Retirements      (deduct)(2)      of period
+- - -----------                                    ---------        --------         -----------      --------         ---------
+<S>                                          <C>                <C>              <C>            <C>             <C>
+Year ended May 28, 1994:                    
+   Land improvements                         $   3,464          $    578         $     11       $     --         $   4,031
+   Buildings and improvements                   42,200             4,926            1,114            (71)            45,941
+   Machinery and equipment                     157,299            26,025           17,838             474           165,960
+                                             ---------          --------         --------       ---------         ---------
+     Total                                   $ 202,963          $ 31,529         $ 18,963       $     403         $ 215,932
+                                             =========          ========         ========       =========         =========
+Year ended May 29, 1993:                    
+   Land improvements                         $   2,922          $    577         $     41       $       6         $   3,464
+   Buildings and improvements                   38,461             4,846              824            (283)           42,200
+   Machinery and equipment                     150,013            25,619           17,068          (1,265)          157,299
+                                             ---------          --------         --------       ---------         ---------
+     Total                                   $ 191,396          $ 31,042         $ 17,933       $  (1,542)        $ 202,963
+                                             =========          ========         ========       =========         =========
+                                            
+Year ended May 30, 1992:                    
+   Land improvements                         $   2,391          $    567         $     36       $      --         $   2,922
+   Buildings and improvements                   33,712             5,227              937             459            38,461
+   Machinery and equipment                     134,713            24,134            9,536             702           150,013
+                                             ---------          --------         --------       ---------         ---------
+     Total                                   $ 170,816          $ 29,928         $ 10,509         $ 1,161         $ 191,396
+                                             =========          ========         ========       =========         =========
+</TABLE>                                    
+
+
+(1) Additions net of transfers to other classifications.
+(2) Primarily the effects of foreign currency translation.
+
+
+
+
+
+                                      -45-
+<PAGE>   46
+                     HERMAN MILLER, INC., AND SUBSIDIARIES
+
+               SCHEDULE VIII---VALUATION AND QUALIFYING ACCOUNTS
+                                 (In Thousands)
+
+<TABLE>
+<CAPTION>
+Column A                                                    Column B         Column C         Column D         Column E
+- - --------                                                    --------         --------         --------         --------
+                                                                             Additions        Uncollectible
+                                                            Balance at       charged to       accounts         Balance
+                                                            beginning        costs and        written off      at end
+Description                                                 of period        expenses         (net)   (1)      of period
+- - -----------                                                 ---------        --------         -----------      ---------
+<S>                                                         <C>            <C>                <C>              <C>
+Year ended May 28, 1994:
+   Allowance for possible losses                            $  6,168        $     731         $    157         $  6,742
+   on accounts receivable
+
+   Allowance for possible losses                            $  2,106        $   2,750         $  2,697         $  2,159
+   on notes receivable                                      
+
+Year ended May 29, 1993:
+   Allowance for possible losses
+   on accounts receivable                                   $  7,604         $  1,492         $  2,928         $  6,168
+
+   Allowance for possible losses
+   on notes receivable                                      $  1,531         $  6,000         $  5,425         $  2,106
+
+Year ended May 30, 1992:
+   Allowance for possible losses
+   on accounts receivable                                   $  5,574         $  5,978         $  3,948         $  7,604
+
+   Allowance for possible losses
+   on notes receivable                                      $  4,254         $  5,610         $  8,333         $  1,531
+</TABLE>
+
+
+(1) Includes effects of foreign currency translation.
+
+
+
+
+
+                                      -46-
+<PAGE>   47
+                     HERMAN MILLER, INC., AND SUBSIDIARIES
+
+                      SCHEDULE IX--SHORT-TERM BORROWINGS
+                   (In Thousands Except Interest Percentages)
+
+
+<TABLE>
+<CAPTION>
+                  Column A            Column B            Column C             Column D            Column E       Column F
+                  --------            --------            --------             --------            --------       --------
+                                                                               Maximum             Average        Weighted
+                  Category of                             Weighted             amount              amount         average
+                  aggregate           Balance             average              outstanding         outstanding    interest rate
+Year              short-term          at end              interest             during              during the     during the
+Ended             borrowings          of period           rate                 the period          period (1)     period (2)
+- - -----             ----------          ---------           --------             ----------          ----------     ----------
+<S>               <C>                  <C>                     <C>                <C>                <C>               <C>
+May 28, 1994      Banks                $48,911                 6.3%                $48,911             $15,750          4.8%
+                                                                                                                
+May 29, 1993      Banks                $ 18,234                4.2%               $ 18,234           $   9,345          4.7%
+                                                                                                                
+May 30, 1992      Banks                $ 21,774                4.5%               $ 21,774            $ 12,066         11.0%
+</TABLE>  
+
+(1) Calculated based on daily balances.
+(2) Calculated based on daily rates.
+
+
+
+
+
+                                      -47-
+<PAGE>   48
+                     HERMAN MILLER, INC., AND SUBSIDIARIES
+
+           SCHEDULE X--SUPPLEMENTARY CONSOLIDATED INCOME STATEMENT 
+                                  INFORMATION
+                                 (In Thousands)
+
+<TABLE>
+<CAPTION>
+Column A                                                         Column B               
+- - --------                                          --------------------------------------
+                                                      Charged to Costs and Expenses
+                                                            For the Years Ended       
+                                                  ------------------------------------
+
+                                                   May 28,        May 29,         May 30,
+                                                    1994           1993           1992  
+                                                   -------        -------        -------
+<S>                                                <C>             <C>            <C>
+Advertising costs                                   $7,202         $8,951         $10,245
+
+Maintenance and repairs                            $10,175         $9,319         $ 9,823
+</TABLE>
+
+
+Note:    Amortization of  intangible assets, real estate and personal property
+         taxes, other taxes, and royalties were individually less than
+         one percent of sales for 1994, 1993, and 1992.
+
+
+
+
+
+                                     -48-
+<PAGE>   49
+                     HERMAN MILLER, INC., AND SUBSIDIARIES
+
+                                 Exhibit Index
+
+                                                                           Page
+                                                                           ----
+(3)   Articles of Incorporation and Bylaws                             
+                                                                       
+      (a)     Articles of Incorporation are incorporated               
+              by reference to Exhibit 3(a) and 3(b) of                 
+              the Registrant's 1986 Form 10-K Annual Report.           
+                                                                       
+      (b)     Certificate of Amendment to the Articles of              
+              Incorporation, dated October 15, 1987, are               
+              incorporated by reference to Exhibit 3(b) of             
+              the Registrant's 1988 Form 10-K Annual Report.           
+                                                                       
+      (c)     Certificate of Amendment to the Articles of              
+              Incorporation, dated May 10, 1988, are                   
+              incorporated by reference to Exhibit 3(c) of             
+              the Registrant's 1988 Form 10-K Annual Report.           
+                                                                       
+      (d)     Amended and Restated Bylaws are incorporated             
+              by reference to Exhibit 3(d) of the Registrant's         
+              Form 10-Q filed for the quarter ended December 1, 1990.   
+                                                                       
+(4)   Instruments Defining the Rights of Security Holders              
+                                                                       
+      (a)     Specimen copy of Herman Miller, Inc., common stock       
+              is incorporated by reference to Exhibit 4(a) of          
+              Registrant's 1981 Form 10-K Annual Report.               
+                                                                       
+      (b)     Other instruments which define the rights of holders     
+              of long-term debt individually represent debt of         
+              less than 10 percent of total assets. In accordance      
+              with item 601(b)(4)(iii)(A) of regulation S-K, the       
+              Registrant agrees to furnish to the Commission copies    
+              of such agreements upon request.                         
+      
+(10)  Material Contracts
+      
+
+
+
+
+                                     -49-
+<PAGE>   50
+                                                                           Page
+                                                                           ----
+Exhibit Index (continued)
+
+      (a)     1985 Employee Stock Option Plan is
+              incorporated by reference to Exhibit
+              10(a) of the Registrant's 1985 Form 10-K
+              Annual Report.
+      
+      (b)     Amendment to 1985 Employee Stock Option
+              Plan is incorporated by reference to
+              Exhibit 10(B) of the Registrant's 1988
+              Form 10-K Annual Report.
+      
+      (c)     Second Amendment to 1985 Employee Stock
+              Option Plan is incorporated by reference
+              to Exhibit 10(c) of the Registrant's 1989
+              Form 10-K Annual Report.
+      
+      (d)     Amendment 1988-1 to the Herman Miller, Inc.,
+              1985 Employee Stock Option Plan is incorporated
+              by reference to Exhibit 10(d) of the Registrant's
+              1989 Form 10-K Annual Report.
+      
+      (e)     1985 Nonemployee Officer and Director Stock
+              Option Plan is incorporated by reference to
+              Exhibit 10(g) of the Registrant's 1986 Form
+              10-K Annual Report.
+      
+      (f)     First Amendment to the Herman Miller, Inc., 1985
+              Nonemployee Officer and Director Stock Option Plan
+              is incorporated by reference to Exhibit 10(f) of
+              the Registrant's 1989 Form 10-K Annual Report.
+      
+      (g)     Description of Officers Executive Incentive Plan
+              is incorporated by reference to Exhibit 10(e) of
+              the Registrant's 1981 Form 10-K Annual Report.
+      
+      (h)     Officers' Supplemental Retirement Income Plan is
+              incorporated by reference to Exhibit 10(f) of the
+              Registrant's 1986 Form 10-K Annual Report.
+      
+
+
+
+
+                                     -50-
+<PAGE>   51
+                                                                           Page
+                                                                           ---- 
+Exhibit Index (continued)
+
+      (i)     Officers' Salary Continuation Plan is
+              incorporated by reference to Exhibit 10(g)
+              of the Registrant's 1982 Form 10-K Annual
+              Report.
+      
+      (j)     Deferred Compensation Agreement, dated March
+              19, 1970, between the company and Max O.
+              DePree is incorporated by reference to Exhibit
+              10(d) of the Registrant's 1981 Form 10-K
+              Annual Report.
+      
+      (k)     Herman Miller, Inc., Plan for Severance Compensation
+              after Hostile Takeover is incorporated by reference
+              to Exhibit 10(f) of the Registrant's 1986 Form 10-K
+              Annual Report.
+      
+      (l)     Amended Herman Miller, Inc., Plan for Severance
+              Compensation after Hostile Takeover, dated January
+              17, 1990, is incorporated by reference to Exhibit
+              10(n) of the Registrant's 1990 Form 10-K Annual Report.
+      
+      (m)     The Herman Miller, Inc. 1985 Nonemployee
+              Officer and Director Stock Option Plan, as
+              amended is incorporated by reference as
+              Exhibit 28 of the Registrant's 1992 Form S-8
+              Registration Statement (No. 33-45812).
+      
+      (n)     Incentive Share Grant Agreement, dated
+              July 15, 1992, between the company and
+              J. Kermit Campbell is incorporated by
+              reference to Exhibit 10(r) of the Registrant's
+              1993 Form 10-K Annual Report.
+      
+(11)  Computation of Per Share Earnings.                                     52
+      
+(22)  Subsidiaries.                                                          53
+      
+
+
+
+
+                                     -51-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 11
+<TEXT>
+
+<PAGE>   1
+                     HERMAN MILLER, INC., AND SUBSIDIARIES
+
+                                   Exhibit 11
+             Statement Regarding Computation of Per Share Earnings
+                  (Dollars in Thousands Except Per Share Data)
+
+
+<TABLE>
+<CAPTION>
+                                           May 28,              May 29,               May 30,
+                                           1994                 1993                  1992  
+                                        ---------            ----------            ---------
+<S>                                    <C>                 <C>                    <C>
+Income (Loss) Before Extraordinary
+Loss and Cumulative Effect of
+Change in Accounting Principle         $    40,373         $    22,054            $    (3,488)
+
+Extraordinary Loss                              --                  --                 (2,681)
+
+Cumulative Effect of
+Change in Accounting Principle                  --                  --                 (7,976)
+                                        ----------          ----------             ---------- 
+
+NET INCOME (LOSS) APPLICABLE
+TO COMMON SHARES                       $    40,373         $    22,054            $   (14,145)
+                                        ==========          ==========             ==========
+
+Weighted Average Common
+Shares Outstanding                      25,080,895          24,962,007             25,139,014
+
+Net Common Shares
+Issuable Upon Exercise
+of Certain Stock Options                   173,849              30,593                 23,959
+                                        ----------          ----------             ----------
+
+WEIGHTED AVERAGE COMMON
+SHARES OUTSTANDING AS
+ADJUSTED                                25,254,743          24,992,600             25,162,973
+                                        ==========          ==========             ==========
+
+Income (Loss) Per Share Before
+Extraordinary Loss and
+Cumulative Effect of Change
+in Accounting Principle                   $   1.60       $         .88            $     (.14)
+
+Extraordinary Loss Per Share                    --                   --                 (.11)
+
+Cumulative Per Share Effect
+of Change in Accounting Principle               --                  --                  (.31)
+                                         ---------          ----------            ---------- 
+
+NET INCOME (LOSS) PER SHARE              $    1.60         $       .88            $     (.56)
+                                         =========         ===========            ==========
+</TABLE>
+
+Earnings per share on a fully diluted basis are not significantly different
+from reported primary amounts.
+
+
+
+
+
+                                     -52-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-22
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 22
+<TEXT>
+
+<PAGE>   1
+EXHIBIT 22
+
+                     HERMAN MILLER, INC., AND SUBSIDIARIES
+
+                                  Subsidiaries
+
+The Company's principal subsidiaries are as follows:
+
+                                                                Jurisdiction
+Name                                           Ownership        Of Incorporation
+- - ----                                           ---------        ----------------
+Herman Miller (Australia) Pty., Ltd.           100% Company     Australia
+                                                               
+Herman Miller B.V. (Netherlands)               100% Company     Netherlands
+                                                               
+Herman Miller Canada, Inc.                     100% Company     Canada
+                                                               
+Herman Miller Deutschland, Inc. und Co.--OHG   100% Company     Germany
+                                                               
+Herman Miller Et Cie                           100% Company     France
+                                                               
+Herman Miller, Japan, Ltd.                     100% Company     Japan
+                                                               
+Herman Miller, Limited                         100% Company     England, U.K.
+                                                               
+Herman Miller Mexico                           100% Company     Mexico
+                                                               
+Integrated Metal Technology, Inc.              100% Company     Michigan
+                                                               
+Meridian Incorporated                          100% Company     Michigan
+                                                               
+Milcare, Inc.                                  100% Company     Michigan
+                                                               
+Phoenix Designs, Inc.                          100% Company     Michigan
+                                                               
+Powder Coat Technology, Inc.                   100% Company     Michigan
+
+
+
+
+
+                                     -53-
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3591 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JkJKioR3w9Tev9jeiee0b8AuH3vLoNtvd5XEGspEX2rLGKHGKVR1dexAlAoptWJ2
+ qjC9i8nuSyVYYIwbK+T0Zw==
+
+<SEC-DOCUMENT>0000950150-94-000619.txt : 20040504
+<SEC-HEADER>0000950150-94-000619.hdr.sgml : 20040504
+<ACCEPTANCE-DATETIME>19940901170100
+ACCESSION NUMBER:		0000950150-94-000619
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940901
+DATE AS OF CHANGE:		19981201
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BELL INDUSTRIES INC/DE/
+		CENTRAL INDEX KEY:			0000314346
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-ELECTRONIC PARTS & EQUIPMENT, NEC [5065]
+		IRS NUMBER:				952039211
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07899
+		FILM NUMBER:		94547704
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11812 SAN VICENTE BLVD STE 300
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90049-5069
+		BUSINESS PHONE:		3108262355
+
+	MAIL ADDRESS:	
+		STREET 1:		11812 SAN VINCENTE BLVD STE 300
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90049-5069
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K FOR THE FISCAL YEAR ENDED JUNE 30, 1994
+<TEXT>
+
+<PAGE>   1
+
+
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   FORM 10-K
+                                   ---------
+
+               ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+                      -----------------------------------
+
+For fiscal year ended June 30, 1994                              Commission file
+                                                                   number 1-7899
+
+                             BELL INDUSTRIES, INC.
+             (Exact name of Registrant as specified in its charter)
+
+<TABLE>                                            
+<S>                                                       <C>
+           Delaware                                            95-2039211
+           --------                                            ----------
+(State or other jurisdiction of                             (I.R.S. Employer
+incorporation or organization)                            Identification No.)
+                                                   
+11812 San Vicente Blvd., Los Angeles, California               90049-5069
+- - ------------------------------------------------               ----------
+(Address of principal executive offices)                       (Zip Code)
+</TABLE>                                           
+                                                   
+Registrant's telephone number, including area code: (310) 826-2355
+
+Securities registered pursuant to Section 12(g) of the Act:
+                                         
+<TABLE>                                  
+<S>                                                    <C>
+                                                        Name of each exchange     
+Title of each class                                      on which registered
+- - -------------------                                      -------------------
+Common stock, $.25 par value                           New York Stock Exchange
+                                                        Pacific Stock Exchange
+</TABLE>                                 
+                                         
+Securities registered pursuant to Section 12(g) of the Act: None.
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months, and (2) has been subject to such filing
+requirements for the past 90 days.
+
+              YES       X                       NO      
+                       ---
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein.
+
+           NOT APPLICABLE     X      
+                             ---
+
+As of August 22, 1994, the aggregate market value of the voting stock held by
+non-affiliates of the Registrant was: $108,930,268.
+
+As of August 22, 1994, the number of shares outstanding of the Registrant's
+class of common stock, $.25 par value was: 6,147,771.
+
+                       DOCUMENT INCORPORATED BY REFERENCE
+                       ----------------------------------
+
+Proxy Statement for the 1994 Annual Meeting
+of Shareholders, November 1, 1994.                             PART III
+<PAGE>   2
+                                     PART I
+
+Item 1.  Business
+
+Bell Industries, Inc. ("Bell" or "the Company") is primarily a national
+distributor of electronic components. In addition, Bell also distributes
+graphic arts and recreational-related products. Bell presently employs 1,400
+persons.
+
+The Electronics Group (79% of 1994 sales) includes one of the nation's largest
+electronic components distributors, which sells semiconductors; passive and
+electromechanical components; connectors; and personal computers, software and
+related accessories. The group also manufactures high-precision,
+close-tolerance products for the computer and aerospace markets. The Graphic
+Arts Group (13% of 1994 sales) distributes electronic imaging equipment, film,
+plates, chemicals, and related supplies throughout California and southern
+Nevada to the advertising and printing industries. After-market products for
+the recreational vehicle, motorcycle, mobile home, snowmobile, and marine
+industries are distributed by the Recreational Products Group (8% of 1994
+sales).
+
+The Electronics Group's distribution business markets electronic components
+through seven regional service centers and over 20 sales facilities located
+throughout the United States. Regional service centers support selling
+operations in the following geographic areas and locations: Northwest
+(Sunnyvale, California); Southwest (Orange County, California); Central
+(Chicago, Illinois); Heartland (Indianapolis); Northeast (Boston,
+Massachusetts); Mid-Atlantic (Philadelphia, Pennsylvania) and Southern
+(Orlando, Florida). The group's microcomputer distribution and services
+business is based in Indianapolis, Indiana and provides services through four
+facilities located in Indiana, Ohio and Kentucky. Electronics manufacturing
+facilities are located in Redmond, Washington, Mountain View, California and
+Gardena, California.
+
+The Graphic Arts Group is based in Los Angeles, California and markets its
+products through five distribution facilities located in California and Nevada.
+The Recreational Products Group distributes products from facilities in St.
+Paul, Minnesota and Milwaukee, Wisconsin.
+
+For additional information regarding the Company's business and developments
+during the year, see "Item 7. Management's Discussion and Analysis of Results
+of Operations and Financial Condition."
+
+In 1994, the Company acquired LMB Microcomputers, Inc., a privately-owned
+personal computer reseller,  which complements Bell's established presence in
+the major corporate and institutional PC market in the Midwest.
+
+
+
+
+
+                                       2
+<PAGE>   3
+Item 2.  Properties
+
+At June 30, 1994, the Company leased 52 facilities containing approximately
+818,000 square feet and owned 9 facilities containing an aggregate of
+approximately 333,000 square feet. The facilities utilized by each of the
+Company's business segments are set forth in the following table:
+
+<TABLE>
+<CAPTION>
+                                                  Area in Square Feet               
+                                                 (number of locations)           
+                                        ---------------------------------------
+                          
+                                           Owned                     Leased       
+                                        ------------              -------------
+<S>                                     <C>                       <C>
+Electronics Group                        78,000 (4)               376,000 (35)
+                                                                       
+Graphic Arts Group                                                 73,000 (5)
+                                                                       
+Recreational Products                                                  
+  Group                                  67,000 (1)                98,000 (1)
+                                                                       
+Corporate and other                                                36,000 (3)
+                                                                       
+Discontinued operations                 188,000 (4)               235,000 (8)
+                                        -------                   -------   
+                                                                       
+                                        333,000 (9)               818,000 (52)
+                                        =======                   =======   
+</TABLE>                                                               
+                          
+For the most part, the Company's facilities are fully utilized, although excess
+capacity exists from time to time, based on product mix and demand. Management
+believes that these properties are in good condition and suitable for their
+present use.
+
+The Company has subleased substantially all of the facilities related to
+discontinued operations.
+
+
+
+
+
+                                       3
+<PAGE>   4
+Item 3.  Legal Proceedings
+
+The Company is not involved in any litigation of a material nature which might
+affect its financial condition.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+Not applicable
+
+  Executive Officers of the Registrant
+
+The Executive Officers of the Registrant, all of whom hold office until the
+meeting of the Board of Directors following the next annual meeting of
+shareholders and until their successors have been elected or appointed, are as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                                     Year First
+                                                                       Named
+Name                      Age     Position                            Officer
+- - ----                      ---     --------                           ----------
+<S>                       <C>     <C>                                   <C>
+Paul F. Doucette          48      Senior Vice President (1)             1981
+Tracy A. Edwards          37      Vice President and Chief
+                                  Financial Officer (2)                 1991
+Gordon M. Graham          59      Senior Vice President (3)             1986
+D. J. Hough               57      Vice President                        1984
+Bruce M. Jaffe            50      Executive Vice President and
+                                  Chief Operating Officer (3)           1973
+Theodore Williams         74      President and Chief
+                                  Executive Officer (3)                 1969
+Stephen A. Weeks          43      Treasurer and
+                                  Corporate Controller (4)              1994
+</TABLE>
+
+(1)      Paul F. Doucette's wife is the niece of Theodore Williams.
+
+(2)      Tracy A. Edwards was a Senior Manager with Price Waterhouse for the
+         five years prior to his appointment as Vice President and Chief
+         Financial Officer.
+
+(3)      Also serves as a member of the Board of Directors.
+
+(4)      Stephen A. Weeks was employed in several accounting management
+         positions for the five years prior to his appointment as Treasurer.
+
+
+
+
+
+                                       4
+<PAGE>   5
+                                    PART II
+
+Item 5.  Market for the Registrant's Common Equity and Related
+         Stockholder Matters
+
+Bell's common stock (ticker symbol BI) is listed on the New York and Pacific
+Stock Exchanges. The following table shows the high, low and closing market
+prices for the Company's common stock during the most recent two years.
+
+<TABLE>
+<CAPTION>
+Quarter ended        Sep. 30     Dec. 31     Mar. 31     Jun. 30
+- - ----------------------------------------------------------------
+<S>                  <C>         <C>         <C>         <C>
+Fiscal 1994                                          
+Price: High          $17.13      $18.75      $19.75      $17.63
+       Low            13.38       16.50       14.63       14.50
+       Close          17.13       17.50       14.88       16.63
+                                                        
+Fiscal 1993                                             
+Price: High          $11.25      $12.50      $12.75      $14.00
+       Low             9.50        9.75        9.25       11.50
+       Close          10.00       11.63       11.88       13.88
+</TABLE>                                                
+                                                         
+The Company declared and paid dividends of $.10 per share for the quarters
+ended September 30, 1992 and December 31, 1992. No cash dividends have been
+declared subsequent to December 31, 1992. In July 1993, the Company declared a
+4% stock dividend payable to shareholders of record on August 20, 1993. Fiscal
+1993 per share prices in the table above were not adjusted for the stock
+dividend.
+
+Approximate number of record holders of common stock as of August 22, 1994:
+1,500.
+
+
+
+
+
+                                       5
+<PAGE>   6
+Item 6.  Selected Financial Data
+
+(Dollars in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+                               1994        1993        1992        1991        1990
+- - --------------------------------------------------------------------------------------
+<S>                           <C>         <C>         <C>         <C>         <C>
+Operating Results                                                             
+- - -----------------                                                             
+                                                                              
+Net sales                     $451,153    $365,323    $353,347    $317,125    $308,151
+Income (loss) from                                                            
+  continuing operations,                                                      
+    net of taxes (1)          $  9,075    $  5,005    $    919    $   (677)   $  6,050
+Net income (loss)             $  9,075    $ (5,025)   $    417    $    678    $  8,202
+Capital expenditures          $  2,562    $  5,744    $  8,669    $  5,725    $  5,429
+Depreciation and                                                              
+  amortization                $  5,574    $  5,735    $  4,935    $  5,695    $  5,682
+                                                                              
+Financial Position                                                            
+- - ------------------                                                            
+                                                                              
+Working capital               $107,455    $ 97,710    $114,715    $118,853    $ 90,924
+Total assets                  $184,713    $175,272    $191,557    $189,167    $175,947
+Long-term liabilities         $ 39,972    $ 47,569    $ 52,592    $ 57,159    $ 29,569
+Shareholders' equity          $ 95,553    $ 86,288    $ 92,338    $ 93,996    $ 94,838
+                                                                              
+Share and Per Share Data (2)                                                  
+- - ----------------------------                                                  
+                                                                              
+Income (loss) from                                                            
+  continuing operations,                                                      
+    net of taxes              $   1.45    $    .81    $    .15    $   (.11)   $    .99
+Net income (loss)             $   1.45    $   (.81)   $    .07    $    .11    $   1.35
+Cash dividends                                                                
+  declared (3)                            $    .20    $    .40    $    .40    $   4.37
+Shareholders' equity          $  15.55    $  14.08    $  15.09    $  15.41    $  15.73
+Market price - high           $  19.75    $  14.00    $  13.13    $  18.38    $  18.75
+Market price - low            $  13.38    $   9.25    $   9.00    $   9.38    $  13.25
+Weighted average                                                              
+  common shares                                                               
+    outstanding (000's)          6,263       6,185       6,163       6,124       6,087
+                                                                              
+Financial Ratios                                                              
+- - ----------------                                                              
+                                                                              
+Current ratio                      3.2         3.4         3.5         4.1         2.8
+Return on average                                                             
+  shareholders' equity            10.0%       (5.6)%       0.4%        0.7%        7.9%
+Long-term liabilities                                                         
+  to total capitalization         29.5%       35.5%       36.3%       37.8%       23.8%
+</TABLE>                                                                      
+                             
+(1)      Includes before-tax provisions for computer write-down ($4,400) in
+         1992 and facility closure ($3,500) in 1991.
+(2)      Adjusted to give effect to 4% stock dividend declared in July 1993
+         (excluding cash dividend and market price data).
+(3)      Includes special cash dividend of $4.00 per share declared in 1990.
+
+
+
+
+
+                                       6
+<PAGE>   7
+Item 7.  Management's Discussion and Analysis of Results of
+         Operations and Financial Condition
+
+RESULTS OF OPERATIONS
+
+Results of operations by business segment were as follows
+(in thousands):
+
+<TABLE>
+<CAPTION>
+Year ended June 30               1994             1993             1992
+- - -----------------------------------------------------------------------
+<S>                          <C>              <C>              <C>
+Net sales                                                      
+  Electronics                $357,968         $282,190         $274,555
+  Graphic Arts                 58,764           55,410           52,790
+  Recreational Products        34,421           27,723           26,002
+                             --------         --------         --------
+                             $451,153         $365,323         $353,347
+                             ========         ========         ========
+                                                              
+Operating income                                              
+  Electronics                $ 23,741         $ 17,543         $ 15,935
+  Graphic Arts                  1,405            2,115            1,606
+  Recreational Products         3,050            2,550            2,536
+                             --------         --------         --------
+                                                              
+    Operating income           28,196           22,208           20,077
+                                                              
+Corporate costs                (7,975)          (8,005)          (8,272)
+Computer write-down                                              (4,400)
+Interest expense               (4,492)          (5,538)          (5,432)
+Income tax  provision          (6,654)          (3,660)          (1,054)
+                             --------         --------         --------
+Income from                                                   
+  continuing operations         9,075            5,005              919
+                                                              
+Discontinued operations                                       
+  Loss from operations,                                       
+    net of taxes                                (1,100)            (502)
+  Loss on disposal,                                           
+    net of taxes                                (8,100)       
+Cumulative effect of                                          
+  accounting change,                                          
+    net of taxes                                  (830)                      
+                             --------         --------         --------
+Net income (loss)            $  9,075         $ (5,025)        $    417
+                             ========         ========         ========
+</TABLE>                                                      
+                                                               
+FISCAL 1994 COMPARED WITH FISCAL 1993
+
+Overall Results
+
+For fiscal 1994, net sales increased 23% to $451.2 million and operating income
+increased 27% to $28.2 million. Income from continuing operations, as well as
+net income, was $9.1 million, or $1.45 per share, compared to income from
+continuing operations of $5 million, or $.81 per share, in fiscal 1993. After
+providing for the effects of an accounting change and losses on discontinued
+operations, the Company recorded a net loss of $5 million, or $.81 per share,
+in the prior year.
+
+
+
+
+
+                                       7
+<PAGE>   8
+Continuing Operations
+
+Electronics Group sales increased 27% to $358 million and operating income
+increased 35% to $23.7 million. The improved performance was primarily
+attributed to strong electronic component shipments, including the first
+significant sales from the Company's franchise agreement with IBM
+Microelectronics. Operating income improvement was attributed to stronger
+sales, while operating expenses remained unchanged due to the Company's
+restructuring and cost control programs. These improvements were partially
+offset by reductions in gross margins in electronic components sales due to
+product mix changes primarily arising from increased sales of lower margin
+memory and microprocessor products. While IBM products contributed to the
+group's excellent performance for the year, the longer term impact of this line
+on the Company's electronics business is difficult to judge given IBM's recent
+entry in the electronic component merchant market.
+
+The Electronics Group sells the following products to over 20,000 customers
+nationally:  semiconductors (Analog Devices, IBM, Maxim, National
+Semiconductor, SGS-Thomson, Siliconix); passive components (Aromat, Bourns,
+Kemet, Vishay); connectors (Amphenol, Berg); computers (Apple, Compaq,
+Hewlett-Packard, IBM); power supplies (Power-One) and board-level products. The
+group provides value-added services including Bell's Just-In-Time Delivery
+System, assembly of custom cables, harnesses and connectors, contract
+purchasing and direct programming of chips. Group manufacturing operations
+produce switches, push-buttons and electroluminescent panels used in commercial
+aircraft; precision stampings used in the personal computer industry; and
+electronic components including coils, filters and chokes marketed under the 
+J. W. Miller name.
+
+Graphic Arts Group sales increased 6% to $58.8 million while operating income
+decreased 34% to $1.4 million. Margin pressures resulting from adverse economic
+conditions in California contributed to the overall decrease in operating
+performance for the group.  Results during the last half of fiscal 1994
+improved over the first six months as a result of programs to increase gross
+margins and reduce operating expenses.
+
+Major product lines distributed by the Graphic Arts Group include film, plates,
+chemicals and other printing supplies from Agfa, DuPont, Eastman Kodak, and 3M,
+as well as prepress and related electronic imaging equipment from Agfa, Apple,
+Howtek, Intergraph, and Screen.
+
+Sales and operating income for the Recreational Products Group increased 24% to
+$34.4 million and 20% to $3.1 million, respectively. Sales and income growth
+resulted from enhanced efforts to penetrate winter product markets and the
+expansion of certain product lines.
+
+
+
+
+
+                                       8
+<PAGE>   9
+The Recreational Products Group sells parts and accessories to dealers for
+motor homes, mobile homes, motorcycles, snowmobiles, boats and other
+recreational vehicles. The group supplies more than 9,000 recreational
+vehicle-related products, as well as over 8,500 marine items, 11,000 motorcycle
+items, and 4,000 snowmobile items. Major product lines distributed by the group
+include Alcoa, Coleman/Recreational Products, Inc., Dunlop, NGK, and Nordyne.
+
+The following table sets forth the consolidated percentage relationship of
+various costs and expenses to net sales:
+
+<TABLE>
+<CAPTION>
+Year ended June 30                           1994    1993    1992
+- - ------------------------------------------------------------------
+<S>                                         <C>     <C>     <C>
+Net sales                                   100.0%  100.0%  100.0%
+  Cost of products sold                     (77.5)  (75.3)  (74.9)
+  Selling, general and                    
+    administrative expenses                 (18.0)  (20.8)  (21.8)
+  Computer write-down                                        (1.2)
+  Interest expense                           (1.0)   (1.5)   (1.5)
+                                            ------  ------  ------
+Income from continuing                    
+  operations before income taxes              3.5     2.4      .6
+                                          
+Income tax provision                         (1.5)   (1.0)    (.3)
+                                            ------  ------  ------
+                                          
+Income from continuing operations             2.0%    1.4%     .3%
+                                            ======  ======  ======
+</TABLE>                                  
+                                          
+The increase in cost of products sold primarily resulted from product mix
+changes in electronics distribution. Selling, general and administrative
+expenses decreased as a result of cost control programs. Interest expense
+decreased due to reductions in long-term debt. The Company's income tax rate on
+continuing operations was 42% in both fiscal 1994 and 1993. In fiscal 1992, the
+income tax rate of 53.5% resulted from lower earnings and the effects of
+certain expenses for which tax benefits are limited, including goodwill and
+state income taxes.
+
+Discontinued Operations
+
+During the last half of fiscal 1993, the Company recorded an after-tax charge
+of $8.1 million in connection with a plan to dispose of its Building Products
+Group. Income tax benefits of approximately $5.9 million were recorded in
+connection with the disposal charge. In July 1993, the Company sold a majority
+of the assets of the discontinued operations for approximately $11 million in
+cash. During the first quarter of fiscal 1995, the Company sold substantially
+all of the remaining operating net assets of the discontinued operations for
+cash and notes totaling approximately $4.5 million.
+
+
+
+
+
+                                       9
+<PAGE>   10
+FISCAL 1993 COMPARED WITH FISCAL 1992
+
+For fiscal 1993, net sales increased 3% to $365.3 million and operating income
+increased 11% to $22.2 million. Income from continuing operations was 
+$5 million, or $.81 per share, compared to income from continuing operations of
+$0.9 million, or $.15 per share, for the prior year. The Company recorded a net
+loss of $5 million, or $.81 per share, compared to net income of $0.4 million,
+or $.07 per share, in fiscal 1992.
+
+Electronics Group sales increased 3% to $282.2 million and operating income
+increased 10% to $17.5 million. Sales growth was primarily attributed to strong
+electronic component and computer systems shipments in the eastern, southern
+and southwestern United States. Value-added and telemarketing programs also
+contributed to the solid sales performance. In addition, sales increased as a
+result of strong shipments of precision-stamped metal products for the
+electronics and computer industries. Operating income improvement was
+attributed to sales growth and previously announced restructuring and payroll
+cost reduction programs and increased manufacturing volumes. These improvements
+were partially offset by reductions in gross margins in electronics
+distribution during the year due to product mix changes and competitive
+pressures.
+
+Graphic Arts Group sales were $55.4 million, a 5% increase over the prior year.
+Operating income increased 32% to $2.1 million.  Sales and operating income
+benefited from the expansion into new product lines, including electronic
+imaging equipment, and stronger market performance in northern California.
+Operating margins improved as a result of efficiency programs.
+
+Recreational Products Group sales increased 7% due to stronger marketing
+efforts and favorable weather conditions. Operating income increased slightly
+as a result of increased sales offset by decreases in gross margins due to
+competitive pricing efforts and changes in product mix.
+
+
+
+
+
+                                       10
+<PAGE>   11
+FINANCIAL CONDITION
+
+At June 30, 1994, the Company continued to maintain a strong financial position
+as set forth in the following table (dollars in thousands, except per share
+amounts):
+
+<TABLE>
+<CAPTION>
+June 30                                         1994               1993
+- - -----------------------------------------------------------------------
+<S>                                        <C>                 <C>
+Cash and cash equivalents                  $   4,370           $ 10,717
+Working capital                            $ 107,455           $ 97,710
+Current ratio                                  3.2:1              3.4:1
+Long-term liabilities to
+  total capitalization                          29.5%              35.5%
+Shareholders' equity per share             $   15.55           $  14.08
+Days' sales in receivables                        47                 49
+Days' sales in inventories                        73                 91
+</TABLE>
+
+In fiscal 1994, operating activities generated cash totaling $6.6 million
+compared to $2.7 million in the prior year. The increase in operating cash
+flows in fiscal 1994 was primarily related to the growth in earnings offset by
+increased investment in working capital required to support the Company's
+electronics business. Cash provided by investing activities included the
+proceeds from the sale of certain assets of discontinued operations. Offsetting
+these proceeds were payments for accounts payable and other obligations
+relating to the discontinued operations. In addition, the Company invested $5.9
+million to acquire a microcomputer distribution and services business during
+the year. Investing activity cash flows in the prior year included the addition
+of peripheral equipment for the Company's computer system and the addition of
+leasehold improvements and related equipment at the Company's corporate
+offices. Financing activity cash flows primarily included scheduled and
+optional repayments on the Company's Senior Notes. Non-cash investing and
+financing activities for fiscal 1994 included a $1.6 million equipment 
+addition which was financed through a capital lease.
+
+The Company believes that sufficient cash resources exist to support short-term
+requirements, including debt and lease payments, and longer term objectives,
+through available cash, bank borrowings, cash realized on the disposition of
+discontinued operations, and cash generated from continuing operations.
+
+
+
+
+
+                                       11
+<PAGE>   12
+Item 8.  Financial Statements and Supplementary Data
+
+<TABLE>
+<CAPTION>
+Index to Financial Statements                                        Page
+- - -----------------------------                                        ----
+<S>                                                                 <C>
+Financial Statements:                                              
+                                                                   
+         Report of Independent Accountants                             13
+                                                                   
+         Consolidated Statement of Operations for the              
+           three years ended June 30, 1994                             14
+                                                                   
+         Consolidated Balance Sheet at June 30, 1994 and 1993          15
+                                                                   
+         Consolidated Statement of Shareholders' Equity for        
+           the three years ended June 30, 1994                         16
+                                                                   
+         Consolidated Statement of Cash Flows for the              
+           three years ended June 30, 1994                             17
+                                                                   
+         Notes to Consolidated Financial Statements                 18-26
+                                                                   
+         Financial Statement Schedule:                             
+           For the three years ended June 30, 1994                 
+           VIII - Valuation and Qualifying Accounts and Reserves       28
+</TABLE>                                                           
+                                                                   
+The financial data included in the financial statement schedule should be read
+in conjunction with the consolidated financial statements. All other schedules
+have been omitted because they are not applicable or the required information
+is shown in the consolidated financial statements or notes thereto. The
+individual financial statements of the Company have been omitted since the
+Company is primarily an operating company and the subsidiaries included in the
+consolidated financial statements are considered wholly owned and deemed to be
+totally held and do not have indebtedness to any person other than the Company
+or its consolidated subsidiaries in amounts which together exceed five percent
+of total consolidated assets as of June 30, 1994.
+
+
+
+
+
+                                       12
+<PAGE>   13
+REPORT OF INDEPENDENT ACCOUNTANTS
+Price Waterhouse LLP
+
+
+To the Board of Directors and
+Shareholders of Bell Industries, Inc.
+
+In our opinion, the consolidated financial statements listed in the
+accompanying index present fairly, in all material respects, the financial
+position of Bell Industries, Inc. and its subsidiaries at June 30, 1994 and
+1993, and the results of their operations and their cash flows for each of the
+three years in the period ended June 30, 1994, in conformity with generally
+accepted accounting principles. These financial statements are the
+responsibility of the Company's management; our responsibility is to express an
+opinion on these financial statements based on our audits. We conducted our
+audits of these statements in accordance with generally accepted auditing
+standards which require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements, assessing the
+accounting principles used and significant estimates made by management, and
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for the opinion expressed above.
+
+As discussed in the Notes to Consolidated Financial Statements, the Company
+changed its method of accounting for postretirement benefits in fiscal 1993.
+
+
+PRICE WATERHOUSE LLP
+
+
+Los Angeles, California
+August 3, 1994
+
+
+
+
+
+                                       13
+<PAGE>   14
+CONSOLIDATED STATEMENT OF OPERATIONS
+(In thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+Year ended June 30                           1994             1993             1992
+- - -------------------------------------------------------------------------------------
+<S>                                        <C>              <C>              <C>
+Net sales                                  $451,153         $365,323         $353,347
+                                           ------------------------------------------
+Costs and expenses
+  Cost of products sold                     349,573          275,081          264,634
+  Selling, general and
+    administrative  expenses                 81,359           76,039           76,908
+  Interest expense                            4,492            5,538            5,432
+  Computer write-down                                                           4,400
+                                           ------------------------------------------
+                                            435,424          356,658          351,374
+                                           ------------------------------------------
+Income from continuing
+  operations before income taxes             15,729            8,665            1,973
+Income tax provision                          6,654            3,660            1,054
+                                           ------------------------------------------
+Income from continuing operations             9,075            5,005              919
+Discontinued operations
+  Loss from operations,
+    net of taxes                                              (1,100)            (502)
+  Loss on disposal, net of taxes                              (8,100)
+Cumulative effect of
+  accounting change, net of taxes                               (830)                
+                                           ------------------------------------------
+Net income (loss)                          $  9,075         $ (5,025)        $    417
+                                           ==========================================
+
+SHARE AND PER SHARE DATA
+Income from continuing operations          $   1.45         $    .81         $    .15
+Discontinued operations
+  Loss from operations, net of taxes                            (.18)            (.08)
+  Loss on disposal, net of taxes                               (1.31)
+Cumulative effect of
+  accounting change, net of taxes                               (.13)                   
+                                           ------------------------------------------
+Net income (loss)                          $   1.45         $   (.81)        $    .07
+                                           ==========================================
+
+
+Cash dividends declared                    $                $    .20         $    .40
+                                           ==========================================
+
+Weighted average common
+  shares outstanding                          6,263            6,185            6,163
+                                           ==========================================
+</TABLE>
+
+
+
+
+
+                                       14
+<PAGE>   15
+CONSOLIDATED BALANCE SHEET
+(Dollars in thousands)
+
+<TABLE>
+<CAPTION>
+June 30                                                   1994            1993
+- - ---------------------------------------------------------------------------------
+<S>                                                     <C>             <C>
+ASSETS                                                                  
+Current assets                                                          
+  Cash and cash equivalents                             $   4,370       $  10,717
+  Accounts receivable, less allowance for                               
+    doubtful accounts of $884 and $1,271                   65,835          50,215
+  Inventories                                              80,179          71,543
+  Prepaid expenses and other                                6,259           6,650
+                                                        -------------------------
+      Total current assets                                156,643         139,125
+                                                        -------------------------
+Properties, at cost                                                     
+  Land                                                        443             443
+  Buildings and improvements                                8,750           8,767
+  Equipment                                                31,269          30,224
+                                                        -------------------------
+                                                           40,462          39,434
+  Less accumulated depreciation                           (24,284)        (22,733)
+                                                        ------------------------- 
+      Total properties                                     16,178          16,701
+                                                        -------------------------
+Other assets                                                            
+  Goodwill and other intangibles, less                                  
+    accumulated amortization of $4,638 and $4,126           6,738           5,521
+  Net assets of discontinued operations                       383           7,752
+  Deferred tax benefits and other                           4,771           6,173
+                                                        -------------------------
+      Total other assets                                   11,892          19,446
+                                                        -------------------------
+                                                        $ 184,713       $ 175,272
+                                                        =========================
+                                                                        
+LIABILITIES AND SHAREHOLDERS' EQUITY                                    
+Current liabilities                                                     
+  Accounts payable                                      $  28,885       $  20,465
+  Accrued payroll                                           6,114           4,868
+  Accrued liabilities                                       5,254           5,643
+  Current portion of long-term liabilities                  7,616           9,703
+  Income taxes payable                                      1,319             736
+                                                        -------------------------
+      Total current liabilities                            49,188          41,415
+                                                        -------------------------
+Long-term liabilities                                                    
+  Notes payable                                            32,857          41,000
+  Obligations under capital leases                          3,234           3,364
+  Deferred compensation and other                           3,881           3,205
+                                                        -------------------------
+      Total long-term liabilities                          39,972          47,569
+                                                        -------------------------
+Shareholders' equity                                                     
+  Preferred stock, $1 par value                                          
+    Authorized-1,000,000 shares                                          
+    Outstanding-none                                                     
+  Common stock, $.25 par value                                           
+    Authorized-10,000,000 shares                                         
+    Outstanding-6,146,107 shares and                                     
+      6,130,422 shares                                      1,537           1,533
+  Other paid-in capital                                    47,167          46,981
+  Reinvested earnings                                      46,849          37,774
+                                                        -------------------------
+      Total shareholders' equity                           95,553          86,288
+Commitments and contingencies                           
+                                                        -------------------------
+                                                        $ 184,713       $ 175,272
+                                                        =========================
+</TABLE>                                                                
+
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+
+
+
+                                       15
+<PAGE>   16
+CONSOLIDATED STATEMENT OF SHAREHOLDERS' EQUITY
+(Dollars in thousands)
+<TABLE>
+<CAPTION>                                                          
+                                                          Other    
+                                    Common stock         paid-in      Reinvested
+                                Shares       Amount      capital        earnings
+- - --------------------------------------------------------------------------------
+<S>                           <C>          <C>           <C>            <C>
+Balance at                                                         
+  June 30, 1991              5,863,387     $  1,466      $ 43,407       $49,123
+                                                                   
+  Exercise of                                                      
+    stock options               18,850            5           270  
+  Net income                                                                417
+  Cash dividends                                                         (2,350)
+- - ------------------------------------------------------------------------------- 
+                                                                   
+Balance at                                                         
+  June 30, 1992              5,882,237        1,471        43,677        47,190
+                                                                   
+  Exercise of                                                      
+    stock options               12,400            3           150  
+  Net loss                                                               (5,025)
+  Cash dividends                                                         (1,178)
+  4% stock dividend            235,785           59         3,154        (3,213)
+- - ------------------------------------------------------------------------------- 
+                                                                   
+Balance at                                                         
+  June 30, 1993              6,130,422        1,533        46,981        37,774
+                                                                   
+  Exercise of                                                      
+    stock options               15,685            4           186  
+  Net income                                                              9,075
+- - -------------------------------------------------------------------------------
+                                                                   
+Balance at                                                         
+  June 30, 1994              6,146,107       $1,537       $47,167       $46,849
+===============================================================================
+</TABLE>                                                           
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+
+
+
+                                       16
+<PAGE>   17
+CONSOLIDATED STATEMENT OF CASH FLOWS
+(In thousands)
+
+<TABLE>
+<CAPTION>
+Year ended June 30                                    1994         1993          1992
+- - -------------------------------------------------------------------------------------
+<S>                                              <C>           <C>          <C>  
+Cash flows from operating activities:                                            
+  Cash received from customers                    $437,143      $401,801     $410,532
+  Cash paid to suppliers and employees            (421,052)     (390,628)    (383,791)
+  Interest paid                                     (4,979)       (5,664)      (5,276)
+  Income taxes paid                                 (4,561)       (2,806)        (528)
+                                                 ------------------------------------
+  Net cash provided by operating activities          6,551         2,703       20,937
+                                                 ------------------------------------
+Cash flows from investing activities:           
+  Purchases of equipment and improvements           (2,562)       (5,744)      (8,669)
+  Disposal of discontinued operations                7,369
+  Purchase of business (net of cash received)       (5,864)
+  Other                                                121            43          363
+                                                 ------------------------------------
+  Net cash used in investing activities               (936)       (5,701)      (8,306)
+                                                 ------------------------------------
+Cash flows from financing activities:       
+  Bank borrowings (payments), net                    2,000        (1,600)      (1,600)
+  Proceeds from capital lease arrangements                         5,411
+  Payments on Senior Notes                         (12,600)       (2,000)
+  Payments on capital leases                        (1,362)         (939)
+  Dividends paid and other                                        (1,766)      (2,532)
+                                                 ------------------------------------
+  Net cash used in financing activities            (11,962)         (894)      (4,132)
+                                                 ------------------------------------
+Net increase (decrease) in cash
+  and cash equivalents                              (6,347)       (3,892)       8,499
+Cash and cash equivalents at
+  beginning of year                                 10,717        14,609        6,110
+                                                 ------------------------------------
+Cash and cash equivalents at
+  end of year                                    $   4,370      $ 10,717     $ 14,609
+                                                 ====================================
+
+Reconciliation of net income (loss) to
+  net cash provided by operating activities:
+
+Net income (loss)                                $   9,075      $ (5,025)    $    417
+Loss on disposal of discontinued operations                        8,100
+Cumulative effect of accounting change                               830
+Depreciation and amortization                        5,011         5,036        4,090
+Amortization of intangibles                            563           699          845
+Computer write-down                                                             4,400
+Provision for losses on accounts receivable            755         2,022        1,457
+Changes in assets and liabilities
+  net of effects of discontinued operations:
+    Accounts receivable                            (14,010)       (2,882)      (3,872)
+    Inventory                                       (6,384)          866        5,614
+    Accounts payable                                 8,168        (3,549)       3,642
+    Deferred compensation and
+      other liabilities                                857        (3,017)       3,317
+    Income taxes                                     2,169          (327)         819
+    Other                                              347           (50)         208
+                                                 ------------------------------------
+                                                 $   6,551      $  2,703     $ 20,937
+                                                 ====================================
+</TABLE>
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+
+
+
+                                       17
+<PAGE>   18
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+SUMMARY OF ACCOUNTING POLICIES
+
+Principles of consolidation - The consolidated financial statements include the
+accounts of the Company and its subsidiaries, all of which are wholly owned.
+All significant intercompany transactions have been eliminated.
+
+Cash and cash equivalents - The Company considers all highly liquid investments
+purchased with an original maturity date of three months or less to be cash
+equivalents. The carrying amount of cash equivalents approximates fair value.
+
+Revenue recognition and receivables - The Company is a distributor of
+electronic components, graphic arts supplies and equipment, and
+recreational-related products. Sales are recognized and trade receivables are
+recorded when products are shipped. Concentrations of credit risk with respect
+to trade receivables are limited due to the large number and general dispersion
+of trade accounts which constitute the Company's customer base. The Company
+performs ongoing credit evaluations of its customers and generally does not
+require collateral. The Company estimates reserves for potential credit losses
+and such losses have been within these estimates.
+
+Inventories - Inventories are stated at the lower of cost (determined using
+weighted average and first-in, first-out methods) or market (net realizable
+value).
+
+Properties, depreciation and amortization - All properties are depreciated
+using the straight-line method based upon estimated useful lives which range
+from 15 to 40 years for buildings and 3 to 10 years for machinery and
+equipment. Leasehold improvements and assets recorded under capital leases are
+amortized over the shorter of their estimated service lives or the term of the
+lease.
+
+Intangibles - Cost in excess of the fair value of net assets of purchased
+businesses (goodwill) is amortized using the straight-line method over 25
+years. The costs of other intangible assets purchased from acquired businesses,
+primarily composed of customer lists, franchise agreements and the assembled
+work force, are being amortized using the straight-line method over their
+estimated lives ranging from 5 to 10 years.
+
+Income taxes - Provision is made for the tax effects of temporary differences
+between the financial reporting basis and the tax basis of the Company's assets
+and liabilities. In estimating deferred tax balances, the Company considers all
+expected future events other than enactments of changes in the tax law or
+rates.
+
+
+
+
+
+                                       18
+<PAGE>   19
+
+Stock option plans - The Company recognizes compensation expense relating to
+the plans in an amount equal to the difference between the market value of
+shares at the date of option grant and the expected proceeds upon exercise.
+Such compensation expense is accrued ratably over the period to be benefited.
+When an installment of a grant is exercised, common stock is credited with the
+par value of shares issued and other paid-in capital is credited with the
+balance of market value at date of grant.
+
+Per share data - Operating results data per common and common equivalent share
+is based upon the weighted average number of common and common equivalent
+shares outstanding, after adjustment to reflect the 4% stock dividend declared
+in July 1993. Common equivalent shares represent the net number of shares which
+would be issued assuming the exercise of dilutive stock options, reduced by the
+number of shares which could be repurchased from the proceeds of such
+exercises.
+
+ACCOUNTING CHANGES
+
+During fiscal 1993 the Company adopted two new accounting principles, Statement
+of Financial Accounting Standards (SFAS) No. 106, "Employers' Accounting for
+Postretirement Benefits Other than Pensions" and SFAS No. 109 "Accounting for
+Income Taxes."
+
+The Company provides postretirement medical coverage for qualifying employees.
+Annual costs associated with these benefits, which were immaterial to the
+Company's financial results, were previously expensed as incurred. In 1993, the
+Company implemented SFAS No. 106 and elected to record the previously
+unrecognized obligation covering prior years for postretirement medical
+coverage provided to qualifying employees. The charge of $830,000 relating to
+this accounting change was recorded net of estimated tax benefits of $600,000.
+Accumulated and vested benefit obligations relating to postretirement medical
+benefits were not significant at June 30, 1994 and 1993.
+
+SFAS No. 109 replaced the Company's prior method of accounting for income taxes
+under SFAS No. 96. The cumulative and current annual impact of the accounting
+change was not material to the financial position or operating results of the
+Company.
+
+DISCONTINUED OPERATIONS
+
+In April 1993, the Company's Board of Directors adopted a plan to dispose of
+its Building Products Group. In connection with this plan, the Company recorded
+an after-tax loss on disposal of $8.1 million which included a provision for
+future operating costs during the phase-out period, primarily lease commitments
+of approximately $2.0 million, and adjustments of net assets to estimated
+realizable values. Income tax benefits of $5.9 million were recorded in
+connection with the disposal charge.
+
+
+
+
+
+                                       19
+<PAGE>   20
+Summarized operating results of discontinued operations through the measurement
+date of March 31, 1993 were as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+Year ended June 30                              1993                   1992
+- - -----------------------------------------------------------------------------
+<S>                                           <C>                   <C>
+Net sales                                     $ 36,818               $ 61,057
+                                              --------               --------
+
+Loss before income tax benefit                $ (1,739)              $   (976)
+
+Income tax benefit                                 639                    474
+                                              --------               --------
+
+Loss from discontinued operations             $ (1,100)              $   (502)
+                                              ========               ======== 
+</TABLE>
+
+Operating losses of discontinued operations subsequent to the measurement date
+through June 30, 1994 totaled approximately $0.6 million.
+
+Net assets of discontinued operations at June 30, 1994 and 1993 included the
+following (in thousands):
+
+<TABLE>
+<CAPTION>
+June 30                                          1994                   1993
+- - ------------------------------------------------------------------------------
+<S>                                           <C>                      <C>
+Accounts receivable, net                      $   2,665               $  5,661
+Inventories                                       1,749                  9,061
+Properties and other assets                       2,490                  2,738
+Accounts payable and
+  accrued liabilities                            (6,521)                (9,708)
+                                              ---------               --------
+
+                                              $     383               $  7,752
+                                              =========               ========
+</TABLE>
+
+In July 1993, the Company sold a majority of the assets of the discontinued
+operations for approximately $11 million in cash. The Company retained
+liabilities, primarily accounts payable and accrued payroll costs, in
+connection with the asset sale. During the first quarter of fiscal 1995, the
+Company sold substantially all of the remaining operating net assets of the
+discontinued operations for cash and notes totaling approximately $4.5 million.
+
+COMPUTER WRITE-DOWN
+
+During 1992, management decided to replace the mainframe computer which was
+utilized by a substantial portion of the Company's operations. The resulting
+before-tax charge of $4.4 million represented the remaining book value of the
+old computer equipment which was replaced.
+
+
+
+
+
+                                       20
+<PAGE>   21
+NOTES PAYABLE
+
+Notes payable at June 30, 1994 and 1993 consisted of the following 
+(in thousands):
+
+<TABLE>
+<CAPTION>
+June 30                                    1994            1993
+- - ---------------------------------------------------------------
+<S>                                    <C>             <C>
+Bank borrowings                        $  2,000        $  1,600
+9.70% Senior Notes due 2001              37,000          48,000
+                                       --------        --------
+                                         39,000          49,600
+Less current portion                      6,143           8,600
+                                       --------        --------
+                                       $ 32,857        $ 41,000
+                                       ========        ========
+</TABLE>                                              
+                                                      
+The Company's bank loan agreement provides for a $25 million secured revolving
+line of credit which is available through October 1995. Borrowings against the
+line accrue interest at either the bank's reference rate or LIBOR plus .875%
+(5.375% at June 30, 1994). The Company is subject to an annual commitment fee
+of .25% on the unused line of credit.
+
+The agreement underlying the 9.70% Senior Notes, as amended, requires the
+Company to make annual principal payments. In addition, the Company has the
+right, but not the obligation, to prepay $2 million in fiscal 1995. Interest
+payments on the Senior Notes are due in semi-annual installments.
+
+The fair value of the Senior Notes at June 30, 1994 was approximately $39
+million. The fair value was estimated using an interest rate currently
+available to the Company for debt with similar terms and remaining maturities.
+
+In connection with certain amendments to the Senior Note agreement, the
+noteholders received warrants to purchase 187,200 shares of the Company's
+common stock. The warrants may be exercised at any time prior to February 1,
+2001 at $13.05 per share.
+
+The Senior Notes and bank borrowings under the revolving line of credit are
+secured by receivables and certain inventories of the Company. These agreements
+contain various provisions for the maintenance of financial ratios and amounts,
+limitations on long-term borrowings, payments of cash dividends, and other
+provisions.
+
+Aggregate maturities of notes payable are as follows (in thousands):
+
+<TABLE>
+<S>         <C>                   <C>         <C>
+1995        $ 6,143               1998        $ 7,143
+1996          7,143               1999          7,143
+1997          7,143               2000          4,285
+</TABLE>
+
+
+
+
+
+                                       21
+<PAGE>   22
+COMMON STOCK
+
+The Company's 1990 Stock Option and Incentive Plan (the 1990 Plan), which
+succeeded the 1981 Restricted Stock Purchase Plan, authorized 500,000 shares of
+common stock to be available for purchase by employees. Under the 1990 Plan,
+both incentive and nonqualified stock options, stock appreciation rights and
+restricted stock may be granted. At June 30, 1994, 511,097 shares were reserved
+for future issuance under both plans.
+
+A summary of changes under the plans follows:
+
+<TABLE>
+<CAPTION>
+                      Available for  Shares under            Price    Market value
+                       future grant        option        per share       per share
+- - ----------------------------------------------------------------------------------
+<S>                        <C>           <C>         <C>             <C>
+Outstanding at                                                       
+  June 30, 1991            570,785        50,270            $  .25   
+    Termination                                                      
+      of 1981 Plan         (70,785)                                  
+    Granted                (26,500)       26,500     $  .25-$10.00   $ 9.25-$10.00
+    Exercised                            (18,850)                    
+    Canceled                              (1,520)                                             
+                        ----------------------------------------------------------
+Outstanding at                                                       
+  June 30, 1992            473,500        56,400     $  .25-$10.00   
+    Granted               (195,000)      195,000     $10.25-$13.75   $10.25-$13.75
+    Exercised                            (12,400)                    
+    Canceled                 9,000       (12,425)                    
+    Adjustment for 4%                                                
+      stock dividend        11,500         9,063                                                      
+                        ----------------------------------------------------------
+Outstanding at                                                       
+  June 30, 1993            299,000       235,638     $  .25-$13.22   
+    Granted                 (2,500)        2,500            $19.25          $19.25
+    Exercised                            (15,685)                    
+    Canceled                 4,966       (12,822)                                             
+                        ----------------------------------------------------------
+Outstanding at                                                       
+  June 30, 1994            301,466       209,631     $  .25-$19.25                 
+                        ----------------------------------------------------------
+Exercisable at                                                       
+  June 30, 1994                           23,046     $  .25-$13.22                 
+                        ----------------------------------------------------------
+</TABLE>                                                             
+
+In fiscal 1994, the shareholders approved the Bell Industries Employees' Stock
+Purchase Plan (the ESPP) under which 750,000 shares were authorized for future
+issuance to Bell employees. Eligible employees may purchase Bell stock at 85%
+of market value through the ESPP. No shares were issued in 1994 under the ESPP.
+
+In July 1994, the Board of Directors approved the 1994 Stock Option Plan
+covering 500,000 shares. This plan is subject to shareholder approval at the
+next annual meeting.
+
+In July 1993, the Board of Directors declared a 4% stock dividend payable to
+shareholders of record on August 20, 1993. Share and per share amounts were
+adjusted to give effect to the dividend.
+
+
+
+
+
+                                       22
+<PAGE>   23
+INCOME TAXES
+
+The income tax provision charged to continuing operations was as follows
+(in thousands):
+
+<TABLE>                             
+<CAPTION>                           
+Year ended June 30                    1994               1993               1992
+- - --------------------------------------------------------------------------------
+<S>                                 <C>                <C>                <C>
+Current                                                                   
+  Federal                           $5,240             $2,714             $1,219
+  State                              1,444                782                221
+Deferred                                                                  
+  Federal                              (58)               329               (438)
+  State                                 28               (165)                52
+                                    --------------------------------------------
+                                    $6,654             $3,660             $1,054
+                                    ============================================
+</TABLE>                                                                  
+
+A reconciliation of income tax expense to the statutory federal income tax rate
+follows (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+Year ended June 30                 1994              1993               1992    
+- - --------------------------------------------------------------------------------
+<S>                          <C>      <C>       <C>      <C>       <C>     <C>
+Income from continuing
+  operations before taxes    $15,729  100.0%    $8,665   100.0%    $1,973  100.0%
+                             ---------------------------------------------------
+Federal statutory
+  provision                  $ 5,405   34.4%    $2,946    34.0%    $  671   34.0%   
+State taxes,                                                       
+  net of federal benefit         920    5.8        503     5.8        300   15.2     
+Goodwill                         138     .9        136     1.6        124    6.3
+Other, net                       191    1.2         75      .8        (41)  (2.0)
+                             ---------------------------------------------------
+                             $ 6,654   42.3%    $3,660    42.2%    $1,054   53.5%
+                             ===================================================
+</TABLE>
+
+The provision (credit) for deferred income taxes from continuing operations is
+summarized as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+Year ended June 30                   1994               1993                1992
+- - --------------------------------------------------------------------------------
+<S>                                 <C>                <C>               <C>  
+Depreciation                        $(444)             $(571)            $(1,475)                  
+Deferred compensation and
+  other employee benefits             (77)               463                (119)
+California franchise tax              (80)               (67)                130
+Inventory capitalization              146                 77                  34
+Receivables allowance                 371                (18)                (34)
+Accruals for facility closure                            272               1,087
+Other                                  54                  8                  (9)
+                                    --------------------------------------------
+                                    $ (30)             $ 164             $  (386)
+                                    ============================================
+</TABLE>
+
+
+
+
+
+                                       23
+<PAGE>   24
+Deferred tax balances were composed of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+June 30                                        1994                     1993
+- - ----------------------------------------------------------------------------
+<S>                                          <C>                      <C>
+Deferred tax assets:                    
+                                        
+  Discontinued operations                    $3,701                   $5,234    
+  Deferred compensation and             
+    other employee benefits                     889                      812
+  Receivables allowance                         443                      814
+  Inventory capitalization                      591                      737
+  Postretirement benefits                       608                      568
+  Other                                         253                      170
+                                             -------------------------------
+                                        
+    Gross deferred tax assets                 6,485                    8,335
+                                             -------------------------------
+Deferred tax liabilities:               
+                                        
+  Depreciation                                                          (347)
+                                             -------------------------------
+                                        
+    Net deferred tax assets                  $6,485                   $7,988
+                                             -------------------------------
+</TABLE>                                
+                                        
+Current deferred income tax benefits included with prepaid expenses and other
+and noncurrent deferred income tax benefits included with other assets were as
+follows (in thousands):
+
+<TABLE>
+<CAPTION>
+June 30                                        1994                     1993
+- - ----------------------------------------------------------------------------
+<S>                                          <C>                      <C>
+Current deferred income tax benefits      
+  Federal                                    $4,375                   $4,246
+  State                                         236                      688
+                                          
+Noncurrent deferred income tax benefits   
+  Federal                                     1,628                    2,947
+  State                                         246                      107
+                                             ------                   ------
+                                             $6,485                   $7,988
+                                             ======                   ======
+</TABLE>                                  
+                                          
+
+
+
+
+                                       24
+<PAGE>   25
+EMPLOYEE BENEFIT AND DEFERRED COMPENSATION PLANS
+
+The Company has a qualified, trusteed, savings and profit sharing plan for
+employees of the Company and its subsidiaries. Employees must contribute at
+least 1% of their annual compensation to participate in the plan. The Company's
+contribution to the plan is determined by the Board of Directors. The Company's
+contributions were $500,000 in 1994, $250,000 in 1993, and $0 in 1992.
+
+The Company has employment and deferred compensation agreements with certain
+current and retired officers. Expense associated with the deferred compensation
+element of the agreements was $331,000 in 1994, $343,000 in 1993 and $192,000
+in 1992.
+
+COMMITMENTS AND CONTINGENCIES
+
+At June 30, 1994 the Company had operating leases on certain of its facilities
+expiring in various years through fiscal 2000. Under certain of these leases
+the Company is required to pay property taxes and insurance. Rent expense
+pertaining to these leases was $3,821,000 in 1994, $3,899,000 in 1993 and
+$3,692,000 in 1992. The Company has certain computer equipment under capital
+leases.  Amortization of capitalized leases amounted to  $1,580,000 in 1994 and
+$1,157,000 in 1993. Non-cash investing and financing activities for fiscal 1994
+included a $1.6 million equipment addition which was financed through a capital
+lease.
+
+Minimum annual rentals on these leases for years subsequent to 1994 are as
+follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                 Capital       Operating   
+                                                  leases          leases
+                                                  ------          ------
+<S>                                               <C>             <C>
+1995                                              $1,724          $3,445
+1996                                               1,724           2,751
+1997                                               1,724           2,043
+1998                                                   -           1,592
+1999                                                   -           1,128
+Thereafter                                             -             491
+                                              ----------                
+                                                   5,172
+Less amount representing interest                   (465)
+                                              ---------- 
+Present value of net minimum lease        
+  payments under capital leases                   $4,707
+                                              ==========
+</TABLE>                                  
+                                          
+The Company is involved in litigation incidental to its business. In the
+opinion of management, the expected outcome of such litigation will not
+materially affect the Company's financial position or results of operations.
+
+
+
+
+
+                                       25
+<PAGE>   26
+BUSINESS SEGMENT INFORMATION
+
+Depreciation and amortization, identifiable assets and capital expenditures by
+business segment are as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                       1994             1993             1992
+- - -----------------------------------------------------------------------------
+<S>                                <C>              <C>              <C>
+Depreciation and amortization     
+  Electronics                      $  2,528         $  2,429         $  2,210
+  Graphic Arts                          112              103              105
+  Recreational Products                 104              189              181
+  Corporate                           2,830            2,285            1,375
+  Discontinued operations                                729            1,064
+                                   ------------------------------------------
+                                   $  5,574         $  5,735         $  4,935
+                                   ==========================================
+Identifiable assets               
+  Electronics                      $134,299         $109,479         $111,436
+  Graphic Arts                       15,967           15,900           14,663
+  Recreational Products              12,686           11,443           10,164
+  Corporate                          21,378           30,698           26,025
+  Discontinued operations               383            7,752           29,269
+                                   ------------------------------------------
+                                   $184,713         $175,272         $191,557
+                                   ==========================================
+Capital expenditures              
+  Electronics                      $  1,939         $  2,151         $  1,811
+  Graphic Arts                          203               96              124
+  Recreational Products                 123              106              112
+  Corporate                             297            3,155            4,981
+  Discontinued operations                                236            1,641
+                                   ------------------------------------------
+                                   $  2,562         $  5,744         $  8,669
+                                   ==========================================
+</TABLE>                          
+                                       
+The net sales and operating income of each of the Company's business segments
+are included under "Item 7. Management's Discussion and Analysis of Results of
+Operations and Financial Condition." A description of the Company's business
+and products appears under "Item 1. Business." Sales between product groups are
+insignificant. Corporate assets are primarily cash, data processing equipment
+and deferred income tax benefits.
+
+The Company purchased a microcomputer distribution and services business during
+1994 for approximately $5.9 million cash. Goodwill involved in the transaction
+was approximately $1.6 million. Operating results for the purchased business
+were not significant.
+
+
+
+
+
+                                       26
+<PAGE>   27
+QUARTERLY RESULTS OF OPERATIONS (Unaudited)
+(in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+Quarter ended                            Sep. 30          Dec. 31          Mar. 31          Jun. 30
+- - ---------------------------------------------------------------------------------------------------
+<S>                                     <C>              <C>              <C>              <C>
+1994:                                
+- - -----                                
+Net sales                               $106,718         $102,241         $113,507         $128,687
+                                        -----------------------------------------------------------
+                                     
+Cost and expenses                    
+  Cost of products sold                   82,560           79,338           88,064           99,611
+  Selling and administrative         
+    expenses                              19,368           19,387           20,721           21,883
+  Interest expense                         1,198            1,127            1,099            1,068
+                                        -----------------------------------------------------------
+                                         103,126           99,852          109,884          122,562
+                                        -----------------------------------------------------------
+                                     
+Income before income taxes                 3,592            2,389            3,623            6,125
+Income tax provision                       1,527            1,015            1,540            2,572
+                                        -----------------------------------------------------------
+                                     
+Net income (loss)                       $  2,065         $  1,374         $  2,083         $  3,553
+                                        ===========================================================
+                                     
+Share and Per Share Data             
+- - ------------------------             
+Net income (loss)                       $   0.33         $   0.22         $   0.33         $   0.57
+                                        ===========================================================
+Weighted average common shares       
+    outstanding                            6,227            6,278            6,284            6,263
+                                        ===========================================================
+                                     
+1993:                                
+- - -----                                
+Net sales                               $ 92,479         $ 86,182         $ 90,724         $ 95,938
+                                        -----------------------------------------------------------
+                                     
+Cost and expenses                    
+  Cost of products sold                   69,507           65,211           68,527           71,836
+  Selling and administrative         
+    expenses                              19,374           19,016           18,449           19,200
+  Interest expense                         1,421            1,412            1,383            1,322
+                                        -----------------------------------------------------------
+                                          90,302           85,639           88,359           92,358
+                                        -----------------------------------------------------------
+Income from continuing operations    
+    before income taxes                    2,177              543            2,365            3,580
+Income tax provision                         914              231              990            1,525
+                                        -----------------------------------------------------------
+                                     
+Income from continuing operations          1,263              312            1,375            2,055
+Discontinued operations              
+  Loss from operations,net of taxes          (76)            (443)            (581)
+  Loss on disposal, net of taxes                                            (8,100)
+Cumulative effect of accounting      
+    change, net of taxes                    (830)                                                      
+                                        -----------------------------------------------------------
+                                     
+Net income (loss)                       $    357         $   (131)        $ (7,306)        $  2,055
+                                        ===========================================================
+                                     
+Share and Per Share Data             
+- - ------------------------             
+Income from continuing operations       $   0.20         $   0.05         $   0.23         $   0.33
+Discontinued operations              
+  Loss from operations,net of taxes        (0.01)           (0.07)           (0.10)
+  Loss on disposal, net of taxes                                             (1.31)
+Cumulative effect of accounting      
+    change, net of taxes                   (0.13)                                                      
+                                        -----------------------------------------------------------
+                                     
+Net income (loss)                       $   0.06         $  (0.02)        $  (1.18)        $   0.33
+                                        ===========================================================
+Weighted average common shares       
+    outstanding                            6,173            6,174            6,174            6,185
+                                        ===========================================================
+</TABLE>                             
+                                     
+
+
+
+
+                                       27
+<PAGE>   28
+         SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+
+<TABLE>
+<CAPTION>
+                                       Additions           Deductions  
+                                       ---------           ----------  
+                    Balance at         Charge to           Accounts           Balance
+                    beginning          costs and           charged            at end
+Description         of period          expenses            off                of period
+- - -----------         ---------          --------            --------           ---------
+<S>                                    <C>                 <C>                <C>
+Allowance for doubtful accounts:                                       
+                                                                       
+Year ended -                                                           
+                                                                       
+June 30, 1992       $1,757,000         $1,457,000          $1,617,000         $1,597,000
+                                                                       
+June 30, 1993       $1,597,000         $2,022,000          $2,348,000         $1,271,000
+                                                                       
+June 30, 1994       $1,271,000         $  755,000          $1,142,000         $  884,000
+</TABLE>                                                               
+                                                                       
+                
+
+
+
+                                       28
+<PAGE>   29
+Item 9.          Changes in and Disagreements with Accountants on Accounting and
+                 Financial Disclosure
+
+Not applicable.
+
+                                    PART III
+
+Item 10.         Directors and Executive Officers of the Registrant
+
+(a)  Directors:  The information required by Item 10 with respect to directors
+appears in the Proxy Statement for the 1994 Annual Meeting of Shareholders and
+is hereby incorporated by reference.
+
+(b)  Executive Officers:  The information required by Item 10 with respect to
+Executive Officers appears in Part I of this Form 10- K.
+
+Item 11.         Executive Compensation
+
+The information required by Item 11 appears in the Proxy Statement for the 1994
+Annual Meeting of Shareholders and is hereby incorporated by reference.
+
+Item 12.         Security Ownership of Certain Beneficial Owners and
+                 Management
+
+The information required by Item 12 appears under "Election of Directors" in
+the Proxy Statement for the 1994 Annual Meeting of Shareholders and is hereby
+incorporated by reference.
+
+Item 13.         Certain Relationships and Related Transactions
+
+The information required by Item 13 appears in the Proxy Statement for the 1994
+Annual Meeting of Shareholders and is hereby incorporated by reference.
+
+                                    PART IV
+
+Item 14.         Exhibits, Financial Statement Schedule, and Reports on
+                 Form 8-K
+
+(a)  1.          Financial Statements:
+
+                 The Consolidated Financial Statements and Report of
+                 Independent Accountants dated August 3, 1994 are
+                 included under Item 8 of this Annual Report on
+                 Form 10-K.
+
+     2.          Financial Statement Schedule:
+
+                 The financial statement schedule listed in the Index to
+                 Financial Statements included under Item 8 is filed as
+                 part of this annual report.
+
+
+
+
+
+                                       29
+<PAGE>   30
+     3.  Exhibits:
+                   3.a)   The Articles of Incorporation and By-laws are
+                          incorporated by reference to Exhibits 2 and 4,
+                          respectively to Registrant's Form 8-B dated November
+                          19, 1979.
+
+                     b)   Amendment to By-Laws of Bell Industries is
+                          incorporated by reference to Exhibit 3 to
+                          Registrant's Form 8-K dated November 4, 1992.
+
+                   4.a)   The Specimen of Registrant's Common Stock
+                          certificates is incorporated by reference to Exhibit
+                          5 to Amendment number 1 to Registrant's Form 8-B
+                          filed January 15, 1980.
+
+                     b)   The Note Purchase Agreement dated February 1, 1991
+                          among Registrant and Insurance Companies named
+                          therein providing for the issuance of Registrant's
+                          $50,000,000 of 9.7% Senior Notes due February 1, 2001
+                          is incorporated by reference to Exhibit 4.b of the
+                          Form 10-K dated June 30, 1991.
+
+                     c)   The First Amendment Agreement, including as exhibits
+                          thereto, the Collateral Trust Indenture and Security
+                          Agreement, dated June 1, 1992, among Registrant and
+                          Insurance Companies named therein providing for
+                          certain amendments to the Note Purchase Agreement
+                          dated February 1, 1991 is incorporated by reference
+                          to Exhibit 4.c of the Form 10-K dated June 30, 1992.
+
+                     d)   The Second Amendment Agreement dated September 15,
+                          1993, among Registrant and Insurance Companies named
+                          therein providing for certain amendments to the Note
+                          Purchase Agreement dated February 1, 1991 is
+                          incorporated by reference to Exhibit 4.d of the Form
+                          10-K dated June 30, 1993.
+
+                     e)   Warrant Agreement dated September 15, 1993 including
+                          Form of Warrant Certificate issued to the named
+                          Insurance Companies included in the Note Purchase
+                          Agreement dated  February 1, 1991, as amended, is
+                          incorporated by reference to Exhibit 4.e of the Form
+                          10-K dated June 30, 1993.
+
+
+
+
+
+                                       30
+<PAGE>   31
+                     f)   Amendment Agreement dated March 29, 1994, between the
+                          Registrant and the Security Trustee named therein
+                          providing for certain amendments to the Collateral
+                          Trust Indenture and Security Agreement included with
+                          the First Amendment Agreement dated June 1, 1992.
+
+                     g)   Letter Agreement dated May 17, 1994, among Registrant
+                          and Insurance Companies named therein providing for
+                          certain amendments to the Warrant Agreement dated
+                          September 15, 1993.
+
+                  10.a)   The Employment and Deferred Compensation Agreements
+                          dated January 1, 1979 and the Amendment thereto dated
+                          August 6, 1979 concerning certain officers of
+                          Registrant are incorporated by reference to Exhibits
+                          9A, 9C and 9D to Amendment number 1 to Registrant's
+                          Form 8-B dated November 19, 1979.
+
+                     b)   The 1981 Restricted Stock Purchase Plan is
+                          incorporated by reference to Exhibit A of
+                          Registrant's definitive Proxy Statement (File No.
+                          1-7899) filed in connection with the Annual Meeting
+                          of Shareholders held October 30, 1981.
+
+                     c)   The 1990 Stock Option and Incentive Plan is
+                          incorporated by reference to Exhibit A of
+                          Registrant's definitive Proxy Statement (File No.
+                          1-7899) filed in connection with the Annual Meeting
+                          of Shareholders held October 29, 1990.
+
+                     d)   The 1993 Employees' Stock Purchase Plan is
+                          incorporated by reference to Exhibit A of
+                          Registrant's definitive Proxy Statement (File No.
+                          1-7899) filed in connection with the Annual Meeting
+                          of Shareholders held November 2, 1993.
+
+                  21.     Subsidiaries of the Registrant.
+
+                  23.     Consent of Independent Accountants.
+
+                  27.     Financial Data Schedule.
+
+(b)  Reports on Form 8-K:
+
+       None.
+
+
+
+
+
+                                       31
+<PAGE>   32
+                                   SIGNATURES
+
+Pursuant to the requirement of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+
+                                       BELL INDUSTRIES, INC.
+
+
+
+                                       By THEODORE WILLIAMS              
+                                          ---------------------------
+                                          THEODORE WILLIAMS
+                                          Chairman of the Board,
+                                          President and Chief
+                                          Executive Officer
+
+                                       Date:  September 1, 1994
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below on September 1, 1994 by the following persons on
+behalf of the Registrant and in the capacities indicated.
+
+<TABLE>
+<CAPTION>
+           Signature                                            Title                
+- - ----------------------------------         ------------------------------------------
+<S>                                        <C>
+THEODORE WILLIAMS                          
+- - ----------------------------------         Chairman of the Board, President                                
+THEODORE WILLIAMS                          and Chief Executive Officer
+
+BRUCE M. JAFFE                             
+- - ----------------------------------         Director, Executive Vice President                                  
+BRUCE M. JAFFE                             and Chief Operating Officer
+
+JOHN J. COST                               
+- - ----------------------------------         Director and Secretary                      
+JOHN J. COST
+
+GORDON GRAHAM                              
+- - ----------------------------------         Director and Senior Vice President                                  
+GORDON GRAHAM
+
+ANTHONY L. CRAIG                           
+- - ----------------------------------         Director        
+ANTHONY L. CRAIG
+
+MILTON ROSENBERG                           
+- - ----------------------------------         Director        
+MILTON ROSENBERG
+
+CHARLES TROY                               
+- - ----------------------------------         Director        
+CHARLES TROY
+
+TRACY A. EDWARDS                           Vice President and
+- - ----------------------------------         Chief Financial and                   
+TRACY A. EDWARDS                           Accounting Officer
+</TABLE>
+
+
+
+
+
+                                       32
+<PAGE>   33
+                                 EXHIBIT INDEX
+
+
+<TABLE>
+<CAPTION>
+         Exhibits
+         --------
+<S>      <C>                                                                         <C>
+3)       Article of incorporation and by-laws                                        (*)
+
+4)       Instruments defining the rights of
+         security holders, including indentures.
+
+         a)      Specimen of Registrant's Common
+                 Stock certificate.                                                  (*)
+
+         b)      Note Purchase Agreement dated
+                 February 1, 1991 among Registrant
+                 and Insurance Companies named therein,
+                 providing for the issuance of Registrants'
+                 $50,000,000 of 9.7% Senior Notes due
+                 February 1, 2001.                                                   (*)
+
+         c)      First Amendment Agreement, including as
+                 exhibits thereto, the Collateral Trust
+                 Indenture and Security Agreement, dated
+                 June 1, 1992, to the Note Purchase
+                 Agreement dated as of February 1, 1991
+                 (4.b above).                                                        (*)
+
+         d)      Second Amendment Agreement dated
+                 September 15, 1993, to the Note Purchase
+                 Agreement dated as of February 1, 1991
+                 (4.b above).                                                        (*)
+
+         e)      Warrant Agreement dated September 15, 1993
+                 including Form of Warrant Certificate
+                 issued to the named Insurance Companies
+                 included in the Note Purchase Agreement
+                 dated February 1, 1991, as amended.                                 (*)
+
+         f)      Amendment Agreement dated March 29, 1994
+                 to the Collateral Trust Indenture and
+                 Security Agreement dated June 1, 1992.
+
+         g)      Letter Agreement dated May 17, 1994
+                 amending the Warrant Agreement dated
+                 September 15, 1993.
+</TABLE>
+
+
+
+
+
+                                       33
+<PAGE>   34
+10)      Material contracts.
+
+<TABLE>
+         <S>     <C>                                                                 <C>
+         a)      The Employment and Deferred Compensation
+                 Agreements dated January 1, 1979 and
+                 the Amendment thereto dated August 6, 1979
+                 concerning certain officers of Registrant.                          (*)
+
+         b)      The 1981 Restricted Stock Purchase Plan
+                 included as Exhibit A to Registrant's
+                 definitive Proxy Statement (File No. 1-7899)
+                 filed in connection with the Annual Meeting
+                 of Shareholders held October 30, 1981.                              (*)
+
+         c)      The 1990 Stock Option and Incentive Plan
+                 included as Exhibit A to Registrant's
+                 definitive Proxy Statement (File No. 1-7899)
+                 filed in connection with the Annual Meeting
+                 of Shareholders held October 29, 1990.                              (*)
+
+         d)      The 1993 Employees' Stock Purchase Plan
+                 included as Exhibit A to Registrant's
+                 definitive Proxy Statement (File No. 1-7899)
+                 filed in connection with the Annual Meeting
+                 of Shareholders held November 2, 1993.                              (*)
+</TABLE>
+
+21)      Subsidiaries of the Registrant.
+
+23)      Consent of Independent Accountants.
+
+27)      Financial Data Schedule.
+
+(*)      Incorporated by reference.
+
+
+
+
+
+                                       34
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.F
+<SEQUENCE>2
+<DESCRIPTION>AMENDMENT AGREEMENT DATED AS OF MARCH 29, 1994
+<TEXT>
+
+<PAGE>   1
+
+
+                                                                    EXHIBIT 4.f
+
+
+===============================================================================
+
+
+
+
+
+
+                             BELL INDUSTRIES, INC.
+                                
+                                  -----------
+
+                              AMENDMENT AGREEMENT
+
+                                  -----------
+
+
+
+
+
+                           DATED AS OF MARCH 29,1994
+
+                           COLLATERAL TRUST INDENTURE
+
+                               SECURITY AGREEMENT
+
+
+
+
+
+
+===============================================================================
+<PAGE>   2
+
+                              AMENDMENT AGREEMENT
+
+
+     AMENDMENT AGREEMENT (this "Amendment"), dated as of March 29,1994,
+between BELL INDUSTRIES, INC., a Delaware corporation (together with its
+successors and assigns, the "Company"), and STATE STREET BANK AND TRUST COMPANY
+OF CONNECTICUT, NATIONAL ASSOCIATION, a national banking association, as
+security trustee (the "Security Trustee") under that certain Collateral Trust
+Indenture (the "Existing Collateral Trust Indenture," and the Existing
+Collateral Trust Indenture, as amended by this Amendment, the "Amended
+Collateral Trust Indenture"), dated as of June 1, 1992, between the Company and
+the Security Trustee.
+
+                                   RECITALS:
+
+     A.     The Company entered into separate Note Purchase Agreements
+(collectively, as amended, the "Note Purchase Agreement") with each of the
+original purchasers of the Company's issuance of Fifty Million Dollars
+($50,000,000) of 9.70% Senior Notes due February 1, 2001 (the "Notes");
+
+     B.     The Company has entered into a certain Second Amended and
+Restated Loan Agreement, dated August 13, 1992, with the Bank, (as amended
+through and including Amendment No. 5 thereto, dated as of February 11, 1994,
+the "Existing Loan Agreement") which provided for the extension of credit by
+the Bank to the Company in the nature of a revolving line of credit as
+evidenced by a revolving promissory note (the "New Revolving Note") in the
+maximum principal amount of Ten Million Dollars ($10,000,000) and for the
+extension of a trade letter of credit facility in the maximum amount of Three
+Hundred Thousand Dollars ($300,000).  The Company has requested that the Bank,
+and the Bank has agreed to, increase the amount of credit available under the
+New Revolving Note to a maximum principal amount of Twenty-Five Million Dollars
+($25,000,000).  In connection therewith, the Company, on the Effective Date, as
+such term is defined below, will enter into a Sixth Amendment to the Existing
+Loan Agreement (the Existing Loan Agreement, as so amended, being hereinafter
+referred to as the "New Loan Agreement") with the Bank, which will provide for
+an increase in the amount of credit extended by the Bank to the Company under
+the New Loan Agreement to a maximum aggregate principal amount of Twenty-Five
+Million Three Hundred Thousand Dollars ($25,300,000).
+
+     C.  Certain obligations of the Company owed to the Holders and the Bank
+have been secured pursuant to the Existing Collateral Trust Indenture and that
+certain Security Agreement, dated as of June 1, 1992, between the Company and
+the Security Trustee (the "Existing Security Agreement," and the Existing
+Security Agreement, as amended by this Amendment, the "Amended Security
+Agreement").
+
+     D.  As a condition precedent to entering into the New Loan Agreement, the
+Bank requires that the contemplated increase in the maximum principal amount of
+credit available to the Company thereunder be secured by the Existing
+Collateral Trust Indenture and the Existing Security Agreement.
+
+     E.  The Company has requested the Holders and the Bank to amend and modify
+the Existing Collateral Trust Indenture and the Existing Security Agreement, as
+in effect on the date hereof and has also requested the Bank to enter into the
+New Loan Agreement.
+<PAGE>   3
+
+
+     F.     The Holders, the Security Trustee and the Bank are agreeable
+to such request on the terms and conditions set forth in this Amendment.
+
+     G.     All acts and proceedings required by law and by the
+certificate of incorporation and by-laws of the Company, necessary to
+constitute this Amendment a valid and binding agreement for the uses and
+purposes set forth herein, in accordance with its terms, have been done and
+taken, and the execution and delivery hereof has been in all respects duly
+authorized.
+
+     NOW, THEREFORE, in consideration of the premises and other valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged,
+the parties agree as follows:
+
+SECTION 1.  THE COLLATERAL TRUST INDENTURE
+
+SECTION 1.1.     COLLATERAL TRUST INDENTURE DEFINITIONS
+
+     Capitalized terms used in Section 1 of this Amendment and not
+otherwise defined herein shall have the respective meanings ascribed to them in
+the Amended Collateral Trust Indenture.
+
+SECTION 1.2.     AMENDMENTS TO THE COLLATERAL TRUST INDENTURE
+
+     1.2.1. The Recitals of the Existing Collateral Trust Indenture are 
+hereby amended and restated in their entirety as follows:
+
+                      "A.      The Company entered into separate Note Purchase
+                 Agreements (collectively, as amended by the First Amendment
+                 Agreement (the "First Amendment Agreement"), dated as of June
+                 1, 1992, and the Second Amendment Agreement (the "Second
+                 Amendment Agreement"), dated as of September 15, 1993, and as
+                 hereafter amended, the "Note Purchase Agreement") with each of
+                 the original purchasers of the Company's issuance of Fifty
+                 Million Dollars ($50,000,000) of 9.70% Senior Notes due
+                 February 1, 2001 (the "Notes");
+
+                      "B.      The Company has entered into a certain
+                 Second Amended and Restated Loan Agreement, dated August 13,
+                 1992, with the Bank, (as amended through and including
+                 Amendment No. 5 thereto, dated as of February 11, 1994, the
+                 "Existing Loan Agreement") which provided for the extension of
+                 credit by the Bank to the Company in the nature of a revolving
+                 line of credit as evidenced by a revolving promissory note
+                 (the "New Revolving Note") in the maximum principal amount of
+                 Ten Million Dollars ($10,000,000) and for the extension of a
+                 trade letter of credit facility in the maximum amount of Three
+                 Hundred Thousand Dollars ($300,000).  The Company has
+                 requested that the Bank, and the Bank has agreed to, increase
+                 the amount of credit available under the New Revolving Note to
+                 a maximum principal amount of Twenty-Five Million Dollars
+                 ($25,000,000).  In connection therewith, the Company has
+                 entered into a Sixth Amendment to the Existing Loan Agreement
+                 (the Existing Loan Agreement, as so amended and as hereafter
+                 amended, being hereinafter referred to as the "New Loan
+                 Agreement") with the Bank, which provides for an increase in
+                 the amount of credit extended by the Bank to the Company under
+                 the New Loan Agreement to a maximum
+
+
+                                       2
+<PAGE>   4
+                 aggregate principal amount of Twenty-Five Million Three 
+                 Hundred Thousand Dollars ($25,300,000).
+
+                      "C.   Certain obligations of the Company owed to the
+                 Holders and the Bank shall be secured pursuant to this
+                 Indenture and that certain Security Agreement, dated as of
+                 June 1, 1992 and amended as of March 29, 1994, between the
+                 Company and the Security Trustee (the "Security Agreement").
+
+                      "D.    All acts and proceedings required by law and by
+                 the certificate of incorporation and by-laws of the Company,
+                 necessary to constitute this Indenture a valid and binding
+                 agreement for the uses and purposes set forth herein, in
+                 accordance with its terms, have been done and taken, and the
+                 execution and delivery hereof has been in all respects duly
+                 authorized."
+
+     1.2.2.      Section 1 of the Existing Collateral Trust Indenture is hereby
+amended by amending each of the following existing definitions to read in its
+respective entirety as follows.
+
+                      "BANK PREPAYMENT FEE -- at any time means the prepayment
+                 fee, if any, payable at such time in respect of the New
+                 Revolving Note under Section 2.5 of the New Loan Agreement."
+
+                      "COLLATERAL RELEASE DATE -- has the meaning assigned to
+                 such term in the Note Purchase Agreements as amended by the
+                 First Amendment Agreement and the Second Amendment Agreement."
+
+                      "FINANCING DOCUMENTS -- means this Indenture, the Note
+                 Purchase Agreements, the Notes, the New Loan Agreement, the
+                 New Revolving Note and the Security Agreement."
+
+                      "FIRST AMENDMENT AGREEMENT -- Recital A. hereto."
+
+                      "NEW REVOLVING NOTE -- Recital B. hereto; the maximum,
+                 principal amount permitted to be outstanding under the New
+                 Revolving Note shall be Twenty-Five Million Dollars
+                 ($25,000,000)."
+
+                      "SECURED OBLIGATIONS -- means, at any time, all
+                 obligations of the Company
+
+                               "(a) in respect of the payment of the principal
+                      and interest (and Make-Whole Amount, if any) on the
+                      Notes and under the Note Purchase Agreements at such
+                      time and the payment of all other amounts of the
+                      Company owing thereunder at such time,
+
+                               "(b)    in respect of the payment of the
+                      principal and interest (and Bank Prepayment Fee, if
+                      any) on the New Revolving Note and under the New Loan
+                      Agreement at such time and the payment of all other
+                      amounts of the Company owing thereunder at such time
+                      (provided that if the aggregate amount of principal
+                      on the New Revolving Note and under the New Loan
+                      Agreement shall at any time
+
+                                       3
+<PAGE>   5
+                      exceed Twenty-Five Million Three Hundred Thousand
+                      Dollars ($25,300,000) then the amount of such excess
+                      together with accrued interest on such excess and any
+                      Bank Prepayment Fee in respect of such excess shall
+                      be deemed not to constitute Secured Obligations),
+
+                               "(c)     under the Security Agreement, and
+
+                               "(d)     under this Indenture.
+
+                      "For purposes of clause (b) above, Secured
+                      Obligations shall exclude any default interest to the
+                      extent that such default interest exceeds a rate of
+                      interest equal to two percent (2%) per annum over the
+                      otherwise (nondefault) applicable rate of interest
+                      established in the New Loan Agreement or the New
+                      Revolving Note, as the case may be."
+
+         1.2.3.       Section 1 of the Existing Collateral Trust Indenture 
+is hereby amended by adding each of the following definitions to such 
+Section 1, each in its respective alphabetical place therein.
+
+                      "REQUIRED BENEFICIARIES -- means
+
+                               "(a)     if the Notes comprise at least sixty
+                      percent (60%) or less than forty percent (40%) of the
+                      aggregate principal amount of the Secured Obligations
+                      outstanding at such time, then the holders of not
+                      less than fifty-one percent (51%) in principal
+                      amount of the Secured Obligations outstanding at such
+                      time held by, or owing to, the holders of Notes and
+                      the Bank; and
+
+                               "(b)     if the Notes comprise less than sixty
+                      percent (60%) but at least forty percent (40%) in
+                      principal amount of the Secured Obligations
+                      outstanding at such time, then both:
+
+                                        "(i)     the holders of not less than
+                               fifty-one percent (51%) of the aggregate 
+                               principal amount of the Secured Obligations
+                               outstanding at such time held by, or owing to,
+                               the holders of Notes and
+
+                                        "(ii)    the holders of not less than
+                               fifty-one percent (51%) in principal amount of
+                               the Secured Obligations outstanding at such
+                               time held by, or owing to, the Bank
+                                           
+                      "exclusive, in any case, of Notes then owned by any
+                      one or more of the Company, any Subsidiary (as such
+                      term is defined in the Note Purchase Agreements) or
+                      any Affiliate (as such term is defined in the Note
+                      Purchase Agreements)."
+
+
+
+                                       4
+<PAGE>   6
+                              "SECOND AMENDMENT AGREEMENT -- means the Second
+                      Amendment Agreement among the Company and each Holder,
+                      dated as of September 15, 1993."
+
+         1.2.4.       Section 1 of the Existing Collateral Trust Indenture is
+hereby amended by deleting each of the following definitions to such
+Section 1, each from its respective alphabetical place therein.
+
+                              "REVOLVING NOTE -- Recital B. hereto."
+
+                              "SECOND TERM NOTE -- Recital B. hereto."
+
+                              "TERM NOTE -- Recital B. hereto."
+
+         1.2.5.       Section 2.1(c) of the Existing Collateral Trust
+Indenture is hereby amended and restated in its entirety as follows:
+
+                              "(C)    EVENTS OF DEFAULT UNDER OTHER FINANCING
+                      DOCUMENTS -- any "Event of Default" or "event of default"
+                      under and as defined in any one or more of the Note
+                      Purchase Agreements, the New Loan Agreement or the
+                      Security Agreement shall exist."
+
+         1.2.6.       The first sentence of Section 2.3 of the Existing
+Collateral Trust Indenture is hereby amended by deleting the words "Majority
+Beneficiaries" therefrom and inserting in their place the words "Required
+Beneficiaries".
+
+         1.2.7.       Section 2.4 of the Existing Collateral Trust Indenture is
+hereby amended and restated in its entirety as follows:
+
+                      "2.4.   OTHER ENFORCEMENT RIGHTS.
+
+                              "(A)    ENFORCEMENT OF FINANCING DOCUMENTS. In
+                      the case in which
+
+                                      "(i)    all Notes shall have been 
+                              declared, or otherwise shall have become,
+                              due and payable as provided in the Note
+                              Purchase Agreements,
+
+                                      "(ii)   the New Loan Agreement or the
+                              New Revolving Note shall have been declared,
+                              or otherwise shall have become, due and payable
+                              as provided in the New Loan Agreement, or
+
+                                      "(iii)  the events specified in both
+                              of the foregoing clauses (i) and (ii) shall
+                              have occurred,
+
+                      "the Security Trustee may, but, unless requested in
+                      writing by the Required Beneficiaries and unless
+                      furnished with reasonable indemnity, shall not (subject
+                      to the requirements of Section 3.1 hereof) be
+                      obligated to, proceed to protect and enforce this
+                      Indenture or the Security Agreement by suit or suits or
+                      proceedings at law, in equity, in bankruptcy or
+                      otherwise, and whether for the specific
+
+                                       5
+<PAGE>   7
+                      performance of any covenant or agreement herein or
+                      therein contained or in execution or aid of any power
+                      herein or therein granted, or for foreclosure hereunder
+                      or thereunder, or for the appointment of a receiver or
+                      receivers for the Collateral or any part thereof or for
+                      the enforcement of any legal, equitable or other remedy
+                      available under applicable law.
+
+                              "(B)   BANKRUPTCY PROCEEDING. In case there
+                      shall be pending a case or proceedings in bankruptcy with
+                      respect to, or for the reorganization or arrangement of,
+                      the Company under any Bankruptcy Law or in case a
+                      conservator, liquidator, custodian, receiver or trustee
+                      shall have been appointed for the Company or its Property,
+                      the Security Trustee may, but, unless requested in writing
+                      by the Required Beneficiaries and unless furnished with
+                      reasonable indemnity, shall not (subject to the
+                      requirements of Section 3.1 hereof) be obligated to, file
+                      such proofs of claim and other papers or documents as may
+                      be necessary or advisable in order to have the claims of
+                      the Beneficiaries allowed in such case or proceeding for
+                      the entire Secured Obligations, at the date of the
+                      institution of such case or proceeding, and for any
+                      additional amounts that may become due and payable under
+                      any of the Financing Documents after such date.
+
+                              "(C)   REQUIRED BENEFICIARIES. ANYTHING IN THIS   
+                      INDENTURE TO THE CONTRARY NOTWITHSTANDING, the Required
+                      Beneficiaries, by an instrument or instruments in writing
+                      executed and delivered to the Security Trustee, and
+                      providing for indemnity pursuant to Section 3.3(f) hereof,
+                      may direct, and at all times shall have such right to so
+                      direct, the method and place of conducting the proceedings
+                      to be taken in connection with the enforcement of the
+                      terms and conditions hereof, provided such direction shall
+                      not be otherwise than in accordance with the provisions of
+                      law, this Indenture and the Security Agreement (in which
+                      case the Security Trustee shall proceed in accordance with
+                      such direction), provided further, that
+
+                                      (i)     if the Notes comprise less than
+                              forty percent (40%) of the aggregate principal
+                              amount of the Secured Obligations outstanding at
+                              the time of any such direction by the Required
+                              Beneficiaries, then the Security Trustee shall
+                              give written notice of such direction to each
+                              holder of Secured Obligations within five (5)
+                              Business Days, and shall not proceed pursuant to
+                              such direction for a period of ninety (90) days
+                              after the Required Beneficiaries shall have given
+                              written notice of their direction to the Security
+                              Trustee unless the holders of at least fifty-one
+                              percent (51 %) of the aggregate principal amount
+                              of the Notes outstanding at such time (exclusive,
+                              in any case, of Notes then owned by any one or
+                              more of the Company, any Subsidiary (as such term
+                              is defined in the Note Purchase Agreements) or
+                              any Affiliate (as such term is defined in the
+                              Note Purchase Agreements)) shall have consented
+                              to such direction; and
+
+                                      (ii)    if the Notes comprise more than
+                              sixty percent (60%) of the aggregate principal
+                              amount of the Secured Obligations outstanding
+                              at the time of any such direction by the
+                              Required Beneficiaries, then the Security
+                              Trustee shall give written notice of such
+                              direction to each holder of Secured Obligations
+                              within five (5) Business Days, and shall not
+                              proceed pursuant to such direction for a
+
+                                       6
+<PAGE>   8
+                      period of ninety (90) days after the Required
+                      Beneficiaries shall have given written notice of their
+                      direction to the Security Trustee unless the Bank shall
+                      have consented to such direction."
+
+         1.2.8.       Section 2.7(c) of the Existing Collateral Trust
+Indenture is hereby amended and restated in its entirety as follows:
+
+                              "(c)    Third, to the payment of the Make-Whole
+                      Amount and the Bank Prepayment Fee, if any, then unpaid
+                      with respect to the Notes and the New Revolving Note
+                      and, in case such proceeds shall be insufficient to pay
+                      in full such amounts, then ratably according to the
+                      amounts of the Make-Whole Amount and the Bank Prepayment
+                      Fee so unpaid owing to each obligee thereof;"
+
+         1.2.9.       Section 2.9(b) of  the  Existing  Collateral  Trust
+Indenture  is  hereby  amended by deleting the words "Majority Beneficiaries"
+therefrom and inserting in their place the words "Required Beneficiaries".
+
+         1.2.10.      Section 3.1 of the Existing Collateral Trust
+Indenture is hereby amended by deleting the words "Majority Beneficiaries"
+therefrom in each place in which such words appear and inserting in such place
+the words "Required Beneficiaries".
+
+         1.2.11.      Section 3.1 (b) of the Existing Collateral Trust
+Indenture is hereby amended and restated in its entirety to read as follows:
+
+                              (B)     DIRECTION. If an Event of Default shall
+                      have occurred and be continuing, the Security Trustee
+                      shall, to the extent so directed by the provisions hereof
+                      or by the Required Beneficiaries subject to Section
+                      2.4(c) hereof, exercise such of the rights and powers
+                      vested in it by this Indenture and the Security Agreement
+                      for the benefit of the Beneficiaries, and in such
+                      exercise use the same degree of care and skill in their
+                      exercise, as a prudent person would exercise or use under
+                      the circumstances in the conduct of his or her own
+                      affairs.
+
+         1.2.12.      Section 4.2(b)(iv) of the Existing Collateral 
+Trust Indenture is hereby amended and restated in its entirety to read as 
+follows:
+
+                              "(iv)   modify the definition of "Majority
+                      Beneficiaries" or the definition of "Required
+                      Beneficiaries," or otherwise change the percentage of the
+                      aggregate principal amount of Secured Obligations, the
+                      holders of which are required to join in any action with
+                      respect to enforcement of any rights or remedies as
+                      against the Collateral or the Trust Estate, consent to
+                      any waiver or supplemental agreement or amendment or
+                      modification pursuant to this Section 4.2 or otherwise
+                      modify or amend this Section 4.2, without the consent of
+                      all of the Beneficiaries, or"
+
+
+
+
+                                       7
+<PAGE>   9
+SECTION 2.  THE SECURITY AGREEMENT
+
+SECTION 2.1.            SECURITY AGREEMENT DEFINITIONS
+
+     Capitalized terms used in Section 2 of this Amendment and not otherwise
+defined herein shall have the respective meanings ascribed to them in the
+Amended Security Agreement.
+
+SECTION 2.2.           AMENDMENTS TO THE SECURITY AGREEMENT
+
+     2.2.1.      The Recitals of the Existing Security Agreement are hereby
+amended and restated in their entirety as follows:
+
+                 "A.      The Company entered into separate Note Purchase
+         Agreements (collectively, as amended by the First Amendment Agreement
+         (the "First Amendment Agreement"), dated as of June 1, 1992, and the
+         Second Amendment Agreement (the "Second Amendment Agreement"), dated
+         as of September 15, 1993, and as hereafter amended, the "Note Purchase
+         Agreement") with each of the original purchasers of the Company's
+         issuance of Fifty Million Dollars ($50,000,000) of 9.70% Senior Notes
+         due February 1, 2001 (the "Notes");
+
+                 "B.      The Company has entered into a certain Second Amended
+         and Restated Loan Agreement, dated August 13, 1992, with the Bank, (as
+         amended through and including Amendment No. 5 thereto, dated as of
+         February 11, 1994, the "Existing Loan Agreement") which provided for
+         the extension of credit by the Bank to the Company in the nature of a
+         revolving line of credit as evidenced by a revolving promissory note
+         (the "New Revolving Note") in the maximum principal amount of Ten
+         Million Dollars ($10,000,000) and for the extension of a trade letter
+         of credit facility in the maximum amount of Three Hundred Thousand
+         Dollars ($300,000).  The Company has requested that the Bank, and the
+         Bank has agreed to, increase the amount of credit available under the
+         New Revolving Note to a maximum principal amount of Twenty-Five
+         Million Dollars ($25,000,000).  In connection therewith, the Company
+         has entered into a Sixth Amendment to the Existing Loan Agreement (the
+         Existing Loan Agreement, as so amended and as hereafter amended, being
+         hereinafter referred to as the "New Loan Agreement") with the Bank,
+         which provides for an increase in the amount of credit extended by the
+         Bank to the Company under the New Loan Agreement to a maximum
+         aggregate principal amount of Twenty-Five Million Three Hundred
+         Thousand Dollars ($25,300,000).
+
+                 "C.      Certain  obligations of the Company owed to the
+         Holders and the Bank shall be secured pursuant to the Collateral
+         Trust Indenture and this Security Agreement.
+
+                 "D.      All acts and proceedings required by law and by
+         the certificate of incorporation and by-laws of the Company,
+         necessary to constitute this Agreement a valid and binding agreement
+         for the uses and purposes set forth herein, in accordance with its
+         terms, have been done and taken, and the execution and delivery hereof
+         has been in all respects duly authorized."
+
+                                       8
+<PAGE>   10
+      2.2.2.     Section 1 of the Existing Security Agreement is hereby amended
+by amending each of the following existing definitions to read in its
+respective entirety as follows.
+
+                          "BANK PREPAYMENT FEE -- at any time means the
+                 prepayment fee, if any, payable at such time in respect of the
+                 New Revolving Note under Section 2.5 of the New Loan
+                 Agreement."
+
+                          "FINANCING DOCUMENTS -- means this Agreement, the Note
+                 Purchase Agreements, the Notes, the New Loan Agreement, the
+                 New Revolving Note and the Collateral Trust Indenture."
+
+                          "FIRST AMENDMENT AGREEMENT -- Recital A. hereto."
+
+                          "NEW REVOLVING NOTE -- Recital B. hereto; the maximum
+                 principal amount permitted to be outstanding under the New
+                 Revolving Note shall be Twenty-Five Million Dollars
+                 ($25,000,000)."
+
+                          "PERMITTED LIENS -- means and includes any Lien or 
+                 Liens which the Company is permitted, by the terms of each of
+                 the Note Purchase Agreements and the New Loan Agreement, to
+                 incur, create, maintain and permit to exist."
+
+                          "SECURED OBLIGATIONS -- means, at any time, all
+                 obligations of the Company
+
+                                  "(a)     in respect of the payment of the
+                          principal and interest (and Make-Whole Amount, if
+                          any) on the Notes and under the Note Purchase
+                          Agreements at such time and the payment of all other
+                          amounts of the Company owing thereunder at such time,
+
+                                  "(b)     in respect of the payment of the
+                          principal and interest (and Bank Prepayment Fee, if
+                          any) on the on the New Revolving Note and under the
+                          New Loan Agreement at such time and the payment of
+                          all other amounts of the Company owing thereunder at
+                          such time (provided that if the aggregate amount of
+                          principal on the New Revolving Note and under the New
+                          Loan Agreement shall at any time exceed Twenty-Five
+                          Million Three Hundred Thousand Dollars ($25,300,000)
+                          then the amount of such excess together with accrued
+                          interest on such excess and any Bank Prepayment Fee
+                          in respect of such excess shall be deemed not to
+                          constitute Secured Obligations),
+
+                                  "(c)     under this Security Agreement, and
+
+                                  "(d)     under the Collateral Trust 
+                          Indenture.
+
+                          "For purposes of clause (b) above, Secured
+                          Obligations shall exclude any default interest to the
+                          extent that such default interest exceeds a rate of
+                          interest equal to two percent (2%) per annum over the
+                          otherwise (nondefault) applicable rate of interest
+                          established in the New Loan Agreement or the New
+                          Revolving Note, as the case may be."
+
+                                       9
+<PAGE>   11
+     2.2.3.     Section 1 of the Existing Security Agreement is hereby amended
+by adding the following definition to such Section 1, each in its respective
+alphabetical place therein.
+
+          "REQUIRED SECURED PARTIES -- means
+          
+                "(a)    if the Notes comprise at least sixty percent (60%) or
+          less than forty percent (40%) of the aggregate principal amount of the
+          Secured Obligations outstanding at such time, then the holders of not
+          less than fifty-one percent (51%) in principal amount of the Secured
+          Obligations outstanding at such time held by, or owing to, the holders
+          of Notes and the Bank; and
+          
+                "(b)    if the Notes comprise less than sixty percent (60%) but
+          at least forty percent (40%) in principal amount of the Secured
+          Obligations outstanding at such time, then both:
+                         
+                        "(i)    the holders of not less than fifty-one percent
+                 (51%) of the aggregate principal amount of the Secured
+                 Obligations outstanding at such time held by, or owing to, the
+                 holders of Notes and
+                         
+                        "(ii)   the holders of not less than fifty-one percent
+                 (51%) in principal amount of the Secured Obligations
+                 outstanding at such time held by, or owing to, the Bank
+                         
+          "exclusive, in any case, of Notes then owned by any one or more
+          of the Company, any Subsidiary (as such term is defined in the Note
+          Purchase Agreements) or any Affiliate (as such term is defined in the
+          Note Purchase Agreements)."
+                         
+     2.2.4.      Section 1 of the Existing Security Agreement is hereby amended
+by deleting each of the following definitions to such Section 1, each from its
+respective alphabetical place therein.
+
+          "REVOLVING NOTE" -- Recital B. hereto.
+                      
+          "SECOND TERM NOTE -- Recital B. hereto." 
+                      
+          "TERM NOTE -- Recital B. hereto." 
+                      
+     2.2.5.      Sections 2.2(a) through 2.2(e) of the Existing Security 
+Agreement are hereby amended and restated in their entirety as follows:
+
+     "2.2         COLLATERAL-RELATED RIGHTS AND UNDERTAKINGS.
+
+                 "(a)    The chief executive office of the Company is located 
+     at the address set forth in Section 3.6 hereof and the Company shall not 
+     change the same to an address outside of the State of California, or 
+     merge or consolidate with any
+
+                                       10
+<PAGE>   12
+
+     Person or change its name, without prior written notice to and consent of
+     the Required Secured Parties.
+
+                 "(b)    The Collateral is now, and at all times shall be,
+     solely owned by the Company free and clear of all Liens, security
+     interests, claims and encumbrances, except as permitted under the Note
+     Purchase Agreements and the New Loan Agreement.  The security interests of
+     the Security Trustee in the Collateral shall at all times be valid,
+     perfected, first priority security interests therein (subject to only the
+     Lien of the Security Trustee provided for in Section 3.2(c) of the
+     Collateral Trust Indenture and any Permitted Liens).  The Company shall,
+     at the request of the Required Secured Parties, defend the Collateral from
+     all claims and demand of all other Persons.  The Company shall comply with
+     the requirements of all state and federal laws, rules and regulations in
+     order to grant the security interests herein granted in and to the
+     Collateral, to maintain the perfection and priority of such security
+     interests and to permit the Security Trustee to realize promptly and
+     directly on such Collateral, as provided herein.  The Company shall, at
+     its sole cost and expense, perform all acts and execute all documents
+     reasonably requested by the Security Trustee or the Majority Secured
+     Parties from time to time to evidence, perfect, preserve the priority of,
+     maintain or enforce the Security Trustee's security interests granted
+     herein or otherwise in furtherance of the provisions of this Agreement. 
+     At any time and from time to time, the Company shall, at its sole cost and
+     expense, execute and deliver to the Security Trustee such financing
+     statements pursuant to the Code or any other applicable Uniform Commercial
+     Code, and other papers, documents, resolutions, certificates or
+     instruments as may be reasonably requested by the Security Trustee or the
+     Majority Secured Parties in connection with this Agreement, and the
+     Company hereby authorizes the Security Trustee to execute and file at any
+     time and from time to time one or more financing statements or copies
+     thereof or of this Agreement with respect to the Collateral signed only by
+     Security Trustee.
+
+                 "(c)    The Company shall not assign, sell, transfer, or
+     otherwise dispose of, nor shall the Company suffer or permit any of the
+     same to occur with respect to, any Collateral other than (i) in respect of
+     the sale of California Inventory in the ordinary course of business, on
+     open account or for cash and on terms substantially similar to the terms
+     currently being extended by the Company to its current customers, (ii) as
+     otherwise permitted under the Note Purchase Agreements and the New Loan
+     Agreement, (iii) in respect of the collection of checks, drafts, money
+     orders or other instruments in respect of the Accounts as contemplated by
+     clause (g)(ii) of this Section 2.2 or (iv) with the prior written consent
+     of the Required Secured Parties.  The foregoing notwithstanding and
+     notwithstanding anything to the contrary in the Note Purchase Agreements
+     and the New Loan Agreement, the Required Secured Parties may, in their
+     sole discretion, withdraw the aforesaid permissions to assign, sell,
+     transfer or otherwise dispose of California Inventory upon the existence
+     of any Event of Default.
+
+                 "(d)    The Security Trustee shall at all times have free
+     access to and right of inspection of the Collateral and any records
+     pertaining thereto (and the right to make extracts from and to receive
+     from the Company originals or true copies of
+
+
+
+                                       11
+<PAGE>   13
+     such records and any papers and instruments relating to any Collateral
+     upon request therefor).
+
+                 "The Company shall advise the holders of Secured Obligations
+     promptly and in sufficient detail of any substantial change relating to
+     the type, quantity or quality of the California Inventory or any event
+     which would have a material adverse effect on the value of the California
+     Inventory.
+
+                 "The Company shall maintain the Books and Records and such
+     other records as will enable it and the Security Trustee to determine the
+     status of each Account.
+
+                 "(e)    Anything contained in the Note Purchase Agreements or
+     the New Loan Agreement notwithstanding, the Company agrees to maintain
+     insurance, with financially sound and reputable insurers acceptable to the
+     Required Secured Parties, with respect to the California Inventory and any
+     returned, repossessed or reclaimed tangible personal Property included in
+     the Collateral against casualties, contingencies, hazards and such other
+     risks (including, without limitation, (i) fire, hurricane, tornado, wind
+     damage, and such other risks insured against by a standard all-risk
+     property and fire insurance policy and endorsement for extended coverage
+     and (ii) flood, earthquake and public disturbance insurance) and in such
+     amounts as shall be satisfactory to the Required Secured Parties.  The
+     Company shall deliver the copies of the policies of such insurance to the
+     Security Trustee with satisfactory lender's loss payable endorsements
+     naming the Security Trustee as loss payee to the extent of its interest
+     and as such interest may appear.  Each such policy of insurance or
+     endorsement shall contain a clause requiring the insurer to give not less
+     than ten (10) days' prior written notice to the Security Trustee in the
+     event of cancellation of the policy for any reason whatsoever and a clause
+     that the interest of the Security Trustee shall not be impaired or
+     invalidated by any act or neglect of the Company.  If the Company shall
+     fail to provide and pay for such insurance, or have the same provided and
+     paid for, the Security Trustee, upon being instructed by the Required
+     Secured Parties, may, at the Company's expense, procure the same, but may
+     not be required by the Company to do so.  The Company agrees to deliver to
+     the Security Trustee, promptly as rendered, true copies of all reports
+     made in any reporting form to insurance companies.
+
+                 "Anything contained in the Note Purchase Agreements or the New
+     Loan Agreement notwithstanding, the Company shall maintain or caused to be
+     maintained insurance with financially sound and reputable insurers with
+     respect to its Property and business (including, without limitation, the
+     Collateral) covering any public and/or product liability of the Company or
+     its officers, agents or employees and in such amounts as are satisfactory
+     to the Required Secured Parties.  The Security Trustee shall be named as a
+     co-insured on such policies.  The Company shall deliver to the Security
+     Trustee on the Effective Date evidence of insurance of the type and in the
+     amounts provided for in this Section 2.2(e) being in full force and effect
+     and payment of all premiums in respect thereof."
+
+
+                                       12
+<PAGE>   14
+          Sections 2.2(f) through 2.2(l) of the Existing Security Agreement
+shall remain unmodified and in full force and effect.
+
+          2.2.6.   The initial sentence of Section 4.1 of the Existing Security
+Agreement is hereby amended and restated in its entirety as follows:
+
+          "4. 1  NATURE OF EVENTS.
+
+                 An "Event of Default" shall exist if any "Event of Default" 
+          or "event of default" under, and as defined in, the Note Purchase
+          Agreements, the New Loan Agreement or the Collateral Trust Indenture
+          occurs and is continuing."
+
+          2.2.7.   The second sentence of third paragraph of Section
+4.2(c) of the Existing Security Agreement is hereby amended by deleting the
+words "Majority Secured Parties" therefrom and inserting in their place the
+words "Required Secured Parties."
+
+
+SECTION 3. CONDITIONS TO EFFECTIVENESS.
+
+          The amendments set forth in Section 2 and Section 3 hereof shall 
+become effective only upon the satisfaction in all respects of the conditions 
+set forth below.  The first date upon which all such conditions shall have been
+satisfied is herein referred to as the "Effective Date."
+
+          3.1.   Each of the Holders, the Bank, the Security Trustee and the
+Company shall have executed and delivered to each other this Amendment, and
+each of the Amended Collateral Trust Indenture and the Amended Security
+Agreement shall be in full force and effect.
+
+          3.2.   The representations and warranties set forth in Section 4
+hereof shall be true and correct as of the date hereof and as of the Effective
+Date; no Default or Event of Default pursuant to any of the Note Purchase
+Agreement, the Existing Collateral Trust Indenture or the Existing Security
+Agreement shall have occurred or be continuing on the Effective Date; and each
+of the Holders and the Bank shall have received a written certificate, in the
+form of Exhibit A hereto, signed by two (2) duly authorized officers of the
+Company to such effect.  Each of the Holders and the Bank shall have received a
+certificate of the Secretary or an Assistant Secretary of the Company,
+substantially in the form of Exhibit B hereto, with respect to the matters
+therein set forth.
+
+          3.3.   The Company shall have paid all amounts which are
+payable pursuant to Section 5 hereof.
+
+          3.4.   All proceedings taken in connection with the closing
+of this Amendment and all documents and papers relating thereto shall
+be satisfactory to each of the Holders and their special counsel.
+Each such holder shall have received copies of such documents and papers as it
+may request in connection therewith, all in form and substance satisfactory to
+the Holders and their special counsel.
+
+
+                                       13
+<PAGE>   15
+
+SECTION 4. REPRESENTATIONS AND WARRANTIES.
+
+     The Company represents and warrants to each of the Holders and the Bank
+as follows:
+
+     4.1.   The Company:
+
+            4.1.1.  is a corporation duly organized and validly in good 
+     standing under the laws of the State of Delaware;
+
+            4.1.2.  has all requisite power and authority and all necessary 
+     licenses and permits to own and operate its Properties (as such term is 
+     defined in the Note Purchase Agreement) and to carry on its business as 
+     now conducted and presently proposed to be conducted; and
+
+            4.1.3.  is duly qualified and is authorized to do business and is 
+     in good standing as a foreign corporation in each jurisdiction where the 
+     character of its Properties (as such term is defined in the Note Purchase
+     Agreement) or the nature of its activities makes such qualification 
+     necessary.
+
+     4.2.    The Company has the corporate power and authority to execute,
+deliver and perform its obligations under this Amendment, and to perform its
+obligations under the Amended Collateral Trust Indenture and the Amended
+Security Agreement.
+
+     4.3.    This Amendment has been duly authorized, executed and
+delivered by the Company.  The Amended Collateral Trust Indenture and the
+Amended Security Agreement constitute the legal, valid and binding obligations
+of the Company, enforceable in accordance with their respective terms, except
+as such enforceability may be:
+
+            4.3.1.  limited by bankruptcy, insolvency or other similar 
+     laws affecting the enforceability of creditors' rights generally; and
+
+            4.3.2.  subject to the availability of equitable remedies.
+
+The holders of the Secured Obligations (as such term is defined in the 
+Collateral Trust Indenture) are entitled to the benefits of the Amended
+Collateral Trust Indenture and the Amended Security Agreement.
+
+     4.4.    The authorization, execution and delivery by the Company of
+this Amendment is not, and the performance by the Company of its obligations
+under each of the Amended Collateral Trust Indenture and the Amended Security
+Agreement will not be, inconsistent with its certificate of incorporation or
+by-laws, do not and will not contravene any law, governmental rule or
+regulation, do not violate any judgment, order or award of any arbitrator
+applicable to the Company, do not and will not contravene any provision of, or
+constitute a default under, any indenture, mortgage, contract or other
+instrument to which the Company is a party or by which any of its Property (as
+such term is defined in the Note Purchase Agreement) is bound, and will not
+result in the imposition of a Lien (as such term is defined in the Note
+Purchase Agreement) upon any Property (as such term is defined in the Note
+Purchase Agreement) of the Company
+
+
+                                       14
+<PAGE>   16
+(other than the existing Liens of the Amended Security Agreement and the
+Amended Collateral Trust Indenture).
+
+         4.5.    No consent or approval of, giving of notice to, registration
+with, or taking of any other action in respect of or by, any federal, state or
+local governmental authority or agency, or other Person (as such term is
+defined in the Note Purchase Agreement) is required with respect to:
+
+                 4.5.1.    the authorization, execution and delivery by the
+         Company of this Amendment; or
+
+                 4.5.2.    the performance by the Company of its obligations
+         under either of the Amended Collateral Trust Indenture and the Amended
+         Security Agreement.
+
+         4.6.    After giving effect to the authorization, execution and
+delivery by the Company of this Amendment, the Lien (as such term is defined in
+the Note Purchase Agreement) of the Amended Security Agreement and the Amended
+Collateral Trust Indenture will continue to constitute a valid and perfected
+security interest in and to the Collateral (as such term is defined in the
+Amended Security Agreement), and such Lien will continue to have such priority
+with respect to such Collateral as such Lien had immediately preceding the
+consummation of the foregoing transactions.
+
+         4.7.    After giving effect to this Amendment, no Default or Event of
+Default will exist under the Note Purchase Agreement and no default or event of
+default exists under the Amended Collateral Trust Indenture, the Amended
+Security Agreement, the Note Purchase Agreements or the New Loan Agreement.
+
+ARTICLE 5.   COSTS AND EXPENSES.
+
+         The Company shall pay all costs, expenses and fees of the Security
+Trustee and the Holders in connection with the negotiation, preparation,
+execution and delivery of this Amendment, including, without limitation, all
+attorneys' fees and disbursements.
+
+
+ARTICLE 6.   MISCELLANEOUS.
+
+         6.1.    This Amendment may be executed in one or more counterparts,
+all of which taken together shall constitute a single instrument.
+
+         6.2.     THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN
+ACCORDANCE WITH, THE INTERNAL LAWS OF THE STATE OF CONNECTICUT, WITHOUT REGARD
+TO PRINCIPLES OF CONFLICTS OF LAW.
+
+         6.3.    Except as expressly provided herein (a) no other terms and
+provisions of either of the Existing Collateral Trust Indenture or the Existing
+Security Agreement shall be modified or changed by this Amendment and (b) the
+terms and provisions each of the Amended Collateral Trust Indenture and the
+Amended Security Agreement shall continue in full force and effect.  The
+
+                                       15
+<PAGE>   17
+
+Company hereby acknowledges and reaffirms all of its obligations and duties
+under the Amended Collateral Trust Indenture and the Amended Security
+Agreement.
+
+         6.4.    All headings and captions preceding the text of the several
+paragraphs of this Amendment are intended solely for convenience of reference
+and shall not constitute a part of this Amendment nor shall they affect it
+meaning, construction or effect.
+
+         6.5.    All the provisions of this Amendment by or for the benefit of
+the parties hereto shall bind and inure to the benefit of their respective
+successors and assigns hereunder.
+
+
+
+
+
+                                       16
+<PAGE>   18
+      IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be
+duly executed by their respective authorized officers as of the day and year
+first above written.
+
+
+                                  BELL INDUSTRIES, INC.
+
+
+
+
+                                  By TRACY A. EDWARDS
+                                     ------------------------------------------
+                                     Name: Tracy A. Edwards
+                                     Title:  Vice President
+
+
+                                  STATE STREET BANK AND TRUST COMPANY OF 
+                                  CONNECTICUT, NATIONAL ASSOCIATION,
+                                     SECURITY TRUSTEE
+
+
+
+                                  By W. JEFFREY KRAMER
+                                     ------------------------------------------
+                                     Name: W. Jeffrey Kramer
+                                     Title: Assistant Vice President
+
+
+
+<PAGE>   19
+
+                                                                       EXHIBIT A
+                                                                          1 of 1
+
+                CERTIFICATE OF OFFICERS OF BELL INDUSTRIES, INC.
+
+
+     We, Bruce M. Jaffe and Tracy A. Edwards, each hereby certify that we
+are, respectively, the Executive Vice President and Chief Operating Officer, and
+the Vice President and Chief Financial Officer of BELL INDUSTRIES, INC., a
+Delaware corporation (the "Company"), and that, as such, we are authorized to
+execute and deliver this Certificate in the name and on behalf of the Company,
+and that:
+
+     1.  This certificate is being delivered pursuant to Section 3.2 of the
+Amendment Agreement (the "Amendment"), dated as of March 29, 1994, between the
+Company and State Street Bank and Trust Company of Connecticut, National
+Association, a national banking association, as security trustee (the "Security
+Trustee") under that certain Collateral Trust Indenture, dated as of June 1,
+1992, between the Company and the Security Trustee.  The terms used in this
+certificate and not defined herein shall have the respective meanings ascribed
+to them in the Amendment.
+
+     2.  The warranties and representations contained in Section 4 of the
+Amendment are true in all material respects on the date hereof with the same
+effect as though made on and as of the date hereof.
+
+     3.  The Company has performed and complied with all agreements and
+conditions contained in the Amendment that are required to be performed or
+complied with by the Company before or at the date hereof, and after giving
+effect to the execution and delivery of the Amendment, no Default or Event of
+Default pursuant to any of the Note Purchase Agreement, the Existing Collateral
+Trust Indenture or the Existing Security Agreement shall have occurred or be
+continuing on the date hereof.
+
+     4.  John J. Cost is on and as of the date hereof, and at all times
+subsequent to March 15, 1994 has been, the duly elected, qualified and acting
+Secretary of the Company, and the signature appearing on the Certificate of
+Secretary dated the date hereof and delivered to the Purchasers
+contemporaneously herewith is his genuine signature.
+
+     IN WITNESS WHEREOF, we have executed this Certificate in the name and on
+behalf of the Company on March 31, 1994.
+
+                                  BELL INDUSTRIES, INC.
+
+
+
+                                  By: BRUCE M. JAFFE
+                                      -----------------------------------------
+                                      Name: Bruce M. Jaffe
+
+
+                                  By: TRACY A. EDWARDS
+                                      -----------------------------------------
+                                      Name: Tracy A. Edwards
+
+
+
+<PAGE>   20
+
+                                                                       EXHIBIT B
+                                                                          1 of 2
+
+
+               CERTIFICATE OF SECRETARY OF BELL INDUSTRIES, INC.
+
+          I, John J. Cost, hereby certify that:
+
+          I am the duly elected, qualified and acting Secretary of BELL
+INDUSTRIES, INC., a Delaware corporation (the "Company"), and that, as such, I
+have access to its corporate records and am familiar with the matters herein
+certified, and I am authorized to execute and deliver this Certificate in the
+name and on behalf of the Company, and that:
+
+          1.     This certificate is being delivered pursuant to Section 3.2 of
+the Amendment Agreement (the "Amendment"), dated as of March 29, 1994, between
+the Company and State Street Bank and Trust Company of Connecticut, National
+Association, a national banking association, as security trustee (the "Security
+Trustee") under that certain Collateral Trust Indenture, dated as of June 1,
+1992, between the Company and the Security Trustee.  The terms used in this
+certificate and not defined herein shall have the respective meanings ascribed
+to them in the Amendment.
+
+          2.     Attached hereto as Attachment A is a true and correct copy of
+resolutions, and the preamble thereto, adopted by the Board of Directors of the
+Company on March 15, 1994, and such resolutions and preamble set forth in
+Attachment A hereto were duly adopted by said Board of Directors and are in
+full force and effect on and as of the date hereof, not having been amended,
+altered or repealed, and such resolutions are filed with the records of the
+Board of Directors.
+
+          3.     The Amendment was executed and delivered by the Company
+pursuant to and in accordance with the resolutions set forth in Attachment A
+hereto and said documents as executed are substantially in the form submitted
+to and approved by the Board of Directors of the Company as aforementioned.
+
+          4.     The bylaws of the Company have not been modified or amended 
+in any respect since November 1992.
+
+          5.     Each of the following named persons is on and as of the date 
+hereof, and at all times subsequent to March 15, 1994 has been a duly 
+elected, qualified and acting officer of the Company holding the office or 
+offices set forth below opposite his name:
+
+
+
+<PAGE>   21
+                                                                       EXHIBIT B
+                                                                          2 OF 2
+
+<TABLE>
+<CAPTION>
+Name                   Office                             Signature
+<S>                    <C>                                <C>
+Bruce M. Jaffe         Executive Vice President and       /s/ BRUCE M. JAFFE
+                       Chief Operating Officer           -----------------------
+                                                                              
+Tracy A. Edwards       Vice President and Chief           /s/ TRACY A. EDWARDS  
+                       Finance Officer                   -----------------------
+                                                                              
+John J. Cost           Secretary                          /s/ JOHN J. COST      
+                                                         -----------------------
+</TABLE>                                            
+                                                    
+          6.     The signature appearing opposite the name of each such person
+set forth above is his or her genuine signature.
+
+          7.     Attached hereto as Attachment B is a short-form good standing
+certificate in respect of the Company from the State of Delaware.
+
+          8.     There have been no amendments or supplements to or 
+restatements of the Certificate of Incorporation of the Company since 
+September 10, 1993.  Copies of the Certificate of Incorporation and all 
+amendments thereto were delivered in connection with the original purchase 
+of the Notes.
+
+          IN WITNESS WHEREOF, I have hereunto set my hand in the name and on 
+behalf of the Company on March 31, 1994.
+
+
+                                  BELL INDUSTRIES, INC.
+
+                                  JOHN J. COST
+                                  ---------------------  
+                                  Secretary
+
+
+
+
+
+
+
+
+                                       2
+<PAGE>   22
+
+                                  ATTACHMENT A
+
+                     RESOLUTIONS OF THE BOARD OF DIRECTORS
+
+                               BOARD OF DIRECTORS
+                             BELL INDUSTRIES, INC.
+                              RESOLUTIONS ADOPTED
+                                 MARCH 15,1994
+
+
+
+         WHEREAS, there have been submitted to this Board of Directors drafts
+of the Amendment Agreement (the "Amendment Agreement") which provides for the
+amendment of certain sections of (i) that certain Collateral Trust Indenture
+(as amended, the "Collateral Trust Indenture"), dated as of June 1, 1992,
+between the Company and State Street Bank and Trust Company of Connecticut,
+National Association, as security trustee (the "Security Trustee") and (ii)
+that certain Security Agreement, dated as of June 1, 1992, between the Company
+and the Security Trustee (as amended, the "Security Agreement"); and
+
+         WHEREAS, this Board of Directors has reviewed in detail and discussed
+the terms and provisions of the Amendment Agreement;
+
+         WHEREAS, on the basis of its review of the Amendment Agreement and of
+the principal terms and provisions of the transactions provided for therein,
+this Board of Directors deems it advisable and in the best interest of the
+Company that the transactions be consummated substantially in accordance with
+the provisions of the Amendment Agreement;
+
+         NOW, THEREFORE, BE IT RESOLVED, that the form of, and each of the
+terms and provisions contained in, the Amendment Agreement are hereby
+authorized and approved in each and every respect; and each and every
+transaction effected or to be effected pursuant to and substantially in
+accordance with the terms of the Amendment Agreement, including, but not
+limited to, each specific transaction that is described, authorized and
+approved in these resolutions, is hereby authorized and approved in each and
+every respect;
+
+         RESOLVED, that the Company enter into the Amendment Agreement with the
+Security Trustee; and that each of the President, the Executive Vice President,
+any Vice President, the Secretary or any Assistant Secretary, the Treasurer or
+any Assistant Treasurer and each other officer of the Company is hereby
+severally authorized to execute and deliver, in the name and on behalf of the
+Company, the Amendment Agreement, with such changes therein as shall be
+approved by the officer executing and delivering the same, such approval to be
+evidenced conclusively by such execution and delivery; and
+
+         RESOLVED, that the officers of the Company and any person or persons
+designated and authorized so to act by any officer of the Company are hereby
+each severally authorized to do all other acts, to pay or cause to be paid, on
+behalf of the Company, all related costs and expenses and to execute and
+deliver or cause to be executed and delivered such other notices, requests,
+demands, directions, consents, approvals, orders, applications, agreements,
+instruments, certificates, undertakings, supplements, amendments, further
+assurances or other
+
+                                 Attachment A-1
+<PAGE>   23
+communications of any kind, under the corporate seal of the Company or
+otherwise and in the name and on behalf of the Company or otherwise, as he, she
+or they may deem necessary, advisable or appropriate to effect the intent of
+the foregoing Resolutions or to comply with the requirements of the instruments
+approved and authorized by the foregoing Resolutions, including, but not
+limited to, the Amendment Agreement; and
+
+         RESOLVED, that any acts of any officer or officers of the Company and
+of any person or persons designed and authorized to act by any officer of the
+Company, which acts would have been authorized by the foregoing Resolutions
+except that such acts were taken prior to the adoption of such Resolutions, and
+hereby severally ratified, confirmed, approved and adopted as the acts of the
+Company; and
+
+         RESOLVED, that each of the Secretary and each Assistant Secretary of
+the Company is hereby severally authorized and empowered to certify to the
+passage of the foregoing Resolutions.
+
+
+
+
+
+                                 Attachment A-2
+<PAGE>   24
+                                                                    ATTACHMENT B
+
+
+                              STATE OF DELAWARE
+                       OFFICE OF THE SECRETARY OF STATE
+                       --------------------------------
+
+        I, WILLIAM T. QUILLEN, SECRETARY OF STATE OF THE STATE OF DELAWARE DO
+HEREBY CERTIFY "BELL INDUSTRIES, INC." IS DULY INCORPORATED UNDER THE LAWS OF
+THE STATE OF DELAWARE AND IS IN GOOD STANDING AND HAS A LEGAL CORPORATE
+EXISTENCE SO FAR AS THE RECORDS OF THIS OFFICE SHOW, AS OF THE THIRTIETH DAY OF
+MARCH, A.D. 1994.
+        AND I DO FURTHER CERTIFY THAT THE ANNUAL REPORTS HAVE BEEN FILED 
+TO DATE.                                           
+        AND I DO HEREBY FURTHER CERTIFY THAT THE FRANCHISE TAXES HAVE BEEN 
+PAID TO DATE.                                                              
+
+
+
+                                                  WILLIAM T. QUILLEN
+                                        --------------------------------------
+                                        William T. Quillen, Secretary of State
+
+       [SEAL]
+                                             AUTHENTICATION: 7073510
+                                                       DATE: 03-30-94
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4.G
+<SEQUENCE>3
+<DESCRIPTION>WARRANT TO PURCHASE SHARES OF COMMON STOCK
+<TEXT>
+
+<PAGE>   1
+
+                                                                    EXHIBIT 4.g
+
+                             BELL INDUSTRIES, INC.
+                          11812 San Vincente Boulevard
+                           Los Angeles, CA 90049-5069
+
+
+                                                                    May 17, 1994
+
+
+To each of the Holders of Warrants Named 
+on the Signature Lines Below
+
+
+             Re:     Warrants to Purchase Shares of Common Stock
+
+Dear Sirs and Madams:
+
+     Reference is hereby made to the Warrant Agreement (the "Warrant
+Agreement"), dated as of September 15, 1993, among Bell Industries, Inc.  (the
+"Company") and each of the holders of the Warrants (the "Warrants") to purchase
+shares of the Common Stock, par value $.25 per share, of the Company named
+below (the "Holders").  Capitalized terms used herein, and not defined herein,
+shall have the respective meanings set forth in the Warrant Agreement.
+
+          1.     The Company agrees, and each of the undersigned Holders
+agrees, that, upon the effectiveness of this letter agreement, the first
+sentence of the definition of "Market Price" contained in Section 6 of the
+Warrant Agreement is hereby amended in its entirety to read as follows:
+
+                 " 'MARKET PRICE' shall mean, as of any date of determination, 
+          the arithmetic mean of the daily Closing Prices for the twenty (20) 
+          consecutive trading days immediately preceding such date of 
+          determination; provided that if the Common Stock is not then listed 
+          or admitted to trading on any national securities exchange or quoted
+          in the over-the-counter market, then 'Market Price' shall mean the 
+          greater of (i) the book value of one share of Common Stock, as 
+          determined in accordance with generally accepted accounting 
+          principles, as of the date of determination, and (i) the Fair 
+          Valuation of one share of Common Stock, as of the date of 
+          determination."
+
+Except as expressly set forth in this paragraph 1, the Warrant Agreement shall
+not be amended hereby and shall remain in full force and effect.
+
+          2.     Each undersigned Holder agrees that, upon the effectiveness of
+this letter agreement, the Holders waive any right or entitlement to receive
+any payment of liquidated damages from the Company pursuant to Section 5.1(d)
+of the Warrant Agreement in respect of, and waive the effect of any default or
+violation which occurred or may have occurred pursuant to the Warrant Agreement
+solely in respect of, the failure of Amendment No. 2 to the Company's
+Registration Statement on Form S-3 (No. 33-71030), as filed with the Securities
+and Exchange Commission on April 18, 1994, to be declared effective by the
+Securities Exchange Commission prior to April 19, 1994.
+<PAGE>   2
+
+      This letter agreement shall become effective and binding upon the Company
+and each Holder upon the execution and delivery of a counterpart of this letter
+agreement by the Company, the Required Warrantholders and the Holders of at
+least sixty-six and two-thirds percent (662/3%) of all Registrable Stock then
+outstanding (excluding any Registrable Stock directly or indirectly held by the
+Company or any Subsidiary or Affiliate).
+
+     If you are in agreement with the provisions of this letter agreement,
+please so indicate by executing it below.
+
+                                  Yours very truly,
+
+                                  BELL INDUSTRIES, INC.
+
+
+                                  By: TRACY A. EDWARDS
+                                      -----------------------------------------
+                                      Name:  Tracy A. Edwards
+                                      Title: Vice President
+
+                                  AGREED TO AND ACCEPTED BY:
+
+                                  CONNECTICUT GENERAL LIFE
+                                  INSURANCE COMPANY
+
+                                  By: CIGNA Investments, Inc.
+
+
+
+                                  By: MAURICE A. GORDON
+                                      -----------------------------------------
+                                      Name: MAURICE A. GORDON
+                                      Title: Vice President
+
+
+                                  INSURANCE COMPANY OF NORTH AMERICA
+
+                                  By: CIGNA Investments, Inc.
+
+
+
+                                  By: MAURICE A. GORDON
+                                      -----------------------------------------
+                                      Name: MAURICE A. GORDON
+                                      Title: Vice President
+
+
+
+
+
+                                       2
+<PAGE>   3
+
+
+                                  INTEGON LIFE INSURANCE CORPORATION
+
+
+
+                                  By: ROBERT L. DANN
+                                      -----------------------------------------
+                                      Name: Robert L. Dann
+                                      Title: Vice President
+
+                                  THE NORTHWESTERN MUTUAL LIFE
+                                  INSURANCE COMPANY
+
+
+
+                                  By: J. THOMAS CHRISTOFFERSON
+                                      ----------------------------------------
+                                      Name: J. Thomas Christofferson
+                                      Title: Vice President
+
+                                  ROYAL MACCABEES LIFE INSURANCE COMPANY
+
+
+
+                                  By: JOHN F. McCORMICK
+                                      ----------------------------------------
+                                      Name: John F. McCormick
+                                      Title: Vice President and Treasurer
+
+                                  PROVIDENT MUTUAL LIFE INSURANCE
+                                  COMPANY OF PHILADELPHIA
+
+
+
+                                  By: _________________________________________
+                                      Name:
+                                      Title:
+
+
+                                  PAN-AMERICAN LIFE INSURANCE COMPANY
+
+
+
+                                  By: LUIS INGLES, JR.
+                                      -----------------------------------------
+                                      Name: Luis Ingles, Jr., C.F.A.
+                                      Title: Senior Vice President - Investments
+
+
+                                       3
+<PAGE>   4
+                                  SOUTHERN FARM BUREAU LIFE
+                                  INSURANCE COMPANY
+
+
+
+                                  By: _________________________________________
+                                      Name:
+                                      Title:
+
+
+
+                                  THE UNION CENTRAL LIFE INSURANCE COMPANY
+
+
+
+                                  By: JOSEPH A. TUCKER, III
+                                      -----------------------------------------
+                                      Name:  Joseph A. Tucker, III
+                                      Title: Assistant Treasurer
+
+
+
+                                  UNITED COMPANIES LIFE INSURANCE COMPANY
+
+
+
+                                  By: _________________________________________
+                                      Name:
+                                      Title:
+
+
+
+                                  WASHINGTON NATIONAL INSURANCE COMPANY
+
+
+                                  By: C. BRUCE DUNN
+                                      -----------------------------------------
+                                      Name:  C. Bruce Dunn
+                                      Title: Director of Investments 
+
+
+
+                                  NATIONAL LIFE INSURANCE COMPANY
+
+
+                                  By: SCOTT HIGGINS
+                                      -----------------------------------------
+                                      Name:   R. Scott Higgins
+                                      Title:  Vice President
+                                      National Life Investment Management Co.,
+                                      Inc.                             
+
+
+
+
+
+
+                                       4
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<DESCRIPTION>SUBSIDIARIES OF THE REGISTRANT
+<TEXT>
+
+<PAGE>   1
+                                   EXHIBIT 21
+
+
+Subsidiaries of the Registrant:
+
+<TABLE>
+         <S>                                               <C>
+         Bell Electronics Corp. (California)               (*)
+         Bell Industries, Inc. (Minnesota)             
+         J. W. Miller Company (California)                 (*)
+</TABLE>
+
+
+All companies listed are considered wholly owned by the Registrant (Bell
+Industries, Inc. of Delaware) and are included in the consolidated financial
+statements.
+
+(*)      Inactive.
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>5
+<DESCRIPTION>CONSENT OF INDEPENDENT ACCOUNTANTS
+<TEXT>
+
+<PAGE>   1
+                                   EXHIBIT 23
+
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+
+We hereby consent to the incorporation by reference in the Registration
+Statements on Form S-8 (No. 2-74896, No. 33-38737 and No. 33-73044) and in 
+the Prospectus constituting part of the Registration Statement on Form S-3 
+(No. 33-71030) of Bell Industries, Inc.  of our report dated August 3, 1994
+appearing on page 13 of this Form 10-K.
+
+
+
+
+
+PRICE WATERHOUSE LLP
+
+Los Angeles, California
+August 30, 1994
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>6
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+<CURRENCY> U.S. DOLLARS
+       
+<S>                                        <C>
+<PERIOD-TYPE>                                     YEAR
+<FISCAL-YEAR-END>                          JUN-30-1994
+<PERIOD-END>                               JUN-30-1994
+<EXCHANGE-RATE>                                      1
+<CASH>                                           4,370
+<SECURITIES>                                         0
+<RECEIVABLES>                                   66,719
+<ALLOWANCES>                                       884
+<INVENTORY>                                     80,179
+<CURRENT-ASSETS>                               156,643
+<PP&E>                                          40,462
+<DEPRECIATION>                                  24,284
+<TOTAL-ASSETS>                                 184,713
+<CURRENT-LIABILITIES>                           49,188
+<BONDS>                                         39,972
+<COMMON>                                         1,537
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                      94,016
+<TOTAL-LIABILITY-AND-EQUITY>                   184,713
+<SALES>                                        451,153
+<TOTAL-REVENUES>                               451,153
+<CGS>                                          349,573
+<TOTAL-COSTS>                                  349,573
+<OTHER-EXPENSES>                                81,359
+<LOSS-PROVISION>                                   755
+<INTEREST-EXPENSE>                               4,492
+<INCOME-PRETAX>                                 15,729
+<INCOME-TAX>                                     6,654
+<INCOME-CONTINUING>                              9,075
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     9,075
+<EPS-PRIMARY>                                     1.45
+<EPS-DILUTED>                                     1.45
+       
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

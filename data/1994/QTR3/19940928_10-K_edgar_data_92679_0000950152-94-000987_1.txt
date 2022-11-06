@@ -1,0 +1,3084 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ qTE5zZMVMflQFFfTizqsAtTOYuk320z3VTqOZgzucNRVO8msA02OGYrObtE4blso
+ xTorAWHHx+fTWS/bMZZmkg==
+
+<IMS-DOCUMENT>0000950152-94-000987.txt : 19941005
+<IMS-HEADER>0000950152-94-000987.hdr.sgml : 19941005
+ACCESSION NUMBER:		0000950152-94-000987
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940928
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPARTON CORP
+		CENTRAL INDEX KEY:			0000092679
+		STANDARD INDUSTRIAL CLASSIFICATION:	3812
+		IRS NUMBER:				381054690
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01000
+		FILM NUMBER:		94550569
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2400 E GANSON ST
+		CITY:			JACKSON
+		STATE:			MI
+		ZIP:			49202
+		BUSINESS PHONE:		5177878600
+
+	MAIL ADDRESS:	
+		STREET 1:		2400 E GANSONS STREET
+		CITY:			JACKSON
+		STATE:			MI
+		ZIP:			49202
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SPARKS WITHINGTON CO
+		DATE OF NAME CHANGE:	19710510
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>SPARTON CORP 10-K
+<TEXT>
+
+<PAGE>   1
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+                                   FORM 10-K
+
+[X]      ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+         EXCHANGE ACT OF 1934 (Fee Required)
+
+For the fiscal year ended June 30, 1994
+                                       OR
+[ ]      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+EXCHANGE ACT OF 1934 (No Fee Required)
+
+For the transition period from __________ to __________
+
+Commission file number 1-1000
+                               SPARTON CORPORATION                 
+             ------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+              
+              OHIO                                     38-1054690            
+     ------------------------              ---------------------------------
+     (State of Incorporation)              (IRS Employer Identification No.)
+ 
+ 2400 East Ganson St., Jackson, Michigan                 49202   
+- - -----------------------------------------              ----------
+ (Address of principal executive offices)              (Zip Code)
+
+Registrant's telephone number, including area code:  (517) 787-8600
+
+Securities registered pursuant to Section 12(b) of the Act:
+ (Title of each class)        (Name of each exchange on which registered)
+- - --------------------------     ------------------------------------------
+COMMON STOCK, $1.25 PAR VALUE             NEW YORK STOCK EXCHANGE
+
+Securities registered pursuant to Section 12(g) of the Act:  NONE
+
+Indicate by checkmark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant
+was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.   Yes   X      No 
+                                          ----       ----
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.   [ ]
+
+The aggregate market value of voting stock held by non-affiliates of the
+registrant as of September 1, 1994 was $23,712,000.
+
+The number of shares of common stock outstanding as of September 1, 1994 were
+7,811,370.
+
+Documents incorporated in part by reference:
+
+                 1994 Annual Report to Shareowners - Parts I, II, IV
+                 Proxy Statement for October 26, 1994 Meeting - Part III
+<PAGE>   2
+PART I
+- - ------
+Item l.   Business
+- - -------   --------
+
+
+     Except as otherwise indicated, the term "Company" refers to Sparton
+Corporation, and the term "Sparton" refers to Sparton Corporation and its
+consolidated subsidiaries.
+
+
+     The Company has been in continuous existence since 1900.  It was last
+reorganized in 1919 as an Ohio corporation.  Sparton operates in two principal
+business segments.  The major products of both industry segments and selected
+data are included in the Annual Report in Note 10, Segment Information, of the
+Notes to Consolidated Financial Statements on pages 17 and 18 and are
+incorporated herein by reference.  Additional information about each segment is
+as follows.
+
+
+Electronics
+- - -----------
+
+     Historically, the electronics segment's principal product has been
+sonobuoys, which are anti-submarine warfare devices used by the U.S.  Navy and
+other free world military organizations.  According to publicly available
+government procurement data, Sparton has historically been one of two leading
+manufacturers of sonobuoys in the United States.  It competes with a limited
+number of qualified manufacturers for sonobuoy procurements by the U.S. and
+selected foreign governments.  Contracts are obtained through competitive bid
+or directed procurement.  U.S.  government contracts normally include
+termination provisions which allow the government to cancel contracts at its
+election.  Termination clauses generally provide, however, a mechanism for the
+contractor to recoup some or all of the costs previously incurred.  U.S.
+government contracts also generally include provisions for progress billings
+
+
+
+
+
+                                      -1-
+<PAGE>   3
+based upon contract costs incurred, which reduce the amount of working capital
+otherwise required to perform such contracts.
+
+
+     The electronics segment also designs and/or manufactures a variety of
+electronic and electromechanical products for the telecommunications,
+electronics and other industries.  Competitive factors in these markets include
+technical ability, customer service and price.  A majority of the proprietary
+products, principally transducers and monitoring systems, are sold to the
+telecommunications industry.  The primary industries of the Company's contract
+manufacturing business include telecommunications and health care.  In the
+general contract manufacturing business, it must compete vigorously with a
+number of manufacturers.  Commercial electronics products are distributed
+through a direct sales force and through a small group of distributors.
+
+
+     At June 30, 1994 and June 30, 1993, the aggregate backlog was
+approximately $90 million and $93 million, respectively.  A majority of the
+1994 backlog is expected to be realized in fiscal 1995.
+
+
+     The Company's sales of sonobuoys, principally to the U.S. Navy, have
+declined dramatically from $151,024,000 in 1992 to $47,645,000 in 1994,
+reflecting overall changes in the U.S. Navy's budget.  Based on current
+information, it is expected that the U.S. Navy's budget for production
+sonobuoys for the foreseeable future will continue at reduced levels.  The Navy
+is funding development efforts to improve the detection capability of current
+systems and to implement new detection systems for planned deliveries starting
+in 1996.  The Company is currently developing certain of these new systems both
+individually and jointly with a major competitor.  At the present time, the
+Company is uncertain as to the market potential of these new
+
+
+
+
+
+                                      -2-
+<PAGE>   4
+systems, and if it would be the supplier of choice if these systems go to
+production.  The international market for sonobuoys has also been adversely
+impacted by reduced budgets.  As most foreign governments use sonobuoys for
+training and do not maintain the same high level of reserves of the U.S. Navy,
+the reductions in the international market presently experienced and expected
+in the future should be less severe.  In response to this changing environment,
+the Company has previously consolidated certain of its manufacturing
+facilities, continues to reduce costs within the defense-oriented operations
+and is developing commercial opportunities which will utilize its existing
+technological and manufacturing capabilities.   In addition, the Company is
+focusing on expanding sales in its automotive and other commercial electronics
+markets on a worldwide basis.  Management, however, cannot predict the level of
+U.S. sonobuoy awards it will receive over the next several years, the growth in
+sales volume of new commercial business intended to replace these declining
+defense revenues, nor the resulting financial impact of these changes on the
+Company's operations.  As with any change of this magnitude, unexpected delays
+in new program start-ups and their associated cost impacts frequently occur.
+Investors should be aware of this uncertainty and make their own independent
+evaluation.
+
+
+
+
+
+
+
+                                      -3-
+<PAGE>   5
+
+Automotive and Industrial Products
+- - ----------------------------------
+
+     The automotive and industrial products segment produces a variety of
+automatic floors shifters, horns, metal airbag components, spare tire carriers,
+and stampings and assemblies for manufacturers of automobiles, trucks and other
+industrial and marine equipment.  Competition in these markets is generally
+based upon product quality, customer service and price.  Based on information
+provided by automobile manufacturers, the Company is believed to be one of the
+largest independent manufacturers of automatic floor shifters and horns in the
+United States.  It is also one of numerous suppliers of automotive stampings.
+Sales are generally obtained on a competitive basis through either a direct
+sales force or manufacturers' representatives.
+
+
+
+
+
+                                      -4-
+<PAGE>   6
+
+
+
+
+
+
+Other Information
+- - -----------------
+
+     Sparton's two principal business markets are dependent on a limited number
+of customers and the loss of any one of them could have a materially adverse
+financial effect.  Materials for the manufacturing segments are obtained from a
+variety of sources.  While Sparton holds a number of patents relating to its
+products and processes, none are considered of material importance to any of
+the individual business segments.  Neither of the business segments have
+encountered or expect to encounter significant problems in obtaining sufficient
+raw materials.  While sales fluctuate during the year, such fluctuations have
+not historically reflected a definitive seasonal pattern or tendency.
+
+
+     Research and development expenditures amounted to approximately
+$19,621,000 in 1994, $18,511,000 in 1993 and $24,556,000 in 1992 (approximately
+$16,197,000, $15,155,000 and $21,885,000 of these expenditures, respectively,
+were customer funded), primarily in the electronics segment.  There are
+approximately 260 employees involved in research and development.  Few, if any,
+devote all of their time to such efforts.
+
+
+     Sparton employed approximately 2,300 people at June 30, 1994.  The Company
+has one operating division and eight wholly-owned subsidiaries.
+
+
+
+Item 2.   Properties
+- - -------   ----------
+
+     The table below lists the principal properties of Sparton, by segment.
+All are owned except as noted.  There are manufacturing and/or office
+facilities at each
+
+
+
+
+
+                                      -5-
+<PAGE>   7
+location.  Sparton believes these facilities are suitable for its operations,
+except as noted.
+
+     Electronics:
+          Jackson, Michigan
+          DeLeon Springs, Florida (2 plants)
+          Brooksville, Florida
+          London, Ontario
+          Albuquerque, New Mexico
+          Rio Rancho, New Mexico
+          Deming, New Mexico (lease/purchase, see below)
+
+     Automotive and industrial products:
+          Flora, Illinois
+          Grayville, Illinois (2 plants, one of which is leased)
+          Lake Odessa, Michigan
+          Kentwood, Michigan (leased)
+          Gladwin, Michigan
+          Grand Haven, Michigan (in part leased)
+          White Cloud, Michigan (in part leased)
+          Spring Lake, Michigan
+          Brownstown, Indiana
+          Hartford City, Indiana
+
+
+     The Company leases the Deming, New Mexico facility under terms of a
+capital lease and has exercised an option to purchase the facility at the end
+of the lease term which expires on July 1, 1997.  Future minimum payments under
+this capital lease at June 30, 1994 are as follows: 1995 - $89,000, 1996 -
+$85,000, 1997 - $80,000, and $75,000 in 1998.  Interest of $29,000, payable
+over the remaining lease term at 6 1/8% per annum, was deducted in arriving at
+the obligation at June 30, 1994.  In July 1991, the Company leased an
+additional production facility in Albuquerque, New Mexico under a four-year
+agreement.  This facility is presently vacant and available for sublease.
+
+
+     Both the White Cloud, Michigan and Grand Haven, Michigan facilities are
+occupied under lease agreements that allow termination by either party upon
+ninety (90) day notice.  These facilities are owned by John J. Smith and Lawson
+K. Smith, Chief
+
+
+
+
+
+                                      -6-
+<PAGE>   8
+Executive Officer, and Vice President-Secretary, respectively, of Sparton
+Corporation.  The agreements, the result of arms-length type negotiations,
+grant the Company the option to acquire the properties during the lease term
+for $252,400 and $223,200, respectively.
+
+
+     The adminitrative facility in Kentwood, Michigan is presently leased under
+an agreement that expires in October, 1997.  The Company officially closed the
+Gladwin plant of Sparton Engineered Products, Inc.-Lake Odessa Group in August
+1990 with this property subsequently offered for sale.  The Gladwin facility
+was placed back in service in October 1993 and is no longer actively offered
+for sale.
+
+Item 3.   Legal Proceedings
+- - ------    -----------------
+
+     Various litigation is pending against the Company, in many cases involving
+ordinary and routine claims incidental to the business of the Company and in
+others presenting allegations that are non-routine.  The Company and its
+subsidiaries are also involved in certain compliance issues with the United
+States Environmental Protection Agency and various state agencies, including
+being named as a potentially responsible party at several sites.  Potentially
+responsible parties can be held jointly and severally liable for the cleanup
+costs at any specific site.  The Company's past experience, however, has
+indicated that when it has contributed only deminimus amounts of material or
+waste to a specific site, its ultimate share of any cleanup costs has been very
+small.  Based upon available information, the Company believes it has
+contributed only deminimus amounts to those sites in which it is currently
+viewed a potentially responsible party.
+
+     One of the Company's facilities located in New Mexico has been the subject
+of ongoing investigations by the U. S. Environmental Protection Agency (EPA). 
+To date, the work has involved remedial investigations, negotiation and
+execution of an administrative order on consent with the EPA, establishment of
+on-site and off-site monitoring systems, and the installation of some
+groundwater recovery and air stripping equipment.  The remedial investigation
+has been completed and approved.  The Company has prepared a corrective action
+plan based upon the results of its investigation.  This action plan has not yet
+been approved.  In addition, the Company is involved in related issues with
+State of New Mexico environmental agencies and a nearby landowner.  The
+Company has charged to expense approximately $2,700,000, net of $3,000,000 of
+insurance recoveries received, since the contamination problem was first
+identified in the early 1980's.  Efforts to resolve thses matters will likely
+continue for a number of years.
+
+
+
+                                      -7-
+<PAGE>   9
+The ultimate legal and financial liability of the Company in respect to the
+above matters cannot be estimated with any certainty.  Management of the
+Company believes, however, based on its examination of such matters, experience
+to date and discussions with counsel and other consultants, that such ultimate
+liability (including insurance recoveries, where applicable) should not be
+material in relation to the Company's consolidated financial statements.
+
+Item 4.     Submission of Matters to a Vote of Security Holders
+- - ------      ---------------------------------------------------
+
+     No matters were submitted to a vote of the security holders during the
+last quarter of the period covered by this report.
+
+
+
+
+
+                                      -8-
+<PAGE>   10
+
+<TABLE>
+
+Executive Officers
+- - ------------------     
+     Information with respect to executive officers of the Registrant is set
+forth below.  The positions noted have been held for at least five years,
+except where noted.
+
+<CAPTION>
+                                                                                  Age
+                                                                                  ---
+<S>                                                                               <C>
+JOHN J. SMITH, Chairman of the Board, Chief Executive Officer and                 82
+   Director.                                                                
+                                                                            
+DAVID W. HOCKENBROCHT, President, Chief Operating Officer and Director.           59
+                                                                            
+LAWSON K. SMITH, Vice President, Secretary and Director; President of             79
+  Sparton Engineered Products, Inc.-Lake Odessa Group.                      
+                                                                            
+RICHARD L. LANGLEY, Vice President-Treasurer since May 1990.  Prior               49
+  to that date, Mr. Langley was employed by the Company as Assistant        
+  Treasurer.                                                                
+                                                                            
+RICHARD H. NICHOLS, Vice President and Assistant Secretary since July             64
+   1994.  Prior to that date, Mr. Nichols was also Vice President and       
+   General Manager of Sparton Electronics.                                  
+                                                                            
+MARK W. PICKARD, Vice President and General Manager of Sparton of                 41
+   Canada, Ltd. since October 1992.  Prior to that date, Mr. Pickard        
+   was employed by the Company in several capacities, principally           
+   within the financial management functions.                               
+</TABLE>                                                                    
+                                                                            
+                                                                            
+
+
+
+                                      -9-
+<PAGE>   11
+<TABLE>
+<CAPTION>
+                                                                                    Age
+                                                                                    ---
+<S>                                                                                 <C>
+DOUGLAS E. JOHNSON, Vice President and General Manager of Sparton                   46
+   Electronics since July 1994.  Prior to that date, Mr. Johnson was            
+   the Assistant General Manager of Sparton Electronics and prior to            
+   August 1992, was employed by the Company in several capacities,              
+   principally within engineering and manufacturing management.                 
+                                                                                
+GARY A. WHITE, Vice President and General Manager of Sparton Engineered             43
+   Products, Inc.-Lake Odessa Group since August 1991.  Prior to that           
+   date , Mr. White was employed by the Company as acting General               
+   Manager of Sparton Engineered Products, Inc.-KPI Group and prior             
+   to January 1991, as Director of Manufacturing.                               
+                                                                                
+JERRY R. GAUSE, Vice President and General Manager of Sparton Engineered             53
+   Products, Inc.-KPI Group since July 1991.  Employed as Vice President        
+   and General Manager of Sparton Engineered Products, Inc.-Lake Odessa         
+   Group since November 1989 and before that as Director of Marketing since     
+   April 1989.                                                                  
+                                                                                
+WILLIAM C. MIRGAIN, Vice President and General Manager of Sparton                   51
+   Engineered Products, Inc.-Flora Group since July 1994.  Prior to that        
+   date, Mr. Mirgain was employed as Managing Director of DME Europe            
+   since August 1991 and prior to that date, was employed as Director           
+   of International Manufacturing for FMC Corporation.                          
+                                                                                
+RICHARD D. MICO, Vice President and General Manager of Sparton Technology,          64
+   Inc.                                                                         
+                                                                                
+</TABLE>                                                                        
+
+
+
+
+                                      -10-
+<PAGE>   12
+<TABLE>
+<CAPTION>
+
+<S>                                                                              <C>
+R. JAN APPEL, Vice President, General Counsel and Assistant                         48
+   Secretary.                                                                  
+                                                                               
+JOSEPH S. LERCZAK, Assistant Treasurer since June 1990 and Assistant to             37
+   the Treasurer since January 1990.  Prior to that date, he was employed      
+   as Controller of SMI PatientCare, Inc.                                      
+</TABLE>                                                                       
+                                                                               
+
+     John J. Smith and Lawson K. Smith are brothers.  There are no other family
+relationships between the persons named above.  John J. Smith is employed as
+Chief Executive Officer under the terms of an employment agreement through June
+30, 1994.  All other officers are elected annually and serve at the discretion
+of the Board of Directors.
+
+PART II
+- - -------
+Item 5.      Market for the Registrant's Common Stock
+- - ------       ----------------------------------------             
+             and Related Security Holder Matters
+             -----------------------------------
+
+     Information with respect to the market for the Company's stock, including
+stock prices, stock exchange and number of shareowners, and quarterly dividends
+for the two year period ended June 30, 1994, is included under "Financial
+Highlights" on page 1 and "Management's Discussion and Analysis of Financial
+Condition and Results of Operations" on page 20 of the Annual Report and is
+incorporated herein by reference.
+
+
+
+
+
+                                      -11-
+<PAGE>   13
+Item 6.       Selected Financial Data
+- - ------        -----------------------
+
+     The "Selected Financial Data" on page 19 of the Annual Report is
+incorporated herein by reference.
+
+
+
+Item 7.       Management's Discussion and Analysis of
+- - ------        ---------------------------------------
+              Financial Condition and Results of Operations
+              ---------------------------------------------
+
+     "Management's Discussion and Analysis of Financial Condition and Results
+of Operations" on pages 20-22 of the Annual Report is incorporated herein by
+reference.
+
+
+Item 8.       Financial Statements and Supplementary Data
+- - ------        -------------------------------------------
+
+     The consolidated financial statements and "Report of Independent Auditors"
+are included in the Annual Report on pages 8-18 and 12, respectively, and are
+incorporated herein by reference.
+
+Item 9.       Changes in and Disagreements with Accountants on Accounting
+- - ------        -----------------------------------------------------------
+              and Financial Disclosure
+              ------------------------
+
+     None.
+
+
+
+
+
+                                      -12-
+<PAGE>   14
+
+PART III
+- - --------
+Item 10.      Directors and Executive Officers
+- - -------       --------------------------------       
+              of the Registrant
+              -----------------
+
+     Information with respect to directors is included in the Proxy Statement
+under "Election of Directors" and is incorporated herein by reference.
+Information concerning the executive officers is included in Part I on pages
+9-11.
+
+
+
+Item 11.     Executive Compensation
+- - -------      ----------------------
+
+     Information concerning executive compensation is included under
+"Compensation of Executive Officers and Directors" in the Proxy Statement and
+is incorporated herein by reference.
+
+Item 12.     Security Ownership of Certain
+- - -------      -----------------------------       
+             Beneficial Owners and Management
+             --------------------------------
+
+     Information on management and certain other beneficial ownership of the
+Company's common stock is included under "Outstanding Shares and Voting" in the
+Proxy Statement and is incorporated herein by reference.
+
+
+Item 13.     Certain Relationships and Related Transactions
+- - -------      ----------------------------------------------
+
+     Information as to certain relationships and related transactions is
+included under "Certain Relationships and Transactions" in the Proxy Statement
+and is incorporated herein by reference.
+
+
+
+
+
+                                      -13-
+<PAGE>   15
+<TABLE>
+
+PART IV
+- - -------
+Item 14.     Exhibits, Financial Statement
+- - -------      -----------------------------
+             Schedules, and Reports on Form 8-K
+             ----------------------------------
+
+     The following financial statements and schedules are filed as part of this
+report: 
+     
+     Index to Financial Statements and Schedules Covered by Report of
+     ----------------------------------------------------------------
+Independent Auditors:
+- - --------------------
+
+
+<CAPTION>
+
+                                                                              Page Reference       
+                                                                       --------------------------------
+                                                                       Form               Annual Report
+                                                                        10-K             to Shareowners
+                                                                       -----             --------------
+<S>                                                                    <C>                  <C>
+Data incorporated by reference from
+   the 1994 Annual Report to Share-
+   owners of Sparton Corporation:
+
+     Consolidated balance sheets at June 30,                                                 8 - 9
+         1994 and 1993
+
+     For the years ended June 30, 1994, 1993,
+         and 1992:
+
+            Consolidated statements of operations                                             10
+
+            Consolidated statements of cash flows                                             11
+
+            Consolidated statements of share-                                                 12
+              owners' equity
+
+     Notes to consolidated financial                                                        13 - 18
+         statements
+
+Financial statement schedules for the years
+   ended June 30, 1994, 1993 and 1992:
+
+   VIII - Valuation and qualifying accounts                            S-1
+
+     IX - Short-term borrowings                                        S-2
+
+      X - Supplementary income statement                               S-3
+               information
+
+</TABLE>
+      
+      All other prescribed schedules have been omitted since the required
+information is not present or is not present in amounts sufficient to require
+submission of the schedule, or because the information required is included in
+the consolidated financial statements or the notes thereto.
+
+
+
+
+
+                                      -14-
+<PAGE>   16
+Exhibit Index
+- - -------------    
+    3 and 4           Articles of Incorporation of the Registrant were filed
+                      with Form 10-K for the year ended June 30, 1981 and an
+                      amendment thereto was filed with Form 10-Q for the
+                      three-month period ended September 30, 1983, and are
+                      incorporated herein by reference.
+
+                      By-laws of the Registrant were filed with Form 10-K for
+                      the year ended June 30, 1981, and are incorporated herein
+                      by reference.
+
+                      Code of Regulations of the Registrant were filed with
+                      Form 10-K for the year ended June 30, 1981 and an
+                      amendment thereto was filed with Form 10-Q for the
+                      three-month period ended September 30, 1982, and are
+                      incorporated herein by reference.
+
+       10             The employment agreement with John J. Smith was filed
+                      with Form 10-K for the year ended June 30, 1981 and
+                      subsequent amendments thereto were filed with Form 10-K
+                      for the year ended June 30, 1985, with Form 10-Q for the
+                      three-month period ended September 30, 1988, and with
+                      Form 10-Q for the three month period ended September 30,
+                      1991 and are incorporated herein by reference.
+
+       13             1994 Annual Report to Shareowners (filed herewith and
+                      attached).  With the exception of the pages of the Annual
+                      Report specifically incorporated herein by reference, the
+                      Annual Report is not deemed to be filed as part of this
+                      report on Form 10-K.
+
+       22             Subsidiaries (filed herewith and attached).
+
+
+
+
+
+                                      -15-
+<PAGE>   17
+
+       23             Consent of independent auditors (filed herewith and
+                      attached).
+
+       27             Submitted to the Securities and Exchange Commission for
+                      its information
+
+Reports on Form 8-K Filed in the Fourth Quarter of Fiscal 1994
+- - --------------------------------------------------------------
+
+     No reports on Form 8-K were required to be filed by the Registrant during
+the last quarter of the period covered by this report.
+
+
+
+
+
+                                      -16-
+<PAGE>   18
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                    SPARTON CORPORATION           
+                              ---------------------------------
+
+Date: September 26, 1994      By /s/ Richard L. Langley
+                                 -------------------------------
+                                 Richard L. Langley, Vice President-
+                                   Treasurer (Principal Accounting and
+                                   Financial Officer)
+
+
+
+
+
+                                      -17-
+<PAGE>   19
+<TABLE>
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+
+<CAPTION>
+               Signature and Title                                                          Date
+               -------------------                                                          ----
+<S>                                                                                  <C>
+By /s/ John J. Smith                                                                 August 26, 1994
+- - --------------------------------------------------                                   ---------------
+     John J. Smith, Chairman of the Board
+       of Directors and Chief Executive Officer
+
+
+By /s/ David W. Hockenbrocht                                                         August 26, 1994
+- - --------------------------------------------------                                   ---------------
+     David W. Hockenbrocht, President,
+       Chief Operating Officer and Director
+
+
+By /s/ Lawson K. Smith                                                               August 26, 1994
+- - --------------------------------------------------                                   ---------------
+     Lawson K. Smith, Vice President, Secretary
+     and Director
+
+
+By /s/ James N. DeBoer                                                               August 26, 1994
+- - --------------------------------------------------                                   ---------------
+     James N. DeBoer, Director
+
+
+By /s/ Robert J. Kirk                                                                August 26, 1994
+- - --------------------------------------------------                                   ---------------
+     Robert J. Kirk, Director
+
+
+By /s/ Marshall V. Noecker                                                           August 26, 1994
+- - --------------------------------------------------                                   ---------------
+     Marshall V. Noecker, Director
+
+
+By /s/ Blair H. Thompson                                                             August 26, 1994
+- - ---------------------------------------------------                                  ---------------
+     Blair H. Thompson, Director
+</TABLE>
+
+
+
+
+
+                                      -18-
+<PAGE>   20
+<TABLE>
+                      SPARTON CORPORATION AND SUBSIDIARIES
+               SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+                     Years Ended June 30, 1994, 1993, 1992
+
+
+
+<CAPTION>
+                                               Additions               
+                                          ------------------                Deductions        
+                        Balance           Charged        Charged               From           Balance
+                       Beginning            to           to Other           (Recoveries       at End
+ Description            of Year            Income        Accounts          to) Reserves       of Year 
+- - -------------          ---------          -------        --------          ------------      ---------
+
+<S>                    <C>                <C>            <C>             <C>                  <C>
+Allowance for
+doubtful accounts:
+
+      1994             $339,000           $607,000       $1,000          $ 844,000            $103,000
+
+      1993              397,000             70,000           --            128,000             339,000
+
+      1992              281,000             32,000           --           (84,000)             397,000
+
+
+
+</TABLE>
+
+
+                                      S-1
+<PAGE>   21
+<TABLE>
+                      SPARTON CORPORATION AND SUBSIDIARIES
+                      SCHEDULE IX - SHORT-TERM BORROWINGS
+                    Years Ended June 30, 1994, 1993 and 1992
+
+
+<CAPTION>
+                                                      Maximum                              Weighted
+                                                      Amount                                Average
+                                                    Outstanding          Average           Interest
+                                                      at Any             Amount              Rate
+                  Balance          Weighted          Month-end         Outstanding          during
+                  at End           Average            during             during              the
+                  of Year            Rate            the Year           the Year            Year1
+                ---------          -------          -----------        -----------         ------- 
+<S>             <C>                   <C>           <C>                <C>                     <C>
+Notes
+payable
+to banks:
+
+1994            $20,615,000           5.5%          $21,748,000        $13,719,000             4.7%
+                 ==========          =====           ==========         ==========            =====
+
+1993            $ 3,880,000           4.6%          $15,620,000        $11,696,000             4.6%
+                 ==========          =====           ==========         ==========            =====
+
+1992            $ 8,959,000           5.3%          $21,471,000        $15,660,000             6.5%
+                 ==========          =====           ==========         ==========            =====
+
+
+
+
+<FN>
+____________________
+
+1 Actual interest expense divided by average short-term borrowings.
+
+
+</TABLE>
+
+
+
+                                      S-2
+<PAGE>   22
+<TABLE>
+                      SPARTON CORPORATION AND SUBSIDIARIES
+            SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+                    Years Ended June 30, 1994, 1993 and 1992
+
+
+
+<CAPTION>
+                                        Charged to Costs and Expenses     
+                                   ---------------------------------------
+
+                                      1994          1993           1992   
+                                   ----------    ----------     ----------
+
+<S>                                <C>           <C>            <C>
+Maintenance and repairs            $3,059,000    $3,443,000     $4,171,000
+                                    =========     =========      =========
+
+
+
+</TABLE>
+
+
+                                      S-3
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<DESCRIPTION>SPARTON EXHIBIT 13
+<TEXT>
+
+<PAGE>   1
+
+
+
+- - ------------------
+
+SPARTON 
+CORPORATION
+LOGO
+
+- - ------------------
+
+
+
+                                             -------------------------
+
+                                             Annual Report
+                                             Year Ended June 30, 1994
+
+                                             -------------------------
+<PAGE>   2
+
+<TABLE>
+ 
+SPARTON CORPORATION
+    
+     --------------------------------------------------------------------
+       INDEX
+     --------------------------------------------------------------------
+    
+         <S>                                                      <C>
+         Financial Highlights..................................      1
+         Shareowners' Letter...................................      2
+         Electronics...........................................      4
+         Automotive & Industrial Products......................      6
+         Consolidated Balance Sheets...........................      8
+         Financial Trends at a Glance..........................      8
+         Consolidated Statements of Operations.................     10
+         Consolidated Statements of Cash Flows.................     11
+         Consolidated Statements of Shareowners' Equity........     12
+         Report of Independent Auditors........................     12
+         Notes to Consolidated Financial Statements............     13
+         Selected Financial Data...............................     19
+         Management's Discussion & Analysis....................     20
+         Directors.............................................     22
+         Directors, Officers & General Managers................     23
+         Business Segments.....................................     24
+         Notice of Annual Meeting....................Inside Back Cover
+</TABLE>
+
+
+ 
+                                                   SPARTON CORPORATION
+                                                   Designs and manufactures high
+                                                   quality technical products
+                                                   for international
+                                                   electronics, automotive and
+                                                   telecommunications markets.
+
+
+<PAGE>   3
+ 
+<TABLE>
+
+FINANCIAL HIGHLIGHTS
+ 
+            SPARTON CORPORATION & SUBSIDIARIES
+            For Years Ended June 30
+            ----------------------------------------------------------------------------------------------
+ 
+<CAPTION>
+                                                                1994             1993             1992
+                                                            ------------     ------------     ------------
+                <S>                                         <C>              <C>              <C>
+                Net Sales                                   $201,174,014     $233,052,133     $245,379,966
+                Net Income (Loss)                             (4,899,414)       6,637,942        7,968,291
+                Working Capital                               42,204,541       51,212,170       45,308,069
+                Working Capital Ratio                             2.00:1           2.56:1           2.34:1
+                Common Shares Outstanding
+                  at June 30                                   7,811,370        7,810,370        7,791,672
+                Long-Term Obligations                       $    626,012     $    785,120     $    943,423
+                Per Common Share:
+                  Net Income (Loss)                                $(.63)           $ .85            $1.02
+                  Working Capital                                   5.40             6.56             5.81
+                  Shareowners' Equity                               7.95             8.57             7.74
+                  Dividends                                           --               --               --
+</TABLE>
+
+ 
+<TABLE>
+            MARKET DATA
+ 
+            Price Range
+ 
+<CAPTION>
+                  New York Stock Exchange
+                                                                             Years Ended June 30
+                                                           -------------------------------------------------------
+                                                                1994                1993                1992
+                                                           ---------------     ---------------     ---------------
+            Quarter Ended:                                 HIGH       LOW      High       Low      High       Low
+                                                           -----     -----     -----     -----     -----     -----
+               <S>                                         <C>       <C>       <C>       <C>       <C>       <C>
+                  September 30                           6  5/8    5  3/8    8  1/8    5  1/4    9  1/8    5  1/2
+                  December 31                            7  1/2       6      6  5/8    4  3/4    8  1/2    6  1/4
+                  March 31                               7  1/4    6  1/8    6  1/4    5  7/8    8  1/8    6
+                  June 30                                6  1/2    4  7/8    6  1/4    5         8  3/4    6  1/2
+               Recent Price as of August 26, 1994                  4  7/8
+               Shareowners of record                                1,186 
+</TABLE>
+ 
+                                                                              1
+<PAGE>   4
+ 
+SHAREOWNERS' LETTER
+ 
+            
+September 29, 1994
+            
+TO OUR SHAREOWNERS:
+ 
+Fiscal year 1994 represented the completion of another year of transition for
+Sparton as it moves from its previous major orientation as a defense
+contractor to a company whose emphasis is focused on the commercial marketplace.
+We had hoped to complete this transition in three to five years and to remain
+profitable while doing so. However, this was not possible this past year.
+ 
+From 1992 to 1994, Sparton's government-related sales declined $115 million.
+Using historical averages, these sales would have generated before-tax profits
+of approximately $13 million. Our efforts to replace the declining defense
+business have been fruitful but not at a rate commensurate with the dollar
+decline in defense. Sparton's strategic focus remains on the growing electronics
+contract manufacturing marketplace as well as our historic emphasis on 
+automotive and telecommunications.
+ 
+During fiscal 1994, we booked $50 million in new commercial electronics contract
+manufacturing business, $29 million in new automotive business and $7 million in
+new telecommunications business. Additionally, we were able to acquire a new
+proprietary telecommunications product called "The Receptionist(TM)" for
+Sparton Technology, Inc. in Rio Rancho, New Mexico. This product is an
+automatically attended telephone routing device designed to be sold 
+internationally for use in small offices and homes.
+ 
+At this writing, all of our U.S. and Canadian electronics manufacturing plants
+are ISO 9000 registered and the balance of our facilities have plans in place to
+achieve registration.
+ 
+ELECTRONICS
+ 
+The electronics contract manufacturing market in North America is now estimated
+to be about $8.4 billion yearly. It is forecast to grow to $16.5 billion by
+1997. Some of the reasons for this dramatic growth are:
+ 
+     - Vertical integration in some areas of manufacturing is declining;
+ 
+     - Electronics' product life cycles average about 16 months; and
+ 
+     - High output manufacturing infrastructure is too expensive for many
+       companies to put in place on a timely basis.
+ 
+Sparton is now recognized as a viable competitor in this market. We have
+several competitive advantages which we can continue to exploit. Our profit
+margins from electronics contract manufacturing were unsatisfactory in 1994, but
+are showing improvement. Our learning curve experience in commercial 
+electronics has been longer than anticipated, principally due to the very 
+different disciplines required of the management organization in commercial 
+manufacturing environments. We expect that this area will contribute 
+meaningful earnings to Sparton in 1995.
+ 
+Business at Sparton Technology Inc. (STI) declined during 1994 due to the
+loss of its defense-related business, delays in some important
+telecommunications-related orders and the follow-on effect of the loss of a
+major contract with a contractor to the U.S. Postal Service. STI should
+experience a return to profitable operations in fiscal year 1995. Higher sales 
+from the commercial marketplaces should replace nearly all of STI's lost defense
+business.
+ 
+AUTOMOTIVE AND INDUSTRIAL PRODUCTS
+ 
+Sparton's automotive sales passed $100 million for the first time in the
+Company's history. However, margins from this activity were unsatisfactory. 
+This was due to inadequate pricing on several key product lines coupled with 
+manufacturing inefficiencies and cost overruns related to quality issues, new 
+program launches and capacity constraints. All of these issues are currently 
+being addressed and positive results from these actions should be forthcoming.
+ 
+Supplier consolidation continues within the automotive Original Equipment
+Manufacturing (OEM) business. We expect that large Tier 1 supplier companies
+will get larger and that small
+ 
+                                        
+2
+<PAGE>   5
+ 
+companies will be eliminated or assigned to Tier 2 status in future years.
+Today, a Tier 1 supplier to the automotive OEM business has no future without
+an engineering support base. Fortunately, Sparton has been able to maintain 
+its engineering excellence and is experiencing continuing new business
+opportunities both in North America and in Europe.
+ 
+SPARTON'S FUTURE
+ 
+While Sparton's business remains in a difficult and somewhat unpredictable
+transition phase, we have been and will continue to be rewarded with substantial
+new business opportunities in all of our chosen fields. These will arise due to
+our technical competence and our reputation as a producer of low cost, high 
+quality products for industry worldwide.
+ 
+We wish to express our appreciation to our employees for their dedication and
+hard work and to our shareowners for their continued support during this
+transition period. We believe that our best years are in our future, not a part
+of our past. It is our goal to demonstrate to you that we are correct.
+ 
+Our Annual Meeting is scheduled for 10:00 A.M. on Wednesday, October 26, 1994 in
+our Jackson, Michigan Board Room. We trust that many of you will find it
+possible to attend.
+ 
+Yours truly,
+ 
+JOHN J. SMITH
+ 
+Chairman
+ 
+DAVID W. HOCKENBROCHT
+ 
+President
+
+
+
+[THE FOLLOWING ARE PHOTO CAPTIONS FOR THIS PAGE]
+ 
+
+AUTOMOTIVE HORNS
+
+AUTOMOTIVE TRANSMISSION SHIFTER
+
+ELECTRONIC PAGER
+
+BATHYTHERMOGRAPH SYSTEM
+
+"THE RECEPTIONIST(TM)",
+AN AUTOMATICALLY ATTENDED
+TELEPHONE ROUTING SWITCHER FOR
+OFFICE AND HOME
+
+AUTOMOTIVE UNDERCARRIAGE SPARE TIER CARRIER
+
+                                                                            3
+<PAGE>   6
+ 
+SPARTON CORPORATION
+ 
+                      ELECTRONICS
+
+                      SPARTON ELECTRONICS
+                     ...........................................
+    [PHOTO]           DOUGLAS E. JOHNSON
+                      Vice President-
+                      General Manager
+                      Sparton Electronics
+ 
+Sparton Electronics completed the third year of its planned transition from
+being a defense contractor to becoming primarily a commercial electronics
+engineering and manufacturing firm. The unit continued to develop full service
+contract manufacturing support for its principal customers. These customers
+represent a sizable commercial business opportunity in the industrial process
+control, data communications, telecommunications and medical devices fields.
+Sparton Electronics offers significant technical resources to support customers
+by redesigning existing products and then cost-effectively manufacturing them.
+The group can also assist by bringing their customers' products, featuring the
+latest in electronic and electromechanical technologies, to the marketplace in a
+timely manner.
+ 
+In years one and two of this conversion process, the group spent considerable
+time analyzing business opportunities with the assistance of an outside
+consulting firm. The resulting Business Plan is still intact and feedback has
+been very positive. Progress, however, has been slower than initially
+anticipated. Several new commercial customers were obtained this past year.
+Sparton Electronics is now recognized as a viable source for full service
+contract manufacturing work. This unit continues to solicit new customers and
+expand its business base with existing customers.
+ 
+An important milestone was achieved in 1994. All three Sparton Electronics'
+facilities received formal ISO 9000 certification of their business systems.
+This designation has become a prerequisite for a number of commercial customers.
+ 
+Sales of governmental products, principally sonobuoys, declined substantially,
+but still provided over one-half of Sparton Electronics' sales during the past
+year. Commercial business accounted for 42% of 1994 sales and should constitute
+60% in 1995. A loss was incurred in 1994 due to the termination of several
+commercial contracts and the writedowns in value of certain governmental and
+commercial inventories.
+ 
+A significant sonobuoy production program started very slowly due to extensive
+design testing required by the U.S. Navy. Approval was obtained and the program
+should be substantially completed in the first quarter of 1995. During the year,
+one production and three developmental sonobuoy contracts were received from the
+U.S. Navy. Sparton Electronics secured 80% of the market share of 1994
+international sonobuoy production awards for which they competed. U.S.
+Government 1995 sonobuoy requirements are expected to increase versus 1994, but
+the long-term outlook is uncertain.
+ 
+The electronic pager business has been very slow to develop. A one-way
+communications device that receives its signal from FM radio stations, this
+pager and its related system design is now fully functional. Sparton's business
+development staff is aggressively pursuing pager opportunities worldwide.
+
+
+
+[THE FOLLOWING ARE PHOTO CAPTIONS FOR THIS PAGE]
+ 
+ 
+MEDICAL EQUIPMENT BY
+SPARTON ELECTRONICS
+ 
+
+TELECOMMUNICATIONS
+EQUIPMENT BY
+SPARTON ELECTRONICS
+
+ 
+ELECTRONICS AND CABLE
+DESIGN AND MANUFACTURE
+(LEFT) AND PRINTED
+CIRCUIT BOARDS (RIGHT) BY
+SPARTON ELECTRONICS
+ 
+
+4
+<PAGE>   7
+ 
+                    SPARTON OF CANADA, LTD.
+                    .........................
+
+   [PHOTO]            MARK W. PICKARD
+                      Vice President-
+                      General Manager
+                      Sparton of Canada, Ltd.
+
+In 1994, Sparton of Canada (SOC) continued its diversification effort to develop
+a significant commercial product line. Sales declined 60% versus the previous
+year and a loss was incurred. Significant work force reductions were completed
+during the year.
+ 
+Operational highlights included ISO 9001 registration and the receipt of the
+U.S. Defense General Supply Center (DGSC) Quality Vendor Award of Excellence.
+The award was presented to SOC when it met the Center's stringent quality, price
+and delivery requirements on solid state, high-voltage power supplies.
+ 
+Results were mixed for the bathythermograph business. These air-, ship-, and
+submarine-launched devices measure ocean temperatures as they descend in the
+water. This product line has earned wide international customer acceptance, but
+defense cuts and budget-related acquisition delays resulted in lower than
+anticipated sales.
+ 
+Sparton of Canada delivered a Deployable Acoustic Calibration System (DACS) to
+the Canadian Navy during 1994. This represents the first sale of a full naval
+system with proprietary technology. DACS has the potential for international
+sales once in service in Canada. Furthermore, an SOC Free Flooded Ring (FFR)
+sonar projector completed significant demonstration trials. FFR technology,
+having achieved worldwide recognition, is being seriously considered by a
+foreign navy. International interest in this proprietary product is growing
+rapidly.
+ 
+Progress was made in commercial diversification. The Sparton Marine Products'
+Temperature Profiling System (TiPS(TM)) made a successful debut. This
+bathythermograph system for the worldwide commercial fisheries industry is
+expected to show continued growth as user acceptance continues. More
+importantly, efforts were initiated to establish a Canadian-based regional
+presence for contract manufacturing services. This resulted in a number of new
+customer contacts. One contract was completed to design and produce a custom
+power supply for an expanding Canadian wastewater treatment firm.
+ 
+
+                     SPARTON TECHNOLOGY, INC.
+                     ........................
+
+    [PHOTO]           RICHARD D. MICO
+                      Vice President-
+                      General Manager
+                      Sparton Technology, Inc.
+
+Sales at Sparton Technology, Inc. (STI) declined in 1994 and a small loss was
+incurred. Sales of defense-related products declined substantially and its
+contract manufacturing of wiring harnesses, support frames and electronic
+products for a prime contractor to the U.S. Postal Service ended.
+ 
+Proprietary product sales remained solid. STI completed its first major sale of
+cable pressure monitoring equipment to Mexico. In addition, a PowerComTM power
+management system was sold there. PowerComTM systems are installed in
+telecommunications companies' central and satellite
+
+
+[THE FOLLOWING ARE PHOTO CAPTIONS FOR THIS PAGE]
+
+
+SHIP-LAUNCHED
+BATHYTHER-
+MOGRAPH BY
+SPARTON OF
+CANADA, LTD.
+
+ 
+AIR-LAUNCHED
+BATHYTHER-
+MOGRAPH BY
+SPARTON OF
+CANADA, LTD.
+
+ 
+      5353 BATTERY
+MONITOR BY SPARTON
+  TECHNOLOGY, INC.
+ 
+
+ 
+                                                                             5
+<PAGE>   8
+ 
+SPARTON CORPORATION
+ 
+            CONTINUED
+ 
+offices to monitor and control electric power. Mainland China continued to
+purchase pressure monitoring equipment during the year. These purchases,
+together with a variety of other international contracts, have pushed export
+sales to over 25% of total sales at STI. Interest in power and battery
+monitoring equipment continues to grow both in the U.S. and overseas due to
+personnel reductions at the telephone companies. Several large proposals for
+proprietary products are pending with major telecommunications companies.
+ 
+STI received the 1994 Governor's New Engineering Product award from the State of
+New Mexico. The recognition was given for the design, development, production
+and distribution of its 5353 Battery Monitoring system.
+ 
+Bus wiring harness and electronics revenues increased notably during 1994. This
+business shows good long-term potential. Remote Utility Meter Reading was a
+disappointment to Sparton Technology as ongoing market tests have yet to result
+in a production order. This is not seen as a significant product for the
+near-term.
+ 
+A significant development contract was received from a Fortune 500 company for
+tone alert receivers. These emergency alarm receivers will be placed in
+residences, schools, hospitals, nursing homes, businesses and other key
+facilities located near chemical stockpiles. Prototypes of these Chemical
+Stockpile Preparedness Program (CSEPP) receivers are to be delivered in the
+first quarter of 1995. A follow-on production contract is possible.
+ 
+STI has acquired the rights to The ReceptionistTM, an automatically attended
+telephone routing switcher. This device, developed by a New York firm, is
+intended for use by small businesses, home offices and consumers. There is the
+potential to develop a complete line of related products.
+ 
+
+                     AUTOMOTIVE & INDUSTRIAL PRODUCTS   
+
+                     SPARTON ENGINEERED PRODUCTS, INC.- 
+                     KPI GROUP
+                     ...................................
+
+    [PHOTO]           JERRY R. GAUSE
+                      Vice President-
+                      General Manager
+                      Sparton Engineered
+                      Products, Inc. -
+                      KPI Group
+
+Fiscal 1994 featured record sales and steady profits at Sparton Engineered
+Products, Inc. - KPI Group (KPI). The increase in sales was attributable to
+greater new vehicle sales and new product launches of automatic transmission
+shifters, undercarriage spare tire carriers, metal airbag inflator bodies and
+reaction canisters. The unit's two-year 90% sales growth, however, created
+manufacturing difficulties that reduced profitability. A very competitive labor
+market added unanticipated expenses relating to turnover and training.
+Engineering and manufacturing problems on a new airbag program resulted in
+significant additional costs. Increased demands in customer requirements added
+costs for technical support, warranty analysis and management of KPI's
+suppliers. Margins were also adversely impacted by previously agreed-to price
+reductions contained in a long-term agreement with a major customer, higher than
+expected costs of a new European shifter program and several engineering changes
+to existing products.
+ 
+Significant capital expenditures were made to accommodate future growth. A
+manufacturing plant was purchased in Hartford City, Indiana. Production
+shipments from this facility began in the first quarter of 1995. Administrative
+space at the Grand Haven, Michigan headquarters was doubled due to the necessary
+increase in KPI's support staff.
+ 
+New production items for 1995 include one parking brake, three shifters, one
+spare tire carrier and five metal airbag components.
+ 
+The largest new shifter contract is for the North American versions of a major
+customer's World Car. KPI already ships similar shifters to Europe for the
+customer's related models.
+ 
+                                       
+[THE FOLLOWING ARE PHOTO CAPTIONS FOR THIS PAGE]
+
+
+   METAL AIRBAG COMPONENTS                      AUTOMOTIVE     
+     BY SPARTON ENGINEERED                      SHIFTERS       
+PRODUCTS, INC. - KPI GROUP                      BY SPARTON     
+                                                ENGINEERED     
+                                                PRODUCTS, INC. 
+                                                -KPI GROUP     
+               
+6
+
+<PAGE>   9
+
+ 
+                      SPARTON ENGINEERED PRODUCTS, INC.-
+                      LAKE ODESSA GROUP
+                     ..................................
+
+    [PHOTO]           GARY A. WHITE
+                      Vice President-
+                      General Manager
+                      Sparton Engineered
+                      Products, Inc. -
+                      Lake Odessa Group
+
+Sparton Engineered Products, Inc. - Lake Odessa Group (Lake Odessa) reported an
+operating loss on a modest increase in sales revenues. A major expense was
+incurred when its leased administrative and manufacturing center was closed
+early in 1994 and a replacement production facility was reopened at Gladwin,
+Michigan. The administrative and engineering center was relocated to another
+leased facility in Kentwood, Michigan.
+ 
+Operating margins were negatively impacted by continued competitive pricing
+pressures and selected raw material price increases. Additional unanticipated
+expenses were incurred due to the start-up of a new brake/accelerator pedal
+program.
+ 
+Lake Odessa was awarded a large contract for a brake pedal module on a new
+customer's remodeled minivan. Production is scheduled to start in January 1995.
+This customer has also added Lake Odessa to its long-term supplier program,
+allowing it to participate in advanced vehicle design programs.
+ 
+Lake Odessa continues to develop its capabilities to compete in today's
+worldwide marketplace. The organization is actively pursuing new opportunities
+with several international automobile companies.
+ 
+
+                      SPARTON ENGINEERED PRODUCTS, INC.- 
+                      FLORA GROUP
+                     ..................................
+
+   [PHOTO]            WILLIAM C. MIRGAIN
+                      Vice President-
+                      General Manager
+                      Sparton Engineered
+                      Products, Inc. -
+                      Flora Group
+
+The strong North American automotive marketplace and several new horn contracts
+boosted sales at Sparton Engineered Products, Inc. - Flora Group (Flora) during
+the year. This increase required the addition of a third shift and a seven day
+production schedule for most of the second half of the year.
+ 
+The city of Flora, Illinois developed a severe labor shortage in 1994 due to the
+rapid expansion in employment at several automotive suppliers in the area. As
+these suppliers competed for a limited labor market, Flora Group and the others
+were forced to hire temporary employees. The combination of an added third
+shift, seven day a week production and temporary employees resulted in higher
+production costs than were anticipated. This situation, plus the lack of
+resolution of several pricing issues, led to a loss for the year.
+ 
+In light of the Flora labor market and the need for added production capacity to
+fulfill horn demand, a decision was made to add a second production line at its
+plant in Grayville, Illinois. This new line is to be at full production in
+October 1994.
+ 
+Contract manufacturing of telecommunications products increased significantly in
+1994 and is anticipated to experience added growth over the next several years.
+ 
+A limited capacity electronic horn production line was completed and small
+quantities of these horns have been shipped to customers. Both the seashell and
+vibrator versions of the World ClassTM electronic horn have successfully passed
+required tests for European Economic Community (EEC) and United Nations Economic
+Commission for Europe (ECE) registration approvals. These approvals clear the
+way for European sales and distribution.
+ 
+New business opportunities for both electromechanical and electronic horns are
+being actively pursued internationally by Flora Group.
+ 
+
+[THE FOLLOWING ARE PHOTO CAPTIONS FOR THIS PAGE]
+
+
+BRAKE PEDAL                   SEASHELL HORN (TOP)   
+MODULE BY                     AND VIBRATOR HORN     
+SPARTON                       (BOTTOM) BY           
+ENGINEERED                    SPARTON ENGINEERED    
+PRODUCTS, INC.                PRODUCTS, INC. -      
+- - -LAKE ODESSA                  FLORA GROUP           
+GROUP
+                                                                            7
+<PAGE>   10
+
+<TABLE>
+ 
+CONSOLIDATED BALANCE SHEETS
+ 
+            SPARTON CORPORATION & SUBSIDIARIES
+ 
+            June 30, 1994 and 1993
+            --------------------------------------------------------------------------------------------
+ 
+<CAPTION>
+                ASSETS                                                         1994             1993
+                                                                           ------------     ------------
+                <S>                                                        <C>              <C>
+                Current assets:
+                     Cash                                                  $  1,713,718     $  2,560,566
+                     Income taxes recoverable                                 2,591,000               --
+                     Accounts receivable:
+                       Trade, less allowance of $103,000
+                       ($339,000 in 1993) for doubtful accounts              24,783,888       21,496,823
+                       U.S. and foreign governments                           7,149,291       10,122,048
+                     Inventories (Notes 1 and 2)                             45,835,914       47,419,133
+                     Prepaid expenses (Note 7)                                2,434,109        2,362,297
+                                                                           ------------     ------------
+                       Total current assets                                  84,507,920       83,960,867
+                Other assets (Note 6)                                         3,060,062        2,673,690
+                Property, plant and equipment, at cost:
+                     Land and land improvements                               1,823,505        1,423,920
+                     Buildings and building equipment                        19,184,574       17,423,631
+                     Machinery and equipment                                 38,675,057       34,352,547
+                                                                           ------------     ------------
+                                                                             59,683,136       53,200,098
+                     Less accumulated depreciation                          (38,529,178)     (35,445,936)
+                                                                           ------------     ------------
+                       Net property, plant and equipment                     21,153,958       17,754,162
+                                                                           ------------     ------------
+                                                                           $108,721,940     $104,388,719
+                                                                           ============     ============
+<FN> 
+                See accompanying notes
+</TABLE>
+_______________________________________________________________________________
+FINANCIAL TRENDS AT A GLANCE
+
+NET SALES
+(IN MILLIONS OF DOLLARS)
+
+  '90      '91        '92       '93      '94
+- - ----------------------------------------------
+$178.1    $214.4    $245.4    $233.1    $201.2
+
+
+NET INCOME (LOSS) PER COMMON SHARE
+
+  '90      '91        '92       '93      '94
+- - ----------------------------------------------
+($1.19)   $0.53      $1.02     $0.85   ($.63)
+
+
+8
+<PAGE>   11
+ 
+<TABLE>
+<CAPTION>
+                LIABILITIES AND SHAREOWNERS' EQUITY                            1994             1993
+                                                                           ------------     ------------
+                <S>                                                        <C>              <C>
+                Current liabilities:
+                     Notes payable (Note 3)                                $ 20,614,550     $  3,880,000
+                     Accounts payable (Note 2)                               12,872,286       18,900,081
+                     Salaries and wages                                       2,840,827        3,215,012
+                     Income taxes                                               446,331        1,078,584
+                     Accrued liabilities                                      5,529,385        5,675,020
+                                                                           ------------     ------------
+                       Total current liabilities                             42,303,379       32,748,697
+                Deferred compensation                                         1,912,265        1,924,079
+                Deferred income taxes (Note 7)                                1,809,500        1,965,000
+                Long-term obligations, net of current maturities (Note 4)       626,012          785,120
+                Commitments and contingencies (Note 8)
+                Shareowners' equity:
+                     Preferred stock, serial, no par value;
+                       200,000 shares authorized, none outstanding                   --               --
+                     Common stock, $1.25 par value; 8,500,000
+                       shares authorized, 7,811,370 shares outstanding
+                       (7,810,370 in 1993) after deducting 123,342 shares
+                       (124,342 in 1993) in treasury (Notes 1 and 5)          9,764,213        9,762,963
+                     Capital in excess of par value                             403,067          399,942
+                     Retained earnings                                       51,903,504       56,802,918
+                                                                           ------------     ------------
+                       Total shareowners' equity                             62,070,784       66,965,823
+                                                                           ------------     ------------
+                                                                           $108,721,940     $104,388,719
+                                                                           ============     ============
+</TABLE>
+______________________________________________________________________________
+
+EQUITY PER COMMON SHARE
+
+  '90       '91      '92      '93      '94
+- - ---------------------------------------------
+ $6.18     $6.71    $7.74    $8.57    $7.95
+
+
+WORKING CAPITAL
+(IN MILLIONS OF DOLLARS)
+
+  '90       '91      '92      '93      '94
+- - ---------------------------------------------
+ $24.1     $37.3    $45.3    $51.2    $42.2
+
+
+
+ 
+                                                                              9
+<PAGE>   12
+
+<TABLE>
+ 
+CONSOLIDATED STATEMENTS OF OPERATIONS
+ 
+            SPARTON CORPORATION & SUBSIDIARIES
+ 
+            Years Ended June 30, 1994, 1993 and 1992
+            ----------------------------------------------------------------------------------------------
+ 
+<CAPTION>
+                                                                1994             1993             1992
+                                                            ------------     ------------     ------------
+                <S>                                         <C>              <C>              <C>
+                Net sales.................................  $201,174,104     $233,052,133     $245,379,966
+                Costs and expenses:
+                     Costs of goods sold..................   183,941,559      198,059,278      210,885,656
+                     Selling and administrative...........    24,038,992       23,977,155       22,028,891
+                                                            ------------     ------------     ------------
+                                                             207,980,551      222,036,433      232,914,547
+                                                            ------------     ------------     ------------
+                                                              (6,806,447)      11,015,700       12,465,419
+                Other income (expense):
+                     Interest.............................      (685,279)        (601,975)      (1,073,423)
+                     Other--net...........................       471,312          229,217          417,295
+                                                            ------------     ------------     ------------
+                                                                (213,967)        (372,758)        (656,128)
+                                                            ------------     ------------     ------------
+                Income (loss) before income taxes.........    (7,020,414)      10,642,942       11,809,291
+                Provision (credit) for income
+                     taxes (Notes 1 and 7)................    (2,121,000)       4,005,000        3,841,000
+                                                            ------------     ------------     ------------
+                Net income (loss).........................  $ (4,899,414)    $  6,637,942     $  7,968,291
+                                                            ============     ============     ============
+                Net income (loss) per share of
+                     common stock............................      $(.63)            $.85            $1.02
+                                                                   =====             ====            =====
+<FN> 
+            See accompanying notes
+</TABLE>
+________________________________________________________________________________
+
+FINANCIAL TRENDS AT A GLANCE
+     CONTINUED
+
+GOVERNMENT SALES
+(IN MILLIONS OF DOLLARS)
+                             
+  '90       '91      '92       '93       '94
+- - ----------------------------------------------
+ $99.0    $139.6    $165.0    $111.1    $50.2
+
+
+COMMERCIAL SALES
+(IN MILLIONS OF DOLLARS)
+
+  '90       '91      '92      '93       '94
+- - ----------------------------------------------
+ $79.1     $74.8    $80.4    $122.0    $151.0
+ 
+                                       
+10
+<PAGE>   13
+
+<TABLE>
+ 
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+ 
+            SPARTON CORPORATION & SUBSIDIARIES
+ 
+            Years Ended June 30, 1994, 1993 and 1992
+            -------------------------------------------------------------------------------------------
+ 
+<CAPTION>
+                     OPERATING ACTIVITIES:                     1994            1993            1992
+                                                            -----------     -----------     -----------
+                <S>                                         <C>             <C>             <C>
+                     Net income (loss)....................  $(4,899,414)    $ 6,637,942     $ 7,968,291
+                     Add (deduct) non-cash items affecting
+                       continuing operations:
+                          Depreciation....................    3,488,907       3,074,963       2,729,582
+                          Deferred income taxes...........      102,000         517,000         249,000
+                          Other...........................     (470,104)       (363,243)         35,252
+                     Add (deduct) changes in operating
+                       assets and liabilities:
+                          Income taxes recoverable........   (2,591,000)        348,580         157,337
+                          Accounts receivable.............     (314,308)       (668,129)      2,871,259
+                          Inventories and prepaid
+                            expenses......................    1,666,407      (5,906,256)      1,422,826
+                          Accounts payable, salaries and
+                            wages, accrued liabilities and
+                            income taxes..................   (7,592,865)      4,119,432      (4,356,107)
+                                                            -----------     -----------     -----------
+                       NET CASH (USED) PROVIDED BY
+                          OPERATING ACTIVITIES............  (10,610,377)      7,760,289      11,077,440
+                INVESTING ACTIVITIES:
+                     Purchases of property, plant and
+                       equipment..........................   (6,911,908)     (3,381,636)     (3,053,919)
+                     Proceeds from sale of property, plant
+                       and equipment......................       23,205          13,362         267,042
+                     Other................................       71,918         (62,846)         86,072
+                                                            -----------     -----------     -----------
+                       NET CASH USED BY INVESTING
+                          ACTIVITIES......................   (6,816,785)     (3,431,120)     (2,700,805)
+                FINANCING ACTIVITIES:
+                     Increase (decrease) in notes
+                       payable............................   16,734,550      (5,078,810)     (8,022,990)
+                     Proceeds from the exercise of stock
+                       options............................        4,375          51,938              --
+                     Principal payments on long-term
+                       borrowings.........................     (158,611)       (157,916)       (157,313)
+                                                            -----------     -----------     -----------
+                       NET CASH PROVIDED (USED) BY
+                          FINANCING ACTIVITIES............   16,580,314      (5,184,788)     (8,180,303)
+                                                            -----------     -----------     -----------
+                INCREASE (DECREASE) IN CASH...............     (846,848)       (855,619)        196,332
+                     Cash at beginning of year............    2,560,566       3,416,185       3,219,853
+                                                            -----------     -----------     -----------
+                CASH AT END OF YEAR.......................  $ 1,713,718     $ 2,560,566     $ 3,416,185
+                                                            ===========     ===========     ===========
+                Supplemental disclosures of cash paid
+                     during the year for:
+                       Interest...........................  $   672,199     $   580,508     $ 1,070,364
+                                                            ===========     ===========     ===========
+                       Income taxes.......................  $   984,844     $ 3,103,929     $ 5,193,419
+                                                            ===========     ===========     ===========
+<FN> 
+                See accompanying notes
+</TABLE>
+
+
+ 
+                                                                            11
+<PAGE>   14
+<TABLE>
+CONSOLIDATED STATEMENTS OF SHAREOWNERS' EQUITY
+ 
+            SPARTON CORPORATION & SUBSIDIARIES
+ 
+            Years Ended June 30, 1994, 1993 and 1992
+            ---------------------------------------------------------------------------------------------------------
+<CAPTION>
+                                                                              Capital
+                                                                                 in
+                                                      Common stock,            excess
+                                                     $1.25 par value             of
+                                                -------------------------       par         Retained
+                                                  Shares         Amount        value        earnings          Total
+                                                ----------     ----------     --------     -----------     -----------
+                <S>                             <C>            <C>            <C>          <C>             <C>
+                Balance July 1, 1991..........   7,791,672     $9,739,590     $371,377     $42,196,685     $52,307,652
+                     Net income...............                                               7,968,291       7,968,291
+                                                ----------     ----------     --------     -----------     -----------
+                Balance June 30, 1992.........   7,791,672      9,739,590      371,377      50,164,976      60,275,943
+                     Net income...............                                               6,637,942       6,637,942
+                     Exercise of stock
+                       options................      18,698         23,373       28,565                          51,938
+                                                ----------     ----------     --------     -----------     -----------
+                Balance June 30, 1993.........   7,810,370      9,762,963      399,942      56,802,918      66,965,823
+                     Net income (loss)........                                              (4,899,414)     (4,899,414)
+                     Exercise of stock
+                       options................       1,000          1,250        3,125                           4,375
+                                                ----------     ----------     --------     -----------     -----------
+                Balance June 30, 1994.........   7,811,370     $9,764,213     $403,067     $51,903,504     $62,070,784
+                                                 =========     ==========    =========     ===========     ===========
+<FN> 
+                See accompanying notes
+</TABLE>
+
+
+REPORT OF INDEPENDENT AUDITORS
+ 
+            The Board of Directors and Shareowners
+            Sparton Corporation
+ 
+            We have audited the accompanying consolidated balance sheets of
+            Sparton Corporation and subsidiaries as of June 30, 1994 and 1993,
+            and the related consolidated statements of operations, shareowners'
+            equity, and cash flows for each of the three years in the period
+            ended June 30, 1994. These financial statements are the
+            responsibility of the Company's management. Our responsibility is to
+            express an opinion on these financial statements based on our
+            audits.
+ 
+            We conducted our audits in accordance with generally accepted
+            auditing standards. Those standards require that we plan and perform
+            the audit to obtain reasonable assurance about whether the financial
+            statements are free of material misstatement. An audit includes
+            examining, on a test basis, evidence supporting the amounts and
+            disclosures in the financial statements. An audit also includes
+            assessing the accounting principles used and significant estimates
+            made by management, as well as evaluating the overall financial
+            statement presentation. We believe that our audits provide a
+            reasonable basis for our opinion.
+ 
+            In our opinion, the financial statements referred to above present
+            fairly, in all material respects, the consolidated financial
+            position of Sparton Corporation and subsidiaries at June 30, 1994
+            and 1993, and the consolidated results of their operations and their
+            cash flows for each of the three years in the period ended June 30,
+            1994, in conformity with generally accepted accounting principles.
+ 
+            As discussed in Note 1 to the financial statements, in the year
+            ended June 30, 1994, the Company changed its methods of accounting
+            for income taxes and postemployment benefits.
+ 
+                                                             ERNST & YOUNG LLP
+
+            Toledo, Ohio
+            August 19, 1994
+12
+
+<PAGE>   15
+ 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 
+            SPARTON CORPORATION & SUBSIDIARIES
+ 
+            1. STATEMENT OF SIGNIFICANT ACCOUNTING POLICIES
+ 
+            BASIS OF PRESENTATION -- The consolidated financial statements
+            include the accounts of Sparton Corporation and all subsidiaries.
+            All significant intercompany transactions and accounts have been
+            eliminated.
+ 
+            CONTRACT ACCOUNTING -- Long-term contracts relate principally to
+            government defense and commercial contracts within the Electronics
+            segment. Production contracts are accounted for based on completed
+            units shipped and their estimated average contract cost per unit.
+            Development contracts are accounted for based on percentage
+            completion. Costs and fees billed under cost reimbursement type
+            contracts are recorded as sales.
+ 
+            CREDIT PRACTICES -- The Company manufactures and sells products
+            principally in the commercial electronics, defense and automotive
+            manufacturing industries. Credit terms are granted and periodically
+            revised based on evaluations of the customers' financial condition
+            with collateral generally not required. Receivables from foreign
+            customers are generally secured by letters of credit. Credit losses
+            relating to customers consistently have been within management's
+            expectations and comparable to losses incurred by organizations
+            similar to the Company.
+ 
+            INVENTORIES -- Inventories are valued at the lower of cost
+            (first-in, first-out basis) or market.
+ 
+            DEPRECIATION AND AMORTIZATION -- Depreciation is provided over
+            estimated useful lives on accelerated methods, except for certain
+            buildings, machinery and equipment with an aggregate cost of
+            approximately $13,404,000 at June 30, 1994, which are being
+            depreciated on the straight-line method.
+ 
+            TREASURY STOCK -- The excess of cost over par value allocated to
+            capital in excess of par value of shares acquired for the treasury
+            is based on the per share amount of capital in excess of par value
+            for all shares, with the difference charged to retained earnings.
+ 
+            RESEARCH AND DEVELOPMENT EXPENDITURES -- Expenditures for research
+            and development not funded by customers amounted to approximately
+            $3,424,000 in 1994, $3,356,000 in 1993, and $2,671,000 in 1992.
+ 
+            EARNINGS PER SHARE -- Earnings per share are computed using the
+            weighted average number of common shares outstanding of 7,810,721 in
+            1994, 7,800,543 in 1993 and 7,791,672 in 1992. Inclusion of
+            outstanding stock options in the computation would not result in any
+            significant dilution.
+ 
+            CHANGES IN METHODS OF ACCOUNTING -- Effective the first quarter of
+            1994, the Company adopted Statement of Financial Accounting
+            Standards (SFAS) No. 109, "Accounting for Income Taxes." Under this
+            method, deferred tax assets and liabilities are determined based on
+            differences between financial reporting and tax bases of assets and
+            liabilities. They are measured using the enacted tax rates and laws
+            that will be in effect when such differences are expected to
+            reverse. Prior years' financial statements have not been restated to
+            apply the provisions of SFAS No. 109 and, accordingly, reflect the
+            deferred method. Under the deferred method, deferred income tax
+            provisions were made for all timing differences between earnings for
+            financial reporting and income tax purposes. The adoption of SFAS
+            No. 109 has not changed the actual amount of income tax paid by the
+            Company. The cumulative effect of this accounting change was to
+            decrease the net loss for the first quarter of fiscal 1994 by
+            $264,000 ($.03 per share).
+ 
+            In the fourth quarter of 1994, the Company elected to early adopt
+            Statement of Financial Accounting Standards No. 112, "Employers'
+            Accounting for Postemployment Benefits," retroactively as of July 1,
+            1993. Under this new method of accounting, the Company accrues
+            disability benefits when it becomes probable that such benefits will
+            be paid and when sufficient information exists to make reasonable
+            estimates of the amounts to be paid. Prior to adoption, the Company
+            recognized the cost of providing these benefits on a cash basis.
+            Prior years' financial statements have not been restated. The
+            cumulative effect of this accounting change was to increase the net
+            loss for the first quarter of 1994 by $264,000 ($.03 per share), net
+            of income taxes of $149,000. The effect of this accounting change on
+            1994 operations was not material.
+ 
+
+
+
+
+
+
+            2. LONG-TERM CONTRACTS
+ 
+            Inventories include costs related to long-term contracts of
+            approximately $23,439,000 and $38,970,000 at June 30, 1994 and 1993,
+            respectively, reduced by progress billings from the United States
+            Government of approximately $5,627,000 and $6,900,000, respectively.
+ 
+            Accounts payable includes billings in excess of costs of $1,236,000
+            and $6,995,000 at June 30, 1994 and 1993, respectively.
+ 
+            3. SHORT-TERM LOANS AND CREDIT AVAILABILITY
+ 
+            At June 30, 1994, the Company has unsecured, informal lines of
+            credit totalling $26,500,000 with three separate banks. At June 30,
+            1994, $20,000,000 was outstanding under these agreements. The
+            Company's Canadian subsidiary maintains a revolving credit facility
+            (the Facility) with a Canadian bank for borrowings up to $723,000.
+            The Facility is unsecured and due on demand. At June 30, 1994,
+            $615,000 was outstanding under this Facility.
+ 
+                                                                            13
+<PAGE>   16
+ 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 
+            CONTINUED
+ 
+            4. LONG-TERM OBLIGATIONS AND LEASE INFORMATION
+ 
+            Long-term obligations consisted of the following at June 30, 1994
+            and 1993:
+ 
+<TABLE>
+<CAPTION>
+                                                                                             1994         1993
+                                                                                           --------     --------
+                  <S>                                                                      <C>          <C>
+                  Unsecured 3% notes payable...................................       $464,101     $547,636
+                  Capitalized lease obligation.................................        300,000      375,000
+                                                                                           --------     --------
+                                                                                            764,101      922,636
+                  Less current maturities,
+                       included in accrued liabilities..............................       (138,089)    (137,516)
+                                                                                           --------     --------
+                                                                                           $626,012     $785,120
+                                                                                           ========     ========
+</TABLE>
+ 
+            Annual maturities of long-term obligations, including the principal
+            portion of the capital lease, for the years subsequent to June 30,
+            1994 are as follows: 1995 - $138,000, 1996 - $160,000, 1997 -
+            $160,000, 1998 - $161,000, 1999 - $145,000.
+ 
+            The Company leases various facilities and equipment under agreements
+            accounted for as operating leases. Rent expense amounted to
+            approximately $1,980,000, $2,145,000 and $2,404,000 in 1994, 1993
+            and 1992, respectively. Commitments under these leases are not
+            significant.
+ 
+            5. STOCK OPTIONS
+ 
+            The Company has an incentive stock option plan under which 400,000
+            common shares were reserved for option grants to key employees at
+            the fair market value of the stock at the date of the grant. Under
+            the plan, the options generally become exercisable cumulatively,
+            beginning one year after the date granted, in equal annual
+            installments. Individual grants may have a stock appreciation rights
+            feature whereby optionees can surrender up to one-half of their
+            unexercised options to the extent then exercisable in exchange for
+            cash or common shares equal to the difference between the then
+            current market value and the option prices for shares issuable upon
+            surrender of such options. In addition, the plan permits the Company
+            to award restricted stock to eligible employees, providing the
+            recipient with limited ability to sell or otherwise transfer the
+            restricted shares.
+ 
+            Information on options is as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                                                    Shares
+                                                                                     Under
+                                                                                    Option          Price Range
+                                                                                    -------        --------------
+                  <S>                                                               <C>            <C>
+                  Outstanding at July 1, 1991...................................     93,896        $2.69 to $4.38
+                       Cancelled................................................     (1,800)                 4.38
+                                                                                    -------        --------------
+                  Outstanding at June 30, 1992..................................     92,096         2.69 to  4.38
+                       Granted..................................................     71,000                  6.63
+                       Exercised (17,698 as stock
+                         appreciation rights)...................................    (36,396)        2.69 to  4.38
+                       Cancelled................................................     (4,900)        4.38 to  6.63
+                                                                                    -------        --------------
+                  Outstanding at June 30, 1993..................................    121,800         4.38 to  6.63
+                       Exercised................................................     (1,000)                 4.38
+                       Cancelled................................................     (9,200)        4.38 to  6.63
+                                                                                    -------        --------------
+                  Outstanding at June 30, 1994..................................    111,600        $4.38 to $6.63
+                                                                                    =======          ============
+</TABLE>
+ 
+            At June 30, 1994 there were 286,400 shares reserved for option
+            grants and 60,172 share options exercisable which expire in 1995
+            through 1999. The remaining 51,428 share options outstanding become
+            exercisable beginning in 1995 and expire through 1999.
+ 
+
+
+
+
+
+
+            6. EMPLOYEE BENEFIT PLANS
+ 
+            The Company has a contributory pension plan for the benefit of
+            certain salaried and hourly employees. Basic plan benefits are based
+            upon the participants' years of service. Additional benefits are
+            available to contributory participants based upon their years of
+            contributory service and compensation. The Company's policy is to
+            fund the plan based upon legal requirements and tax regulations.
+ 
+            The following major assumptions were used in the actuarial
+            valuations:
+ 
+<TABLE>
+                  <S>                                                                                    <C>
+                  Long-term rate of investment return................................................    8.0%
+                  Long-term rate of increase in compensation levels..................................    5.0%
+                  Discount rate......................................................................    7.5%
+</TABLE>
+ 
+14
+<PAGE>   17
+            Net periodic pension income of $458,000, $576,000 and $273,000 was
+            recognized in 1994, 1993 and 1992, respectively. The components of
+            these credits are as follows:
+<TABLE>
+<CAPTION>
+                                                                           1994            1993            1992
+                                                                        -----------     -----------     -----------
+                  <S>                                                   <C>             <C>             <C>
+                  Service cost-benefits earned during the year......    $   240,000     $   178,000     $   286,000
+                  Interest on projected benefit obligation..........        599,000         577,000         633,000
+                  Actual return on plan assets......................       (251,000)       (571,000)     (2,555,000)
+                  Net amortization and deferral.....................     (1,046,000)       (760,000)      1,363,000
+                                                                        -----------     -----------     -----------
+                       Net periodic pension income..................    $  (458,000)    $  (576,000)    $  (273,000)
+                                                                         ==========      ==========      ==========
+</TABLE>
+            The following table summarizes the funding status of the plan at
+            March 31:
+<TABLE>
+<CAPTION>
+                                                                                         1994            1993
+                                                                                      -----------     -----------
+                  <S>                                                                 <C>             <C>
+                  Actuarial present value of benefit obligations:
+                       Accumulated benefit obligation:
+                            Vested................................................    $ 6,754,000     $ 6,346,000
+                            Nonvested.............................................        160,000         138,000
+                                                                                      -----------     -----------
+                                                                                      $ 6,914,000     $ 6,484,000
+                                                                                       ==========      ==========
+                  Projected benefit obligation....................................    $ 8,197,000     $ 7,434,000
+                  Market value of plan assets consisting principally of common
+                       stock (including 319,100 shares of the Company's common
+                       stock), corporate bonds and U.S. Government obligations...      12,523,000      12,978,000
+                                                                                      -----------     -----------
+                  Excess of plan assets over projected benefit obligation.........      4,326,000       5,544,000
+                  Unrecognized net loss (gain)....................................        969,000        (410,000)
+                  Unrecognized net transition asset...............................     (2,371,000)     (2,668,000)
+                                                                                      -----------     -----------
+                  Prepaid pension cost included in other assets...................    $ 2,924,000     $ 2,466,000
+                                                                                       ==========      ==========
+</TABLE>
+            The Company also maintains several contributory progress sharing
+            retirement plans. The aggregate costs of these plans amounted to
+            $484,000 for 1994, $485,000 for 1993 and $500,000 for 1992.
+ 
+            7. INCOME TAXES
+ 
+            During the first quarter of 1994, the Company adopted SFAS No. 109,
+            "Accounting for Income Taxes." The Statement requires the use of the
+            asset and liability approach for financial accounting and reporting
+            for income taxes (liability method). Under this method, deferred tax
+            assets and liabilities are determined based on differences between
+            financial reporting and tax bases of assets and liabilities.
+            Financial statements for prior years have not been restated.
+            Comparative income tax information is reflected under the liability
+            method for 1994 and the deferred method for 1993 and 1992.
+ 
+            The cumulative effect of adopting SFAS No. 109 as of July 1, 1993
+            was to decrease the net loss by $264,000 ($.03 per share), primarily
+            due to a reduction in the expected tax rates used to measure the
+            deferred tax assets and liabilities.
+ 
+            Significant components of the Company's deferred tax assets and
+            liabilities at June 30, 1994 are as follows:
+<TABLE>
+                  <S>                                                                               <C>
+                  Deferred tax assets:
+                    Canadian tax carryovers.....................................................    $ 1,304,000
+                    Employment and compensation.................................................      1,231,000
+                    Inventories.................................................................      1,164,000
+                    Other.......................................................................        397,000
+                                                                                                    -----------
+                       Total deferred tax assets................................................      4,096,000
+                    Less valuation reserve for Canadian tax carryovers..........................     (1,304,000)
+                                                                                                    -----------
+                                                                                                      2,792,000
+                  Deferred tax liabilities:
+                    Property, plant and equipment...............................................      1,593,000
+                    Prepaid pension costs.......................................................      1,053,000
+                                                                                                    -----------
+                       Total deferred tax liabilities...........................................      2,646,000
+                                                                                                    -----------
+                       Net deferred tax assets..................................................    $   146,000
+                                                                                                     ==========
+</TABLE>
+                                                                            15
+<PAGE>   18
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 
+            CONTINUED
+ 
+            Deferred taxes are included in the balance sheet at June 30, 1994 as
+            follows:
+<TABLE>
+                  <S>                                                                               <C>
+                  Prepaid expenses..............................................................    $ 1,955,500
+                  Deferred tax liabilities......................................................      1,809,500
+                                                                                                    -----------
+                                                                                                    $   146,000
+                                                                                                     ==========
+</TABLE>
+            Significant timing differences affecting deferred taxes in 1993 and
+            1992 were inventory valuation for financial reporting purposes under
+            those for tax purposes of $970,000 and $1,041,000, respectively. The
+            1993 deferred taxes also include net periodic pension income not
+            currently taxable of $576,000.
+ 
+            Income (loss) before income taxes consists of the following:
+<TABLE>
+<CAPTION>
+                                                                           1994            1993            1992
+                                                                        -----------     -----------     -----------
+                  <S>                                                   <C>             <C>             <C>
+                  United States.....................................    $(5,625,236)    $12,069,999     $12,459,156
+                  Canada............................................     (1,395,178)     (1,427,057)       (649,865)
+                                                                        -----------     -----------     -----------
+                                                                        $(7,020,414)    $10,642,942     $11,809,291
+                                                                         ==========      ==========      ==========
+</TABLE>
+            The related provision (credit) for income taxes consists of:
+<TABLE>
+<CAPTION>
+                                                                           1994            1993            1992
+                                                                        -----------     -----------     -----------
+                  <S>                                                   <C>             <C>             <C>
+                  Current:
+                       United States................................    $(2,397,000)    $ 3,073,000     $ 3,725,000
+                       Canada.......................................        (32,000)        (48,000)       (243,000)
+                       State and local..............................        206,000         463,000         110,000
+                                                                        -----------     -----------     -----------
+                                                                         (2,223,000)      3,488,000       3,592,000
+                  Deferred:
+                       United States................................        102,000         447,000         270,000
+                       Canada.......................................             --          70,000         (21,000)
+                                                                        -----------     -----------     -----------
+                                                                            102,000         517,000         249,000
+                                                                        -----------     -----------     -----------
+                                                                        $(2,121,000)    $ 4,005,000     $ 3,841,000
+                                                                         ==========      ==========      ==========
+</TABLE>
+            The consolidated effective tax rate differs from the statutory U.S.
+            federal tax rate for the following reasons and by the following
+            percentages:
+<TABLE>
+<CAPTION>
+                                                                             1994            1993           1992
+                                                                            ------           -----          -----
+                  <S>                                                       <C>              <C>            <C>
+                  Statutory U.S. federal tax (benefit) rate..............    (34.0%)          34.0%          34.0%
+                  Significant increases (reductions) resulting from:
+                       Canadian tax loss carryovers......................       6.3             4.7             --
+                       State and local income taxes......................       1.9             2.9            0.6
+                       Tax benefit of foreign sales corporation..........      (2.4)           (2.5)          (1.3)
+                       Other.............................................      (2.0)           (1.5)          (0.8)
+                                                                             ------           -----          -----
+                  Effective tax (benefit) rate...........................    (30.2%)          37.6%          32.5%
+                                                                             ======           =====          =====
+</TABLE>
+            For Canadian income tax purposes, approximately $2,429,000 of
+            non-capital losses and scientific research and experimental
+            development expenditures are available at June 30, 1994 for
+            carryover against income in future tax years. These carryovers begin
+            to expire in the year 2000. In addition, unused investment tax
+            credits of approximately $333,000 at June 30, 1994 are available for
+            carryover against tax liabilities in future tax years. These
+            carryover credits will begin to expire in the year 2004. For
+            financial reporting purposes, a valuation reserve for the full
+            amount of the Canadian carryovers has been established. This
+            valuation reserve amounted to $622,000 at July 1, 1993 and
+            $1,304,000 at June 30, 1994.
+ 
+16
+<PAGE>   19
+            8. COMMITMENTS AND CONTINGENCIES
+ 
+            There are various legal proceedings pending against the Company. In
+            many cases, these proceedings involve ordinary and routine claims
+            incidental to the business of the Company. In others, they represent
+            allegations that are non-routine. The Company and its subsidiaries
+            are also involved in certain compliance issues with the United
+            States Environmental Protection Agency and various state
+            environmental regulatory agencies. The Company has been involved in
+            an environmental clean-up effort at one of its facilities since
+            1983. A reserve of $1,200,000 was established and charged against
+            operations in 1991 in order to cover estimated minimum future costs
+            of this clean-up effort. As of June 30, 1994, the remaining reserve
+            for these future costs at this facility, principally ongoing
+            monitoring, totaled $663,000. The Company has previously recovered
+            all amounts available under insurance policies concerning this
+            clean-up effort.
+ 
+            The ultimate legal and financial liability of the Company in respect
+            to these matters cannot be estimated with certainty. Based upon its
+            own examination and experience to date, and upon information
+            provided by legal counsel and outside consultants, it is
+            management's opinion that the resolution of these matters should not
+            have a material impact on the Company's consolidated financial
+            statements.
+ 
+            9. SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+ 
+            The following unaudited information shows selected items by quarter
+            for the years ended June 30, 1994 and 1993, respectively. As
+            explained in Note 1, Changes in Methods of Accounting, the first
+            quarter 1994 loss and loss per common share have been restated to
+            reflect the retroactive application of SFAS No. 112. This
+            restatement increased the first quarter 1994 net loss by $264,000
+            ($.03 per share) from amounts previously reported.
+<TABLE>
+<CAPTION>
+                                                             First          Second           Third          Fourth
+                                                            Quarter         Quarter         Quarter         Quarter
+                                                          -----------     -----------     -----------     -----------
+                  <S>                                     <C>             <C>             <C>             <C>
+                  Net sales:
+                       1994...........................    $41,392,602     $47,898,718     $51,477,828     $60,404,956
+                       1993...........................     57,716,268      50,113,806      63,016,458      62,205,601
+                  Gross profit:
+                       1994...........................      5,101,531       6,209,244       5,191,543         730,227
+                       1993...........................      7,911,474       7,071,957       8,761,818      11,247,606
+                  Income (loss):
+                       1994...........................       (715,971)        196,231        (562,642)     (3,817,032)
+                       1993...........................      1,194,609         922,502       1,543,887       2,976,944
+                  Income (loss) per common share:
+                       1994...........................          $(.09)           $.03           $(.08)          $(.49)
+                       1993...........................            .15             .12             .20             .38
+</TABLE>
+ 
+            In the fourth quarter of 1994, gross profit was decreased by
+            approximately $4,600,000 due to downward adjustments in the carrying
+            value of inventories and related costs of certain commercial and
+            defense contracts within the Electronics segment.
+ 
+            10. SEGMENT INFORMATION
+ 
+            The Company's operations have been classified into two segments: (1)
+            ELECTRONICS includes micro-processor based systems, transducers,
+            printed circuit boards and assemblies, sensors and electronic and
+            electromechanical contract manufacturing for the telecommunications,
+            electronics and other industries. It also includes sonobuoys which
+            are anti-submarine warfare (ASW) devices used by the U.S. Navy and
+            other free world military establishments. (2) AUTOMOTIVE AND
+            INDUSTRIAL PRODUCTS include electric and air horns for passenger
+            cars, trucks and boats, stampings and assemblies for a variety of
+            passenger cars and trucks including floor shifters, spare tire
+            carriers and metal airbag components, other automotive parts and
+            marine devices and products for the telecommunication industry.
+ 
+            Total sales to the Ford Motor Company were $34,428,000 in 1994,
+            $30,623,000 in 1993 and $19,354,000 in 1992; total sales to General
+            Motors Corporation were $30,962,000, $24,437,000 and $20,220,000 in
+            1994, 1993 and 1992, respectively, from the Automotive and
+            Industrial Products segment. Total direct sales on prime contracts
+            to United States Government agencies were $33,649,000 in 1994,
+            $88,006,000 in 1993 and $123,177,000 in 1992, principally from the
+            Electronics segment. No other customer accounted for 10% or more of
+            consolidated sales in 1994, 1993 or 1992. Trade receivables of the
+            Automotive and Industrial Products segment, principally representing
+            the three largest domestic automotive manufacturers, were
+            approximately $16,522,000, $13,615,000 and $9,968,000 at June 30,
+            1994, 1993 and 1992, respectively.
+                                                                            17
+<PAGE>   20
+ 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 
+            CONTINUED
+ 
+            Foreign export sales by U.S. operations to unaffiliated customers
+            were $34,675,000 in 1994, $32,607,000 in 1993 and $37,789,000 in
+            1992, respectively, with a majority of these sales from the
+            Electronics segment. Sales of ASW devices and related engineering
+            contract services for the years 1994-1990 contributed approximately
+            24%, 45%, 61%, 61% and 50%, respectively, to total sales. Sales of
+            floor shifter assemblies for 1994 and 1993 contributed approximately
+            18% and 13%, respectively, to total sales while sales of horns for
+            1994 contributed approximately 10% to total sales. Sales between
+            segments were not significant in any of these years.
+ 
+            Operating profit is total revenue less operating expenses. In
+            computing operating profit, general corporate expenses and interest
+            expense have not been allocated to business segments. General
+            corporate expenses include general and administrative costs. General
+            corporate assets consist primarily of cash and invested funds,
+            deferred taxes, prepaid pension costs and income taxes recoverable.
+ 
+<TABLE>
+<CAPTION>
+                                                                                   Years ended June 30
+                                                         ------------------------------------------------------------------------
+                                                             1994           1993           1992           1991           1990
+                                                         ------------   ------------   ------------   ------------   ------------
+                                                                                                       (not covered by Report of
+                                                                                                         Independent Auditors)
+                  <S>                                    <C>            <C>            <C>            <C>            <C>
+                  SALES:
+                    Electronics........................  $ 95,453,340   $147,457,053   $180,945,228   $153,775,837   $107,806,247
+                    Automotive and Industrial
+                      Products.........................   105,720,764     85,595,080     64,434,738     60,580,936     70,332,231
+                                                         ------------   ------------   ------------   ------------   ------------
+                                                         $201,174,104   $233,052,133   $245,379,966   $214,356,773   $178,138,478
+                                                         =============  =============  =============  =============  =============
+                  OPERATING PROFIT (LOSS):
+                    Electronics........................  $ (5,274,868)  $  9,865,696   $ 15,518,782   $ 14,022,267   $(11,414,261)
+                    Automotive and Industrial
+                      Products.........................       573,524      3,160,202       (982,050)    (2,602,540)     1,361,698
+                                                         ------------   ------------   ------------   ------------   ------------
+                                                           (4,701,344)    13,025,898     14,536,732     11,419,727    (10,052,563)
+                    General corporate expenses.........    (2,105,103)    (2,010,198)    (2,071,313)    (2,135,147)    (1,824,736)
+                                                         ------------   ------------   ------------   ------------   ------------
+                                                         $ (6,806,447)  $ 11,015,700   $ 12,465,419   $  9,284,580   $(11,877,299)
+                                                         =============  =============  =============  =============  =============
+                  IDENTIFIABLE ASSETS:
+                    Continuing operations:
+                      Electronics......................  $ 55,820,560   $ 63,627,181   $ 62,026,667   $ 68,404,250   $ 65,894,663
+                      Automotive and Industrial
+                        Products.......................    45,137,343     35,304,845     31,286,830     29,263,794     35,286,344
+                      General corporate................     7,764,037      5,456,693      5,257,583      5,344,239     12,176,061
+                                                         ------------   ------------   ------------   ------------   ------------
+                                                          108,721,940    104,388,719     98,571,080    103,012,283    113,357,068
+                    Discontinued oil and gas
+                      operations.......................            --             --             --             --      9,087,384
+                                                         ------------   ------------   ------------   ------------   ------------
+                                                         $108,721,940   $104,388,719   $ 98,571,080   $103,012,283   $122,444,452
+                                                         =============  =============  =============  =============  =============
+                  PROVISION FOR DEPRECIATION:
+                    Electronics........................  $    935,345   $    963,582   $  1,151,321   $  1,425,243   $  1,487,954
+                    Automotive and Industrial
+                      Products.........................     2,546,650      2,106,533      1,575,177      1,441,472      1,501,635
+                    General corporate..................         6,912          4,848          3,084          1,728          4,256
+                                                         ------------   ------------   ------------   ------------   ------------
+                                                         $  3,488,907   $  3,074,963   $  2,729,582   $  2,868,443   $  2,993,845
+                                                         =============  =============  =============  =============  =============
+                  CAPITAL EXPENDITURES:
+                    Electronics........................  $  1,092,066   $    398,712   $    846,898   $    603,054   $    678,606
+                    Automotive and Industrial
+                      Products.........................     5,797,573      2,977,916      2,201,911      1,336,314      1,418,739
+                    General corporate..................        22,269          5,008          5,110          4,056          3,021
+                                                         ------------   ------------   ------------   ------------   ------------
+                                                         $  6,911,908   $  3,381,636   $  3,053,919   $  1,943,424   $  2,100,366
+                                                         =============  =============  =============  =============  =============
+</TABLE>
+ 
+18
+<PAGE>   21
+<TABLE>
+ 
+SELECTED FINANCIAL DATA
+ 
+            SPARTON CORPORATION & SUBSIDIARIES
+ 
+            Years Ended June 30
+            ---------------------------------------------------------------------------------------------------------------------
+
+<CAPTION>
+                                                             1994           1993           1992           1991           1990
+                                                         ------------   ------------   ------------   ------------   ------------
+                  <S>                                    <C>            <C>            <C>            <C>            <C>
+                  OPERATING RESULTS
+                  Net sales............................  $201,174,104   $233,052,133   $245,379,966   $214,356,773   $178,138,478
+                  Costs and expenses...................   207,980,551    222,036,433    232,914,547    205,063,593    189,925,531
+                                                         ------------   ------------   ------------   ------------   ------------
+                                                           (6,806,447)    11,015,700     12,465,419      9,293,180    (11,787,053)
+                  Other income (expense):
+                    Interest...........................      (685,279)      (601,975)    (1,073,423)    (2,675,050)    (3,490,703)
+                    Other-net..........................       471,312        229,217        417,295        924,206      1,380,998
+                                                         ------------   ------------   ------------   ------------   ------------
+                                                             (213,967)      (372,758)      (656,128)    (1,750,844)    (2,109,705)
+                                                         ------------   ------------   ------------   ------------   ------------
+                  Income (loss) from continuing
+                    operations before income taxes.....    (7,020,414)    10,642,942     11,809,291      7,542,336    (13,896,758)
+                  Provision (credit) for income
+                    taxes..............................    (2,121,000)     4,005,000      3,841,000      3,245,000     (6,246,000)
+                                                         ------------   ------------   ------------   ------------   ------------
+                  Income (loss) from continuing
+                    operations.........................    (4,899,414)     6,637,942      7,968,291      4,297,336     (7,650,758)
+                  Loss from discontinued oil and gas
+                    operations, net of income taxes....            --             --             --       (167,880)    (1,663,402)
+                                                         ------------   ------------   ------------   ------------   ------------
+                  Net income (loss)....................  $ (4,899,414)  $  6,637,942   $  7,968,291   $  4,129,456   $ (9,314,160)
+                                                         =============  =============  =============  =============  =============
+                  Weighted average common shares
+                    outstanding........................     7,810,721      7,800,543      7,791,672      7,791,672      7,826,808
+
+                  PER SHARE OF COMMON STOCK
+                  Income (loss):
+                    Continuing operations..............         $(.63)         $ .85          $1.02          $ .55         $ (.98)
+                    Discontinued operations............            --             --             --           (.02)          (.21)
+                                                         ------------   ------------   ------------   ------------   ------------
+                                                                $(.63)         $ .85          $1.02          $ .53         $(1.19)
+                                                         =============  =============  =============  =============  =============
+                  Shareowners' equity..................         $7.95          $8.57          $7.74          $6.71         $ 6.18
+                  Dividends............................            --             --             --             --            .26
+
+                  OTHER FINANCIAL DATA
+                  Total assets.........................  $108,721,940   $104,388,719    $98,571,080   $103,012,283   $122,444,452
+                  Working capital......................    42,204,541     51,212,170     45,308,069     37,336,643     24,064,996
+                  Working capital ratio................        2.00:1         2.56:1         2.34:1         1.81:1         1.34:1
+                  Long-term obligations................  $    626,012   $    785,120    $   943,423   $  1,101,184   $  1,237,865
+                  Shareowners' equity..................    62,070,784     66,965,823     60,275,943     52,307,652     48,178,196
+                  Return on ending shareowners'
+                    equity.............................         (7.9%)          9.9%          13.2%           7.9%         (19.3%)
+</TABLE>
+ 
+                                                                             19
+<PAGE>   22
+ 
+MANAGEMENT'S DISCUSSION & ANALYSIS OF
+ 
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ 
+            RESULTS OF OPERATIONS
+ 
+            The Company's operations have been classified into two segments:
+            Electronics and Automotive and Industrial Products.
+ 
+            FISCAL 1994 COMPARED TO FISCAL 1993
+ 
+            Sales for the year ended June 30, 1994 totaled $201,174,000, a
+            decline of $31,878,000 (14%) from 1993. Revenues were below internal
+            expectations. Sales decreased 36% at Sparton Electronics, reflecting
+            both the anticipated declining level of U.S. Government
+            defense-related sales and unexpected delays in certain defense
+            product shipments. In addition, certain commercial sales did not
+            materialize as planned. Commercial sales volume at Sparton
+            Electronics continues to expand, but not at a level sufficient to
+            offset the decline in defense-related revenues. Sales decreased
+            substantially at the Canadian unit compared both to last year and to
+            internal expectations. Revenues also declined at Sparton Technology,
+            as anticipated, due to reduced government and contract manufacturing
+            sales. This revenue decrease was partially offset by expanding
+            foreign and proprietary product revenues. The Automotive and
+            Industrial Products segment sales continue to expand with an
+            aggregate revenue increase of $20,126,000 (24%) for the current
+            year. Sales increases occurred at all three units that comprise this
+            segment. This growth exceeded expectations by over $6,000,000 and
+            reflects both increased demand as well as new product shipments.
+ 
+            The Company reported a loss from operations of $6,806,000 in 1994
+            compared to income from operations of $11,016,000 in 1993. These
+            operating results were below expectations. Sparton Electronics
+            incurred a loss for the current year compared to profitable
+            operations the previous year. Margins continue to be adversely
+            impacted by increased costs associated with the start-up of several
+            new programs, unexpected production delays and lower than
+            anticipated sales volumes. In the fourth quarter of 1994, gross
+            margins were decreased by approximately $4,600,000 due to the
+            writedown in carrying value of inventories and related costs of
+            certain commercial and defense contracts within Sparton Electronics.
+            This adjustment resulted from a review of existing products and
+            markets and the inventories' realizable value. The Canadian unit
+            incurred an operating loss primarily due to extremely low sales
+            volume. Sparton Technology reported a small loss in 1994, but this
+            loss was significantly less than that incurred in 1993 primarily due
+            to various cost cutting measures instituted. The Automotive and
+            Industrial Products segment incurred a small operating loss for the
+            current year compared to an operating profit last year. An operating
+            profit for 1994 was anticipated. Factors contributing to this loss
+            included costs associated with the relocation of a production
+            facility, unexpected difficulties on new product launches, capacity
+            problems at certain facilities, and an inability to adjust certain
+            prices due to competitive pressures. A production facility was
+            purchased in Hartford City, Indiana during the year in order to
+            expand this segment's manufacturing capacity. Price increases on
+            several product lines have been requested, but with only limited
+            success. Efforts to obtain price increases continue.
+ 
+            Interest expense increased $83,000 in 1994 to $685,000 due to higher
+            average borrowings. Other income increased $242,000 to $471,000
+            primarily due to the realization of gain on the sale of a plant.
+            Effective July 1, 1993, the Company adopted Statement of Financial
+            Accounting Standard No. 109, "Accounting for Income Taxes." The
+            cumulative effect of this required change in the method for
+            accounting for income taxes resulted in a credit in the first
+            quarter of 1994 of $264,000 ($.03 per share), primarily from a
+            reduction in the income tax rates used to record deferred tax
+            liabilities. In the fourth quarter of 1994, the Company elected to
+            early adopt Statement of Financial Accounting Standards No. 112,
+            "Employers' Accounting for Postemployment Benefits," retroactively
+            as of July 1, 1993. The cumulative effect of this change as of the
+            beginning of the year was a charge of $264,000 ($.03 per share), net
+            of income taxes of $149,000. This accounting change had no material
+            effect on the results of operations for the year or for the
+            individual quarterly reporting periods. The accounting changes, when
+            taken together, had no effect on the net loss reported for 1994.
+ 
+            After provision (credit) for applicable income taxes, as discussed
+            in Note 7 to the financial statements, the Company incurred a net
+            loss of $4,899,000 ($.63 per share) in 1994 compared to net income
+            of $6,638,000 ($.85 per share) in 1993.
+ 
+            FISCAL 1993 COMPARED TO FISCAL 1992
+ 
+            Sales for the year ended June 30, 1993 totaled $233,052,000, a
+            decline of $12,328,000 (5%) from 1992. Sales decreased $24,515,000
+            (16%) at Sparton Electronics. This decrease reflected the declining
+            level of U.S. Government defense-related sales. Sparton Electronics
+            commercial sales expanded, but not at a sufficient level to offset
+            the decline in U.S. Government revenues. Sales for 1993 at the
+            Canadian unit declined compared to the level achieved in 1992.
+            Revenues at Sparton Technology decreased 33% due to reduced
+            government and contract manufacturing sales. In the third quarter of
+            1993, Sparton Technology was notified that it was not awarded a
+            major add-on contract for U.S. Postal Service equipment which 
+            had been anticipated. The customer, a prime contractor to the U.S.
+            Postal Service, was not selected for an award. The Automotive and
+            Industrial Products segment continued to expand with an aggregate
+            sales increase of $21,160,000 (33%)
+ 
+
+20
+<PAGE>   23
+ 
+            in 1993 compared to the prior year. This increase reflects both
+            increased customer demand as well as new product shipments.
+ 
+            The Company reported income from operations of $11,016,000 in 1993
+            compared to $12,465,000 in 1992. Sparton Electronics operated
+            profitably, but below the level achieved in 1992. Margins continued
+            to be adversely impacted by increased costs associated with delays
+            in the production schedule and increased costs of materials. The
+            Canadian unit operated at a loss in 1993. Sparton Technology
+            reported a loss in 1993 compared to profitable operations the prior
+            year as sales volume was significantly lower than anticipated. The
+            previously mentioned loss of an anticipated U.S. Postal Service
+            related contract has resulted in staff reductions at this unit. The
+            Automotive and Industrial Products segment had profitable operations
+            of $2,233,000 in 1993 compared to a loss of $1,800,000 in 1992.
+            While improvements were realized at all three units, aggregate
+            automotive margins remained below desired levels due to the
+            inability to adjust prices primarily because of competitive
+            pressures.
+ 
+            Interest expense decreased $471,000 in 1993 to $602,000 due to lower
+            average borrowings and lower interest rates. Average borrowings
+            decreased approximately $4,000,000 to $11,700,000 in 1993. Other
+            income declined $188,000 to $229,000. After provision for applicable
+            income taxes, the Company reported net income of $6,638,000 ($.85
+            per share) in 1993 compared to $7,968,000 ($1.02 per share) in 1992.
+ 
+            LIQUIDITY AND CAPITAL RESOURCES
+ 
+            The primary source of cash and equivalents has historically been
+            from operations. Short-term credit facilities are used to provide
+            liquidity. The Company anticipates a change in the mix of its
+            capital resources as the volume of U.S. defense-related contract
+            work declines. Certain contracts, including many within the defense
+            operations of Sparton Electronics, provide for interim progress
+            billings based on costs incurred. These progress billings reduce the
+            amount of cash that would otherwise be required during the
+            performance of these contracts. As the volume of U.S.
+            defense-related contract work declines, so will the relative
+            importance of progress billings as a component of the Company's
+            aggregate capital resources. Unused amounts available under existing
+            credit facilities are the only immediate source of cash and
+            equivalents.
+ 
+            Cash flows used by operating activities were $10,610,000 in 1994
+            compared to cash flows provided of $7,760,000 in 1993 and
+            $11,077,000 in 1992. Primary causes of the 1994 cash flows used in
+            operating activities were operating losses, decreases in accounts
+            payable and increases in income taxes recoverable.
+ 
+            Cash flows used by investing activities were $6,817,000 in 1994,
+            $3,431,000 in 1993 and $2,701,000 in 1992. The Company's principal
+            investing activity was the purchase of property, plant and
+            equipment. As previously discussed, the Company purchased a
+            production facility in Hartford City, Indiana in order to expand its
+            automotive operations. The Company will continue to invest in
+            additional plant and equipment to accommodate additional automotive
+            business previously awarded.
+ 
+            Cash flows from financing activities were $16,580,000 in 1994
+            compared to cash flows used of $5,185,000 in 1993 and $8,180,000 in
+            1992. The increase in 1994 was due to the increase in the Company's
+            short-term borrowings to fund its operating and investing
+            activities. The Company maintains unsecured, informal lines of
+            credit currently totalling $26,500,000 with three separate banks.
+ 
+            At June 30, 1994, the Company had $42,205,000 in working capital. At
+            that date, there were no significant unusual contractual
+            commitments.
+ 
+            OTHER
+ 
+            The Company has been involved in an environmental clean-up effort at
+            Sparton Technology's Coors Road facility since 1983. Costs incurred
+            totalled $81,000 for 1994 compared to $196,000 last year. These
+            costs were charged against a reserve initiated in 1991 to cover
+            estimated future minimum costs. As of June 30, 1994, the remaining
+            reserve for future minimum costs totalled $663,000. The Company has
+            previously recovered all amounts available under insurance policies
+            concerning this clean-up effort. A remedial action plan has been
+            developed and submitted for approval but negotiations continue with
+            respect to such plan. In addition, the Company is involved in
+            several related issues with State of New Mexico environmental
+            agencies. Until these and other related issues are resolved,
+            management is unable to accurately assess what the ultimate costs
+            incurred may be. Management continues to work diligently in pursuing
+            these issues and believes that their ultimate resolution should not
+            have a material adverse effect on the Company's consolidated
+            financial statements.
+ 
+            The Company's sales of sonobuoys, principally to the U.S. Navy, have
+            declined dramatically from $151,024,000 in 1992 to $47,645,000 in
+            1994, reflecting overall changes in the U.S. Navy's budget. Based on
+            current information, it is expected that the U.S. Navy's budget for
+            production sonobuoys for the foreseeable future will continue at
+            reduced levels. The Navy
+ 
+                                                                            21
+<PAGE>   24
+ 
+MANAGEMENT'S DISCUSSION & ANALYSIS OF
+ 
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ 
+                  CONTINUED
+ 
+            is funding development efforts to improve the detection capability
+            of current systems and to implement new detection systems for
+            planned deliveries starting in 1996. The Company is currently
+            developing certain of these new systems both individually and
+            jointly with a major competitor. At the present time, the Company is
+            uncertain as to the market potential of these new systems, and if it
+            would be the supplier of choice if these systems go to production.
+            The international market for sonobuoys has also been adversely
+            impacted by reduced budgets. As most foreign governments use
+            sonobuoys for training and do not maintain the same high level of
+            reserves of the U.S. Navy, the reductions in the international
+            market presently experienced and expected in the future should be
+            less severe. In response to this changing environment, the Company
+            has previously consolidated certain of its manufacturing facilities,
+            continues to reduce costs within the defense-oriented operations and
+            is developing commercial opportunities which will utilize its
+            existing technological and manufacturing capabilities. In addition,
+            the Company is focusing on expanding sales in its automotive and
+            other commercial electronics markets on a worldwide basis.
+            Management, however, cannot predict the level of U.S. sonobuoy
+            awards it will receive over the next several years, the growth in
+            sales volume of new commercial business intended to replace these
+            declining defense revenues, nor the resulting financial impact of
+            these changes on the Company's operations. As with any change of
+            this magnitude, unexpected delays in new program start-ups and their
+            associated cost impacts frequently occur. Investors should be aware
+            of this uncertainty and make their own independent evaluation.
+            ------------------------------------------------------------------
+
+DIRECTORS
+                                [GROUP PHOTO]
+
+
+                THE SPARTON BOARD OF DIRECTORS ARE, LEFT TO RIGHT, BLAIR
+                H. THOMPSON, DAVID W. HOCKENBROCHT, JAMES N. DEBOER,
+                ROBERT J. KIRK, JOHN J. SMITH, LAWSON K. SMITH AND
+                MARSHALL V. NOECKER.
+ 
+22
+<PAGE>   25
+ 
+DIRECTORS, OFFICERS & GENERAL MANAGERS
+ 
+DIRECTORS
+ 
+ James N. DeBoer, Partner
+       Law Firm of Varnum, Riddering,
+       Schmidt and Howlett
+       Grand Rapids, Michigan
+ 
+ David W. Hockenbrocht, President
+       Sparton Corporation
+ 
+*Robert J. Kirk, Financial Consultant
+       Toledo, Ohio
+ 
+*Marshall V. Noecker, President
+       Noecker Group
+       Garden City, Michigan
+ 
+ John J. Smith, Chairman
+       Sparton Corporation
+ 
+ Lawson K. Smith, President
+       Sparton Engineered Products, Inc.-
+       Lake Odessa Group
+       Lake Odessa, Michigan
+ 
+ Blair H. Thompson, Retired
+       Vice President-Treasurer
+       Sparton Corporation
+       Jackson, Michigan
+ 
+*Audit Committee
+
+
+OFFICERS AND GENERAL MANAGERS
+ 
+SPARTON CORPORATION
+ 
+John J. Smith, Chairman and Chief Executive Officer
+ 
+David W. Hockenbrocht, President and Chief Operating
+         Officer
+ 
+Richard L. Langley, Vice President-Treasurer
+ 
+Lawson K. Smith, Vice President-Secretary
+ 
+Richard H. Nichols, Vice President, Assistant Secretary
+ 
+R. Jan Appel, Vice President, General Counsel and
+         Assistant Secretary
+ 
+Joseph S. Lerczak, Assistant Treasurer
+ 
+ELECTRONICS
+ 
+Douglas E. Johnson, Vice President-General Manager
+         Sparton Electronics (Assumed current assignment 
+         July 1, 1994)
+ 
+Mark W. Pickard, Vice President-General Manager
+         Sparton of Canada, Ltd.
+ 
+Richard D. Mico, Vice President-General Manager
+         Sparton Technology, Inc.
+ 
+AUTOMOTIVE & INDUSTRIAL PRODUCTS
+ 
+Jerry R. Gause, Vice President-General Manager
+         Sparton Engineered Products, Inc.-
+         KPI Group
+ 
+Gary A. White, Vice President-General Manager
+         Sparton Engineered Products, Inc.-
+         Lake Odessa Group
+ 
+William C. Mirgain, Vice President-General Manager
+         Sparton Engineered Products, Inc.-
+         Flora Group (Assumed current assignment
+         July 18, 1994)
+ 
+                                                               23
+<PAGE>   26
+ 
+BUSINESS SEGMENTS
+ 
+ELECTRONICS
+ 
+SPARTON ELECTRONICS
+Administrative Office
+Johnson Lake Rd.
+DeLeon Springs, FL 32130
+    MANUFACTURING AND ENGINEERING SERVICES
+       Brooksville, FL
+    TECHNICAL CENTER
+       Jackson, MI
+    MANUFACTURING FACILITIES:
+       Jackson, MI
+       DeLeon Springs, FL (2 plants)
+       Brooksville, FL
+    WASHINGTON OFFICE
+       1215 Jefferson Davis Highway
+       Crystal Gateway III, Suite 306
+       Arlington, VA 22202
+ 
+SPARTON OF CANADA, LTD.
+99 Ash St.
+London, Ontario N5Z 4V3
+ 
+SPARTON TECHNOLOGY, INC.
+Administrative Office
+4901 Rockaway Blvd., S.E.
+Rio Rancho, NM 87124
+    MANUFACTURING FACILITIES:
+       Albuquerque, NM
+       Deming, NM
+       Rio Rancho, NM
+
+
+AUTOMOTIVE & INDUSTRIAL PRODUCTS
+ 
+SPARTON ENGINEERED PRODUCTS, INC.
+- - -FLORA GROUP
+Administrative Office and Technical Center
+Old U.S. Highway 50 W
+Flora, IL 62839
+    MANUFACTURING FACILITIES:
+       Flora, IL
+       Grayville, IL (2 plants)
+    INTERNATIONAL SALES-ENGINEERING OFFICE
+       1000 John R Rd., Suite 202
+       Troy, MI 48083
+ 
+SPARTON ENGINEERED PRODUCTS, INC.
+- - -LAKE ODESSA GROUP
+Administrative Office and Technical Center
+2820 29th St., S.E.
+Kentwood, MI 49512
+    MANUFACTURING FACILITIES:
+       Lake Odessa, MI
+       Gladwin, MI
+    SALES-ENGINEERING REPRESENTATIVES' OFFICE
+       2075 W. Big Beaver Rd., Suite 222
+       Troy, MI 48084
+ 
+SPARTON ENGINEERED PRODUCTS, INC.
+- - -KPI GROUP
+Administrative and Sales Offices and Technical Center
+427 N. Griffin St.
+Grand Haven, MI 49417
+    MANUFACTURING FACILITIES:
+       Brownstown, IN
+       White Cloud, MI
+       Spring Lake, MI
+       Hartford City, IN
+ 
+CORPORATE OFFICE
+ 
+SPARTON CORPORATION
+2400 E. Ganson St.
+Jackson, MI 49202
+Phones (517) 787-8600 / (800) 248-9579
+Fax (517) 787-1822
+ 
+
+24
+<PAGE>   27
+ 
+COMMON STOCK LISTING
+New York Stock Exchange
+ 
+TRANSFER AGENT/REGISTRAR
+Society National Bank
+P.O. Box 6477
+Cleveland, OH 44101-1477
+800-542-7792
+ 
+NEW YORK TRANSFER FACILITY
+Society Trust Company of New York
+5 Hanover Square
+10th Floor
+New York, NY 10004
+ 
+FORM 10-K AVAILABLE
+A copy of Sparton Corporation's annual report on Form 10-K for the year ended
+June 30, 1994, filed with the Securities and Exchange Commission, will be
+furnished without charge to any shareowner upon written request to Richard L.
+Langley, Vice President-Treasurer, Sparton Corporation, 2400 E. Ganson St.,
+Jackson, MI 49202
+ 
+NOTICE OF ANNUAL MEETING
+The Annual Meeting of Sparton Corporation will be held at 10:00 a.m. on
+Wednesday, October 26, 1994, in the Company offices, 2400 E. Ganson St.,
+Jackson, Michigan.
+ 
+
+
+
+
+
+
+It is Sparton Corporation's policy to afford equal employment opportunity to all
+employees and qualified applicants for employment without regard to race,
+religion, creed, color, sex, national origin, age, handicap or veteran status.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-22
+<SEQUENCE>3
+<DESCRIPTION>SPARTON CORP EX-22
+<TEXT>
+
+<PAGE>   1
+
+<TABLE>
+                                   EXHIBIT 22
+
+                              SPARTON CORPORATION
+
+The Registrant, Sparton Corporation, an Ohio Corporation, had the following
+subsidiaries at June 30, 1994:
+
+<CAPTION>
+                                                                                               Incorporated
+                    Name                                                                            In     
+- - ------------------------------------------------                                               ------------
+<S>                                                                                            <C>
+Domestic:
+        Sparton Engineered Products, Inc.-KPI Group                                            Michigan
+        Sparton Engineered Products, Inc.-KPI Group                                            Indiana
+        Sparton Engineered Products, Inc.-Lake
+          Odessa Group                                                                         Michigan
+        Sparton Engineered Products, Inc.-Flora Group                                          Illinois
+        Sparton Electronics Florida, Inc.                                                      Florida
+        Sparton Technology, Inc.                                                               New Mexico
+
+
+Foreign:
+        Sparton of Canada, Limited                                                             Ontario, Canada
+        Sparton Electronics International Sales, Ltd.                                          Barbados
+
+</TABLE>
+
+                                      E-1
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>4
+<DESCRIPTION>SPARTON CORP EX-23
+<TEXT>
+
+<PAGE>   1
+
+
+                                   EXHIBIT 23
+
+                              SPARTON CORPORATION
+
+                        CONSENT OF INDEPENDENT AUDITORS
+
+We consent to the incorporation by reference in this Annual Report (Form 10-K)
+of Sparton Corporation of our report dated August 19, 1994, included in the
+1994 Annual Report to Shareowners of Sparton Corporation and subsidiaries.
+
+Our audits also included the financial statement schedules of Sparton
+Corporation and subsidiaries listed in item 14.  These schedules are the
+responsibility of the Company's management.  Our responsibility is to express
+an opinion based on our audits.  In our opinion, the financial statement
+schedules referred to above, when considered in relation to the basic financial
+statements taken as a whole, present fairly in all material respects the
+information set forth therein.
+
+We also consent to the incorporation by reference in the Registration Statement
+(Form S-8 No. 33-43703) pertaining to the Sparton Corporation 1989 Stock Option
+Plan of our report dated August 19, 1994, with respect to the consolidated
+financial statements and schedules of  Sparton Corporation and subsidiaries
+included and/or incorporated by reference in this Annual Report (Form 10-K) for
+the year ended June 30, 1994.
+
+                                            /s/  ERNST & YOUNG LLP
+
+
+
+Toledo, Ohio
+September 26, 1994
+
+
+                                      E-2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>SPARTON CORP. EX-27
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1994
+<PERIOD-START>                             JUL-01-1993
+<PERIOD-END>                               JUN-30-1994
+<CASH>                                       1,713,718
+<SECURITIES>                                         0
+<RECEIVABLES>                               32,036,179
+<ALLOWANCES>                                   103,000
+<INVENTORY>                                 45,835,914
+<CURRENT-ASSETS>                            84,507,920
+<PP&E>                                      59,683,136
+<DEPRECIATION>                              38,529,178
+<TOTAL-ASSETS>                             108,721,940
+<CURRENT-LIABILITIES>                       42,303,379
+<BONDS>                                        626,102
+<COMMON>                                     9,764,213
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                  52,306,571
+<TOTAL-LIABILITY-AND-EQUITY>               108,721,940
+<SALES>                                    201,174,104
+<TOTAL-REVENUES>                           201,174,104
+<CGS>                                      183,941,559
+<TOTAL-COSTS>                              207,980,551
+<OTHER-EXPENSES>                             (471,312)
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                             685,279
+<INCOME-PRETAX>                            (7,020,414)
+<INCOME-TAX>                               (2,121,000)
+<INCOME-CONTINUING>                        (4,899,414)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                               (4,899,414)
+<EPS-PRIMARY>                                    (.63)
+<EPS-DILUTED>                                    (.63)
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

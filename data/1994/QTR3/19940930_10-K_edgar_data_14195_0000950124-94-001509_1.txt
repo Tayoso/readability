@@ -1,0 +1,2712 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ Ez3dMEgFZpCajCQ1/zS8qDZ6m4MGkPTCzRpc2BhG/XupZQ2tYXmsqX2RUCPIwjHj
+ wPNu1jtIglJ+hydPfS99fA==
+
+<IMS-DOCUMENT>0000950124-94-001509.txt : 19941007
+<IMS-HEADER>0000950124-94-001509.hdr.sgml : 19941007
+ACCESSION NUMBER:		0000950124-94-001509
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19940703
+FILED AS OF DATE:		19940930
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRIGGS & STRATTON CORP
+		CENTRAL INDEX KEY:			0000014195
+		STANDARD INDUSTRIAL CLASSIFICATION:	3510
+		IRS NUMBER:				390182330
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01370
+		FILM NUMBER:		94551139
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12301 W WIRTH ST
+		CITY:			WAUWATOSA
+		STATE:			WI
+		ZIP:			53222
+		BUSINESS PHONE:		4142595333
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 702
+		CITY:			MILWAUKEE
+		STATE:			WI
+		ZIP:			53201
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+
+<PAGE>   1
+
+                                   FORM 10-K
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+
+(Mark One)
+      [X]       ANNUAL REPORT PURSUANT TO SECTION 13 or 15(d) OF THE
+                    SECURITIES EXCHANGE ACT OF 1934 [FEE REQUIRED]
+                     For the fiscal year ended         JULY 3, 1994
+                                       OR
+      [ ]       TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE
+                    SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+                   For the transition period from ________ to ________
+
+
+
+Commission file number 1-1370
+
+                         BRIGGS & STRATTON CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+         A Wisconsin Corporation                   39-0182330
+        (State or other jurisdiction of          (I.R.S. Employer
+        incorporation or organization)         Identification No.)
+
+        12301 WEST WIRTH STREET
+          WAUWATOSA, WISCONSIN                         53222
+   (Address of principal executive offices)          (Zip Code)
+
+Registrant's telephone number, including area code:  414-259-5333
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+        Title of Each Class            Name of Each Exchange on Which Registered
+      Common Stock (par value                   
+         $0.01 per share)                       New York Stock Exchange
+    Common Share Purchase Rights                New York Stock Exchange
+
+Securities registered pursuant to Section 12(g) of the Act:  NONE
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.      Yes _X__     No ____
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.  [ X ]
+
+The aggregate market value of voting stock held by nonaffiliates of the
+registrant was approximately $1,071,166,000 based on the reported last sale
+price of such securities as of September 8, 1994.
+
+Number of Shares of Common Stock Outstanding at September 8, 1994: 14,463,500.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+                                           Part of Form 10-K Into Which Portions
+                 Document                       of Document are Incorporated
+                 --------                 ----------------------------------
+        Annual Report to Shareholders
+        for year ended July 3, 1994              Parts I (Item 1) and II
+
+        Proxy Statement for Annual Meeting
+        on October 19, 1994                               Part III
+
+The Exhibit Index is located on page 14.
+<PAGE>   2
+
+
+
+
+                               TABLE OF CONTENTS
+
+                                     PART I
+
+Item                                                                   Page
+- - - ----                                                                   ----
+1.  Business                                                            1 
+                                                                          
+2.  Properties                                                          3 
+                                                                          
+3.  Legal Proceedings                                                   3 
+                                                                          
+4.  Submission of Matters to a Vote of Security Holders                 3 
+                                                                          
+                                   PART II                                
+                                                                          
+5.  Market for the Registrant's Common Equity and Related                 
+       Stockholder Matters                                              6 
+                                                                          
+6.  Selected Financial Data                                             6 
+                                                                          
+7.  Management's Discussion and Analysis of Financial Condition           
+       and Results of Operations                                        6 
+                                                                          
+8.  Financial Statements and Supplementary Data                         6 
+                                                                          
+9.  Changes in and Disagreements with Accountants on Accounting           
+       and Financial Disclosure                                         6 
+                                                                          
+                                   PART III                               
+                                                                          
+10.  Directors and Executive Officers of the Registrant                 6
+                                                                          
+11.  Executive Compensation                                             6
+                                                                          
+12.  Security Ownership of Certain Beneficial Owners and                  
+        Management                                                      6
+                                                                          
+13.  Certain Relationships and Related Transactions                     6
+                                                                          
+                                   PART IV                                
+                                                                          
+14.  Exhibits, Financial Statement Schedules, and Reports on              
+        Form 8-K                                                        7
+                                                                          
+     Signatures                                                         9
+        
+                                                                   
+<PAGE>   3
+
+
+                                     PART I
+
+Item1.  Business
+
+Basic Business
+
+Briggs & Stratton Corporation is the world's largest producer of air cooled
+gasoline engines for outdoor power equipment and locks for automobiles and
+trucks. The Company designs, manufactures, markets and services these products
+for original equipment manufacturers worldwide.
+
+Engines
+
+Engines, parts and related products provided 93% of sales in fiscal 1994. These
+engines were air cooled aluminum alloy gasoline engines ranging from 3 to 20
+horsepower.
+
+In fiscal 1994, approximately 85% of original equipment gasoline engine sales
+were to manufacturers of lawn and garden equipment; approximately 15% were
+to manufacturers of other powered equipment, primarily for the construction
+industry and for agriculture. In the United States and Canada, engine sales
+are made primarily directly to original equipment manufacturers.
+
+Sales to the Company's largest engine customer, MTD Products Inc., were 18% of
+total sales in fiscal 1994. Sales to its second largest customer, Tomkins PLC,
+were 12% of sales and sales to its third largest customer, A B Electrolux, were
+12% of sales. Under purchasing plans available to all gasoline engine
+customers, the Company normally enters into annual engine supply agreements
+with these producers of end products powered by the Company's gasoline engines.
+Company management has no reason to anticipate a change from the continuation
+of this practice or in its historical business relationships with these
+companies.
+
+The major domestic competitors of the Company in engine manufacturing are
+Tecumseh Products Company, Kohler Co., Kawasaki Heavy Industries, Ltd. and Onan
+Corporation.  Also, two domestic lawn mower manufacturers, Toro Co. Inc.
+through its Lawn-Boy Inc. branch and Honda Motor Co., Ltd., manufacture their
+own engines. Eight Japanese small engine manufacturers, of which Honda and
+Kawasaki are the largest, are worldwide competitors not only in the sale of
+engines, but end products as well. Tecnamotor S.p.A., located in Italy and
+owned by Tecumseh, is a major competitor in Europe. Major areas of competition
+from all engine manufacturers are product quality, price, timely delivery and
+service. The Company believes its product quality and service reputation have
+given it the strong brand name identification it enjoys.
+
+Servicing of all the Company's gasoline engine products is done by a network
+of over 32,000 independent service parts distribution and repair outlets in
+the United States and Canada and many foreign countries.
+
+Manufacturing activity in the lawn and garden industry is driven by the need to
+deliver new lawn mowers, garden tractors and tillers for retail sales in the
+spring and early summer. Thus, demand from customers is at its height in their
+winter and spring manufacturing season. Most engines are manufactured to
+individual customer specifications. The Company offers financial incentives to
+its OEMs to specify standardized engines; to take delivery during the off
+season; and to commit early, for delivery at specific times during the busy
+season. These programs, designed to level manufacturing activity, cause the
+Company to build inventories of finished engines in the first and second
+quarters.  Thus, sales generally are highest in the March quarter and weakest
+in the September quarter. Customer orders in the last three months of the
+fiscal year depend on spring retail sales, so the June quarter is the least
+predictable.
+
+                                      1
+<PAGE>   4
+Locks and Keys
+
+Mechanical locks, electro-mechanical locks and related products provided
+approximately 7% of sales in fiscal 1994. Customers are primarily the major
+automobile and truck manufacturers in North America. Major competitors of the
+Company in lock manufacturing are Hurd Lock & Manufacturing Company and
+All-Lock Company, Inc.  Price, product quality, delivery performance and
+technical support are major areas of competition.
+
+A substantial portion of the Company's lock production is sold to two of the
+three large North American automobile manufacturers as original equipment
+components.  The loss of these customers would effectively eliminate the
+Company's lock business. These manufacturers have been customers for many years
+and the Company anticipates continued business in future years. However, the
+largest of these customers has changed its purchasing practices. These
+practices may change the level of business the Company receives from that
+customer in the future.  A substantial reduction from the current level of
+business with that customer would significantly impact the Company's lock
+business.
+
+Sales to original equipment customers are made by personnel from the Milwaukee
+headquarters and Detroit sales office. Independent Sales Representatives are
+utilized in servicing certain other industrial OEM accounts. Service parts
+and replacement locks are sold to OEMs and to Locksmith Wholesalers.
+
+In May, the Board of Directors approved the spin-off of the lock division to
+the Company shareholders. It is currently anticipated that the spin-off will
+occur in early calendar 1995.
+
+General
+
+The Company manufactures a majority of the components used in its
+products and purchases the balance of its requirements. The Company
+manufactures its own ductile and grey iron castings,  aluminum and zinc die
+castings and a high percentage of other major components, such as carburetors
+and ignition systems. The Company also purchases certain finished standard
+commercial parts such as piston rings, spark plugs, valves and plastic
+components, some stampings and screw machine parts and smaller quantities of
+other components. Raw material purchases are for aluminum, steel, zinc and
+brass. The Company believes its sources of supply are adequate.
+
+The Company holds certain patents on features incorporated in its
+products; however, the success of the Company's business is not considered to
+be primarily dependent upon patent protection. Licenses, franchises and
+concessions are not a material factor in the Company's business.
+
+For the years ending July 3, 1994, June 27, 1993 and June 30, 1992, the Company
+spent approximately $12,520,000, $10,411,000 and $10,808,000, respectively,
+on Company sponsored research activities relating to the development of new
+products or the improvement of existing products.
+
+The average number of persons employed by the Company during the fiscal year
+was 8,583. Employment ranged from a low of 7,879 in July 1993 to a high of
+8,801 in December 1994.
+
+Financial Information About Industry Segments
+
+Financial information about industry segments appears in Note 3 of the 1994
+Annual Report to Shareholders and is incorporated herein by reference.
+                                      2
+<PAGE>   5
+
+
+Export Sales
+
+Export sales for fiscal 1994 were $264,866,000 (21% of total sales), for fiscal
+1993 were $249,610,000 (22% of total sales) and for fiscal 1992 were
+$210,728,000 (20% of total sales). These sales were principally to customers in
+European countries.
+
+Item 2.  Properties
+
+The corporate offices as well as the Company's largest engine manufacturing
+facility are located in Wauwatosa, Wisconsin, a suburb of Milwaukee. Three
+other facilities located in the Milwaukee metropolitan area are used for
+production, warehousing and distribution of engines and engine parts. These are
+owned facilities containing approximately 3,232,000 square feet of office,
+warehouse and production area. Engines also are manufactured at a 292,000
+square foot owned facility in Murray, Kentucky and a 236,000 square foot owned
+facility in Poplar Bluff, Missouri. The engine business is seasonal, with
+demand for engines at its height in the winter and early spring. Engine
+manufacturing operations run at capacity levels during the peak season, with
+many operations running three shifts. Engine operations generally run one shift
+in the summer, when demand is weakest and production is considerably under
+capacity. During the winter, when finished goods inventories reach their
+highest levels, owned warehouse space may be insufficient and capacity may be
+expanded through rented space. Excess warehouse space exists in the spring and
+summer seasons. In May, the Board of Directors approved a plan of relocation
+for several of the Company's facilities over the next three years. The plan
+provides for the expansion of existing facilities in Murray, Kentucky and
+Poplar Bluff, Missouri and the establishment of three new engine manufacturing
+facilities. The Company has announced the selection of sites in Statesboro,
+Georgia and Auburn, Alabama for two of the facilities.  The Company's owned
+properties are well maintained.
+
+The Company leases 173,000 square feet of space to house its European warehouse
+in the Netherlands and its foreign sales and service operations in Australia,
+Canada, France, Germany, New Zealand, Switzerland and the United Kingdom.
+
+The Company's domestic lock manufacturing facility is located in the Milwaukee
+suburb of Glendale, Wisconsin. This facility has floor space of approximately
+352,000 square feet. The Company also owns a 50,000 square foot assembly plant
+in Juarez, Mexico. Both properties are well maintained and are adequate for its
+current needs. Additional demand could be met through increased manufacturing
+capacity gained by adding a shift.
+
+Item 3.  Legal Proceedings
+
+There are no pending legal proceedings that are required to be reported under
+this item.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+No matters were submitted to a vote of security holders, through the
+solicitation of proxies or otherwise, during the three months ended July 3,
+1994.
+
+                                      3
+<PAGE>   6
+
+
+Executive Officers of the Registrant
+
+<TABLE>
+<CAPTION>
+           Name, Age, Position            Business Experience for Past Five Years
+           ------------------             ------------------------------------------
+<S>                                       <C>
+FREDERICK P. STRATTON, JR., 55            Mr. Stratton was elected to the position of Chief Executive Officer in May
+Chairman and Chief Executive Officer      1977 and Chairman in November 1986. He also served in the position of President
+(1) (2)                                   from January 1992 to August 1994.
+
+ROBERT H. ELDRIDGE, 56                    Mr. Eldridge was elected to his current position effective January 1984.
+Secretary - Treasurer  (1)
+
+MICHAEL D. HAMILTON, 52                   Mr. Hamilton was elected to his present position effective June 1989.
+Executive Vice President -
+Sales and Service
+
+JOHN S. SHIELY, 42                        Mr. Shiely was elected to his current position in August 1994 after serving
+President and Chief Operating             as Executive Vice President - Administration since November 1991. He joined
+Officer (1)                               the Company in June 1986 as General Counsel and served as Vice President and
+                                          General Counsel from November 1990 to November 1991.
+
+JAMES A. WIER, 51
+Executive Vice President - Operations     Mr. Wier was elected to his current position in April 1989.
+
+ERIK ASPELIN, 53                          Mr. Aspelin assumed his current position in July 1989.
+Vice President - Distribution
+Sales and Service
+
+JAMES E. BRENN, 46                        Mr. Brenn was elected to his current position in November 1988.
+Vice President and Controller
+
+RICHARD J. FOTSCH, 39                     Mr. Fotsch was elected an executive officer in May 1993 after serving the Small
+Vice President; General Manager -         Engine Division as General Manager from July 1989 to July 1990 and as Vice
+Small Engine Division                     President and General Manager from July 1990 to May 1993.
+
+</TABLE>
+
+                                       4
+
+
+<PAGE>   7
+
+<TABLE>
+<S>                                        <C>
+HUGO A. KELTZ, 46                           Mr. Keltz was elected an executive officer in May 1992 after serving as Vice
+Vice President - International              President - International since June 1991. He served as Regional Director -
+                                            Europe from November 1989 to June 1991 after serving as International General
+                                            Service and Distribution Manager from October 1988 to November 1989.
+
+PAUL M. NEYLON, 47                          Mr. Neylon was elected an executive officer in May 1993, after serving the
+Vice President; General Manager -           Vanguard Division as Vice President and General Manager since November 1991.
+Vanguard Division                           He previously served the Castings Division as General Manager from July 1989 to
+                                            July 1990 and as Vice President and General Manager from July 1990 to November 1991.
+
+STEPHEN H. RUGG, 47                         Mr. Rugg was elected to his current position in November 1988.
+Vice President - Sales and Marketing
+
+GREGORY D. SOCKS, 45                        Mr. Socks was elected an executive officer in May 1993 after serving the Large
+Vice President; General Manager -           Engine Division as General Manager from August 1989 to July 1990 and Vice
+Large Engine Division                       President and General Manager from July 1990 to May 1993.
+
+HAROLD M. STRATTON II, 46                   Mr. Stratton was elected to his current position effective April 1, 1989.
+Vice President; General Manager -
+B&S Technologies
+
+GERALD E. ZITZER, 47                        Mr. Zitzer was elected to his current position in November 1988.
+Vice President - Human Resources
+
+</TABLE>
+
+
+(1)   Officer is also a Director of the Company.
+
+(2)   Member of the Executive Committee and Planning Committee.
+
+Frederick P. Stratton, Jr., and Harold M. Stratton II are brothers.
+
+Officers are elected annually and serve until their successors are elected
+and qualify.
+
+                                      5
+<PAGE>   8
+                                    PART II
+
+Item 5.    Market for the Registrant's Common Equity and Related Stockholder
+Matters
+
+Information required by this Item is incorporated by reference to "Quarterly
+Financial Data, Dividend and Market Information" on page 32 of the 1994 Annual
+Report to Shareholders.
+
+Item 6.    Selected Financial Data
+
+Information required by this Item appears under the heading "Ten Year
+Comparisons" on pages 34 and 35 of the 1994 Annual Report to Shareholders and
+is incorporated herein by reference.
+
+Item 7.    Management's Discussion and Analysis of Financial Condition and
+Results of Operations
+
+Management's discussion and analysis of results of operations and financial
+condition of the Company appears on pages 29 through 31 of the 1994 Annual
+Report to Shareholders and is incorporated by reference in this Form 10-K.
+
+Item 8.    Financial Statements and Supplementary Data
+
+The information required by Item 8 is incorporated by reference from the
+Consolidated Financial Statements and Notes to Consolidated Financial
+Statements appearing on pages 15 through 26 and page 32 of the 1994 Annual
+Report to Shareholders.
+
+Item 9.    Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure
+
+The Company has not changed independent accountants in the last two years.
+
+                                    PART III
+
+Item 10.   Directors and Executive Officers of the Registrant
+
+Information pertaining to directors is incorporated herein by reference from
+pages 2 and 3 of the Company's 1994 Annual Meeting Proxy Statement dated
+September 8, 1994. Information regarding executive officers required by Item
+401 and 405 of Regulation S-K is furnished in Part I.
+
+Item 11.   Executive Compensation
+
+The information required by Item 11 is incorporated by reference from the
+section entitled Election of Directors on page 2, the Nominating and Salaried
+Personnel Committee Report on Executive Compensation found on pages 7-10 and
+the Executive Compensation section found on pages 11-15 of the Company's 1994
+Annual Meeting Proxy Statement.
+
+Item 12.   Security Ownership of Certain Beneficial Owners and Management
+
+The information required by Item 12 is incorporated by reference from pages
+5 and 6 of the Company's 1994 Annual Meeting Proxy Statement.
+
+Item 13.   Certain Relationships and Related Transactions
+
+The information required by Item 13 is incorporated by reference from page
+4 of the Company's 1994 Annual Meeting Proxy Statement.
+
+                                      6
+<PAGE>   9
+
+                                    PART IV
+
+Item 14.   Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+(a)   The following documents are filed as a part of this report:
+
+
+                                                           Page Reference
+                                                      -------------------------
+                                                                      1994
+                                                                  Annual Report
+                                                         1994            to
+                                                       Form 10-K   Shareholders
+                                                       ----------  ------------
+1.  Financial Statements
+
+        Consolidated Balance Sheets,
+          July 3, 1994 and June 27, 1993                               16*
+
+        For the Years Ended July 3, 1994,
+          June 27, 1993 and June 30, 1992:
+
+          Consolidated Statements of Income and
+            Shareholders' Investment                                    15*, 17*
+
+          Consolidated Statements of Cash Flows                         18*
+
+          Notes to Consolidated Financial Statements                    19-26*
+
+        Report of Independent Public Accountants                        28*
+
+         * Incorporated herein by reference to the Registrant's 1994 Annual 
+           Report to Shareholders for the fiscal year ended July 3, 1994.
+
+2.  Financial Statement Schedules
+
+        Report of Independent Public Accountants          10
+
+        Schedule V - Property, Plant and Equipment        11
+
+        Schedule VI - Accumulated Depreciation and
+          Unamortized Investment Tax Credit               12
+
+        Schedule VIII - Valuation and Qualifying
+          Accounts                                        13
+
+        Schedule X - Supplementary Income
+          Statement Information                           13
+
+        All other schedules are omitted because they are not applicable or
+        the required information is shown in the financial statements or the 
+        notes thereto.
+
+        The individual financial statements of the Registrant have been omitted
+        since the Registrant is primarily an operating company and the 
+        subsidiaries included in the consolidated statements are wholly owned.
+
+3.  Exhibits
+
+        See Exhibit Index on page 14 of this report, which is incorporated
+        herein by reference.
+
+        Executive Compensation Plans and Arrangements:
+
+          Forms of Officer Employment Agreements.
+          (Filed as Exhibit 10.0 to the Company's Annual Report on Form 10-K 
+          for fiscal year ended June 27, 1993 and incorporated by reference 
+          herein.)
+
+                                      7
+<PAGE>   10
+
+   Survivor Annuity Plan.
+     (Filed as Exhibit 10.1 to the Company's Annual Report on Form 10-K for 
+     fiscal year ended June 30, 1986 and incorporated by reference herein.)
+
+   Supplemental Retirement Program.
+     (Filed as Exhibit 10.3 to the Company's Annual Report on Form 10-K for 
+     fiscal year ended June 30, 1990 and incorporated by reference herein.)
+
+   Economic Value Added Incentive Compensation Plan.
+     (Filed as Exhibit 10.3 to the Company's Annual Report on Form 10-K for 
+     fiscal year ended June 27, 1993 and incorporated by reference herein.)
+
+   Form of Change of Control Employment Agreements.
+     (Filed as Exhibit 10.4 to the Company's Annual Report on Form 10-K for 
+     fiscal year ended June 27, 1993 and incorporated by reference herein.)
+
+   Trust Agreement with an independent trustee to provide payments under various
+     compensation agreements with company employees upon the occurrence of a 
+     change in control.
+       (Filed as Exhibit 10.1 to the Company's Report on Form 10-Q for the 
+       quarter ended October 1, 1989, and incorporated by reference herein.)
+
+   Stock Incentive Plan.
+     (Filed as Exhibit A to the Company's 1990 Annual Meeting Proxy Statement,
+     which was filed as Exhibit 100A to the Company's Annual Report on Form 
+     10-K for fiscal year ended June 30, 1990 and incorporated by reference 
+     herein.)
+
+   Leveraged Stock Option Program
+     (Filed as Exhibit 10.7 to the Company's Annual Report on Form 10-K for 
+     fiscal year ended June 27, 1993 and incorporated by reference herein.)
+
+   Deferred Compensation Agreement
+     (Filed herewith.)
+
+(b)   Reports on Form 8-K
+
+         On May 20, 1994, the Company filed a report on Form 8-K for the purpose
+         of reporting the approval by the Board of Directors on May 17, 1994 of
+         two actions. The Board approved a spin-off of the Briggs & Stratton
+         Technologies Division to Briggs & Stratton's shareholders which is
+         anticipated to occur in January 1995. The Board also approved a Plan
+         of Relocation which provides for the expansion of existing facilities
+         and the establishment of three new manufacturing facilities outside of
+         Milwaukee at a cost of approximately $112 million over the next two
+         years.
+
+                                       8
+<PAGE>   11
+                                   SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                                   BRIGGS & STRATTON CORPORATION
+
+                                                   By /s/ R. H. Eldridge
+                                                   ------------------------
+                                                        R. H. Eldridge
+September 20, 1994                                   Secretary-Treasurer
+
+
+                  -----------------------------------------
+
+
+                               POWER OF ATTORNEY
+
+KNOW ALL MEN BY THESE PRESENTS, that each person whose signature appears below
+constitutes and appoints Frederick P. Stratton, Jr. and Robert H. Eldridge, and
+each of them, his true and lawful attorneys-in-fact and agents, with full power
+of substitution and resubstitution, for him and in his name, place and stead,
+in any and all capacities, to sign any and all amendments to this report, and
+to file the same, with all exhibits thereto, and other documents in connection
+therewith, with the Securities and Exchange Commission, granting unto said
+attorneys-in-fact and agents, and each of them, full power and authority to do
+and perform each and every act and thing requisite and necessary to be done in
+and about the premises, as fully to all intents and purposes as he might or
+could do in person, hereby ratifying and confirming all that said
+attorneys-in-fact and agents or any of them, or their substitutes, may lawfully
+do or cause to be done by virtue thereof.
+
+
+                  -----------------------------------------
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the 
+registrant and in the capacities and on the dates indicated.
+
+
+<TABLE>
+<S>                                                                      <C>
+/s/ F. P. Stratton, Jr.                                                  /s/ Sheldon B. Lubar                          
+- - - -------------------------------------------                              -------------------------------------------   
+F. P. Stratton, Jr.      September 20, 1994                              Sheldon B. Lubar         September 20, 1994   
+Chairman and Chief Executive Officer and                                 Director                                      
+Director (Principal Executive Officer)                                                                                 
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+/s/ Robert H. Eldridge                                                   /s/ John L. Murray                            
+- - - -------------------------------------------                              -------------------------------------------   
+Robert H. Eldridge       September 20, 1994                              John L. Murray           September 20, 1994   
+Secretary-Treasurer and Director                                         Director                                      
+(Principal Financial Officer)                                                                                          
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+/s/ James E. Brenn                                                       /s/ C. B. Rogers, Jr.                         
+- - - -------------------------------------------                              -------------------------------------------   
+James E. Brenn           September 20, 1994                              C. B. Rogers, Jr.        September 20, 1994   
+Vice President and Controller                                            Director                                      
+(Principal Accounting Officer)                                                                                         
+                                                                                                                       
+                                                                                                                       
+                                                                                                                       
+/s/ Michael E. Batten                                                    /s/ John S. Shiely                            
+- - - -------------------------------------------                              -------------------------------------------   
+Michael E. Batten        September 20, 1994                              John S. Shiely           September 20, 1994   
+Director                                                                 President and Chief Operating Officer and     
+                                                                         Director                                      
+
+/s/ Peter A. Georgescu                                                   /s/ Elwin J. Zarwell                       
+- - - -------------------------------------------                              -------------------------------------------
+Peter A. Georgescu       September 20, 1994                              Elwin J. Zarwell         September 20, 1994
+Director                                                                 Director                                      
+                                                                         
+
+</TABLE>
+                                                                         
+                                                                         
+                                                                         
+                                             
+                                       9
+<PAGE>   12
+                   REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+We have audited in accordance with generally accepted auditing standards the
+consolidated financial statements included in the Briggs & Stratton Corporation
+Annual Report to Shareholders incorporated by reference in this Form 10-K and
+have issued our report thereon dated July 28, 1994. Our audit was made for the
+purpose of forming an opinion on those statements taken as a whole. The
+schedules listed in the accompanying index are the responsibility of the
+Company's management and are presented for purposes of complying with the
+Securities and Exchange Commission's rules and are not part of the basic
+consolidated financial statements. These schedules have been subjected to the
+auditing procedures applied in the audit of the basic consolidated financial
+statements and, in our opinion, fairly state in all material respects the
+financial data required to be set forth therein in relation to the basic
+consolidated financial statements taken as a whole.
+
+                                                    ARTHUR ANDERSEN LLP
+
+Milwaukee, Wisconsin,
+July 28, 1994.
+
+                                      10
+<PAGE>   13
+                 BRIGGS & STRATTON CORPORATION AND SUBSIDIARIES
+
+                   SCHEDULE V - PROPERTY, PLANT AND EQUIPMENT
+
+<TABLE>
+<CAPTION>
+                                     Balance at                                    Adjustments   Balance at
+                                     Beginning         Additions    Retirements         for        End of
+     Description                      of Period         at Cost      or Sales     Translation     Period
+      ----------                    -----------        ---------     ----------    -----------    ------------
+<S>                                 <C>              <C>            <C>             <C>          <C>
+Year Ended June 30, 1992
+- - - ---------------------------
+  Land and land improvement         $  10,909,000    $   171,000     $   234,000    $  93,000    $  10,939,000
+  Buildings                           111,250,000      1,620,000         698,000      521,000      112,693,000
+  Machinery and equipment             488,819,000     40,725,000      27,157,000      285,000      502,672,000
+  Construction in progress             21,510,000     (2,292,000)      2,089,000          -         17,129,000
+                                    -------------    -----------     -----------    ---------    -------------
+    Totals                          $ 632,488,000    $40,224,000     $30,178,000    $ 899,000    $ 643,433,000
+                                    =============    ===========     ===========    =========     ============
+
+Year Ended June 27, 1993
+- - - ----------------------------
+  Land and land improvements        $  10,939,000    $    95,000     $     2,000    $ (41,000)   $  10,991,000
+  Buildings                           112,693,000      2,061,000         337,000     (351,000)     114,066,000
+  Machinery and equipment             502,672,000     36,460,000      22,144,000     (423,000)     516,565,000
+  Construction in progress             17,129,000       (506,000)        120,000       (5,000)      16,498,000
+                                    -------------    -----------     -----------    ---------    -------------
+    Totals                          $ 643,433,000    $38,110,000     $22,603,000    $(820,000)   $ 658,120,000
+                                    =============    ===========     ===========    =========     ============
+
+Year Ended July 3, 1994
+- - - ----------------------------
+  Land and land improvements        $  10,991,000    $   180,000     $   782,000    $(110,000)   $  10,279,000
+  Buildings                           114,066,000      2,084,000       4,078,000     (106,000)     111,966,000
+  Machinery and equipment             516,565,000     38,325,000      24,369,000      180,000      530,701,000
+  Construction in progress             16,498,000        215,000          56,000      (10,000)      16,647,000
+                                    -------------    -----------     -----------    ---------    -------------
+     Totals                         $ 658,120,000    $40,804,000     $29,285,000    $ (46,000)   $ 669,593,000
+                                    =============    ===========     ===========    =========     ============
+</TABLE>
+
+                                      11
+<PAGE>   14
+                 BRIGGS & STRATTON CORPORATION AND SUBSIDIARIES
+
+                   SCHEDULE VI - ACCUMULATED DEPRECIATION AND
+                       UNAMORTIZED INVESTMENT TAX CREDIT
+
+<TABLE>
+<CAPTION>
+                                                                      Deductions
+                                                                        From
+                                                                       Reserves -
+                                                        Provision     Retirements,
+                                       Balance at         Charged      Renewals      Adjustments       Balance at
+                                       Beginning        to Profit        and             for               End
+          Description                  of Period         and Loss     Replacements    Translation      of Period
+          -----------              --------------    ------------    -------------  --------------    ------------
+<S>                                 <C>              <C>            <C>               <C>            <C>
+Year Ended June 30, 1992
+- - - -------------------------
+  Land improvements                $   3,643,000     $    295,000    $    41,000       $     -        $   3,897,000
+  Buildings                           48,930,000        3,802,000        576,000         168,000         52,324,000
+  Machinery and equipment            253,586,000       38,046,000     19,251,000         198,000        272,579,000
+                                   -------------     ------------    -----------       ---------      -------------
+                                   $ 306,159,000     $ 42,143,000    $19,868,000       $ 366,000      $ 328,800,000
+  Unamortized investment
+   tax credit                          5,965,000       (1,030,000)             -               -          4,935,000
+                                   -------------     ------------    -----------       ---------      -------------
+    Totals                         $ 312,124,000     $ 41,113,000    $19,868,000       $ 366,000      $ 333,735,000
+                                   =============     ============    ===========       =========      =============
+
+Year Ended June 27, 1993
+- - - --------------------------
+  Land improvements                $   3,897,000     $    300,000    $     2,000       $       -      $   4,195,000
+  Buildings                           52,324,000        3,921,000        281,000        (151,000)        55,813,000
+  Machinery and equipment            272,579,000       43,881,000     17,629,000        (316,000)       298,515,000
+                                   -------------     ------------    -----------       ---------      -------------
+                                   $ 328,800,000     $ 48,102,000    $17,912,000       $(467,000)     $ 358,523,000
+
+  Unamortized investment
+   tax credit                          4,935,000         (880,000)             -               -          4,055,000
+                                   -------------     ------------    -----------       ---------      -------------
+    Totals                         $ 333,735,000     $ 47,222,000    $17,912,000       $(467,000)     $ 362,578,000
+                                    ============     ============    ===========       =========      =============
+Year Ended July 3, 1994
+- - - -------------------------
+  Land improvements                $   4,195,000     $    296,000    $   359,000       $       -      $   4,132,000
+  Buildings                           55,813,000        3,768,000      1,931,000           6,000         57,656,000
+  Machinery and equipment            298,515,000       39,716,000     19,670,000         129,000        318,690,000
+                                   -------------     ------------    -----------       ---------      -------------
+                                   $ 358,523,000     $ 43,780,000    $21,960,000       $ 135,000      $ 380,478,000
+
+  Unamortized investment
+   tax credit                         4,055,000          (830,000)             -               -          3,225,000
+                                   -------------     ------------    -----------       ---------      -------------
+    Totals                         $362,578,000      $ 42,950,000    $21,960,000       $ 135,000      $ 383,703,000
+                                   ============      ============    ===========       =========      =============
+</TABLE>
+
+The annual rates used for computing depreciation are shown below:
+
+<TABLE>
+<CAPTION>
+                                                    Straight-Line
+                                                        Rate
+                                                      -----------
+        <S>                                           <C>
+        Land improvements                             3-1/3% to 5%
+        Buildings                                      2% to 10%
+        Machinery and equipment                        5% to 50%
+</TABLE>
+
+Certain tools, dies, jigs and fixtures, classified with machinery and equipment
+are depreciated on a straight-line basis over five years.
+
+                                      12
+<PAGE>   15
+
+                 BRIGGS & STRATTON CORPORATION AND SUBSIDIARIES
+
+               SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+
+<TABLE>
+<CAPTION>
+                                                   Provision
+                               Balance at           Charged                        Balance at
+                               Beginning           to Profit                         End of
+        Description            of Period           and Loss          Payments        Period
+       ------------          -------------        ----------       -----------    --------------
+<S>                          <C>                   <C>             <C>             <C>
+Year Ended June 30, 1992
+- - - ------------------------
+Estimated warranty
+ expense to be incurred       $  24,754,000        $ 25,003,000    $ 23,929,000    $ 25,828,000
+                              =============        ============     ===========    ============
+Reserve for retired
+ employees' life insurance    $   9,755,000        $    811,000    $    817,000    $  9,749,000
+                              =============        ============    ============    =============   
+Year Ended June 27, 1993
+- - - ------------------------
+Estimated warranty
+ expense to be incurred       $  25,828,000        $ 23,523,000    $ 21,033,000    $ 28,318,000
+                              =============        ============    ============    =============   
+Reserve for retired
+ employees' life insurance    $   9,749,000        $    825,000    $    827,000    $  9,747,000
+                              =============        ============    ============    ============   
+Year Ended July 3, 1994
+- - - ------------------------
+Estimated warranty
+ expense to be incurred       $  28,318,000        $ 23,694,000    $ 22,212,000    $ 29,800,000
+                              =============        ============    ============    ============   
+Reserve for retired
+ employees' life insurance    $   9,747,000        $    908,000    $    664,000     $ 9,991,000
+                              =============        ============    ============    ============   
+</TABLE>
+
+            SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+
+The following amounts were charged directly to current operations.
+
+<TABLE>
+<CAPTION>
+                                                     For the Fiscal Year
+                                      ------------------------------------------------------ 
+                                          1994                1993                 1992
+                                      -------------        -------------       -------------
+        <S>                           <C>                  <C>                 <C>
+        Maintenance and repairs       $  56,415,000        $  51,675,000       $  47,746,000
+
+        Depreciation                     42,950,000           47,222,000          41,113,000
+</TABLE>
+
+                                      13
+<PAGE>   16
+                         BRIGGS & STRATTON CORPORATION
+
+                                 EXHIBIT INDEX
+                        1994 ANNUAL REPORT ON FORM 10-K
+
+<TABLE>
+<CAPTION>
+
+Exhibit 
+Number          Description 
+- - - --------        ------------   
+<S>       <C>
+3.1       Articles of Incorporation.            
+            (Filed as Exhibit 3.1 to the Company's Report on Form 8-B dated 
+            October 12, 1992, and incorporated by reference herein.)
+
+
+ 3.2      Bylaws.
+            (Filed as Exhibit 3.2 to the Company's Report on Form 8-B dated October 12,
+            1992 and incorporated by reference herein.)
+
+ 4        Rights Agreement dated as of December 20, 1989, between Briggs &
+          Stratton Corporation and First Wisconsin Trust Company which includes the form
+          of Right Certificate as Exhibit A and the Summary of Rights to Purchase Common
+          Shares as Exhibit B.
+              (Filed as Exhibit 1 to the Company's Report on Form
+              8-K dated December 20, 1989 and incorporated by reference herein.)
+
+ 10.0     Forms of Officer Employment Agreements.
+              (Filed as Exhibit 10.0 to the Company's Annual Report on Form 10-K for fiscal
+              year ended June 27, 1993 and incorporated by reference herein.)
+
+ 10.1     Survivor Annuity Plan.
+              (Filed as Exhibit 10.1 to the Company's Annual Report on Form 10-K for fiscal
+              year ended June 30, 1986 and incorporated by reference herein.)
+
+ 10.2     Supplemental Retirement Program.
+              (Filed as Exhibit 10.3 to the Company's Annual Report on Form 10-K for fiscal
+              year ended June 30, 1990 and incorporated by reference herein.)
+
+ 10.3     Economic Value Added Incentive Compensation Plan.
+              (Filed as Exhibit 10.3 to the Company's Annual Report on Form 10-K for fiscal
+              year ended June 27, 1993 and incorporated by reference herein.)
+
+ 10.4     Form of Change of Control Employment Agreements.
+           (Filed as Exhibit 10.4 to the Company's Annual Report on Form 10-K for fiscal
+           year ended June 27, 1993 and incorporated by reference herein.)
+
+ 10.5     Trust Agreement with an independent trustee to provide payments
+          under various compensation agreements with company employees upon the occurrence
+          of a change in control.
+               (Filed as Exhibit 10.1 to the Company's Report on Form
+               10-Q for the quarter ended October 1, 1989, and incorporated by reference herein.)
+
+ 10.6     Stock Incentive Plan.
+             (Filed as Exhibit A to the Company's 1993 Annual Meeting Proxy Statement, which
+             was filed as Exhibit 100A to the Company's Annual Report on Form 10-K for fiscal
+             year ended June 27, 1993 and incorporated by reference herein.)
+
+ 10.7     Leveraged Stock Option Program
+             (Filed as Exhibit 10.7 to the Company's Annual Report on Form 10-K for fiscal
+             year ended June 27, 1993 and incorporated by reference herein.)
+
+ 10.8     Deferred Compensation Agreement
+             (Filed herewith.)
+
+ 13       Annual Report to Shareholders for Year Ended July 3, 1994.
+             (Filed herewith solely to the extent specific portions thereof are incorporated
+             herein by reference.)
+</TABLE>
+
+                                      14
+<PAGE>   17
+<TABLE>
+<CAPTION>
+Exhibit
+Number          Description
+- - - ------         -------------
+<S>       <C>
+21        Subsidiaries of the Registrant.
+            (Filed as Exhibit 22 to the Company's Annual Report on Form 10-K for fiscal
+            year ended June 27, 1993 and incorporated by reference herein.)
+
+23        Consent of Independent Public Accountants.
+            (Filed herewith.)
+
+24        Power of Attorney
+            (Included in the Signature Page of this report.)
+
+27        Financial Data Schedule
+            (Filed herewith.)
+</TABLE>
+
+
+                                   15
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.8
+<SEQUENCE>2
+<DESCRIPTION>DEFERRED COMP. AGREEMT.
+<TEXT>
+
+<PAGE>   1
+                                                            EXHIBIT NO. 10.8
+
+                 BRIGGS & STRATTON CORPORATION AND SUBSIDIARIES
+
+
+                        DEFERRED COMPENSATION AGREEMENT
+
+         AGREEMENT made this 9th day of June, 1994, between Briggs & Stratton
+Corporation (the "Company") and Frederick P. Stratton, Jr. (the "Executive").
+
+         1.  DEFERRAL OF COMPENSATION. This Agreement shall operate to defer,
+on an unfunded basis, compensation earned by the Executive as an employee of
+the Company for the company's fiscal year ending in 1995, to the extent that
+such compensation would otherwise be non-deductible under Section 162 (m) of
+the Internal Revenue Code, as amended from time to time. The amount deferred
+hereunder shall be paid to the Executive as soon as practicable following the
+Company fiscal year in which the executive terminates employment with the
+Company, such payment to be made in one lump sum, or in such other manner as
+may be agreed upon between the Executive and the Company's Nominating and
+Salary Personnel Committee of the Board. Such agreement, if any, must occur
+before the termination of employment by the Executive, or such payment shall be
+in a lump sum.
+
+         2.  DEATH OF EXECUTIVE. If the Executive dies prior to receiving all
+funds payable hereunder, the entire unpaid balance shall be paid in the same
+manner as provided for the Executive under the Company's Economic Value Added
+Incentive Compensation Plan.
+
+         3.  BINDING EFFECT. This Agreement has been approved by the Company's
+Board of Directors and its Nominating and Salaried Personnel Committee, and
+shall be binding and inure to the benefit of the Company, its successors and
+assigns and the Executive and his heirs, executors, administrators, and legal
+representatives.
+
+         4.  MISCELLANEOUS. Amounts deferred hereunder shall be credited with
+interest on a book (unfunded) basis beginning on the last day of the Company
+fiscal year for which a deferral is made, and continuing thereafter at a rate
+equal to 80% of the prime rate made available to the best customers of Firstar
+Bank Milwaukee N.A., and adjusted and compounded annually as of the last day of
+each subsequent Company fiscal year until paid. Payment of deferrals hereunder
+shall be subject to tax or other withholding requirements as may be required by
+law. The Company's Board, or its Nominating and Salaried Personnel Committee,
+shall have the power to modify or terminate this Agreement, but only with
+consent of the Executive.
+
+                                      16
+<PAGE>   2
+
+
+         IN WITNESS WHEREOF, Briggs & Stratton Corporation has caused this
+Deferred Compensation Agreement to be executed by its duly authorized Director
+and Frederick P. Stratton, Jr., together with his spouse, Anne Y. Stratton,
+hereunto have set their hands as of the date first above written.
+
+                                             BRIGGS & STRATTON CORPORATION
+
+                                             By: /s/ John L. Murray
+                                                ---------------------------
+                                             John L. Murray
+                                             Chairman, Nominating and
+                                             Salaried Personnel Committee
+
+
+                                             /s/ Frederick P. Stratton, Jr.
+                                             ------------------------------
+                                               Frederick P. Stratton, Jr.
+
+
+                                             /s/ Anne Y. Stratton
+                                             ------------------------------
+                                             Anne Y. Stratton
+
+                                      17
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>3
+<DESCRIPTION>ANNUAL REPORT TO SHAREHOLDERS
+<TEXT>
+
+<PAGE>   1
+                                                                     EXHIBIT 13
+CONSOLIDATED STATEMENTS OF INCOME                                   
+- - - --------------------------------------------------------------------------------
+
+FOR THE YEARS ENDED JULY 3, 1994, JUNE 27, 1993, AND JUNE 30, 1992
+
+
+<TABLE>
+<CAPTION>
+                                                                        1994                  1993                  1992
+                                                                        ----                  ----                  ----
+<S>                                                                <C>                   <C>                  <C>           
+NET SALES .....................................................    $1,285,517,000        $1,139,462,000       $1,041,828,000
+COST OF GOODS SOLD.............................................     1,018,977,000           926,861,000          867,780,000
+                                                                  ---------------        --------------       --------------
+  Gross Profit on Sales........................................       266,540,000           212,601,000          174,048,000
+ENGINEERING, SELLING,                                                                                       
+  GENERAL AND                                                                                               
+  ADMINISTRATIVE EXPENSES.....................................         94,795,000            83,176,000           78,736,000
+                                                                  ---------------        --------------       --------------
+   Income from Operations.....................................        171,745,000           129,425,000           95,312,000
+INTEREST EXPENSE..............................................         (8,997,000)          (11,283,000)         (11,246,000)
+OTHER INCOME (EXPENSE), Net...................................          6,973,000            (3,737,000)          (3,863,000)
+                                                                  ---------------        --------------       --------------
+  Income Before Provision for                                                                               
+    Income Taxes..............................................        169,721,000           114,405,000           80,203,000
+PROVISION FOR INCOME TAXES....................................         67,240,000            44,060,000           28,700,000
+                                                                  ---------------        --------------       --------------
+  Net Income Before Cumulative Effect of                                                                    
+    Accounting Changes........................................        102,481,000            70,345,000           51,503,000
+CUMULATIVE EFFECT OF 
+  ACCOUNTING CHANGES FOR:
+    Postretirement Health Care, Net of
+      Income Taxes of $25,722,000.............................        (40,232,000)               -                    -
+
+    Postemployment Benefits, Net of
+      Income Taxes of $430,000................................           (672,000)               -                    - 
+    Deferred Income Taxes.....................................          8,346,000                -                    - 
+                                                                  ---------------        --------------       --------------
+                                                                      (32,558,000)               -                    - 
+                                                                  ---------------        --------------       --------------
+NET INCOME....................................................     $   69,923,000        $   70,345,000       $   51,503,000
+                                                                  ===============        ==============       ==============
+PER SHARE DATA:
+    Net Income Before Cumulative Effect of
+      Accounting Changes......................................     $         7.09        $         4.86       $         3.56
+
+    Cumulative Effect of
+      Accounting Changes......................................              (2.25)                -                    - 
+                                                                  ---------------        --------------       --------------
+NET INCOME....................................................     $         4.84        $         4.86       $         3.56
+                                                                  ===============        ==============       ==============
+                                                                                                            
+
+</TABLE>
+
+The accompanying notes to consolidated financial statements are an integral part
+of these statements.
+
+
+
+
+                                                                             15
+
+<PAGE>   2
+
+CONSOLIDATED BALANCE SHEETS
+- - - --------------------------------------------------------------------------------
+
+
+AS OF JULY 3, 1994 AND JUNE 27, 1993
+
+<TABLE>
+<CAPTION>
+                                                                                      1994                         1993
+                                                                                      ----                         ----
+<S>                                                                               <C>                         <C>
+ASSETS                                                                            
+CURRENT ASSETS:
+  Cash and Cash Equivalents...................................................    $ 221,101,000               $  39,501,000
+  Short-Term Investments......................................................          -                        70,422,000
+  Receivables, Less Reserves of $1,678,000 and $754,000, Respectively.........      122,597,000                 124,981,000
+  Inventories -
+    Finished Products and Parts...............................................       55,847,000                  46,061,000
+    Work in Process...........................................................       27,078,000                  25,320,000
+    Raw Materials.............................................................        2,745,000                   2,684,000
+                                                                                  -------------               -------------
+      Total Inventories.......................................................       85,670,000                  74,065,000
+  Future Income Tax Benefits..................................................       32,868,000                  27,457,000
+  Prepaid Expenses............................................................       20,548,000                  16,537,000
+                                                                                  -------------               -------------
+      Total Current Assets....................................................      482,784,000                 352,963,000
+PREPAID PENSION COST..........................................................        8,681,000                   7,602,000
+PLANT AND EQUIPMENT:
+  Land and Land Improvements..................................................       10,279,000                  10,991,000
+  Buildings...................................................................      111,966,000                 114,066,000
+  Machinery and Equipment.....................................................      530,701,000                 516,565,000
+  Construction in Progress....................................................       16,647,000                  16,498,000
+                                                                                  -------------               -------------
+                                                                                    669,593,000                 658,120,000
+  Less - Accumulated Depreciation and Unamortized
+    Investment Tax Credit.....................................................      383,703,000                 362,578,000
+                                                                                  -------------               -------------
+      Total Plant and Equipment, Net..........................................      285,890,000                 295,542,000
+                                                                                  -------------               -------------
+                                                                                  $ 777,355,000               $ 656,107,000
+                                                                                  =============               =============
+
+LIABILITIES AND SHAREHOLDERS' INVESTMENT
+CURRENT LIABILITIES:
+  Accounts Payable............................................................    $  56,364,000               $  39,357,000
+  Foreign Loans...............................................................       21,323,000                  15,927,000
+  Accrued Liabilities -
+    Wages and Salaries........................................................       48,545,000                  34,668,000
+    Warranty..................................................................       29,800,000                  28,318,000
+    Taxes, Other Than Income Taxes............................................        6,772,000                   6,003,000
+    Other.....................................................................       34,837,000                  23,079,000
+                                                                                  -------------               -------------
+      Total Accrued Liabilities...............................................      119,954,000                  92,068,000
+  Federal and State Income Taxes..............................................        9,103,000                  10,592,000
+                                                                                  -------------               -------------
+      Total Current Liabilities...............................................      206,744,000                 157,944,000
+DEFERRED INCOME TAXES.........................................................       12,317,000                  49,900,000
+ACCRUED EMPLOYEE BENEFITS.....................................................       15,423,000                  13,305,000
+ACCRUED POSTRETIREMENT HEALTH CARE OBLIGATION ................................       64,079,000                       -
+LONG-TERM DEBT................................................................       75,000,000                  75,000,000
+SHAREHOLDERS' INVESTMENT:
+  Common Stock -
+    Authorized 30,000,000 shares $.01 Par Value,
+      Issued and Outstanding 14,463,500 Shares in 1994 and 1993................         145,000                     145,000
+  Additional Paid-In Capital..................................................       42,358,000                  42,883,000
+  Retained Earnings...........................................................      362,136,000                 318,247,000
+  Cumulative Translation Adjustments..........................................         (847,000)                 (1,317,000)
+                                                                                  -------------               -------------     
+      Total Shareholders' Investment..........................................      403,792,000                 359,958,000
+                                                                                  -------------               -------------
+                                                                                  $ 777,355,000               $ 656,107,000
+                                                                                  =============               =============
+ </TABLE>
+
+The accompanying notes to consolidated financial statements are an integral 
+part of these balance sheets.
+
+
+
+
+
+16
+<PAGE>   3
+CONSOLIDATED STATEMENTS
+OF SHAREHOLDERS' INVESTMENT
+- - - --------------------------------------------------------------------------------
+FOR THE YEARS ENDED JULY 3, 1994, JUNE 27, 1993 AND JUNE 30, 1992
+
+
+<TABLE>
+<CAPTION>
+
+                                                                         Additional                                   Cumulative
+                                                    Common                Paid-In               Retained              Translation
+                                                    Stock                 Capital               Earnings              Adjustments
+                                                 ------------           -----------          -------------           ------------
+<S>                                             <C>                   <C>                   <C>                     <C>
+BALANCES JUNE 30,1991 .......................    $ 43,391,000           $    -               $ 244,129,000           $ (2,805,000)
+  Net Income  ...............................          -                     -                  51,503,000                 -
+  Cash Dividends Paid ($1.60 per share) .....          -                     -                 (23,142,000)                -
+  Currency Translation Adjustments  .........          -                     -                      -                    (672,000)
+                                                 ------------           -----------          -------------           ------------
+BALANCES JUNE 30, 1992  .....................      43,391,000                -                 272,490,000             (3,477,000)
+  Net Income  ...............................          -                     -                  70,345,000                 -
+  Cash Dividends Paid ($1.70 per share) .....          -                     -                 (24,588,000)                -
+  Reduction of Par Value  ...................     (43,246,000)           43,246,000                 -                      -
+  Purchase of Common Stock  
+   for Treasury .............................          -                   (463,000)                -                      -
+  Proceeds from Exercise of 
+   Stock Options  ...........................          -                    100,000                 -                      -
+  Currency Translation Adjustments  .........          -                     -                      -                  (1,340,000)
+  Loss on Foreign Subsidiary  ...............          -                     -                      -                   3,500,000
+                                                 ------------           -----------          -------------           ------------
+BALANCES JUNE 27, 1993  .....................         145,000            42,883,000            318,247,000             (1,317,000)
+  Net Income  ...............................          -                     -                  69,923,000                 -
+  Cash Dividends Paid ($1.80 per share) .....          -                     -                 (26,034,000)                -
+  Purchase of Common Stock  
+   for Treasury .............................          -                   (791,000)                -                      -
+  Proceeds from Exercise of 
+   Stock Options  ...........................          -                    266,000                 -                      -
+  Currency Translation Adjustments  .........          -                     -                      -                     470,000
+                                                 ------------           -----------          -------------           ------------
+BALANCES JULY 3, 1994 .......................    $    145,000           $42,358,000          $ 362,136,000           $   (847,000)
+                                                 ============           ===========          =============           ============
+
+</TABLE>
+
+
+
+The accompanying notes to consolidated financial statements are an integral
+part of these statements.
+
+
+
+                                                                               
+                                                                             17
+<PAGE>   4
+
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+- - - --------------------------------------------------------------------
+
+FOR THE YEARS ENDED JULY 3, 1994, JUNE 27, 1993 AND JUNE 30, 1992
+
+<TABLE>
+<CAPTION>
+                                                                                      
+Increase (Decrease) in Cash and Cash Equivalents                                      
+                                                                             1994                1993              1992
+                                                                             ----                ----              ----
+<S>                                                                     <C>                <C>                <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:                                                 
+  Net Income...............................................             $ 69,923,000       $  70,345,000      $ 51,503,000 
+  Adjustments to Reconcile Net Income to                                                                         
+    Net Cash Provided by Operating Activities -                                                        
+
+    Cumulative Effect of Accounting Changes,                                                 
+      Net of Income Taxes..................................               32,558,000              -                 -
+    Depreciation...........................................               42,950,000          47,222,000        41,113,000 
+    (Gain) Loss on Disposition of Plant and Equipment......                  (96,000)          4,027,000         6,175,000 
+    Loss on Foreign Subsidiary.............................                   -                3,500,000            -  
+    Change in Operating Assets and Liabilities -                                      
+      (Increase) Decrease in Receivables...................                2,384,000         (21,366,000)      (20,089,000)
+      (Increase) in Inventories............................              (11,605,000)         (1,576,000)       (7,449,000)
+      (Increase) in Other Current Assets...................              (10,593,000)         (1,893,000)       (6,680,000)
+      Increase in Accounts Payable,                                                   
+        Accrued Liabilities and Income Taxes...............               38,132,000          13,731,000        22,981,000
+      Other, Net...........................................                1,420,000          (3,699,000)       (6,645,000)
+                                                                        ------------         -----------       -----------
+        Net Cash Provided by Operating Activities..........              165,073,000         110,291,000        80,909,000
+                                                                        ------------         -----------       -----------
+CASH FLOWS FROM INVESTING ACTIVITIES:                                                 
+  Additions to Plant and Equipment.........................              (40,804,000)        (38,110,000)      (40,224,000)
+  Proceeds Received on Sale of Plant and Equipment.........                7,268,000             626,000         4,121,000
+  Sale (Purchase) of Short-Term Investments................               70,422,000         (70,422,000)           -
+                                                                        ------------         -----------       -----------
+        Net Cash Provided by (Used in) Investing                                      
+        Activities.........................................               36,886,000        (107,906,000)      (36,103,000)
+                                                                        ------------         -----------       -----------
+CASH FLOWS FROM FINANCING ACTIVITIES:                                                
+  Net Borrowings (Repayments) on Loans and Notes Payable...                5,396,000         (15,926,000)       11,398,000
+  Cash Dividends Paid......................................              (26,034,000)        (24,588,000)      (23,142,000)
+  Purchase of Common Stock for Treasury....................                 (791,000)           (463,000)           -
+  Proceeds from Exercise of Stock Options..................                  266,000             100,000            -
+                                                                        ------------         -----------       -----------
+        Net Cash Used in Financing Activities..............              (21,163,000)        (40,877,000)      (11,744,000)
+                                                                        ------------         -----------       -----------
+EFFECT OF FOREIGN CURRENCY EXCHANGE RATE                                              
+  CHANGES ON CASH AND CASH EQUIVALENTS.....................                  804,000            (949,000)       (1,191,000)
+                                                                        ------------         -----------       -----------
+NET INCREASE (DECREASE) IN CASH AND                                                   
+  CASH EQUIVALENTS.........................................              181,600,000         (39,441,000)       31,871,000
+CASH AND CASH EQUIVALENTS:                                                            
+  Beginning of Year........................................               39,501,000          78,942,000        47,071,000
+                                                                        ------------         -----------       -----------
+  End of Year..............................................             $221,101,000       $  39,501,000      $ 78,942,000
+                                                                        ============       =============      ============
+SUPPLEMENTAL DISCLOSURE OF                                                            
+  CASH FLOW INFORMATION:                                                              
+  Interest Paid............................................             $  8,997,000       $  11,286,000      $ 11,198,000
+                                                                        ============       =============      ============
+  Income Taxes Paid........................................             $ 77,748,000       $  54,228,000      $ 31,000,000
+                                                                        ============       =============      ============
+</TABLE>                                                              
+                                                                      
+     The accompanying notes to consolidated financial statements are an 
+integral part of these statements.
+
+18
+<PAGE>   5
+NOTES TO
+CONSOLIDATED FINANCIAL STATEMENTS
+- - - -------------------------------------------------------------------------------
+
+FOR THE YEARS ENDED JULY 3, 1994, JUNE 27, 1993 AND JUNE 30, 1992
+
+(1) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+The significant accounting policies followed by Briggs & Stratton Corporation
+and subsidiaries (the Company) in the preparation of these financial
+statements, as summarized below, are in conformity with generally accepted
+accounting principles.
+
+Fiscal Year: During 1993, the Company changed its fiscal year from June 30 each
+year to 52 or 53 week year ending on the Sunday nearest the last day of June in
+each year.  Therefore, the 1994 fiscal year ended on July 3 (and was 53 weeks
+long) and the 1993 fiscal year ended on June 27 (52 weeks).  Fiscal year 1992
+was under the fiscal calendar which ended on June 30. All references to years
+relate to fiscal years rather than calendar years.
+
+Principles of Consolidation: The consolidated financial statements include the
+accounts of Briggs & Stratton Corporation and its wholly owned domestic and
+foreign subsidiaries after elimination of intercompany accounts and
+transactions.
+
+Cash and Cash Equivalents:  This caption includes cash and certificates of
+deposit.  The Company considers all highly liquid investments purchased with a
+maturity of three months or less to be cash equivalents.
+
+Short-Term Investments: This caption represents short maturity mutual fund
+investments that can be readily purchased or sold using established markets.  
+These investments are stated at cost plus accrued income which equals market
+value.  There were none at the end of fiscal 1994.
+
+Inventories: Inventories are stated at cost, which does not exceed market.  The
+last-in, first-out (LIFO) method was used for determining the cost of
+approximately 89% of total inventories at July 3, 1994, 89% at June 27, 1993
+and 90% at June 30, 1992.  The cost for the remaining portion of the inventories
+was determined using the first-in, first-out (FIFO) method.  If the FIFO
+inventory valuation method had been used exclusively, inventories would have
+been $42,268,000, $40,888,000 and $39,738,000 higher in the respective years.
+The LIFO inventory adjustment was determined on an overall basis, and
+accordingly, each class of inventory reflects an allocation based on the FIFO
+amounts.
+
+Plant and Equipment and Depreciation: Plant and equipment is stated at cost, and
+depreciation is computed using the straight-line method at rates based upon the
+estimated useful lives of the assets.
+
+Expenditures for repairs and maintenance are charged to expense as incurred.
+Expenditures for major renewals and betterments, which significantly extend the
+useful lives of existing plant and equipment, are capitalized and depreciated.
+Upon retirement or disposition of plant and equipment, the cost and related
+accumulated depreciation are removed from the accounts and any resulting gain
+or loss is recognized in income.
+
+Investment Tax Credits: The Company follows the deferral method of accounting
+for the Federal investment tax credit.  The credit, which was eliminated in
+1986, has been recorded as an addition to accumulated depreciation and is being
+amortized over the estimated useful lives of the related assets via a reduction
+of depreciation expense.
+
+The amounts amortized into income in each of the three years were $830,000 in
+1994, $880,000 in 1993 and $1,030,000 in 1992.  At the end of fiscal years 1994
+and 1993, unamortized deferred investment tax credits aggregated $3,225,000 and
+$4,055,000, respectively.
+
+                                                                       19
+<PAGE>   6
+NOTES . . .
+- - - -------------------------------------------------------------------------------
+Income Taxes: The Provision for Income Taxes includes Federal, state and
+foreign income taxes currently payable and those deferred or prepaid because of
+temporary differences between financial statement and tax bases of assets and
+liabilities. The Future Income Tax Benefits represent temporary differences
+relating to current assets and current liabilities and the Deferred Income
+Taxes represent temporary differences relating to noncurrent assets and
+liabilities.
+
+Research and Development Costs: Expenditures relating to the development of new
+products and processes, including significant improvements and refinements to
+existing products, are expensed as incurred. The amounts charged against income
+were $12,520,000 in 1994, $10,411,000 in 1993 and $10,808,000 in 1992.
+
+Accrued Employee Benefits: The Company's life insurance program includes
+payment of a death benefit to beneficiaries of retired employees. The Company
+accrues for the estimated cost of these benefits over the estimated working 
+life of the employee. Past service costs for all retired employees have been 
+fully provided for and the Company also accrues for the estimated cost of 
+supplemental retirement and death benefit agreements with executive officers.
+
+Accrued Postretirement Health Care Obligation:  During the 1994 fiscal year,
+the Company adopted the accounting prescribed in FAS 106 (Postretirement
+Benefits Other Than Pensions).  This change and the amounts associated with it
+are more fully described in Note No. 9.
+
+Foreign Currency Translation: Foreign currency balance sheet accounts are
+translated into United States dollars at the rates of exchange in effect at
+fiscal year end. Income and expenses are translated at the average rates of
+exchange in effect during the year. The related translation adjustments are
+made directly to a separate component of shareholders' investment.
+
+(2) INCOME TAXES:
+
+The provision for income taxes consists of the following (in thousands of
+dollars):
+
+<TABLE>
+<CAPTION>
+
+                                     1994        1993        1992
+                                     ----        ----        ----
+<S>                                <C>         <C>         <C>
+
+Current
+  Federal......................    $62,795     $43,403     $30,677
+  State........................     10,482       7,464       4,508
+  Foreign......................      2,059         818       1,585
+                                   -------     -------     -------
+                                    75,336      51,685      36,770
+Deferred.......................     (8,096)     (7,625)     (8,070)
+                                   -------     -------     -------
+Total..........................    $67,240     $44,060     $28,700
+                                   =======     =======     =======
+</TABLE>
+
+The provision for deferred income taxes consists of the following items (in
+thousands of dollars):
+
+<TABLE>
+<CAPTION>
+
+                                     1994        1993        1992
+                                     ----        ----        ----
+<S>                                <C>         <C>         <C>
+
+Future income tax effect of
+  tax depreciation in excess
+  of (or less than) book
+  depreciation..................   $(2,232)    $(3,007)    $  955
+
+Tax effect resulting from
+  maintenance and supply
+  inventories being capitalized
+  for tax purposes, but which
+  continue to be expensed for
+  book purposes.................       731       1,213     (4,433)
+
+Difference between book and tax
+  loss on sale of fixed assets..        -           -      (2,144)
+
+Other items.....................    (6,595)     (5,831)    (2,448)
+                                   -------     -------    -------
+                                   $(8,096)    $(7,625)   $(8,070)
+                                   =======     =======    =======
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+A reconciliation of the U.S. statutory tax rates to the effective tax rates
+follows:
+
+<TABLE>
+<CAPTION>
+
+                                     1994        1993        1992
+                                     ----        ----        ----
+<S>                                 <C>          <C>         <C>
+
+U.S. statutory rate..............   35.0%        34.0%       34.0%
+
+State taxes, net of Federal
+  tax benefit....................    3.6%         3.8%        2.9%
+
+Foreign Sales Corporation tax
+  benefit........................    (.5%)        (.9%)      (1.1%)
+
+Loss on foreign subsidiary not
+  deductible.....................     -           1.0%         - 
+
+Other............................    1.5%          .6%         - 
+                                    ----         ----        ----
+Effective tax rate...............   39.6%        38.5%       35.8%
+                                    ====         ====        ====
+</TABLE>
+
+
+20
+<PAGE>   7
+NOTES . . .
+- - - --------------------------------------------------------------------------------
+
+At the beginning of fiscal year 1994, the Company adopted Financial Accounting
+Standard (FAS) No. 109 which required a change in the recording of deferred
+taxes.  The former method emphasized provisions which were made in the income
+statement.  The emphasis in the new method is on the balance sheet and requires
+that the amounts to be recorded are the amounts which will eventually be paid
+out.  The adoption of this standard resulted in a cumulative adjustment which
+was recorded as income totaling $8,346,000 or $.58 per share.
+
+The components of deferred tax assets and liabilities at the end of the fiscal
+year were:
+
+<TABLE>
+<CAPTION>
+        Future Income Tax Benefits:
+        <S>                                             <C>
+        Inventory................................       $ 3,675,000
+        Prepaid Expenses.........................         1,712,000
+        Payroll Related Accruals.................         7,145,000
+        Warranty Reserves........................        11,622,000
+        Other Accrued Liabilities................         6,727,000
+        Miscellaneous............................         1,987,000
+                                                        -----------
+                                                        $32,868,000
+                                                        ===========
+<CAPTION>
+        Deferred Income Taxes:
+        <S>                                             <C>
+        Difference between book and tax methods
+          applied to maintenance and supply
+          inventories............................       $(4,037,000)
+        Prepaid Pension Cost.....................         3,487,000
+        Accumulated Depreciation.................        43,866,000
+        Accrued Employee Benefits................        (6,047,000)
+        Postretirement
+          Health Care Obligation.................       (24,991,000)
+        Miscellaneous............................            39,000
+                                                        -----------
+                                                        $12,317,000
+                                                        ===========
+
+</TABLE>
+
+(3) INDUSTRY SEGMENTS:
+
+Certain information concerning the Company's industry segments is presented
+below (in thousands of dollars):
+
+<TABLE>
+<CAPTION>
+                                                         YEAR ENDED
+                                          ---------------------------------------
+                                          7-3-94          6-27-93         6-30-92
+                                          ------          -------         -------
+<S>                                     <C>             <C>             <C>
+SALES -
+ Engines & parts...................     $1,197,744      $1,066,053      $  967,802
+ Locks.............................         87,773          73,409          74,026
+                                        ----------      ----------      ----------
+                                        $1,285,517      $1,139,462      $1,041,828
+                                        ==========      ==========      ==========
+INCOME FROM OPERATIONS -
+ Engines & parts...................     $  158,900      $  128,079      $   90,781
+ Locks.............................         12,845           1,346           4,531
+                                        ----------      ----------      ----------
+                                        $  171,745      $  129,425      $   95,312
+                                        ==========      ==========      ==========
+
+ASSETS -
+ Engines & parts...................     $  467,561      $  458,369      $  455,691
+ Locks.............................         46,832          49,557          45,713
+ Unallocated.......................        262,962         148,181         112,449
+                                        ----------      ----------      ----------
+                                        $  777,355      $  656,107      $  613,853
+                                        ==========      ==========      ==========
+DEPRECIATION EXPENSE -
+ Engines & parts...................     $   40,605      $   44,895      $   38,808
+ Locks.............................          2,345           2,327           2,305
+                                        ----------      ----------      ----------
+                                        $   42,950      $   47,222      $   41,113
+                                        ==========      ==========      ==========
+EXPENDITURES FOR PLANT AND
+EQUIPMENT -     
+ Engines & parts...................     $   37,398      $   34,251      $   37,035
+ Locks.............................          3,406           3,859           3,189
+                                        ----------      ----------      ----------
+                                        $   40,804      $   38,110      $   40,224
+                                        ==========      ==========      ==========
+
+</TABLE>
+
+Unallocated assets include cash and cash equivalents, short-term investments,
+future income tax benefits, prepaid pension costs and other assets.
+
+Export sales for fiscal 1994 were $264,866,000 (21% of total sales), for fiscal
+1993 were $249,610,000 (22%) and for fiscal 1992 were $210,728,000 (20%).  These
+sales were principally to customers in European countries.
+
+In the fiscal years 1994, 1993 and 1992, there were sales to three major engine
+customers that exceeded 10% of total Company net sales.  The sales to these
+customers are summarized below (in thousands of dollars and percent of total
+Company sales):
+
+
+<TABLE>
+<CAPTION>                                                   
+                      1994               1993               1992
+                      ----               ----               ----
+     Customer    Sales      %        Sales      %        Sales     %
+                 -----      -        -----      -        -----     -
+        <S>     <C>        <C>     <C>         <C>     <C>        <C>
+        A       $234,363   18%     $214,995    19%     $187,498   18%
+        B        149,397   12%      139,662    12%      126,539   12%
+        C        148,091   12%      119,912    11%      119,612   11%
+                --------   ---     --------    ---     --------   ---
+                $531,851   42%     $474,569    42%     $433,649   41%
+                ========   ===     ========    ===     ========   ===
+                                                               
+</TABLE>
+
+                                                                            21
+<PAGE>   8
+NOTES . . .
+- - - -------------------------------------------------------------------------------
+
+(4)  INDEBTEDNESS:
+
+The Company had access to domestic lines of credit totaling $47,000,000 during
+the fiscal year 1994.  These lines will remain available until they expire at
+various dates, the latest of which is in November, 1994.  These lines are
+renewable annually with arrangements providing amounts for short-term use at
+the then prevailing rate.  There are no significant compensating balance
+requirements.
+
+The following data relates to domestic notes payable:
+
+
+<TABLE>
+<CAPTION>
+                                              1994          1993
+                                              -----         ----
+<S>                                        <C>          <C>
+Balance at
+  Fiscal Year End ......................   $  -         $  -
+Weighted Average 
+  Interest Rate at
+  Fiscal Year End ......................      -            - 
+Maximum Amount
+  Outstanding at
+  Any Month End  .......................      -         $77,223,000
+Average Amount
+  Outstanding ..........................   $  70,000    $24,800,000
+Weighted Average
+  Interest Rate
+  During the Year ......................       3.59%          3.77%
+
+</TABLE>
+
+The lines of credit available to the Company in foreign countries are in
+connection with short-term borrowings and bank overdrafts used in the normal
+course of business.  These amounts total $29,000,000 and expire at various
+times through March, 1995.  None of these arrangements had material commitment
+fees for compensating balance requirements.
+The following information relates to the foreign loans:
+
+
+<TABLE>
+<CAPTION>
+                                               1994          1993
+                                               -----         ----
+<S>                                        <C>            <C>
+Balance at
+  Fiscal Year End ......................   $21,323,000   $15,927,000
+Weighted Average 
+  Interest Rate at
+  Fiscal Year End ......................         6.13%         7.90%
+Maximum Amount
+  Outstanding at
+  Any Month End  .......................   $24,174,000   $31,774,000
+Average Amount
+  Outstanding ..........................   $19,508,000   $26,802,000
+Weighted Average
+  Interest Rate
+  During the Year ......................         6.86%         9.27%
+
+</TABLE>
+
+The Company's long-term debt consists of 9.21% Senior Notes due June 15, 2001. 
+Payments on these notes are due in five equal annual installments beginning in
+1997.  The notes include covenants that limit total borrowings, require
+maintenance of $200,000,000 minimum net worth and set certain restrictions on
+the sale or collateralizing of the Company's assets.
+
+(5)  OTHER INCOME (EXPENSE):
+
+The components of the other income (expense) are (in thousands of dollars):
+
+
+<TABLE>
+<CAPTION>
+
+                                                   Year Ended
+                                          -------------------------------
+                                           7-3-94     6-27-93     6-30-92
+                                           ------     -------     --------
+<S>                                       <C>         <C>         <C>
+Interest Income  ....................     $ 3,527     $ 1,640     $ 1,451
+Gain on sale of German
+ land and buildings .................       2,819         -           - 
+Loss on sale of
+ plastic molding
+ operation ..........................         -           -        (1,623)
+Loss on retirement
+ of assets no longer
+ used in manufacturing
+ processes...........................         -        (1,996)     (2,122)     
+Loss on the
+ disposition of other
+ plant and equipment ................      (2,723)     (2,031)     (2,430)
+Loss on foreign
+ subsidiary..........................         -        (3,500)        -
+Income from joint
+ ventures ...........................       2,307       1,120         - 
+Other Items .........................       1,043       1,030         861
+                                          -------     -------     -------
+Total ...............................     $ 6,973     $(3,737)    $(3,863)
+                                          =======     =======     =======
+</TABLE>
+
+The $3,500,000 loss on foreign subsidiary in fiscal year 1993 is the
+recognition of the cumulative translation adjustment relating to the Company's
+German subsidiary, which changed business operations during the year from an
+engine and parts distributor to a commissioned agent.
+
+22
+<PAGE>   9
+NOTES . . .
+- - - --------------------------------------------------------------------------------
+
+(6) GUARANTEES AND COMMITMENTS:
+
+The Company is a 50% guarantor on bank loans of an unconsolidated Japanese
+joint venture for the manufacture of engines.  These bank loans totaled
+approximately $8,000,000 at the end of 1994 fiscal year.
+
+The Company has forward foreign currency exchange contracts to purchase 6.9
+billion Japanese yen for $68.5 million through June of 1995.  These contracts
+are used to hedge the commitments to purchase engines from the Company's
+Japanese joint venture.  The Company's European subsidiaries have forward
+currency contracts to exchange 15.7 million German Marks for $10.0 million
+through February of 1995.  The Company's Canadian subsidiary also has forward
+contracts to exchange 4.4 million Canadian dollars for 3.2 million U.S. dollars
+through June 1995.  These contracts are used to hedge intercompany inventory
+purchases by these foreign subsidiaries.  Accordingly, any gain or loss on the
+above contracts has been deferred at July 3, 1994.
+
+The Company's Board of Directors approved the building of three new plants in
+the United States.  It is anticipated that this project will total $112,000,000
+and will be financed from operating cash flow and available lines of credit. As
+of the date of this annual report, no sites had been decided upon and no
+contracts had been signed.
+
+The Company is also committed to the purchase of a foundry of which the total
+cost is estimated to be $20,000,000.
+
+The Company has no other material commitments for materials or capital
+expenditures at July 3, 1994.
+
+
+(7) STOCK OPTIONS:
+
+In 1990, shareholders approved the Stock Incentive Plan under which 400,000
+shares of the Company's common stock have been reserved for issuance. In fiscal
+1994, shareholders approved an additional 1,250,000 shares for issuance under
+the Stock Incentive Plan.
+
+Information on the options outstanding is as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                        Options
+                                                    Outstanding in
+                                                       Number of
+                                                     Common Stock
+                                                        Shares
+                                      -----------------------------------------
+                                         1994             1993           1992
+                                         ----             ----           ----
+<S>                                 <C>              <C>            <C>
+Balance, beginning of year........     195,092          207,500        102,500
+Granted during the year - 
+  1992 at $46.31 per share........         -                -          105,000 
+  1994 at $104.07 per share.......     126,710              -              -
+Exercised during the year.........      (9,500)         (12,408)           -
+Terminated during the year........      (8,870)             -              -
+                                       -------          -------        -------
+Balance, end of year..............     303,432          195,092        207,500
+                                       =======          =======        =======
+
+</TABLE>
+
+
+Options were granted in 1990 at $28.00 per share and will expire on February
+19, 2000. Options were granted in 1991 at $31.25 per share and will expire on
+February 18, 2001.
+
+Of the options granted in 1992, 50% are exercisable on or after January 1,
+1996, and the remainder are exercisable on or after January 1, 1997.  These
+options will expire on May 17, 2002.  The options exercised in the fiscal year
+1993 reflect an acceleration of exercise rights due to employee retirements and
+were issued from treasury shares purchased on the open market.  None were
+granted during fiscal 1993.  The options granted in 1994 will become
+exercisable August 16, 1996 and expire August 16, 1998.  All options were
+granted at a price equal to or greater than the fair market value at the date
+of grant.
+
+
+(8)  SHAREHOLDER RIGHTS PLAN:
+
+On December 20, 1989, the Board of Directors declared a dividend distribution
+of one common stock purchase right (a "right") for each share of the Company's
+common stock outstanding on January 5, 1990.  Each right would entitle
+shareowners to buy one-half of one share of the Company's common stock at an
+exercise price of $85.00 per share, subject to adjustment.  The rights are not
+currently exercisable, but would become exercisable if certain events occurred
+relating to a person or group acquiring or attempting to acquire 20 percent or
+more of the outstanding shares of common stock.  The rights expire on January
+5, 2000, unless redeemed or exchanged by the Company earlier.
+
+                                                                            23
+<PAGE>   10
+NOTES . . .
+- - - --------------------------------------------------------------------------------
+
+(9) RETIREMENT PLANS AND POSTRETIREMENT COSTS:
+The Company has noncontributory, defined benefit retirement plans covering 
+substantially all employees. The following tables summarize the plans' income 
+and expense, actuarial assumptions, and funded status for the three years 
+indicated (dollars in thousands):
+
+<TABLE>
+<CAPTION>
+
+                                                 Qualified Plans                     Supplemental Plans
+                                          ----------------------------         -----------------------------
+                                          1994       1993         1992         1994         1993        1992
+                                          ----       ----         ----         ----         ----        ----
+<S>                                     <C>          <C>         <C>          <C>          <C>        <C>
+Income and Expense:
+- - - -------------------                                                
+Service Cost-Benefits Earned
+  During the Year..................     $ 13,079     $ 12,222     $ 11,458     $   296     $   150     $   111
+Interest Cost on Projected
+  Benefit Obligation...............       36,408       35,448       33,040         706         542         482
+Actual Return on Plan Assets.......       (7,152)     (56,232)     (63,160)         (3)         (2)          4
+Net Amortization, Deferral
+  and Windows......................      (42,978)       8,577       17,134         380         198         178
+                                        --------     --------     --------     -------     -------      ------
+Net Periodic Pension
+  Expense (Income).................     $   (643)    $     15     $ (1,528)    $ 1,379     $   888     $   775
+                                        ========     ========     ========     =======     =======     =======
+Actuarial Assumptions:
+- - - ----------------------
+Discount Rate Used to Determine
+  Present Value of Projected
+  Benefit Obligation...............        7.75%        8.25%        8.25%       7.75%       8.25%       8.25%
+Expected Rate of Future
+  Compensation Level Increases.....         5.5%         5.5%         5.5%        5.5%        6.5%        7.0%
+Expected Long-Term Rate of
+  Return on Plan Assets............         9.0%         9.0%         9.0%        9.0%        9.0%        9.0%
+
+Funded Status:
+- - - --------------
+Actuarial Present Value of
+  Benefit Obligations:
+    Vested.........................     $359,383     $326,062     $315,589     $ 6,560     $ 5,592     $ 5,329
+    Non-Vested.....................       34,382       37,623       33,069          23           4           2
+                                        --------     --------     --------     -------     -------     -------
+    Accumulated Benefit
+    Obligation.....................      393,765      363,685      348,658       6,583       5,596       5,331
+Effect of Projected Future
+  Wage and Salary Increases........      112,771      101,471       83,879       3,267       1,410         916
+                                        --------     --------     --------     -------     -------     -------
+    Projected Benefit Obligation...      506,536      465,156      432,537       9,850       7,006       6,247
+Plan Assets at Fair Market Value...      560,585      578,780      546,755         103          58          37
+                                        --------     --------     --------     -------     -------     -------
+Plan Assets in Excess of (Less Than)
+  Projected Benefit Obligation.....       54,049      113,624      114,218      (9,747)     (6,948)     (6,210)
+Remaining Unrecognized Net
+  Obligation (Asset) Arising
+  from the Initial Application of
+  SFAS No. 87......................      (43,776)     (49,256)     (54,735)        336         414         492
+Unrecognized Net Loss (Gain).......         (502)     (55,560)     (51,154)      3,416       2,486       2,033
+Unrecognized Prior Service Cost....       (1,090)      (1,206)      (1,321)      1,176          -           - 
+                                        --------     --------     --------     -------     -------     -------
+Prepaid (Accrued) Pension Cost.....     $  8,681     $  7,602     $  7,008     $(4,819)    $(4,048)    $(3,685)
+                                        ========     ========     ========     =======     =======     =======
+
+</TABLE>
+
+Salaried employees of the Company may participate in a salary reduction deferred
+compensation plan. The Company makes matching contributions of $.50 for every
+$1.00 deferred by a participant to a maximum of 3% of each participant's salary.
+Company contributions totaled $1,630,000 in 1994, $1,461,000 in 1993 and
+$1,314,000 in 1992.
+
+24
+
+<PAGE>   11
+NOTES ...
+- - - --------------------------------------------------------------------------------
+
+At the beginning of fiscal year 1994, the Company adopted two additional
+Statements of Financial Accounting Standards (FAS) as follows:
+
+      FAS 106 - Postretirement Benefits Other   
+        Than Pensions -
+
+        This new standard requires that the Company record the expected cost of
+        health care and life insurance benefits during the years that the
+        employees render service - a significant change from the preceding
+        method which recognized health care benefits on a cash basis. 
+        Postretirement life insurance benefits were previously being accounted
+        for in a manner substantially emulating the new standards, so no
+        adjustment was necessary.  The cumulative effect of this change in
+        accounting for postretirement health care benefits was a charge totaling
+        $65,954,000 on a before tax basis or $40,232,000 on an after tax basis
+        ($2.78 per share).  The additional annual cost of accruing this cost
+        over the former method was approximately $2,000,000.
+
+        For measurement purposes, a 10.5% annual rate of increase in the per
+        capita cost of covered health care claims was assumed for the years 1995
+        through 1997, decreasing gradually to 6% for the year 2007.  The health
+        care cost trend rate assumption has a significant effect on the amounts
+        reported.  The rates, if increased by 1%, would add $6,806,000 to the
+        accumulated postretirement benefit and $849,000 to the service and
+        interest cost for the year.
+
+        The discount rate used in determining the accumulated postretirement
+        benefit obligations was 7.75% compounded annually.  Both the health care
+        and life insurance plans are unfunded.
+
+        The components of the accumulated postretirement benefit obligations at
+        the end of the 1994 fiscal year were (in thousands of dollars):
+
+
+
+
+<TABLE>
+<CAPTION>
+                                                                    Health              Life      
+                                                                     Care             Insurance   
+                                                                    ------            ---------   
+                <S>                                                <C>                 <C>        
+                Retirees .......................................   $20,063             $ 7,988    
+                Fully Eligible                                                                    
+                  Plan Participants ............................    12,110               1,299    
+                Other Active Participants ......................    36,155               1,402    
+                                                                   -------             -------    
+                                                                   $68,328             $10,689    
+                Unrecognized net obligation.....................      --                  (658)   
+                Unrecognized gain (loss) .......................       151                 (41)   
+                                                                   -------             -------    
+                                                                   $68,479             $ 9,990    
+                                                                                       =======    
+                Less current portion ...........................     4,400                        
+                                                                   -------                        
+                                                                   $64,079                        
+                                                                   =======                        
+</TABLE>                                                
+                                                        
+
+        The current portion of the health care component above represent the
+        benefits expected to be paid within the next twelve months and are
+        included in the caption Accrued Liabilities in the accompanying balance
+        sheet.  The net health care balance has its own caption in this balance
+        sheet.  The life insurance component is included in the caption Accrued
+        Employee Benefits. 
+
+        The net periodic postretirement costs recorded during fiscal 1994 were
+        (in thousands of dollars):
+
+
+
+<TABLE>
+<CAPTION>
+                                                                    Health              Life
+                                                                     Care             Insurance
+                                                                    ------            ---------
+                <S>                                                <C>                 <C>
+                Service Cost-benefits attributed to
+                  service during the year ......................   $ 1,768             $  75
+                Interest cost on accumulated 
+                  benefit obligation  ..........................     4,951               786
+                Other ..........................................      -                   47
+                                                                   -------             -----
+                                                                   $ 6,719             $ 908
+                                                                   =======             =====
+</TABLE>                                                
+                     
+                     
+        The cost of retiree health care benefits which were expensed when
+        claims were paid in previous fiscal years totaled $4,522,000 in 1993 and
+        $4,803,000 in 1992.
+                     
+                     
+
+                                                                              25
+<PAGE>   12
+NOTES . . .
+- - - ------------------------------------------------------------------------------
+
+      FAS 112 - Postemployment Benefits -
+
+        This new standard requires that the Company record the expected cost of
+        postemployment benefits (not to be confused with the postretirement     
+        benefits described in the preceding paragraphs), also over the years
+        that employees render service. These benefits are substantially smaller
+        amounts because they apply only to employees who permanently terminate
+        employment prior to retirement. The cumulative effect of this change
+        was a charge totaling $1,102,000 or $672,000 after taxes ($.05 per
+        share). There will be no significant increase in the annual costs of
+        these plans.
+
+        The items included in this amount are disability payments, life
+        insurance  and medical benefits, and these amounts are also discounted
+        using a 7.75%  interest rate.
+
+(10) DISCLOSURES ABOUT FAIR VALUE OF FINANCIAL INSTRUMENTS:
+
+The following methods and assumptions were used to estimate the fair value of
+each class of financial instruments for which it is practicable to estimate
+that value:
+
+Cash and Cash Equivalents: The carrying amount approximates fair value because
+of the short maturity of those instruments.
+
+Long-Term Debt: The fair value of the Company's long-term debt is estimated
+based on quotations made on similar issues.
+
+The estimated fair values of the Company's financial instruments are as follows
+(in thousands of dollars):
+
+
+<TABLE>
+<CAPTION>
+                                                          1994
+                                               --------------------------
+                                                Carrying            Fair
+                                                 Amount             Value
+                                               ----------          -------
+<S>                                            <C>                 <C>
+Cash and Cash Equivalents .................... $221,101            $221,101
+
+Long-Term Debt................................ $ 75,000            $ 77,889
+
+
+</TABLE>
+
+(11) RECAPITALIZATION:
+
+In October, 1992, the Company was reincorporated in the State of Wisconsin. As
+part of this reincorporation, each outstanding share of the old Delaware
+Corporation $3.00 par value common stock was converted automatically to one
+share of the new Wisconsin Corporation $.01 par value common stock. This change
+resulted in the transfer of $43,246,000 from the common stock account to the
+additional paid-in capital account.
+
+
+(12) SPIN-OFF
+
+The Company announced in May of 1994 that it intends to spin off the lock
+business to its shareholders. This spin-off is expected to occur in early
+calendar year 1995 and will be accomplished by creating a subsidiary corporation
+which will hold all of the assets and liabilities of the lock business and then
+immediately distributing the shares of this corporation to the Briggs & Stratton
+Corporation shareholders as a tax-free dividend.
+
+
+
+
+26
+
+<PAGE>   13
+REPORT OF 
+INDEPENDENT PUBLIC ACCOUNTANTS
+- - - ------------------------------------------------------------------------
+
+To the Shareholders of
+Briggs & Stratton Corporation:
+
+We have audited the accompanying consolidated balance sheets of Briggs &
+Stratton Corporation (a Wisconsin Corporation) and subsidiaries as of July 3,
+1994 and June 27, 1993, and the related consolidated statements of income,
+shareholders' investment and cash flows for each of the three years in the
+period ended July 3, 1994. These financial statements are the responsibility of
+the Company's management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of Briggs & Stratton Corporation
+and subsidiaries as of July 3, 1994 and June 27, 1993, and the results of their
+operations and their cash flows for each of the three years in the period ended
+July 3, 1994, in conformity with generally accepted accounting principles.
+
+As discussed in Notes 2 and 9 to the consolidated financial statements,
+effective at the beginning of the 1994 fiscal year, the Company changed its
+methods of accounting for postretirement benefits other than pensions,
+postemployment benefits and income taxes.
+
+
+
+                                               ARTHUR ANDERSEN & CO.
+
+
+Milwaukee, Wisconsin,
+July 28, 1994
+
+
+28       
+<PAGE>   14
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF 
+RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+- - - --------------------------------------------------------------------------------
+
+FISCAL 1994 COMPARED TO FISCAL 1993
+
+Sales for fiscal 1994 increased 13% or $146,055,000 over fiscal 1993 and
+totaled $1,285,517,000, a new record for the Company.  The major part of this
+increase, which is in engine sales, is the result of three factors: a 5%
+increase in engine units shipped; a modest increase in selling prices and a step
+up to higher selling price engines in the same horsepower category; and a
+continuance of the shift to higher horsepower, higher selling price engines. 
+These improvements occurred in the domestic market because of the heavy demand
+for lawn and garden equipment due primarily to favorable weather conditions and
+housing starts.  Export sales increased between years despite weak economies
+in Europe.  
+
+Service sales increased 7% between years, primarily because of an increase in
+demand for service parts.  Lock sales increased 20%, whereas lock unit sales
+increased 13%.  This reflects a trend to higher unit price lock sets.  The 
+increases in quantities are due to the growth in the U.S. car and truck 
+industry.
+
+The rate of gross profit increased from 19% in 1993 to 21% in 1994.  The
+increase in total volume contributed to this improvement by spreading fixed
+overhead over a larger number of engine units.  Increases in selling prices and
+sales of higher profit margin engines also contributed to this change.  The
+lack of the $8,408,000 additional depreciation recorded in fiscal 1993 also
+contributed to the improvement between years.
+
+Engineering, selling and general and administrative expenses increased
+$11,619,000 or 14% between years.  Approximately one-half of this amount is due
+to increased manpower costs which is primarily due to the increases in profit
+sharing accruals.  The remaining increase is due to additional operating
+expenses, primarily in the areas of professional services, advertising, and the
+provision to the reserve for doubtful accounts.  
+
+Interest expense is down $2,286,000 or 20% between years because of the lack of
+any substantial amounts of domestic working capital loans during the year.  The
+Company was able to finance virtually all of its midyear additional domestic
+working capital needs through available cash.  Foreign loans also generated
+less interest expense in 1994 due to a $7,294,000 reduction in average loans
+outstanding and a nearly 2.4% decrease in average interest rates.  The end of
+the year balance in foreign loans, however, reflected an increase of $5,400,000
+used for working capital needs at the Company's European subsidiaries.
+
+The Company has available $47,000,000 in domestic lines of credit plus an
+additional $56,000,000 in seasonal lines, which it used only a short time in
+midyear.  The Company makes extensive use of its foreign lines of credit
+through its foreign subsidiaries.  Also during the year the Company was in
+compliance with the covenants of the $75,000,000 long-term loan agreement.
+
+Other income and expense changed from a net expense in 1993 to a net income in
+1994.  The detail contents of this category are shown in Note 5.  The current
+fiscal year did not include the $3,500,000 write-off of the cumulative
+translation adjustment made in 1993.  Fiscal year 1994 did, however, contain a
+gain on the sale of a subsidiary's real estate in conjunction with the change
+in business in Germany in the previous fiscal year.  
+
+The provision for income taxes was higher between years primarily because of
+the increase in income.  The effective tax rate moved from  38.5% last year to
+39.6% in 1994.  This was primarily due to a 1% increase in the U.S. statutory
+rate.
+
+The cumulative effect of the changes in accounting, which amounted to a net
+$32,558,000 charge in the current year's statement of income, consists of
+amounts that come from adopting three Financial Accounting Standards (Numbers
+106, 109 and 112) during the year, and are fully described in Notes 2 and 9.
+
+Cash and equivalents and short-term investments increased $111,178,000 between
+years as a result of retaining funds generated by profitable operations during
+the year.  These funds and previously generated funds, along with the Company's
+lines of credit, will provide the majority of the financing for the plant
+expansions described in Note 6 and the normal higher working capital needs in
+the middle of the 1995 fiscal year. 
+
+Accounts receivable decreased $2,384,000 since the end of fiscal 1993.  This
+was in spite of a $70,196,000 increase in sales in the fourth fiscal quarter of
+1994 over the same period in 1993.   This improvement is due to a surge in
+sales at the end of the previous year's fourth quarter.
+
+
+                                                                            29
+<PAGE>   15
+MANAGEMENT'S DISCUSSION . . .
+- - - --------------------------------------------------------------------------------
+
+Inventories increased $11,605,000 between years - mostly in the finished goods
+category.  The Company continued a high rate of production throughout the
+fourth quarter and has extended it into the first quarter of the 1995 fiscal 
+year.  This increase in finished engines will be used to fill the seasonal 
+demand after the first fiscal quarter of 1995. 
+
+Expenditures for plant and equipment totaled $40,804,000, an amount similar to
+the expenditures in each of the preceding two years.  The 1995 fiscal year
+will include expenditures for new plants described in Note 6 and therefore
+will be substantially higher.  These expenditures will total approximately
+$132,000,000, the majority of which could be spent in fiscal 1995.  As
+described earlier, these expenditures are expected to be primarily internally
+financed.
+
+The Company and other parties have been issued an order by the U.S.
+Environmental Protection Agency (EPA) that requires the cleanup of a site in the
+State of Georgia near the site of the Company's former lock manufacturing
+plant.  The work specified in the order will be completed by the end of the
+1994 calendar year.  The Company has reserves totaling $4,202,000 to pay for
+its cleanup.  In the opinion of management, this reserve is adequate to finance
+the remaining costs of cleanup.
+
+The EPA is developing national emission standards under a two phase process for
+equipement powered by small air cooled gasoline engines.  It has recently
+proposed phase one emission standards to be effective in August 1996.  The
+California Air Resources Board previously adopted emission standards to be
+effective in January 1995.  Changes to engine models that are necessary to
+comply with these standards are being made or have been made.  The Company
+believes that the costs associated with compliance with the standards will not 
+have a material effect on the financial position or results of operations of 
+the Company.
+
+Phase two of the EPA standards have not been established and it may be several
+years before they are completed.  It is expected that they will be phased in
+over several years and therefore it is impossible to quantify the cost of
+compliance at this date.
+
+Company management believes that the economic factors that contributed to the
+strong demand in fiscal 1994 will continue into fiscal 1995.  Therefore, if the
+weather cooperates in providing normal precipitation, the Company could benefit
+from another year of strong demand for lawn and garden equipment during the
+selling season.
+
+In August 1994, the Company's Board of Directors approved a 2-for-1 stock split
+contingent on approval of an increase in the number of authorized common stock
+shares to be voted on by the shareholders at their annual meeting on October
+19, 1994.  The Board also stated its intent to increase the per share dividend
+rate from $.23 per share to $.25 per share effective with the January 1995
+payment on the split shares.
+
+FISCAL 1993 COMPARED TO FISCAL 1992
+
+Sales increased $97,634,000 between fiscal 1993 and fiscal 1992.  This was a 9%
+increase between years and was greater than the 3% increase in the number of
+engines sold.  It reflected the continuing shift to higher horsepower, higher
+selling price engines plus the realization of approximately a 2% price increase
+between years.  Sales dollar increases occurred in export sales due to
+favorable weather conditions and improved currency exchange rates.  Service
+sales increased 7%.  Lock unit sales declined 1% between years.
+
+Gross profit increased 22% between years.  This was due to an increase in the
+gross profit rate from 17% in fiscal 1992 to 19% in 1993, and resulted from a
+continuing reduction in operating costs, stable material costs and fixed costs
+being spread over higher volume.  The 1993 fiscal year improvements were after
+the Company absorbed $8,408,000 of additional depreciation on assets used to
+produce discontinued engine models.
+
+Engineering, selling and general and administrative expenses increased
+$4,440,000 or 6% between years.  This increase reflected higher manpower costs
+due to the additional profit sharing provision in the current fiscal year, and
+increased operating costs of foreign subsidiaries in Canada, France and
+Switzerland that were established at varying times in the current and preceding
+fiscal years.  These new subsidiaries resulted in increased gross profit on
+items sold by them.
+
+Interest expense remained constant between years.  This reflected interest
+savings on reduced domestic debt offset by higher interest expense on increased
+foreign debt.
+
+
+
+30
+<PAGE>   16
+MANAGEMENT'S DISCUSSION . . .
+- - - -------------------------------------------------------------------------------
+
+Other income and expense remained relatively steady between years.  The 1993
+fiscal year contained a $3,500,000 charge due to the recognition of the
+cumulative translation adjustment relating to the Company's German subsidiary,
+which changed business operations during the year from an engine and parts
+distributor to a commissioned agent.
+
+The provision for income taxes was higher between years primarily due to the
+increase in income.  As income increases, the graduated state income tax rates
+go up, and the effect of relatively fixed tax credits go down.  The write-down
+of the German subsidiary investment described previously also raised the
+income tax provision because of its nondeductibility for tax purposes.  The net
+result of these changes was an increase in the effective income tax rate from
+35.8% in 1992 to 38.5% in 1993.
+
+Cash equivalents and short-term investments increased $30,981,000 between
+years.  This resulted from the cash that was generated by profitable operations
+in 1993.
+
+The investment in accounts receivable increased $21,366,000 between years. 
+This was due to the additional sales late in the last quarter of fiscal 1993.
+
+Inventories showed no substantial change between fiscal years.  This reflects
+stable inventory quantities and stable prices.
+
+Current liabilities, excluding loans and notes payable, increased $13,731,000
+between years.  This reflects a higher payroll accrual due to increased
+employment at the end of 1993 and increases in accrued profit sharing paid out
+early in fiscal 1994.  The increased payroll taxes on these items also
+contributed to this increase.
+
+Expenditures for plant and equipment totaled $38,110,000, a small decrease
+between years.  There were no major projects included in these totals.
+
+The Company's current ratio improved from 1.9 to 1 in 1992 to 2.2 to 1 in 1993. 
+This increase continued the improvement in liquidity in the preceding four
+years, and was also reflected in the steady increases in the cash and
+equivalents and short-term investment amounts during those years.  The lines of
+credit available to the Company were adequate to finance any of its seasonal
+working capital needs.
+
+During 1993, the Company changed its State of incorporation to Wisconsin, from
+the State of Delaware.  As a part of this reincorporation, the par value of the
+common stock was reduced from $3.00 per share to $.01 per share.  This
+transaction resulted in a new shareholder investment account called Additional
+Paid-In Capital.  This new account is analyzed in the financial statements.
+
+
+
+
+                                                                            31
+<PAGE>   17
+QUARTERLY FINANCIAL DATA,
+DIVIDEND AND MARKET INFORMATION
+- - - -------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                              In Thousands (Unaudited)                           Per Share of Common Stock
+                     ------------------------------------------    -------------------------------------------------
+                                                                                                 Market Price Range
+                                             (1)                    (1)                             on New York
+                                             Net        Net          Net       Net                 Stock Exchange
+Quarter               Net        Gross      Income     Income      Income    Income   Dividends    ----------------
+Ended                Sales      Profit      (Loss)     (Loss)      (Loss)    (Loss)   Declared    High       Low
+- - - -------             -------     -------     -------     ------     -------   -------  --------    -----      ----
+Fiscal 1994
+
+<S>              <C>          <C>         <C>         <C>          <C>       <C>        <C>        <C>      <C>
+SEPTEMBER        $  198,572   $  28,196   $   6,421   $ (26,137)   $   .44   $ (1.81)   $  .44     85       64-7/8
+DECEMBER            328,937      72,381      28,637      28,637       1.98      1.98       .44     89-1/2   80-5/8
+MARCH               386,196      82,973      35,709      35,709       2.47      2.47       .46     90-1/4   80-1/2
+JUNE                371,812      82,990      31,714      31,714       2.20      2.20       .46     88       66-1/4
+                 ----------   ---------   ---------   ---------    -------    ------    ------
+TOTAL            $1,285,517   $ 266,540   $ 102,481   $  69,923    $  7.09    $ 4.84    $ 1.80 
+                 ==========   =========   =========   =========    =======    ======    ======                    
+
+(1) Before cumulative effect of accounting changes.
+
+<CAPTION>
+
+Fiscal 1993
+<S>              <C>          <C>         <C>         <C>          <C>       <C>        <C>        <C>      <C>
+September        $  171,773   $  17,723   $  (1,971)  $  (1,971)   $  (.14)  $  (.14)   $  .42     48-7/8   42-1/8
+December            305,174      61,334      23,402      23,402       1.62      1.62       .42     51-1/2   45-5/8
+March               360,899      75,021      30,817      30,817       2.13      2.13       .42     67-1/2   46-3/4
+June                301,616      58,523      18,097      18,097       1.25      1.25       .44     68-5/8   59-1/8
+                 ----------   ---------   ---------   ---------    -------    ------    ------
+Total            $1,139,462   $ 212,601   $  70,345   $  70,345    $  4.86    $ 4.86    $ 1.70 
+                 ==========   =========   =========   =========    =======    ======    ======                     
+
+</TABLE>
+
+The number of record holders of Briggs & Stratton Corporation Common Stock 
+on August 4, 1994 was 6,191.
+
+
+
+32
+<PAGE>   18
+TEN YEAR COMPARISONS
+- - - --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+For the Years Ended                                                                           7-3-94                  6-27-93
+(All dollar amounts other than per share data are stated in thousands)
+
+<S>                                                                                         <C>                     <C>
+SUMMARY OF OPERATIONS
+
+  NET SALES............................................................                     1,285,517               1,139,462
+
+  GROSS PROFIT ON SALES................................................                       266,540                 212,601
+
+  PROVISION (CREDIT) FOR INCOME TAXES..................................                        67,240                  44,060
+
+  NET INCOME (LOSS) before cumulative effect of accounting changes.....                       102,481                  70,345
+
+  NET INCOME (LOSS)....................................................                        69,923                  70,345
+
+  AVERAGE NUMBER OF SHARES OF
+    COMMON STOCK OUTSTANDING...........................................                        14,464                  14,464
+
+PER SHARE OF COMMON STOCK:
+
+  Net Income (Loss) before cumulative effect of accounting changes.....                          7.09                    4.86
+
+  Net Income (Loss)....................................................                          4.84                    4.86
+
+  Cash Dividends.......................................................                          1.80                    1.70
+
+  Shareholders' Investment.............................................                         27.92                   24.89
+
+OTHER DATA
+
+  SHAREHOLDERS' INVESTMENT.............................................                        403,792                 359,958
+
+  LONG-TERM DEBT.......................................................                         75,000                  75,000
+
+  TOTAL ASSETS.........................................................                        777,355                 656,107
+
+  PLANT AND EQUIPMENT..................................................                        669,593                 658,120
+
+  PLANT AND EQUIPMENT NET OF RESERVES..................................                        285,890                 295,542
+
+  PROVISION FOR DEPRECIATION...........................................                         42,950                  47,222
+
+  EXPENDITURES FOR PLANT AND EQUIPMENT.................................                         40,804                  38,110
+
+  WORKING CAPITAL......................................................                        276,040                 195,019
+
+    Current Ratio......................................................                       2.3 to 1                2.2 to 1
+
+  NUMBER OF EMPLOYEES AT YEAR END......................................                          8,628                   7,950
+ 
+  NUMBER OF SHAREHOLDERS AT YEAR END...................................                          6,228                   6,651
+
+  QUOTED MARKET PRICE:
+
+    High...............................................................                         90-1/4                  68-5/8
+
+    Low................................................................                         64-7/8                  42-1/8
+
+</TABLE>
+
+
+34
+<PAGE>   19
+- - - --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+
+6-30-92           6-30-91          6-30-90         6-30-89          6-30-88         6-30-87          6-30-86           6-30-85
+<S>               <C>            <C>               <C>              <C>             <C>              <C>               <C>
+1,041,828         950,747        1,002,857         876,379          914,057         784,665          745,831           717,773
+                            
+  174,048         132,431          132,438          59,629          115,113         111,618          124,408           111,248
+                            
+   28,700          16,500           18,290         (13,980)          12,950          18,950           27,850            28,990
+                            
+   51,503          36,453           35,375         (20,032)          30,211          26,614           34,080            33,517
+                            
+   51,503          36,453           35,375         (20,032)          30,211          26,614           34,080            33,517
+                            
+                            
+   14,464          14,464           14,464          14,464           14,464          14,464           14,464            14,464
+                            
+                            
+     3.56            2.52              2.45          (1.39)            2.09            1.84             2.36              2.32
+                            
+     3.56            2.52              2.45          (1.39)            2.09            1.84             2.36              2.32
+                            
+     1.60            1.60              1.60           1.60             1.60            1.60             1.60              1.60
+                            
+    21.60           19.69             18.76          17.92            20.97           20.48            20.29             19.59
+                            
+                            
+
+  312,404         284,715           271,383        259,226          303,305         296,260          293,517           283,399
+                            
+   75,000          75,000            75,000         75,000            -               -                -                 - 
+                            
+  613,853         556,791           535,040        560,816          510,600         451,879          436,622           411,598
+                            
+  643,433         632,488           606,863        580,184          513,700         470,586          427,672           390,657
+                            
+  309,698         320,364           326,288        330,198          295,573         273,903          248,347           230,240
+                            
+   41,113          36,447            39,889         38,995           29,955          24,502           21,508            17,914
+                            
+   40,224          32,036            37,797         79,513           57,001          52,235           46,288            58,443
+                            
+  137,008         105,298            84,082         63,757           63,372          77,281           93,854            92,511
+                            
+ 1.9 to 1        1.8 to 1          1.7 to 1       1.4 to 1         1.4 to 1        1.8 to 1         2.0 to 1          2.0 to 1
+                            
+    7,799           7,242             7,994          7,316            9,827           8,611            8,299             8,203
+                            
+    7,118           7,943             8,466          9,222            6,923           7,206            7,924             8,959
+                            
+
+   54-3/4          33-3/4            34             34-3/4           41-7/8              42           40-1/4            31-1/8
+
+   32-7/8          20-1/2            24-1/8         24-3/4           20-1/4          31-1/2           25-3/4            25-1/2
+                            
+</TABLE> 
+
+
+                                                              35
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>4
+<DESCRIPTION>CONSENT
+<TEXT>
+
+<PAGE>   1
+                                                                  EXHIBIT NO. 23
+
+                 BRIGGS & STRATTON CORPORATION AND SUBSIDIARIES
+
+
+
+                   CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+As independent public accountants, we hereby consent to the incorporation of
+our reports included (or incorporated by reference) in this Form 10-K, into
+the Company's previously filed Registration Statements, File No. 33-39113 and
+File No. 33-54357.
+
+                                                     ARTHUR ANDERSEN LLP
+
+Milwaukee, Wisconsin,
+September 27, 1994.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1
+<CURRENCY> U.S. DOLLARS
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                           JUL-3-1994
+<PERIOD-START>                             JUN-28-1993
+<PERIOD-END>                                JUL-3-1994
+<EXCHANGE-RATE>                                      1
+<CASH>                                     221,101,000
+<SECURITIES>                                         0
+<RECEIVABLES>                              122,597,000
+<ALLOWANCES>                                         0
+<INVENTORY>                                 85,670,000
+<CURRENT-ASSETS>                           482,784,000
+<PP&E>                                     669,593,000
+<DEPRECIATION>                             383,703,000
+<TOTAL-ASSETS>                             777,355,000
+<CURRENT-LIABILITIES>                      206,744,000
+<BONDS>                                              0
+<COMMON>                                       145,000
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                 403,647,000
+<TOTAL-LIABILITY-AND-EQUITY>               777,355,000
+<SALES>                                  1,285,517,000
+<TOTAL-REVENUES>                         1,285,517,000
+<CGS>                                    1,018,977,000
+<TOTAL-COSTS>                            1,018,977,000
+<OTHER-EXPENSES>                            87,822,000 
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                           8,997,000
+<INCOME-PRETAX>                            169,721,000
+<INCOME-TAX>                                67,240,000
+<INCOME-CONTINUING>                        102,481,000
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                 (32,558,000)
+<NET-INCOME>                                69,923,000
+<EPS-PRIMARY>                                     4.84
+<EPS-DILUTED>                                     4.84
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

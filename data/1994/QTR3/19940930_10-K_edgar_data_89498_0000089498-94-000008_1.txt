@@ -1,0 +1,2980 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ i1SSCMbA3Kv2Y4YPCQy7EakbliIAQhGVkcWoucTjl4JBP4aJwCudMBpYJHR/IM5f
+ iuyu9/j7Tm1phmt9JyknXg==
+
+<IMS-DOCUMENT>0000089498-94-000008.txt : 19941007
+<IMS-HEADER>0000089498-94-000008.hdr.sgml : 19941007
+ACCESSION NUMBER:		0000089498-94-000008
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	19940702
+FILED AS OF DATE:		19940930
+SROS:			NYSE
+SROS:			PSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SHAW INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000089498
+		STANDARD INDUSTRIAL CLASSIFICATION:	2273
+		IRS NUMBER:				581032521
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06853
+		FILM NUMBER:		94551062
+
+	BUSINESS ADDRESS:	
+		STREET 1:		616 E WALNUT AVE
+		STREET 2:		P O DRAWER 2128
+		CITY:			DALTON
+		STATE:			GA
+		ZIP:			30720
+		BUSINESS PHONE:		4042783812
+
+	MAIL ADDRESS:	
+		STREET 1:		616 E WALNUT AVE
+		STREET 2:		P O DRAWER 2128
+		CITY:			DALTON
+		STATE:			GA
+		ZIP:			30720
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+<PAGE>
+                  SECURITIES AND EXCHANGE COMMISSION
+                       Washington, D.C. 20549
+
+                             FORM 10-K
+
+(Mark One)
+(X) ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934 [FEE REQUIRED]
+
+For the fiscal year ended July 2, 1994
+                                 OR
+
+( ) TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+For the transition period from __________ to __________
+
+                          Commission File
+                           Number 1-6853
+
+                       Shaw  Industries, Inc.
+        (Exact name of registrant as specified in its charter)
+
+
+                          Georgia                                   58-1032521
+
+              (State or other jurisdiction of                  (I.R.S. Employer
+              incorporation or organization)             Identification Number)
+
+                   616 East Walnut Avenue,
+                           Dalton, Georgia                        30720
+        (Address of principal executive offices)               (Zip Code)
+
+                Registrant's telephone number including area code: 706/278-3812
+
+            SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT:
+
+                                                          Name of Each Exchange
+                Title of Each Class                         On Which Registered
+            Common Stock, No Par Value              The New York Stock Exchange
+                $1.11 Stated Value                   The Pacific Stock Exchange
+
+               Rights to Purchase Series A
+             Participating Preferred Stock          The New York Stock Exchange
+                 $.50 Stated Value                   The Pacific Stock Exchange
+
+                SECURITIES REGISTERED PURSUANT TO SECTION 12 (g) OF ACT:  None
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filled by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant
+was required to file such reports and (2) has been subject to such filing
+requirements for the past 90 days.  Yes(x) No
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K. (x)
+
+Aggregate market value of the voting stock held by non-affiliates of the
+registrant, computed by reference to the closing sales price on The New York
+Stock Exchange on September 15, 1994 was: $ 1,678,772,693.<PAGE>
+
+Indicate the number of shares outstanding of each of the registrant's classes
+of common stock, as of the latest practicable date.
+
+       Title of Each Class                   Outstanding at September 15, 1994
+    Common Stock, No Par Value                          139,314,302  Shares
+
+                        DOCUMENTS INCORPORATED BY REFERENCE
+
+1994 Annual Report to Shareholders --- Part II.
+Definitive Proxy Statement for the 1994 Annual Meeting of Shareholders on
+October 31, 1994 --- Part III.<PAGE>
+
+
+
+
+                                  PART I
+
+
+
+Item I.  Business
+
+     Shaw Industries, Inc. ("Shaw" or the "Company") is the world's
+largest carpet manufacturer.  Shaw designs and manufactures
+approximately 1,600 styles of tufted and woven carpet for
+residential and commercial use under the PHILADELPHIA, TRUSTMARK, CABIN
+CRAFTS, SHAW COMMERCIAL CARPETS, STRATTON, NETWORX, SHAWMARK, EVANS
+BLACK, SALEM,  SUTTON, KOSSET, CROSSLEY, ABINGDON, REDBOOK,
+MINSTER, INVICTA and TERZA trade names and under certain private
+labels.  The Company's manufacturing operations are fully
+integrated from the processing of yarns through the finishing of
+carpet.  The Company's carpet is sold in a broad range of prices,
+patterns, colors and textures with the majority of its sales in the
+medium to high retail price range.  Shaw sells its products to
+retailers, distributors and commercial users throughout the United
+States, Canada, Mexico, Australia and the United Kingdom and, to a
+lesser degree, exports to additional overseas markets.
+
+     On July 12, 1993, the Company formed a joint venture through
+which it acquired an interest in Capital Carpet Industries, Pty.,
+Ltd., Melbourne, Victoria, Australia, and Invicta Group Industries,
+Pty., Ltd., Braybrook, Victoria, Australia (together, "CCI"),
+enabling the Company to participate in a government-supported rationalization
+of the Australian carpet industry. On November 4, 1993, the Company acquired
+the remaining interest in the joint venture.  Until November 4, 1993,
+the investment was accounted for using the equity method, and accordingly,
+the Company included its share of CCI's income in other income.  Subsequent
+to November 4, 1993, the results of operations of CCI are included in
+the Company's consolidated financial statements.
+
+     On September 10, 1993, the Company acquired Abingdon Carpets,
+Gwent, Wales.  Abingdon is a British producer of medium-priced
+tufted carpets and carpet yarns.  The acquisition has been
+accounted for as a purchase transaction, and accordingly, the
+results of operations of Abingdon are included in the Company's
+consolidated financial statements since September 10, 1993.
+
+     On May 31, 1994, the Company entered into an agreement to form
+a joint venture with Grupo Industrial Alfa, S.A. de C.V. of
+Monterrey, Mexico, for the manufacture, distribution and marketing
+of carpets, rugs and related products in Mexico and South America.
+The Company acquired a fify-one percent interest in Terza, S.A. de
+C.V., and accordingly, the subsidiary is included in consolidation
+at July 2, 1994 and the results of operations of Terza are included
+in the Company's consolidated financial statements since May 31, 1994.
+
+     Geographical information about the Company's sales, operating
+profit and identifiable assets is incorporated by reference to page
+
+                               1<PAGE>
+
+19 of Exhibit 13 to this report.  The results of the acquired
+operations in fiscal 1994 did not have a material effect on the
+Company's net income.
+
+Products and Marketing
+
+     Substantially all carpet manufactured by the Company is tufted
+carpet made from nylon and polypropylene yarn.  In the tufting
+process, yarn is inserted by multiple needles into a synthetic
+backing, forming loops which may be cut or left uncut, depending on
+the desired texture or construction.  According to industry
+estimates, tufted carpet accounted for over 91% of unit volume
+shipments of carpet manufactured in the United States during
+calendar 1993.  Substantially all carpet manufactured in the United
+States is made from synthetic fibers, with nylon accounting for
+65.2% of the total, polypropylene 24.9%, polyester 9.4% and wool
+0.5%.  During fiscal 1994, the Company  processed approximately 95%
+of its requirements for carpet yarn in its own yarn processing facilities.
+
+     The Company believes that its significant investment in
+modern, state-of-the-art equipment has been an important factor in
+achieving and maintaining its leadership position in the
+marketplace.  During the past five fiscal years, the Company has
+invested approximately $782 million in property additions.  The
+Company continually seeks opportunities for increasing its sales
+volume and market share.  For example, the Company continues to
+expand its product lines of carpet manufactured from polypropylene
+fiber, including fibers produced by the Company's own extrusion
+equipment.  The Company also has a manufacturing facility for the
+production of carpet tiles for the commercial market.
+
+     The overall level of sales in the carpet industry is
+influenced by a number of factors, including consumer confidence
+and spending for durable goods, interest rates, turnover in
+housing, the condition of the residential construction industry and
+the overall strength of the economy.
+
+     The marketing of carpet is influenced significantly by current
+trends in style and fashion, principally color trends.  The Company
+believes it has been a leader in the development of color
+technology in the carpet industry and that its dyeing facilities
+are among the most modern and versatile in the industry.  The
+Company maintains an in-house product development department to
+identify developing color and style trends which are expected to
+affect its customers' buying decisions.  In 1994 this department
+was further strengthened by the completion of the Shaw Industries
+Research and Development Center.  This state-of-the-art complex
+includes a 75,000 square foot pilot plant featuring sample
+extrusion, yarn processing, tufting, dyeing, coating and shearing
+equipment, and three fiber and dye development laboratories.
+
+                               2<PAGE>
+
+Sales and Distribution
+
+     The Company's products are marketed domestically by
+approximately 1,050 salaried sales personnel in its various
+marketing divisions directly to retailers and distributors and to
+large national accounts through the Company's National Accounts
+Division.  The Company's ten (10) regional customer service centers
+and six (6) redistribution centers, along with its centralized
+management information system, enable it to provide prompt delivery
+of its products to both its retail customers and wholesale
+distributors.  The Company's substantial investment in management
+information systems permits efficient production scheduling and
+control of inventory levels.
+
+     The Company sells to approximately 37,250 retailers and
+national accounts located throughout the United States and Canada.
+Retailers and national accounts, on a combined basis, accounted for
+approximately 86% of the Company's carpet sales for fiscal 1994.
+Shaw also sells to approximately 100 wholesale distributors.
+Approximately 4% of the Company's carpet sales in fiscal 1994 were
+to distributors.  Sales of Shaw products in foreign markets,
+including the sales of foreign subsidiaries, accounted for
+approximately 10% of total sales in fiscal 1994.  No single
+customer accounted for more than 2% of the Company's sales during
+fiscal 1994.
+
+Competition
+
+     The carpet industry is highly competitive with more than 200
+companies engaged in the manufacture and sale of carpet in the
+United States.  Carpet manufacturers also face competition from the
+hard surface floorcovering industry.  The principal methods of
+competition within the carpet industry are quality, style, price
+and service.  The Company believes its strategically located
+regional customer service centers and redistribution centers
+provide a competitive advantage to the Company by enabling it to
+supply carpet on a timely basis to customers.  The Company's long-
+standing practice in investing in modern, state-of-the-art
+equipment contributes significantly to its ability to compete
+effectively on the basis of quality, style and price.
+
+Raw Materials
+
+     The principal raw materials used by the Company are nylon
+fiber and filament, and synthetic backing; additional raw materials
+include polyester, polypropylene and wool fibers and filaments,
+jute, latex and dye.  During fiscal 1994, the Company experienced
+no significant shortages of raw materials.
+
+Employees
+
+     At July 2, 1994, the Company had approximately 24,200 full-
+
+                               3<PAGE>
+
+time employees.  In the opinion of management, employee relations
+are good.  Employees are involved in the Quality Improvement
+Process begun in 1985, a program designed to improve the Company's
+products and services through education and training.  None of the
+Company's employees in the United States are represented by unions.
+Employees of foreign subsidiaries are represented by unions.
+
+Environmental Matters
+
+     Management believes the Company is currently in compliance in
+all material respects with applicable federal, state and local
+statutes and ordinances regulating the discharge of materials into
+the environment and otherwise relating to the protection of the
+environment.  Management does not believe the Company will be
+required to expend any material amounts in order to remain in
+compliance with these laws and regulations or that compliance will
+materially affect its capital expenditures, earnings or competitive
+position.
+
+Patents, Trademarks, etc.
+
+     Patent protection has not been significant to the Company's
+business although the Company does hold several patents covering
+machinery used in a specific carpet coloring process.
+
+                               4<PAGE>
+
+                             Item 2.  Properties
+
+     Shaw's executive offices are located in Dalton, Georgia.  The
+principal facilities operated by Shaw and described below are owned
+except as otherwise noted:
+
+                         Approximate       Principal Products
+Location                   Sq. Ft.            or Functions
+
+
+Dalton, Georgia            46,700        Executive headquarters
+Dalton, Georgia           145,000        Administrative offices
+Dalton, Georgia           114,600        Administrative offices
+Dalton, Georgia           229,500        Administrative offices
+                                         and distribution
+Dalton, Georgia           309,800        Administrative offices
+                                         and distribution
+Dalton, Georgia           291,000        Administrative offices
+                                         and distribution
+Dalton, Georgia           235,500        Administrative offices
+                                         and distribution
+Dalton, Georgia           372,700        Administrative offices
+                                         and distribution
+Cartersville, Georgia     138,900        Administrative offices
+                                         and warehousing
+Dalton, Georgia           601,000        Distribution
+Dalton, Georgia           400,000        Distribution
+Dalton, Georgia           303,200        Distribution
+Dalton, Georgia           371,600        Distribution
+Ringgold, Georgia         649,100        Distribution
+Ringgold, Georgia         224,200        Distribution
+Andalusia, Alabama       1,119,000       Yarn extrusion
+Thomson, Georgia          258,300        Yarn extrusion
+Valley Head, Alabama(1)   160,000        Yarn processing
+Bainbridge, Georgia       450,000        Yarn processing
+Blue Ridge, Georgia(4)     75,100        Yarn processing
+Calhoun, Georgia          262,100        Yarn processing
+Chatsworth, Georgia(2)     36,800        Yarn processing
+Chatsworth, Georgia       117,200        Yarn processing
+Lafayette, Georgia        131,900        Yarn processing
+Milledgeville, Georgia     78,600        Yarn processing
+Rome, Georgia              40,600        Yarn processing
+Decatur, Tennessee(1)     151,000        Yarn processing
+Eton, Georgia             423,000        Yarn processing and
+                                         tufting
+Stevenson, Alabama        441,000        Yarn spinning
+Chatsworth, Georgia       188,300        Yarn spinning
+Dallas, Georgia           138,500        Yarn spinning
+Dalton, Georgia           241,600        Yarn spinning
+Ellijay, Georgia          157,100        Yarn spinning
+Fitzgerald, Georgia       250,000        Yarn spinning
+Newnan, Georgia           289,000        Yarn spinning
+
+                               5<PAGE>
+
+                          Approximate       Principal Products
+Location                    Sq. Ft.            or Functions
+
+Tifton, Georgia           142,500        Yarn spinning
+Toccoa, Georgia           139,000        Yarn spinning
+Trenton, Georgia          192,300        Yarn spinning
+Trenton, SC               169,500        Yarn spinning
+South Pittsburg, TN       187,900        Yarn spinning
+Cartersville, Georgia     317,600        Tufting, dyeing &
+                                         coating
+Cartersville, Georgia     171,800        Tufting, dyeing &
+                                         coating
+Dalton, Georgia           650,240        Tufting, dyeing &
+                                         coating
+Dalton, Georgia           461,000        Tufting, dyeing &
+                                         coating
+Dalton, Georgia           326,000        Tufting, dyeing &
+                                         coating
+Dalton, Georgia           354,900        Tufting, dyeing &
+                                         coating
+Dalton, Georgia           579,600        Tufting, dyeing &
+                                         coating
+Dalton, Georgia           376,200        Tufting & printing
+Ringgold, Georgia         201,000        Tufting
+Dalton, Georgia           150,000        Dyeing
+Dalton, Georgia           267,000        Dyeing and coating
+Dalton, Georgia           231,300        Printing, foaming &
+                                         warehousing
+Cartersville, Georgia(3)  192,000        Carpet tile
+                                         manufacturing
+Cartersville, Georgia     255,200        Contract carpet
+                                         manufacturing
+Charlotte, N.C.           112,400        Backing manufacturing
+Ringgold, Georgia(5)      248,000        Finishing and rug
+                                         manufacturing
+Winchester, Tennessee     320,600        Carpet manufacturing
+Chickamauga, Georgia(2)   219,500        Sample manufacturing
+                                         and warehousing
+Dalton, Georgia           197,680        Sample manufacturing
+                                         and warehousing
+Dalton, Georgia(2)        103,100        Sample manufacturing
+                                         and warehousing
+Dalton, Georgia           147,200        Sample manufacturing and
+                                         warehousing
+Dalton, Georgia (2)       154,800        Sample manufacturing and
+                                         warehousing
+Dalton, Georgia (2)        45,200        Carpet store
+Dalton, Georgia            55,000        Design Center
+Dalton, Georgia            85,000        Research and Development
+                                         Center
+Bradford, England         746,000        Tufting, weaving, coating,
+                                         distribution and
+
+                               6<PAGE>
+
+                          Approximate      Principal Products
+Location                    Sq. Ft.          or Functions
+
+                                         administrative offices.
+Gwent, Wales               265,000       Yarn extrusion, yarn
+                                         processing, tufting,
+                                         dyeing and coating
+Victoria, Australia      1,425,000       Yarn extrusion, yarn
+                                         processing, tufting,
+                                         dyeing, coating,
+                                         distribution and
+                                         administrative offices
+Monterrey, Mexico          288,000       Yarn processing,
+                                         tufting, dyeing,
+                                         coating, distribution
+                                         and adminstrative
+                                         offices.
+
+
+    (1)  Leased from Industrial Development Boards.
+
+    (2)  Subject to a lease expiring in calendar year 1994.
+
+    (3)  Subject to a lease expiring in calendar year 1995.
+
+    (4)  Subject to a lease expiring in calendar year 1997.
+
+    (5)  Subject to a lease expiring in calendar year 2007.
+
+    Shaw maintains leased warehouses and customer service
+facilities in or near Dallas; Los Angeles (2); Seattle; San
+Francisco; Denver; Chicago; Minneapolis; Boston; and, Cranbury, New
+Jersey.  Each leased warehouse facility includes a sales showroom.
+The Company also maintains redistribution centers in Orlando,
+Florida; Columbus, Ohio; Kernersville, North Carolina;
+Mechanicsburg, Pennsylvania; St. Louis, Missouri; and,
+Fredericksburg, Virginia.  Management of the Company believes all
+of its properties are suitable and adequate for its current
+operations and are substantially utilized.
+
+                               7<PAGE>
+
+Item 3.  Legal Proceedings
+
+    From time to time the Company is subject to claims and suits
+arising in the course of its business.  In April 1993, the Company
+became a defendant in certain litigation alleging personal injury
+resulting from personal exposure to volatile organic compounds
+found in carpet produced by the Company.  The complaints seek
+injunctive relief and unspecified money damage on all claims.  The
+Company has denied any liability.  In May 1993, the Company became
+a defendant in certain litigation alleging violation of both
+federal and state laws relating to unfair competition.  The
+complaint seeks an injunction regarding the unfair competition
+claims and money damages.  The Company has denied any liability.
+The Company believes that is has meritorious defenses in these
+suits and that the litigation will not have a material adverse
+effect on the Company's financial condition or results of
+operations.  The Company will vigorously defend these suits.  In
+June 1994, the Company and several other carpet manufacturers
+received grand jury subpoenas from the Antitrust Division of the
+United States Department of Justice relating to an investigation of
+the industry.  The Company believes that once this investigation is
+completed it will not have a material adverse effect on the
+Company's financial condition or results of operations.
+
+    At the end of fiscal year 1994, there were no other pending
+legal proceedings to which the Company was a party or to which any
+of its property was subject which, in the opinion of management,
+were likely to have a material adverse effect on the Company's
+business, financial condition or results of operations.
+
+Item 4.  Submission of Matters to Vote of Security Holders
+
+    Not applicable.
+
+                               8<PAGE>
+
+Item 4(A).  Executive Officers of the Registrant
+
+                                    Officer
+Name                       Age      Since          Position
+
+J. C. Shaw                 64        1967     Chairman of the Board
+                                              of Directors
+
+Robert E. Shaw             63        1967     President and Chief
+                                              Executive Officer and
+                                              Director
+
+William C. Lusk, Jr.       59        1971     Senior Vice President
+                                              and Treasurer and
+                                              Director
+
+W. Norris Little           63        1978     Senior Vice President,
+                                              Operations and
+                                              Director
+
+Vance D. Bell              43        1983     Vice President,
+                                              Marketing
+
+Joseph M. DeVittorio       59        1992     Vice President,
+                                              Corporate Planning
+
+Bennie M. Laughter         43        1986     Vice President,
+                                              Secretary and General
+                                              Counsel
+
+Carl P. Rollins            51        1991     Vice President
+
+Douglas H. Hoskins         59        1978     Controller
+
+    Messrs. J. C. Shaw and Robert E. Shaw are brothers.  There are
+no other family relationships among any of the executive officers
+of the Company.
+
+    Officers of the Company are elected annually by the Board of
+Directors.  All of the executive officers of the Company except for
+Mr. Devittorio and Mr. Rollins have served as executive officers
+for the Company for more than the past five years.
+
+    Mr. DeVittorio joined the Company in October 1992, as a Vice
+President.  Prior to joining the Company, Mr. DeVittorio was Senior
+Vice President and General Manager of Allied Signal's Fibers
+Division.
+
+    Mr. Rollins joined the Company in June, 1991, as a Vice
+President.  Prior to June, 1991, Mr. Rollins had been engaged in
+the private practice of law with the firm of McCamy, Phillips,
+Tuggle, Rollins & Fordham, in Dalton, Georgia.
+
+                               9<PAGE>
+
+                                  PART II
+
+Item 5.  Market for the Registrant's Common Stock and Related
+         Shareholder Matters
+
+    The high and low sales prices for the Company's common stock
+as reported by the New York Stock Exchange and the amount of
+dividends paid by quarter for the last two fiscal years are
+set forth on page 2 of Exhibit 13.
+
+    Reference is made to Note 2 of Notes to Consolidated Financial Statements
+on page 13 of Exhibit 13 for information concerning restrictions
+on the payment of cash dividends.
+
+    At September 1, 1994, there were 2,184 holders of record of the
+Company's common stock.
+
+Item 6.  Selected Financial Data
+
+    This information is set forth on pages 3-4 of the Exhibit 13
+ under the caption "Ten Year Financial Review."
+
+Item 7.  Management's Discussion and Analysis of Financial
+         Condition and Results of Operations
+
+    This information is set forth on pages 5-6 of Exhibit 13 to
+this report.
+
+Item 8.  Financial Statements and Supplementary Data
+
+    This information is set forth on pages 7-21 of Exhibit 13.
+
+Item 9.  Disagreements on Accounting and Financial Disclosure
+
+    None.
+
+                               10<PAGE>
+
+                            PART III
+Item 10.  Directors and Executive Officers of the Registrant
+
+    Information concerning directors is incorporated by reference
+to "Election of Class of Directors" on pages 3-6 of the Proxy Statement for
+the 1994 Annual Meeting of Shareholders.  Reference is also made to
+Item 4(A) of Part I of this report, "Executive Officers of the
+Registrant," which information is incorporated herein.
+
+Item 11.  Executive Compensation
+
+    This information is incorporated by reference to "Executive
+Compensation" on pages 6-11 of the Proxy Statement for the 1994
+Annual Meeting of Shareholders.
+
+Item 12. Security Ownership of Certain Beneficial Owners and
+         Management
+
+    This information is incorporated by reference to "Voting Rights
+and Principal Shareholders" and "Election of Directors" on pages 1-
+2 and 3-6 respectively, of the Proxy Statement for the 1994 Annual
+Meeting of Shareholders.
+
+                               11<PAGE>
+
+
+                            PART IV
+Item 13. Certain Relationships and Related Transactions
+
+    This information is incorporated by reference to "Certain
+Relationships" on page 5 of the Proxy Statement for the 1994 Annual
+Meeting of Shareholders.
+
+Item 14. Exhibits, Financial Statement Schedules and Reports on
+         Form 8-K
+
+    (a)  The following documents are filed as part of this report:
+
+    1.   Financial Statements
+
+         Exhibit 13, a copy of which is filed with this Form 10-K,
+         contains the balance sheets as of July 2, 1994, and July
+         3, 1993, the related statements of income, shareholders'
+         investment and cash flows for each of the three years in
+         the period ended July 2, 1994, and the related report of
+         Arthur Andersen LLP.  These financial statements and the
+         report of Arthur Andersen LLP. are incorporated herein by
+         reference.  The financial statements, incorporated by
+         reference, include the following:
+
+         -   Balance Sheets -- July 2, 1994, and July 3, 1993.
+
+         -   Statements of Income and Statements of Shareholders'
+             Investment for the years ended July 2, 1994, July 3,
+             1993, and June 27, 1992.
+
+         -   Statements of Cash Flows for the years ended July 2,
+             1994, July 3, 1993, and June 27, 1992.
+
+         -   Notes to Financial Statements -- July 2, 1994, July 3,
+             1993, and June 27, 1992.
+
+    2.  Financial Statement Schedules
+
+         -   Report of Independent Public Accountants as to
+             Schedules:
+
+         Schedule
+         Number
+
+           V        Property, Plant and Equipment for the Years
+                    Ended July 2, 1994, July 3, 1993, and June 27,
+                    1992.
+
+          VI        Accumulated Depreciation and Amortization of
+                    Property, Plant and Equipment for the Years
+                    Ended July 2, 1994, July 3, 1993, and June 27,
+                    1992.
+
+                               12<PAGE>
+
+        VIII        Valuation and Qualifying Accounts for the
+                    Years Ended July 2, 1994, July 3, 1993, and
+                    June 27, 1992.
+
+          IX        Aggregate Short-term Borrowings for the Years
+                    Ended July 2, 1994, July 3, 1993, and June 27,
+                    1992.
+
+                               13<PAGE>
+
+
+               REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+To the Shareholders of
+Shaw Industries, Inc.:
+
+We have audited, in accordance with generally accepted auditing standards, the
+financial statements of Shaw Industries, Inc. included in this annual report
+to shareholders on Form 10-K and have issued our report thereon dated August 8,
+1994. Our audits were made for the purpose of forming an opinion on those
+statements taken as a whole. Schedules V, VI, VIII, and IX are the
+responsibility of the Company's management and are presented for purposes of
+complying with the Securities and Exchange Commission's rules and are not part
+of the basic financial statements. These schedules have been subjected to the
+auditing procedures applied in the audits of the basic financial statements
+and, in our opinion, fairly state, in all material respects the financial
+data required to be set forth therein in relation to the basic financial
+statements taken as a whole.
+
+
+
+Arthur Andersen LLP
+
+
+Atlanta, Georgia
+August 8, 1994<PAGE>
+
+
+
+<TABLE>
+                                                                                                   SCHEDULE V
+                                                     SHAW INDUSTRIES, INC.
+
+                                                     PROPERTY, PLANT, AND EQUIPMENT
+
+                                                     FOR THE YEARS ENDED JULY 2, 1994, JULY 3, 1993, AND JUNE 27, 1992
+<S>                                <C>             <C>            <C>              <C>
+
+                                       Balance at
+                                       Beginning       Additions,                       Balance at
+                                        of Year         at Cost       Retirements      End of Year
+
+YEAR ENDED JUNE 27, 1992 (a):
+     Land and land improvements    $    12,470,000 $     2,521,000 $             0 $      14,991,000
+     Buildings                         112,697,000      50,260,000         (50,000)      162,907,000
+     Machinery and equipment           444,972,000      77,541,000         (22,000)      522,491,000
+     Leasehold improvements              2,030,000       1,774,000               0         3,804,000
+     Construction in progress           28,424,000     (13,860,000)              0        14,564,000
+
+                                   $   600,593,000 $   118,236,000 $       (72,000)$     718,757,000
+
+YEAR ENDED JULY 3, 1993 (b):
+     Land and land improvements    $    14,991,000 $     2,497,000 $        (4,000)$      17,484,000
+     Buildings                         162,907,000      30,185,000               0       193,092,000
+     Machinery and equipment           522,491,000     119,133,000        (544,000)      641,080,000
+     Leasehold improvements              3,804,000          88,000               0         3,892,000
+     Construction in progress           14,564,000       5,314,000               0        19,878,000
+
+                                   $   718,757,000 $   157,217,000 $      (548,000)$     875,426,000
+
+YEAR ENDED JULY 2, 1994:
+     Land and land improvements    $    17,484,000 $    10,771,000 $       (59,000)$      28,196,000
+     Buildings                         193,092,000      34,489,000        (521,000)      227,060,000
+     Machinery and equipment           641,080,000     110,412,000      (7,584,000)      743,908,000
+     Leasehold improvements              3,892,000         951,000         (11,000)        4,832,000
+     Construction in progress           19,878,000      94,745,000         (19,000)      114,604,000
+
+                                   $   875,426,000 $   251,368,000 $    (8,194,000)$   1,118,600,000
+
+
+
+
+
+
+                    (a)   1992 additions are primarily the result of the acquisition of Salem Carpet
+                            Mills, Inc.
+
+                    (b)   1993 additions are primarily the result of the acquisition of certain of the
+                            carpet fiber manufacturing facilities of Amoco Fabrics and Fibers Company.
+
+/TABLE
+<PAGE>
+<TABLE>
+
+                                                                                                  SCHEDULE VI
+                                                   SHAW INDUSTRIES, INC.
+
+                                                   ACCUMULATED DEPRECIATION AND AMORTIZATION
+
+                                                   PROPERTY, PLANT, AND EQUIPMENT
+
+                                                   FOR THE YEARS ENDED JULY 2, 1994, JULY 3, 1993, AND JUNE 27, 1992
+
+<S>                              <C>             <C>             <C>             <C>
+
+                                                     Additions
+                                     Balance at      Charged to
+                                     Beginning       Costs and                       Balance at
+                                      of Year         Expenses      Retirements     End of Year
+
+YEAR ENDED JUNE 27, 1992:
+     Land and land improvements  $     1,323,000 $       182,000 $             0 $     1,505,000
+     Buildings                        21,394,000       4,481,000          (7,000)     25,868,000
+     Machinery and equipment         242,872,000      58,415,000          (9,000)    301,278,000
+     Leasehold improvements              539,000          89,000               0         628,000
+
+                                 $   266,128,000 $    63,167,000 $       (16,000)$   329,279,000
+
+YEAR ENDED JULY 3, 1993:
+     Land and land improvements  $     1,505,000 $       257,000 $             0 $     1,762,000
+     Buildings                        25,868,000       5,693,000               0      31,561,000
+     Machinery and equipment         301,278,000      66,870,000        (281,000)    367,867,000
+     Leasehold improvements              628,000         170,000               0         798,000
+
+                                 $   329,279,000 $    72,990,000 $      (281,000)$   401,988,000
+
+YEAR ENDED JULY 2, 1994:
+     Land and land improvements  $     1,762,000 $       366,000 $             0 $     2,128,000
+     Buildings                        31,561,000       7,127,000               0      38,688,000
+     Machinery and equipment         367,867,000      76,337,000      (5,038,000)    439,166,000
+     Leasehold improvements              798,000         256,000         (11,000)      1,043,000
+
+                                 $   401,988,000 $    84,086,000 $    (5,049,000)$   481,025,000
+
+/TABLE
+<PAGE>
+
+<TABLE>
+
+
+
+                                                                                                  SCHEDULE VIII
+                                                   SHAW INDUSTRIES, INC.
+
+                                                   VALUATION AND QUALIFYING ACCOUNTS
+
+                                                   FOR THE YEARS ENDED JULY 2, 1994, JULY 3, 1993, AND JUNE 27, 1992
+
+<S>                                  <C>             <C>            <C>              <C>
+                                                     Additions
+                                     Balance at      Charged to
+                                     Beginning       Costs and                       Balance at
+                                      of Year         Expenses       Deductions      End of Year
+
+YEAR ENDED JUNE 27, 1992:
+     Allowance for doubtful accounts
+     and discounts                   $     5,941,000 $    58,804,000 $    55,461,000 $     9,284,000
+
+YEAR ENDED JULY 3, 1993:
+     Allowance for doubtful accounts
+     and discounts                   $     9,284,000 $    91,418,000 $    86,360,000 $    14,342,000
+
+YEAR ENDED JULY 2, 1994:
+     Allowance for doubtful accounts
+     and discounts                   $    14,342,000 $   107,179,000 $   103,066,000 $    18,455,000
+
+/TABLE
+<PAGE>
+<TABLE>
+
+
+                                                                                                     SCHEDULE IX
+                                                   SHAW INDUSTRIES, INC.
+
+                                                   AGGREGATE SHORT-TERM BORROWINGS
+
+                                                   FOR THE YEARS ENDED JULY 2, 1994, JULY 3, 1993, AND JUNE 27, 1992
+
+
+<S>                              <C>                  <C>        <C>             <C>               <C>
+                                                                                      Average         Weighted
+                                                      Weighted        Maximum          Amount         Average
+                                                      Average          Amount       Outstanding       Interest
+                                     Balance at       Interest      Outstanding        During       Rate During
+                                    End of Year         Rate        During Year       Year (a)        Year (b)
+
+YEAR ENDED JUNE 27, 1992         $    45,000,000        4.43%    $    45,000,000 $    22,917,000         4.9%
+
+
+YEAR ENDED JULY 3, 1993          $    20,000,000        3.63%    $   170,000,000 $    72,500,000         4.2%
+
+
+YEAR ENDED JULY 2, 1994          $   135,000,000        3.60%    $   135,000,000 $    53,333,000         3.6%
+
+
+
+
+
+
+
+
+
+                                       (a)   The average amount outstanding during the year was computed by
+                                               dividing the total of month-end outstanding principal balances by
+                                               the number of months that balances were outstanding at month-end.
+
+                                       (b)   The weighted average interest rate during the year was computed
+                                               by dividing the actual interest expenses related to short-term
+                                               borrowings by average short-term debt outstanding.
+
+/TABLE
+<PAGE>
+
+
+
+         Number     Description
+
+    3.   Exhibits incorporated by reference or filed with this
+         report.
+
+         3(a)       Amended and Restated Articles of Incorporation.
+                    [Incorporated herein by reference to Exhibit
+                    3(a) to Registrant's Registration Statement
+                    filed with the Commission on December 28, 1993,
+                    (File No. 33-51719).]
+
+         3(b)       Bylaws.  [Incorporated herein by reference to
+                    Exhibit 3(b) to Registrant's Registration Statement
+                    filed with the Commission on December 28, 1993,
+                    (File No. 33-51719).]
+
+         4(a)       Specimen form of Common Stock Certificate.
+                    [Incorporated herein by reference to Exhibit 2
+                    to Registrant's Report on Form 8-A filed with
+                    the Securities and Exchange Commission on May
+                    12, 1989 (File No. 1-6853).]
+
+         4(b)       Articles II, V and VI of the Restated Articles of
+                    Incorporation, as amended, contained in
+                    Exhibit 3(a), and Articles Two and Seven and
+                    Section 8.1 of the Bylaws of Registrant,
+                    contained in Exhibit 3(b),  and Statement of
+                    Designation, Preferences and Rights of Series
+                    A Participating Preferred Stock, filed as
+                    Exhibit 3(c), are incorporated herein by
+                    reference.
+
+         4(c)       Rights Agreement dated as of April 10, 1989,
+                    between Registrant and Citizens and Southern
+                    Trust Company (Georgia), N.A., as Rights
+                    Agent.  [Incorporated herein by reference to
+                    Exhibit 1 to Registrant's Current Report on
+                    Form 8-K filed with the Securities and
+                    Exchange Commission on May 5, 1989 (File No.
+                    1-6853).]
+
+         10(a)      Reserved
+
+
+         10(b)*     Deferred Compensation Plan and form of
+                    Deferred Compensation Agreement of Registrant
+                    as adopted in April, 1980.
+
+         10(c)      Reserved
+
+         10(d)      Reserved
+
+         10(e)      Reserved
+
+         10(f)      Reserved<PAGE>
+
+         10(g)      Loan Agreement dated February 1, 1991, between
+                    Registrant and The Citizens and Southern
+                    National Bank, regarding a $200,000,000
+                    revolving credit facility.  [Incorporated
+                    herein by reference to Exhibit 10(g) to
+                    Registrant's Report on Form 10-K for the
+                    fiscal year ended June 29, 1991 (File No. 1-
+                    6853).]
+
+         10(h)*     1987 Incentive Stock Option Plan of the
+                    Registrant. [Incorporated herein by reference
+                    to Exhibit A to Registrant's 1987 Proxy
+                    Statement, dated September 22, 1987  (File No.
+                    1-6853).]
+
+         10(i)      Reserved
+
+         10(j)*     1989 Discounted Stock Option Plan of the
+                    Registrant.  [Incorporated herein by reference
+                    to Exhibit A to Registrant's 1989 Proxy
+                    Statement, dated September 21, 1989 (File No.
+                    1-6853).]
+
+
+
+         10(k)*     1992  Incentive Stock Option Plan of the
+                    Registrant. [Incorporated herein by reference
+                    to Exhibit A to Registrant's 1992 Proxy
+                    Statement, dated September 18, 1992 (File No.1-
+                    6853).]
+
+         11         Computation of Earnings per Share for the
+                    fiscal years ended July 2, 1994, July 3, 1993
+                    and June 27, 1992.
+
+         13         Items Incorporated by Reference From the 1994
+                    Annual Report to Shareholders.
+
+         21         List of Subsidiaries.
+
+         23         Consent of independent public accountants.
+
+         27         Financial Data Schedule.
+
+         *          Compensatory plan or management contract required
+                    to be filed as an exhibit to Item 14(c) of Form 10-K.
+
+    (b)  No reports on Form 8-K were filed during the last quarter
+         of fiscal 1994.<PAGE>
+
+
+
+                          SIGNATURES
+
+    Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the Registrant has duly caused
+this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+                               SHAW INDUSTRIES, INC.
+
+
+Date:  September 28, 1994   By: /S/ROBERT E. SHAW
+                                Robert E. Shaw
+                                President and Chief
+                                Executive Officer
+
+    Pursuant to the requirements of the Securities Exchange Act
+of 1934, this report has been signed below by the following persons
+on behalf of the Registrant and in the capacities and on the dates
+indicated.
+
+
+Date:  September 28, 1994       /S/ ROBERT E. SHAW
+                                Robert E. Shaw
+                                President, Chief
+                                Executive Officer and
+                                Director
+
+Date:  September 28, 1994       /S/ J. C. SHAW
+                                J. C. Shaw
+                                Chairman of the Board of
+                                Directors
+
+
+Date:  September 28, 1994       /S/ WILLIAM C. LUSK, JR.
+                                William C. Lusk, Jr.
+                                Sr. VP, Treasurer and
+                                Director (Principal
+                                Financial and Accounting
+                                Officer)
+
+
+Date:  September 28, 1994       /S/ W. NORRIS LITTLE
+                                W. Norris Little
+                                Senior VP, Operations and
+                                Director
+
+Date:  September 28, 1994       /S/ ROBERT R. HARLIN
+                                Robert R. Harlin
+                                Director
+
+Date:  September 28, 1994       /S/ THOMAS G. COUSINS
+                                Thomas G. Cousins
+                                Director<PAGE>
+
+
+Date:  September 28, 1994       /S/ S. TUCKER GRIGG
+                                S.Tucker Grigg
+                                Director
+
+Date:  September 28, 1994       /S/ CLIFFORD M. KIRTLAND, Jr.
+                                Clifford M. Kirtland, Jr.
+                                Director
+
+Date:  September 28, 1994       /S/ J. HICKS LANIER
+                                J. Hicks Lanier
+                                Director
+
+Date:  September 28, 1994       /S/ R. JULIAN McCAMY
+                                R. Julian McCamy
+                                Director<PAGE>
+
+
+
+        Exhibit                                                         Page
+        Number      Description                                         Number
+
+
+         3(a)       Amended and Restated Articles of Incorporation.
+                    [Incorporated herein by reference to Exhibit
+                    3(a) to Registrant's Registration Statement
+                    filed with the Commission on December 28, 1993,
+                    (File No. 33-51719).]
+
+         3(b)       Bylaws.  [Incorporated herein by reference to
+                    Exhibit 3(b) to Registrant's Registration Statement
+                    filed with the Commission on December 28, 1993,
+                    (File No. 33-51719).]
+
+         4(a)       Specimen form of Common Stock Certificate.
+                    [Incorporated herein by reference to Exhibit 2
+                    to Registrant's Report on Form 8-A filed with
+                    the Securities and Exchange Commission on May
+                    12, 1989 (File No. 1-6853).]
+
+         4(b)       Articles II, V and VI of the Restated Articles of
+                    Incorporation, as amended, contained in
+                    Exhibit 3(a), and Articles Two and Seven and
+                    Section 8.1 of the Bylaws of Registrant,
+                    contained in Exhibit 3(b),  and Statement of
+                    Designation, Preferences and Rights of Series
+                    A Participating Preferred Stock, filed as
+                    Exhibit 3(c), are incorporated herein by
+                    reference.
+
+         4(c)       Rights Agreement dated as of April 10, 1989,
+                    between Registrant and Citizens and Southern
+                    Trust Company (Georgia), N.A., as Rights
+                    Agent.  [Incorporated herein by reference to
+                    Exhibit 1 to Registrant's Current Report on
+                    Form 8-K filed with the Securities and
+                    Exchange Commission on May 5, 1989 (File No.
+                    1-6853).]
+
+         10(a)      Reserved
+
+
+         10(b)*     Deferred Compensation Plan and form of
+                    Deferred Compensation Agreement of Registrant
+                    as adopted in April, 1980.
+
+         10(c)      Reserved
+
+         10(d)      Reserved
+
+         10(e)      Reserved
+
+         10(f)      Reserved<PAGE>
+
+         10(g)      Loan Agreement dated February 1, 1991, between
+                    Registrant and The Citizens and Southern
+                    National Bank, regarding a $200,000,000
+                    revolving credit facility.  [Incorporated
+                    herein by reference to Exhibit 10(g) to
+                    Registrant's Report on Form 10-K for the
+                    fiscal year ended June 29, 1991 (File No. 1-
+                    6853).]<PAGE>
+
+         10(h)*     1987 Incentive Stock Option Plan of the
+                    Registrant. [Incorporated herein by reference
+                    to Exhibit A to Registrant's 1987 Proxy
+                    Statement, dated September 22, 1987  (File No.
+                    1-6853).]
+
+         10(i)      Reserved
+
+         10(j)*     1989 Discounted Stock Option Plan of the
+                    Registrant.  [Incorporated herein by reference
+                    to Exhibit A to Registrant's 1989 Proxy
+                    Statement, dated September 21, 1989 (File No.
+                    1-6853).]
+
+
+
+         10(k)*     1992  Incentive Stock Option Plan of the
+                    Registrant. [Incorporated herein by reference
+                    to Exhibit A to Registrant's 1992 Proxy
+                    Statement, dated September 18, 1992 (File No.1-
+                    6853).]
+
+         11         Computation of Earnings per Share for the
+                    fiscal years ended July 2, 1994, July 3, 1993
+                    and June 27, 1992.
+
+         13         Items Incorporated by Reference From the 1994
+                    Annual Report to Shareholders.
+
+         21         List of Subsidiaries.
+
+         23         Consent of independent public accountants.
+
+         27         Financial Data Schedule.
+
+         *          Compensatory plan or management contract required
+                    to be filed as an exhibit to Item 14(c) of Form 10-K.
+
+    (b)  No reports on Form 8-K were filed during the last quarter
+         of fiscal 1994.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<TEXT>
+
+
+
+                                                            EXHIBIT 10(b)
+
+                          SHAW INDUSTRIES, INC.
+
+                       DEFERRED COMPENSATION PLAN
+
+     The Board of Directors of Shaw Industries, Inc. (the "Company")
+hereby recognizes that it is in the best interests of the Company to
+provide incentive for highly compensated key employees to remain in
+the employ of the Company, to reward such employees for outstanding
+service and to provide a system of benefits that will assist the
+Company to attract and retain the services of additional key
+employees.  The Board of Directors hereby determines that in order to
+achieve these goals, the Company should adopt a deferred compensation
+plan to provide for the payment of benefits to certain key employees
+selected by the Board of Directors upon their retirement, death or
+disability, provided they have remained in the employ of the Company
+until the occurrence of such an event.
+
+     Consequently, the following deferred compensation plan (the
+"Plan") is hereby approved and adopted.
+
+     l.   Name of the Plan.  This Plan, as now enacted and as
+          hereafter amended, shall be known as the Shaw Industries,
+          Inc. Deferred Compensation Plan.
+
+     2.   Purpose of Plan.  The purposes of the Plan are to retain
+          the services of highly compensated key employees for the
+          Company, to reward them for outstanding performances in the
+          past, to encourage  them to continue to devote their full
+          attention and efforts to the growth and profitability of the
+          Company and to recruit new key employees for the Company.
+
+     3.    Determination of Eligibility.  The Board of Directors of
+          the Company, or its designated Compensation Committee, shall
+          have the right to determine those key employees who shall be
+          eligible to participate in the Plan.  The Board of Directors
+          or such committee, which shall hereafter collectively be
+          referred to as the "Board", shall have the further right and
+          authority to enter into agreements with such designated
+          employees pursuant to the Plan and to modify, alter or
+          terminate such agreements with the consent or approval of
+          the affected employees.
+
+     4.   Amount of Benefits.  The Board shall have the sole and
+          exclusive right to determine the amount of deferred
+          compensation to be paid to any designated employee pursuant
+          to the Plan; however, unless specifically approved by a
+          majority of the members of the Board of Directors (excluding
+          the votes of any members of the Board who may be
+          beneficiaries of such a proposal), the maximum amount
+          payable to any employee under this plan (the "Benefit
+          Amount") shall not exceed twice the Annual Benefit Amount as
+          defined.<PAGE>
+
+          Unless otherwise specified by the Board, the Annual Benefit
+          Amount shall be equal to the average of the three highest
+          years of income for the designated employee for the last
+          five years prior to retirement, death or total disability.
+
+     5.   Payment of Benefits.  The Board shall determine the
+          appropriate method of payment for each employee under the
+          Plan, but the typical method of payment shall constitute
+          payment of the aggregate Benefit Amount in 120 equal monthly
+          installments over the 10 year period following the
+          employee's death, retirement or total disability.  The Board
+          is hereby specifically authorized, in its discretion, to
+          negotiate for a more rapid payment, on a discounted basis,
+          if it determines that such an accelerated method of payment
+          is in the best interests of the Company and the employee.
+
+          The basis and amount of any discount shall be determined by
+          the Board, in its discretion, subject to the agreement of
+          the employee or his designated beneficiary, executors, heirs
+          or personal representatives.
+
+     6.   Early Retirement.  Upon the mutual agreement of an employee
+          participating in the Plan and the Board, such an employee
+          who elects to take early retirement may receive benefits
+          under the Plan on such terms as the Board and such employee
+          may determine.
+
+     7.   Forfeiture of Benefits.  Benefits to be received by
+          designated employees under the Plan are forfeitable.  In the
+          event that the employee should at any time voluntarily
+          resign from the Company or be terminated for cause (as
+          defined), all benefits payable to such employee under the
+          Plan shall immediately terminate and the Company shall have
+          no obligation to pay any amounts under this Plan to such
+          employee.  As used in this Plan and in any agreement between
+          the Company and designated employee, the term "cause" shall
+          mean acts of gross negligence or willful or wanton disregard
+          for duties; conviction of a crime involving moral turpitude;
+          or the commission or omission of any other acts deemed by
+          the Board to be inimical to the best interest of the
+          Company.  The determination of "cause" shall be made solely
+          by the Board, in its exclusive discretion, and its
+          determination shall be final and binding.
+
+     8.   Method of Funding.  Nothing contained in this Plan shall
+          create any obligation on the part of the Company to fund its
+          obligations under this Plan or to establish a separate or
+          segregated fund for its obligations under this Plan.
+
+     9.   Evidence of Agreement.  The Company and each designated
+          employee shall enter into an agreement containing the terms
+          of the Plan as set forth above and such other terms and
+          conditions as the Board shall deem necessary or appropriate.
+
+
+    10.   Termination.  The Board shall have the right to amend,
+          modify or terminate this Plan at any time in its sole
+          discretion.<PAGE>
+
+
+ DEFERRED COMPENSATION AGREEMENT
+
+
+
+    This Agreement is made and entered into this ____________ day of
+________________,  19 _____ between  ____________________ (the
+"Employee") and SHAW INDUSTRIES, INC., a Georgia corporation ("Shaw").
+
+    Employee is currently employed by Shaw as __________________(title)
+and in such capacity and others has rendered valuable services to Shaw
+which have been of outstanding merit and which have contributed to the
+growth and development of Shaw.
+
+    The Board of Directors of Shaw, in recognition of such past services
+and as an incentive to assure that the Employee will continue his best
+efforts on behalf of Shaw, now desires, together with the Employee, to
+provide for certain deferred compensation of the Employee to take effect
+on the employee's death, retirement or total disability as set forth
+herein.
+
+    Therefore, in consideration of the services performed by the
+Employee for Shaw in the past and in consideration and contemplation of
+services to be performed by the Employee for Shaw in the future, the
+Employee and Shaw hereby agree as follows:
+
+    l.    Definition.
+
+          (a)  "Annual Benefit Amount" shall mean the average
+               annual gross compensation of the Employee for
+               the three highest years of income over the five
+               years of service immediately preceding the
+               Determination Date. In the event that the
+               Determination Date occurs on a date other than
+               the last day of Shaw's fiscal year, the Annual
+               Gross Compensation for the year in which the
+               Determination Date occurs shall be equal to the
+               annualized amount of the Employee's actual
+               gross salary through the Determination Date
+               plus any bonus or other incentive compensation
+               paid or accrued through the Determination Date.
+
+          (b)  "Benefit Amount" shall mean the number obtained
+               by multiplying the Annual Benefit Amount by a
+               factor of 2.
+
+          (c)  "Cause" shall mean conduct by the Employee
+               consisting of gross negligence, wanton or
+               willful disregard of his duties, conviction of
+               a crime involving moral turpitude or any other
+               act or omission determined by the Board of
+               Directors to be inimical to the best interests
+               of Shaw.  The determination of cause shall be
+               made by the Board, solely in its discretion,and
+               its determination shall be final and binding.<PAGE>
+
+          (d)  "Designated Beneficiary" shall mean the person
+               or persons specified as beneficiary or
+               beneficiaries by the Employee in writing to
+               Shaw.  If, at the Employee's death, the named
+               beneficiary or all beneficiaries shall not be
+               alive, the term Designated Beneficiary shall
+               mean the estate of the deceased Employee acting
+               through his administrator, executor or personal
+               representative.
+
+          (e)  "Determination Date" shall mean the earlier of:
+               (i) retirement, whether upon early retirement
+               approved by Shaw, at normal retirement age
+               established by Shaw or at such later date as
+               the employee may retire, (ii) the date of the
+               determination of total disability (as herein
+               defined) by the Board of Directors of Shaw or
+               (iii) death.
+
+          (f)  "Benefit Period".  Unless otherwise specified
+               herein, the Benefit Period shall mean the ten
+               year period commencing with the first day of
+               the month following the Determination Date.
+
+          (g)  "Total Disability" shall mean total and
+               permanent disability of the Employee such that
+               he is unable to perform his duties in a manner
+               satisfactory to Shaw as determined in a
+               resolution by the Board of Directors of Shaw
+               whose decision shall be final and binding.
+               Employee hereby consents to be examined by such
+               physicians as Shaw may request to assist Shaw
+               in determining whether total disability has
+               occurred.
+
+    2.    Benefits.
+
+          (a)  Retirement.  If the Employee shall continue in
+               Shaw's employ until his normal retirement date
+               established by Shaw then upon his normal
+               retirement date, or such later date as the
+               Employee shall actually retire, Shaw shall pay
+               the Employee the Benefit Amount as herein
+               defined during the Benefit Period as herein
+               defined, commencing on the first day of the
+               month next following his retirement and
+               continuing on a monthly basis thereafter for a
+               total of 120 monthly payments.  In the event of
+               the Employee's death after retirement but prior
+               to completion of the payment of the Benefit
+               Amount, the remaining payments shall be paid to
+               such person or persons as the Employee shall
+               Save designated in writing to Shaw.<PAGE>
+
+               During the Benefit Period, Employee shall, at
+               Shaw's request, be available at mutually
+               agreeable times to provide consultation and
+               advice to Shaw, but Employee shall not be
+               required to travel away from his residence for
+               purposes of such consultation unless all
+               expenses incurred by him are paid by Shaw.
+
+               Also during the Benefit Period, without the
+               prior consent of Shaw, Employee shall not
+               offer his services as a consultant to any other
+               carpet manufacturer or own more than ten
+               percent of stock of or be employed in an
+               executive capacity by any other carpet
+               manufacturer which competes with Shaw.
+               Payments to the Employee of the Benefit Amount
+               are conditioned upon his fulfillment of these
+               obligations and if Employee should materially
+               breach any of the foregoing requirements, the
+               Board of Directors of Shaw may suspend or
+               eliminate any future payments.  The
+               determination by the Board of Directors of Shaw
+               of a material breach shall be final and
+               conclusive.
+
+          (b)  Total Disability.  In the event the Employee
+               becomes totally disabled as herein defined
+               while employed by Shaw, the Board of Directors
+               of Shaw may by resolution terminate the active
+               services of Employee.  In such event Shaw
+               shall pay the full Benefit Amount to the
+               Employee over the Benefit Period, as such terms
+               are herein defined, in equal monthly payments
+               as described in Paragraph 2(a) above or as may
+               be mutually agreed upon as provided in
+               Paragraph 2(d) below.  If the Employee should
+               die after the onset of total disability but
+               prior to retirement, the Employee shall be
+               deemed to have retired at death and payments of
+               the Benefit Amount originally determined at the
+               onset of total disability shall be continued
+               for the remainder of the Benefit Period
+               established at the time of total disability to
+               the Designated Beneficiary.
+
+          (c)  Death.    If the Employee should die while
+               employed by Shaw prior to his normal retirement
+               date, Shaw shall pay to such person or persons
+               designated in writing by the Employee Benefit
+               Amount during the Benefit Period in equal
+               monthly payments as described in Paragraph 2(a)
+               above as those terms are herein defined.
+
+          (d)  Lump Sum or Modified Payments.  At any time<PAGE>
+               after the retirement, death or disability of
+               the Employee, Shaw and the Employee or, in the
+               event of the Employee's death, the Designated
+               Beneficiary may agree upon a more accelerated
+               method of payment, or a lump sum payment of all
+               the unpaid balance of the Benefit Amount,
+               discounted to present value by any method
+               mutually satisfactory to the parties.
+
+    3.    Other Benefits.  Nothing contained in this Agreement shall be
+          construed to alter, impair or affect the rights of the
+          Employee to participate in any pension, profit-sharing or
+          other benefit plan now or hereafter adopted by Shaw.
+
+    4.    Binding Effect.  This Agreement shall be binding upon and
+          inure to the benefit of the Employee and his personal
+          representative, heirs, and executors and to Shaw and its
+          successors and assigns.
+
+    5.    Entire Agreement.  This Agreement constitutes the sole and
+          entire agreement between the parties concerning the subject
+          matter hereof and may be altered or amended only in writing
+          and signed by the party against whom enforcement of this
+          agreement may be sought.
+
+    6.    Governing Law.  This Agreement shall be construed and enforced
+          in accordance with Georgia Law.
+
+    7.    Relationship Between the Parties.  This Agreement shall not be
+          construed as an employment agreement between the Employee and
+          Shaw nor shall any provision hereof restrict Shaw's
+          right to modify or terminate the services of the Employee.
+
+
+    IN WITNESS WHEREOF, Shaw and the Employee have each duly executed
+this Agreement the day and year written above.
+
+
+
+
+_________________________(Seal)
+        Employee
+
+
+
+      SHAW INDUSTRIES, INC.
+
+
+BY:____________________________<PAGE>
+
+
+
+
+DESIGNATED BENEFICIARY
+
+
+
+    I hereby designate ___________________________, my_________________,
+as my beneficiary under the foregoing agreement, reserving the right to
+change said beneficiary at any time by written notice to Shaw.  If at my
+death the person or persons named above do not survive me, then I
+designate my estate as the beneficiary under the foregoing agreement.
+
+
+
+________________________________
+          Employee
+
+________________________________
+           DATE
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>3
+<TEXT>
+
+<TABLE>
+                                       SHAW INDUSTRIES,INC.                    EXHIBIT 11
+
+                                COMPUTATION OF PER SHARE EARNINGS
+
+                   FOR THE YEARS ENDED JULY 2, 1994, JULY 3, 1993 and  JUNE 27, 1992
+
+                               (In Thousands, Except Per Share Data)
+
+<S>                                                                     <C>           <C>           <C>
+                                                                            1994          1993          1992
+
+PRIMARY:
+  Weighted average common shares outstanding                             143,485       137,854       121,296
+  Additional shares assuming exercise of stock options                     1,620         2,456         3,591
+
+  Average common shares outstanding, as adjusted                         145,105       140,310       124,887
+
+  Net income                                                            $129,172      $100,623       $58,045
+
+  Primary earnings per common share                                        $0.89         $0.72         $0.46
+
+
+
+FULLY DILUTED:
+  Weighted average common shares outstanding                             143,485       137,854       121,296
+  Additional shares assuming exercise of stock options                     1,651         2,786         3,719
+
+  Average common shares outstanding, as adjusted                         145,136       140,640       125,015
+
+  Net income                                                            $129,172      $100,623       $58,045
+
+  Fully diluted earnings per common share                                  $0.89         $0.72         $0.46
+
+
+
+Note:   Adjusted for two-for-one stock splits effected in the form of a stock dividend in December 1993
+           and March 1992.
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>4
+<TEXT>
+
+
+                                                               EXHIBIT 13
+
+
+
+                          SHAW INDUSTRIES, INC.
+                  ITEMS INCORPORATED BY REFERENCE FROM
+                 THE 1994 ANNUAL REPORT TO SHAREHOLDERS
+
+
+
+
+                                                            Page
+
+1.   Stock Prices and Dividends Paid Information             2
+
+
+2.   Selected Financial Data - Ten Year Financial Review     3-4
+
+
+3.   Management's Discussion and Analysis of Financial
+     Condition and Results of Operations                     5-6
+
+
+4.   Financial Statements and Supplementary Data             7-21<PAGE>
+
+<TABLE>
+
+                                                       Shaw Industries, Inc.
+                                                       Stock Information
+
+       <S>              <C>     <C>     <C>     <C>     <C>     <C>                <C>     <C>     <C>
+
+       High and low stock prices and cash dividends paid by fiscal quarter (after giving effect to two-for-one stock
+       splits effected in the form of stock dividends in December 1993 and March 1992).
+
+
+                               1994             1993            1992                  Dividends Paid
+                                                                                        (Cents)
+                         High     Low    High     Low    High   Low                1994    1993    1992
+
+       1st Quarter      24 5/8  16          14  10 1/4  9 5/8   8                  4.50    3.75    3.12
+       2nd Quarter      25 1/2  20 1/8  15 1/2  10 1/4  8 7//8  6 1/8              4.50    3.75    3.13
+       3rd Quarter      25      17 7/8  19 3/4  14 7/8  14 3/8  8 1/2              5.50    4.50    3.75
+       4th Quarter      22 1/2  15 3/4  19 7/8  14 1/8  14      9 7/8              5.50    4.50    3.75
+
+                                                                         Total    20.00   16.50   13.75
+
+       On September 1, 1994, there were 2,184 holders of record of the Company's common stock.
+</TABLE>
+
+                               2<PAGE>
+
+<TABLE>
+
+10 YEAR FINANCIAL REVIEW
+SHAW INDUSTRIES, INC.
+<S>                                     <C>             <C>              <C>              <C>             <C>
+                                                                        (Dollars in 000's except per share data)
+
+                                                 1994        1993             1992             1991             1990
+
+Net Sales                               $   2,630,034   $   2,320,810    $   1,751,285    $   1,607,757    $   1,475,390
+Cost of Sales                           $   2,070,915   $   1,851,126    $   1,424,951    $   1,339,569    $   1,182,980
+Selling, General and Administrative
+ Expenses                               $     326,291   $     280,529    $     206,548    $     180,094    $     159,573
+Interest Expense, Net                   $      25,154   $      26,520    $      25,402    $      34,878    $      27,150
+Other Expenses (Income)                 $      (4,326)  $        (361)   $         164    $        (279)   $        (237)
+Income Before Income Taxes              $     212,000   $     162,996    $      94,220    $      53,495    $     105,924
+ As a Percentage of Net Sales                     8.1 %           7.0 %            5.4 %            3.3 %            7.2 %
+Effective Tax Rate                               37.4 %          38.3 %           38.4 %           38.2 %           38.2 %
+Income Before
+     Extraordinary Item                 $     132,535   $     100,623    $      58,045    $      33,051    $      65,443
+Extraordinary Item                      $      (3,363)  $          --    $          --    $          --    $          --
+Net Income                              $     129,172   $     100,623    $      58,045    $      33,051    $      65,443
+ As a Percentage of Net Sales                     4.9 %           4.3 %            3.3 %            2.1 %            4.4 %
+ As a Percentage of Average
+  Total Assets                                    8.7 %           8.5 %            6.1 %            4.1 %            9.8 %
+ As a Percentage of Average
+  Invested Capital                               12.9 %          11.9 %            8.7 %            6.0 %           14.2 %
+ As a Percentage of Average
+  Shareholders' Investment                       18.7 %          17.9 %           17.5 %           14.9 %           31.0 %
+Earnings Per Share:
+ Primary and Fully Diluted              $        0.89   $        0.72    $        0.46    $        0.29    $        0.53
+Cash Dividends Per Share                $        0.20   $       0.165    $       0.138    $       0.125    $       0.113
+Property Additions                      $     251,368   $     157,217    $     118,236    $      87,459    $     167,732
+Depreciaton and Amortization            $      86,518   $      73,580    $      63,167    $      59,279    $      46,311
+Weighted Average Shares Outstanding:
+ Primary                                  145,104,828     140,310,268      124,887,450      114,478,396      123,907,712
+ Fully Diluted                            145,136,362     140,639,848      125,015,030      115,275,232      123,907,712
+At Year-End:
+  Working Capital                       $     404,715   $     433,947    $     392,848    $     256,700    $     258,053
+  Current Ratio                                   1.8             2.3              2.4              2.2              2.1
+  Property, Plant and Equipment, Net    $     637,575   $     473,438    $     389,478    $     334,465    $     308,186
+  Total Assets                          $   1,682,148   $   1,280,410    $   1,090,055    $     813,519    $     793,505
+  Total Long-Term Debt                  $     382,192   $     248,309    $     316,077    $     357,319    $     304,375
+  Shareholders' Investment              $     710,100   $     670,048    $     457,334    $     205,946    $     237,403
+  Total Invested Capital*               $   1,092,292   $     918,357    $     773,411    $     563,265    $     541,778
+  Shareholders' Investment Per Share    $        5.08   $        4.68    $        3.47    $        1.91    $        1.98
+
+*The sum of shareholders' investment and long-term debt.
+
+NOTE:  All share data have been adjusted for two-for-one stock splits effected in the form of stock
+dividends in December 1993, March 1992, May 1989 and May 1986.
+
+                                  3<PAGE>
+
+10 YEAR FINANCIAL REVIEW-CONTINUED
+
+
+
+
+                                             1989            1988             1987             1986             1985
+
+Net Sales                               $   1,175,962   $     958,288    $     694,203    $     550,024    $     519,472
+Cost of Sales                           $     947,062   $     778,233    $     559,377    $     439,697    $     412,626
+Selling, General and Administrative
+ Expenses                               $     130,129   $     107,425    $      72,150    $      62,494    $      54,520
+Interest Expense, Net                   $      22,379   $      18,915    $       8,042    $       4,679    $       5,869
+Other Expenses (Income)                 $        (572)  $        (218)   $        (306)   $        (299)   $        (184)
+Income Before Income Taxes              $      76,964   $      53,933    $      54,940    $      43,453    $      46,641
+ As a Percentage of Net Sales                     6.5 %           5.6 %            7.9 %            7.9 %            9.0 %
+Effective Tax Rate                               38.1 %          37.3 %           48.0 %           44.5 %           44.5 %
+Income Before
+     Extraordinary Item                 $      47,618   $      33,792    $      28,545    $      24,095    $      25,881
+Extraordinary Item                                 --              --    $          --    $          --    $          --
+Net Income                              $      47,618   $      33,792    $      28,545    $      24,095    $      25,881
+ As a Percentage of Net Sales                     4.0 %           3.5 %            4.1 %            4.4 %            5.0 %
+ As a Percentage of Average
+  Total Assets                                    8.8 %           7.4 %            8.9 %            9.4 %           11.4 %
+ As a Percentage of Average
+  Invested Capital                               12.4 %          10.5 %           12.3 %           12.7 %           15.8 %
+ As a Percentage of Average
+  Shareholders' Investment                       27.9 %          21.8 %           19.4 %           18.3 %           23.0 %
+Earnings Per Share:
+ Primary and Fully Diluted              $        0.39   $        0.27    $        0.21    $        0.18    $        0.19
+Cash Dividends Per Share                $       0.092   $       0.079    $       0.063    $       0.041    $       0.035
+Property Additions                      $      25,796   $     109,320    $      54,733    $      32,659    $      20,518
+Depreciaton and Amortization            $      39,235   $      33,975    $      24,033    $      18,788    $      16,075
+Weighted Average Shares Outstanding:
+ Primary                                  121,228,256     127,197,968      134,116,696      136,348,384      136,394,464
+ Fully Diluted                            121,228,256     127,197,968      134,116,696      136,348,384      136,394,464
+At Year-End:
+  Working Capital                       $     210,434   $     201,225    $     141,679    $     118,345    $      96,458
+  Current Ratio                                   2.5             2.4              2.5              2.9              2.8
+  Property, Plant and Equipment, Net    $     187,385   $     200,985    $     126,431    $      95,861    $      83,796
+  Total Assets                          $     538,001   $     546,253    $     362,756    $     278,911    $     236,115
+  Total Long-Term Debt                  $     196,515   $     230,027    $     104,806    $      63,716    $      51,284
+  Shareholders' Investment              $     184,735   $     157,115    $     152,600    $     141,218    $     122,662
+  Total Invested Capital*               $     381,250   $     387,142    $     257,406    $     204,934    $     173,946
+  Shareholders' Investment Per Share    $        1.54   $        1.28    $        1.16    $        1.04    $        0.90
+
+</TABLE>
+
+                               4<PAGE>
+
+
+Shaw Industries, Inc.
+Management's Discussion and Analysis of Financial Condition and
+Results of Operations
+
+
+Financial Condition, Liquidity and Capital Resources
+
+     The Company's business, as well as the United States' carpet
+industry in general, is cyclical in nature and
+is significantly affected by general economic conditions.  The
+level of carpet sales tends to reflect fluctuations in
+consumer spending for durable goods and, to a lesser extent,
+fluctuations in interest rates and new housing starts.
+Sales and customer order unit levels during fiscal 1994 were
+higher than in fiscal 1993 as the Company, the carpet
+industry and the general economy continued to rebound.
+Specifically, the Company had a 13.3 percent increase in fiscal
+1994 net sales over fiscal 1993 principally related to a volume
+increase in shipments. Recent international acquisitions were
+a contributing factor to this increase in volume.  The industry business
+activity for 1994 was reflective of the general economy and moved ahead at
+a reasonable growth rate.
+
+     During fiscal 1994, working capital decreased $29.2 million
+and cash decreased $34.9 million.  The principal
+source of cash was provided by operating activities in the amount
+of $146.2 million, principally from net income
+of $129.2 million and depreciation and amortization of $86.5
+million.  Financing activities also provided cash in the
+amount of $43.6 million, which principally resulted from
+additional borrowings of $170.0 million from the revolving
+credit agreement and an increase in net borrowings of short-term
+notes payable of $115.0 million, offset by net long-
+term debt payments of $138.2 million, purchases of treasury stock
+of $69.7 million, capital lease payments of $6.5
+million and the payment of cash dividends of $28.7 million.  The
+principal cash flow items used in investing
+activities were for additions to property, plant and equipment of
+$164.2 million and investments in business assets
+acquired of $63.6 million.
+
+
+
+                               5<PAGE>
+
+
+     The Company's liquidity condition remains strong.
+Conservation of capital and the maintenance of a strong
+balance sheet have enabled the Company to become a preeminent
+force in the carpet industry.  During 1994, the
+Company elected to prepay notes payable with interest rates of
+9.48% to 10.49%.  An extraordinary charge of
+$3,363,000 (net of income tax benefit of $2,150,000) was incurred
+as a result of this early retirement.  The Company
+replaced this debt with borrowings under the revolving credit
+agreement at LIBOR-based rates providing for substantial
+future interest savings.  Capital expenditures (including capital
+lease obligations, but not including acquisitions in
+1994) for incremental additions and modifications to plant and
+equipment necessary to maintain the facilities in a
+modern, state-of-the-art condition were $164.6 million for  fiscal
+1994.  Management anticipates capital expenditures
+and capitalized lease obligations of approximately $130.0 million
+during fiscal 1995 to maintain its facilities and to
+expand and upgrade its tufting, dyeing, finishing, yarn
+processing, distribution, transportation and materials handling
+equipment to meet anticipated increases in sales volume and to
+improve efficiency.  These expenditures will be
+funded through cash flow from operations and, if appropriate,
+through additional sources of long-term capital.  The
+Company has short-term credit lines with banks aggregating $300.0
+million, of which $165.0 million was unused at
+July 2, 1994.  The Company believes it could expand its line of
+credit and long-term bank facilities, if necessary.
+
+Inflation
+
+     The Company's manufacturing costs and operating expenses are
+affected by price changes.  The costs of
+fiber and other raw materials decreased in fiscal 1992, 1993 and
+1994 from the levels experienced in fiscal 1991.
+The Company has historically mitigated inflationary effects by
+passing price changes along to its customers and by
+continually developing and implementing more cost-effective
+manufacturing and other operational procedures.  The
+Company's ability to mitigate the effects of price changes will
+depend on market factors.
+
+
+
+Results of Operations - Fiscal 1994 Compared to Fiscal 1993
+
+     Net sales increased $309,224,000, or 13.3 percent, to
+$2,630,034,000 in fiscal 1994, primarily as a result
+of an increase in the volume of shipments.  Results for fiscal
+1994 included incremental sales of $139,378,000
+attributable to recent international acquisitions.  The results
+of the acquired operations did not have a material effect
+on the Company's net income in 1994.  Gross profit margins as a
+percentage of net sales increased 1.1 percent to
+21.3 percent for fiscal 1994 from 20.2 percent for fiscal 1993
+principally as a result of an increase in the efficiency
+relationship of volume and fixed costs.  Selling, general and
+administrative expenses increased $45,762,000 or 16.3
+percent in fiscal 1994 compared to fiscal 1993, and increased .3
+percent to 12.4 percent of net sales.  The increase
+in percentage of net sales is due substantially to aggressive
+sales efforts to increase sales.  Interest expense, net,
+decreased $1,366,000 to  $25,154,000 and decreased .2 percent to
+1.0 percent of net sales.  The effective income tax
+rate decreased .9 percent to 37.4 percent for fiscal 1994
+compared to fiscal 1993 primarily due to deferred tax
+adjustments.
+
+
+Results of Operations - Fiscal 1993 Compared to Fiscal 1992
+
+     Net sales increased $569,525,000, or 32.5 percent, to
+$2,320,810,000 in fiscal 1993, primarily as a result
+of an increase in the volume of shipments.  Results for fiscal
+1993 included incremental sales of $415,413,000
+attributable to acquisitions.  Gross profit margins as a
+percentage of net sales increased 1.6 percent to 20.2 percent
+for fiscal 1993 compared to 18.6 percent for fiscal 1992
+principally as a result of an increase in the efficiency
+relationship of volume and fixed costs.  Selling, general and
+administrative expenses increased $73,981,000 or 35.8
+percent in fiscal 1993 compared to fiscal 1992, and increased .3
+percent to 12.1 percent of net sales.  The increase
+in percentage of net sales is due substantially to continued
+sales efforts to increase sales in a weak economy.  Interest
+expense, net, increased $1,118,000 to $26,520,000 in fiscal 1993
+compared to fiscal 1992 due principally to
+additional borrowings.  The effective income tax rate was 38.3
+percent in fiscal 1993 compared to 38.4 percent in
+fiscal 1992.
+
+                               6<PAGE>
+
+<TABLE>
+CONSOLIDATED BALANCE SHEETS
+SHAW INDUSTRIES, INC.
+
+
+July 2, 1994 and July 3, 1993
+<S>                                                             <C>                    <C>
+                                                                            1994             1993
+
+ASSETS
+Current Assets:
+ Cash                                                           $     12,597,000       $    47,545,000
+
+ Accounts and notes receivable, less allowance for doubtful
+    accounts and discounts of $18,455,000 in 1994 and
+    $14,342,000 in 1993                                              367,613,000           307,241,000
+
+ Inventories:
+  Raw materials                                                      240,726,000           191,684,000
+  Work-in-process                                                     36,110,000            24,066,000
+  Finished goods                                                     249,302,000           185,977,000
+
+                                                                     526,138,000           401,727,000
+
+ Prepaid expenses                                                     24,507,000             4,080,000
+
+     Total current assets                                            930,855,000           760,593,000
+
+
+
+Property, Plant and Equipment, at cost:
+  Land and land improvements                                          28,196,000            17,484,000
+  Buildings and leasehold improvements                               231,892,000           196,984,000
+  Machinery and equipment                                            743,908,000           641,080,000
+  Construction in progress                                           114,604,000            19,878,000
+
+                                                                   1,118,600,000           875,426,000
+  Less - Accumulated depreciation                                    481,025,000           401,988,000
+
+                                                                     637,575,000           473,438,000
+
+Goodwill and Other Assets                                            113,718,000            46,379,000
+
+                                                                 $ 1,682,148,000       $ 1,280,410,000
+
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+                                                              7<PAGE>
+
+
+
+
+
+<TABLE>
+
+
+<S>                                                                  <C>                 <C>
+                                                                                1994           1993
+
+LIABILITIES AND SHAREHOLDERS' INVESTMENT
+Current Liabilities:
+  Notes payable                                                      $   135,000,000     $    20,000,000
+  Current maturities of long-term debt                                    40,579,000          69,648,000
+  Accounts payable                                                       225,368,000         140,044,000
+  Accrued liabilities                                                    125,193,000          96,954,000
+
+     Total current liabilities                                           526,140,000         326,646,000
+
+Long-Term Debt, less current maturities                                  382,192,000         248,309,000
+
+Deferred Income Taxes                                                     38,095,000          26,700,000
+
+Other Liabilities                                                         11,831,000           8,707,000
+
+Minority Interest In Consolidated Subsidiary                              13,790,000                   -
+
+
+Commitments and Contingencies
+
+
+Shareholders' Investment:
+  Preferred stock; 250,000 shares authorized, no shares                            -                   -
+  Common stock, no par, $1.11 stated value, authorized
+    500,000,000 shares; issued 139,868,162 shares at July 2, 1994
+    and 71,551,798 shares at July 3, 1993                                155,254,000          79,423,000
+  Paid-in capital                                                        159,192,000         293,608,000
+  Foreign currency translation adjustment                                 (2,488,000)            131,000
+  Retained earnings                                                      398,212,000         297,754,000
+
+                                                                         710,170,000         670,916,000
+  Less - Unearned compensation                                                70,000             868,000
+
+                                                                         710,100,000         670,048,000
+
+                                                                     $ 1,682,148,000     $ 1,280,410,000
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+</TABLE>
+
+
+                               8<PAGE>
+
+
+<TABLE>
+CONSOLIDATED STATEMENTS OF INCOME
+
+
+For Years Ended July 2, 1994, July 3, 1993 and June 27, 1992
+<S>                                                <C>                <C>               <C>
+                                                             1994           1993               1992
+
+Net Sales                                          $2,630,034,000     $2,320,810,000     $1,751,285,000
+
+Costs and Expenses:
+  Cost of sales                                     2,070,915,000      1,851,126,000      1,424,951,000
+  Selling, general and administrative                 326,291,000        280,529,000        206,548,000
+
+                                                    2,397,206,000      2,131,655,000      1,631,499,000
+
+Operating Income                                      232,828,000        189,155,000        119,786,000
+
+Other Expenses (Income):
+  Interest expense                                     25,911,000         27,280,000         25,538,000
+  Interest income                                        (757,000)          (760,000)          (136,000)
+
+    Interest, net                                      25,154,000         26,520,000         25,402,000
+
+  Miscellaneous, net                                   (4,326,000)          (361,000)           164,000
+
+                                                       20,828,000         26,159,000         25,566,000
+
+Income Before Income Taxes, Minority Interest
+  and Extraordinary Item                              212,000,000        162,996,000         94,220,000
+Provision for Income Taxes                             79,386,000         62,373,000         36,175,000
+
+Income Before Minority Interest
+  and Extraordinary Item                              132,614,000        100,623,000         58,045,000
+
+Minority Interest in
+  Consolidated Subsidiary                                 (79,000)                 -                  -
+
+Income Before Extraordinary
+  Item                                                132,535,000        100,623,000         58,045,000
+
+Extraordinary Loss on Early Extinguishment of Debt
+  (net of income tax benefit of $2,150,000)            (3,363,000)                 -                  -
+
+Net Income                                         $  129,172,000    $   100,623,000    $    58,045,000
+
+Earnings Per Common Share:
+  Primary and Fully Diluted Basis-
+     Income Before Extraordinary
+        Item                                       $         0.91     $         0.72     $         0.46
+     Extraordinary Item                                     (0.02)                 -                  -
+
+     Net Income                                    $         0.89     $         0.72     $         0.46
+
+Weighted Average Shares Outstanding:
+  Primary                                             145,104,828        140,310,268        124,887,450
+  Fully diluted                                       145,136,362        140,639,848        125,015,030
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+</TABLE>
+                                                    9<PAGE>
+
+<TABLE>
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' INVESTMENT
+
+For Years Ended July 2,1994, July 3, 1993  and June 27, 1992
+<S>                                <C>        <C>            <C>            <C>                 <C>            <C>
+                                              Common Stock        Paid-In     Equity Adjustmen  Retained       Unearned
+                                    Shares         Amount         Capital     From Translation  Earnings       Compensation
+
+Balance, June 29, 1991             26,924,800 $   29,887,000 $            - $             -     $  178,523,000 $   (2,464,000)
+  Net income                                -              -              -               -         58,045,000              -
+  Issuance of stock in a
+    public offering                 4,062,500      4,509,000    130,315,000               -                  -              -
+  Issuance of two-for-one
+    stock split                    30,987,300     34,396,000    (34,396,000)              -                  -              -
+  Issuance of stock in
+    merger                          2,874,852      3,191,000     66,525,000               -                  -              -
+  Amortization of unearned
+    compensation                            -              -              -               -                  -        798,000
+  Exercise of stock options         1,131,000      1,255,000      3,431,000               -                  -              -
+  Cash dividends paid
+    ($.138 per share)                       -              -              -               -        (16,681,000)             -
+
+Balance, June 27, 1992             65,980,452     73,238,000    165,875,000               -        219,887,000     (1,666,000)
+  Net income                                -              -              -               -        100,623,000              -
+  Issuance of stock in a
+    public offering                 4,471,500      4,964,000    120,251,000               -                  -              -
+  Exercise of discounted
+    stock options                     144,298        160,000        120,000               -                  -              -
+  Exercise of stock options           956,850      1,062,000      4,003,000               -                  -              -
+  Adjustment to stock
+    issued in merger                   (1,302)        (1,000)       (30,000)              -                  -              -
+  Foreign currency translation
+    adjustment                              -              -              -         131,000                  -              -
+  Tax benefit on
+    disqualified dispositions
+    of stock options                        -              -      3,389,000               -                  -              -
+  Amortization of unearned
+    compensation                            -              -              -               -                  -        798,000
+  Cash dividends paid
+    ($.165 per share)                       -              -              -               -        (22,756,000)             -
+
+Balance, July 3, 1993              71,551,798     79,423,000    293,608,000         131,000        297,754,000       (868,000)
+   Net income                               -              -              -               -        129,172,000              -
+   Purchase and retirement
+      of common stock              (4,195,700)    (4,657,000)   (65,074,000)              -                  -              -
+  Exercise of discounted
+      stock options                    60,186         67,000        (66,000)              -                  -              -
+   Exercise of stock options          554,900        616,000      1,091,000               -                  -              -
+   Issuance of two-for-one
+      stock split                  71,754,831     79,648,000    (79,648,000)              -                  -              -
+   Issuance of stock in acquisiti     142,147        157,000      6,288,000               -                  -              -
+   Foreign currency translation
+      adjustment                            -              -              -      (2,619,000)                 -              -
+   Tax benefit on
+      disqualified dispositions
+      of stock options                      -              -      2,993,000               -                  -              -
+   Amortization of unearned
+      compensation                          -              -              -               -                  -        798,000
+   Cash dividends paid
+      ($.200 per share)                     -              -              -               -        (28,714,000)             -
+Balance, July 2, 1994             139,868,162 $  155,254,000 $  159,192,000 $    (2,488,000)    $  398,212,000 $      (70,000)
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+                                                                         10
+/TABLE
+<PAGE>
+<TABLE>
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+<S>                                                        <C>              <C>              <C>
+For Years Ended July 2, 1994, July 3, 1993 and June 27, 1992
+                                                                 1994             1993             1992
+Operating Activities:
+Net Income                                                 $  129,172,000   $  100,623,000   $   58,045,000
+Adjustments to Reconcile Net Income to
+ Net Cash Provided by Operating Activities:
+  Depreciation and amortization                                86,518,000       73,580,000       63,167,000
+  Provision for doubtful accounts                              14,909,000       11,444,000        5,778,000
+  Stock option compensation expense                               798,000          798,000          798,000
+  Changes in assets and liabilities, net of acquisitions:
+  Accounts and notes receivable                               (22,031,000)     (70,414,000)     (42,105,000)
+  Inventories                                                 (83,181,000)      37,629,000      (40,167,000)
+  Accounts payable                                             49,192,000       10,505,000      (39,871,000)
+  Accrued liabilities                                           1,953,000       11,097,000        7,518,000
+  Deferred income taxes                                         4,731,000          878,000       (2,483,000)
+  Other, net                                                  (35,859,000)       1,311,000        8,070,000
+          Total Adjustments                                    17,030,000       76,828,000      (39,295,000)
+     Net Cash Provided by Operating Activities                146,202,000      177,451,000       18,750,000
+Investing Activities:
+  Additions to property, plant and equipment                 (164,227,000)     (56,661,000)     (50,712,000)
+  Business assets acquired                                    (63,642,000)    (110,778,000)               -
+  Proceeds from disposition of property,
+   plant and equipment                                          3,145,000          267,000           69,000
+  Purchase of Salem Carpet Mills, Inc.                                  -                -       (2,100,000)
+     Net Cash Used In Investing
+      Activities                                             (224,724,000)    (167,172,000)     (52,743,000)
+Financing Activities:
+  Borrowings from revolving credit agreement                  170,000,000        5,000,000       45,000,000
+  Repayments on revolving credit agreement                              -                -     (120,000,000)
+  Principal payments on long-term debt                       (138,167,000)     (57,560,000)     (23,557,000)
+  Principal payments under capital lease obligations           (6,522,000)      (8,686,000)      (5,416,000)
+  Net borrowings (payments) on short-term notes payable       115,000,000      (25,000,000)      21,050,000
+  Purchase and retirement of common stock                     (69,731,000)               -                -
+  Exercise of stock options                                     1,708,000        4,350,000        4,686,000
+  Dividends paid                                              (28,714,000)     (22,756,000)     (16,681,000)
+  Net proceeds from sale of common stock                                -      125,215,000      134,824,000
+     Net Cash Provided by Financing Activities                 43,574,000       20,563,000       39,906,000
+Net (Decrease) Increase in Cash                               (34,948,000)      30,842,000        5,913,000
+Cash at the Beginning of Year                                  47,545,000       16,703,000       10,790,000
+Cash at End of Year                                        $   12,597,000   $   47,545,000   $   16,703,000
+Supplemental disclosures of cash flow information:
+  Cash paid during the year for -
+    Interest                                               $   25,698,000   $   32,578,000   $   19,821,000
+    Income taxes                                           $   75,300,000   $   58,241,000   $   37,793,000
+  Non-cash capital lease obligations                       $      378,000   $    3,492,000   $    2,369,000
+
+
+
+
+The accompanying notes are an integral part of these consolidated financial statements.
+</TABLE>
+
+                                                            11<PAGE>
+
+
+Notes to Consolidated Financial Statements
+            Shaw Industries, Inc.
+
+
+
+
+
+July 2, 1994, July 3, 1993 and June 27, 1992
+
+Note 1  Summary of Accounting Policies
+     The consolidated financial statements include the accounts
+of Shaw Industries, Inc. and subsidiaries.  All
+significant intercompany balances and transactions are eliminated
+in consolidation. The Company's fiscal year end, which is
+the Saturday closest to June 30, has been changed to
+the Saturday closest to December 31 effective in December 1994.
+     Revenues are recognized when goods are shipped.
+     Inventories are stated at the lower of cost or market.  Cost
+includes materials, direct and indirect labor and
+factory overhead.  Market with respect to raw materials is
+replacement cost and for work-in-process and finished
+goods is net realizable value.  The Company primarily uses the
+last-in, first-out (LIFO) method of valuing its
+inventories in order to more properly match current costs against
+current revenues, thereby reducing the effects of
+inflation on earnings.  If LIFO inventories were valued at
+current costs, the inventory amounts would have been
+$6,449,000 and $5,984,000 lower than those reported at July 2,
+1994 and July 3, 1993, respectively.  During 1993,
+inventory quantities were reduced.  This reduction resulted in a
+liquidation of LIFO inventory quantities carried at
+higher costs prevailing in prior years as compared with the cost
+of 1993 purchases, the effect of which increased cost
+of goods sold by approximately  $1,033,000 and decreased net
+income by approximately  $635,000, but did not affect
+earnings per share.
+     Property, Plant and Equipment is recorded at cost.  Renewals
+and betterments are capitalized; maintenance
+and repairs are charged to expenses as incurred.  Maintenance and
+repairs expense for 1994, 1993 and 1992 was
+$78,492,000, $68,977,000 and $50,527,000, respectively.  The cost
+and accumulated depreciation of property retired
+or otherwise disposed of are removed from the accounts and any
+gains or losses thereon are included in income.
+For financial reporting purposes, depreciation is computed using
+the straight-line method over the estimated useful
+lives of the assets (15 to 35 years for buildings and 5 to 14
+years for machinery and equipment).  Leasehold
+improvements are amortized over the terms of the leases.
+     Costs in excess of the fair value of net assets of
+businesses acquired are recorded as goodwill and are
+amortized using the straight-line method over a period not to
+exceed 40 years.  The recoverability of goodwill is
+periodically reviewed by management based on current and
+anticipated conditions.  Accumulated amortization was
+$2,590,000 and $666,000 at July 2, 1994 and July 3, 1993,
+respectively.
+     Accrued Liabilities include $19,640,000 and $15,692,000 for
+workers' compensation claims and $22,278,000
+and $20,237,000 for returns and allowances at July 2, 1994 and
+July 3, 1993, respectively.
+     Deferred Income Taxes are provided for temporary differences
+in recording various items for financial and
+income tax reporting purposes.
+     The Company's Retirement Savings Plan provides, among other
+things, for voluntary contributions by
+employees not to exceed 15% of their gross salaries and wages and
+a 50% matching contribution by the Company
+for employees with three or more years of continuous employment.
+During 1994, 1993 and 1992, the Company
+contributed $8,612,000, $8,133,000 and $5,820,000,  respectively,
+under the plan.
+     The Company has a Deferred Compensation Plan for key
+personnel.  The plan provides, among other things,
+for certain deferred compensation to become payable on the
+employee's death, retirement or total disability as set
+forth in the plan.  During 1994, 1993 and 1992, the Company
+provided $2,243,000, $1,925,000, and $1,639,000,
+respectively, under the plan.  These amounts have been recorded
+as Other Liabilities in the accompanying balance
+sheets.
+     Earnings Per Share have been computed based upon the
+weighted average shares outstanding and include
+the number of dilutive common stock equivalents outstanding
+during the year. All Earnings Per Share and
+Shareholders' Investment amounts have been adjusted for the
+two-for-one stock splits effected in the form of  stock
+dividends in December 1993 and March 1992.
+     Certain prior year amounts have been reclassified to conform
+with the 1994 presentation.
+
+                               12<PAGE>
+
+
+Notes to Consolidated Financial Statements
+       Shaw Industries, Inc.
+
+
+Note 2 Indebtedness
+Long-term debt presented in the accompanying consolidated balance
+sheets at July 2, 1994 and July 3, 1993
+consisted of the following (000's omitted):
+
+                                                           1994           1993
+
+
+Revolving credit agreement at LIBOR based rate          $300,000       $130,000
+
+Revolving loan facility at LIBOR based rate               42,243              -
+
+Revolving loan facility at LIBOR based rate               24,608              -
+
+9.48% term notes payable                                       -        108,750
+
+9.31%  term notes payable                                      -          8,000
+
+10.49% term notes payable                                      -         27,000
+
+Term loan payable at LIBOR based rate                          -         15,080
+
+Other                                                     43,119         19,136
+
+Capitalized lease obligations (Note 5)                    12,801          9,991
+
+                                                         422,771        317,957
+
+Less - current maturities                                (40,579)       (69,648)
+
+
+                                                        $382,192       $248,309
+
+
+      The Company elected to exercise its option to prepay the
+9.48%, 9.31% and 10.49% term notes payable at June
+30, 1994.  An extraordinary charge of $3,363,000 (net of income
+tax benefit of $2,150,000) was incurred as a result
+of the early retirement of the notes payable.
+   The revolving credit agreement was amended during 1994 to
+provide for borrowings of up to $300 million.
+This increase in availability was utilized to repay the term notes
+payable.  The revolving credit agreement expires in
+fiscal year 2000.  The LIBOR rate at July 2, 1994 was approximately 4.8%.
+     The amended revolving credit agreement contains, among other
+provisions (1) restrictions as to creation or
+assumption of liens, payments of cash dividends and acquisitions
+of the Company's stock, (2) limitation as to new
+indebtedness and lease obligations, and (3) financial
+requirements as to minimum working capital ($200,000,000),
+current ratio of 1.75 and ratio of cash flow to fixed charges of
+1.5 in 1994 (actual was 1.6) and 2.0 thereafter.  Retained
+earnings of $82,289,000 are available for the payment of cash
+dividends and the acquisition of the Company's stock
+at July 2, 1994.
+       The aggregate annual maturities of long-term debt,
+including the capitalized lease obligations, as of July 2, 1994
+are as follows:  1995 - $40,579,000; 1996 - $73,962,000; 1997 -
+$4,416,000; 1998 - $76,555,000; 1999 -
+$75,235,000; 2000 and thereafter - $152,024,000.  The carrying
+value of the Company's variable rate debt
+approximates fair market value.
+
+
+                               13<PAGE>
+
+
+Notes to Consolidated Financial Statements
+  Shaw Industries, Inc.
+
+
+      The following data is presented with respect to short-term notes
+payable under line-of-credit agreements in 1994 and 1993 (000's omitted):
+
+
+
+
+                                                           1994          1993
+Lines of credit -
+
+    Available at year-end                                $300,000      $ 50,000
+
+    Unused at year-end                                   $165,000      $ 30,000
+
+Average borrowing for the year, determined
+on a monthly basis                                       $ 53,330      $ 72,500
+
+Maximum outstanding at any month-end                     $135,000      $170,000
+
+
+Note 3 Shareholders' Investment
+     Under the Company's 1987 Incentive Stock Option Plan, eight
+million shares of common stock are reserved
+for issuance at a price no less than the market value on the date
+granted.  These options are exercisable over five
+years.
+     Under the Company's 1992 Incentive Stock Option Plan, six
+million shares of common stock are reserved
+for issuance at a price no less than the market value on the date
+granted.  These options are exercisable over five
+to ten years.
+     The Company's 1989 Discounted Stock Option Plan provides for
+the issuance of up to 880,000 shares of
+common stock to key employees.  Options for 880,000 shares were
+granted to three officers at $.25 per share.  The
+difference between the option price and market price at the date
+of grant is being amortized over the option period.
+For 1994, 1993 and 1992 this expense was $798,000 for each year.
+Beginning in July 1990, 176,000 shares per year
+are exercisable for five years.  During 1994, 176,000 shares were
+exercised, 352,000 shares were exercised in 1993,
+no shares were exercised in 1992 and 176,000 shares were
+exercised in 1991.
+     During March 1989, the Company adopted a Shareholder Rights
+Plan and pursuant thereto declared a
+dividend of one Right for each outstanding share of common stock.
+When exercisable, each Right will entitle its
+holder to buy a fraction of a share of Series A
+Participating Preferred Stock at a price of $12.50 per share
+(the "Purchase Price").  If a person or group acquires or makes a
+tender or exchange offer to acquire 20% or more
+of the Company's common stock without the consent of the Company
+(an "Acquiring Shareholder"), the Rights will
+become exercisable and each Right will entitle the holder, other
+than the Acquiring Shareholder , to receive, upon
+payment of the Purchase Price, in lieu of preferred stock, a
+number of shares of common stock of the Company
+having a market value equal to twice the Purchase Price.  The
+Rights may be redeemed by the Company under
+certain circumstances at a price of $.01 per Right.  The Rights
+have no voting power and, until exercised, no dilutive
+effect on net income per common share.  If not previously
+redeemed, the Rights will expire in April 1999.  The
+Company has designated 200,000 shares, of the 250,000 shares of
+preferred stock authorized, as Series A
+Participating Preferred Stock for issuance upon exercise of the
+Rights.
+     In December 1992, 4,471,500 shares of the Company's common
+stock were issued in a public offering.
+Net proceeds from the sale of the common stock of $125,215,000
+were used to reduce short-term notes payable of
+$120,000,000 incurred to finance the acquisition of the
+polypropylene carpet fiber manufacturing operations of
+Amoco Fabrics and Fibers Company in September 1992, and the
+balance of the proceeds of $5,215,000 was used
+for working capital.
+
+                               14<PAGE>
+
+
+Notes to Consolidated Financial Statements
+Shaw Industries, Inc.
+
+       The following is a summary of stock option information for the 1987 and
+1992 Incentive Stock Option Plans (adjusted for the two-for-one stock splits
+effected in the form of stock dividends in December 1993 and March 1992):
+
+                                                     1994               1993
+
+Options outstanding, beginning of year           3,454,700           2,890,000
+
+Options granted                                          -           2,498,400
+
+Options exercised                                 (655,600)         (1,913,700)
+
+Options canceled                                  (171,200)            (20,000)
+
+Options outstanding, end of year                 2,627,900           3,454,700
+
+Option price range per share                $2.07 - $11.98      $2.07 - $11.98
+
+Options exercisable, end of year                   324,700             988,300
+
+Options available for grant                      6,540,800           6,369,600
+
+      Note 4 Income Taxes
+
+           On July 4, 1993, the Company adopted Statement of Financial
+Accounting Standards (SFAS) No. 109, "Accounting for Income Taxes."
+Under  SFAS No. 109, deferred tax assets and liabilities are determined based on
+the difference between the financial accounting and tax accounting basis of
+assets and liabilities.  Deferred tax assets or liabilities at the end of each
+period are determined using the currently enacted tax rate expected to apply
+to taxable income in the periods in which the deferred tax asset or liability
+is expected to be realized.  There was no cumulative effect resulting from the
+adoption.
+
+     The provision for income taxes consisted of the following (000's omitted):
+
+                                             1994         1993        1992
+
+    Federal                                $69,791       $57,327     $34,441
+
+    State                                    8,098         6,572       3,942
+
+                                            77,889        63,899      38,383
+
+Deferred (temporary differences shown) -
+
+    Depreciation                             4,777            60       2,892
+
+    Inventory valuation                      1,475        (3,454)     (3,546)
+
+    Cash discounts and bad debts              (265)        4,126      (2,212)
+
+    Other                                   (4,490)       (2,258)        658
+
+                                             1,497        (1,526)     (2,208)
+
+                                           $79,386       $62,373     $36,175
+
+                               15<PAGE>
+
+
+Notes to Consolidated Financial Statements
+Shaw Industries, Inc.
+
+
+      The differences between the Federal statutory income tax rate and the
+Company's effective tax rate were as follows:
+                                                   1994        1993        1992
+
+Federal statutory rate                             35.0%       34.0%       34.0%
+
+State income taxes, net of Federal tax benefit      3.9         4.3         4.3
+
+Other, net                                         (1.5)         -           .1
+
+                                                   37.4%       38.3%       38.4%
+
+
+
+Components of the net deferred income tax liability at July 2, 1994 and July 4,
+1993 are shown below (000's omitted):
+
+                                                          1994             1993
+ Deferred income tax assets:
+
+   Accrued advertising expenses not currently
+   deductible                                        $   4,247        $   4,067
+
+   Reserve for cash discounts and bad debts              5,768            5,503
+
+   Employee benefit accruals not currently deductible   18,257           15,732
+
+   Reserve for returns and allowances                    8,682            7,872
+
+                                                        36,954           33,174
+
+
+
+
+ Deferred income tax liabilities:
+
+   Book basis of inventory over tax basis              (17,795)         (16,320)
+
+   Property tax accrual                                ( 1,971)         ( 2,073)
+
+   Book basis of property, plant and equipment
+   over tax basis                                      (41,345)         (36,568)
+
+   Other                                                     -          ( 2,720)
+
+                                                       (61,111)         (57,681)
+
+                                                      $(24,157)        $(24,507)
+
+
+
+
+
+
+                               16<PAGE>
+
+
+Notes to Consolidated Financial Statements
+Shaw Industries, Inc.
+
+
+Note 5 Commitments and Contingencies
+     From time to time the Company is subject to claims and suits
+arising in the course of its business.  In April
+1993, the Company became a defendant in certain litigation
+alleging personal injury resulting from personal exposure
+to volatile organic compounds found in carpet produced by the
+Company.  The complaints seek injunctive relief and
+unspecified money damages on all claims.  The Company has denied
+any liability.  In May 1993, the Company
+became a defendant in certain litigation alleging violation of
+both federal and state laws relating to unfair
+competition.  The complaint seeks an injunction regarding the
+unfair competition claims and money damages.  The
+Company has denied any liability.  The Company believes that it
+has meritorious defenses in these suits and that the
+litigation will not have a material adverse effect on the
+Company's financial condition or results of operations.  The
+Company will vigorously defend these suits.  In June 1994, the
+Company and several other carpet manufacturers
+received grand jury subpoenas from the Antitrust Division of the
+United States Department of Justice relating to
+an investigation of the industry.  The Company believes that once
+this investigation is completed it will not have a
+material adverse effect on the Company's financial condition or
+results of operations.
+     The Company has entered into several capitalized leases for
+machinery and equipment, including computer
+equipment, at a cost of $49,415,000 at July 2, 1994 and
+$37,644,000 at July 3, 1993.  These assets are amortized
+on a straight-line basis over the lease terms and amortization is
+included in depreciation expense.  Accumulated
+amortization of capital lease cost was $30,926,000 and
+$25,219,000 at July 2, 1994 and July 3, 1993, respectively.
+The related obligations are included in long-term debt (Note 2).
+The Company also leases warehouses and showroom
+space, customer service centers and certain equipment under
+operating leases.
+     At July 2, 1994, future minimum lease payments for all
+capital and operating leases exceeding one year
+were:<PAGE>
+
+
+
+
+                                        Capital        Operating    Total Future
+                                         Leases          Leases       Payments
+
+  1995                               $  8,036,000    $ 20,128,000    $28,164,000
+
+  1996                                  3,473,000      12,948,000     16,421,000
+
+  1997                                  2,109,000       8,729,000     10,838,000
+
+  1998                                    875,000       6,299,000      7,174,000
+
+  1999                                    171,000       2,954,000      3,125,000
+
+  Total payments                       14,664,000    $ 51,058,000    $65,722,000
+
+  Less: amount representing interest    1,863,000
+
+  Present value of capitalized lease
+     payments with a weighted average
+     interest rate of 8.25%            12,801,000
+
+
+Rental payments under noncancelable operating leases were
+$28,840,000, $25,422,000 and  $16,537,000  in 1994,
+1993 and 1992, respectively.
+
+
+                               17<PAGE>
+
+
+Notes to Consolidated Financial Statements
+Shaw Industries, Inc.
+
+Note 6 Acquisitions
+     On May 29, 1992, the Company acquired Salem Carpet Mills, Inc.
+("Salem") in accordance with the terms of a merger agreement
+announced on February 9, 1992.  Pursuant to the terms of the
+merger, former Salem shareholders not electing to receive cash
+received .363 (unadjusted) of a share of the Company's common stock for each
+share of Salem common stock owned immediately prior to the merger.
+The aggregate value of the Company's common stock exchanged for the
+Salem common stock was $69,685,000.  The holders of approximately
+3% of Salem's common shares elected to receive cash of $7.98 per
+common share in the merger totalling approximately $2,100,000.
+     The acquisition has been accounted for as a purchase
+transaction, and accordingly, the results of operations of Salem
+have been included in the accompanying financial statements since
+May 30, 1992.  The purchase price was allocated to assets and
+liabilities based on their estimated fair value as of the date of
+the acquisition.  The excess of the consideration paid over the
+estimated fair value of net assets acquired was
+$38,843,000 and has been recorded as goodwill and is being amortized on
+the straight-line basis over 40 years.  The fair value of assets
+acquired and liabilities assumed was $158,833,000 and $125,860,000,
+respectively.  The following table summarizes on a pro forma basis
+the consolidated results of operations as though Salem had been
+acquired on June 30, 1991 (000's except per share data):
+
+
+                                                          Unaudited
+                                                          Year Ended
+                                                          June 27, 1992
+
+Net Sales                                                 $ 2,097,836
+
+Net Income                                                $    55,487
+
+Earnings Per Common Share -
+     Primary and Fully Diluted                            $       .43
+
+
+     On September 25, 1992, the Company acquired Amoco Fabrics and
+Fibers Company's ("Amoco Fibers") polypropylene carpet fiber
+manufacturing facilities located in Andalusia, Alabama, and
+Bainbridge, Georgia, and inventories for approximately $91,606,000
+in cash.  The Company is now producing polypropylene carpet fiber
+at these facilities for both its own use and for sale to other
+manufacturers.  The acquisition has been accounted for as a
+purchase transaction, and accordingly, the results of operations of
+Amoco Fibers have been included in the Company's financial
+statements since September 26, 1992.
+     On March 31, 1993,  the Company acquired all of the
+outstanding stock of Kosset Carpets, Ltd., Bradford, England for
+approximately $19,043,000 in cash.  The acquisition has been
+accounted for as a purchase transaction, and accordingly, the
+results of operations of Kosset have been included in the
+accompanying financial statements since April 1, 1993.
+     On July 12, 1993, the Company formed a joint venture through
+which it acquired an interest in Capital Carpet Industries, Pty.,
+Ltd., Melbourne, Victoria, Australia, and Invicta Group Industries,
+Pty., Ltd., Braybrook, Victoria, Australia (together, "CCI"),
+enabling the Company to participate in a government-supported
+rationalization of the Australian carpet industry.  On November 4,
+1993, the Company acquired the remaining interest in the joint
+venture.  Until November 4, 1993, the investment was accounted for
+using the equity method, and accordingly, the Company included its
+share of CCI's income in other income.  Subsequent to November 4,
+1993, the results of operations of CCI are included in the
+accompanying financial statements.
+     On September 10, 1993, the Company acquired Abingdon Carpets,
+Gwent, Wales.  Abingdon is a British producer of medium-priced
+tufted carpets and carpet yarns.  The acquisition has been
+accounted for as a purchase transaction, and accordingly, the
+results of operations of Abingdon are included in the accompanying
+financial statements since September 10, 1993.
+     On May 31, 1994, the Company entered into an agreement to form
+a joint venture with Grupo Industrial Alfa, S.A. de C.V. of
+Monterrey, Mexico, for the manufacture, distribution and marketing
+of carpets, rugs and related products in Mexico and South America.
+The Company acquired a fifty-one percent interest in Terza, S.A. de
+C.V., and accordingly, the subsidiary is included in consolidation
+at July 2, 1994 and the results of operations of Terza are included
+in the accompanying financial statements since May 31, 1994.
+     The fiscal 1994 acquisitions did not have a material effect on
+the Company's results of operations.
+
+                               18<PAGE>
+
+
+<TABLE>
+Notes to Consolidated Financial Statements
+Shaw Industries, Inc.
+
+
+Note 7   Information About the Company's Foreign Operations
+     The following information is presented regarding the Company's
+foreign operations for the year ended July 2, 1994. Foreign operations
+for fiscal years 1993 and 1992 were immaterial.   (000's omitted)
+
+<S>                                  <C>           <C>         <C>              <C>
+                                                               Adjustments
+                                                                   and
+                                       Domestic     Foreign    Eliminations     Consolidated
+
+
+Sales to unaffiliated customers      $2,417,469    $212,565    $     --           $2,630,034
+
+
+
+Operating profit                     $  224,207    $  8,621    $     --           $  232,828
+
+Interest expense, net                                                                (25,154)
+
+Miscellaneous income, net                                                              4,326
+
+   Income before income taxes                                                     $  212,000
+
+
+
+Identifiable assets                  $1,396,946    $318,409    $(33,207)          $1,682,148
+
+
+
+
+     Sales and transfers between geographic areas and export
+sales are not material.    Operating profit is total
+revenue less operating expenses.  In computing operating profit,
+none of the following items have been added or
+deducted:  interest expense, miscellaneous income, net income
+taxes and the extraordinary item related to early
+retirement of debt.
+
+     Identifiable assets are those assets of the Company that are
+identified with the operations in each geographic
+area, including goodwill.
+
+
+
+</TABLE>
+
+
+                               19<PAGE>
+
+<TABLE>
+Notes to Consolidated Financial Statements                                                Shaw Industries, Inc.
+
+
+
+Note 8  Quarterly Financial Data (Unaudited)
+           Summarized quarterly financial data (000's except per share amounts) for 1994, 1993 and 1992 are as follows:
+
+<S>                                <C>                 <C>                 <C>                 <C>
+                                                                      1994 Quarters
+                                        First               Second              Third               Fourth
+
+Net Sales                          $      649,516      $      638,173      $      620,126      $      722,219
+Gross Profit                              137,301             129,694             126,198             165,926
+Net Income                                 34,096              29,272              25,325             40,479*
+Earnings Per Share  -
+   Primary and Fully Diluted                 0.24                0.20                0.17               0.28*
+
+
+                                                                      1993 Quarters
+                                        First               Second              Third               Fourth
+
+Net Sales                          $      546,822      $      585,395      $      519,318      $      669,275
+Gross Profit                              108,714             114,889             100,507             145,574
+Net Income                                 21,815              24,540              16,596              37,672
+Earnings Per Share  -
+   Primary and Fully Diluted                 0.16                0.18                0.12                0.26
+
+
+                                                                      1992 Quarters
+                                        First               Second              Third               Fourth
+
+Net Sales                          $      436,817      $      410,723      $      403,948      $      499,797
+Gross Profit                               78,930              76,449              69,934             101,021
+Net Income                                 13,179              12,526               8,891              23,449
+Earnings Per Share-
+   Primary and Fully Diluted**               0.12                0.10                0.07                0.18
+
+
+
+ *The fourth quarter net income and per share amounts include the effect of an extraordinary loss on early
+extinguishment of debt of $3,363,000 or $.02 per share, net of applicable tax benefit.
+
+**The sum of the 1992 quarterly net earnings per share amounts is different from the annual net earnings per share
+amounts because of differences in the weighted average number of common shares outstanding used in the
+quarterly and annual computations.
+
+
+</TABLE>
+
+
+
+                               20<PAGE>
+
+Report of Independent Public Accountants
+
+To the Shareholders of Shaw Industries, Inc.:
+
+
+     We have audited the accompanying consolidated balance sheets
+of Shaw Industries, Inc. (a Georgia
+corporation) and subsidiaries as of July 2, 1994 and July 3, 1993
+and the related consolidated statements of income,
+shareholders' investment and cash flows for each of the three
+years in the period ended July 2, 1994.  These
+financial statements are the responsibility of the Company's
+management.  Our responsibility is to express an opinion
+on these financial statements based on our audits.
+     We conducted our audits in accordance with generally
+accepted auditing standards.  Those standards require
+that we plan and perform the audit to obtain reasonable assurance
+about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test
+basis, evidence supporting the amounts and disclosures
+in the financial statements.  An audit also includes assessing
+the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits
+provide a reasonable basis for our opinion.
+     In our opinion, the financial statements referred to above
+present fairly, in all material respects, the financial
+position of Shaw Industries, Inc. and subsidiaries as of July 2,
+1994 and July 3, 1993 and the results of their
+operations and their cash flows for each of the three years in
+the period ended July 2, 1994 in conformity with
+generally accepted accounting principles.
+
+
+Arthur Andersen LLP
+Atlanta, Georgia
+August 8, 1994
+
+
+                               21
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>5
+<TEXT>
+
+                                                         EXHIBIT 21
+
+
+       The only subsidiaries of the Registrant are Shaw Transport,
+Inc., a Georgia corporation, Shaw Financial Services, Inc., a
+Georgia corporation, Carpets International, PLC., a United Kingdom
+corporation, Capital Carpet Industries, Pty., Ltd., an Australian
+corporation and Terza, S.A. de C.V., a Mexican corporation.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>6
+<TEXT>
+                                                   EXHIBIT 23
+
+
+              CONSENT  OF  INDEPENDENT  PUBLIC  ACCOUNTANTS
+As independent public accountants, we hereby consent to the incorporation
+of our reports included and incorporated by reference in this Form 10-K
+into the Company's previously filed Registration Statement File No. 33-45089.
+
+
+Arthur Andersen LLP
+
+Atlanta, Georgia
+September 28, 1994
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>7
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUL-02-1994
+<PERIOD-END>                               JUL-02-1994
+<CASH>                                      12,597,000
+<SECURITIES>                                         0
+<RECEIVABLES>                              386,068,000
+<ALLOWANCES>                              (18,455,000)
+<INVENTORY>                                526,138,000
+<CURRENT-ASSETS>                           930,855,000
+<PP&E>                                   1,118,600,000
+<DEPRECIATION>                             481,025,000
+<TOTAL-ASSETS>                           1,682,148,000
+<CURRENT-LIABILITIES>                      526,140,000
+<BONDS>                                    382,192,000
+<COMMON>                                   155,254,000
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                 554,846,000
+<TOTAL-LIABILITY-AND-EQUITY>             1,682,148,000
+<SALES>                                  2,630,034,000
+<TOTAL-REVENUES>                         2,630,034,000
+<CGS>                                    2,070,915,000
+<TOTAL-COSTS>                            2,070,915,000
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                            14,909,000
+<INTEREST-EXPENSE>                          25,911,000
+<INCOME-PRETAX>                            212,000,000
+<INCOME-TAX>                                79,386,000
+<INCOME-CONTINUING>                        132,535,000
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                            (3,363,000)
+<CHANGES>                                            0
+<NET-INCOME>                               129,172,000
+<EPS-PRIMARY>                                      .89
+<EPS-DILUTED>                                      .89
+        
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

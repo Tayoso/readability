@@ -1,0 +1,3281 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ sgbGegxyBz5/yKJIchTFyw2yJCD7BpJNmYc5ZRDN50e93p9CH0rbCYE+EfhnaH2+
+ zmqRh7rUY712MWfyxlXXSQ==
+
+<IMS-DOCUMENT>0000069960-94-000009.txt : 19940726
+<IMS-HEADER>0000069960-94-000009.hdr.sgml : 19940726
+ACCESSION NUMBER:		0000069960-94-000009
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19940430
+FILED AS OF DATE:		19940719
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NCH CORP
+		CENTRAL INDEX KEY:			0000069960
+		STANDARD INDUSTRIAL CLASSIFICATION:	2842
+		IRS NUMBER:				750457200
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05838
+		FILM NUMBER:		94539252
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2727 CHEMSEARCH BLVD
+		STREET 2:		P O BOX 152170
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75015
+		BUSINESS PHONE:		2144380211
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATIONAL CHEMSEARCH CORP
+		DATE OF NAME CHANGE:	19781009
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K FOR YEAR ENDED APRIL 30, 1994
+<TEXT>
+
+<PAGE>
+<PAGE>
+                    SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON, D.C. 20549
+                                 FORM 10-K
+
+               ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                  OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+For the fiscal year ended April 30, 1994     Commission file number 1-5838
+                          --------------                            ------
+
+                                NCH CORPORATION                       
+- - ------------------------------------------------------------------------
+          (Exact name of registrant as specified in its charter)
+
+            DELAWARE                                 75-0457200
+- - ----------------------------------- ---------------------------------
+ (State or other jurisdiction of    (IRS Employer Identification No.)
+  incorporation or organization)
+ 
+        P.O. Box 152170
+   2727 Chemsearch Boulevard
+         Irving, Texas                             75015          
+- - ----------------------------------- ---------------------------------
+  (Address of principal                         (Zip Code)
+   executive offices)
+
+Registrant's telephone number, including area code     (214) 438-0211
+                                                    --------------------
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                          Name of each exchange on
+      Title of each class                     which registered
+      -------------------                     ----------------
+   COMMON STOCK, $1 PAR VALUE            NEW YORK STOCK EXCHANGE
+- - ----------------------------------- --------------------------------
+
+Securities registered pursuant to Section 12(g) of the Act:  NONE               
+                                                           ------
+
+Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such
+shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90
+days.    Yes  X    No
+             ---      ---
+
+Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein and will not be
+contained, to the best of registrant's knowledge, in definitive proxy
+or information statements incorporated by reference in Part III of
+this Form 10-K or any amendment to this Form 10-K. ( )
+
+Indicate the number of shares outstanding of each of the registrant's
+classes of common stock, as of the latest practicable date:
+<PAGE>
+<PAGE>
+
+                           Approximate Aggregate
+                               Market Value*        Total Shares
+                             of Shares Held by      Outstanding
+          Class                Non-affiliates     at June 22, 1994
+- - -------------------------- -------------------    ----------------
+
+COMMON STOCK, $1 PAR VALUE    $ 244,693,400            8,277,540
+- - --------------------------    --------------           ---------
+
+*The approximate aggregate market value of the common stock held by
+non-affiliates is based on the closing price of these shares on the
+New York Stock Exchange on June 22, 1994.
+
+
+DOCUMENTS INCORPORATED BY REFERENCE:
+
+Portions of the Registrant's 1994 Annual Report to the Shareholders
+and definitive Proxy Statement relating to the Registrant's 1994
+Annual Shareholders Meeting are incorporated by reference in Parts II
+and III of this Form 10-K.
+
+<PAGE>
+<PAGE>
+                    DOCUMENTS INCORPORATED BY REFERENCE
+
+
+Location in Form 10-K                 Incorporated Document
+
+                                  PART II
+
+Item 5 - Market for the Registrant's  Page 32 of the 1994 Report
+Common Equity and Related Shareholder to the Shareholders.
+Matters.
+
+Item 6 - Selected Financial Data.     Page 18 of the 1994 Report
+                                      to the Shareholders.
+
+Item 7 - Management's Discussion and  Pages 18-20 of the 1994
+Analysis of Financial Condition and   Report to the Shareholders.
+Operations.
+
+Item 8 - Financial Statements and     Pages 21-32 of the 1994
+Supplementary Data.                   Report to the Shareholders.
+
+
+                                 PART III
+
+Item 10 - Directors and Executive     Pages 2-4 of the Company's
+Officers of the Registrant.           Proxy Statement dated June
+                                      22, 1994, in connection with
+                                      its Annual Meeting to be
+                                      held on July 28, 1994.
+
+Item 11 - Executive Compensation.     Pages 5-9 of the Company's
+                                      Proxy Statement dated June
+                                      22, 1994, in connection with
+                                      its Annual Meeting to be
+                                      held on July 28, 1994.
+
+Item 12 - Security Ownership of       Pages 11-12 of the Company's
+Certain Beneficial Owners and         Proxy Statement dated June
+Management.                           22, 1994, in connection with
+                                      its Annual Meeting to be
+                                      held on July 28, 1994.
+
+Item 13 - Certain Relationships and   Pages 3 & 9 of the Company's
+Related Transactions.                 Proxy Statement dated June
+                                      22, 1994, in connection with
+                                      its Annual Meeting to be
+                                      held on July 28, 1994.
+
+
+
+
+<PAGE>
+<PAGE>
+                                  PART I
+
+
+Item 1.  Business.
+         --------
+
+  NCH Corporation, a Delaware corporation, and its subsidiaries
+(herein collectively referred to as the "Company" or "NCH" unless the
+context requires differently) markets an extensive line of
+maintenance, repair and supply products to customers throughout the
+world.  Products include specialty chemicals, fasteners, welding
+supplies, plumbing and electronic parts, and safety supplies.  These
+products are marketed principally through the Company's own sales
+force.  There have been no significant changes in the kind of products
+produced or marketed by the Company since the beginning of the last
+fiscal year, although individual products are continually added to and
+deleted from the product line.  Sales are generally consistent
+throughout the year, with no significant seasonal fluctuations.
+
+  Competitive conditions in the industry involved are severe and the
+Company believes that no one enterprise or group of enterprises has a
+dominant or preeminent position in the market.  Further, the Company
+believes that no enterprise has a significant percentage of the
+market.  No informative statement can be made as to the Company's rank
+in its industry.  Not only do other concerns compete in the broad
+general range of maintenance, repair or supply products, but there are
+also many competitors who produce one or more products which compete
+with specific products sold by the Company.  Competition in the
+industry is primarily on the basis of price, service and product
+performance.  The Company's main emphasis is on service and product
+performance rather than price.  Sales of Company products are not
+dependent upon a limited number of customers, and no particular
+customer accounts for as much as 1/2% of sales.
+
+  Qualified sales representatives are crucial to the Company's
+operations.  In addition to industry competition, the Company competes
+with the entire business community for qualified sales
+representatives.  This competition has been, and remains, severe.  The
+Company has a required formal training program for its sales
+representatives consisting of in-house and field training.  Turnover
+of new sales representatives in the first year is estimated to be
+approximately 83%, based on the Company's experience in the last three
+years.  The cost of recruiting and training sales representatives was
+approximately $47.5 million, $46.2 million and $44.9 million for the
+years ended April 30, 1994, 1993 and 1992, respectively.
+
+  The products that the Company markets are readily available from
+numerous sources.  The Company buys raw materials and finished
+products from a large number of suppliers, none of whom would
+materially impact the sales or earnings of the Company should they
+cease to be a source of supply.  In some foreign countries, licensees
+manufacture specialty chemical products for marketing by the Company's
+subsidiaries.
+
+  Patents, franchises and concessions have not played an important
+role in the Company's business.  Trademarks are extensively used on
+products, and are useful but not of paramount importance.
+<PAGE>
+<PAGE>
+
+  As of the end of its last fiscal year the Company employed 10,378
+persons.  The Company employs 74 professional or technical persons on
+its laboratory staff ranging from Ph.D's to nongraduate chemical
+technicians.  Although the laboratory staff spends time on research
+activities relating to the development of new products or services and
+the improvement of existing products or services, the staff is also
+engaged in quality control and customer service activities.  Costs
+cannot be broken down between these various activities.  The
+approximate amounts spent on laboratory operations in the years ended
+April 30, 1994, 1993 and 1992, were $4.4 million, $3.9 million and
+$3.4 million, respectively.  All laboratory costs, including research
+and development, are expensed as incurred.
+
+  The Company is subject to various federal, state and local laws and
+regulations affecting businesses in general, including environmental
+laws and regulations.  Complying with all laws and regulations has not
+materially affected the Company's competitive position, earnings or
+capital expenditures.  All laws and regulations are subject to change
+and the Company cannot predict what effect, if any, changes might have
+on its business.
+
+  International sales are conducted through subsidiaries in Europe,
+Canada, Latin America, Australia and the Far East.  Intercompany sales
+and profits have been eliminated from the following schedule. 
+Corporate expenses are allocated between the geographic areas. 
+Identifiable assets are those identified with the operations in each
+geographic area.  Corporate assets includes portions of cash and cash
+equivalents and marketable securities.
+
+  Financial information by geographic area, in thousands of dollars,
+follows for the years ended April 30:
+  
+                      United                Other
+                      States   Europe   International     Consolidated
+                     -------- --------  -------------     ------------
+1994
+Net Sales           $381,949  $222,214    $75,824        $679,987
+Net Income (Loss)     20,474    12,818     (2,085)         31,207
+Identifiable Assets  218,573   117,316     36,049         371,938
+Corporate Assets                                          113,285
+
+1993
+Net Sales           $336,471  $267,280     $76,186       $679,937
+Net Income            19,030    16,952       1,631         37,613
+Identifiable Assets  194,976   131,986      34,790        361,752
+Corporate Assets                                          105,624
+
+1992
+Net Sales           $313,256  $271,388     $86,161       $670,805
+Net Income            17,332    20,721       1,382         39,435
+Identifiable Assets  183,121   155,012      37,234        375,367
+Corporate Assets                                           95,460
+<PAGE>
+<PAGE>
+
+  Sales between geographic areas and export sales from the United
+States are immaterial and are therefore not included in net sales
+disclosed in the above table.
+
+  In the Company's experience, other than currency fluctuations, the
+overall risk of international operations has not been appreciably
+higher than domestic operations, although the risk of operations in any
+one country may be greater than in the United States.  The Company is
+subject to the risks inherent in operating in foreign countries,
+including government regulation, currency restrictions and other
+restraints, risk of expropriation and burdensome taxes.
+
+
+Item 2.  Properties.
+         ----------
+
+  The Company owns its world headquarters and domestic administrative
+center complex in Irving, Texas, containing approximately 319,000
+square feet.
+
+  The Company owns and operates 19 manufacturing facilities in 7
+states and 10 foreign countries, located in Canada, Europe, Latin
+America and the Far East, containing approximately 1,160,000 square
+feet.  These facilities also include related office and warehouse
+space.
+
+  The Company owns and occupies a total of 15 office or
+office/warehouse combinations in 5 states and 4 foreign countries,
+located in Europe and Latin America, containing approximately 710,000
+square feet.
+
+  In addition, the Company leases additional warehouse space,
+manufacturing plants, and office space at various locations in the
+United States and abroad, none of which is material in relation to the
+Company's overall assets.
+
+  During the last fiscal year the Company made investments, net of
+dispositions, of $13,124,000 ($14,219,000 gross) in capital property,
+plant and equipment.
+
+  The plants and properties owned and operated by the Company are
+maintained in good condition and are believed to be suitable and
+adequate for the next several years.
+
+
+Item 3.  Legal Proceedings.
+         -----------------
+
+  There are no material pending legal proceedings, other than ordinary
+routine litigation incidental to the business, to which the Company or
+any of its subsidiaries is a party or of which any of their property is
+subject.
+
+  From time to time, the Company is named as a potentially responsible
+party in proceedings involving compliance with environmental laws and
+regulations.  Management of the Company believes that an administrative
+proceeding currently pending involving
+<PAGE>
+<PAGE>
+
+the Company's solvent recycling program will not have a material effect
+on the Company's financial condition or results of operations and will
+not result in monetary sanctions in excess of $100,000, if any.
+
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+         ---------------------------------------------------
+
+  No matters were submitted to a vote of security holders during the
+fourth quarter of the fiscal year covered by this report.
+
+
+  Executive Officers of the Registrant.
+  ------------------------------------
+
+  The following are the executive officers of the Company as of 
+June 1, 1994:
+
+Name                  Office                               Age
+- - ----                  ------                               ---
+
+Lester A. Levy        Chairman of the Board;
+                      Director                             71
+
+Milton P. Levy, Jr.   Chairman of the Executive
+                      Committee; Director                  68
+
+Irvin L. Levy         President; Director                  65
+
+Earl Nicholson        Senior Vice President                72
+
+James A. Stone        Senior Vice President                72
+
+Joe Cleveland         Vice President and Secretary         60
+
+Tom Hetzer            Vice President - Finance             57
+
+Glen Scivally         Vice President and Treasurer         53
+
+
+
+Messrs. Lester A. Levy, Milton P. Levy, Jr. and Irvin L. Levy are
+brothers.  Each of the Company's executive officers has been an
+executive officer of the registrant for more than five years as his
+principal employment.  
+
+
+
+
+
+<PAGE>
+<PAGE>
+
+                                  PART II
+
+
+
+Item 5.  Market for the Registrant's Common Equity and Related
+         -----------------------------------------------------
+         Stockholder Matters.
+         -------------------
+
+  Market and Dividend Information, appearing on page 32 of the 1994
+Report to the Shareholders, is incorporated by reference herein.
+
+
+Item 6.  Selected Financial Data.
+         -----------------------
+
+  Selected Financial Data, appearing on page 18 of the 1994 Report to
+the Shareholders, is incorporated by reference herein.
+
+
+Item 7.  Management's Discussion and Analysis of
+         ---------------------------------------
+         Financial Condition and Results of Operations.
+         ---------------------------------------------
+
+  Management's Discussion and Analysis of Financial Condition and
+Results of Operations, appearing on pages 18-20 of the 1994 Report to
+the Shareholders, is incorporated by reference herein.
+
+
+Item 8.  Financial Statements and Supplementary Data.
+         -------------------------------------------
+
+  The Financial Statements and Supplementary Data, appearing on pages
+21-32 of the 1994 Report to the Shareholders, is incorporated by
+reference herein.
+
+
+Item 9.  Changes in and Disagreements with Accountants on
+         ------------------------------------------------
+         Accounting and Financial Disclosure.
+         -----------------------------------
+
+  None
+
+
+
+
+
+<PAGE>
+<PAGE>
+
+                                  PART III
+
+
+Item 10.  Directors and Executive Officers of the Registrant.
+          --------------------------------------------------
+
+  Information on directors of the registrant, found on pages 2-4 of
+the Company's Proxy Statement dated June 22, 1994, in connection with
+its Annual Meeting to be held July 28, 1994, is incorporated by
+reference herein.
+
+  Information on executive officers of the registrant, found on page 9
+of this report, is incorporated by reference herein.
+
+
+
+Item 11.  Executive Compensation.
+          ----------------------
+
+  Information on executive compensation and transactions, found on
+pages 5-9 of the Company's Proxy Statement dated June 22, 1994, in
+connection with its Annual Meeting to be held July 28, 1994, is
+incorporated by reference herein.
+
+
+
+Item 12.  Security Ownership of Certain Beneficial Owners and 
+          ----------------------------------------------------
+          Management.
+          -----------
+
+  Information on security ownership of principal stockholders and
+management, found on pages 11-12 of the Company's Proxy Statement dated
+June 22, 1994, in connection with its Annual Meeting to be held on July
+28, 1994, is incorporated by reference herein.
+
+
+
+Item 13.  Certain Relationships and Related Transactions.
+          -----------------------------------------------
+
+  Information on certain relationships and related transactions, found
+on pages 3 and 9 of the Company's Proxy Statement dated June 22, 1994,
+in connection with its Annual Meeting to be held on July 28, 1994, is
+incorporated by reference herein.
+
+<PAGE>
+<PAGE>
+
+                                  PART IV
+
+
+Item 14.  Exhibits, Financial Statement Schedules, and Reports on Form
+          ------------------------------------------------------------          
+          8-K.
+          ----
+
+(a)(1) and (2):  The response to this portion of Item 14 is submitted
+as a separate section of this report on pages 15-16.  The information
+set forth on pages 15-16 of this report is incorporated by reference. 
+The consolidated financial statements set forth on page 15 of this
+report are filed as part of this Form 10-K by incorporation by
+reference to pages 21-32 of the 1994 Report to the Shareholders.
+
+
+(a)(3) and (c):  Exhibits.  For a list of the exhibits filed as a part
+of this report, see the Index to Exhibits on page 22 of this report,
+which is incorporated by reference.
+
+
+(b) Reports on Form 8-K:  No reports on Form 8-K were filed during the
+quarter ended April 30, 1994.
+
+
+(d) Not applicable.
+
+<PAGE>
+<PAGE>
+                                 SIGNATURES
+The Issuer
+- - ----------
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, NCH Corporation has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized, in the City of
+Irving, and the State of Texas, on this 10th day of June, 1994.
+
+                                        NCH CORPORATION, Registrant
+                                        By /s/ Irvin L. Levy        
+                                        ------------------------------
+                                           Irvin L. Levy, President
+
+  Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of NCH
+Corporation and in the capacities and on the date indicated.
+
+Signature                 Capacity at Registrant             Date
+- - ---------                 ----------------------         -------------
+                          Chairman of the Board;
+     /s/Lester A. Levy    Director                       June 10, 1994
+- - ---------------------------
+      Lester A. Levy
+
+                          Chairman of the Executive
+   /s/Milton P. Levy, Jr. Committee; Director            June 10, 1994
+- - ---------------------------
+    Milton P. Levy, Jr.
+
+                          President; Director
+     /s/Irvin L. Levy     (Principal Executive Officer)  June 10, 1994
+- - ---------------------------
+       Irvin L. Levy
+
+                          Vice President - Finance
+      /s/Tom Hetzer       (Principal Accounting Officer) June 10, 1994
+- - ---------------------------
+        Tom Hetzer
+
+
+ /s/Robert L. Blumenthal  Director                       June 10, 1994
+- - ---------------------------
+   Robert L. Blumenthal
+
+
+     /s/Rawles Fulgham    Director                       June 10, 1994
+- - ---------------------------
+      Rawles Fulgham       
+
+
+    /s/Jerrold M. Trim    Director                       June 10, 1994
+- - ---------------------------
+     Jerrold M. Trim
+
+
+ /s/Thomas B. Walker Jr.  Director                       June 10, 1994
+- - ---------------------------
+   Thomas B. Walker Jr.
+<PAGE>
+<PAGE>
+
+                              NCH CORPORATION
+                         AND SUBSIDIARY COMPANIES
+
+
+                                 FORM 10-K
+               ITEMS 8, 14(a)(1) and (2) and (a)(3) and (c)
+
+           INDEX OF FINANCIAL STATEMENTS, SCHEDULES AND EXHIBITS
+
+
+       The following consolidated financial statements are filed as part of this
+Form 10-K by incorporation by reference to pages 21-32 of the 1994 Report to
+the Shareholders.
+
+
+Consolidated Financial Statements:
+      Statements of Income, Years Ended April 30, 1994, 1993 and 1992
+      Balance Sheets, April 30, 1994 and 1993
+      Statements of Cash Flows, Years Ended April 30, 1994, 1993 and 1992
+      Statements of Stockholders' Equity, Years Ended April 30, 1994, 1993
+      and 1992
+Notes to Consolidated Financial Statements
+Independent Auditors' Report
+Selected Unaudited Quarterly Data, Years Ended April 30, 1994 and 1993
+
+  
+
+<PAGE>
+<PAGE>
+
+      The following consolidated financial statement schedules of the registrant
+and its subsidiaries are included in Item 14(a)(2):
+
+                                                                 Page
+                                                                 ----
+Consolidated Financial Statement Schedules
+     Independent Auditors' Report                                 17
+     I    - Marketable Securities - Other Security Investments    18
+     V    - Property, Plant and Equipment                         19
+     VI   - Accumulated Depreciation and Amortization of 
+            Property, Plant and Equipment                         20
+     VIII - Valuation and Qualifying Accounts                     21
+
+
+       Schedules other than those listed above are omitted because they are not
+required or are not applicable, the information required is immaterial in
+relation to the registrant's consolidated financial statements, or the
+required information is shown in the consolidated financial statements or
+notes thereto.  Columns omitted from schedules filed have been omitted because
+the information is not applicable.
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+<PAGE>
+
+
+INDEPENDENT AUDITORS' REPORT
+
+
+The Stockholders and Board of Directors
+NCH Corporation:
+
+
+     Under date of June 2, 1994, we reported on the consolidated
+balance sheets of NCH Corporation and subsidiaries as of April 30,
+1994 and 1993, and the related consolidated statements of income,
+stockholders' equity and cash flows for each of the years in the
+three-year period ended April 30, 1994, as contained in the 1994
+Report to the Shareholders.  These consolidated financial statements
+and our report thereon are incorporated by reference in the annual
+report on Form 10-K for the year ended April 30, 1994.  In connection
+with our audits of the aforementioned consolidated financial
+statements, we also audited the related consolidated financial
+statement schedules as listed in the accompanying index.  These
+consolidated financial  statement schedules are the responsibility of
+the Company's management.  Our responsibility is to express an opinion
+on these consolidated financial statement schedules based on our
+audits.
+
+     In our opinion, such schedules, when considered in relation to
+the basic consolidated financial statements taken as a whole, present
+fairly, in all material respects, the information set forth therein.
+
+
+         /s/ KPMG Peat Marwick
+
+
+Dallas, Texas
+June 2, 1994
+
+
+
+
+
+<PAGE>
+<PAGE>
+<TABLE>
+                                    NCH CORPORATION AND SUBSIDIARIES
+                    SCHEDULE I - MARKETABLE SECURITIES - OTHER SECURITY INVESTMENTS
+                                          AS OF APRIL 30, 1994
+                                             (In Thousands)
+<CAPTION>
+                                                                Market Value of   Amount at
+    Name of Issue                  Principal                     Each Issue at  Which Carried
+    and Title of                Amount of Bonds     Cost of         Balance     on the Balance
+    Each Issue (a)                 and Notes       Each Issue     Sheet Date(b)   Sheet(b)   
+- - ---------------------           ---------------    ----------   --------------- --------------
+<S>                                 <C>            <C>            <C>            <C>       
+U.S. Government
+  Securities                        $  2,000       $  1,076       $  1,076       $  1,076
+
+State and Municipal
+  Securities                          94,000        107,694        100,315        104,412
+
+
+Certificates of Deposit               20,390         20,390         20,390         20,390
+
+Other                                      9              9              9              9
+                                    --------       --------       --------       --------
+
+Total Marketable Securities          116,399        129,169        121,790        125,887
+
+
+Less Cash Equivalents                 20,103         20,103         20,103         20,103
+                                    --------       --------       --------       --------
+Marketable Securities
+  As Stated on Balance Sheets       $ 96,296       $109,066       $101,687       $105,784
+                                    ========       ========       ========       ========
+
+(a)  No individual security issue exceeds 2% of total assets.
+
+(b)  Includes accrued interest.
+
+</TABLE>
+<PAGE>
+<PAGE>
+<TABLE>
+                                    NCH CORPORATION AND SUBSIDIARIES
+
+                               SCHEDULE V - PROPERTY, PLANT AND EQUIPMENT
+                                             (In Thousands)
+<CAPTION>
+                                    Balance at                                Foreign      Balance
+                                    Beginning     Additions                  Currency     at End of
+            Description             of Period      at Cost    Retirements   Translation    Period  
+- - ----------------------------------  ---------     ---------   -----------   -----------   ---------
+<S>                                 <C>           <C>           <C>         <C>           <C>
+Year Ended April 30, 1994
+     Land                           $ 12,098      $     -       $    -      $  (156)      $ 11,942
+     Buildings and Improvements       72,724        3,400          578       (1,140)        74,406
+     Furniture and Fixtures           14,783        1,446          334         (564)        15,331
+     Machinery and Equipment          57,086        7,080        1,128         (564)        62,474
+     Automotive Equipment             14,029        3,223        2,914         (492)        13,846
+                                    --------      -------       ------      -------
+                                    $170,720      $15,149       $4,954      $(2,916)      $177,999
+                                    ========      =======       ======      =======       ========
+Year Ended April 30, 1993
+     Land                           $ 10,771      $ 1,366       $    -      $  ( 39)      $ 12,098
+     Buildings and Improvements       67,810        6,559          264       (1,381)        72,724
+     Furniture and Fixtures           15,066          838          451         (670)        14,783
+     Machinery and Equipment          54,017        5,371        1,175       (1,127)        57,086
+     Automotive Equipment             14,199        3,954        3,243         (881)        14,029
+                                    --------      -------       ------      -------
+                                    $161,863      $18,088       $5,133      $(4,098)      $170,720
+                                    ========      =======       ======      =======       ========
+Year Ended April 30, 1992
+     Land                           $ 10,408      $   394       $    -      $  ( 31)      $ 10,771
+     Buildings and Improvements       65,083        3,776          307         (742)        67,810
+     Furniture and Fixtures           14,198          944           41          (35)        15,066
+     Machinery and Equipment          51,377        5,726        1,091       (1,995)        54,017
+     Automotive Equipment             14,095        3,478        2,765         (609)        14,199
+                                    --------      -------       ------      -------       --------
+                                    $155,161      $14,318       $4,204      $(3,412)      $161,863
+                                    ========      =======       ======      =======       ========
+
+</TABLE>
+<PAGE>
+<PAGE>
+<TABLE>
+                                     NCH CORPORATION AND SUBSIDIARIES
+
+         SCHEDULE VI - ACCUMULATED DEPRECIATION AND AMORTIZATION OF PROPERTY, PLANT AND EQUIPMENT
+                                              (In Thousands)
+
+<CAPTION>
+                                                Additions
+                                     Balance at Charged to                 Foreign     Balance
+                                     Beginning  Costs and                 Currency    at End of
+            Description              of Period   Expenses   Retirements  Translation   Period  
+- - ----------------------------------   ---------  ----------  -----------  -----------  ----------
+<S>                                  <C>           <C>         <C>          <C>         <C> 
+Year Ended April 30, 1994
+     Buildings and Improvements      $29,325       $2,597      $  526       $  (477)    $30,919
+     Furniture and Fixtures           11,274        1,297         313          (525)     11,733
+     Machinery and Equipment          39,420        5,278         994          (382)     43,322
+     Automotive Equipment              7,560        2,691       2,121          (212)      7,918
+                                     -------      -------      ------       -------     -------        
+                                     $87,579      $11,863      $3,954       $(1,596)    $93,892
+                                     =======      =======      ======       =======     ====     ===
+Year Ended April 30, 1993
+     Buildings and Improvements      $27,455      $ 2,529      $   34       $  (625)    $29,325
+     Furniture and Fixtures           11,134        1,146         464          (542)     11,274
+     Machinery and Equipment          36,030        5,464       1,265          (809)     39,420
+     Automotive Equipment              7,248        3,334       2,414          (608)      7,560
+                                     -------      -------      ------       -------     -------
+                                     $81,867      $12,473      $4,177       $(2,584)    $87,579
+                                     =======      =======      ======       =======     =======
+Year Ended April 30, 1992
+     Buildings and Improvements      $25,734      $ 2,323      $   28          (574)    $27,455
+     Furniture and Fixtures           10,007        1,237          76           (34)     11,134
+     Machinery and Equipment          32,927        4,786         901          (782)     36,030
+     Automotive Equipment              6,549        3,028       2,078          (251)      7,248
+                                     -------      -------      ------       -------     -------
+                                     $75,217      $11,374      $3,083       $(1,641)    $81,867
+                                     =======      =======      ======       =======     =======
+
+
+</TABLE>
+<PAGE>
+<PAGE>
+<TABLE>
+                                     NCH CORPORATION AND SUBSIDIARIES
+
+                             SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+                                              (In Thousands)
+
+
+<CAPTION>
+
+                                  Balance at    Charged to     Foreign       Deductions--     Balance
+                                  Beginning     Costs and      Currency        Accounts      at End of
+        Description               of Period      Expenses     Translation    Written-Off      Period 
+- - ---------------------------       ---------     ----------    -----------    ------------ ------------  
+<S>                                <C>            <C>            <C>            <C>          <C>    
+Reserves Deducted in the Balance 
+Sheet from Assets to Which They 
+Apply
+
+Allowances for Doubtful Accounts
+
+Year Ended April 30, 1994          $16,045        $8,568         $ (901)        $7,243       $16,469
+                                   =======        ======          ======        ======       =======
+
+Year Ended April 30, 1993          $16,512        $8,663         $ (954)        $8,176       $16,045
+                                   =======        ======          ======        ======       =======
+
+Year Ended April 30, 1992          $16,490        $8,441         $ (775)        $7,644       $16,512
+                                   =======        ======          ======        ======       =======
+
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+<PAGE>
+
+                              INDEX TO EXHIBITS
+                              -----------------
+   Exhibit                                               Sequentially
+   Number                   Exhibit                      Numbered Page
+   ------                   -------                      -------------
+
+Exhibit  3.1 (1)      Restated Certificate of Incorporation     
+
+Exhibit  3.2 (1)      Bylaws, as amended
+
+Exhibit 10.1 (1) (3)  Form of 1980 Non-Qualified Stock Option 
+                      Plan, as amended
+
+Exhibit 10.2 (1) (3)  Form of Non-Qualified Stock Option 
+                      Agreement
+
+Exhibit 10.5 (1) (3)  Forms of Deferred Compensation 
+                      Agreements with Messrs. Irvin, Lester, 
+                      and Milton Levy
+
+Exhibit 10.7 (5) (3)  Third Amendments to Deferred Compensation 
+                      Agreements with Messrs. Irvin, Lester, 
+                      and Milton Levy
+
+Exhibit 10.8 (2) (3)  Executive Committee Incentive Bonus Plan
+
+Exhibit 13 (2)        Report to the Shareholders for the year 
+                      ended April 30, 1994
+
+Exhibit 21 (2)        Subsidiaries of the Registrant
+
+Exhibit 23 (2)        Independent Auditors' Consent
+
+Exhibit 99 (2)        Definitive Proxy Statement regarding 
+                      the Company's 1994 Annual Meeting of 
+                      Stockholders                              
+
+(1) Incorporated herein by reference to the exhibits with the same exhibit
+    number and designation in the Registrant's report on Form 10-K for the
+    fiscal year ended April 30, 1987, filed with the Securities and Exchange
+    Commission.
+
+(2) Filed herewith.
+
+(3) Management contract or compensatory plan or arrangement required to be 
+    filed as an exhibit to this report pursuant to Item 14(c) of Form 10-K.
+
+(4) Incorporated herein by reference to the exhibit with the same exhibit
+    number and designation in the Registrant's report on Form 10-K for the
+    fiscal year ended April 30, 1992, filed with the Securities and Exchange
+    Commission.
+
+(5) Incorporated herein by reference to the exhibit with the same exhibit
+    number and designation in the Registrant's report on Form 10-K for the
+    fiscal year ended April 30, 1993, filed with the Securities and Exchange
+    Commission.
+<PAGE>
+<PAGE>
+                               NCH CORPORATION
+                                EXHIBIT 10.8 
+                  EXECUTIVE COMMITTEE INCENTIVE BONUS PLAN
+
+                           MINUTES OF THE MEETING
+                        OF THE COMPENSATION COMMITTEE
+                          OF THE BOARD OF DIRECTORS
+                                     OF
+                               NCH CORPORATION
+
+                               April 28, 1994
+
+
+  At a meeting held on April 28, 1994, the Compensation Committee considered the
+proposal of Towers Perrin & Co. to adopt an incentive bonus plan for members of
+the Executive Committee for fiscal year 1995.
+
+  Subject to stockholder approval, the Compensation Committee unanimously
+adopted the following plan for the payment of bonuses to each member of the
+Executive Committee (being Lester A. Levy, Milton P. Levy, Jr., and
+Irvin L. Levy) based on the increase of net income of NCH Corporation, if any,
+calculated before the calculation of any bonus pursuant to this plan, but after
+taxes.
+
+    Percentage Increase In              Dollar Amount
+    Net Income Before Bonus                of Bonus    
+    -----------------------            ----------------
+
+    Less than 10%                              -0-
+    10% - less than 14%                  $ 225,000 each
+    14% - less than 16%                  $ 300,000 each
+    16% or more                          $ 375,000 each
+
+
+ The bonus plan may not be amended to increase the cost of the plan to NCH or
+change the persons to whom bonuses will be paid without a vote of NCH's
+stockholders.  The Compensation Committee will be authorized to make other
+amendments to the bonus plan.
+
+ The Compensation Committee members, being all of the independent directors
+without a conflict of interest, authorize this proposal to be presented to the
+stockholders for approval at the annual meeting of NCH Corporation to be held
+the last Thursday in July, 1994.  Each member of the Compensation Committee and
+director, by his signature hereto, waives all formalities in connection with
+this meeting and adopts the matter set forth in these minutes.
+
+
+
+                                         /s/ Thomas B. Walker, Jr.
+                                         -------------------------
+                                         Thomas B. Walker, Jr.
+
+
+
+                                         /s/ Rawles Fulgham
+                                         -------------------------
+                                         Rawles Fulgham
+
+
+
+                                         /s/ Jerrold M. Trim
+                                         -------------------------
+                                         Jerrold M. Trim
+
+<PAGE>
+<PAGE>
+
+NCH CORPORATION AND SUBSIDIARIES
+EXHIBIT 13
+REPORT TO THE SHAREHOLDERS FOR THE YEAR ENDED APRIL 30, 1994
+
+
+Selected Financial Data
+NCH Corporation and Subsidiaries
+(In Thousands Except Per Share Data)
+Years Ended April 30,
+=======================================================================
+                      1994      1993       1992      1991        1990
+                    --------  --------   --------  --------    --------
+  
+
+Net Sales           $679,987  $679,937   $670,805  $677,687    $628,430
+
+Net Income          $ 31,207  $ 37,613   $ 39,435  $ 43,113    $ 39,809
+
+Earnings Per Share     $3.77     $4.53      $4.77     $5.19       $4.69
+
+Current Ratio       3.6 to 1  3.7 to 1   3.2 to 1  2.9 to 1    2.7 to 1
+
+Total Assets        $485,223  $467,376   $470,827  $438,244    $394,403
+
+Long-Term Debt      $  6,790  $  8,795   $ 10,472  $  8,189    $ 11,374
+
+Retirement and
+  Deferred Compen-
+  sation Plans      $ 83,986  $ 80,026   $ 78,628  $ 71,928    $ 63,443
+
+Cash Dividends 
+  Declared Per
+  Share                $2.00     $2.00      $1.00      $.97       $1.06
+
+
+
+
+<PAGE>
+<PAGE>
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND 
+- - ------------ ---------- --- -------- -- --------- --------- ---
+RESULTS OF OPERATIONS
+- - ------- -- ----------
+
+Liquidity and Capital Resources
+- - --------- --- ------- ---------
+
+        In the fiscal year ended April 30, 1994, working capital increased
+to $262.4 million from $253.3 million at April 30, 1993.  The current
+ratio was 3.6 to 1 at April 30, 1994, compared to 3.7 to 1 at April 30,
+1993.  The total of cash, cash equivalents and marketable securities
+increased by $1.0 million to $124.5 million at April 30, 1994.  Net
+cash flow from operations totaled $30.8 million.  Principal uses of
+cash consisted of net capital expenditures of $13.1 million, the
+repurchase of 55,900 shares of the Company's stock for $3.4 million and
+payment of dividends of $16.5 million.  Additional funds were provided
+by the borrowing of cash surrender values of company-owned life
+insurance policies on key employees of $7.8 million and net additional
+borrowings of $4.7 million.  During the year ended April 30, 1994, the
+Company purchased the assets of two small businesses amounting to $3.7
+million.  Management expects that operating cash flows will continue to
+generate sufficient funds to finance operating needs, capital
+expenditures and the payment of dividends.  Long-term and short-term
+indebtedness has usually been limited to the borrowing of local country
+currencies by the Company's international subsidiaries to finance
+working capital requirements, although the Company has incurred debt
+domestically at various times when financially advantageous.    
+
+        The Company's international subsidiaries operate on a fiscal year
+ending on the last day of February.  At February 28, 1994, the value of
+the U.S. dollar had increased relative to most of the currencies in
+which the Company's international subsidiaries operate.  As a result,
+the reported values of both assets and liabilities of the Company's
+international subsidiaries decreased as a result of the change in the
+Company's composite spot rate at February 28, 1994, compared to
+February 28, 1993.  This is reflected by the foreign currency
+translation component of stockholders' equity, which changed from a
+$17.0 million reduction of equity at April 30, 1993, to a $22.1 million
+reduction of equity at April 30, 1994. 
+
+        Accounts receivable increased by $3.2 million and inventories
+increased by $11.4 million in the year ended April 30, 1994, as
+measured in U.S. dollars and reported on the Consolidated Balance
+Sheets.  These changes include the addition of $.9 million of accounts
+receivable and $.7 million of inventories acquired in the purchase of
+the assets of two small businesses, as well as the effect of exchange
+rate changes during the year.  As stated above, the result of the
+exchange rate deviations from the end of the prior year to the end of
+fiscal 1994 was to decrease the reported U.S. dollar values of both
+assets and liabilities.  The change in accounts receivable and
+inventories presented in the Consolidated Statements of Cash Flows is
+exclusive of the effect of exchange rates on the reported asset values
+and shows that accounts receivable increased by $6.0 million compared
+to the end of the prior year, while inventories
+<PAGE>
+<PAGE>
+
+increased by $11.6 million in the same period.  These amounts exclude
+the accounts receivable and inventories acquired in the purchase of the
+assets of two small businesses, which is shown separately in the
+Consolidated Statements of Cash Flows as an investing activity.  The
+increase in accounts receivable was primarily the result of higher
+sales in the domestic operations during the fourth quarter of the
+current year compared to the previous year.  Inventories increased
+primarily as a result of higher inventories in the domestic operations,
+where increased sales levels in the current year have resulted in
+higher inventory requirements. 
+
+        Accounts payable, accrued expenses and income taxes payable were
+similarly affected by currency translation.  These liabilities
+increased by $3.3 million when measured exclusive of the effect of
+exchange rate changes but increased by $2.8 million as reported on the
+Consolidated Balance Sheets.  Accounts payable and accrued expenses
+increased primarily in the Company's domestic operations as a result of
+increased domestic sales and increased inventory levels in the current
+year as compared to the prior year.  Income taxes payable were
+relatively even, exclusive of the effect of exchange rate changes.
+
+        Net capital expenditures for property, plant and equipment,
+excluding net assets acquired in the purchase of businesses, were $13.1
+million for the year ended April 30, 1994.  These consisted of normal
+expenditures for data processing and operating equipment, and
+completion of a manufacturing facility in the U.S.  Property, plant and
+equipment acquired in the purchase of the assets of two small
+businesses amounted to $.9 million.  As with the other assets and
+liabilities, the effect of currency translation on the reported U.S.
+dollar values of property, plant and equipment was to decrease those
+reported values.  Capital expenditures for the upcoming year are
+anticipated to be approximately the same as prior year expenditures.
+
+        Total bank indebtedness, comprised of long-term debt, current
+maturities of long-term debt and notes payable, increased exclusive of
+the effect of exchange rate changes by $4.7 million, while the
+Consolidated Balance Sheets show an increase of $4.3 million.  During
+the year, additional short-term borrowings were made, primarily in
+Europe, offset by the annual debt repayment on domestic borrowings.  Of
+the $8.7 million in long-term debt and current maturities, $8.5 million
+is currently domestic borrowing, principally a French Franc denominated
+loan made in the U.S., for the purpose of hedging the Company's net
+asset position in France, and an industrial revenue bond, for the
+purpose of financing a domestic facility.  The remaining $.2 million of
+long-term debt and current maturities and all $9.7 million of notes
+payable consist of international subsidiary borrowings in local country
+currencies, used primarily to finance working capital requirements.  
+
+        During fiscal year 1994, cash dividends paid amounted to $16.5
+million ($2.00 per share) compared to $16.6 million in 1993 ($2.00 per
+share).  In addition to the regular quarterly dividend of $.25 per
+share of Common Stock, on September 14, 1993, the directors of the
+Company declared an extra cash dividend of $1.00 per share, which was
+paid December 15, 1993.  On April 13, 1994, the directors of the
+<PAGE>
+<PAGE>
+
+Company declared a regular quarterly cash dividend of $.25 per share of
+Common Stock to be paid June 15, 1994, to shareholders of record June
+1, 1994.  As of both April 30, 1994 and 1993, dividends amounting to
+$2.1 million had been declared, but not paid.
+
+
+Operating Results
+- - --------- -------
+
+        Net sales of $680.0 million in the current fiscal year were even
+with net sales of $679.9 million in fiscal 1993.  Net sales in fiscal
+year 1993 were 1% higher than the $670.8 million reported in fiscal
+year 1992.  Domestic sales in 1994 increased 14% from 1993, while
+domestic sales reported in 1993 were 7% higher than 1992.  Sales from
+international operations, other than hyper-inflationary countries,
+decreased 3% in 1994 compared to 1993 when measured on a local currency
+basis.  Due to the strength of the U.S. dollar, however, sales from
+international operations reflected a decrease of 14% as reported in
+U.S. dollars.  The decrease in sales on a local currency basis was
+primarily the result of continued weak international economic
+conditions.  Sales in 1993 in those countries decreased 3% from 1992
+when measured on a local currency basis and decreased 2% as reported in
+U.S. dollars.  As measured in U.S. dollars, sales in the
+hyper-inflationary countries remained even in 1994 as compared to 1993. 
+Continued sales decreases in several Latin American countries were
+offset by sales increases in operations in Central and Eastern Europe. 
+Sales in the hyper-inflationary countries decreased 25% in 1993 over
+1992, as measured and reported in U.S. dollars.  The majority of the
+decrease in 1993 over 1992 in this group of subsidiaries occurred in
+the Brazilian operations, due to deteriorating economic conditions.
+
+        In fiscal year 1994, operating expenses increased only 2% over
+1993; but due to relatively flat sales in 1994, operating margins
+decreased to 7.4% of net sales from 8.9% in the prior year. 
+Domestically, operating margins were approximately the same in 1994 as
+compared to 1993.  Internationally, operating margins were
+significantly lower in 1994 as compared to 1993, due to a decrease in
+net sales and higher operating expenses.  Operating margins in 1993
+were lower than the 9.9% in 1992,  due primarily to decreased sales in
+the Company's international operations.
+
+        In fiscal year 1994, the Company reported net interest income of
+$2.0 million compared to net interest income of $5.0 million in 1993. 
+Gross interest income decreased, due to lower interest rates on new
+investments.  Gross interest expense was relatively even with the prior
+year, as lower average debt in the Company's European subsidiaries
+offset higher interest expense in the Company's Brazilian subsidiaries,
+which had higher average debt during the year at extremely high
+interest rates.  The $5.0 million in net interest income in fiscal 1993
+compared to net interest income of $1.9 million in 1992.  Gross
+interest expense decreased significantly in 1993 compared to 1992, due
+to a lower average level of debt outstanding during the current year in
+the Company's European and Brazilian subsidiaries.
+<PAGE>
+<PAGE>
+
+        Loss on currency revaluation decreased to $.3 million in fiscal
+year 1994 from $1.8 million in 1993.  In both years, net foreign
+exchange losses in the Company's European operations represented the
+majority of the loss on currency revaluation.  In the current year,
+however, the net foreign exchange losses in the Company's European
+operations were somewhat offset by net translation gains in the
+Company's Brazilian operations.  Changes in the average net financial
+position of the Company's Brazilian subsidiaries resulted in net
+translation gains in the Company's Brazilian operations for 1994.  In
+fiscal 1993, loss on currency revaluation decreased to $1.8 million
+from $2.1 million in fiscal 1992, also due to changes in the average
+net financial position of the Company's Brazilian subsidiaries during
+1993.  Downsizing of the Brazilian subsidiaries during 1993 resulted in
+a smaller asset position and, therefore, reduced translation expense
+for 1993 compared to 1992.  Foreign exchange losses in various
+countries and translation losses in hyper-inflationary countries other
+than Brazil represented the balance of the loss on currency revaluation
+in all three years.
+
+        Net income in fiscal year 1994 decreased 17% to $31.2 million from
+$37.6 million in 1993.  Net income in fiscal 1993 was 5% lower than the
+$39.4 million reported in 1992.  In addition to the effects of
+operating income, net interest and loss on currency revaluation on
+pre-tax income, net income is affected by the overall corporate tax
+rate for the year, which was 40.1% of pre-tax income in fiscal 1994
+compared to 40.8% in 1993 and 40.3% in 1992.  A reconciliation of the
+effective tax rates to U.S. statutory rates is contained in the Notes
+to Consolidated Financial Statements.  Earnings per share decreased 17%
+to $3.77 per share in 1994 due to the decrease in net income.  Earnings
+per share in 1993 were $4.53, a 5% decrease from the $4.77 reported in
+1992, due to lower net income in 1993.
+
+        On a geographic area basis, net income in the United States
+increased 8% to $20.5 million in fiscal year 1994, primarily as a
+result of the 14% increase in sales and a lower effective income tax
+rate.  Net income of $19.0 million in 1993 was higher than the $17.3
+million reported in 1992, primarily due to increased sales and a lower
+effective income tax rate in 1993 compared to 1992.
+
+        Net income in Europe decreased from $17.0 million in fiscal 1993
+to $12.8 million in 1994.  Net income in fiscal 1992 was $20.7 million. 
+The decrease in net income from 1993 to 1994 was primarily attributable
+to a combination of lower sales volume, the adverse effects of
+translation rates and reduced net interest income due to a significant
+decrease in average funds invested.  The decrease in net income from
+1992 to 1993 was primarily attributable to a combination of lower sales
+volume and higher effective tax rates.
+
+        Net income in the Other International operations decreased from
+$1.6 million net income in 1993 to a $2.1 million net loss in 1994 due
+to lower sales, higher operating expenses, higher net interest expense
+and higher effective tax rates in the current year.  Net income of $1.6
+million was reported in fiscal 1993 compared to $1.4 million reported
+in 1992.  In 1992, the Company made a $1.8 million provision for
+restructuring its Brazilian subsidiaries.
+<PAGE>
+<PAGE>
+
+        The Financial Accounting Standards Board recently issued Statement
+of Financial Accounting Standards No. 115, "Accounting for Certain
+Investments in Debt and Equity Securities."  This statement must be
+adopted in the first quarter of fiscal 1995.  Implementation of this
+statement is not expected to have a material effect on the Company's
+financial position or results of operations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>
+<PAGE>
+<TABLE>
+
+Consolidated Statements of Income
+NCH Corporation and Subsidiaries
+(In Thousands Except Per Share Data)
+
+Years Ended April 30,
+===============================================================================
+<CAPTION>
+                                              1994        1993        1992   
+                                            --------    --------    -------- 
+<S>                                         <C>         <C>         <C>            
+
+Net Sales                                   $679,987    $679,937    $670,805 
+                                            --------     --------   -------- 
+Operating Expenses
+ Cost of sales, including warehousing
+   and commissions                           358,317     342,586     329,479 
+ Marketing and administrative expenses       271,286     277,034     273,397 
+ Provision for restructuring 
+   Brazilian subsidiaries                          -           -       1,750 
+                                            --------    --------    -------- 
+                                             629,603     619,620     604,626 
+                                            --------    --------    -------- 
+Operating Income                              50,384      60,317      66,179 
+
+Other (Expenses)Income
+ Loss on revaluation of foreign currencies      (340)     (1,792)     (2,067)
+ Net interest income                           2,046       5,014       1,943 
+                                            --------    --------    -------- 
+
+Income before Income Taxes                    52,090      63,539      66,055 
+
+Provision for Income Taxes                    20,883      25,926      26,620 
+                                            --------    --------    -------- 
+Net Income                                  $ 31,207    $ 37,613    $ 39,435 
+                                            ========    ========    ======== 
+Earnings Per Share                             $3.77       $4.53       $4.77 
+                                               =====       =====       ===== 
+
+
+The accompanying notes are an integral part of these financial statements.
+</TABLE>
+<PAGE>
+<PAGE>
+<TABLE>
+
+Consolidated Balance Sheets
+NCH Corporation and Subsidiaries
+(In Thousands Except Share and Per Share Data)
+
+As of April 30,
+=========================================================================
+<CAPTION>
+                                                    1994          1993  
+                                                  --------      --------
+<S>                                               <C>          <C>     
+Assets
+Current Assets
+ Cash and cash equivalents                        $ 18,754     $ 28,620 
+ Marketable securities                             105,784       94,877 
+ Accounts receivable (less allowance for doubtful
+   accounts of $16,469 and $16,045)                136,178      133,014 
+ Inventories                                        83,634       72,191 
+ Prepaid expenses                                    6,431        6,426 
+ Deferred income taxes                              12,990       10,451 
+                                                  --------     -------- 
+   Total Current Assets                            363,771      345,579 
+                                                  --------     -------- 
+Property, Plant and Equipment                      177,999      170,720 
+ Accumulated depreciation                           93,892       87,579 
+                                                  --------     -------- 
+                                                    84,107       83,141 
+                                                  --------     -------- 
+Deferred Income Taxes                               22,332       18,983 
+                                                  --------     -------- 
+Other                                               15,013       19,673 
+                                                  --------     -------- 
+   Total                                          $485,223     $467,376 
+                                                  ========     ======== 
+Liabilities and Stockholders' Equity
+Current Liabilities
+ Notes payable to banks                            $ 9,745     $  3,241 
+ Current maturities of long-term debt                1,875        2,101 
+ Accounts payable                                   46,775       45,374 
+ Accrued expenses                                   22,784       21,330 
+ Income taxes payable                               18,117       18,127 
+ Dividends payable                                   2,069        2,081 
+                                                  --------     -------- 
+   Total Current Liabilities                       101,365       92,254 
+                                                  --------     -------- 
+Long-Term Debt, less current maturities              6,790        8,795 
+                                                  --------     -------- 
+Retirement and Deferred Compensation Plans          83,986       80,026 
+                                                  --------     -------- 
+Stockholders' Equity
+ Common stock, par value $1 per share, authorized
+   20,000,000 shares.  Issued 11,769,304 shares     11,769       11,769 
+ Additional paid-in capital                          6,369        6,065 
+ Retained earnings                                 393,193      378,518 
+ Foreign currency translation adjustment           (22,100)     (17,022)
+                                                  --------     -------- 
+                                                   389,231      379,330 
+
+   Less treasury stock
+   (3,492,058 and 3,447,153 shares)                 96,149       93,029 
+                                                  --------     -------- 
+                                                   293,082      286,301 
+                                                  --------     -------- 
+   Total                                          $485,223     $467,376 
+                                                  ========     ======== 
+
+
+The accompanying notes are an integral part of these financial
+statements.
+
+
+</TABLE>
+
+
+
+<PAGE>
+<PAGE>
+<TABLE>
+
+Consolidated Statements of Cash Flows
+NCH Corporation and Subsidiaries
+(In Thousands)
+
+Years Ended April 30,
+==========================================================================================
+<CAPTION>
+                                                                    1994      1993      1992  
+                                                                  --------  --------  --------
+<S>                                                               <C>       <C>       <C>     
+Cash Flows from Operating Activities
+      Net income                                                  $31,207   $37,613   $39,435 
+      Adjustments to reconcile net income to net cash                     
+           provided by operating activities:
+         Depreciation and amortization                             13,169    13,633    12,494 
+         Provision for losses on accounts receivable                8,568     8,663     8,441 
+         Deferred income taxes                                     (4,576)     (836)   (2,772)
+         Retirement and deferred compensation plans                 4,066     3,405     7,865 
+         Change in assets and liabilities, excluding net 
+             assets acquired in the purchase of businesses:               
+           Accounts receivable                                    (14,574)   (6,787)  (12,579)
+           Inventories                                            (11,584)    1,678     1,074 
+           Prepaid expenses                                          (189)      415    (1,892)
+           Current liabilities (except short-term debt)             3,339    (5,488)    4,685 
+         Other                                                      1,376       700       115 
+                                                                  -------   -------   ------- 
+         Net cash provided by operating activities                 30,802    52,996    56,866 
+                                                                  -------   -------   ------- 
+
+
+Cash Flows from Investing Activities
+      Sales of property, plant and equipment                        1,095     1,090     1,228 
+      Purchases of property, plant and equipment                  (14,219)  (17,986)  (14,221)
+      Redemptions of marketable securities                         39,874    43,818    24,466 
+      Purchases of marketable securities                          (50,781)  (51,670)  (61,845)
+      Acquisitions of businesses                                   (3,654)   (1,129)   (1,758)
+      Purchases of intangible assets                               (3,484)   (3,265)   (2,662)     
+      Other                                                          (109)        -      (103)
+                                                                  -------   -------   ------- 
+
+         Net cash used in investing activities                    (31,278)  (29,142)  (54,895)
+                                                                  -------   -------   ------- 
+
+Cash Flows from Financing Activities
+      Proceeds from notes payable                                   7,886     4,202     9,926 
+      Payments of notes payable                                    (1,184)   (6,416)  (11,026)
+      Additional long-term debt                                         -         7     8,839 
+      Payments of long-term debt                                   (1,963)   (4,630)   (7,620)
+      Borrowing of cash surrender values                            7,758         -         - 
+      Payments of dividends                                       (16,544)  (16,597)   (8,262)
+      Purchases of treasury stock                                  (3,422)        -        (6)
+      Proceeds from exercise of stock options                         430     2,466     1,685 
+      Other                                                             -         -       137 
+                                                                  -------   -------   ------- 
+         Net cash used in financing activities                     (7,039)  (20,968)   (6,327)
+                                                                  -------   -------   ------- 
+
+Effect of Exchange Rate Changes on Cash and Cash Equivalents       (2,351)   (5,973)   (3,233)
+                                                                  -------   -------   ------- 
+
+Net Decrease in Cash and Cash Equivalents                          (9,866)   (3,087)   (7,589)
+
+Cash and Cash Equivalents at Beginning of Year                     28,620    31,707    39,296 
+                                                                  -------   -------   ------- 
+Cash and Cash Equivalents at End of Year                          $18,754   $28,620   $31,707 
+                                                                  =======   =======   ======= 
+
+
+
+
+
+
+
+The accompanying notes are an integral part of these financial statements.
+
+</TABLE>
+
+<PAGE>
+<PAGE>
+<TABLE>
+
+Consolidated Statements of Stockholders' Equity
+NCH Corporation and Subsidiaries
+(In Thousands Except Per Share Data)
+                                                                                                                             
+
+<CAPTION>                                                                                Foreign
+                              Common  Treasury  Common  Treasury  Additional            Currency
+                              Stock    Stock    Stock    Stock     Paid-In  Retained   Translation
+                              Shares   Shares   Amount   Amount    Capital  Earnings   Adjustment  Total
+<S>                          <C>      <C>     <C>      <C>         <C>     <C>        <C>       <C>      
+Balance, April 30, 1991      11,769   (3,529) $11,769  $(95,230)   $3,899  $326,350   $  1,246  $248,034 
+Net income                                                                   39,435               39,435 
+Cash dividends on common
+  stock, $.75 per share                                                      (6,202)              (6,202)
+Dividend declared, but not
+  paid, $.25 per share                                                       (2,069)              (2,069)
+Treasury stock acquired                    -                 (6)                                      (6)
+Treasury stock sold under
+  stock option plans                      33                895       790                          1,685 
+Treasury stock issued under 
+  stock participation plan 
+  and stock bonuses                        4                 88        83                            171 
+Foreign currency translation
+  adjustment                                                                                      (7,393)   (7,393)
+                             ------   ------- -------   --------   ------  ---------  --------- ---------          
+Balance, April 30, 1992      11,769   (3,492)  11,769   (94,253)    4,772   357,514     (6,147)  273,655 
+Net income                                                                   37,613               37,613 
+Cash dividends on common
+  stock, $1.75 per share                                                    (14,528)             (14,528)
+Dividend declared, but not
+  paid, $.25 per share                                                       (2,081)              (2,081)
+Treasury stock sold under
+  stock option plans                      44              1,189     1,277                          2,466 
+Treasury stock issued under
+  stock participation plan
+  and stock bonuses                        1                 35        16                             51 
+Foreign currency translation
+  adjustment                                                                           (10,875)  (10,875)
+                             ------   ------- -------  ---------   ------  ---------  --------- ---------
+Balance, April 30, 1993      11,769   (3,447)  11,769   (93,029)    6,065   378,518    (17,022)  286,301 
+Net income                                                                   31,207               31,207 
+Cash dividends on common                                        
+  stock, $1.75 per share                                                    (14,463)             (14,463)
+Dividend declared, but not
+  paid, $.25 per share                                                       (2,069)              (2,069)
+Treasury stock acquired                  (56)            (3,422)                                  (3,422)
+Treasury stock sold under
+  stock option plans                       8                228       202                            430 
+Treasury stock issued under
+  stock participation plan                                                                               
+  and stock bonuses                        3                 74       102                            176 
+Foreign currency translation
+  adjustment                                                                            (5,078)   (5,078)
+                             ------   ------- -------  ---------   ------  ---------  --------- ---------
+Balance, April 30, 1994      11,769   (3,492) $11,769  $(96,149)   $6,369  $393,193   $(22,100) $293,082 
+                             ======   ======= =======  =========   ======  =========
+
+
+The accompanying notes are an integral part of these financial statements.
+
+</TABLE>
+
+
+
+
+
+
+
+<PAGE>
+<PAGE>
+
+Notes to Consolidated Financial Statements
+
+NCH Corporation and Subsidiaries
+=========================================================================
+
+1. Summary of Significant Accounting Policies 
+
+   Principles of consolidation - The consolidated financial statements
+include the accounts of NCH Corporation and its majority owned
+subsidiaries (the "Company").  Significant intercompany transactions and
+balances have been eliminated.  A February fiscal year-end is used for
+most international subsidiaries in order to meet reporting requirements.
+
+   Foreign currency translation - With the exception of hyper-
+inflationary countries, all assets and liabilities of operations outside
+the United States are translated into U.S. dollars at period-end exchange
+rates, and income and expenses are translated at average rates for the
+year.  Gains and losses resulting from translation, as well as gains and
+losses from foreign exchange contracts hedging the net assets of foreign
+subsidiaries, are included in the foreign currency translation adjustment
+component of stockholders' equity.  Gains and losses from foreign exchange
+contracts hedging specific intercompany foreign currency commitments are
+deferred and accounted for as part of the hedged transaction.  The hyper-
+inflationary countries have been translated into U.S. dollar equivalents
+as follows:  current assets (except for inventories), current liabilities,
+long-term debt and other liabilities at period-end exchange rates;
+inventories, property, other assets, capital stock and retained earnings
+at historical rates; income and expense items at average rates for the
+year,except for cost of sales and depreciation expense, which are
+translated at historical rates.  Gains and losses resulting from
+translation are recognized in the income statement as expense or income in
+the current period.  Exchange adjustments resulting from foreign currency
+transactions are recognized as expense or income in the current period for
+all countries.
+
+   Cash and cash equivalents and marketable securities - Cash and cash
+equivalents include cash on hand, cash in banks and all highly liquid
+investments with a maturity of three months or less at the time of
+purchase.  Cash equivalents and marketable securities are stated at
+amortized cost plus accrued interest.      
+
+   Inventories - Raw materials, sales supplies and purchased finished
+goods are stated at a moving average cost, which approximates cost on a
+first-in, first-out basis and is not in excess of market value. 
+Manufactured finished goods are stated at an amount approximating cost of
+manufacturing, which is not in excess of net realizable value.
+
+   Property, plant and equipment - These assets are recorded at cost. 
+When these assets are disposed of, the cost and related accumulated
+depreciation are removed from the accounts, and any resulting gain or loss
+is included in income during that year.  The cost of maintenance and
+repairs is charged to expense as incurred, whereas expenditures that
+substantially increase the useful lives of plant or equipment are
+capitalized.
+<PAGE>
+<PAGE>
+
+   Depreciation - Depreciation on buildings and equipment is provided for
+financial statement purposes using the straight-line method over the
+estimated useful lives of the related assets.  Depreciation on certain
+buildings and equipment is provided for income tax purposes using
+accelerated methods.
+
+   Research and development - Research and development costs, which are
+included in the costs of laboratory operations, are charged to expense as
+incurred.  Research and development costs, however, cannot be separately
+identified from the total laboratory costs.  Total laboratory costs
+amounted to approximately $4.4 million in 1994, $3.9 million in 1993 and
+$3.4 million in 1992.
+
+   Income taxes - Effective May 1, 1993, the Company adopted Statement of
+Financial Accounting Standards No. 109, "Accounting for Income Taxes." 
+This statement requires a change from the deferred method under APB
+Opinion 11 to the asset and liability method of accounting for income
+taxes.  Under the asset and liability method, deferred income taxes are
+recognized for the future tax consequences attributable to differences
+between the financial statement carrying amounts of existing assets and
+liabilities and their respective tax bases.  Prior to the current year,
+deferred income taxes were provided under the accounting rules then in
+effect.  State income tax has been included in the provision for income
+taxes and income taxes payable.  
+
+   Treasury stock - Treasury stock is stated at cost.
+
+   Retirement plans - The Company's policy is to fund its qualified
+retirement type plans as accrued.  The cost of these retirement benefits
+for past service has been fully funded.  Non-qualified retirement plans
+are not funded, but provision for the estimated liabilities arising from
+these plans has been made in the consolidated financial statements.
+
+   Postretirement benefits other than pensions - The Company charges to
+expense the estimated future costs of retiree health care benefits during
+the years that employees render service.  The postretirement health care
+benefit plan is not funded.
+
+   Stock options - The Company issues shares from its treasury as options
+are exercised.  When an option is exercised, treasury stock is credited
+with the average cost of the treasury shares issued, and additional paid-
+in capital is charged or credited for the difference between the option
+price and the average cost of the treasury shares.  No charge to income is
+made in connection with the stock option plan.
+
+   Earnings per share - Earnings per share is computed by dividing net
+income by the weighted average number of shares outstanding during each
+year.  The weighted average number of shares outstanding for the years
+ended April 30, 1994, 1993 and 1992, was 8,278,000, 8,298,000 and
+8,261,000 shares, respectively.  Any dilution of earnings per share that
+might result from the exercise of presently outstanding stock options is
+not material.
+
+   Reclassifications - Certain prior year amounts have been reclassified
+to conform to current year presentation.
+<PAGE>
+<PAGE>
+
+2. Consolidated International Subsidiaries
+
+   At April 30, 1994 and 1993, the parent Company's investment in
+consolidated international subsidiaries amounted to $40,782,000 and
+$37,923,000.  The current year consolidated financial statements include
+international subsidiaries' assets of $153,365,000, liabilities of
+$67,221,000, and net income of $10,733,000, after allocation of corporate
+expenses and excluding intercompany sales and profits.  For the prior year
+these subsidiaries had assets of $166,776,000, liabilities of $63,336,000,
+and net income of $18,583,000.
+
+3. Income Taxes
+
+   The following are the components of the provision for income taxes (in
+thousands of dollars):
+                                 1994          1993          1992  
+                               --------      --------      --------
+U.S. Federal
+- - ------------
+Current                        $ 9,896       $ 7,910       $ 8,570 
+Deferred                        (4,469)         (721)       (2,051)
+
+Foreign
+- - -------
+Current                         14,214        17,635        19,000 
+Deferred                          (107)         (115)         (721)
+
+State                            1,349         1,217         1,822 
+- - -----                          -------       -------       ------- 
+                               $20,883       $25,926       $26,620 
+                               =======       =======       ======= 
+
+   Effective May 1, 1993, the Company adopted Statement of Financial
+Accounting Standards (SFAS) No. 109, "Accounting for Income Taxes."  This
+statement requires that deferred income taxes reflect the tax consequences
+on future years of differences between the tax bases of assets and
+liabilities and their financial reporting amounts.  The effect of adopting
+SFAS No. 109 was not material to the Company's financial position as of
+May 1, 1993, or to the operating results for the year ended April 30,
+1994.  Under SFAS No. 109, deferred tax assets and liabilities are
+measured using enacted tax rates expected to apply to taxable income in
+the years in which those temporary differences are expected to be
+recovered or settled.  The effect on deferred taxes of the change in the
+U.S. federal income tax rate from 34% to 35% was not material to the
+operating results for the year ended April 30, 1994.
+
+   The components of deferred tax assets and liabilities as of April 30,
+1994 are as follows (in thousands of dollars):
+<PAGE>
+<PAGE>
+
+Deferred tax assets:
+     Allowance for doubtful accounts              $ 4,098 
+     Inventory related                              2,820 
+     Insurance related                              1,893 
+     Accrued expenses                               3,549 
+     Retirement and deferred compensation plans    27,378 
+     Foreign operating loss carryforwards             739 
+     Valuation allowance                             (243)
+                                                  ------- 
+                                                   40,234 
+                                                  ------- 
+Deferred tax liabilities:
+     Depreciation                                   4,001 
+     Other                                            911 
+                                                  ------- 
+                                                    4,912 
+                                                  ------- 
+Net deferred tax asset                            $35,322 
+                                                  ======= 
+
+   A valuation allowance has been provided for certain foreign net
+operating loss carryforwards which are estimated to expire before they are
+utilized.  
+
+   Prior to 1994, deferred income taxes were provided under the
+accounting rules then in effect.  The deferred U.S. federal income tax
+expense (benefit) on the income statement consisted of the following (in
+thousands of dollars):                                   
+                                                    1993        1992  
+                                                  --------    --------
+
+Employee benefit plans                              $(574)    $(2,008)
+Inventory                                             (98)        183 
+Safe harbor leases                                      -        (372)
+Depreciation                                          (33)        (43)
+Other                                                 (16)        189 
+                                                    -----     ------- 
+                                                    $(721)    $(2,051)
+                                                    =====     ======= 
+ 
+   The following is a reconciliation of the difference between the U.S.
+statutory rate and the effective tax rate:
+
+
+                                         1994       1993        1992  
+                                       --------   --------    --------
+U.S. statutory rate                       35.0%      34.0%       34.0%
+Tax exempt interest                       (2.3)      (1.7)       (1.8)
+Other                                       .2         .5          .6 
+Effect of international
+  operations                               5.6        6.8         5.8 
+Effect of state income
+  taxes                                    1.6        1.2         1.7 
+                                         -----      -----       ----- 
+Effective tax rate                        40.1%      40.8%       40.3%
+                                         =====      =====       ===== 
+<PAGE>
+<PAGE>
+
+   The Company files a consolidated U.S. federal income tax return with
+its domestic subsidiaries.  International subsidiaries file tax returns in
+countries of their incorporation.  Certain of these subsidiaries have
+operating loss carryforwards totaling approximately $2,559,000, which will
+expire between 1995 and 2004.  The accumulated undistributed earnings of
+international subsidiaries not included in the consolidated U.S. federal
+income tax return approximated $69,378,000 at April 30, 1994, $83,280,000
+at April 30, 1993 and $89,285,000 at April 30, 1992.  No provision is made
+in the accompanying consolidated financial statements for the estimated
+taxes that would result on distribution of the accumulated undistributed
+earnings since the Company intends to invest indefinitely in the
+operations of these subsidiaries.  For 1994, 1993 and 1992, worldwide
+income tax payments amounted to $24,176,000, $24,205,000 and $26,324,000,
+respectively.
+
+4. Inventories
+
+   A summary of inventories at April 30 follows (in thousands of
+dollars):
+   
+                                         1994       1993  
+                                       --------   --------
+
+   Raw materials                        $13,849    $12,611
+   Finished goods                        67,676     57,333
+   Sales supplies                         2,109      2,247
+                                        -------     ------
+                                        $83,634    $72,191
+                                        =======    =======            
+
+5. Property, Plant and Equipment
+
+   Property, plant and equipment at April 30 consists of the following
+(in thousands of dollars):
+
+                                         1994       1993  
+                                       --------   --------
+   Land                                $ 11,942   $ 12,098
+   Buildings                             74,406     72,724
+   Equipment                             91,651     85,898
+                                       --------   --------
+                                       $177,999   $170,720
+                                       ========   ========
+
+   Depreciation charged to income was $11,863,000, $12,473,000 and
+$11,374,000 for each of the years ended April 30, 1994, 1993 and 1992,
+respectively.  The estimated useful life of buildings is 25 to 40 years;
+equipment is 3 to 10 years.
+
+
+6. Long-Term Debt
+
+   Long-term debt at April 30 consists of the following (in thousands of
+dollars):
+<PAGE>
+<PAGE>
+                                                         1994      1993  
+                                                        -------   -------
+Borrowed by domestic companies:
+Variable interest industrial revenue bond, secured 
+    by property, at 71.9% of prime.                     $ 4,700   $ 4,700
+French Franc denominated loan secured by preferred 
+    shares in a French subsidiary for the purpose 
+    of hedging the Company's net asset position in 
+    France, with annual installments to be paid
+    through 1996.                                         3,702     5,818
+Other                                                        80        43
+                                                        -------   -------
+                                                          8,482    10,561
+                                                        -------   -------
+Borrowed by international companies:
+Other                                                       183       335
+                                                        -------   -------
+                                                          8,665    10,896
+Less current maturities                                   1,875     2,101
+                                                        -------   -------
+Long-term debt, less current maturities                 $ 6,790   $ 8,795
+                                                        =======   =======
+
+    Maturities of long-term debt for the years following April 30, 1994,
+are as follows: 1995 - $1,875,000; 1996 - $1,917,000; 1997 - $29,000; 1998
+- - - $29,000; 1999 and thereafter - $4,815,000.
+
+    Principal on the industrial revenue bond is due on December 30, 2005,
+although the bondholder has an option to put the bond to the Company
+annually beginning in 1995.
+
+7.  Employee Benefits
+
+    Retirement plans - The parent and its domestic subsidiaries have
+various qualified retirement type plans covering substantially all
+domestic employees.  None of these plans have defined benefits.  Some of
+the international subsidiaries also have non-defined benefit retirement
+plans.  These plans are funded on a current basis, and the cost of
+retirement benefits for past service has been fully funded.
+
+    In addition, the Company has non-qualified deferred compensation plans
+for the primary purpose of providing retirement benefits.  These plans are
+not funded, but provision for the estimated liabilities arising from these
+plans has been made in the consolidated financial statements.
+    
+    Expenses for retirement plans, exclusive of interest expense, were
+$8,343,000, $4,737,000 and $6,968,000 in the years ended April 30, 1994,
+1993 and 1992, respectively.
+
+    Postretirement benefits other than pensions - The Company and several
+of its domestic subsidiaries initiated a postretirement health care
+benefit plan in fiscal 1993, covering substantially all domestic
+employees.  Eligible retirees receive a specific contribution from the
+Company toward the cost of the health plan, which is a supplement to
+Medicare.  The amount of the contribution is based on years of service
+with the Company at retirement.  The plan is not funded; retiree health
+benefits are paid as covered expenses are incurred.   Provision has been
+made in the accompanying consolidated financial statements for the net
+<PAGE>
+<PAGE>
+
+postretirement benefit expense of this plan.
+
+    Net postretirement benefit expenses for the years ended April 30 are
+as follows (in thousands of dollars):
+                                                       1994        1993  
+                                                       ------     ------ 
+
+Service cost - benefits earned during the year        $  127      $  161 
+
+Interest cost on accumulated 
+   postretirement benefit obligation                     162         160 
+
+Net amortization of prior service cost                   176         176 
+                                                      ------      ------ 
+Net postretirement benefit expense                    $  465      $  497 
+                                                      ======      ====== 
+
+   The reconciliation of the accumulated postretirement benefit
+obligation to the recorded liability at April 30 is as follows (in
+thousands of dollars):
+
+                                                      1994        1993  
+                                                     ------      ------ 
+Accumulated postretirement benefit obligation
+   Retirees                                          $  174      $  135 
+   Fully eligible active plan participants            1,098       1,111 
+   Other active plan participants                     1,285       1,070 
+                                                     ------      ------ 
+         Total                                        2,557       2,316 
+Unrecognized prior service cost                      (1,643)     (1,838)
+                                                     ------      ------ 
+Accrued postretirement benefit liability             $  914      $  478 
+                                                     ======      ====== 
+
+   Measurement of the accumulated postretirement benefit obligation is
+based on a 7% assumed discount rate for 1994 and 8% for 1993.
+
+   In addition, certain of the Company's non-U.S. subsidiaries have
+health care plans for retirees, although many retirees outside of the
+United States are covered by government sponsored and administered
+programs.   Under SFAS No. 106, "Employers' Accounting for Postretirement
+Benefits Other Than Pensions," the effective date for adoption for plans
+outside of the United States is no later than fiscal years beginning after
+December 15, 1994.  The Company has not yet determined when it will adopt
+the standard for non-U.S. subsidiary plans, but estimates that its
+implementation will not have a material effect on the Company's financial
+position or results of operations.
+
+   Postemployment benefits - In November 1992, the Financial Accounting
+Standards Board issued SFAS No. 112, "Employers' Accounting for
+Postemployment Benefits."  This statement requires recognition of a
+liability for certain benefits provided to former or inactive employees
+after employment but before retirement.  This statement must be adopted no
+later than the first quarter of fiscal 1995.  Implementation of this
+statement is not expected to have a material effect on the Company's
+financial position or results of operations.
+<PAGE>
+<PAGE>
+
+   Other - The Company has some split dollar life insurance agreements,
+whereby the Company pays a portion of the premiums.  The Company has been
+granted a security interest in the cash value and death benefit of each
+policy, to the extent of the sum of premium payments made by the Company. 
+Premiums paid by the Company are charged to expense to the extent they
+exceed the cash values of each policy.
+
+8. Capital Stock and Options
+
+   None of the Company's authorized 500,000 shares of $1 par value
+Preferred Stock has been issued.
+
+   On April 13, 1994, the directors of the Company declared a regular
+quarterly cash dividend of $.25 per share of Common Stock to be paid June
+15, 1994, to shareholders of record June 1, 1994.
+
+   At April 30, 1994, 1993 and 1992, 761,000, 769,000 and 813,000 shares
+of the Company's Common Stock, respectively, were reserved for issuance
+under a non-qualified stock option plan which grants options to key
+employees and officers.  The purchase price under the grant cannot be less
+than the market value at the date of grant.  The options under such plan
+are exercisable in equal amounts at the beginning of the second, third and
+fourth year of their lives and expire after five years.  Information
+relative to the non-qualified stock options for the three years ended
+April 30, 1994, is as follows:
+
+<TABLE>
+<CAPTION>
+
+                             (In Thousands Except Per Share Data)
+                                     Years Ended April 30,
+                         -------------------------------------------------
+                               1994             1993             1992
+                         ---------------- ----------------  --------------
+                                 Average          Average         Average
+                          Number  Price     Number Price    Number Price 
+                            of     Per        of    Per       of    Per  
+                          Shares  Share     Shares Share    Shares Share 
+                          ------ ------     ------ -----    ------ ----- 
+<S>                         <C>   <C>         <C>  <C>        <C>  <C>       
+Outstanding at beginning 
+  of period                 154   $59.22      154  $52.83     142  $47.90
+Granted                      67    53.75       48   68.75      48   59.00
+Exercised                    (8)   47.18      (44)  48.77     (33)  41.78
+Canceled or expired          (1)   56.65       (4)  44.17      (3)  37.97
+                          -----   ------    -----  ------    ----  ------
+Outstanding at end 
+  of period                 212   $57.97      154  $59.22     154  $52.83
+                          =====   ======    =====  ======   =====  ======
+
+</TABLE>
+   
+   At April 30, 1994, 1993 and 1992, 20,000, 21,000 and 23,000 shares
+of Treasury Stock, respectively, were reserved for issuance to employees
+under a stock participation plan.
+<PAGE>
+<PAGE>
+
+9. Interest Costs
+
+   During the years ended April 30, 1994, 1993 and 1992, interest costs,
+including interest expense on non-funded retirement plans, amounting to
+$5,115,000, $4,695,000 and $7,970,000, respectively, were expensed as
+incurred.  For the same periods, interest payments were $4,200,000,
+$3,182,000 and $6,675,000, respectively.
+
+10.  Leases
+
+   At April 30, 1994, the Company and its subsidiaries had a number of
+noncancellable leases for various office and warehouse facilities.  The
+majority of these agreements expire at various times through 1999, and
+substantially all include renewal provisions.  The amount of other
+obligations assumed, such as payment of property taxes and maintenance, is
+nominal.  Total rent expense for 1994, 1993 and 1992  (including operating
+leases on data processing equipment, trucks and trailers, and office
+equipment) was approximately $8,538,000, $9,482,000 and $9,704,000,
+respectively. 
+
+   The minimum aggregate rentals under the terms of noncancellable
+operating leases for future years are: 1995 - $6,353,000; 1996 -
+$5,074,000; 1997 - $3,704,000; 1998 - $3,650,000; and a total of
+$4,889,000 for 1999 and thereafter.
+
+11.  Contingent Liabilities
+
+   The Company and its subsidiaries are engaged in a variety of legal
+proceedings arising in the ordinary course of business, including some
+concerning environmental matters.  In the opinion of Management, the
+ultimate liabilities resulting from these proceedings will not have a
+material adverse effect on the Company's financial position or operating
+results.
+
+   At April 30, 1993, the Company had a forward exchange contract with a
+notional amount of approximately $600,000.  This contract had a maturity
+of less than one year and the counterparty was a major domestic financial
+institution.  There were no such contracts at April 30, 1994.  Gains or
+losses resulting from contracts hedging net foreign currency positions
+have been included in the foreign currency translation adjustment
+component of stockholders' equity.  Gains and losses from all other
+contracts are included in the Consolidated Statements of Income.  In
+addition, at April 30, 1994, the Company had standby letters of credit
+outstanding totaling $8,890,000, which guarantee payment to certain
+insurance carriers.
+
+12.  Fair Value of Financial Instruments
+
+   The carrying amounts of cash and cash equivalents, notes payable to
+banks and current maturities of long-term debt approximate fair value,
+because of the short maturities of these financial instruments.  The fair
+values of marketable securities are estimated based on the quoted market
+prices obtained from brokers.  The fair value of long-term debt, less
+current maturities, is estimated based on the discounted value of future
+cash flows, using the Company's current borrowing rate for loans of
+comparable terms and maturities.
+<PAGE>
+<PAGE>
+
+   Using the above methods and assumptions, the estimated fair values of
+the Company's financial instruments at April 30 are as follows (in
+thousands of dollars):
+
+                                          1994                 1993      
+                                  --------------------  ------------------
+                                           Estimated            Estimated
+                                  Carrying   Fair      Carrying   Fair
+                                   Amount    Value      Amount    Value  
+                                  -------- ----------  -------- ---------
+Assets:
+  Cash and cash equivalents      $ 18,754  $ 18,754    $28,620   $28,620
+  Marketable securities           105,784   101,687     94,877    95,361
+                                         
+Liabilities:
+  Notes payable to banks            9,745     9,745      3,241     3,241
+  Current maturities 
+    of long-term debt               1,875     1,875      2,101     2,101
+  Long-term debt, 
+    less current maturities         6,790     5,595      8,795     7,685
+
+
+13.  Segment and Geographic Area Information
+
+   The Company's operations are predominantly within one business
+segment, which includes specialty chemicals, fasteners, welding supplies,
+plumbing and electronic parts, and safety supplies.  Substantially all of
+these products are sold for repair, maintenance or industrial supply use.
+
+   Financial information by geographic area, in thousands of dollars,
+follows for the years ended April 30:
+
+                               United                Other      Consoli-
+                               States    Europe  International   dated  
+                               ------    ------  ------------- ---------
+1994
+Net Sales                    $381,949  $222,214    $75,824      $679,987
+Net Income (Loss)              20,474    12,818     (2,085)       31,207
+Identifiable Assets           218,573   117,316     36,049       371,938
+Corporate Assets                                                 113,285
+
+1993
+Net Sales                    $336,471  $267,280     $76,186     $679,937
+Net Income                     19,030    16,952       1,631       37,613
+Identifiable Assets           194,976   131,986      34,790      361,752
+Corporate Assets                                                 105,624
+
+1992
+Net Sales                    $313,256  $271,388     $86,161     $670,805
+Net Income                     17,332    20,721       1,382       39,435
+Identifiable Assets           183,121   155,012      37,234      375,367
+Corporate Assets                                                  95,460
+                                                                        
+   Intercompany sales and profits have been eliminated from the above
+schedule.  Corporate expenses were allocated between the geographic areas. 
+Identifiable assets are those identified with the operations in each
+geographic area.  Corporate assets consist primarily of portions of cash
+and cash equivalents and marketable securities.
+<PAGE>
+<PAGE>
+
+
+INDEPENDENT AUDITORS' REPORT
+The Stockholders and Board of Directors
+NCH Corporation:
+======================================================================
+
+ We have audited the accompanying consolidated balance sheets of NCH
+Corporation and subsidiaries as of April 30, 1994 and 1993, and the
+related consolidated statements of income, stockholders' equity, and
+cash flows for each of the years in the three-year period ended April
+30, 1994.  These consolidated financial statements are the
+responsibility of the Company's management.  Our responsibility
+is to express an opinion on these consolidated financial statements
+based on our audits.
+
+ We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements
+are free of material misstatement.  An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the
+financial statements.  An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well
+as evaluating the overall financial statement presentation.  We believe
+that our audits provide a reasonable basis for our opinion.
+
+ In our opinion, the consolidated financial statements referred to
+above present fairly, in all material respects, the financial position
+of NCH Corporation and subsidiaries as of April 30, 1994 and 1993, and
+the results of their operations and their cash flows for each of the
+years in the three-year period ended April 30, 1994, in conformity with
+generally accepted accounting principles.
+
+
+ /s/KPMG Peat Marwick  
+ ----------------------
+
+Dallas, Texas
+June 2, 1994
+
+
+
+
+
+<PAGE>
+<PAGE>
+
+RESPONSIBILITY FOR FINANCIAL REPORTING
+=========================================================================
+
+  The management of the Company is responsible for the financial
+information and representations contained in the financial statements and
+other sections of the annual report.  The financial statements have been
+prepared in conformity with generally accepted accounting principles, and
+therefore include informed estimates and judgments.
+
+  The Company's system of internal control is designed to provide
+reasonable, but not absolute, assurance as to the integrity, objectivity
+and reliability of the financial records and the safeguarding of assets. 
+Management believes that, within a cost-effective framework, the
+Company's accounting controls provide reasonable assurance that material
+errors or irregularities are prevented or would be detected within a
+relatively short period of time.  The possibility exists, however, that
+errors or irregularities may occur and not be detected.  The Company has
+a program of internal audits and follow-up, covering separate Company
+operations and functions in the U.S. and its international subsidiaries.
+
+  The Board of Directors pursues its review of the audit function,
+internal controls and the financial statements largely through its Audit
+Committee, which consists solely of directors who are not employees of
+the Company.  The Audit Committee periodically meets with management, the
+independent auditors and internal auditors with regard to their
+respective responsibilities.  Both KPMG Peat Marwick and the internal
+auditors have full access to the Audit Committee.  They meet with the
+committee, without management present, to discuss the scope and results
+of their examination, including internal control and financial reporting
+matters.
+
+  Management also recognizes its responsibility for fostering a strong
+ethical climate so that the Company's affairs are conducted according to
+the highest standards of personal and corporate conduct.  This
+responsibility is characterized and reflected in the Company's code of
+corporate conduct, which is publicized throughout the Company.  The code
+of conduct addresses, among other things, the necessity of ensuring open
+communication within the Company; potential conflicts of interests;
+compliance with all domestic and foreign laws, including those relating
+to financial disclosure; and the confidentiality of proprietary
+information.  The Company maintains a systematic program to assess
+compliance with these policies.
+
+
+
+         /s/ Irvin L. Levy     /s/ Tom Hetzer     
+    -----------------------  -----------------------
+    Irvin L. Levy            Tom Hetzer
+    Chief Executive Officer  Chief Financial Officer
+
+
+<PAGE>
+<PAGE>
+
+Selected Unaudited Quarterly Data
+(In Thousands Except Per Share Data)
+
+Years Ended April 30,                                              
+
+                                              Quarter
+                           ---------------------------------------------      
+                            First       Second      Third        Fourth 
+                           --------    --------    --------     --------
+1994
+Net Sales                  $169,649    $163,160    $170,615     $176,563
+Operating Income             12,239      14,714       9,296       14,135
+Net Income                    7,561       9,267       5,726        8,653
+Earnings Per Share             $.91       $1.12        $.69        $1.05
+
+1993
+Net Sales                  $175,033    $169,431    $168,736     $166,737
+Operating Income             18,171      15,697      12,551       13,898
+Net Income                   11,095       9,769       7,653        9,096
+Earnings Per Share            $1.34       $1.18        $.92        $1.09
+
+    
+    Earnings per share for each period is calculated based on the
+average number of shares outstanding during the period.
+
+
+Market and Dividend Information
+
+    NCH Corporation stock is traded on the New York Stock Exchange.  The
+high and low prices by quarter are shown for the past two years in the
+schedule below.
+
+    Cash dividends paid during the fiscal year ended April 30, 1994,
+amounted to $16.5 million compared to $16.6 million and $8.3 million in
+fiscal years 1993 and 1992, respectively.  On April 13, 1994, a dividend
+of $.25 per share was declared, payable June 15, 1994.  A summary of the
+quarterly dividends per share for the past two years is set forth in the
+schedule below.  
+                                               
+                  Common Stock Prices             Dividends Per Share   
+          -----------------------------------  -------------------------
+               1994               1993           Declared       Paid    
+          ---------------    ---------------   -----------  ------------
+Quarter    High     Low       High      Low    1994   1993   1994  1993
+- - -------   ------  ------     ------   ------   ----   ----   ----- -----
+First     68      59 1/2     68 1/8   62 1/2   $ .25  $ .25 $ .25  $ .25
+Second    65 3/8  55 1/2     74 1/2   66 3/4   $ .25  $ .25 $ .25  $ .25     
+Third     61      52 1/8     74       62       $1.25  $1.25 $1.25  $1.25
+Fourth    65 5/8  56 5/8     73       59 5/8   $ .25  $ .25 $ .25  $ .25
+
+    As of June 1, 1994, there were 728 holders of record of the
+Company's Common Stock, which includes several brokerage firms that hold
+shares of the Company's stock for an estimated 3,800 investors. 
+<PAGE>
+<PAGE>
+
+NCH CORPORATION AND SUBSIDIARIES
+EXHIBIT 21
+SUBSIDIARIES OF THE REGISTRANT
+
+
+
+  NCH Corporation is the parent company of numerous wholly-owned
+subsidiaries engaged in the business of marketing an extensive line of
+maintenance, repair and supply products.  At the close of the last fiscal
+year, seventeen of these subsidiaries were operating domestically and 115
+in foreign countries.  The Company is also the parent of several wholly-
+owned subsidiaries that market various other products.  All such
+subsidiaries considered in the aggregate as a single subsidiary
+would not constitute a significant subsidiary of NCH Corporation, and
+therefore are not listed here.
+
+  As of the close of the last fiscal year, the following corporations
+were not wholly-owned by NCH Corporation.
+
+
+                               Immediate Parent and        Jurisdiction
+Name of Subsidiary            Percentage of Ownership    of Incorporation
+- - ------------------            -----------------------    ----------------
+
+NCH Hua Yang Ltd.             51% NCH Corporation        People's Republic
+                                                         of China
+
+Sunco Chemicals Ltd.          51% NCH Corporation        India
+
+
+<PAGE>
+<PAGE>
+                                       
+NCH CORPORATION AND SUBSIDIARIES
+EXHIBIT 23
+INDEPENDENT AUDITORS' CONSENT
+
+
+
+The Board of Directors
+NCH Corporation:
+
+We consent to the incorporation by reference in the registration
+statements (No. 33-65206 and No. 2-78875) on Form S-8 of NCH
+Corporation of our reports dated June 2, 1994, relating to the
+consolidated balance sheeets of NCH Corporation and subsidiaries
+as of April 30, 1994 and 1993, and the related consolidated
+statements of income, stockholders' equity, and cash flows and
+related schedules for each of the years in the three-year period
+ended April 30, 1994, which reports appear or are incorporated by
+reference in the April 30, 1994 Annual Report on Form 10-K of NCH
+Corporation.
+
+
+         /s/ KPMG Peat Marwick
+
+
+Dallas, Texas
+July 19, 1994
+
+
+
+
+
+
+
+
+
+<PAGE>
+<PAGE>
+
+NCH CORPORATION AND SUBSIDIARIES
+EXHIBIT 99
+DEFINITIVE PROXY STATEMENT
+REGARDING THE COMPANY'S 1994 ANNUAL MEETING OF
+STOCKHOLDERS
+
+                            SCHEDULE 14A INFORMATION
+
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of
+1934
+                               (Amendment No.   )
+
+Filed by the registrant [X]
+Filed by a party other than the registrant [ ]
+
+Check the appropriate box:
+
+[ ] Preliminary proxy statement
+[X] Definitive proxy statement
+[ ] Definitive additional materials
+[ ] Soliciting material pursuant to Rule 14a-11(c) or Rule 14a-12
+
+                           NCH Corporation                     
+- - ---------------------------------------------------------------------------
+(Name of Registrant as Specified in Its Charter)
+
+                           NCH Corporation                     
+- - ---------------------------------------------------------------------------
+(Name of Person(s) Filing Proxy Statement)
+
+Payment of filing fee (check the appropriate box):
+
+[X] $125 per Exchange Act Rules 0-11(c)(1)(ii), 14a-6(i)(1), or 
+    14a-6(j)(2).
+[ ] $500 per each party to the controversy pursuant to Exchange Act
+    Rule 14a-6(i)(3).
+[ ] Fee computed on table below per Exchange Act Rules 14a-6(i)(4)
+    and 0-11.
+
+   1)  Title of each class of securities to which transaction applies:
+
+   2)  Aggregate number of securities to which transaction applies:
+
+   3)  Per unit price or other underlying value of transaction computed
+       pursuant to Exchange Act Rule 0-11;*
+
+   4)  Proposed maximum aggregate value of transaction:
+
+   *   Set forth the amount on which the filing is calculated and state
+       how it was determined.
+
+[ ]    Check box if any part of the fee is offset as provided by Exchange Act
+       Rule 0-11(a)(2) and identify the filing for which the offsetting fee
+       was paid previously.  Identify the previous filing by registration
+       statement number, or the form or schedule and the date of its filing.
+
+   1)  Amount previously paid:
+
+   2)  Form, schedule or registration statement no.:
+
+   3)  Filing party:
+
+   4)  Date filed:
+<PAGE>
+<PAGE>
+                                     [LOGO]
+
+
+
+                           2727 Chemsearch Boulevard
+                              Irving, Texas  75062
+
+                    NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+
+                            To Be Held July 28, 1994
+
+
+
+     NOTICE IS HEREBY GIVEN that the Annual Meeting of Stockholders of
+NCH Corporation will be held in Gallery I of the Hotel Crescent Court (at
+the corner of Pearl and Cedar Springs Streets), Dallas, Texas, on Thursday,
+the 28th day of July, 1994, at 10:00 a.m., Central Daylight Time, for the
+following purposes:
+
+  1. To elect two Class III directors of NCH to hold office until the next
+     annual election of Class III directors by stockholders or until their
+     respective successors are duly elected and qualified.
+
+  2. In accordance with the requirements of Section 162(m) of the Internal
+     Revenue Code, to approve an incentive bonus plan for members of the
+     Executive Committee of the Board of Directors.
+
+  3. To ratify the appointment of KPMG Peat Marwick, Certified Public
+     Accountants, to be the independent auditors of NCH for the fiscal
+     year ending April 30, 1995.
+
+  4. To transact such other business as may properly come before the
+     meeting or any adjournments of the meeting.
+
+   The Board of Directors has fixed the close of business on Wednesday,
+June 1, 1994, as the record date for determining stockholders entitled to
+vote at and to receive notice of the annual meeting.
+
+   Whether or not you expect to attend the meeting in person, you are
+urged to complete, sign, and date the enclosed form of proxy and return it
+promptly so that your shares of stock may be represented and voted at the
+meeting.  If you are present at the meeting, your proxy will be returned to
+you if you so request.
+
+                                  /s/ Joe Cleveland,
+                                       Secretary
+
+Dated:  June 22, 1994
+
+<PAGE>
+<PAGE>
+                                     [LOGO]
+
+
+
+                           2727 Chemsearch Boulevard
+                              Irving, Texas  75062
+
+                                PROXY STATEMENT
+                                      For
+                         ANNUAL MEETING OF STOCKHOLDERS
+                          To Be Held on July 28, 1994
+
+                              Dated: June 22, 1994
+
+                    SOLICITATION AND REVOCABILITY OF PROXIES
+
+   The accompanying proxy is solicited by the management of, and on
+behalf of, NCH Corporation, a Delaware corporation ("NCH"), to be voted at
+the Annual Meeting of the Stockholders of NCH, to be held Thursday, July
+28, 1994 (the "Meeting"), at the time and place and for the purposes set
+forth in the accompanying Notice of Annual Meeting.  When properly executed
+proxies in the accompanying form are received, the shares represented
+thereby will be voted at the Meeting in accordance with the directions
+noted on the proxies; if no direction is indicated, then such shares will
+be voted for the election of the directors and in favor of the proposals
+set forth in the Notice of Annual Meeting attached to this Proxy Statement.
+
+   The enclosed proxy confers discretionary authority to vote with
+respect to any and all of the following matters that may come before the
+Meeting:  (1) matters that NCH's Board of Directors does not know a
+reasonable time before the Meeting are to be presented at the Meeting; and
+(2) matters incidental to the conduct of the Meeting.  Management does not
+intend to present any business for a vote at the Meeting other than the
+matters set forth in the accompanying Notice of Annual Meeting, and it has
+no information that others will do so.  If other matters requiring the vote
+of the stockholders properly come before the Meeting, then, subject to the
+limitations set forth in the applicable regulations under the Securities
+Exchange Act of 1934, it is the intention of the persons named in the
+attached form of proxy to vote the proxies held by them in accordance with
+their judgment on such matters.
+
+   Any stockholder giving a proxy has the power to revoke that proxy at
+any time before it is voted.  A proxy may be revoked by filing with the
+Secretary of NCH either a written revocation or a duly executed proxy
+bearing a date subsequent to the date of the proxy being revoked.  Any
+stockholder may attend the Meeting and vote in person, whether or not such
+stockholder has previously submitted a proxy.
+
+   In addition to soliciting proxies by mail, officers and regular
+employees of NCH may solicit the return of proxies.  Brokerage houses and
+other custodians, nominees, and fiduciaries may be requested to forward
+solicitation material to the beneficial owners of stock.   This Proxy
+Statement and the accompanying proxy are first being sent or given to NCH's
+stockholders on or about June 24, 1994.
+
+   NCH will bear the cost of preparing, printing, assembling, and mailing
+the Notice of Annual Meeting, this Proxy Statement, the enclosed proxy, and
+<PAGE>
+<PAGE>
+
+any additional material, as well as the cost of forwarding solicitation
+material to the beneficial owners of stock.
+                   
+
+                                 VOTING RIGHTS
+
+   The record date for determining stockholders entitled to notice of and
+to vote at the Meeting is the close of business on June 1, 1994.  On that
+date there were 8,280,040 shares issued and outstanding of NCH's $1.00 par
+value common stock ("Common Stock"), which is NCH's only class of voting
+securities outstanding.  Each share of NCH's Common Stock is entitled to
+one vote in the matter of election of directors and in any other matter
+that may be acted upon at the Meeting.  Neither NCH's certificate of
+incorporation nor its bylaws permits cumulative voting.  The presence, in
+person or by proxy, of the holders of a majority of the outstanding shares
+of Common Stock entitled to vote at the Meeting is necessary to constitute
+a quorum at the Meeting, but in no event will a quorum consist of less than
+one-third of the shares entitled to vote at the Meeting.  The affirmative
+vote of a plurality of the shares of Common Stock represented at the
+Meeting and entitled to vote is required to elect directors.  All other
+matters to be voted on will be decided by a majority of the shares of
+Common Stock represented at the meeting and entitled to vote.  Abstentions
+and broker nonvotes are each included in determining the number of shares
+present at the meeting for purposes of determining a quorum.  Abstentions
+and broker nonvotes have no effect on determining plurality, except to the
+extent that they affect the total votes received by any particular
+candidate.  With respect to the proposal to approve an incentive bonus plan
+for members of the Executive Committee of the Board of Directors,
+abstentions have the effect of votes against the proposal and broker
+nonvotes are not counted.
+
+
+                             ELECTION OF DIRECTORS
+
+   NCH's Board of Directors consists of seven members, divided into three
+classes:  Class I (two directors), Class II (three directors), and Class
+III (two directors).  Only the Class III positions are due for nomination
+and election at the Meeting.  The Class I and Class II positions will be
+due for nomination and election at the annual meetings of stockholders to
+be held in 1995 and 1996, respectively.
+
+   The intention of the persons named in the enclosed proxy, unless such
+proxy specifies otherwise, is to vote the shares represented by such proxy
+for the election of Jerrold M. Trim and Irvin L. Levy as the Class III
+directors.  Messrs. Jerrold M. Trim and Irvin L. Levy have been nominated
+to stand for re-election by the Board of Directors until their terms expire
+or until their respective successors are duly elected and qualified. 
+Messrs. Jerrold M. Trim and Irvin L. Levy are presently directors of NCH. 
+Messrs. Irvin, Lester, and Milton Levy are brothers.  Robert L. Blumenthal
+is a first cousin of Messrs. Irvin, Lester, and Milton Levy.  Certain
+information regarding each nominee and director is set forth below.  The
+number of shares beneficially owned by each nominee is listed under
+"Security Ownership of Principal Stockholders and Management."
+<PAGE>
+<PAGE>
+
+                               Class I Directors
+
+   J. Rawles Fulgham, Jr., 66, has been a director of NCH since 1981. Mr.
+Fulgham was an executive director of Merrill Lynch Private Capital
+Inc. from 1982 until 1989, when he assumed his current position as a Senior
+Advisor to Merrill Lynch & Co., Inc.  He is also a director of Dresser
+Industries, Inc., Indresco, Inc., Republic Financial Services, Inc., and
+BancTec, Inc., all of which are located in Dallas, Texas.  Mr. Fulgham is a
+member of the Audit Committee and the Compensation Committee.
+
+   Lester A. Levy, 71, has been a director and officer of NCH since 1947,
+and since 1965 has served as Chairman of the Board of Directors of NCH.  He
+is either the president or a vice president of substantially all of NCH's
+subsidiaries.  Mr. Levy is also a director of A.H. Belo Corporation,
+Dallas, Texas.  Mr. Levy is a member of the Stock Option Committee and the
+Executive Committee.
+
+                        Class II Directors and Nominees
+
+   Robert L. Blumenthal, 63, has engaged in the practice of law since
+1957.  He is a partner at the Dallas law firm of Carrington, Coleman,
+Sloman & Blumenthal, L.L.P., which serves as NCH's legal counsel.
+
+   Thomas B. Walker, Jr., 70, has been a director of NCH since 1987.  He
+was a general partner of Goldman, Sachs & Co. from 1968 until 1984 when he
+assumed his current position as a limited partner of The Goldman Sachs
+Group, L.P.  Mr. Walker is also a director of Sysco Corporation, A.H. Belo
+Corporation, and Central and South West Corporation.  He is a member of the
+Audit Committee and the Compensation Committee.
+
+   Milton P. Levy, Jr., 68, has been a director and officer of NCH since
+1947, and since 1965 has served as Chairman of the Executive Committee of
+NCH.  He is either the president or a vice president of substantially all
+of NCH's subsidiaries.  Mr. Levy is also an advisory director of Texas
+Commerce Bank, N.A.  He is a member of the Stock Option Committee and the
+Executive Committee.
+
+                              Class III Directors
+
+   Jerrold M. Trim, 57, has been a director of NCH since 1980 and is the
+president and majority shareholder of Windsor Association, Inc., which is
+engaged primarily in investment consulting services.  He is also a general
+partner of Chiddingstone Management Company and The Penshurst Fund, which
+are limited partnerships that invest in marketable securities.  He is a
+member of the Audit Committee and the Compensation Committee.
+
+   Irvin L. Levy, 65, has been a director and an officer of NCH since
+1950, and has served as NCH's President since 1965.  He is either president
+or a vice president of substantially all of NCH's subsidiaries.  Mr. Levy
+is a member of the Stock Option Committee and the Executive Committee.  Mr.
+Levy is also a director of NationsBank of Texas, N.A.
+
+   If either of the above nominees for Class III directors should become
+unavailable to serve as a director, then the shares represented by proxy
+will be voted for such substitute nominees as may be nominated by the Board
+<PAGE>
+<PAGE>
+
+of Directors.  NCH has no reason to believe that either of the above
+nominees is, or will be, unavailable to serve as a director.
+
+
+                 Meeting Attendance and Committees of the Board
+
+   NCH has audit, compensation, executive, and stock option committees of
+the Board, whose members are noted above.  During the last fiscal year, the
+Board of Directors met on five occasions, the Compensation Committee met
+twice, the Audit Committee met once, the Executive Committee met or acted
+by consent at least 33 times, and the Stock Option Committee met once.  NCH
+does not have a standing nominating committee of the Board.  Nominees to
+the Board are selected by the entire Board.
+
+   The Audit Committee of the Board reviews the scope of the independent
+auditors' examinations and the scope of activities of NCH's internal
+auditors.  Additionally, it receives and reviews reports of NCH's
+independent auditors and internal auditors.  The Audit Committee also meets
+(without management's presence, if the Audit Committee so desires) with the
+independent auditors and members of the internal auditing staff, receives
+recommendations or suggestions for change, and may initiate or supervise
+any special investigations it may choose to undertake.
+
+   The Compensation Committee recommends to the Board of Directors the
+salaries of Messrs. Irvin, Lester, and Milton Levy.
+
+   The Executive Committee possesses all of the powers of the Board of
+Directors between meetings of the Board.
+
+   The Stock Option Committee of the Board determines those employees of
+NCH and its subsidiaries who will receive stock options and the amount of
+such options.
+
+
+                    PROPOSAL TO APPROVE EXECUTIVE COMMITTEE
+                              INCENTIVE BONUS PLAN
+
+
+   Section 162(m), which was added to the Internal Revenue Code in August
+1993, denies the deduction for compensation over $1 million per year paid
+by a publicly traded company to the chief executive and the four other most
+highly compensated officers.  Compensation based on performance goals and
+approved by the stockholders is excluded from the limitation on deductions
+over $1 million.  To qualify for the exclusion: (i) the compensation must
+be paid solely for achieving performance goals; (ii) the performance goals
+must be established by a compensation committee consisting of outside
+directors; (iii) the terms under which the compensation will be paid,
+including the performance goals, must be described to and approved by
+stockholders; and (iv) prior to payment, the compensation committee must
+certify that the performance goals and other terms were satisfied.
+
+   To qualify all compensation paid to the Executive Committee of the
+Board of Directors as a deductible expense under Section 162(m) of the
+Internal Revenue Code, on April 28, 1994, the Compensation Committee of the
+Board of Directors adopted an incentive bonus plan (the "Bonus Plan"),
+<PAGE>
+<PAGE>
+
+subject to stockholder approval, for members of the Executive Committee.
+
+   The Bonus Plan provides a formula for determining the amounts of
+annual bonuses to be paid to each member of the Executive Committee.  Bonus
+amounts will depend on the amount by which NCH's net income after taxes,
+but before accrual for any bonus under the Bonus Plan, for a particular
+fiscal year increases over its net income for the preceding fiscal year. 
+If net income increases less than 10%, then no bonus will be paid. 
+Increases from 10% to less than 14% will result in payment of a $225,000
+bonus to each member of the Executive Committee.  Increases from 14% to
+less than 16% will result in payment of a $300,000 bonus to each Executive
+Committee member.  Increases of 16% or more will result in payment of a
+$375,000 bonus to each member of the Executive Committee.
+
+   The Bonus Plan prohibits amendment of its terms to increase the cost
+of the Bonus Plan to NCH or to change the persons to whom bonuses will be
+paid under the Bonus Plan without a vote of NCH's stockholders.
+
+   The following table summarizes the amounts that would have been
+received by or allocated to each member of the Executive Committee for the
+last three completed fiscal years had the Bonus Plan been in effect.
+
+                               NEW PLAN BENEFITS
+
+                    Executive Committee Incentive Bonus Plan
+                                                              Dollar
+               Name and Position                             Value ($)
+               -----------------                             ---------
+
+       Irvin L. Levy, President                                 0
+       Lester A. Levy, Chairman of the Board                    0
+       Milton P. Levy, Jr., Chairman of the Executive Committee 0
+
+
+                COMPENSATION OF DIRECTORS AND EXECUTIVE OFFICERS
+
+Director Compensation
+
+     Directors who are not executive officers of NCH receive compensation
+of $25,000 per annum and $1,000 for each meeting of the Board of Directors
+or Board committee attended.  All other directors receive $1,000 for each
+such meeting attended.  Members of the Stock Option Committee and Executive
+Committee are not compensated separately for their services on such
+committees.
+
+Report on Executive Compensation
+
+Responsibility for Executive Compensation
+
+     Three outside directors, as the Compensation Committee of NCH
+(Messrs. Fulgham, Trim, and Walker), have primary responsibility for
+recommending to the Board the executive compensation program for Messrs.
+Irvin, Lester, and Milton Levy.  The Compensation Committee recommends to
+the Board an annual aggregate base compensation for the Office of the
+Executive Committee and, pending shareholder approval of the Executive
+<PAGE>
+<PAGE>
+
+Committee Bonus Plan, is responsible for administering and approving
+incentive compensation for the Office of the Executive Committee.  After
+Board approval of the Compensation Committee's recommendation for aggregate
+base compensation (with Messrs. Irvin, Lester, and Milton Levy abstaining),
+the Messrs. Levy divide the compensation of the Executive Committee among
+themselves.  Messrs. Irvin, Lester, and Milton Levy are responsible for
+administering the compensation program for all other officers of NCH.
+
+Executive Compensation Strategy
+
+     With respect to compensation of all key executives other than
+Messrs. Irvin, Lester, and Milton Levy, NCH's strategy is generally as
+follows:
+
+        Attract and retain key executives by delivering a market
+        competitive rate of base pay.  Market competitive rates of pay are
+        determined by reviewing compensation data from other companies
+        that resemble NCH in terms of lines of business, size, scope, and
+        complexity.
+
+        Provide salary increases to key executives based on their
+        individual effort and performance.  In addition to the
+        individual's experience, job duties, and performance, annual
+        increases are influenced by NCH's overall performance.
+
+        Provide annual incentive opportunities based on objectives that
+        NCH feels are critical to its success during the year.  Target
+        incentive levels are set on an individual basis and actual awards
+        are made at the Executive Committee's discretion.
+
+        Provide long-term incentives to key employees so that employees
+        are focused on activities and decisions that promote NCH's
+        long-term financial and operational success.  To meet this
+        objective, NCH offers stock options to certain key employees. 
+        Options are generally granted for a period of five years at a
+        price that is at least equal to the fair market value of the
+        Common Stock at the time of grant.  Options vest in equal
+        increments over a three-year period from the time of grant.
+
+
+Compensation of Messrs. Irvin, Lester, and Milton Levy
+
+     The Compensation Committee occasionally seeks assistance and relies
+on compensation data supplied by an outside compensation consulting firm to
+determine the competitiveness of NCH's compensation programs.  Based on
+survey and proxy analyses performed by the consulting firm, the
+Compensation Committee believes that the aggregate compensation for the
+Office of the Executive Committee to be at the 75th percentile of total
+direct compensation (base salary plus annual incentives plus present value
+of long-term incentives granted) in chemical companies and other industrial
+companies of similar size.  Given the tenure and depth of experience of the
+Office of the Executive Committee, the Compensation Committee feels that
+this is an appropriate competitive level of compensation.  All of the
+companies in the peer group in NCH's performance graph on page 10 of this
+Proxy Statement are included in the proxy analysis performed by the
+<PAGE>
+<PAGE>
+
+consulting firm.  NCH's performance in sales and earnings in the then
+current economic and competitive environment, adjusted for currency
+fluctuations, is considered in setting executive compensation, although no
+formula or preset goal is used.
+
+     NCH has adopted a separate strategy with respect to the incentive
+compensation of the Office of the Executive Committee (Messrs. Irvin,
+Lester, and Milton Levy).  Since these individuals are very significant
+long-term stockholders of NCH, some of the typical approaches to executive
+compensation that exist in the marketplace are not necessarily relevant at
+NCH.  Long-term incentive programs are implemented for senior executives to
+create a link between the corporation's performance and the executive's own
+personal wealth.  In light of the shareholding of Messrs. Irvin, Lester,
+and Milton Levy, they are already significantly impacted financially by
+NCH's overall performance.  The Compensation Committee generally feels that
+in this situation any long-term incentive program should be tied to salary
+or bonus.
+
+     In terms of short-term incentive compensation, NCH is submitting the
+Executive Committee Bonus Plan for stockholder approval at the Meeting. 
+Since aggregate compensation for the Office of the Executive Committee
+could result in a member receiving over $1 million in annual compensation,
+NCH finds it necessary to comply with the provisions of Section 162(m) of
+the Internal Revenue Code to qualify for tax deductibility all compensation
+paid to the Executive Committee.  NCH's policy is to qualify to the extent
+practicable all compensation paid to its executive officers for tax
+deductibility in accordance with Section 162(m).  The stockholders must
+approve the Bonus Plan before it goes into effect.
+
+Conclusion
+
+     The Compensation Committee believes that current compensation
+arrangements in place at NCH are reasonable and competitive given NCH's
+size and status and the current regulatory environment surrounding
+executive compensation.  The base salary program allows NCH to attract and
+retain management talent.  In addition, for those employees who are
+incentive eligible, such systems continue to provide the necessary link
+between the attainment of NCH's performance objectives and the compensation
+received by executives.
+
+                                      Executive Committee &
+              Compensation Committee  Stock Option Committee
+              ----------------------  ----------------------
+
+              J. Rawles Fulgham, Jr.  Irvin L. Levy
+              Jerrold M. Trim         Lester A. Levy
+              Thomas B. Walker, Jr.   Milton P. Levy, Jr.
+
+  The report on executive compensation will not be deemed to be
+incorporated by reference into any filing by NCH under the Securities Act
+of 1933 or the Securities Exchange Act of 1934, except to the extent that
+NCH specifically incorporates the above report by reference.
+
+Compensation Committee Interlocks and Insider Participation in Compensation
+Decisions
+<PAGE>
+<PAGE>
+
+  Messrs. Irvin, Lester, and Milton Levy are members of the Executive
+Committee of NCH's Board of Directors, which committee determines most
+salaries and promotions with respect to officers of NCH and its
+subsidiaries, and of the Stock Option Committee, which determines those
+employees of NCH and its subsidiaries who will receive stock options and
+the amount of such options.  Messrs. Irvin, Lester, and Milton Levy are
+executive officers and employees of NCH.
+
+  NCH's Board of Directors (with the subject members abstaining)
+determines the salaries of Messrs. Irvin, Lester, and Milton Levy after
+recommendation of the Compensation Committee, whose members are J. Rawles
+Fulgham, Jr., Jerrold M. Trim, and Thomas B. Walker, Jr.
+
+  Executive Compensation
+
+  The following table summarizes the compensation paid to Messrs. Irvin,
+Lester, and Milton Levy, who together hold the office of the Executive
+Committee, and to NCH's two other most highly compensated executive
+officers (whose compensation exceeded $100,000 in fiscal 1994) for services
+rendered in all capacities to NCH during the fiscal years ended April 30,
+1994, 1993, and 1992.
+                           SUMMARY COMPENSATION TABLE
+
+                                             Annual
+                                        Compensation(1)
+     Name and                 Fiscal   ------------------     All Other
+Principal Positions            Year    Salary(2)   Bonus   Compensation(3)
+- - --------------------          ------   ---------  -------  ---------------
+Irvin L. Levy, President        1994   $ 815,734   $     -     $6,016
+                                1993     794,029         -      5,184
+                                1992     778,029         -          -  
+
+Lester A. Levy, Chairman        1994     822,635         -      5,316
+  of the Board                  1993     748,082         -      5,184
+                                1992     748,650         -          -
+
+Milton P. Levy, Jr., Chairman   1994     963,877         -      6,016
+  of the Executive Committee    1993   1,042,078                5,184
+                                1992     975,808         -          -
+
+Thomas F. Hetzer, Vice          1994     153,410     5,725      3,416
+  President - Finance           1993     135,954    17,000      4,204
+                                1992     125,005    16,000          -
+
+Glen L. Scivally, Vice          1994     151,352     5,250      3,421
+  President and Treasurer       1993     134,124    15,750      4,571
+                                1992     124,216    20,700          -
+
+
+- - -------------------------------
+(1) Certain of NCH's executive officers receive personal benefits in
+    addition to annual salary and bonus.  The aggregate amounts of the
+    personal benefits, however, do not exceed the lesser of $50,000 or 10%
+    of the total of the annual salary and bonus reported for the named
+    executive officer.
+<PAGE>
+<PAGE>
+
+(2) Includes compensation for services as a director (other than Mr.
+    Hetzer and Mr. Scivally). 
+
+(3) The amounts included in this column were contributed to the accounts
+    of the executives included in the table under NCH's qualified profit
+    sharing and savings plan.  Compensation that would otherwise be
+    included in this column for fiscal year 1992 has been omitted pursuant
+    to the phase-in provisions of the executive compensation rules
+    promulgated by the Securities and Exchange Commission.
+
+
+    Retirement Agreements
+
+    NCH has entered into retirement agreements with Messrs. Irvin, Lester,
+and Milton Levy that provide for lifetime monthly payments and guarantee
+120 monthly payments beginning at death, retirement, or disability. 
+Payments under these agreements will be $385,000 per year, subject to
+adjustment each year after 1993 for increases in the United States Consumer
+Price Index for the preceding year.
+
+
+                              CERTAIN TRANSACTIONS
+
+    NCH has entered into split dollar life insurance agreements with the
+sons of Lester A. Levy and Irvin L. Levy who are NCH employees and with
+Lester A. Levy's daughter, concerning the purchase of life insurance
+policies insuring Irvin L. Levy, Lester A. Levy, and Milton P. Levy, Jr. 
+The employee or daughter pays the "economic benefit" portion of the premium
+(computed under Internal Revenue Code Rulings 55-747 and 66-110) and NCH
+pays the rest of the premium.  The premium averages approximately $570,000
+per year for the remaining premium payment period, estimated to be 15
+years.  The impact of these policies on after-tax earnings was $98,000 in
+fiscal 1994.  Because of the cash value build up of the policies, they
+should have either no material effect or a positive effect on earnings in
+subsequent years.  The insurance provides benefits to the above indicated
+employees totalling $10,000,000 on the death of combinations of insureds. 
+NCH has been granted a security interest in the cash value and death
+benefit of each policy to the extent of the sum of premium payments made by
+NCH.  These arrangements are designed so that if the assumptions made as to
+mortality experience, policy earnings, and other factors are realized, then
+NCH will recover all of its premium payments.
+
+    The purpose of the arrangement in addition to providing benefits to
+the employees is to provide cash to the families of Messrs. Lester and
+Irvin Levy at the approximate time of death of the senior Levys to avoid
+their Common Stock being forced on to the market at a potentially
+inappropriate time.
+
+
+                FIVE YEAR COMPARISON OF CUMULATIVE TOTAL RETURN 
+
+
+    The following graph presents NCH's cumulative stockholder return
+during the period beginning April 30, 1989, and ending April 30, 1994.  NCH
+is compared to the S&P 500 and a peer group consisting of companies that
+collectively represent lines of business in which NCH competes.  The
+<PAGE>
+<PAGE>
+
+companies included in the peer group index are Betz Laboratories, Inc., The
+Dexter Corporation, Ecolab Inc., Lawson Products, Inc., Nalco Chemical
+Company, National Service Industries, Inc., Petrolite Corporation, Premier
+Industrial Corporation, Quaker Chemical Corporation, Safety-Kleen Corp.,
+and Snap-On Tools Corporation.  Each index assumes $100 invested at the
+close of trading on April 30, 1989, and is calculated assuming quarterly
+reinvestment of dividends and quarterly weighting by market capitalization.
+
+
+
+
+
+
+
+
+
+
+[THE STOCK PERFORMANCE GRAPH IS PROVIDED UNDER COVER OF FORM SE]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    The stock price performance depicted in the graph above is not
+necessarily indicative of future price performance.  The graph will not be
+deemed to be incorporated by reference in any filing by NCH under the
+Securities Act of 1933 or the Securities Exchange Act of 1934, except to
+the extent that NCH specifically incorporates the graph by reference.
+
+<PAGE>
+<PAGE>
+
+                             SECURITY OWNERSHIP OF
+                     PRINCIPAL STOCKHOLDERS AND MANAGEMENT
+
+
+    The following table sets forth certain information regarding the
+beneficial ownership of NCH's Common Stock as of June 1, 1994, by: (i)
+persons known to management to beneficially own more than 5% of NCH's
+Common Stock; (ii) each director and nominee for director; (iii) the three
+persons holding the office of the Executive Committee and NCH's two other
+most highly compensated executive officers (whose compensation exceeded
+$100,000 in fiscal 1994); and (iv) all directors and executive officers of
+NCH as a group.  Except as noted below, each person included in the table
+has sole voting and investment power with respect to the shares that the
+person beneficially owns.
+
+             Name of         Amount and Nature of        Percent
+       Beneficial Owner      Beneficial Ownership       of Class
+    ----------------------- -----------------------    ----------
+
+    Robert L. Blumenthal              2,683                 * 
+    J. Rawles Fulgham, Jr. (1)        2,000                 * 
+    Thomas F. Hetzer                      0                 - 
+    Irvin L. Levy (2)(3)          1,558,206              18.8%
+    Lester A. Levy (2)(4)         1,500,358              18.1%
+    Milton P. Levy, Jr. (2)(5)    1,121,930              13.5%
+    Glen L. Scivally                      0                 - 
+    Jerrold M. Trim (6)                   0                 - 
+    Thomas B. Walker, Jr.            10,000                 * 
+
+    All directors and executive   4,147,693              50.1%
+    officers as a group (12 people)
+- - ------------------------------------
+
+*   Less than 1% of class.
+
+(1) Of these shares, 700 are held by a Dallas bank in trust for the
+    retirement plan and benefit of Mr. Fulgham.
+
+(2) The address of Messrs. Irvin, Lester, and Milton Levy is P.O. Box
+    152170, Irving, Texas 75015.  The definition of beneficial ownership
+    under the rules and regulations of the Securities and Exchange
+    Commission requires inclusion of the same 29,000 shares held as
+    cotrustees by Messrs. Irvin, Lester, and Milton Levy for a family
+    trust in the totals listed above for each of Messrs. Irvin, Lester,
+    and Milton Levy.
+
+(3) Irvin L. Levy owns a life estate interest in 1,000,000 shares included
+    in the table over which he has sole voting and investment power, and
+    his children own a remainder interest in such 1,000,000 shares.  The
+    table includes the following shares, beneficial ownership of which
+    Irvin L. Levy disclaims:  25,633 shares held as trustee for his
+    grandnephews and grandniece over which he has sole voting and
+    investment power, and 29,000 shares held as cotrustee with his
+    brothers for a family trust over which he shares voting and investment
+    power.
+<PAGE>
+<PAGE>
+
+(4) Lester A. Levy owns a life estate interest in 625,194 shares included
+    in the table over which he has sole voting and investment power, and
+    his children own a remainder interest in such 625,194 shares.  The
+    table includes the following shares, beneficial ownership of which
+    Lester A. Levy disclaims:  18,337 shares held as trustee for his
+    grandnieces over which he has sole voting and investment power, and
+    29,000 shares held as cotrustee with his brothers for a family trust
+    over which he shares voting and investment power.
+
+(5) The table includes the following shares beneficial ownership of which
+    Milton P. Levy, Jr. disclaims: 34,448 shares owned by his wife over
+    which he has no voting or investment power, 29,000 shares held as
+    cotrustee with his brothers for a family trust over which he shares
+    voting and investment power, and 2,106 shares held as cotrustee with
+    his daughters for their benefit over which he shares voting and
+    investment power.
+
+(6) Windsor Association, Inc., of which Mr. Trim is president, has a
+    corporate policy against its employees owning any publicly traded
+    securities.
+
+                             SELECTION OF AUDITORS
+
+    The Board of Directors has appointed KPMG Peat Marwick, Certified
+Public Accountants, to continue to be the principal independent auditors of
+NCH, subject to stockholder ratification at the Meeting.  A representative
+of that firm has been requested to be present at the Meeting and will have
+an opportunity to make a statement if the representative desires to do so
+and to respond to appropriate questions.
+
+                           PROPOSALS OF STOCKHOLDERS
+
+    Stockholders of NCH who intend to present a proposal for action at the
+1995 Annual Meeting of Stockholders of NCH must notify NCH's management of
+such intention by notice received at NCH's principal executive offices not
+less than 120 days in advance of June 22, 1995, for such proposal to be
+included in NCH's proxy statement and form of proxy relating to such
+meeting.
+
+                                 ANNUAL REPORT
+
+    The Annual Report for the year ended April 30, 1994, is being mailed
+to stockholders with this Proxy Statement.  The Annual Report is not to be
+regarded as proxy soliciting material.  NCH will provide without charge to
+each stockholder to whom this Proxy Statement and the accompanying form of
+proxy are sent, on the written request of such person, a copy of NCH's
+annual report on Form 10-K for the fiscal year ended April 30, 1994,
+including the financial statements and the financial statement schedules,
+required to be filed with the Securities and Exchange Commission.  Requests
+should be directed to NCH Corporation, Attention: Secretary, P. O. Box
+152170, Irving, Texas  75015.
+
+                                                 /s/ Irvin L. Levy,
+                                                 President
+Irving, Texas
+Dated:  June 22, 1994
+<PAGE>
+<PAGE>
+
+
+
+/X/ Please mark your votes as in this example.
+
+                             FOR     WITHHOLD AUTHORITY
+1. Election of Directors     / /            / /
+
+Nominees are:
+Jerrold M. Trim and Irvin L. Levy
+
+Instruction: To withhold authority to vote for all nominees, mark
+the Withhold Authority box. To withhold authority to vote for any
+individual nominee, write the nominee's name on the line above.
+
+
+2. Proposal to approve the incentive bonus plan for members of
+the Executive Committee of the Board of Directors as described in
+the proxy statement for the 1994 annual meeting of stockholders:
+FOR / /  AGAINST / / ABSTAIN / /
+
+3. Proposal to ratify the appointment of KPMG Peat Marwick as
+independent auditors of NCH Corporation:  
+FOR / / AGAINST / / ABSTAIN / /
+
+4. In their discretion, the proxies are authorized to vote upon
+any other matters that may properly come before the meeting or
+any adjournment thereof, subject to the limitations set forth in
+the applicable regulations under the Securities Exchange Act of
+1934. FOR / / AGAINST / / ABSTAIN / /
+
+
+SIGNATURE_____________________________DATE_________________, 1994
+
+SIGNATURE IF HELD JOINTLY___________________________________
+DATE__________________, 1994
+
+NOTE: Please sign exactly as name appears hereon. Joint owners
+should each sign. When signing as attorney, executor,
+administrator, trustee, guardian, officer or partner, please
+indicated full title and capacity.
+
+
+SEE REVERSE SIDE
+<PAGE>
+<PAGE>
+
+PROXY
+
+
+                         NCH CORPORATION
+         ANNUAL MEETING OF STOCKHOLDERS - JULY 28, 1994
+  THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS.
+
+
+The undersigned, revoking all prior proxies, hereby appoints
+James H. Stone, Tom Hetzer, and Joe Cleveland, and any one or
+more of them, proxy or proxies, with full power of substitution
+in each, and hereby authorizes them to vote for the undersigned
+and in the undersigned's name, all shares of common stock of NCH
+Corporation (the "Company") standing in the name of the
+undersigned on June 1, 1994, as if the undersigned were
+personally present and voting at the Company's annual meeting of
+stockholders to be held on July 28, 1994, in Dallas, Texas, and
+at any adjournment thereof, upon the matters set forth on the
+reverse side hereof.
+
+This proxy when properly executed will be voted in the manner
+directed herein by the undersigned stockholder. IF NO DIRECTION
+IS MADE, THEN THIS PROXY WILL BE VOTED FOR PROPOSALS 1, 2, AND 3,
+AND IN THE PROXIES' DISCRETION ON ALL OTHER MATTERS THAT MAY
+PROPERLY COME BEFORE THE ANNUAL MEETING, INCLUDING MATTERS
+INCIDENT TO THE CONDUCT OF SUCH MEETING.
+
+
+
+
+  (Continued and to be signed on reverse side)
+<PAGE>
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

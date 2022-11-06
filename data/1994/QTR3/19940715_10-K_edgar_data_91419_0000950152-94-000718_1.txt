@@ -1,0 +1,3646 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ jLfKoId5HMNwnmcmX779EIEEnG1lg4/GMHFUssHrBaF0CSRLqQMPc2b65OvpRy7q
+ bQu1dHWt6Q5i3t8Jm8MUag==
+
+<IMS-DOCUMENT>0000950152-94-000718.txt : 19940719
+<IMS-HEADER>0000950152-94-000718.hdr.sgml : 19940719
+ACCESSION NUMBER:		0000950152-94-000718
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		21
+CONFORMED PERIOD OF REPORT:	19940430
+FILED AS OF DATE:		19940715
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SMUCKER J M CO
+		CENTRAL INDEX KEY:			0000091419
+		STANDARD INDUSTRIAL CLASSIFICATION:	2033
+		IRS NUMBER:				340538550
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05111
+		FILM NUMBER:		94539077
+
+	BUSINESS ADDRESS:	
+		STREET 1:		STRAWBERRY LN
+		CITY:			ORRVILLE
+		STATE:			OH
+		ZIP:			44667
+		BUSINESS PHONE:		2166823000
+
+	MAIL ADDRESS:	
+		STREET 1:		STRAWBERRY LANE, P.O. BOX 280
+		CITY:			ORRVILLE
+		STATE:			OH
+		ZIP:			44667
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>SMUCKER'S 10-K
+<TEXT>
+
+<PAGE>   1
+ 
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+ 
+                                   FORM 10-K
+ 
+               (X) ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+                    For the Fiscal Year Ended April 30, 1994
+ 
+             ( ) TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+                         Commission File Number 1-5111
+ 
+                            THE J. M. SMUCKER COMPANY
+ 
+<TABLE>
+<S>                                            <C>
+                     OHIO                                        34-0538550
+            State of Incorporation                   I.R.S. Employer Identification No.
+</TABLE>
+ 
+                              One Strawberry Lane
+                           Orrville, Ohio 44667-0280
+                          Principal executive offices
+ 
+                        Telephone number: (216) 682-3000
+ 
+          Securities registered pursuant to Section 12(b) of the Act:
+ 
+Class A Common Shares, no par value                         Registered on the
+Class B Common Shares, no par value                      New York Stock Exchange
+ 
+        Securities registered pursuant to Section 12(g) of the Act: None
+ 
+     The Registrant has filed all reports required to be filed by Section 13 or
+15(d) of the Securities Exchange Act of 1934 during the preceding 12 months, and
+has been subject to such filing requirements for at least the past 90 days.
+ 
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  (X)
+ 
+     As of July 5, 1994, 14,391,339 Class A Common Shares and 14,780,839 Class B
+Common Shares of The J.M. Smucker Company were issued and outstanding. The
+aggregate market value of the voting Common Shares (Class A) held by
+non-affiliates of the Registrant at July 5, 1994, was $270,068,939.
+ 
+     Certain sections of the Registrant's definitive Proxy Statement, dated July
+11, 1994, for the August 16, 1994 Annual Meeting of Shareholders and of the 1994
+Annual Report to Shareholders are incorporated by reference into Parts I, II,
+III and IV of this Report.
+<PAGE>   2
+
+                                     PART I
+
+
+
+ITEM 1.  BUSINESS
+
+  THE COMPANY.  The J. M. Smucker Company was begun in 1897 and was
+incorporated in Ohio in 1921.  The Company, generally referred to as
+"SMUCKER'S" (a registered trademark), operates in one industry, the
+manufacturing and marketing of food products on a worldwide basis.  Unless
+otherwise indicated by the context, the term "Company" as used in this report
+means The J. M. Smucker Company and its subsidiaries.
+
+  PRINCIPAL PRODUCTS.  The principal products of the Company are jams, jellies,
+preserves, fruit spreads, frozen pies, dessert toppings, syrups, peanut butter,
+industrial fruit products (such as bakery and yogurt fillings), fruit and
+vegetable juices, juice beverages, pie fillings, condiments, and gift packages.
+
+  The Company is structured around six strategic business areas:  Consumer,
+Mrs. Smith's, Foodservice, International, Industrial, and Specialty Foods.
+Within the domestic markets, the Company's products are primarily sold through
+brokers to chain, wholesale, cooperative, and independent grocery accounts and
+other consumer markets, and to foodservice distributors and chains including:
+hotels, restaurants, and institutions.  Industrial products such as bakery and
+fruit fillings are typically sold direct to other food manufacturers and
+marketers for inclusion in their products.  The Company's acquisition of the
+Mrs. Smith's Frozen Foods Co., a subsidiary of Kellogg Company in late fiscal
+1994 has allowed the Company to expand its distribution into the frozen foods
+section of the grocery store.
+
+  The Company's distribution outside the United States is principally in
+Canada, Australia, the United Kingdom, and Latin America, although products are
+exported to other countries.  The acquisition during fiscal 1994 of the
+Culinar, Inc. jam division in Quebec significantly expanded the Company's
+presence in the Canadian market.  International sales now represent
+approximately 11% of total Company sales.
+
+  SOURCES AND AVAILABILITY OF RAW MATERIALS.  The fruit raw materials used by
+the Company in the production of its food products are generally purchased from
+independent growers and suppliers, although the Company grows some strawberries
+for its own use.  Because of the seasonal nature and volatility of quantities
+of most of the crops on which the Company depends, it is necessary to prepare
+and freeze stocks of fruit, fruit juices, berries and other food products and
+to maintain them in cold storage warehouses.  Sweeteners, peanuts, and other
+ingredients are obtained from various other sources.
+
+  PATENTS AND TRADEMARKS.  The Company's products are marketed under several
+trademarks owned by the Company.  The principal trademarks of the Company 
+include:  "SMUCKER'S", "MRS. SMITH'S", "THE R. W. KNUDSEN FAMILY", "MARY 
+ELLEN", "LOST ACRES", "SIMPLY FRUIT", "DUTCH GIRL", "GOOD MORNING", "EXTRA 
+FRUIT", "DOUBLE FRUIT", "J. M. SMUCKER'S", "SUPER SPREADERS", "LOW SUGAR", 
+"GOOBER", "MAGIC SHELL", "SPECIAL RECIPE", "SUNDAE SYRUP", "RECHARGE", "AFTER
+THE FALL", "SANTA CRUZ NATURAL", "DICKINSON'S", "SPRITZER", "FRUIT TEAZER", 
+"TEAKOOLER", "HEINKE", and "FRUITAGE".  In addition, the Company licenses the 
+"IXL", "SHIRRIFF", "SCHWARTAU", and "VACHON" brands.
+<PAGE>   3
+
+  Other slogans or designs considered important trademarks to the Company
+include:  "With a name like SMUCKER'S, it has to be good," "SMUCKER'S" banner,
+the Crock Jar shape, Gingham design, and strawberry logo.
+
+  SEASONALITY.  Historically, the Company's business has not been highly
+seasonal.  However, due to the demand for frozen pies during the fall and
+holiday season, the Company expects the addition of "MRS. SMITH'S" to
+significantly impact its second and third quarter results.
+
+  WORKING CAPITAL.  Working capital requirements are greatest during the late
+spring and summer months due to seasonal procurement of fruits, berries, and
+peanuts.  During this period, short-term borrowing may be used to augment
+working capital generated by sales.
+
+  CUSTOMERS.  The Company is not dependent either on a single customer or on a
+very few for a major part of its sales.  No single domestic or foreign customer
+accounts for more than 10% of consolidated sales.
+
+  ORDERS.  Generally, orders are filled within a few days of receipt and the
+backlog of unfilled orders at any particular time is not material.
+
+  GOVERNMENT BUSINESS.  The Company has no material portion of its business
+which may be subject to negotiation of profits or termination of contracts at
+the election of the government.
+
+  COMPETITION.  The Company is the leading manufacturer of fruit spreads,
+toppings, and frozen pies in the United States.  The Company's business is
+highly competitive as all its brands compete for retail shelf space with other
+advertised and branded products as well as unadvertised and private label
+products.  The rapid growth of alternative store formats (i.e.  Warehouse Club
+and Mass Merchandise stores) and changes in business practices, resulting from
+both technological advances and new industry techniques, have added additional
+variables for companies in the food industry to consider in order to remain
+competitive.  The principal methods of and factors in competition are product
+quality, price, advertising, and promotion.
+
+  ENVIRONMENTAL MATTERS.  Compliance with the provision of federal, state and
+local environmental regulations regarding either the discharge of materials
+into the environment or the protection of the environment is not expected to
+have a material effect upon the capital expenditures, earnings, or competitive
+position of the Company.
+
+  EMPLOYEES.  At April 30, 1994, the Company had approximately 2,600 full-time
+employees, worldwide.
+
+  SEGMENT AND GEOGRAPHIC INFORMATION.  Information concerning international
+operations for the years 1994, 1993, and 1992 is hereby incorporated by
+reference from the 1994 Annual Report to Shareholders, on page 20 under Note B:
+"Operating Segments."
+<PAGE>   4
+
+ITEM 2.  PROPERTIES
+
+  The table below lists all the Company's manufacturing and fruit processing
+facilities.  All of the Company's properties are maintained and updated on a
+regular basis, and the Company continues to make investment for expansion and
+technological improvements.
+
+
+<TABLE>
+<CAPTION>
+Domestic Manufacturing Locations                                      Products Produced                
+- - --------------------------------                     --------------------------------------------------
+<S>                                                  <C>
+Orrville, Ohio                                       Fruit spreads, toppings, industrial fruit products
+Salinas, California                                  Fruit spreads, toppings
+Memphis, Tennessee                                   Fruit spreads, toppings
+Ripon, Wisconsin                                     Fruit spreads, toppings, condiments
+New Bethlehem, Pennsylvania                          Peanut butter and "GOOBER" products
+Pottstown, Pennsylvania                              Frozen pies, frozen desserts, pie shells
+Chico, California                                    Fruit and vegetable juices, beverages
+Havre de Grace, Maryland                             Fruit and vegetable juices, beverages
+
+Fruit Processing Locations                                           Fruit Processed
+- - --------------------------                           -------------------------------------------------
+Watsonville, California                              Strawberries, oranges, apples, peaches, apricots
+Woodburn, Oregon                                     Industrial fruit products, strawberries,
+                                                       raspberries, blackberries, blueberries
+Grandview, Washington                                Grapes, cherries, strawberries
+Oxnard, California                                   Strawberries
+
+International Manufacturing
+- - ---------------------------
+Locations                                                            Products Produced                
+- - ---------                                            -------------------------------------------------
+Ste-Marie, Quebec, Canada                            Fruit spreads, pie fillings, sweet spreads
+Kyabram, Victoria, Australia                         Fruit spreads, toppings, fruit pulps
+Elsenham, England                                    Jams, specialty items
+</TABLE>
+
+
+  In addition to the locations listed above, acreage is leased in California
+for the growing of strawberries.  The corporate headquarters are located in
+Orrville, Ohio and offices are leased in Toronto, Ontario, and Longueuil,
+Quebec, Canada, and Carlton, Victoria, Australia.  All production properties
+are owned except the facility in Oxnard, California, which is leased.
+
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+  The Company is not a party to any pending legal proceeding which would be
+considered material.
+<PAGE>   5
+
+ITEM 4.  SUBMISSIONS OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+  Not applicable.
+
+
+EXECUTIVE OFFICERS OF THE COMPANY
+
+  The names, ages as of July 1, 1994, and positions of the executive officers
+of the Company are listed below.  All executive officers serve at the pleasure
+of the Board of Directors, with no fixed term of office.  Paul H. Smucker is
+the father of Tim and Richard K. Smucker.  All of the officers have held
+various positions with the Company for more than five years.
+
+
+<TABLE>
+<CAPTION>
+                                       Years with                                                 Served in
+Name                        Age          Company          Position                               Office Since
+- - -------------------------------------------------------------------------------------------------------------
+<S>                          <C>           <C>            <C>                                          <C>
+ Paul H. Smucker             77            55             Chairman of the Executive Committee          1970
+ Tim Smucker                 50            25             Chairman                                     1987
+ Richard K. Smucker          46            21             President                                    1987
+ Vincent C. Byrd             39            17             Vice President - International               1989
+ K. Edwin Dountz             52            18             Vice President - Sales                       1982
+ Fred A. Duncan              48            16             Vice President - Procurement and             1984
+                                                            Technical Services
+ Charles A. Laine            58            29             Vice President - Consumer Marketing          1984
+ R. Alan McFalls             49            17             Vice President - Corporate Development
+                                                            and Planning                               1988
+ John D. Milliken            49            20             Vice President - Customer Logistics          1981
+ Robert R. Morrison          59            33             Vice President - Operations                  1967
+ Vernon D. Netzly            64            38             Vice President - Industrial Market           1967
+ Steven J. Ellcessor         42             8             Secretary and General Counsel                1986
+ Richard G. Jirsa            48            19             Controller                                   1978
+ Philip P. Yuschak           55            18             Treasurer                                    1989
+</TABLE>
+
+
+
+
+
+                                    PART II
+
+
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER
+         MATTERS
+
+  The information pertaining to the market for the Company's Common Stock and
+other related shareholder information is hereby incorporated by reference from
+the Company's 1994 Annual Report to Shareholders under the caption "Stock Price
+Data" on page 9.
+<PAGE>   6
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+  Five year summaries of selected financial data for the Company and
+discussions of accounting changes which materially affect the comparability of
+the selected financial data are hereby incorporated by reference from the
+Company's 1994 Annual Report to Shareholders under the following captions and
+page numbers:  "Five Year Summary of Selected Financial Data" on page 9; Note
+E:  "Postretirement Benefits Other Than Pensions" on page 22; and Note G:
+"Income Taxes" on pages 24 and 25.
+
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+  Management's discussion and analysis of results of operations and financial
+condition, including a discussion of liquidity and capital resources, is hereby
+incorporated by reference from the Company's 1994 Annual Report to
+Shareholders, on pages 10 through 12.
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+  Consolidated financial statements of the Company at April 30, 1994, 1993, and
+1992 and for each of the three years in the period ended April 30, 1994, with
+the report of independent auditors and selected unaudited quarterly financial
+data, are hereby incorporated by reference from the Company's 1994 Annual
+Report to Shareholders on page 9 and pages 13 through 26, respectively.
+
+
+ITEM 9.  DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+  None.
+
+
+
+                                    PART III
+
+
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+  Information regarding directors and nominees for directorship is incorporated
+herein by reference from the Company's definitive Proxy Statement, dated July
+11, 1994, for the 1994 Annual Meeting of Shareholders on August 16, 1994, on
+pages 2 through 4, under the caption "Election of Directors."  For information
+concerning the Company's executive officers, see "Executive Officers of the
+Registrant" set forth in Part I hereof.
+
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+  Information regarding the compensation of directors and executive officers is
+incorporated by reference from the Company's definitive Proxy Statement, dated
+July 11, 1994, for the 1994 Annual Meeting of Shareholders on August 16, 1994
+under the following captions and page numbers: "Directors' Meetings and
+Compensation" on page 4, and "Executive Compensation" on pages 4 through 10.
+<PAGE>   7
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+  Information regarding security ownership of certain beneficial owners of all
+directors and nominees, of the named executive officers, and of directors and
+executive officers as a group, is hereby incorporated by reference from the
+Company's definitive Proxy Statement, dated July 11, 1994, for the 1994 Annual
+Meeting of Shareholders on August 16, 1994 on pages 12 and 13 under the caption
+"Ownership of Common Shares."
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+  Information regarding certain relationships and related transactions is
+hereby incorporated by reference from the Company's definitive Proxy Statement
+dated July 11, 1994, for the 1994 Annual Meeting of Shareholders on August 16,
+1994 under the following captions and page numbers: "Election of Directors" on
+pages 2 through 4.
+<PAGE>   8
+
+                                    PART IV
+
+
+
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a) 1, 2.   Financial Statements and Financial Statement Schedules
+
+            The index to Consolidated Financial Statements and Financial
+            Statement Schedules is included on page F-1 of this Report.
+
+       3.   Exhibits
+
+
+<TABLE>
+<CAPTION>
+Exhibit
+  No.                           Description                      
+- - ------   -------------------------------------------------------
+ <S>     <C>
+  3(a)   1991 Amended Articles of Incorporation incorporated by
+         reference to the 1992 Annual Report on Form 10-K.
+
+  3(b)   Amended Regulations incorporated by reference to the
+         1988 Annual Report on Form 10-K.
+
+  4(a)   Industrial Development Revenue Bond Project Agreement
+         dated as of December 1, 1986.  As permitted by Item
+         601(b)(4)(iii) of Regulation S-K, copies of this
+         instrument are not filed herewith; a copy will be
+         furnished to the Commission upon request.
+
+  4(b)   Promissory Note between The J. M. Smucker Company and
+         First of America Bank - Central dated as of March 15,
+         1993.  As permitted by Item 601(b)(4)(iii) of Regulation
+         S-K, copies of this instrument are not filed herewith;
+         a copy will be furnished to the Commission upon request.
+
+ 10(a)   Amended Restricted Stock Bonus Plan, as amended.
+
+ 10(b)   Top Management Supplemental Retirement Benefit Plan, as
+         amended and restated.
+
+ 10(c)   1987 Stock Option Plan, as amended.
+
+ 10(d)   Management Incentive Plan
+
+ 13      Excerpts from 1994 Annual Report to Shareholders
+
+ 22      Subsidiaries of the Registrant
+
+ 23      Consent of Independent Auditors
+
+ 24      Power of Attorney
+
+<FN>
+All other required exhibits are either inapplicable to the Company
+or require no answer.
+</TABLE>
+<PAGE>   9
+
+        Copies of exhibits are not attached hereto, but the Company will 
+        furnish any of the foregoing exhibits to any shareholder upon written 
+        request.  Please address inquiries to:  The J. M. Smucker Company, 
+        Strawberry Lane, Orrville, Ohio 44667, Attention:  Steven J. Ellcessor, 
+        Secretary.  A fee of $1 per page will be charged to help defray the 
+        cost of handling, copying, and return postage.
+
+
+
+(b) Reports on Form 8-K filed in the Fourth Quarter of 1994.
+
+    On April 15, 1994, the Company filed a Current Report on Form 8-K with the
+    Securities and Exchange Commission reporting that the Company was acquiring
+    the "MRS. SMITH'S" frozen pie business from Mrs. Smith's Frozen Foods Co.,
+    a wholly owned subsidiary of Kellogg Company.
+
+    On June 13, 1994, the Company amended its April 15, 1994 Form 8-K filing to
+    include both audited financial statements and proforma information as
+    required under item 7(a) and 7(b) of Form 8-K.
+
+(c) The response to this portion of Item 14 is submitted as a separate section
+    of this report.
+
+(d) The response to this portion of Item 14 is submitted as a separate section
+    of this report.
+<PAGE>   10
+
+                                   SIGNATURES
+
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this Form 10-K Report to
+be signed on its behalf by the undersigned, thereunto duly authorized.
+
+Date:  July 15, 1994
+                                        The J. M. Smucker Company
+
+
+                                        By ___________________________________
+                                           Steven J. Ellcessor, Secretary
+
+
+  Pursuant to the requirements of the Securities Exchange Act of 1934, as
+amended, this Report on Form 10-K has been signed below by the following
+persons on behalf of the Registrant and in the capacities and on the date
+indicated.
+
+
+<TABLE>
+<S>                                          <C>
+_______________________________              Chairman of the Executive Committee and Director
+      Paul H. Smucker                        (Principal Executive Officer)
+
+_______________________________              Chairman and Director
+         Tim Smucker                         (Principal Executive Officer)
+
+_______________________________              President and Director
+      Richard K. Smucker                     (Principal Executive Officer)
+                                             (Principal Financial Officer)
+
+_______________________________              Controller
+      Richard G. Jirsa                       (Principal Accounting Officer)
+
+_______________________________              Director
+       Lena C. Bailey
+
+_______________________________              Director
+    William P. Boyle, Jr.
+
+_______________________________              Director         By _______________________________
+      Russell G. Mawby                                           Steven J. Ellcessor
+                                                                 Attorney-in-Fact
+_______________________________              Director
+    Charles S. Mechem, Jr.                                    Date:  July 15, 1994
+
+_______________________________              Director
+      Robert R. Morrison
+
+_______________________________              Director
+       Vernon D. Netzly
+
+_______________________________              Director
+    Benjamin B. Tregoe, Jr.
+
+_______________________________              Director
+       Barbara Trueman
+
+_______________________________              Director
+     William Wrigley, Jr.
+</TABLE>
+<PAGE>   11
+<TABLE>
+
+                                                                 
+                                                     THE J. M. SMUCKER COMPANY
+                                                                 
+                                                    ANNUAL REPORT ON FORM 10-K
+                                                                 
+                                                ITEMS 14(A)(1) AND (2), (C) AND (D)
+                                                                 
+                                  INDEX TO FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULES
+                                                                 
+                                                         CERTAIN EXHIBITS
+
+                                                   FINANCIAL STATEMENT SCHEDULES
+
+<CAPTION>
+                                                                       Form       Annual
+                                                                       10-K      Report To
+                                                                      Report   Shareholders
+                                                                      ------   ------------
+<S>                                                                   <C>        <C>
+Data incorporated by reference from the 1994 Annual Report to
+  Shareholders of The J. M. Smucker Company:
+  Consolidated Balance Sheets at April 30, 1994 and 1993 . . . .                 14-15
+  For the years ended April 30, 1994, 1993, and 1992:
+    Statements of Consolidated Income  . . . . . . . . . . . . .                 13
+    Statements of Consolidated Cash Flows  . . . . . . . . . . .                 16
+    Statements of Consolidated Shareholders' Equity  . . . . . .                 17
+    Notes to Consolidated Financial Statements . . . . . . . . .                 19-26
+
+  Consolidated financial statement schedules at April 30, 1994,
+    or for the years ended April 30, 1994, 1993, and 1992:
+       V.  Property, plant, and equipment  . . . . . . . . . . .      F-2
+      VI.  Accumulated depreciation, depletion and amortization
+             of property, plant, and equipment . . . . . . . . .      F-3
+    VIII.  Valuation and qualifying accounts . . . . . . . . . .      F-4
+      IX.  Short-term borrowings . . . . . . . . . . . . . . . .      F-5
+       X.  Supplementary income statement information  . . . . .      F-6
+
+<FN>
+    All other schedules are omitted because they are not applicable or because
+the information required is included in the Consolidated Financial Statements
+or the notes thereto.
+</TABLE>
+
+
+
+
+
+                                      F-1
+<PAGE>   12
+<TABLE>
+
+
+                                                     THE J. M. SMUCKER COMPANY
+                                                                 
+                                            SCHEDULE V - PROPERTY, PLANT AND EQUIPMENT
+                                                                 
+                                             YEARS ENDED APRIL 30, 1994, 1993 AND 1992
+                                                                 
+                                                      (DOLLARS IN THOUSANDS)
+
+
+<CAPTION>
+                              Balance at                                                                        Balance at
+                              Beginning            Additions                                 Other                End of
+Classification                 of Year              at Cost           Retirements             (A)                  Year   
+- - --------------                ----------           ---------          -----------           --------            ----------
+<S>                           <C>                   <C>                 <C>                  <C>                  <C>
+Year Ended April 30, 1994:
+  Land and land improvements  $ 11,792              $   731             $   157              $ 1,167              $ 13,533
+  Buildings and fixtures        53,824                3,544                 642               11,636                68,362
+  Machinery and equipment       96,786               12,448               1,923               23,092               130,403
+  Construction in progress       4,502                1,984                 ---                  ---                 6,486
+                              --------              -------             -------              -------              --------
+
+Totals                        $166,904              $18,707             $ 2,722             $  35,895             $218,784
+- - ------                        ========              =======             =======             =========             ========
+
+Year Ended April 30, 1993:
+  Land and land improvements  $ 11,985              $   824             $   772              $  (245)             $ 11,792
+  Buildings and fixtures        47,191                7,244                 153                 (458)               53,824
+  Machinery and equipment       88,781               11,356               2,784                 (567)               96,786
+  Construction in progress       2,922                1,580                 ---                  ---                 4,502
+                              --------              -------             -------              -------              --------
+
+Totals                        $150,879              $21,004             $ 3,709             $ (1,270)             $166,904
+- - ------                        ========              =======             =======             =========             ========
+
+Year Ended April 30, 1992:
+  Land and land improvements  $ 10,473              $ 1,294             $    22              $   240              $ 11,985
+  Buildings and fixtures        45,233                2,531                 390                 (183)               47,191
+  Machinery and equipment       78,893               12,737               2,758                  (91)               88,781
+  Construction in progress       2,123                  799                 ---                  ---                 2,922
+                              --------              -------             -------              -------              --------
+
+Totals                        $136,722              $17,361             $ 3,170             $    (34)             $150,879
+- - ------                        ========              =======             =======             =========             ========
+
+
+<FN>
+(A) Includes acquisitions and effects of foreign currency translation adjustments.
+
+</TABLE>
+
+
+
+
+                                      F-2
+<PAGE>   13
+<TABLE>
+
+
+                                                     THE J. M. SMUCKER COMPANY
+                                                                 
+                                              SCHEDULE VI - ACCUMULATED DEPRECIATION
+                                                                 
+                                             YEARS ENDED APRIL 30, 1994, 1993 AND 1992
+                                                                 
+                                                      (DOLLARS IN THOUSANDS)
+                                                                 
+
+<CAPTION>
+                                                   Additions
+                              Balance at           Charged to                                                     Balance at
+                              Beginning            Costs and                                  Other                 End of
+Classification                  of Year            Expense (B)        Retirements              (A)                   Year   
+- - --------------                ----------          -----------         -----------            --------             ----------
+<S>                           <C>                   <C>                 <C>                  <C>                  <C>
+1994:
+  Land and land improvements  $  1,441              $   214             $     8              $    (1)             $  1,646
+  Buildings and fixtures        21,302                2,554                 363                    7                23,500
+  Machinery and equipment       47,835                9,971               1,656                  (18)               56,132
+                              --------              -------             -------             --------              --------
+
+Totals                        $ 70,578               $12,739             $ 2,027             $   (12)             $ 81,278
+- - ------                        ========               =======             =======             =======              ========
+
+1993:
+  Land and land improvements  $  1,797              $   192             $   544              $    (4)             $  1,441
+  Buildings and fixtures        19,239                2,201                  91                  (47)               21,302
+  Machinery and equipment       41,520                8,744               2,234                 (195)               47,835
+                              --------              -------             -------              -------              --------
+
+Totals                        $ 62,556               $11,137             $ 2,869             $  (246)             $ 70,578
+- - ------                        ========               =======             =======             =======              ========
+
+1992:
+  Land and land improvements  $  1,624              $   184             $    13              $     2              $  1,797
+  Buildings and fixtures        17,461                2,116                 373                   35                19,239
+  Machinery and equipment       34,728                8,453               1,628                  (33)               41,520
+                              --------              -------             -------              -------              --------
+
+Totals                        $ 53,813               $10,753             $ 2,014             $     4              $ 62,556
+- - ------                        ========               =======             =======             =======              ========
+
+
+<FN>
+(A) Includes effects of foreign currency translation adjustments.
+(B) The annual provisions for depreciation have been computed using the following rates:
+    land improvements, 2% to 20%; buildings and fixtures, 2 to 20%; machinery and
+    equipment, 5% to 33-1/3%.
+</TABLE>
+
+
+
+
+                                      F-3
+<PAGE>   14
+<TABLE>
+
+                                                                 
+                                                     THE J. M. SMUCKER COMPANY
+                                                                 
+                                         SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+                                                                 
+                                             YEARS ENDED APRIL 30, 1994, 1993 AND 1992
+                                                                 
+                                                      (DOLLARS IN THOUSANDS)
+                                                                 
+
+<CAPTION>
+                              Balance at           Charged to          Charged to            Deduc-             Balance at
+                              Beginning            Costs and             Other               tions                End of
+Classification                  of Year             Expenses            Accounts              (A)                 Period  
+- - --------------                ----------           ----------         -----------          --------             ----------
+<S>                           <C>                   <C>                 <C>                 <C>                  <C>
+1994:
+  Valuation allowance for
+    deferred tax assets       $  1,884              $   381             $   ---             $   ---              $  2,265
+  Allowance for
+  doubtful accounts                300                  201                 ---                  82                   419
+                              --------              -------             -------             -------              --------
+                              $  2,184              $   582             $   ---             $    82              $  2,684
+                              ========              =======             =======             =======              ========
+
+1993:
+  Valuation allowance for
+    deferred tax assets       $    ---              $ 1,884             $   ---             $   ---              $  1,884
+  Allowance for
+  doubtful accounts                696                  261                 ---                 657                   300
+                              --------              -------             -------             -------              --------
+                              $    696              $ 2,145             $   ---             $   657              $  2,184
+                              ========              =======             =======             =======              ========
+
+1992:
+  Allowance for
+  doubtful accounts           $    528              $   532             $   ---             $   364              $    696
+                              ========              =======             =======             =======              ========
+
+
+<FN>
+(A) Uncollectible accounts written off, net of recoveries.
+</TABLE>
+
+
+
+
+
+                                      F-4
+<PAGE>   15
+<TABLE>
+
+
+                                                     THE J. M. SMUCKER COMPANY
+                                                                 
+                                                SCHEDULE IX - SHORT-TERM BORROWINGS
+                                                                 
+                                             YEARS ENDED APRIL 30, 1994, 1993 AND 1992
+                                                                 
+                                                      (DOLLARS IN THOUSANDS)
+
+<CAPTION>
+                                                                        Maximum             Average               Wtd. Avg.
+                                                     Weighted            Amount              Amount               Interest
+                                Balance              Average           Outstanding         Outstanding              Rate
+                                at End              Interest             During              During                During
+Classification                  of Year               Rate             the Year             the Year              the Year 
+- - --------------                ----------            --------          -----------          -----------           ---------
+                                                                                               (A)                  (B)
+<S>                           <C>                   <C>                 <C>                 <C>                  <C>
+    1994:                     $    -0-              $   N/A             $57,906             $ 4,466              $   3.8%
+                              ========              =======             =======             =======              ========
+
+    1993:                     $    -0-              $   N/A             $   N/A             $   N/A              $    N/A
+                              ========              =======             =======             =======              ========
+
+    1992:                     $    -0-              $   N/A             $ 8,690             $ 1,104              $   5.6%
+                              ========              =======             =======             =======              ========
+
+
+<FN>
+(A) The average amount outstanding was computed on a daily basis.
+(B) The weighted average interest rate was the actual interest on
+    short-term debt divided by average short-term debt outstanding.
+
+</TABLE>
+
+
+
+
+                                      F-5
+<PAGE>   16
+<TABLE>
+
+                                                                 
+                                                     THE J. M. SMUCKER COMPANY
+                                                                 
+                                      SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+                                                                 
+                                             YEARS ENDED APRIL 30, 1994, 1993 AND 1992
+                                                                 
+                                                      (DOLLARS IN THOUSANDS)
+
+
+
+<S>                                                                                     <C>
+1994:
+
+   Maintenance and repairs                                                              $ 8,277
+                                                                                        =======
+                                                                                               
+   Advertising                                                                          $12,066
+                                                                                        =======
+                                                                                               
+1993:                                                                                          
+                                                                                               
+   Maintenance and repairs                                                              $ 8,211
+                                                                                        =======
+                                                                                               
+   Advertising                                                                          $11,080
+                                                                                        =======
+                                                                                               
+1992:                                                                                          
+                                                                                               
+   Maintenance and repairs                                                              $ 8,089
+                                                                                        =======
+                                                                                               
+   Advertising                                                                          $ 9,975
+                                                                                        =======
+                                                                                               
+                                                                                               
+
+<FN>
+Amounts for amortization of intangible assets, pre-
+operating costs and similar deferrals, taxes (other
+than payroll and income taxes), and royalties are not
+presented because those amounts were less than 1% of
+total sales.
+</TABLE>
+
+
+
+
+
+                                     F-6
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.A
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+                                                        Exhibit 10(a)
+
+                           THE J. M. SMUCKER COMPANY
+
+                  RESTRICTED STOCK BONUS PLAN AS AMENDED AS TO
+
+               148,600 CLASS A AND 148,600 CLASS B COMMON SHARES
+
+                                AUGUST 28, 1991
+
+              [The Restricted Stock Bonus Plan as Amended (the "Plan") amends
+and combines the Restricted Stock Bonus Plan as to 25,000 Common Shares [Sixth
+Year End Lapse] dated August 15, 1979 and the Restricted Stock Bonus Plan as to
+50,000 Common Shares [Sixth-Tenth Year End Lapses] dated August 15, 1979 (the
+"Original Plans").  The terms of the Plan apply to all shares awarded to date
+under the Original Plans as well as to those awarded hereafter under the Plan.]
+
+              1.  PURPOSE.  The purpose of the Plan is to provide a means for
+the Company to make awards to key employees of the Company and of its
+affiliates, including officers and directors who are employees, of restricted
+stock bonuses of Common Shares of the Company, thereby giving these employees
+an interest in the Company's business, an additional incentive to work for its
+continued success, and a further reason to remain in the employ of the Company
+or of its affiliates.  The term "affiliates" where used in the Plan means
+subsidiary corporations as defined in Section 425 of the Internal Revenue Code
+of 1986, as amended (the "Code").
+
+              2.  ADMINISTRATION.  The Plan shall be administered by the
+Executive Compensation Committee of the Board of Directors of the Company (the
+"Committee").  The Committee shall have full power and authority to construe
+and interpret the provisions and to supervise the administration of the Plan,
+and all decisions and designations made by the Committee pursuant to the
+provisions of the Plan shall be final.
+
+              3.  DESIGNATION OF EMPLOYEES TO PARTICIPATE IN THE PLAN. The
+employees to whom restricted stock bonuses are awarded (the "Recipients") shall
+be designated, from time to time, by the Committee.  A restricted stock bonus
+may be awarded to any full-time, salaried, key employee of the Company or of an
+affiliate.
+
+              4.  NUMBER OF SHARES SUBJECT TO THE PLAN.  The aggregate number
+of Common Shares that may be awarded as restricted stock bonuses under the Plan
+shall not exceed 148,600 Class A Shares and 148,600 Class B Shares.  The Common
+Shares to be awarded under the Plan shall be the Company's authorized Common
+Shares, without par value, and may be unissued shares or treasury shares as the
+Committee, with the concurrence of the Board of Directors of the Company, may
+from time to time determine.  To the extent the Company shall reacquire
+<PAGE>   2
+Common Shares for such purposes, the shares may be reacquired at the time
+restricted stock bonus awards are made, or from time to time in advance,
+whenever the Board of Directors of the Company may deem the purchase advisable.
+If any Common Shares subject to the Restrictions provided in Paragraph 5 below
+are forfeited to the Company, those Common Shares shall not again be available
+for the award of restricted stock bonuses under the Plan unless the Recipient
+of those Common Shares did not at any time prior to the forfeiture receive the
+benefits of the ownership thereof (other than the right to vote them).
+
+              5.  NATURE OF RESTRICTIONS.  The stock bonus shares involved in
+each award will be subject to a restriction (the "Restriction") providing that:
+
+                      (a)  Subject to the provisions of Paragraph 7 below with
+              respect to earlier release of the Restriction, (i) the shares
+              shall be forfeited to the Company in the event the Recipient of
+              the award terminates full-time employment with the Company before
+              the fourth anniversary of the award, unless the termination is by
+              reason of disability, death, or retirement (with the prior
+              express approval of the Committee) after the Recipient has
+              attained 60 years of age, in each of which events the Restriction
+              will lapse immediately or at such other time or times as the
+              Committee shall determine; (ii) during the period when the
+              Restriction is applicable to the shares, the shares shall not be
+              transferable by the Recipient except by way of gift; and (iii)
+              any shares so transferred shall, in the hands of any transferee,
+              remain subject to the Restriction to the same extent as if the
+              shares had remained in the hands of the Recipient.
+
+                      (b)  Share certificates representing shares subject to
+              the Restriction shall bear a legend identifying the Restriction.
+
+                      (c) Any Common Shares of the Company, of whatever class,
+              issued on or with respect to stock bonus shares awarded under the
+              Plan, whether such issuance is pursuant to a stock distribution,
+              split, dividend, or otherwise, shall be subject to the
+              Restriction to the same extent and for the same period as the
+              stock bonus shares on or with respect to which they are so
+              issued.
+
+
+              6.  NOTICE OF RESTRICTED STOCK BONUS.  Promptly after the
+Committee awards a restricted stock bonus to a Recipient, the Committee shall
+cause the Recipient to be notified of the award.  The date on which the
+Committee approves the award of a restricted stock bonus shall be considered to
+be the date on which the restricted stock bonus is awarded unless the Committee
+designates a later date as the award date.
+<PAGE>   3
+              7.  ACCELERATION OF RELEASE OF RESTRICTIONS.  If a Recipient of
+an award (any of whose shares remain subject to the Restriction) (a) shall have
+received advice of a lease, sale, or other disposition of all or substantially
+all of the assets of the Company to other corporations, firms, or individuals
+or (b) shall have received advice of a merger, consolidation, combination [as
+defined in Section 1701.01(Q), Ohio Revised Code], or majority share
+acquisition [as defined in Section 1701.01(R), Ohio Revised Code] involving the
+Company and as a result of which the holders of shares of the Company prior to
+the transaction become, by reason of the transaction, the holders of such
+number of shares of the surviving or acquiring corporation as entitle them to
+exercise less than one-third of the voting power of the surviving or acquiring
+corporation in the election of directors, the Recipient shall in either such
+event have the right to require the Company (or the surviving or acquiring
+corporation), upon his or her written notice, to release the Restriction.
+
+              8.  RETURN OF CERTIFICATE.  In the event a Recipient forfeits
+shares to the Company pursuant to Paragraph 5 above, the Recipient shall
+deliver to the Company the certificate(s), in transferable form, evidencing the
+shares subject to the Restrictions.  The Company may, as a condition precedent
+to the delivery to the Recipient of share certificates evidencing restricted
+stock bonuses, require the Recipient to agree in writing to be bound by the
+provisions of the Plan, including the provisions of this paragraph 8.
+
+              9.  ASSIGNABILITY.  As provided in Paragraph 5 above, shares
+subject to the Restriction may not be transferred except by gift, and any
+shares so transferred shall, in the hands of any transferee, remain subject to
+the Restriction to the same extent as if the shares had remained in the hands
+of the Recipient.
+
+              10.  ADJUSTMENT UPON CHANGES IN SHARES.  In the event of any
+change in the Common Shares subject to the Plan, by reason of a merger,
+consolidation, reorganization, recapitalization, stock dividend, stock
+split-up, combination, or exchange of shares, or other change in the corporate
+structure of the Company, the aggregate number of Common Shares then subject to
+the Plan shall be appropriately adjusted by the Board of Directors.  The number
+of restricted stock bonus shares awarded to a Recipient shall be appropriately
+adjusted for any stock split-up effective, or share dividend distributed,
+subsequent to the date of award and prior to the issuance or transfer of shares
+pursuant to the award, and cash dividends payable after the date of the award
+but prior to the issuance or transfer of shares shall be payable to the
+Recipient.
+<PAGE>   4
+              11.  ACQUISITION FOR INVESTMENT.  Each employee receiving Common
+Shares hereunder may be required by the Company, in its sole discretion, to
+give a representation that he or she is acquiring the shares other than with a
+view to the distribution thereof.  The Company may release any investment
+representation obtained if it subsequently determines that the representation
+is no longer required to insure that a sale or other disposition of the shares
+would not involve a violation of the provisions of the Securities Act of 1933,
+as amended, or of applicable state blue sky laws.
+
+              12.  COMPLIANCE WITH SECURITIES LAWS AND EXCHANGE REQUIREMENTS.
+No award of a restricted stock bonus shall be made and no certificates for
+shares subject to the Restriction shall be issued or transferred until the
+Company shall have taken such action, if any, as is then required to comply
+with the provisions of the Securities Act of 1933, as amended, of the
+Securities Exchange Act of 1934, as amended, of the Ohio Securities Act, as
+amended, and of any other applicable state blue sky laws, and with the
+requirements of any exchange on which the Common Shares may, at the time, be
+listed.
+
+              13.  TERMINATION OR AMENDMENT OF THE PLAN.  The Board of
+Directors may terminate, modify, or suspend the Plan with respect to
+prospective awards, except that no modification shall, without shareholder
+approval, increase the maximum number of shares that may be awarded as
+restricted stock bonuses or modify the terms regarding the lapse of
+restrictions.
+
+              14.  TAX WITHHOLDING.  If the Company shall be required to
+withhold any federal, state, or local tax in connection with an award of shares
+under the Plan or upon the lapse of the restrictions provided in Paragraph 5,
+above, it shall be a condition to such award or lapse that the Recipient pay or
+make provision satisfactory to the Company for payment of all such taxes.  The
+Recipient may request that all or any part of such withholding requirement be
+satisfied by retention by the Company of a portion of the shares awarded or by
+surrender to the Company of a portion of the shares with regard to which the
+restrictions are lapsing, as applicable.  If such request is approved by the
+Committee, the shares so retained or surrendered shall be credited against such
+withholding requirement at the fair market value on the date of award or lapse,
+as the case may be.  The Recipient may also make similar arrangements with the
+Company with respect to the payment of taxes in excess of the withholding
+requirement.
+
+Program approved by shareholders 08/15/79.
+Original Plans adopted by Exec. Comp. Committee 04/22/81.
+Proposal to combine and amend approved by Board of Directors
+              10/27/87, and approved by shareholders 08/16/88.
+Amended 08/28/91.  Amended by Exec. Comp. Committee 04/21/92
+and 04/15/94.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.B
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+                                                        Exhibit 10(b)
+
+                           THE J. M. SMUCKER COMPANY
+              TOP MANAGEMENT SUPPLEMENTAL RETIREMENT BENEFIT PLAN
+                            MAY 1, 1994 RESTATEMENT
+
+           The J. M. Smucker Company Top Management Supplemental Retirement
+Benefit Plan established effective January 1, 1985, as amended, for the purpose
+of supplementing the retirement benefits of certain officers and other key
+management employees of The J. M. Smucker Company and its subsidiaries who are
+selected to participate in the Plan, is hereby amended and restated in its
+entirety, effective May 1, 1994.
+
+                                   ARTICLE I
+                                   ---------
+                                  DEFINITIONS
+                                  -----------
+
+           For the purposes hereof, the following words and phrases shall have
+the meanings indicated:
+
+           1.         The "Plan" means the supplemental retirement benefit plan
+as set forth herein, together with all amendments thereto, which Plan shall be
+called " The J. M. Smucker Company Top Management Supplemental Retirement
+Benefit Plan."
+
+           2.         The "Company" means The J. M. Smucker Company, an Ohio
+corporation, its corporate successors, and the surviving corporation resulting
+from any merger or consolidation of The J. M. Smucker Company with any other
+corporation or corporations.
+
+           3.         A "subsidiary" means any corporation 50% or more of the
+issued and outstanding voting stock of which is owned or controlled by the
+Company, directly or indirectly.
+
+
+
+
+
+<PAGE>   2
+           4.         An "Employer" means the Company and any subsidiary.
+
+           5.         A "Participant" means a key executive of the Company or
+of a subsidiary who is selected from time to time by the Board of Directors to
+participate in the Plan.  A Participant's selection and approval to participate
+in the Plan shall be evidenced in writing in the form of a contract between the
+Participant and the Company.
+
+           6.         The "Retirement Plan" means The J. M. Smucker Company
+Employees' Retirement Plan.
+
+           7.         The "final average monthly salary" of a Participant means
+the Participant's "average monthly base compensation" under the Retirement Plan
+but determined using the highest aggregate base compensation, incentive
+compensation, deferred compensation and bonuses received by the Participant
+during any 60 consecutive full calendar months within the period of 120
+consecutive full calendar months immediately prior to the earlier of his
+retirement or other termination of employment or the date of any termination of
+the Retirement Plan.
+
+           8.         A Participant's "normal retirement date" means the date
+on which he attains age 65.
+
+           9.         The "Social Security Offset Amount" of a Participant
+means his estimated monthly Primary Insurance Amount under the federal Social
+Security Act as in effect on the day immediately preceding the earlier of his
+retirement or other termination of employment or any termination of the Plan;
+moreover, if such event occurs before the Participant attains age 62, his
+estimated monthly Primary Insurance Amount shall be equal to the amount he
+would receive at age 62 on the
+
+
+
+
+
+                                       2
+<PAGE>   3
+assumption that from and after the date of his retirement or termination the
+Participant will receive no further compensation which is treated as wages for
+purposes of the Act.  Provided, however, if an Employee previously had retired
+due to permanent and total disability and was entitled to receive long-term
+disability benefits under any plan maintained by an Employer, computation of
+his monthly Primary Insurance Amount upon subsequent retirement under the Plan
+shall be based on the Act in effect on his date of disability retirement and on
+the assumption that from and after the date of his disability retirement, he
+had continued to receive compensation which was treated as wages for purposes
+of the Act at the rate of monthly compensation which was in effect immediately
+prior to the date of his disability retirement throughout any period during
+which he received Years of Service under the Plan on account of such disability
+retirement.  All estimates hereunder shall be made by the Company, upon the
+advice of an actuary, using standards of uniform and non-discriminatory
+application.
+
+           10.        A Participant's "monthly retirement benefit" under the
+Retirement Plan means the amount of monthly benefit commencing at normal
+retirement date to which he is entitled under the Retirement Plan expressed in
+the form of an annuity measured by the life of a Participant and calculated on
+the assumption that the Participant has contributed to the Retirement Plan for
+all periods of eligibility regardless of whether he did so contribute.
+
+           11.        The "Years of Service" of a Participant means the
+Participant's years of "benefit service" under the Retirement Plan but
+determined including any periods of employment after his normal retirement
+date.
+
+
+
+
+
+                                       3
+<PAGE>   4
+           Wherever used herein, the masculine pronoun shall include the
+feminine, the singular shall include the plural, and the plural shall include
+the singular.
+
+                                   ARTICLE II
+                                   ----------
+                        SUPPLEMENTAL RETIREMENT BENEFITS
+                        --------------------------------
+
+           1.         NORMAL RETIREMENT.  A Participant who retires from
+employment with his Employer on or after his normal retirement date, or who has
+left active employment prior to his normal retirement date under conditions of
+eligibility for a long-term disability benefit under any plan maintained by an
+Employer and is receiving long-term disability benefits on his normal
+retirement date, shall be eligible for a monthly supplemental normal retirement
+benefit in an amount equal to:
+
+           (a)        two and one-half percent of his final average monthly
+           salary multiplied by his Years of Service, not to exceed 20 
+           years,
+                                      less
+           (b)        100 percent of his Social Security Offset Amount,
+                                      less
+           (c)        the amount of his monthly retirement benefit under the
+           Retirement Plan.
+
+           A monthly supplemental normal retirement benefit shall be paid to an
+eligible Participant commencing as of the first day of the month following the
+month in which he retires and shall be payable monthly thereafter during his
+life, the last payment being for the month in which his death occurs.
+
+           Notwithstanding the foregoing, a Participant who is still employed
+by an Employer on the April 1 following the calendar year in which he attains
+age 70-1/2 shall commence
+
+
+
+
+
+                                       4
+<PAGE>   5
+receiving the monthly supplemental normal retirement benefit provided under
+this Section 1 of Article II as of the April 1 following the calendar year in
+which he attains age 70-1/2.
+
+           2.         EARLY RETIREMENT.  A Participant who retires from
+employment with his Employer at or after age 55, but prior to his normal
+retirement date, who has at least ten Years of Service, and who is not eligible
+for a short- or long-term disability benefit under any plan maintained by an
+Employer, shall be eligible for a monthly supplemental early retirement benefit
+in an amount determined at his early retirement in the same manner as provided
+for a monthly supplemental normal retirement benefit, except that the amount
+determined in (a) shall be reduced by one-third of one percent for each full
+month by which commencement of payment of the benefit precedes the month
+following the date on which the Participant attains age 62.  A monthly
+supplemental early retirement benefit shall be paid to an eligible Participant
+commencing as of the first day of the month following the month in which he
+retires and shall be payable monthly thereafter during his life, the last
+payment being for the month in which his death occurs.
+
+           3.         TERMINATION OF EMPLOYMENT.  The Plan is intended to
+provide benefits for career employees of an Employer.  Therefore, a Participant
+who terminates his employment with his Employer for any reason other than death
+and who is not eligible for any retirement benefit under the Plan or a short-
+or long-term disability benefit under any plan maintained by an Employer, shall
+not be eligible for any supplemental retirement benefit under the Plan, except
+that the Company may, in its discretion, determine that such a Participant, who
+has at least ten Years of Service, is eligible for a monthly supplemental
+deferred retirement benefit in an amount determined at his termination of
+
+
+
+
+
+                                       5
+<PAGE>   6
+employment in the same manner as provided for a monthly supplemental early
+retirement benefit.  A monthly supplemental deferred retirement benefit shall
+be paid to an eligible Participant commencing as of the first day of the month
+following the month in which he attains age 55 and shall be payable monthly
+thereafter during his life, the last payment being for the month in which his
+death occurs.
+
+           4.         JOINT AND SURVIVOR FORM OF PAYMENT.  A Participant who
+becomes eligible to receive a monthly supplemental retirement benefit and who
+is married at the time payment of his monthly supplemental retirement benefit
+commences shall receive payment of such benefit in the form of a qualified
+joint and survivor annuity that in the event of the Participant's death would
+provide a benefit to the Participant's surviving spouse equal to 50 percent of
+the benefit the Participant was receiving at the time of his death.  To receive
+a benefit under the qualified joint and survivor form of payment, a
+Participant's surviving spouse must be the same spouse to whom the Participant
+was married at the time payment of his monthly supplemental retirement benefit
+commenced.  The present value of the qualified joint and survivor annuity
+payable to a Participant hereunder shall be the actuarial equivalent of the
+present value of the benefit otherwise payable to him under the Plan.
+
+                                  ARTICLE III
+                                  -----------
+                               SURVIVOR BENEFITS
+                               -----------------
+
+           If a Participant who has at least ten Years of Service should die
+after his retirement or termination of employment but prior to the commencement
+of benefit payments under the Plan, and if the Participant had a surviving
+spouse as defined in the Retirement Plan, the surviving spouse shall be
+eligible for payments as if the Participant had effectively
+
+
+
+
+
+                                       6
+<PAGE>   7
+elected the 50 percent joint and survivor option described under the Retirement
+Plan and designated his spouse as his Contingent Annuitant, commencing at the
+earliest date that the Participant would have been eligible for payments if the
+Participant had survived.
+
+           If a Participant who has at least ten Years of Service should die
+prior to retirement or termination of employment, and if the Participant had a
+surviving spouse as defined in the Retirement Plan, the surviving spouse shall
+be eligible for payments as if the Employee had retired or terminated on the
+day before his death.
+
+                                   ARTICLE IV
+                                   ----------
+                               SPECIAL CREDITING
+                               -----------------
+
+           Employees who are Participants under the Plan as of its effective
+date of January 1, 1985 automatically will be credited with 20 Years of Service
+as of the date of retirement.
+
+                                   ARTICLE V
+                                   ---------
+                                 ADMINISTRATION
+                                 --------------
+
+           The Company shall be responsible for the administration of the Plan.
+The Company shall have all such powers as may be necessary to carry out the
+Plan, including the power to determine all questions relating to eligibility
+for and the amount of any benefit and all questions pertaining to claims for
+benefits and procedures for claim review; to resolve all other questions
+arising under the Plan, including any questions of construction; and to take
+such further action as the Company shall deem advisable in the administration
+of the Plan.  The actions taken and the decisions made by the Company hereunder
+shall be final and binding upon all interested parties.
+
+
+
+
+
+                                       7
+<PAGE>   8
+
+                                   ARTICLE VI
+                                   ---------- 
+                                    FUNDING
+                                    -------
+
+           Benefits under the Plan shall be paid out of the general assets of
+the Employers including any trust or fund created for that purpose.
+
+                                  ARTICLE VII
+                                  -----------
+                           AMENDMENT AND TERMINATION
+                           -------------------------
+
+           The Company reserves the right to amend or terminate the Plan at any
+time by action of its Board of Directors.  Notwithstanding any such action, the
+Company shall be obligated to pay any benefits already accrued to any
+Participant under the Plan at the date of amendment or termination of the Plan
+and to continue making payments in the amounts determined to any retired
+Participant or his beneficiary, and shall be obligated to pay benefits in
+amounts not less than the benefits to which a Participant or his beneficiary
+would be entitled hereunder upon retirement, death or other termination of
+employment at the time of such amendment or termination.  If a trust is being
+used to fund assets under the Plan and the Plan is terminated, any excess
+assets remaining in the trust after the full value of benefits already accrued
+to Participants under the Plan have been paid to such Participants or their
+beneficiaries shall revert to the Company.
+
+                                  ARTICLE VIII
+                                  ------------
+                                 MISCELLANEOUS
+                                 -------------
+
+           1.         NON-ALIENATION OF RETIREMENT RIGHTS OR BENEFITS.  Neither
+the Participant nor any beneficiary shall encumber or dispose of his right to
+receive any payments
+
+
+
+
+
+                                       8
+<PAGE>   9
+hereunder, which payments or the right thereto are expressly declared to be
+non-assignable and non-transferable.  If a Participant or beneficiary without
+the written consent of the Company attempts to assign, transfer, alienate or
+encumber his right to receive any payment hereunder, or permits the same to be
+subject to alienation, garnishment, attachment, execution or levy of any kind,
+then thereafter during the life of such Participant or of such beneficiary, as
+the case may be, and also during any period in which any Participant or
+beneficiary is incapable in the judgment of the Company of attending to his
+financial affairs, any payment which the Company is required to make hereunder
+may be made, in the discretion of the Company, directly to him or to such
+beneficiary or to any other person for his use or benefit or that of his
+dependents, if any, including any person furnishing goods or services to or for
+his use or benefit or the use of benefit of his  dependents, if any.  Each such
+payment may be made without the intervention of a guardian, the receipt of the
+payee shall constitute a complete acquittance to the Company with respect
+thereto, and the Company shall have no responsibility for the proper
+application thereof.
+
+           2.         NO EMPLOYMENT GUARANTEED.  Nothing herein contained shall
+be construed as a commitment or agreement on the part of any person employed by
+the Company or any subsidiary to continue his employment with the Company or
+any subsidiary, and nothing herein contained shall be construed as a commitment
+on the part of the Company or any subsidiary to continue the employment or the
+annual salary rate of any such person for any period, and all Participants
+shall remain subject to discharge to the same extent as if the Plan was never
+put into effect.
+
+           3.         INTEREST OF PARTICIPANT.  The obligation of the Company
+under the Plan to provide the Participant with
+
+
+
+
+
+                                       9
+<PAGE>   10
+benefits hereunder merely constitutes the unsecured promise of the Company to
+make payments as provided herein, and the Participant shall have no interest
+in, and no lien or prior claim upon, any property of the Company or of any
+subsidiary.
+
+           4.         CLAIMS OF OTHER PERSONS.  The provisions of the Plan
+shall in no event be construed as giving any person, firm or corporation, any
+legal or equitable rights as against the Company, its officers, employees, or
+directors, except any such rights as are specifically provided for in the Plan
+or are hereafter created in accordance with the terms of the Plan.
+
+           5.         NO COMPETITION.  The right of any Participant, surviving
+spouse, or other beneficiary to a supplemental retirement benefit under the
+Plan will be terminated, or, if payment thereof has begun, all further payments
+will be discontinued and forfeited, in the event the Participant (i) at any
+time wrongfully discloses any secret process or trade secret of the Company or
+any of its subsidiaries, or (ii) engages, either directly or indirectly, as an
+officer, trustee, employee, consultant, partner, or substantial shareholder, on
+his own account or in any other capacity, in a business venture within the
+ten-year period following his retirement or termination of employment that the
+Company's Board of Directors reasonably determines to be competitive with the
+Company to a degree materially contrary to the Company's best interest.
+
+           6.         SEVERABILITY.  The invalidity or unenforceability of any
+particular provision of the Plan shall not affect any other provision hereof,
+and the Plan shall be construed in all respects as if such invalid or
+unenforceable provision were omitted herefrom.
+
+
+
+
+
+                                       10
+<PAGE>   11
+           7.         GOVERNING LAW.  The Plan shall be governed by and
+construed in accordance with the laws of the State of
+Ohio.
+
+           8.         SUCCESSORS AND ASSIGNS.  The Plan and the obligations
+created hereunder shall be binding upon the Company and its successors and
+assigns.
+
+           9.         DISHONEST CONDUCT OF A PARTICIPANT.  Notwithstanding
+anything to the contrary contained in the Plan, if a Participant's employment
+with an Employer is terminated because the Company determines the Participant
+(i) engaged in dishonest or fraudulent acts against an Employer, (ii) willfully
+injured property of an Employer, (iii) conspired against an Employer, or (iv)
+disclosed confidential information concerning an Employer, then no supplemental
+retirement benefit shall be payable to the Participant or his surviving spouse
+under the Plan.
+
+           EXECUTED at Orrville, Ohio, this first day of May, 1994.
+
+
+                                      The J. M. Smucker Company
+
+                                        
+                                          /s/ Richard K. Smucker
+                                      By  ------------------------
+                                          Title: President
+
+
+                                          /s/ Steven J. Ellcessor
+                                      And ------------------------
+                                          Title: Secretary
+
+
+
+
+
+                                       11
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.C
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+                                                        Exhibit 10(c)
+
+                           THE J. M. SMUCKER COMPANY
+
+                             1987 STOCK OPTION PLAN
+                                  (as amended)
+
+
+     1.      The total number of shares which may be issued and sold
+under options granted pursuant to this Stock Option Plan shall not exceed
+1,600,000 of the Company's Class A Common Shares and 1,600,000 of the Company's
+Class B Common Shares, except to the extent of adjustments authorized by the
+last sentence of Paragraph 5 of this Stock Option Plan.  Such shares may be
+treasury shares or shares of original issue or a combination of the foregoing.
+
+     2.       The Board of Directors of the Company may, from time to time and
+upon such terms and conditions as it may determine, authorize the granting to
+officers (including officers who are members of the Board of Directors) and to
+other key employees of the Company or any of its subsidiaries of options to buy
+from the Company Common Shares and may fix the number of shares to be covered
+by each such option.  Successive options may be granted to the same person
+whether or not the option or options first granted to such person remain
+unexercised.
+
+     3.       Options granted under this Stock Option Plan may be (i) options
+which are intended to qualify under particular provisions of the Internal
+Revenue Code, as in effect from time to time, (ii) options which are not
+intended so to qualify under the Internal Revenue Code, or (iii) combinations
+of the foregoing.  No option shall run for more than ten years and one day from
+the date granted.  No option shall be transferable by the optionee otherwise
+than by will or the laws of descent and distribution.  Options shall be
+exercisable during the optionee's lifetime only by him or her or, if the option
+is not intended to qualify as an "incentive stock option" by his or her
+guardian or legal representative.
+
+     4.       The option price shall not be less than the fair market value of
+the shares covered by the option at the time the option is granted.  The option
+price shall be payable (a) in cash or by check acceptable to the Company, (b)
+at the discretion of the Board of Directors, by the transfer to the Company by
+the optionee of Common Shares owned by the optionee for at least six months and
+having a value at the time of exercise equal to the total option price, or (c)
+by a combination of such methods of payment.
+
+     5.       The Board of Directors may make or provide for such adjustments
+in the option price and in the number or kind of Common Shares or other
+securities covered by outstanding
+
+
+
+
+
+                                       
+<PAGE>   2
+
+
+
+options as it in its sole discretion, exercised in good faith, may determine is
+equitably required to prevent dilution or enlargement of the rights of
+optionees that would otherwise result from (a) any stock dividend, stock split,
+combination of shares, recapitalization, or other change in the capital
+structure of the Company, or (b) any merger, consolidation, separation,
+reorganization, partial or complete liquidation, or issuance of rights or
+warrants to purchase stock, or (c) any other corporate transaction or event
+having an effect similar to any of the foregoing.  Specifically, but without
+limitation, where any transaction or event referred to herein would result in a
+change in the control of the Company, the Board of Directors, in its
+discretion, may provide in substitution for unexercised options then
+outstanding such alternative options or other consideration as it, in good
+faith, may determine to be equitable in the circumstances and may require in
+connection therewith the surrender of all such unexercised options.  The Board
+of Directors may also make or provide for such adjustments in the number or
+kind of Common Shares or other securities which may be sold under this Stock
+Option Plan as it in its sole discretion, exercised in good faith, may
+determine is appropriate to reflect any transaction or event described in the
+preceding sentence.
+
+     6.       The form of each Stock Option Agreement shall be prescribed, and
+any Stock Option Agreement evidencing an outstanding option may with the
+concurrence of the affected optionee be amended, by the Board of Directors,
+provided that the terms and conditions of each such Stock Option Agreement and
+amendment are not inconsistent with this Stock Option Plan.
+
+     7.       The Board of Directors may, with the concurrence of the affected
+optionee, cancel any option granted under this Stock Option Plan.  In the event
+of any such cancellation, the Board of Directors may authorize the granting of
+new options (which may or may not cover the same number of shares that had been
+the subject of any prior option) in such manner, at such option price and
+subject to the same terms, conditions, and discretions as, under this Stock
+Option Plan, would have been applicable had the cancelled options not been
+granted.
+
+     8.       This Stock Option Plan shall be administered by the Board of
+Directors which may from time to time delegate all or any part of its authority
+under this Stock Option Plan to a committee of the Board composed of not less
+than three directors.  The members of the committee shall not be eligible, and
+shall not have been eligible for a period of at least one year prior to their
+appointment, to participate in this Stock Option Plan or in any other plan of
+the Company or any affiliate entitling the participants therein to acquire
+
+                                       2
+
+
+
+
+
+<PAGE>   3
+
+stock, stock options, or stock appreciation rights where such participation
+would cause that member not to be a "disinterested person" for purposes of Rule
+16b-3 of the Securities and Exchange Commission (or any successor rule to the
+same effect).  To the extent of such delegation, references in this Stock
+Option Plan to the Board of Directors shall also refer to the committee.  The
+majority of the committee shall constitute a quorum, and the action of a
+majority of the members of the committee present at any meeting at which a
+quorum is present, or acts unanimously approved in writing, shall be the acts
+of the committee.
+
+     9.       This Stock Option Plan may be amended from time to time by the
+Board of Directors but without further approval by the shareholders of the
+Company no such amendment shall increase the aggregate number of Common Shares
+that may be issued and sold under this Stock Option Plan (except that
+adjustments authorized by the last sentence of Paragraph 5 shall not be limited
+by this provision) or change the designation in Paragraph 2 of the class of
+employees eligible to receive options or cause Rule 16b-3 of the Securities and
+Exchange Commission (or any successor rule to the same effect) to cease to be
+applicable to this Stock Option Plan.
+
+     10.      If the Company shall be required to withhold any federal, state,
+or local tax in connection the exercise of an option granted under this Stock
+Option Plan, it shall be a condition to such exercise that the optionee pay or
+make provision satisfactory to the Company for payment of all such taxes.  The
+optionee may request that all or any part of such withholding requirement be
+satisfied by retention by the Company of a portion of the shares purchased upon
+exercise of such option.  If such request is approved by the Board of
+Directors, the shares so retained shall be credited against such withholding
+requirement at the fair market value on the date of exercise.  The optionee may
+also make similar arrangements with the Company with respect to the payment of
+taxes in excess of the withholding requirement.
+
+
+
+
+
+Amended 08/28/91
+Amended by Executive Compensation Committee 04/21/92
+Amended by Executive Compensation Committee 04/15/94
+
+                                       3
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.D
+<SEQUENCE>5
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+                                                        Exhibit 10(d)
+
+                           MANAGEMENT INCENTIVE PLAN
+                           -------------------------
+
+Description  
+- - -----------
+
+This plan is designed to recognize key management members based on
+their individual performance beyond regular job requirements and their
+contribution to the overall achievement of our Company objectives.  The intent
+is to reward key contributors who have an impact on the profit decisions of our
+Company.  It is also the intent of the Plan to incorporate a high degree of
+incentive to attain both Company and individual goals and to base distribution
+on a multiple of salary range midpoint, rather than actual participant's
+salary.
+
+Outline
+- - -------
+
+- - -      A standard or target award is set for each participant (based
+       on a percentage of the participant's salary range midpoint).
+
+- - -      Actual award is limited to 175% of the participant's standard
+       award.
+
+- - -      The recommended award is determined by the Executive Committee
+       and approved by the Executive Compensation Committee. The recommended 
+       award is based on individual performance and time in the Plan.  
+       
+- - -      Awards are made on a cash basis.
+
+Criteria for Participation
+- - --------------------------
+
+- - -      Key member of management team.
+
+- - -      Grade 49 and above.
+
+- - -      No more than two levels from a member of the Executive Committee.
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>6
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+<TABLE>
+                                                                                                                Exhibit 13
+Five Year Summary of Selected Financial Data
+<S>                                           <C>             <C>             <C>             <C>            <C>
+- - ---------------------------------------------------------------------------------------------------------------------------
+Year Ended April 30,                            1994            1993            1992            1991            1990
+- - ---------------------------------------------------------------------------------------------------------------------------
+                                                (Dollars in thousands, except per share data)
+- - ---------------------------------------------------------------------------------------------------------------------------
+Statement of Income:
+  Net sales                                     $511,525        $491,309        $483,472        $454,976        $422,357
+  Income before cumulative effect
+   of change in accounting method                 30,498          37,399          34,118          31,744          30,177
+  Net income                                      30,498          32,945          34,118          31,744          30,177
+- - ---------------------------------------------------------------------------------------------------------------------------
+Financial Position:
+  Long-term debt                                  48,558             887           3,827           4,267           4,277
+  Total assets                                   378,641         294,811         277,768         252,429         224,840
+- - ---------------------------------------------------------------------------------------------------------------------------
+Other Data:
+Per Common Share:
+  Income before cumulative effect
+   of change in accounting method                   1.05            1.27            1.16            1.07            1.03
+  Net income                                        1.05            1.12            1.16            1.07            1.03
+Dividends declared per Common Share:
+  Class A                                            .47             .43             .39             .35             .28
+  Class B                                            .47             .43             .39             .35             .28
+- - ---------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+<TABLE>
+Summary of Quarterly Results of Operations
+
+The following is a summary of unaudited quarterly results of operations for the years
+ended April 30, 1994 and 1993.  Results of 1993 reflect the adoption of the provisions
+of Statement of Financial Accounting Standards No. 106, "Employers' Accounting for
+Postretirement Benefits Other Than Pensions" (SFAS 106), retroactive to May 1, 1992.
+
+                                                                                                        Income per Common Share
+                                                                                                  -----------------------------
+                                                                       Income Before              Before Cumulative
+                                                                      Cumulative Effect            Effect of Change
+         Quarter          Net                    Gross                  of Change in       Net       in Accounting       Net
+          Ended          Sales                   Profit               Accounting Method  Income         Method          Income
+<S>                   <C>                     <C>                     <C>            <C>             <C>             <C>
+- - -------------------------------------------------------------------------------------------------------------------------------
+1994    July 31         $118,255                $ 43,876                $ 8,907         $ 8,907         $ .31           $ .31
+        October 31       138,426                  49,940                 10,422          10,422           .35             .35
+        January 31       120,616                  43,662                  7,387           7,387           .26             .26
+        April 30         134,228                  47,992                  3,782           3,782 (1)       .13             .13 (1)
+- - -------------------------------------------------------------------------------------------------------------------------------
+1993    July 31         $124,781                $ 43,427                $ 9,513         $ 5,059         $ .32           $ .17
+        October 31       133,864                  47,312                 10,262          10,262           .35             .35
+        January 31       110,367                  40,559                  7,297           7,297           .25             .25
+        April 30         122,297                  46,081                 10,327          10,327           .35             .35
+- - -------------------------------------------------------------------------------------------------------------------------------
+
+<FN>
+(1) Includes charge of $2.3 million ($.08 per share) relating to the write-off of goodwill associated with a foreign subsidiary.
+</TABLE>
+<PAGE>   2
+<TABLE>
+                                                                                                                Exhibit 13
+Stock Price Data
+
+The Company's Class A and Class B Common Shares are listed on the New York Stock
+Exchange--ticker symbols SJMA and SJMB, respectively.  The table below presents the
+high and low market prices for the shares and the quarterly dividends declared.  The
+number of Class A and Class B shareholders of record as of June 24, 1994, was 7,159
+and 5,308, respectively.
+
+
+                        Class A Common Shares                                           Class B Common Shares
+- - ------------------------------------------------------------------------------------------------------------------------------
+       Quarter Ended     High            Low          Dividends       Quarter Ended      High             Low        Dividends
+- - ------------------------------------------------------------------------------------------------------------------------------
+<S>     <C>             <C>             <C>             <C>             <C>             <C>             <C>             <C>
+1994    July 31         $27.00          $21.50          $ .115          July 31         $24.625         $20.00          $ .115
+        October 31       25.25           20.50            .115          October 31       23.125          19.375           .115
+        January 31       25.50           20.75            .115          January 31       23.00           20.125           .115
+        April 30         25.50           21.75            .125          April 30         22.75           21.25            .125
+- - ------------------------------------------------------------------------------------------------------------------------------
+1993    July 31         $30.875         $25.00          $ .105          July 31         $28.25          $22.875         $ .105
+        October 31       31.00           26.75            .105          October 31       29.00           25.625           .105
+        January 31       32.875          26.625           .105          January 31       29.00           24.625           .105
+        April 30         29.00           23.875           .115          April 30         27.25           22.75            .115
+- - ------------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+<PAGE>   3
+                                                                      Exhibit 13
+REPORT OF INDEPENDENT AUDITORS
+
+Board of Directors and Shareholders
+The J. M. Smucker Company
+
+
+We have audited the accompanying consolidated balance sheets of The J. M.
+Smucker Company as of April 30, 1994 and 1993, and the related consolidated
+statements of income, shareholders' equity and cash flows for each of the three
+years in the period ended April 30, 1994.  These financial statements are the
+responsibility of the Company's management.  Our responsibility is to express
+an opinion on these financial statements based on our audits.
+  We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+  In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the consolidated financial position
+of The J. M.  Smucker Company at April 30, 1994 and 1993, and the consolidated
+results of its operations and its cash flows for each of the three years in the
+period ended April 30, 1994, in conformity with generally accepted accounting
+principles.
+  As discussed in Notes E and G to the consolidated financial statements, in
+1993 the Company changed its methods of accounting for income taxes and
+postretirement benefits other than pensions.
+
+
+/s/  ERNST & YOUNG
+
+Akron, Ohio
+June 8, 1994
+<PAGE>   4
+
+Management's Discussion and Analysis
+
+Results of Operations
+
+Comparison of 1994 with 1993
+
+The Company posted record sales in 1994 of $511,525,000, an increase of 4% over
+the 1993 level of $491,309,000.  The inclusion of results from Canada Group
+East and "Mrs. Smith's" since their respective dates of acquisition accounted
+for the growth.
+
+Total dollar sales within the Consumer business area were down slightly from
+last year.  The most significant decline was in the price-competitive,
+warehouse club store market where the recent consolidations among the major
+chains in the market have resulted in a loss of previous distribution.  Within
+the grocery market, volume declines in traditional fruitspreads and peanut
+butter were somewhat offset by modest price increases on assorted items and
+increased tonnage of "Simply Fruit" and "Low Sugar" fruitspreads, and dessert
+toppings.  The growth in the toppings area was primarily due to the successful
+introduction of "Sundae Syrups" in various regions throughout the United
+States.  In the Company's beverage business, the recent introduction of
+"Smucker Coolers" in the second half of the year helped build momentum and
+permitted the beverage business to realize a modest increase over last year.
+
+Sales within the International area were up nearly 50% over last year despite
+the negative impact of foreign exchange rates.  Had exchange rates remained
+constant with fiscal 1993, sales would have been approximately 6% higher.  All
+of the increase in the International area occurred in the Canadian market as a
+result of expanding the pre-acquisition Canadian business, now known as Canada
+Group West, along with the previously mentioned Group East acquisition.  The
+Latin American market more than doubled sales as the Company continued its
+effort to develop the "Smucker" fruitspread business in Mexico and other Latin
+America markets.  In the Australasian market, overall volume was down from last
+year due to a poor apricot crop, which impacted fruit sales in the foodservice
+and commercial markets, and to management's decision to phase out low emphasis
+products.  The business in Elsenham, England continues to fall short of
+management's expectations, and the Company will continue to explore
+alternatives for improvement during fiscal 1995.
+<PAGE>   5
+
+In the Industrial business area, sales of formulated fruit products to other
+consumer products companies realized another year of growth as the introduction
+of several new products and the addition of new customers helped to broaden the
+base of the formulated market.  Overall Industrial sales were down a modest 2%
+as a result of the Company's decision to eliminate certain unprofitable frozen
+fruit product lines.
+
+The Company's Foodservice business, which services restaurants, hotels, and
+other institutional customers, experienced another good year with volume growth
+in the core business items of portion control and traditional fruitspreads.
+
+In the Specialty Foods area, the smallest of the Company's business areas,
+intense price competition and an overall decline in demand for gift items
+resulted in a decrease in sales of 8% from the previous year.
+
+Net income for 1994 was $30,498,000 or $1.05 per share compared to last year's
+$32,945,000 or $1.12 per share (after recognizing the impact of the accounting
+change for postretirement benefits).  The majority of the year-to-year
+shortfall was attributed to two items - significant introductory advertising
+expenditures in April for "Mrs. Smith's" new "SmartStyle" line of
+thaw-and-serve desserts, and a decision by the Company to write off the
+remaining $2,326,000 of goodwill associated with the Company's purchase of its
+Elsenham Quality Foods Ltd. subsidiary in England.
+
+The Company's gross profit was up slightly as a percentage of sales over last
+fiscal year.  Excluding the impact of the Company's two acquisitions, which
+operated at lower profit margins than the Company's average, the gross profit
+of the existing business realized approximately a one percent increase in the
+profit margin percentage.
+
+Selling, distribution, and administrative costs increased at a greater rate
+than sales, mostly due to increased spending in the marketing area.  As
+mentioned above, the Company chose to execute an advertising program supporting
+the introduction of the "SmartStyle" frozen dessert line.  This program had
+been planned prior to the purchase date.  Additional marketing expenses were
+incurred in support of the introduction of two new "Smucker" products, "Sundae
+Syrups" and "Super Spreaders".  The write-off of the Elsenham goodwill also
+contributed to the overall increase in costs.
+<PAGE>   6
+
+The use of cash to partially finance the Company's acquisitions resulted in
+lower balances for investing purposes.  As a result, interest income was down
+compared to prior year.  The impact of lower interest rates throughout most of
+the year also contributed.  Interest expense increased as a result of the debt
+financing associated with the "Mrs. Smith's" acquisition and a reduction in the
+amount of capitalized interest.  The borrowed amount was $48,048,000 at April
+30, 1994.
+
+The Company's effective tax rate increased to 42.2% from 39.2% in 1993 due to
+an increase in the federal statutory tax rate and an increase in items that are
+not deductible for tax purposes, notably, the write-off of the Elsenham
+goodwill.
+<PAGE>   7
+
+Comparison of 1993 with 1992
+
+
+During 1993 net sales increased $7,837,000 or approximately 2% over 1992.
+Although this growth rate was somewhat below recent years, earnings increased
+10% over fiscal 1992 before the cumulative effect of adopting SFAS 106.
+
+Volume growth in the Industrial, Specialty Foods, and Foodservice strategic
+business areas accounted for the sales increase.  Within the Industrial area,
+strong sales of fruit-based ingredients to other consumer products companies
+were responsible for the growth, continuing last year's trend.  The Specialty
+Foods area realized the largest percentage increase in sales of any business
+area as the Company continued to focus on expanding branded products within
+this segment.  Volume gains in portion control, fruit spread, and dessert
+topping items contributed to the growth in Foodservice.
+
+Total sales in the Consumer area were essentially flat during the year as
+overall fruitspread volume remained constant with 1992 levels, despite share of
+market gains.  Within the grocery market, sales of the Company's "Simply Fruit"
+product rebounded from 1992 to post strong growth in the highly competitive
+"fruit-only" category.  Sales of toppings also grew, helping to offset a
+downturn in peanut butter sales.  The Company realized substantial sales growth
+in its warehouse club store and mass retail markets while a general softness in
+the health and natural foods market contributed to a decline in sales of fruit
+juice and beverage products.
+<PAGE>   8
+
+In the International area, sales fell below 1992 results due to declining
+exchange rates, economic conditions, and competitive activity.  Conscious
+decisions to de-emphasize sales of some lower margin items also contributed.
+In Canada, U.S. dollar sales were comparable to last year as higher
+distribution and introduction costs hindered market expansion.  In the
+Australasia market, sales increased as the Henry Jones Foods organization
+assumed responsibility for "Smucker" brands in the Pacific Rim region.  In the
+United Kingdom, performance fell below expectations due to a soft economy, weak
+pound sterling, and stiff competition.
+
+Cost of products sold decreased as a percentage of net sales as the Company
+benefited from lower costs on several key fruits and other raw materials and
+from improved efficiencies at its manufacturing facilities.  In addition, there
+was continued focus on cost reduction efforts company-wide.
+
+Selling, distribution, and administrative costs increased at a rate consistent
+with sales, as higher selling and merchandising costs were partially offset by
+marketing expenditures which remained at fiscal 1992 dollar levels.  Corporate
+administrative expenses increased slightly as a percent of net sales.
+
+Interest income was down from last year due to lower interest rates in the
+market and a decrease in interest income earned from other sources.  Interest
+expense decreased due to the absence of short-term borrowing during the year
+and the early retirement of a portion of long-term debt.
+
+The increase in income taxes was consistent with the pre-tax income increase.
+The Company adopted Statement of Financial Accounting Standards No. 109,
+"Accounting for Income Taxes" during the fourth quarter, retroactive to May 1,
+1992.  The cumulative effect of the adoption of this statement did not have a
+material impact on the Company's results.
+<PAGE>   9
+
+CAPITAL RESOURCES AND LIQUIDITY
+
+The Company continues to maintain a strong financial position as growth has
+been financed through a balance of internally generated funds and limited debt.
+Although the cash balance at April 30, 1994 has declined from last year due to
+the impact of acquisitions, cash provided from operations was a positive
+$55,172,000.  In addition to the acquisitions, capital expenditures of
+$18,707,000 and the payment of dividends represented the greatest uses of cash
+during the year.  Dividends declared on all Common Shares rose 8% to
+$13,642,000 or $.47 per share.
+
+
+In April 1994, the Company replaced its existing lines of credit with a
+three-year revolving credit agreement.  Under the agreement, the Company can
+borrow up to $125,000,000 to meet future working capital or growth
+requirements.  With the exception of borrowing to finance a portion of the Mrs.
+Smith's acquisition, the Company has been able to meet all other cash
+requirements either through short-term borrowings or internally generated
+funds.
+
+
+Based on projected cash flows for 1995, the Company expects additional
+borrowing against its revolving credit agreement.  The anticipated acquisition
+of the "After The Fall" beverage business during the first quarter of fiscal
+1995, along with seasonal purchases of fruit during the summer months, will
+result in a substantial increase in borrowing during the first two quarters of
+fiscal 1995.  Debt balances are expected to return to levels consistent with
+April 30, 1994 by the end of the year.  Capital expenditures of $20,450,000 are
+expected for 1995 as the Company continues to focus on modernization and
+expansion of its facilities.  The Company expects the combination of cash
+provided from operations and borrowings available under the revolving credit
+agreement to be sufficient to meet all cash requirements in fiscal 1995.
+<PAGE>   10
+<TABLE>
+
+                                                                                                                      Exhibit 13
+
+
+Statements of Consolidated Income
+The J. M. Smucker Company
+
+
+<CAPTION>
+_________________________________________________________________________________________
+                                          (Dollars in thousands, except per share data)  
+- - -----------------------------------------------------------------------------------------
+Year Ended April 30,                                     1994        1993        1992    
+- - -----------------------------------------------------------------------------------------
+<S>                                                    <C>         <C>         <C>          
+Net sales                                              $511,525    $491,309    $483,472
+                                                                                       
+Cost of products sold                                   326,055     313,930     314,133  
+- - -----------------------------------------------------------------------------------------
+Gross Profit                                            185,470     177,379     169,339
+
+Selling, distribution, and administrative expenses      134,688     117,641     114,888  
+- - -----------------------------------------------------------------------------------------
+Operating Income                                         50,782      59,738      54,451
+                                                          
+Interest income                                           1,147       1,508       1,510
+
+Other income-net                                          1,314         609         568  
+- - -----------------------------------------------------------------------------------------
+                                                         53,243      61,855      56,529
+                                                                                 
+Interest expense                                            520         385         446  
+- - -----------------------------------------------------------------------------------------
+
+Income Before Income Taxes and Cumulative Effect of
+Change in Accounting Method                              52,723      61,470      56,083
+
+Income taxes                                             22,225      24,071      21,965  
+- - -----------------------------------------------------------------------------------------
+
+Income Before Cumulative Effect of Change in
+Accounting Method                                        30,498      37,399      34,118  
+- - -----------------------------------------------------------------------------------------
+
+Cumulative effect of change in accounting method
+for postretirement benefits other than pensions -
+net of tax benefit of $2,704                                ---      (4,454)        ---  
+- - -----------------------------------------------------------------------------------------
+
+Net Income                                             $ 30,498    $ 32,945    $ 34,118  
+- - -----------------------------------------------------------------------------------------    
+- - -----------------------------------------------------------------------------------------    
+
+Income per Common Share Before Cumulative
+Effect of Change in Accounting Method                  $   1.05    $   1.27    $   1.16  
+- - -----------------------------------------------------------------------------------------
+
+Cumulative effect of change in accounting method            ---        (.15)        ---  
+- - -----------------------------------------------------------------------------------------
+
+Net Income per Common Share                            $   1.05    $   1.12    $   1.16  
+- - -----------------------------------------------------------------------------------------    
+- - -----------------------------------------------------------------------------------------    
+
+
+<FN>
+See notes to consolidated financial statements
+</TABLE>
+<PAGE>   11
+<TABLE>
+
+                                                                                                                      Exhibit 13
+
+
+
+Consolidated Balance Sheets
+The J. M. Smucker Company
+
+
+<CAPTION>
+____________________________________________________________________________________
+                                                          (Dollars in thousands)    
+- - ------------------------------------------------------------------------------------
+Assets                                                           April 30,          
+- - ------------------------------------------------------------------------------------
+                                                          1994              1993    
+- - ------------------------------------------------------------------------------------
+<S>                                                   <C>               <C>                
+Current Assets
+Cash and cash equivalents                             $ 14,059          $ 50,445
+Trade receivables, less allowance for doubtful
+  accounts of $419 ($300 in 1993)                       47,828            40,354
+Inventories:
+  Finished products                                     42,463            30,101
+  Raw materials, containers, and supplies               60,773            41,762    
+- - ------------------------------------------------------------------------------------
+                                                       103,236            71,863
+                                                                                                                                 
+Other current assets                                     6,562             5,737    
+- - ------------------------------------------------------------------------------------
+Total Current Assets                                   171,685           168,399    
+- - ------------------------------------------------------------------------------------
+
+
+
+Property, Plant, and Equipment
+Land and land improvements                              13,533            11,792
+Buildings and fixtures                                  68,362            53,824
+Machinery and equipment                                130,403            96,786
+Construction in progress                                 6,486             4,502    
+- - ------------------------------------------------------------------------------------
+                                                       218,784           166,904
+                                                                                                                                 
+Accumulated depreciation                               (81,278)          (70,578)   
+- - ------------------------------------------------------------------------------------
+
+Total Property, Plant, and Equipment                   137,506            96,326    
+- - ------------------------------------------------------------------------------------
+
+
+
+Other Noncurrent Assets
+Goodwill                                                21,833            10,098
+Trademarks and patents                                  38,328            11,826
+Other assets                                             9,289             8,162    
+- - ------------------------------------------------------------------------------------
+
+Total Other Noncurrent Assets                           69,450            30,086    
+- - ------------------------------------------------------------------------------------
+
+                                                      $378,641          $294,811    
+- - ------------------------------------------------------------------------------------
+</TABLE>
+<PAGE>   12
+<TABLE>
+
+                                                                                                                      Exhibit 13
+
+
+<CAPTION>
+_______________________________________________________________________________________
+                                                                 (Dollars in thousands)
+- - ---------------------------------------------------------------------------------------
+Liabilities and Shareholders' Equity                                   April 30,       
+- - ---------------------------------------------------------------------------------------
+                                                                  1994           1993  
+- - ---------------------------------------------------------------------------------------
+<S>                                                           <C>            <C>                         
+Current Liabilities
+Accounts payable                                              $ 37,322       $ 27,433
+Notes payable                                                    4,327          4,431
+Salaries, wages, and additional compensation                     9,604          7,515
+Accrued marketing and merchandising                             16,209          6,456
+Income taxes                                                     2,124          2,155
+Dividends payable                                                3,639          3,357
+Other current liabilities                                        9,970          5,196  
+- - ---------------------------------------------------------------------------------------
+Total Current Liabilities                                       83,195         56,543  
+- - ---------------------------------------------------------------------------------------
+
+Long-term debt                                                  48,558            887
+Postretirement benefits other than pensions                      8,874          7,836
+Deferred income taxes                                            2,469          3,308
+Other noncurrent liabilities                                     1,143          5,768  
+- - ---------------------------------------------------------------------------------------
+Total Noncurrent Liabilities                                    61,044         17,799  
+- - ---------------------------------------------------------------------------------------
+
+
+Shareholders' Equity
+Serial Preferred Shares-- no par value:
+ Authorized--3,000,000 shares; outstanding--none                   ---            ---
+Common Shares - no par value:
+ Class A - Authorized--35,000,000 shares;
+  outstanding--14,360,339 in 1994, and 14,407,493
+  in 1993 (net of 1,851,949 and 1,804,795 treasury
+  shares, respectively), at stated value                         3,590          3,602
+ Class B - Authorized--35,000,000 shares;
+  outstanding--14,749,839 in 1994, and 14,791,173
+  in 1993 (net of 1,462,449 and 1,421,115 treasury
+  shares, respectively), at stated value                         3,687          3,698
+Additional capital                                               9,261          8,841
+Retained income                                                233,420        218,952
+Less:
+ Deferred compensation                                            (576)        (1,430)
+ Amount due from ESOP Trust                                    (10,670)       (10,853)
+ Currency translation adjustment                                (4,310)        (2,341) 
+- - ---------------------------------------------------------------------------------------
+Total Shareholders' Equity                                     234,402        220,469  
+- - ---------------------------------------------------------------------------------------
+                                                              $378,641       $294,811  
+- - ---------------------------------------------------------------------------------------
+
+<FN>
+See notes to consolidated financial statements
+</TABLE>
+<PAGE>   13
+<TABLE>
+
+                                                                                                                      Exhibit 13
+
+
+Statements of Consolidated Cash Flows
+The J. M. Smucker Company
+
+<CAPTION>
+________________________________________________________________________________________
+                                                              (Dollars in thousands)    
+- - ----------------------------------------------------------------------------------------
+Year Ended April 30,                                        1994       1993       1992  
+- - ----------------------------------------------------------------------------------------
+<S>                                                     <C>         <C>        <C>             
+Operating Activities                                    
+  Net income                                            $30,498     $32,945    $34,118
+  Adjustments to reconcile net income to net cash
+    provided by operating activities:
+     Cumulative effect of change in
+      accounting method                                     ---       4,454        ---
+     Depreciation                                        12,739      11,137     10,753
+     Amortization                                         2,639       1,915      2,055
+     Write-off of goodwill                                2,326         ---        ---
+     Deferred income taxes                                (1,302)       145        434
+     Changes in assets and liabilities:
+       Trade receivables                                  (6,097)       798        615
+       Inventories                                           500      6,059    (11,401)
+       Other current assets                                  188       (318)       851
+       Accounts payable and accrued items                 12,780       (216)     4,771
+       Other - net                                           901         63       (776) 
+- - ----------------------------------------------------------------------------------------
+Net Cash Provided by Operating Activities                 55,172     56,982     41,420  
+- - ----------------------------------------------------------------------------------------
+
+Investing Activities
+  Businesses acquired - net of cash                     (100,195)    (2,098)       ---
+  Additions to property, plant, and equipment            (18,707)   (21,004)   (17,361)
+  Proceeds from the sale of property, plant, and
+    equipment                                                691        840      1,156
+                                                                                 
+  Other - net                                               (572)    (3,353)      (622) 
+- - ----------------------------------------------------------------------------------------
+Net Cash Used for Investing Activities                  (118,783)   (25,615)   (16,827) 
+- - ----------------------------------------------------------------------------------------
+
+Financing Activities
+ Proceeds from long-term debt                             48,048        ---        ---
+ Reduction in long-term debt                                (377)      (440)      (440)
+ (Purchase) Sale of Common Shares                         (2,210)    (2,111)        51
+ Net amount received from (loaned to) ESOP                   183        250     (1,227)
+ Dividends paid                                          (13,360)   (12,364)   (11,223)
+ Other                                                    (4,799)    (2,500)       --- 
+- - ---------------------------------------------------------------------------------------
+Net Cash Provided by (Used for) Financing Activities      27,485    (17,165)   (12,839) 
+- - ----------------------------------------------------------------------------------------
+
+Effect of Exchange Rate Changes on Cash                     (260)       (25)         1
+Net (Decrease) Increase in Cash and Cash Equivalents     (36,386)    14,177     11,755
+Cash and Cash Equivalents at Beginning of Year            50,445     36,268     24,513  
+- - ----------------------------------------------------------------------------------------
+Cash and Cash Equivalents at End of Year                 $14,059    $50,445    $36,268  
+- - ----------------------------------------------------------------------------------------
+
+
+<FN>
+( ) Denotes use of cash
+See notes to consolidated financial statements
+</TABLE>
+<PAGE>   14
+<TABLE>
+
+                                                                                                                      Exhibit 13
+
+
+
+
+Statements of Consolidated Shareholders' Equity
+The J. M. Smucker Company
+
+
+
+<CAPTION>
+__________________________________________________________________________________________________________________
+                                                           (Dollars in thousands)                                 
+- - ------------------------------------------------------------------------------------------------------------------
+                                                                       Deferred  Amount due   Currency    Share-
+                               Common Shares    Additional  Retained   Compen-   from ESOP   Translation  holders'
+                             Class A   Class B    Capital    Income    sation      Trust      Adjustment  Equity  
+- - ------------------------------------------------------------------------------------------------------------------
+<S>                          <C>       <C>        <C>       <C>       <C>       <C>            <C>       <C>
+Balance at April 30, 1991    $ 3,692   $   ---    $10,544   $186,919  $(1,728)  $ (9,876)      $   672   $190,223
+Net income                                                    34,118                                       34,118
+Distribution of
+  Class B Common Shares                  3,692     (3,692)                                                    ---
+Stock plans                                            51                 781                                 832
+Dividends declared-
+  $.39 a share                                               (11,451)                                     (11,451)
+Other                                                 131                         (1,227)         (411)    (1,507)
+- - ------------------------------------------------------------------------------------------------------------------
+
+Balance at April 30, 1992    $ 3,692   $ 3,692    $ 7,034   $209,586  $  (947)  $(11,103)      $   261   $212,215
+Net income                                                    32,945                                       32,945
+Purchase of
+  Treasury shares               (105)                 (14)   (10,959)                                     (11,078)
+Stock plans                       15         6      1,214                (483)                                752
+Dividends declared-
+  $.43 a share                                               (12,620)                                     (12,620)
+Other                                                 607                            250        (2,602)    (1,745)
+- - ------------------------------------------------------------------------------------------------------------------
+
+Balance at April 30, 1993    $ 3,602   $ 3,698    $ 8,841   $218,952  $(1,430)  $(10,853)      $(2,341)  $220,469
+Net income                                                    30,498                                       30,498
+Purchase of
+  Treasury shares                (15)      (11)       (22)    (2,388)                                      (2,436)
+Stock plans                        3                  223                 854                               1,080
+Dividends declared-
+  $.47 a share                                               (13,642)                                     (13,642)
+Other                                                 219                            183        (1,969)    (1,567)
+- - ------------------------------------------------------------------------------------------------------------------
+
+
+Balance at April 30, 1994    $ 3,590   $ 3,687    $ 9,261   $233,420  $  (576)  $(10,670)      $(4,310)  $234,402
+                             =======   =======    =======   ========  =======   ========       =======   ========
+<FN>
+See notes to consolidated financial statements
+</TABLE>
+<PAGE>   15
+
+                                                                      Exhibit 13
+
+
+
+Notes to Consolidated Financial Statements
+The J. M. Smucker Company
+
+
+Fiscal Years Ended April 30, 1994, April 30, 1993, and April 30, 1992
+
+Note A:  Accounting Policies
+
+  Principles of Consolidation:  The consolidated financial statements include
+the accounts of the Company and its subsidiaries, all of which are
+wholly-owned.  All significant intercompany transactions and accounts are
+eliminated in consolidation.
+
+  Cash and Cash Equivalents:  The Company considers all short-term investments
+with a maturity of three months or less to be cash equivalents.
+
+  Financial Instruments:  The fair value of the Company's financial instruments
+approximates their carrying amounts.
+<PAGE>   16
+
+                                                                      Exhibit 13
+
+
+
+  Inventories:  The Company values its inventories at the lower of cost or
+market, with market considered as replacement value.  Cost is determined on the
+last-in, first-out (LIFO) method for the majority of domestic inventories.
+Inventories not on the LIFO method are valued principally by the first-in,
+first-out (FIFO) method.  If the FIFO method (which approximates current cost)
+had been used for all inventories, the balances would have been $11,169,000 and
+$11,015,000 higher than reported at April 30, 1994 and 1993, respectively.
+
+  Goodwill and Intangible Assets:  The excess cost over net assets of
+businesses acquired and other intangibles, principally trademarks and patents,
+are being amortized using the straight-line method over periods ranging up to
+40 years.  Accumulated amortization of goodwill and intangible assets at April
+30, 1994 and 1993, was $10,228,000 and $8,434,000, respectively.
+
+  Property, Plant, and Equipment:  Property, plant, and equipment are carried
+at cost with depreciation computed over the estimated useful life by the
+straight-line method for financial reporting purposes and accelerated methods
+for income tax purposes.
+<PAGE>   17
+
+                                                                      Exhibit 13
+
+  Foreign Currency Translation:  Assets and liabilities of the Company's
+foreign subsidiaries are translated using the exchange rates in effect at the
+balance sheet date, while income and expenses are translated using average
+rates.  Translation adjustments are reported as a separate component of
+shareholders' equity.
+
+  Net Income Per Common Share:  Net income per Common Share is based on the
+weighted average number of the Class A Common Shares and Class B Common Shares
+considered outstanding during the year.
+
+  Reclassifications:  Certain prior year amounts have been reclassified to
+conform to current year classifications.
+
+Note B: Operating Segments
+
+The Company operates in one industry:  the manufacturing and marketing of food
+products.  The following presents information about operations in different
+geographic areas:
+
+<TABLE>
+<CAPTION>
+________________________________________________________________
+                          (Dollars in thousands)                
+- - ----------------------------------------------------------------
+Year Ended April 30,                1994        1993        1992
+- - ----------------------------------------------------------------
+<S>                             <C>         <C>         <C>
+Net sales:
+  United States                 $453,902    $452,846    $442,879
+                                                                                                                
+  Foreign                         57,623      38,463      40,593
+- - ----------------------------------------------------------------
+    Total net sales             $511,525    $491,309    $483,472
+- - ----------------------------------------------------------------
+
+Operating income (loss):
+  United States                 $ 81,013    $ 85,831    $ 81,613
+                                                                                                                
+  Foreign                         (1,216)(1)     752      (1,413)
+- - -----------------------------------------------------------------
+                                  79,797      86,583      80,200
+                                                                                            
+  Corporate expenses             (29,015)    (26,845)    (25,749)
+- - ---------------------------------------------------------------- 
+    Total operating income      $ 50,782    $ 59,738    $ 54,451
+- - ----------------------------------------------------------------
+
+Identifiable assets:
+  United States                 $326,042    $259,302    $240,930
+                                                                                                                
+  Foreign                         52,599      35,509      36,838
+- - ----------------------------------------------------------------
+    Total assets                $378,641    $294,811    $277,768
+- - ----------------------------------------------------------------
+
+<FN>
+(1) Includes the write-off of $2.3 million of goodwill associated
+    with a foreign subsidiary.
+</TABLE>
+
+  Identifiable assets include corporate and all other assets identified with
+operations in each geographic area.  There were no material amount of transfers
+between geographic areas.
+<PAGE>   18
+
+                                                                      Exhibit 13
+
+
+Note C:  Acquisitions
+
+
+On March 31, 1994, the Company acquired certain assets and assumed certain
+liabilities of the "Mrs. Smith's" frozen pie business from Mrs. Smith's Frozen
+Foods Co., a subsidiary of Kellogg Company, for $84,102,000 (contract price of
+$80,100,000 plus closing adjustments).  This business, located in Pottstown,
+Pennsylvania, manufactures and markets branded frozen pies, desserts, and pie
+shells under the "Mrs. Smith's" brand name.  The purchase price was paid from a
+combination of debt financing and internally generated funds.  In connection
+with the acquisition, the Company purchased $36,452,000 of intangible assets,
+primarily trademarks and goodwill, and plans to amortize them over 40 years
+using the straight-line method.
+
+In July 1993, the Company purchased for $16,093,000 in cash, the jam, preserve,
+and pie filling business of Culinar, Inc. of Canada.  In connection with this
+acquisition, the Company purchased $7,159,000 of intangible assets, primarily
+goodwill, and plans to amortize them over 20 years using the straight-line
+method.
+
+These acquisitions have been recorded using the purchase method of accounting
+and, accordingly, results of operations subsequent to the dates of acquisition
+are included in the consolidated financial statements.
+
+The acquisition of the Culinar business did not have a material impact on the
+financial results of the Company.  Had the acquisition of "Mrs. Smith's"
+occurred at the beginning of fiscal 1993, proforma consolidated results would
+have been as follows:
+
+
+<TABLE>
+<CAPTION>
+- - -------------------------------------------------------------------------------------
+- - -------------------------------------------------------------------------------------
+Year Ended April 30,                                      1994                1993  
+- - -------------------------------------------------------------------------------------
+(Dollars in thousands, except per share amounts)
+<S>                                                     <C>                   <C>
+Net Sales                                               $633,000              $635,000
+Net Income                                              $ 32,240              $ 35,954
+Net Income per share                                    $   1.10              $   1.22
+</TABLE>
+
+
+
+The proforma results are based on historical financial information provided by
+Mrs. Smith's Frozen Foods Co. and are adjusted to give effect to certain
+costs, primarily interest expense, amortization of intangible assets,
+depreciation on revalued property, plant, and equipment, and income taxes.
+These unaudited results do not necessarily reflect the actual results which
+would have occurred had the acquisition been completed at the beginning of
+1993, nor are they necessarily indicative of future results.
+
+During April 1994, the Company signed a letter of intent with After The Fall
+Products, Inc. to acquire its beverage business located in Brattleboro,
+Vermont.  The transaction is subject to the execution of a purchase agreement
+and other customary conditions and is expected to close in the first quarter of
+fiscal 1995.
+<PAGE>   19
+
+                                                                      Exhibit 13
+
+
+
+
+Note D:  Retirement Plans
+
+
+The Company has pension plans covering substantially all of its employees.
+Benefits are based on the employee's years of service and compensation.  The
+Company's plans are funded in conformity with the funding requirements of
+applicable government regulations. Net periodic pension cost included the
+following components:
+
+<TABLE>
+<CAPTION>
+- - -------------------------------------------------------------------------------------
+                                                          (Dollars in thousands)     
+- - -------------------------------------------------------------------------------------
+Year Ended April 30,                                   1994         1993         1992
+- - -------------------------------------------------------------------------------------
+<S>                                                  <C>          <C>          <C>    
+Service cost-benefits earned during the period       $1,256       $1,168       $1,016
+Interest cost on projected benefit obligation         3,086        2,564        2,259
+Actual return on plan assets                         (2,876)      (2,204)      (5,456)
+Deferred (loss) gain                                   (722)      (1,253)       2,444 
+Net amortization and deferral                           244         (107)         (67)
+- - --------------------------------------------------------------------------------------
+Net periodic pension cost                            $  988       $  168       $  196 
+- - --------------------------------------------------------------------------------------
+</TABLE>
+<PAGE>   20
+
+                                                                      Exhibit 13
+<TABLE>
+  The following sets forth in the aggregate the funded status and amounts
+recognized in the Company's consolidated balance sheets for all of the
+Company-administered domestic pension plans:
+<CAPTION>
+                                                                 (Dollars in thousands)
+- - ---------------------------------------------------------------------------------------
+<S>                                                              <C>          <C>
+Year Ended April 30,                                                1994         1993  
+- - ---------------------------------------------------------------------------------------
+Actuarial present value of accumulated benefit obligation:
+  Vested benefits                                                $34,444      $28,938
+                                                                              
+  Non-vested benefits                                              2,312        1,852  
+- - ---------------------------------------------------------------------------------------
+  Accumulated benefit obligation                                 $36,756      $30,790  
+- - ---------------------------------------------------------------------------------------
+
+Projected benefit obligation for service
+  rendered to date                                               $44,012      $36,541
+
+Plan assets at fair value                                         42,520       40,404  
+- - ---------------------------------------------------------------------------------------
+Plan assets (less than) in excess of projected benefit
+  obligation                                                      (1,492)       3,863
+Unrecognized prior service cost                                    5,166        4,917
+Unrecognized net gain from past experience                          (338)      (4,805)
+Unamortized net asset at transition                               (1,686)      (1,777) 
+- - ---------------------------------------------------------------------------------------
+Net prepaid pension cost                                         $ 1,650      $ 2,198  
+- - ---------------------------------------------------------------------------------------
+</TABLE>
+
+  The expected long-term rate of return on plan assets was 9% for 1994, 1993,
+and 1992.  Plan assets consist of listed stocks and government obligations,
+including 168,000 of both of the Company's Class A and Class B Common Shares at
+April 30, 1994 and 1993.  The discount rate was 7.5% and 8% in 1994 and 1993,
+respectively, while the rate of increase in future compensation levels used in
+determining the actuarial present value of the projected benefit obligations
+was 5.75% for both years.  Prior service costs are being amortized over the
+average remaining service lives of the employees expected to receive benefits.
+Included in the above table is the unfunded supplemental retirement benefit
+plan which had a projected benefit obligation of $6,230,000 and $4,727,000 in
+1994 and 1993, respectively.
+  The Company also charged to operations approximately $675,000, $606,000, and
+$675,000 in 1994, 1993, and 1992, respectively, for contributions to foreign
+pension plans and to plans not administered by the Company on behalf of
+employees subject to certain labor contracts.  These amounts were determined in
+accordance with foreign actuarial computations and provisions of those labor
+contracts.  For those plans not self-administered, the Company is unable to
+determine its share of either the accumulated plan benefits or net assets
+available for benefits under those plans.
+<PAGE>   21
+
+                                                                      Exhibit 13
+
+
+
+Note E:  Postretirement Benefits Other Than Pensions
+
+
+In addition to providing pension benefits, the Company sponsors several
+unfunded defined postretirement plans which provide health care and life
+insurance benefits to substantially all active and retired, domestic,
+nonrepresented employees, their covered dependents, and beneficiaries.  These
+plans are contributory, with retiree contributions adjusted periodically, and
+contain other cost-sharing features, such as deductibles and coinsurance.
+Covered employees generally are eligible for these benefits when they have
+reached age 55 and attained 10 years of service.
+
+During fiscal 1993, the Company adopted the provisions of Statement of
+Financial Accounting Standards No. 106, "Employers' Accounting for
+Postretirement Benefits Other Than Pensions" (SFAS 106).  This standard
+requires that the estimated cost of postretirement benefits, principally
+health care, be accrued over the period earned rather than expensed as
+incurred.  The effect of adopting SFAS 106 resulted in the Company recognizing
+a one-time charge to consolidated income of $4,454,000 ($.15 per share), net of
+$2,704,000 of income tax benefit.
+<PAGE>   22
+
+                                                                      Exhibit 13
+
+
+
+
+<TABLE>
+<CAPTION>
+Net periodic postretirement benefit expense related to these plans for 1994 and 1993
+included the following:                                                                  
+- - -----------------------------------------------------------------------------------------
+(Dollars in thousands)                                                 1994          1993
+- - -----------------------------------------------------------------------------------------
+<S>                                                                  <C>             <C>
+Service cost                                                         $  421          $362
+Interest cost                                                           737           591
+Net amortization and deferral                                            13           ---
+- - -----------------------------------------------------------------------------------------
+Net periodic postretirement benefit cost                             $1,171          $953
+- - -----------------------------------------------------------------------------------------
+</TABLE>
+
+<TABLE>
+<CAPTION>
+The following table sets forth the combined status of the plans as recognized in the
+Consolidated Balance Sheets at April 30, 1994 and 1993:                                  
+- - -----------------------------------------------------------------------------------------
+(Dollars in thousands)                                                 1994          1993
+- - -----------------------------------------------------------------------------------------
+<S>                                                                  <C>           <C>
+Accumulated benefit obligation:
+  Retirees                                                           $3,407        $2,642
+  Fully eligible active participants                                  1,351         1,241
+  Other active participants                                           5,045         3,953
+Unrecognized actuarial loss                                            (929)          ---
+- - -----------------------------------------------------------------------------------------
+Postretirement benefits other than pensions                          $8,874        $7,836
+- - -----------------------------------------------------------------------------------------
+</TABLE>
+
+
+
+The discount rate assumption used to determine the actuarial present value of
+the accumulated postretirement benefit obligation was 7.5% in 1994 and 8% in
+1993.  For 1995, the assumed health care cost trend rates were 11.8% for
+participants under age 65 and 10.0% for participants age 65 or older.  Both
+rates were assumed to decrease gradually to 5.0% in the year 2004.  The health
+care cost trend rate assumption has a significant effect on the amount of the
+obligation and periodic cost reported.  A one percent annual increase in the
+assumed cost trend rate in each year would increase the accumulated
+postretirement benefit obligation as of April 30, 1994 by $1,824,000 and the
+net periodic postretirement benefit cost for the year by $253,000.
+
+In addition, certain of the Company's active employees participate in
+multi-employer plans which provide defined postretirement health care benefits.
+The aggregate amount contributed to these plans, including the charge for
+periodic postretirement benefit costs, totaled $1,436,000, $1,356,000, and
+$1,185,000 in 1994, 1993, and 1992, respectively.
+<PAGE>   23
+
+                                                                      Exhibit 13
+
+Note F:  Stock Benefit Plans
+
+  ESOP:  The Company sponsors an Employee Stock Ownership Plan and Trust (ESOP)
+for domestic, non-represented employees.  The Company has entered into loan
+agreements with the Trustee of the ESOP for purchases by the Trustee in amounts
+not to exceed a total of 1,200,000 unallocated Common Shares of the Company at
+any one time.  These shares are to be allocated to participants over a period
+of not less than 20 years.  No additional borrowings were made by the ESOP in
+either fiscal year 1994 or 1993; $1,384,000 was borrowed during 1992.  All
+existing and future loans bear interest at 1/2% over prime and will be payable
+as shares are allocated to participants.  The Company incurred no net expense
+in any of the three years.  The principal payments received from the ESOP in
+1994, 1993, and 1992 were $183,000, $250,000, and $157,000, respectively.
+
+  Savings Plan:  The Company offers an employee savings plan under Section
+401(k) of the Internal Revenue Code for all domestic employees not covered by
+collective bargaining agreements.  The Company's contributions under the plan
+are based on a specified percentage of employee contributions.  Charges to
+operations for this plan in 1994, 1993, and 1992 were $787,000, $736,000, and
+$470,000, respectively.
+
+  Restricted Stock:  The Restricted Stock Bonus Plan provides for issuance of
+Common Shares to key employees.  There are 105,600 Class A and 148,600 Class B
+Common Shares available for issuance under the plan at April 30, 1994.  Shares
+awarded under this plan contain certain restrictions for four years relating,
+among other things, to forfeiture in the event of termination of employment and
+to transferability.
+
+  Shares awarded are issued as of the effective date of the award and recorded
+at market value.  A corresponding deferred compensation charge is expensed over
+the period during which restrictions are in effect.  There were no awards made
+during the fiscal year.  An award of 43,000 Class A Common Shares was made in
+1993.
+<PAGE>   24
+
+                                                                      Exhibit 13
+
+  Stock Options:  The Company has two stock option plans covering officers and
+certain key employees.  Options granted under these plans become exercisable at
+the rate of one-third per year beginning one year after the date of grant, and
+the option price is equal to the market value on the effective date of the
+grant.
+
+  Changes in the stock option plans are as follows:
+
+<TABLE>
+<CAPTION>
+_________________________________________________________________________
+                                      Common Shares        Option Price
+                                   Class A    Class B        Per Share   
+- - -------------------------------------------------------------------------
+<S>                              <C>         <C>            <C>
+Outstanding at April 30,
+1991                               410,532     410,532
+  Granted                          169,100        500       $21.97-$31.50
+  Exercised                         (1,500)    (1,500)      $15.94-$20.22
+  Forfeited                         (1,500)    (1,500)      $15.94-$20.22 
+- - -------------------------------------------------------------------------
+
+Outstanding at April 30,
+1992                               576,632    408,032
+  Granted                          127,500        ---      $27.25
+  Exercised                         (6,200)    (6,200)     $11.19-$19.13
+  Forfeited                         (5,400)    (1,000)     $19.13-$31.50 
+- - -------------------------------------------------------------------------
+
+Outstanding at April 30,
+1993                               692,532    400,832
+  Granted                          179,000        ---      $23.94
+  Exercised                         (5,866)    (5,866)     $11.19-$19.13
+  Forfeited                         (7,566)    (1,166)     $19.13-$31.50  
+- - --------------------------------------------------------------------------
+
+Outstanding at April 30,
+1994                               858,100    393,800                     
+- - --------------------------------------------------------------------------
+
+Exercisable at April 30,
+1994                               543,335    393,634                     
+- - --------------------------------------------------------------------------
+
+Available for Future Grants
+at April 30,
+1992                             1,219,365  1,387,965
+1993                             1,097,265  1,388,965
+1994                               925,831  1,390,131
+</TABLE>
+<PAGE>   25
+                                                                      Exhibit 13
+Note G:  Income Taxes
+
+During 1993, the Company adopted Statement of Financial Accounting Standards
+No. 109, "Accounting for Income Taxes."  This statement requires the use of the
+asset and liability approach for financial accounting and reporting of income
+taxes.  The Company previously accounted for income taxes in conformity with
+APB 11.  The effect of this change in accounting method was not material to the
+financial statements or results of operations.
+
+Deferred income taxes reflect the net tax effects of temporary differences
+between the carrying amounts of assets and liabilities for financial reporting
+purposes and the amounts used for income tax reporting.  Significant components
+of the Company's deferred tax assets and liabilities as of April 30, 1994 and
+1993 are as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                                  (Dollars in thousands)
+                                                                     1994         1993   
+  ------------------------------------------------------------------------------------
+  <S>                                                          <C>          <C>                               
+  Deferred Tax Liabilities:
+     Depreciation                                              $ 7,891      $ 7,189
+     Pension contributions                                         764          918
+     Other (each less than 5% of total liabilities)              1,391        1,192   
+       Total Deferred Tax Liabilities                           10,046        9,299
+  ------------------------------------------------------------------------------------
+  Deferred Tax Assets:
+     Postretirement benefits other than pensions                 3,393        2,960
+     Other employee benefits                                     2,560        2,133
+     Foreign net operating loss carryforwards                      901          664
+     Trademarks                                                    863          655
+     Marketing accruals                                            571          786
+     Other (each less than 5% of total assets)                   3,921        2,495   
+  ------------------------------------------------------------------------------------
+       Total Deferred Tax Assets                                12,209        9,693
+  Valuation allowance for deferred tax assets                   (2,265)      (1,884)  
+  ------------------------------------------------------------------------------------
+       Net Deferred Tax Assets                                   9,944        7,809   
+       -------------------------------------------------------------------------------
+       Net Deferred Tax Liabilities                            $   102      $ 1,490   
+       -------------------------------------------------------------------------------
+</TABLE>
+
+
+
+  At April 30, 1994, the Company has foreign net operating loss carryforwards
+  of $2,729,000 for income tax purposes with indefinite expiration dates.  The
+  Company has recorded a valuation allowance related to foreign tax loss carry-
+  forwards and other foreign deferred tax assets due to the uncertainty of
+  their realization.
+<PAGE>   26
+<TABLE>
+
+                                                                                                              Exhibit 13
+
+
+Significant components of the provision for income taxes are as follows:
+
+<CAPTION>
+                                                      (Dollars in thousands)
+Year Ended April 30,                              1994           1993         1992 
+- - -----------------------------------------------------------------------------------
+<S>                                            <C>            <C>          <C>
+Current:
+  Federal                                      $20,146        $20,413      $18,236
+  State and Local                                3,381          3,513        3,295
+Deferred (Credit)                               (1,302)           145          434 
+- - -----------------------------------------------------------------------------------
+Total income tax expense from operations       $22,225        $24,071      $21,965 
+- - -----------------------------------------------------------------------------------
+</TABLE>
+
+A reconciliation of the statutory federal income tax rate and the effective tax
+rate follows:
+
+<TABLE>
+<CAPTION>
+- - -----------------------------------------------------------------------------------
+                                                        (Dollars in thousands)     
+- - -----------------------------------------------------------------------------------
+                                                        Percent of Pretax Income   
+- - -----------------------------------------------------------------------------------
+Year Ended April 30,                              1994           1993         1992 
+- - -----------------------------------------------------------------------------------
+<S>                                           <C>             <C>          <C>
+Statutory federal income tax rate                35.0%          34.0%        34.0%
+Increase in income taxes resulting from:
+  State and local income taxes, net of federal
+    income tax benefit                            4.2            3.8          3.9
+  Other items                                     3.0            1.4          1.3  
+- - -----------------------------------------------------------------------------------
+
+Effective income tax rate                        42.2%          39.2%        39.2% 
+- - -----------------------------------------------------------------------------------
+
+Income taxes paid                              $22,431        $23,640      $22,744 
+- - -----------------------------------------------------------------------------------
+</TABLE>
+
+
+Note H:  Long-Term Debt
+
+In April 1994, the Company replaced its short-term lines of credit with a
+three-year $125,000,000 unsecured revolving credit facility.  Borrowings under
+the revolving credit facility were $48,048,000 at April 30, 1994.  Under the new
+agreement, the Company is subject to certain covenants and restrictions
+relating to current and interest coverage ratios, along with periodic payments
+for commitment fees on the unused balance.  Interest rates are variable,
+primarily based on money market, LIBOR, or prime.  The revolving credit
+facility expires in 1997 and is extendible at the option of the Company with
+the approval of the banks.
+<PAGE>   27
+
+                                                                      Exhibit 13
+Note I:  Leases
+
+The Company leases certain land, buildings, and equipment for varying periods
+of time, with renewal options.  Leases of cold storage facilities are
+continually renewed for short periods.
+
+Rental expense in 1994, 1993, and 1992 totaled $9,110,000, $8,552,000, and
+$8,513,000, respectively; included therein were cold storage facility rentals,
+based on quantities stored, amounting to $5,525,000, $4,538,000, and
+$4,708,000, respectively.
+
+
+
+Note J:  Common Shares
+
+In August 1991, the shareholders of the Company approved Amended Articles of
+Incorporation changing the Company's existing Common Shares into Class A Common
+Shares and authorizing a new class of non-voting Common Shares, designated as
+Class B Common Shares.  Subsequently, on September 30, 1991, the Company
+distributed one share of the newly created Class B Common Shares for each Class
+A Common Share then issued.
+
+The Company's Amended Articles of Incorporation provide that but for certain
+exceptions, those acquiring the Company's Class A Common Shares will be
+entitled to cast one vote per share on matters requiring shareholder approval
+until they have held their shares for four years, after which time they will be
+entitled to cast ten votes per share.  The Company's Class B Common Shares are
+non-voting, except under certain conditions outlined in the Company's Amended
+Articles of Incorporation.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-22
+<SEQUENCE>7
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+                                                                      Exhibit 22
+
+
+
+
+
+                          Subsidiaries of the Company
+
+
+
+
+<TABLE>
+<CAPTION>
+                                             State or Jurisdiction
+         Subsidiaries                           of Incorporation  
+- - ------------------------------               ---------------------
+<S>                                             <C>
+H. B. DeViney Company, Inc.                     Pennsylvania
+The Dickinson Family, Inc.                      Ohio
+Elsenham Quality Foods Limited                  England
+JMS Specialty Foods, Inc.                       Wisconsin
+Juice Creations Co.                             Ohio
+Knudsen & Sons, Inc.                            California
+Mary Ellen's, Incorporated                      Ohio
+Mrs. Smith's, Inc.                              Ohio
+A. F. Murch Company                             Ohio
+Santa Cruz Natural Incorporated                 California
+Shawson Pty. Ltd.                               Victoria, Australia
+Smucker Australia, Inc.                         Ohio
+J. M. Smucker (Canada), Inc.                    Ohio
+J. M. Smucker (Canada) Inc.                     Ontario, Canada
+Smucker International, Ltd.                     U.S. Virgin Islands
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>8
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+                                                                Exhibit 23
+
+
+
+
+                       CONSENT OF INDEPENDENT AUDITORS
+
+
+
+
+
+We consent to the incorporation by reference in this Annual Report on Form
+10-K of The J. M. Smucker Company of our report dated June 8, 1994, included in
+the 1994 Annual Report to Shareholders of The J.M. Smucker Company.
+
+Our audit also included the financial statement schedules of The J. M. Smucker
+Company listed in item 14(a).  These schedules are the responsibility of the
+Company's management.  Our responsibility is to express an opinion based on our
+audits.  In our opinion, the financial statement schedules referred to above,
+when considered in relation to the basic financial statements taken as a whole,
+present fairly in all material respects the information set forth therein.
+
+We also consent to the incorporation by reference in the Registration
+Statements (Form S-8 No. 33-21273 and Form S-8 No. 33-38011) pertaining to the
+1987 Stock Option Plan and (Form S-8 No. 33-32637) pertaining to the UK
+Employees (1989) Stock Option Plan and the Elsenham (Nonapproved) Stock Option
+Plan, of our report dated June 8, 1994, with respect to the consolidated
+financial statements in the preceding paragraph with respect to the financial
+statement schedules included in this Annual Report on Form 10-K of The J. M.
+Smucker Company.
+
+
+
+
+
+
+
+                                                ERNST & YOUNG
+
+
+July 12, 1994
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>9
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+                                                        Exhibit 24.1
+                           
+                           THE J. M. SMUCKER COMPANY
+
+
+                           REGISTRATION ON FORM 10-K
+
+
+                               POWER OF ATTORNEY
+
+
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that LENA C. BAILEY, director of The
+J. M. Smucker Company, hereby appoints Timothy P. Smucker, Richard K. Smucker,
+and Steven J. Ellcessor, and each of them, with full power of substitution, as
+attorney or attorneys of the undersigned, to execute an Annual Report on Form
+10-K for the fiscal year ended April 30, 1994, in a form that The J. M. Smucker
+Company deems appropriate and to file the same, with all exhibits thereto and
+other documents in connection therewith, with the Securities and Exchange
+Commission, all pursuant to applicable legal provisions, with full power and
+authority to do and perform each and every act and thing requisite and
+necessary to be done, as fully to all intents and purposes as the undersigned
+director might or could do in person, in furtherance of the foregoing.
+
+
+
+
+                                         /s/ Lena C. Bailey            
+                                         ----------------------------
+                                         Director
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.2
+<SEQUENCE>10
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+                                                        Exhibit 24.2
+                           
+                           THE J. M. SMUCKER COMPANY
+
+
+                           REGISTRATION ON FORM 10-K
+
+
+                               POWER OF ATTORNEY
+
+
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that WILLIAM P. BOYLE, JR., director
+of The J. M. Smucker Company, hereby appoints Timothy P. Smucker, Richard K.
+Smucker, and Steven J. Ellcessor, and each of them, with full power of
+substitution, as attorney or attorneys of the undersigned, to execute an Annual
+Report on Form 10-K for the fiscal year ended April 30, 1994, in a form that
+The J. M. Smucker Company deems appropriate and to file the same, with all
+exhibits thereto and other documents in connection therewith, with the
+Securities and Exchange Commission, all pursuant to applicable legal
+provisions, with full power and authority to do and perform each and every act
+and thing requisite and necessary to be done, as fully to all intents and
+purposes as the undersigned director might or could do in person, in
+furtherance of the foregoing.
+
+
+
+
+                                        /s/ William P. Boyle, Jr.     
+                                        -------------------------------
+                                        Director
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.3
+<SEQUENCE>11
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+                                                        Exhibit 24.3
+                           
+                           THE J. M. SMUCKER COMPANY
+
+
+                           REGISTRATION ON FORM 10-K
+
+
+                               POWER OF ATTORNEY
+
+
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that ROBERT R. MORRISON, director of
+The J. M. Smucker Company, hereby appoints Timothy P. Smucker, Richard K.
+Smucker, and Steven J. Ellcessor, and each of them, with full power of
+substitution, as attorney or attorneys of the undersigned, to execute an Annual
+Report on Form 10-K for the fiscal year ended April 30, 1994, in a form that
+The J. M. Smucker Company deems appropriate and to file the same, with all
+exhibits thereto and other documents in connection therewith, with the
+Securities and Exchange Commission, all pursuant to applicable legal
+provisions, with full power and authority to do and perform each and every act
+and thing requisite and necessary to be done, as fully to all intents and
+purposes as the undersigned director might or could do in person, in
+furtherance of the foregoing.
+
+
+
+
+                                        /s/ Robert R. Morrison        
+                                        -------------------------------
+                                        Director
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.4
+<SEQUENCE>12
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+                                                        Exhibit 24.4
+                           
+                           THE J. M. SMUCKER COMPANY
+
+
+                           REGISTRATION ON FORM 10-K
+
+
+                               POWER OF ATTORNEY
+
+
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that VERNON D. NETZLY, director of The
+J. M. Smucker Company, hereby appoints Timothy P. Smucker, Richard K. Smucker,
+and Steven J. Ellcessor, and each of them, with full power of substitution, as
+attorney or attorneys of the undersigned, to execute an Annual Report on Form
+10-K for the fiscal year ended April 30, 1994, in a form that The J. M. Smucker
+Company deems appropriate and to file the same, with all exhibits thereto and
+other documents in connection therewith, with the Securities and Exchange
+Commission, all pursuant to applicable legal provisions, with full power and
+authority to do and perform each and every act and thing requisite and
+necessary to be done, as fully to all intents and purposes as the undersigned
+director might or could do in person, in furtherance of the foregoing.
+
+
+
+
+                                        /s/ Vernon D. Netzly          
+                                        ------------------------------
+                                        Director
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.5
+<SEQUENCE>13
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+                                                        Exhibit 24.5
+                           
+                           THE J. M. SMUCKER COMPANY
+
+
+                           REGISTRATION ON FORM 10-K
+
+
+                               POWER OF ATTORNEY
+
+
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that PAUL H. SMUCKER, director of The
+J. M. Smucker Company, hereby appoints Timothy P. Smucker, Richard K. Smucker,
+and Steven J. Ellcessor, and each of them, with full power of substitution, as
+attorney or attorneys of the undersigned, to execute an Annual Report on Form
+10-K for the fiscal year ended April 30, 1994, in a form that The J. M. Smucker
+Company deems appropriate and to file the same, with all exhibits thereto and
+other documents in connection therewith, with the Securities and Exchange
+Commission, all pursuant to applicable legal provisions, with full power and
+authority to do and perform each and every act and thing requisite and
+necessary to be done, as fully to all intents and purposes as the undersigned
+director might or could do in person, in furtherance of the foregoing.
+
+
+
+
+                                        /s/ Paul H. Smucker           
+                                        --------------------------
+                                        Director
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.6
+<SEQUENCE>14
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+                                                        Exhibit 24.6
+                           
+                           THE J. M. SMUCKER COMPANY
+
+
+                           REGISTRATION ON FORM 10-K
+
+
+                               POWER OF ATTORNEY
+
+
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that CHARLES S. MECHEM, JR., director
+of The J. M. Smucker Company, hereby appoints Timothy P. Smucker, Richard K.
+Smucker, and Steven J. Ellcessor, and each of them, with full power of
+substitution, as attorney or attorneys of the undersigned, to execute an Annual
+Report on Form 10-K for the fiscal year ended April 30, 1994, in a form that
+The J. M. Smucker Company deems appropriate and to file the same, with all
+exhibits thereto and other documents in connection therewith, with the
+Securities and Exchange Commission, all pursuant to applicable legal
+provisions, with full power and authority to do and perform each and every act
+and thing requisite and necessary to be done, as fully to all intents and
+purposes as the undersigned director might or could do in person, in
+furtherance of the foregoing.
+
+
+
+
+                                        /s/ Charles S. Mechem, Jr.    
+                                        ------------------------------
+                                        Director
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.7
+<SEQUENCE>15
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+                                                        Exhibit 24.7
+                           
+                           THE J. M. SMUCKER COMPANY
+
+
+                           REGISTRATION ON FORM 10-K
+
+
+                               POWER OF ATTORNEY
+
+
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that RUSSELL G. MAWBY, director of The
+J. M. Smucker Company, hereby appoints Timothy P. Smucker, Richard K. Smucker,
+and Steven J. Ellcessor, and each of them, with full power of substitution, as
+attorney or attorneys of the undersigned, to execute an Annual Report on Form
+10-K for the fiscal year ended April 30, 1994, in a form that The J. M. Smucker
+Company deems appropriate and to file the same, with all exhibits thereto and
+other documents in connection therewith, with the Securities and Exchange
+Commission, all pursuant to applicable legal provisions, with full power and
+authority to do and perform each and every act and thing requisite and
+necessary to be done, as fully to all intents and purposes as the undersigned
+director might or could do in person, in furtherance of the foregoing.
+
+
+
+
+                                        /s/ Russell G. Mawby          
+                                        -----------------------------
+                                        Director
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.8
+<SEQUENCE>16
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+
+                                                        Exhibit 24.8
+
+                           THE J. M. SMUCKER COMPANY
+
+
+                           REGISTRATION ON FORM 10-K
+
+
+                               POWER OF ATTORNEY
+
+
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that BENJAMIN B. TREGOE, JR., director
+of The J. M. Smucker Company, hereby appoints Timothy P.  Smucker, Richard K.
+Smucker, and Steven J. Ellcessor, and each of them, with full power of
+substitution, as attorney or attorneys of the undersigned, to execute an Annual
+Report on Form 10-K for the fiscal year ended April 30, 1994, in a form that
+The J. M. Smucker Company deems appropriate and to file the same, with all
+exhibits thereto and other documents in connection therewith, with the
+Securities and Exchange Commission, all pursuant to applicable legal
+provisions, with full power and authority to do and perform each and every act
+and thing requisite and necessary to be done, as fully to all intents and
+purposes as the undersigned director might or could do in person, in
+furtherance of the foregoing.
+
+
+
+
+                                        /s/ Benjamin B. Tregoe, Jr.   
+                                        --------------------------------
+                                        Director
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.9
+<SEQUENCE>17
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+                                                        Exhibit 24.9
+
+                           THE J. M. SMUCKER COMPANY
+
+
+                           REGISTRATION ON FORM 10-K
+
+
+                               POWER OF ATTORNEY
+
+
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that WILLIAM WRIGLEY, JR., director of
+The J. M. Smucker Company, hereby appoints Timothy P. Smucker, Richard K.
+Smucker, and Steven J. Ellcessor, and each of them, with full power of
+substitution, as attorney or attorneys of the undersigned, to execute an Annual
+Report on Form 10-K for the fiscal year ended April 30, 1994, in a form that
+The J. M. Smucker Company deems appropriate and to file the same, with all
+exhibits thereto and other documents in connection therewith, with the
+Securities and Exchange Commission, all pursuant to applicable legal
+provisions, with full power and authority to do and perform each and every act
+and thing requisite and necessary to be done, as fully to all intents and
+purposes as the undersigned director might or could do in person, in
+furtherance of the foregoing.
+
+
+
+
+                                        /s/ William Wrigley, Jr.      
+                                        ------------------------------
+                                        Director
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.10
+<SEQUENCE>18
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+                                                        Exhibit 24.10
+
+                           THE J. M. SMUCKER COMPANY
+
+
+                           REGISTRATION ON FORM 10-K
+
+
+                               POWER OF ATTORNEY
+
+
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that RICHARD G. JIRSA, controller of
+The J. M. Smucker Company, hereby appoints Timothy P. Smucker, Richard K.
+Smucker, and Steven J. Ellcessor, and each of them, with full power of
+substitution, as attorney or attorneys of the undersigned, to execute an Annual
+Report on Form 10-K for the fiscal year ended April 30, 1994, in a form that
+The J. M. Smucker Company deems appropriate and to file the same, with all
+exhibits thereto and other documents in connection therewith, with the
+Securities and Exchange Commission, all pursuant to applicable legal
+provisions, with full power and authority to do and perform each and every act
+and thing requisite and necessary to be done, as fully to all intents and
+purposes as the undersigned controller might or could do in person, in
+furtherance of the foregoing.
+
+
+
+
+                                        /s/ Richard G. Jirsa          
+                                        ----------------------------
+                                        Controller
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.11
+<SEQUENCE>19
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+
+                                                        Exhibit 24.11
+
+                           THE J. M. SMUCKER COMPANY
+
+
+                           REGISTRATION ON FORM 10-K
+
+
+                               POWER OF ATTORNEY
+
+
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that RICHARD K. SMUCKER, director of
+The J. M. Smucker Company, hereby appoints Timothy P. Smucker and Steven J.
+Ellcessor, and each of them, with full power of substitution, as attorney or
+attorneys of the undersigned, to execute an Annual Report on Form 10-K for the
+fiscal year ended April 30, 1994, in a form that The J. M. Smucker Company
+deems appropriate and to file the same, with all exhibits thereto and other
+documents in connection therewith, with the Securities and Exchange Commission,
+all pursuant to applicable legal provisions, with full power and authority to
+do and perform each and every act and thing requisite and necessary to be done,
+as fully to all intents and purposes as the undersigned director might or could
+do in person, in furtherance of the foregoing.
+
+
+
+
+                                        /s/ Richard K. Smucker        
+                                        ----------------------------
+                                        Director
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.12
+<SEQUENCE>20
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+
+                                                        Exhibit 24.12
+                           
+                           THE J. M. SMUCKER COMPANY
+
+
+                           REGISTRATION ON FORM 10-K
+
+
+                               POWER OF ATTORNEY
+
+
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that TIMOTHY P. SMUCKER, director of
+The J. M. Smucker Company, hereby appoints Richard K. Smucker and Steven J.
+Ellcessor, and each of them, with full power of substitution, as attorney or
+attorneys of the undersigned, to execute an Annual Report on Form 10-K for the
+fiscal year ended April 30, 1994, in a form that The J. M. Smucker Company
+deems appropriate and to file the same, with all exhibits thereto and other
+documents in connection therewith, with the Securities and Exchange Commission,
+all pursuant to applicable legal provisions, with full power and authority to
+do and perform each and every act and thing requisite and necessary to be done,
+as fully to all intents and purposes as the undersigned director might or could
+do in person, in furtherance of the foregoing.
+
+
+
+
+                                        /s/ Timothy P. Smucker        
+                                        ------------------------------
+                                        Director
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.13
+<SEQUENCE>21
+<DESCRIPTION>EXHIBIT
+<TEXT>
+
+<PAGE>   1
+                                                       Exhibit 24.13
+
+
+                           THE J. M. SMUCKER COMPANY
+
+
+                           REGISTRATION ON FORM 10-K
+
+
+                               POWER OF ATTORNEY
+
+
+
+
+         KNOW ALL MEN BY THESE PRESENTS, that BARBARA TRUEMAN, director of The
+J. M. Smucker Company, hereby appoints Timothy P. Smucker, Richard K. Smucker,
+and Steven J. Ellcessor, and each of them, with full power of substitution, as
+attorney or attorneys of the undersigned, to execute an Annual Report on Form
+10-K for the fiscal year ended April 30, 1994, in a form that The J. M. Smucker
+Company deems appropriate and to file the same, with all exhibits thereto and
+other documents in connection therewith, with the Securities and Exchange
+Commission, all pursuant to applicable legal provisions, with full power and
+authority to do and perform each and every act and thing requisite and
+necessary to be done, as fully to all intents and purposes as the undersigned
+director might or could do in person, in furtherance of the foregoing.
+
+
+
+
+                                        /s/ Barbara Trueman           
+                                        ------------------------------
+                                        Director
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,3078 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ VKgyuD8GP2hjG4lIgclhLqbrzNp9GCUERaTAAFMhKGJzHT+E7/R36H/f0SHbHuKR
+ v3vmFW+3WCTd9ftoF69qIw==
+
+<IMS-DOCUMENT>0000703351-94-000027.txt : 19941020
+<IMS-HEADER>0000703351-94-000027.hdr.sgml : 19941020
+ACCESSION NUMBER:		0000703351-94-000027
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19940629
+FILED AS OF DATE:		19940927
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRINKER INTERNATIONAL INC
+		CENTRAL INDEX KEY:			0000703351
+		STANDARD INDUSTRIAL CLASSIFICATION:	5812
+		IRS NUMBER:				751914582
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10275
+		FILM NUMBER:		94550502
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6820 LBJ FREEWAY #200
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75240
+		BUSINESS PHONE:		2149809917
+
+	MAIL ADDRESS:	
+		STREET 1:		6820 LBJ FREEWAY
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75240
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHILIS INC
+		DATE OF NAME CHANGE:	19910528
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>1994 - FORM 10-K
+<TEXT>
+
+
+
+
+
+
+
+
+
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                   FORM 10-K
+
+               ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+ For the fiscal year ended June 29, 1994        Commission File No.    1-10275
+
+                          BRINKER INTERNATIONAL, INC.
+
+            (Exact name of registrant as specified in its charter)
+
+        Delaware                                 75-1914582 
+(State or other jurisdiction of              (I.R.S. employer
+incorporation or organization)              identification no.)
+
+6820 LBJ Freeway, Dallas, Texas                  75240
+(Address of principal executive offices)       (Zip Code)
+
+                        Registrant's telephone number,
+                      including area code (214) 980-9917
+
+Securities registered pursuant to Section 12(b) of the Act:  None
+Securities registered pursuant to Section 12(g) of the Act:
+
+                              Title of Each Class
+                         Common Stock, $0.10 par value
+
+      Indicate by check mark whether the  registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities Exchange Act of
+1934  during the  preceding 12  months (or  for such  shorter period  that the
+registrant was required  to file such  reports), and (2)  has been subject  to
+such filing requirements for the past 90 days. Yes  X   No     
+
+      Indicate  by check mark if  disclosure of delinquent  filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of the registrant's knowledge, in definitive proxy  or information
+statements  incorporated by  reference in Part  III of  this Form  10-K or any
+amendment to this Form 10-K.  ______
+
+      The aggregate market  value of the  voting stock  held by persons  other
+than  directors  and  officers  of  registrant  (who  might  be deemed  to  be
+affiliates of registrant) at September 9, 1994 was $1,754,066,362.00.
+
+      Indicate  the number of shares  outstanding of each  of the registrant's
+classes of common stock, as of the latest practicable date.
+
+                                          Outstanding at
+      Class                               September 9, 1994
+
+Common Stock, $0.10 par value             71,647,592 Shares
+</PAGE>
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+      Portions  of the  registrant's  Annual Report  to  Shareholders for  the
+fiscal year ended June 29, 1994 are incorporated by reference into Parts I, II
+and IV hereof,  to the extent indicated herein.   Portions of the registrant's
+Proxy   Statement  dated  September  29,  1994,  for  its  annual  meeting  of
+shareholders  on November 3, 1994, are incorporated by reference into Part III
+hereof, to the extent indicated herein.
+
+                                    PART I
+
+Item 1.     BUSINESS.
+
+       General
+
+       Brinker International, Inc.  (the "Company") is principally engaged  in
+       the operation and development of the  Chili's Grill & Bar  ("Chili's"),
+       Grady's American Grill ("Grady's"),  Romano's Macaroni Grill ("Macaroni
+       Grill"), Spageddies  Italian Kitchen ("Spageddies")  and On The  Border
+       Cafes  ("On  The  Border")  restaurant  concepts.     The  Company  was
+       organized under the laws of the State of  Delaware in September 1983 to
+       succeed   to  the   business  operated   by  Chili's,  Inc.,   a  Texas
+       corporation, organized  in  August  1977.   The Company  completed  the
+       acquisitions of Grady's, Macaroni Grill,  Spageddies and On  The Border
+       in February 1989, November 1989, June 1993 and May 1994 respectively.
+
+       Restaurant Concepts and Menus
+
+       Chili's Grill & Bar
+
+       Chili's    establishments    are    full-service    Southwestern-themed
+       restaurants,  featuring  a  casual  atmosphere and  a  limited  menu of
+       freshly prepared chicken,  beef and seafood entrees, hamburgers,  ribs,
+       fajitas, sandwiches, salads, appetizers and desserts, all  of which are
+       prepared fresh daily according to special Chili's recipes.
+
+       Chili's  restaurants  feature   quick,  efficient  and  friendly  table
+       service  designed to  minimize  customer waiting  time  and  facilitate
+       table  turnover,   with  an   average  turnover  time   per  table   of
+       approximately  45 minutes.   Service personnel are  dressed casually in
+       jeans or  slacks,  knit shirts  and  aprons  to reinforce  the  casual,
+       informal environment.   The decor of  a Chili's  restaurant consists of
+       booth  seating, tile-top  tables,  hanging plants  and  wood  and brick
+       walls covered with interesting memorabilia.
+
+       Emphasis  is placed on  serving substantial  portions of fresh, quality
+       food at  modest prices.   Entree selections  range in  menu price  from
+       $4.75 to $9.95, with the average  revenue per meal, including alcoholic
+       beverages,  approximating  $8.55 per  person.   A  full-service bar  is
+       available at  each Chili's restaurant,  with frozen margaritas  offered
+       as the  concept's specialty  drink.   During  the year  ended June  29,
+       1994, food and  non-alcoholic beverage sales constituted  approximately
+       86%  of  the  concept's  total  restaurant  revenues,  with   alcoholic
+       beverage sales accounting for the remaining 14%.
+
+       Grady's American Grill
+
+       Grady's restaurants are casual, upscale dinner house restaurants  which
+       feature a  broad menu  focusing on  fresh seafood,  prime rib,  steaks,
+       chicken  and  pasta entrees,  salads, sandwiches,  appetizers, desserts
+       and a  full-service bar.  Grady's  restaurants feature  booth and table
+       seating, wood and brick walls, and  brass fixtures.  Service  personnel
+       are dressed smartly,  in casual slacks, buttoned-down shirts and  ties,
+       to reinforce the upscale atmosphere.
+
+       The restaurant appeals to a slightly  more sophisticated customer  than
+       Chili's.  Entree selections range  in price from $5.45  to $16.95, with
+       the   average  revenue   per  meal,   including   alcoholic  beverages,
+       approximating $10.95 per person.  During the year ended  June 29, 1994,
+       food and  non-alcoholic beverage sales  constituted approximately   88%
+       of the  concept's total  restaurant revenues,  with alcoholic  beverage
+       sales accounting for the remaining 12%.
+
+       Romano's Macaroni Grill
+
+       Macaroni  Grill   is  an   upscale  Italian   theme  restaurant   which
+       specializes  in  family-style  recipes  and  features  seafood,   meat,
+       chicken and pasta  entrees, salads, pizza, appetizers and desserts with
+       a  limited wine  and beer  selection in  most  restaurants and  a full-
+       service bar in recent and future  openings.  Exhibition cooking,  wood-
+       burning  ovens and  rotisseries provide  an enthusiastic  and  exciting
+       environment in  the restaurants.   Macaroni  Grill restaurants  feature
+       white linen-clothed  tables, fireplaces, a  pizza oven, sous  stations,
+       rotisseries  and prominent displays  of wines.   Service  personnel are
+       dressed in white, starched shirts and  aprons, dark slacks, and  bright
+       ties.
+
+       Entree  selections  range in  menu  price  from  $6.25  to $15.95  with
+       certain specialty items priced on  a daily basis.   The average revenue
+       per meal,  including alcoholic beverages,  is approximately $13.50  per
+       person.   During the year  ended June 29, 1994,  food and non-alcoholic
+       beverage sales  constituted approximately  83% of  the concept's  total
+       restaurant revenues, with  alcoholic beverage sales accounting for  the
+       remaining 17%.
+
+       Spageddies Italian Kitchen
+
+       Spageddies  restaurants  are casual,  full-service,  moderately-priced,
+       family  oriented  Italian  restaurants  featuring  rotisserie  chicken,
+       steak and pasta entrees, salads, pizza,  appetizers and desserts with a
+       full-service  bar.    Spageddies   restaurants  feature  an  exhibition
+       kitchen,  a  wood-burning pizza  oven,  booth  and  table seating,  and
+       prominent  displays  of  peppers,  parmesan  and  tomatoes.     Service
+       personnel are dressed casually in black  pants and striped polo  shirts
+       to reinforce the casual, informal, open environment.
+
+       Entree selections range in  menu price from $4.25  to $12.95, with  the
+       average revenue per meal,  including alcoholic beverages, approximating
+       $9.25 per  person.  During the year  ended June 29, 1994, food and non-
+       alcoholic  beverage   sales  constituted  approximately   92%  of   the
+       concept's total  restaurant  revenues,  with alcoholic  beverage  sales
+       accounting for the remaining 8%.
+
+        On The Border Cafes
+
+       On  The  Border restaurants  are  full-service,  casual  Tex-Mex  theme
+       restaurants   featuring  Southwest   mesquite-grilled  specialties  and
+       traditional Tex-Mex entrees and appetizers served in generous  portions
+       at modest  prices.   On The  Border serves  "Texas-sized" non-alcoholic
+       beverages in addition  to offering a  full-service bar.  On  The Border
+       restaurants  feature an  outdoor patio,  booth  and table  seating  and
+       brick  and  wood  walls  with  a  Southwest   decor.    On  The  Border
+       restaurants also offer enthusiastic table service intended to  minimize
+       customer   waiting   time   and   facilitate   table   turnover   while
+       simultaneously providing  customers  with  a satisfying  casual  dining
+       experience.
+
+       Entree selections range in  menu price from $5.45  to $12.95, with  the
+       average revenue per meal, including  alcoholic beverages, approximating
+       $10.00 per person.  During the  year ended June 29, 1994, food and non-
+       alcoholic  beverage   sales  constituted  approximately   74%  of   the
+       concept's total  restaurant  revenues,  with alcoholic  beverage  sales
+       accounting for the remaining 26%.
+
+       Restaurant Locations
+
+       At June  29, 1994,  Brinker  International, Inc.'s  system of  company-
+       operated, joint venture  and franchised units included 458  restaurants
+       located in  43 states,  Canada, Singapore,  Malaysia and  Mexico.   The
+       Company's portfolio of restaurants is illustrated below:
+
+                                          June 29, 1994
+
+       Chili's:
+         Company-Operated                      277
+         Franchise                              83
+
+       Grady's                                  34
+
+       Macaroni Grill:
+         Company-Operated                       34
+         Franchise                               1
+
+       Spageddies                                6
+
+       On The Border:
+         Company-Operated                       14
+         Franchise                               7
+
+       R&D Concepts:
+         Company-Operated                        1
+         Joint Venture                           1
+                                  TOTAL        458
+
+       Business Development
+
+       The  Company's long-term  objective  is  to continue  expansion of  its
+       restaurant concepts by  opening Company-operated units in strategically
+       desirable markets.   The Company intends to concentrate on  development
+       of  certain identified  markets to  achieve penetration  levels  deemed
+       desirable by the Company in order  to improve the Company's competitive
+       position,  marketing potential  and profitability.    Expansion efforts
+       will be  focused on major metropolitan  areas in the  United States and
+       smaller market areas which can adequately  support any of the Company's
+       restaurant concepts. 
+
+       The Company  considers the restaurant  site selection process  critical
+       to  its  long-term  success  and  devotes  significant  effort  to  the
+       investigation of  new locations  utilizing a  variety of  sophisticated
+       analytical  techniques.    The  site  selection  process focuses  on  a
+       variety  of  factors including:    trading-area  demographics  such  as
+       target population  density and household  income levels; an  evaluation
+       of site characteristics  such as visibility, accessibility and  traffic
+       volume;  proximity  to   activity  centers  such  as  shopping   malls,
+       hotel/motel complexes  and offices;  and an  analysis of  the potential
+       competition.   Members of  senior management  inspect and  approve each
+       restaurant site prior to its acquisition.
+
+       The Company  periodically reevaluates restaurant  sites to ensure  that
+       site  selection   attributes  have  not   deteriorated  below   minimum
+       standards.  In the event site deterioration were to  occur, the Company
+       makes a  concerted effort  to improve the  restaurant's performance  by
+       providing  physical,  operating and  marketing  enhancements  unique to
+       each restaurant's  situation.    If  internal efforts  to  restore  the
+       restaurant's   performance   to  acceptable   minimum   standards   are
+       unsuccessful, the  Company considers  relocation to  a proximate,  more
+       desirable  site, or  evaluates closing the restaurant  if the Company's
+       criteria,  such as return  on investment  and area  demographic data do
+       not support  a relocation.   Since  inception, the  Company has  closed
+       only three  restaurants, including one  in fiscal  1993 and two  in the
+       second  quarter  of  fiscal  1994,  which  were  performing  below  the
+       Company's   standards   primarily   due   to   declining   trading-area
+       demographics.  These  and future closings will  be key to a  successful
+       reallocation of resources to the stronger performing stores.
+
+       The  following  table illustrates  the  system-wide  restaurants either
+       opened or acquired  in fiscal 1994 and  the planned openings in  fiscal
+       1995:
+
+                                             Restaurant Openings               
+                            Fiscal 1994     Fiscal 1994         Fiscal 1995
+                              Openings    Net Acquisitions   Projected Openings
+
+       Chili's:
+         Company-Operated      31               11                 30-34
+         Franchise             14              (13)                25-30
+
+       Grady's                 10              -0-                 10-11
+
+       Macaroni Grill:
+         Company-Operated      12              -0-                 15-16
+         Franchise              1              -0-                  0-2
+
+       Spageddies               3              -0-                  6-7
+
+       On The Border:
+         Company-Operated      -0-              14                  3-4
+         Franchise             -0-               7                  -0-
+
+       R&D Concept--
+         Joint Venture          1              -0-                  2-3
+
+                   TOTAL       72               19                91-107
+
+       The restaurants acquired by the Company  in fiscal 1994 relate to three
+       acquisitions.   In October 1993, the  Company acquired the  assets of a
+       franchisee,  which  operated four  Chili's restaurants  in Pennsylvania
+       and Ohio  for approximately $8,165,000.00  in cash.   In May 1994,  the
+       Company acquired 100% ownership interest in  On The Border in  exchange
+       for  1,239,130  shares  of  Company  common   stock.    On  The  Border
+       operations included 14  company-operated and 7 franchised On The Border
+       restaurants in Texas, Florida, Tennessee,  Colorado and Missouri.  Also
+       in  May  1994, the  Company  acquired  the  remaining  50% interest  in
+       Northwest Restaurants  Joint Venture  ("NRJV") from  its joint  venture
+       partner in  exchange for 256,576 shares  of Company common stock.  NRJV
+       operated nine Chili's restaurants in California and Nevada.
+
+       The  Company  anticipates  that  some  of  the  fiscal  1995  projected
+       restaurant  openings will  be constructed  pursuant to  "build-to-suit"
+       agreements,  in which the lessor  contributes the land cost and all, or
+       substantially  all, of  the  building  construction  costs.   In  other
+       cases, the Company either leases  the land, and pays  for the building,
+       furniture,  fixtures and  equipment from  its  own  funds, or  owns the
+       land,  building, furniture,  fixtures  and equipment.    The  Company's
+       restaurant concept  portfolio allows the  Company to purchase  multiple
+       site  locations, which offers  the Company  a competitive  advantage in
+       the real estate market.
+
+       As  of June 29,  1994, the  Company has  completed obtaining  sites for
+       fiscal 1995  projected openings and  has lease  or purchase commitments
+       for future construction  of 44 Chili's, 12 Grady's, 17 Macaroni  Grill,
+       6 Spageddies  and 2  On The  Border restaurant  sites.  The  Company is
+       currently in  the process of locating  sites for  fiscal 1996 projected
+       openings.
+
+       The  following  table  illustrates  the   approximate  average  capital
+       investment for a typical unit in our primary restaurant concepts:
+
+<TABLE>
+<CAPTION>
+                Chili's      Grady's  Macaroni Grill   Spageddies   On The Border
+<S>            <C>        <C>          <C>              <C>            <C>
+
+Land           $620,000   $  800,000   $  900,000       $750,000       $720,000
+Building        850,000    1,100,000    1,050,000        975,000        975,000
+Furniture and
+ Equipment      450,000      560,000      475,000        550,000        575,000
+Other            80,000       90,000      125,000         75,000         80,000
+
+   TOTAL     $2,000,000   $2,550,000   $2,550,000     $2,350,000     $2,350,000
+</TABLE>
+
+       The specific rate at  which the Company is able to open new restaurants
+       is  determined   by  its  success   in  locating  satisfactory   sites,
+       negotiating  acceptable lease  or purchase  terms, securing appropriate
+       local governmental  permits  and  approvals,  and by  its  capacity  to
+       supervise construction and recruit and train management personnel.
+
+       Joint Venture and Franchise Operations
+
+       The Company intends  to continue  its expansion  through joint  venture
+       and  franchise  development,  both  domestically  and  internationally.
+       During the year ended  June 29, 1994, 14  new Chili's and one  Macaroni
+       Grill franchised restaurants were opened.
+
+       During  the  past   two  years,  the   Company  entered   into  several
+       international  franchise   agreements,  which  will  bring  Chili's  to
+       Australia, France, Puerto  Rico, and the United  Kingdom in the next 12
+       months.   In fiscal 1994, the  first Chili's  restaurants outside North
+       America  opened in  Singapore  and  Malaysia  on February 4,  1994  and
+       June 15,  1994, respectively.   The  third, fourth  and  fifth overseas
+       Chili's  locations  opened  in Egypt,  Australia  and  Puerto  Rico  on
+       July 19, 1994, August 28, 1994 and September 6, 1994, respectively.
+
+       The Company  intends to continue  pursuing international expansion  and
+       is  currently  contemplating  development  in  other  countries.    The
+       Company  has  entered  into  a separate  joint  venture  agreement  for
+       research  and development activities  related to  the testing  of a new
+       restaurant concept and  has a 50% interest in this joint venture, which
+       is accounted for under  the equity method.   A typical joint venture or
+       franchise  development   agreement   provides  for   payment  of   area
+       development  and  initial franchise  fees  in  addition  to  subsequent
+       royalty and advertising  fees based on the  annual gross sales of  each
+       restaurant.  Future  joint venture or franchise development  agreements
+       are  expected  to remain  limited  to  enterprises  having  significant
+       experience  as restaurant  operators and  proven financial  ability  to
+       develop multi-unit operations.
+
+       At  June 29, 1994,  20  total joint  venture  or  franchise development
+       agreements existed.  The Company anticipates  that an additional 25  to
+       30 franchised Chili's,  0-2 franchised Macaroni Grill restaurants,  and
+       1 franchised Spageddies restaurant will be opened during fiscal 1995.
+
+       Restaurant Management
+
+       The Company's  philosophy to  maintain and  operate each  concept as  a
+       distinct and separate entity ensures  that the culture, recruitment and
+       training  programs and  unique  operating environments  are  preserved.
+       These factors are critical to the viability of each concept.
+
+       The Company's restaurant management  structure varies by  concept.  The
+       individual  restaurants  themselves  are  led  by  a  management   team
+       including  a General  Manager  and  between three  to  five  additional
+       managers.    The  level  of restaurant  supervision  depends  upon  the
+       operating  complexity  and sales  volume  of  each  concept.   An  Area
+       Director/Supervisor is responsible for the supervision of, on  average,
+       three to  seven restaurants.   For  those concepts  with a  significant
+       number  of units  within a  geographical region,  additional levels  of
+       management may be  provided.  Each concept  is directed by a  President
+       or Senior Vice President.
+
+       The  Company believes  that there  is  a  high correlation  between the
+       quality  of  restaurant  management  and the  long-term  success  of  a
+       concept.   In that regard, the  Company encourages  increased tenure at
+       all management positions through various short and long-term  incentive
+       programs,  including equity ownership.  These programs,  coupled with a
+       general  management  philosophy  emphasizing  quality  of  life,   have
+       enabled  the  Company  to attract  and retain  management  employees at
+       levels above the industry norm.
+
+       The  Company  ensures consistent  quality  standards  in  all  concepts
+       through  the issuance  of Operations  Manuals covering all  elements of
+       operations and  Food  &  Beverage Manuals  which provide  guidance  for
+       preparation of Company formulated recipes.   Routine visitation  to the
+       restaurants by all levels  of supervision enforce  strict adherence  to
+       Company standards. 
+
+       The  Director  of  Training   for  each  concept   is  responsible  for
+       maintaining  each   concept's  operational   training  program,   which
+       includes  a  four   to  five  month  training  period  for   restaurant
+       management  trainees,  a continuing  management  training  process  for
+       managers and supervisors,  and training  teams consisting of groups  of
+       employees  experienced in  all  facets of  restaurant  operations  that
+       train employees to open new restaurants.   The training teams typically
+       begin on-site training at  a new restaurant seven to ten days prior  to
+       opening  and  remain on  location  two  to  three  weeks following  the
+       opening to ensure the smooth transition to operating personnel.
+
+       Purchasing
+
+       The  Company's  ability to  maintain  consistent  quality  of  products
+       throughout each of its restaurant  concepts depends upon acquiring food
+       products and related items from reliable  sources.  Suppliers are  pre-
+       approved by the  Company and are required along with the restaurants to
+       adhere  to  strict  product  specifications  established  through   the
+       Company's newly created quality  assurance program to  ensure that high
+       quality, wholesome  food  and  beverage  products  are  served  in  the
+       restaurants.  The Company negotiates directly with the major  suppliers
+       to  obtain competitive prices and uses purchase commitment contracts to
+       stabilize  the potentially  volatile  pricing associated  with  certain
+       commodity  items.    All  essential  food  and  beverage  products  are
+       available,  or  upon  short   notice  can  be   made  available,   from
+       alternative qualified  suppliers in all cities  in which the  Company's
+       restaurants are located.  Because of  the relatively rapid turnover  of
+       perishable food  products, inventories in  the restaurants,  consisting
+       primarily of  food, beverages  and supplies,  have  a modest  aggregate
+       dollar value in relation to revenues.
+
+       Advertising and Marketing
+
+       The  Company's concepts generally  focus on  the 18 to 54  year old age
+       group,  which  constitutes approximately  half  of  the  United  States
+       population.  Members of  this population segment grew up on fast  food,
+       but the Company believes that, with  increasing maturity, they prefer a
+       more adult, upscale  dining experience. To  attract this  target group,
+       the  Company  relies  primarily  on  television,  radio,  direct   mail
+       advertising and word-of-mouth information communicated by customers.
+
+       The Company's  franchise agreements  require advertising  contributions
+       to the  Company to be used  exclusively for the purpose of maintaining,
+       directly  administering  and  preparing  standardized  advertising  and
+       promotional activities.  Franchisees spend additional amounts on  local
+       advertising when approved by the Company.
+
+       Competition
+
+       The restaurant business  is highly  competitive with respect to  price,
+       service, restaurant  location and food  quality, and  is often affected
+       by  changes in  consumer tastes,  economic conditions,  population  and
+       traffic  patterns.    The Company  competes  within  each  market  with
+       locally-owned restaurants as  well as national and regional  restaurant
+       chains,  some  of  which  operate  more  restaurants  and have  greater
+       financial resources  and longer operating  histories than the  Company.
+       There  is   active  competition  for   management  personnel  and   for
+       attractive commercial real estate sites suitable for restaurants.
+
+       Employees
+
+       At June  29, 1994, the Company  employed approximately 38,000  persons,
+       of  whom  approximately  650  were  corporate  personnel,  1,300   were
+       restaurant  managers   or  trainees   and  36,050   were  employed   in
+       non-management restaurant positions.  Of the   650 corporate employees,
+       250 were  in management  positions and approximately  400 were  general
+       office employees.    The executive  officers  of  the Company  have  an
+       average  of  more  than  19  years  of  experience  in  the  restaurant
+       industry.
+
+       The Company  considers its employee relations  to be  good and believes
+       that  its employee turnover  rate is  lower than  the industry average.
+       Most  employees,  other  than   restaurant  management  and   corporate
+       personnel, are paid on  an hourly basis.  The Company believes that  it
+       provides  working conditions  and  wages that  compare  favorably  with
+       those of  its competition.  The  Company's employees are not covered by
+       any collective bargaining agreements.
+
+       Service Marks
+
+       The   Company   has    registered,   among   other   marks,    "Brinker
+       International",   "Chili's",  "Grady's",   "Romano's  Macaroni  Grill",
+       "Spageddies", "Spageddies  Italian Italian Food",  and "On The  Border"
+       as service  marks with the United  States Patent  and Trademark Office.
+       In  addition, the Company  has a  service mark  application pending for
+       "Grady's American Grill" and "Spageddies Italian Kitchen".
+
+       Seasonality
+
+       The Company's  sales volumes  fluctuate seasonally,  and are  generally
+       higher in the summer months and lower in the winter months.
+
+       Governmental Regulation
+
+       Each  of  the  Company's  restaurants   is  subject  to  licensing  and
+       regulation  by alcoholic  beverage control,  health, sanitation, safety
+       and  fire  agencies in  the  state  and/or  municipality  in which  the
+       restaurant  is   located.     The  Company  has  not   encountered  any
+       difficulties  or  failures  in  obtaining  the  required  licenses   or
+       approvals that could delay  or prevent the opening of a new  restaurant
+       and does not, at this time, anticipate any.
+
+       The Company is  subject to federal and state environmental regulations,
+       but these have  not had  a material  negative effect  on the  Company's
+       operations.  More stringent and varied  requirements of local and state
+       governmental bodies with respect to zoning, land use and  environmental
+       factors  could  delay  or prevent  development  of  new restaurants  in
+       particular  locations.   The  Company  is  subject  to  the Fair  Labor
+       Standards  Act which governs  such matters  as minimum  wages, overtime
+       and   other  working   conditions,  along   with  the   American   With
+       Disabilities  Act  and various  family  leave  mandates.   The  Company
+       anticipates legislation concerning mandated  health care benefits which
+       may have significant consequences to the Company.
+
+Item 2.     PROPERTIES.
+
+       The  following  table   illustrates  the  approximate   average  dining
+       capacity for each unit in primary restaurant concepts:
+
+<TABLE>
+<CAPTION>
+                Chili's      Grady's  Macaroni Grill   Spageddies   On The Border
+<S>             <C>          <C>          <C>           <C>            <C>
+Square Feet      5,800        6,900        7,100         7,000          7,900
+Dining Seats    210-220      230-250      230-250       240-260        340-360
+Dining Tables    50-60        50-60        60-70         50-60          75-85
+</TABLE>
+
+       Certain of the Company's restaurants are leased  for an initial term of
+       5  to 30  years, with  renewal terms  of  1  to 30  years.   The leases
+       typically provide for a fixed rental  plus percentage rentals based  on
+       sales volume.   At  June 29,  1994, the  Company owned the  land and/or
+       building for 236 of the 366  Company-operated restaurants.  The Company
+       has closed three  restaurants since  inception and  considers that  its
+       properties are suitable,  adequate, well-maintained and sufficient  for
+       the operations contemplated.
+
+       The  Company  leases warehouse  space  totalling  approximately  31,500
+       square feet  in  Dallas, Texas,  which  it  uses for  menu  development
+       activity and  for  storage of  equipment  and  supplies.   The  Company
+       purchased an  office building  containing approximately  105,000 square
+       feet for its corporate headquarters in  July 1989.  Approximately 5,600
+       square feet of  this building is  leased to  third party  tenants.   In
+       March  1992,  the  Company  leased  additional  office  space  for  the
+       expansion of its corporate headquarters.  This additional office  lease
+       was expanded  in July 1994  and currently includes approximately 46,400
+       square feet of office space.
+
+Item 3.     LEGAL PROCEEDINGS.
+
+       None.
+
+Item 4.     SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+       None.
+
+
+                                    PART II
+
+Item 5.     MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+            SHAREHOLDER MATTERS.
+
+       The Company's  Common Stock is  traded on the  New York Stock  Exchange
+       ("NYSE")  under   the  symbol  "EAT".    Bid  prices  quoted  represent
+       interdealer  prices  without  adjustment  for retail  markup,  markdown
+       and/or   commissions,  and   may  not   necessarily  represent   actual
+       transactions.   The following table sets  forth the  quarterly high and
+       low closing sales prices of the Common Stock, as reported by the NYSE.
+
+       Fiscal year ended June 29, 1994:
+
+       First Quarter          26 1/12           22 1/6
+       Second Quarter         30 2/3            25 2/3
+       Third Quarter          33 1/3            26 5/6
+       Fourth Quarter         31 1/2            20 3/8
+
+       Fiscal year ended June 30, 1993:
+
+       First Quarter          18                13 8/9
+       Second Quarter         18 8/9            14 17/18
+       Third Quarter          21 2/3            18 5/9
+       Fourth Quarter         24 2/3            18 1/3
+
+       On March 9,  1994, the Company declared a stock split,  effected in the
+       form of  a 50%  stock dividend  ("Stock Dividend")  to shareholders  of
+       record on  March 21, 1994, payable March 30, 1994.  Stock prices in the
+       preceding table have been restated to reflect the Stock Dividend.
+
+       As of  September 9,  1994, there  were 2,107  holders of record  of the
+       Company's Common Stock.
+
+       The Company has never  paid cash dividends on its Common Stock and does
+       not  currently  intend to  do so  as  profits  are reinvested  into the
+       Company  to fund  expansion of  its  restaurant  business.   Payment of
+       dividends  in  the  future  will  depend  upon  the  Company's  growth,
+       profitability, financial  condition and other  factors which the  Board
+       of Directors may deem relevant.
+
+Item 6.     SELECTED FINANCIAL DATA.
+
+       "Selected  Financial Data"  on  page 42  of the  Company's 1994  Annual
+       Report to Shareholders is incorporated herein by reference.
+
+Item 7.     MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+            CONDITION AND RESULTS OF OPERATIONS.
+
+       "Management's  Discussion  and  Analysis  of  Financial  Condition  and
+       Results  of Operations" on  pages 43 through  47 of  the Company's 1994
+       Annual Report to Shareholders is incorporated herein by reference.
+
+Item 8.     FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+       See Item 14(a).
+
+Item 9.     CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+            ACCOUNTING AND FINANCIAL DISCLOSURE.
+
+       None.
+
+                                   PART III
+
+Item 10.    DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+        The information relating  to the Company's directors  (including those
+        officers  who are directors) is incorporated  herein by reference from
+        pages 4 through 9  of the  Company's Proxy  Statement dated  September
+        29, 1994, for the annual meeting of shareholders on November 3, 1994.
+
+Item 11.    COMPENSATION INFORMATION.
+
+        "Executive Compensation" on pages 9 through 11 of  the Company's Proxy
+        Statement  dated  September  29,  1994,  for  the  annual  meeting  of
+        shareholders  on   November  3,  1994,   is  incorporated  herein   by
+        reference.
+
+Item 12.    SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+        "Principal  Shareholders"  on   page 2  and  "Security  Ownership   of
+        Management and  Election of  Directors" on  pages 3 through  4 of  the
+        Company's  Proxy Statement  dated September  29, 1994,  for the annual
+        meeting of  shareholders on November 3,  1994, are incorporated herein
+        by reference.
+
+Item 13.    CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+        None.
+
+                                    PART IV
+
+
+Item 14.    EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+
+        (a)  (1) and (2) Financial Statements and Schedules.
+
+        Reference is made  to the listing  preceding the financial  statements
+        and schedules attached hereto on  page 15 of all financial  statements
+        and schedules filed as a part of this Report.
+
+        (a)  (3)  Exhibits.
+
+        Reference  is  made  to  the  Exhibit  Index  preceding  the  exhibits
+        attached hereto  on page E-1  for a  list of all  exhibits filed as  a
+        part of this Report.
+
+        (b)  Reports on Form 8-K
+
+        The Company was  not required  to file  a current  report on  Form 8-K
+        during the three months ended June 29, 1994.
+</PAGE>
+                                  SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the  registrant has duly caused this  report to be signed  on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                    BRINKER INTERNATIONAL, INC.,
+                                    a Delaware corporation
+
+
+
+
+                                    By:  Debra L. Smithart                    
+                                       Debra L. Smithart, Executive Vice
+                                       President - Chief Financial Officer
+
+
+Dated: September 27, 1994
+</PAGE>
+
+Pursuant to  the requirements  of the Securities  Exchange Act  of 1934,  this
+report has been signed below by the following persons of the registrant and in
+the capacities indicated on September 27, 1994.
+
+         Name                                      Title
+
+
+ Norman E. Brinker                        Chairman of the Board, Chief
+Norman E. Brinker                         Executive Officer and Director
+                                          (Principal Executive Officer)
+
+
+ Debra L. Smithart                        Executive Vice President -  Chief
+Debra L. Smithart                         Financial Officer and Director
+                                          (Principal Financial and  Accounting
+                                          Officer)
+
+
+ Ronald A. McDougall                      Director
+Ronald A. McDougall
+
+
+
+ Creed L. Ford, III                       Director
+Creed L. Ford, III
+
+
+
+ F. Lane Cardwell, Jr.                    Director
+F. Lane Cardwell, Jr.
+
+
+
+ Roger F. Thomson                         Director
+Roger F. Thomson
+
+
+
+                                          Director
+Jack W. Evans, Sr.
+
+
+
+                                          Director
+Rae F. Evans
+
+
+
+                                          Director
+J.M. Haggar, Jr.
+
+
+
+                                          Director
+Ray L. Hunt
+
+
+
+                                          Director
+J. Ira Harris
+
+
+                                          Director
+Frederick S. Humphries
+
+
+
+ James E. Oesterreicher                   Director
+James E. Oesterreicher
+
+
+
+                                          Director
+William F. Regas
+
+
+
+ Roger T. Staubach                        Director
+Roger T. Staubach
+</PAGE>
+
+                       INDEX TO FINANCIAL STATEMENTS AND
+                         FINANCIAL STATEMENT SCHEDULES
+
+The following is a listing of the financial statements and financial statement
+schedules  which are  included in  this Form  10-K  or which  are incorporated
+herein by reference.  The financial statements of the Company  included in the
+Company's  1994  Annual Report  to  Shareholders  are incorporated  herein  by
+reference in Item 8.
+                                                             Reference Page
+
+                                                                  1994 Annual
+                                                      Form 10-K   Report Page
+
+Independent Auditors' Report                                           62
+
+Consolidated Balance Sheets -
+     June 29, 1994 and June 30, 1993                                  48-49
+
+Consolidated Statements of Income -
+     Years Ended June 29, 1994, June 30, 1993 and 1992                 50
+
+Consolidated Statements of Shareholders'
+     Equity - Years Ended June 29, 1994 and
+     June 30, 1993 and 1992                                            51
+
+Consolidated Statements of Cash Flows -
+     Years Ended June 29, 1994, June 30, 1993 and 1992                 52
+
+Notes to Consolidated Financial Statements                            53-61
+
+Independent Auditors' Report on Financial
+      Statement Schedules                                  16
+
+Schedules:
+
+       I  -  Marketable Securities - Other Investments     17
+       V  -  Consolidated Property and Equipment           18
+      VI  -  Consolidated Accumulated Depreciation and
+              Amortization of Property and Equipment       19
+      IX  -  Consolidated Short-term Borrowings            20
+       X  -  Supplemental Income Statement Information     21
+
+
+      All   other  schedules  are  omitted  as  the  required  information  is
+      inapplicable  or   the  information   is  presented  in   the  financial
+      statements, related notes or other schedules.
+</PAGE>
+
+                        INDEPENDENT AUDITORS' REPORT ON
+                         FINANCIAL STATEMENT SCHEDULES
+
+
+The Board of Directors
+Brinker International, Inc.:
+
+
+Under date of July 29, 1994, we reported on the consolidated balance sheets of
+Brinker International, Inc. and subsidiaries as  of June 29, 1994 and June 30,
+1993, and the related consolidated  statements of income, shareholders' equity
+and cash flows  for each of the years in the  three-year period ended June 29,
+1994,  as  contained  in  the  1994  annual  report  to  shareholders.   These
+consolidated financial statements  and our report thereon are  incorporated by
+reference in the annual report on Form  10-K for the year ended June 29, 1994.
+In connection  with our  audits of  the aforementioned  consolidated financial
+statements, we  also  audited the  related  financial statement  schedules  as
+listed in the accompanying index.  These financial statement schedules are the
+responsibility  of the Company's management.  Our responsibility is to express
+an opinion on these financial statement schedules based on our audits.
+
+In  our  opinion,  such  financial  statement  schedules,  when considered  in
+relation  to the  basic consolidated  financial statements  taken as  a whole,
+present fairly, in all material respects, the information set forth therein.
+
+
+
+                                    KPMG Peat Marwick LLP
+
+
+
+
+Dallas, Texas
+July 29, 1994
+</PAGE>
+
+                                  SCHEDULE I
+
+                          BRINKER INTERNATIONAL, INC.
+                    MARKETABLE SECURITIES-OTHER INVESTMENTS
+                                 JUNE 29, 1994
+                     (In thousands, except share amounts)
+
+<TABLE>
+<CAPTION>
+                          Number of Shares or                   Market and
+     Type of Issue        Principal Amounts        Cost       Carrying Value
+  <S>                          <C>              <C>              <C>
+Preferred Stocks:
+  Financial Institutions       768,578          $ 24,714         $ 24,501
+  Consumer Products            284,030             9,434            9,371
+  Energy                       180,000             4,311            4,277
+  High Tech                    120,000             3,800            3,790
+  Utilities                    100,000             2,543            2,450
+  Insurance                     50,000               878              850
+
+Total Long-Term Investments                     $ 45,680         $ 45,239
+</TABLE>
+</PAGE>
+
+                                              SCHEDULE V
+
+                                      BRINKER INTERNATIONAL, INC.
+                                  CONSOLIDATED PROPERTY AND EQUIPMENT
+                                            (In thousands)
+<TABLE>
+<CAPTION>
+                         Balance at
+                        Beginning of                                 Balance at
+                          Period        Additions (1)  Retirements  End of Period
+<S>                     <C>             <C>           <C>             <C>
+For the Year Ended
+June 30, 1992:
+
+Land                    $  38,752       $  26,008       $  (480)      $   64,280
+Buildings and Lease-
+ hold Improvements        136,927          35,462          (805)         171,584
+Furniture & Equipment      89,056          33,168        (6,751)         115,473
+Construction-in-
+  Progress                  7,564           3,362           ---           10,926
+
+    Total               $ 272,299       $  98,000     $  (8,036)      $  362,263
+
+For the Year Ended
+June 30, 1993:
+
+Land                    $  64,280       $  24,128       $  (847)      $   87,561
+Buildings and Lease-
+ hold Improvements        171,584          52,894          (893)         223,585
+Furniture & Equipment     115,473          31,693        (2,341)         144,825
+Construction-in-
+  Progress                 10,926          18,116           ---           29,042
+
+    Total               $ 362,263       $ 126,831     $  (4,081)      $  485,013
+
+For the Year Ended
+June 29, 1994:
+
+Land                    $  87,561       $  20,734       $(2,255)      $  106,040
+Buildings and Lease-
+ hold Improvements        223,585          65,252        (2,521)         286,316
+Furniture & Equipment     144,825          33,949        (7,384)         171,390
+Construction-in-
+  Progress                 29,042           2,258           ---           31,300
+
+    Total               $ 485,013       $ 122,193     $ (12,160)      $  595,046
+
+                        
+
+(1)   Additions  primarily represent  costs  for acquiring  land,  constructing new  restaurants,  and
+      equipping new restaurants.
+</TABLE>
+</PAGE>
+                                              SCHEDULE VI
+
+                                      BRINKER INTERNATIONAL, INC.
+                        CONSOLIDATED ACCUMULATED DEPRECIATION AND AMORTIZATION
+                                       OF PROPERTY AND EQUIPMENT
+                                            (In thousands)
+
+<TABLE>
+<CAPTION>
+                         Balance at
+                        Beginning of                                 Balance at
+                          Period        Additions     Retirements  End of Period
+   <S>                  <C>             <C>            <C>            <C>
+For the Year Ended
+June 30, 1992:
+
+Buildings and Leasehold
+ Improvements           $ (26,222)      $ ( 8,434)     $    188       $  (34,468)
+Furniture & Equipment     (48,752)        (15,225)        5,124          (58,853)
+
+  Total Accumulated
+   Depreciation and
+   Amortization         $ (74,974)      $ (23,659)     $  5,312       $  (93,321)
+
+
+For the Year Ended
+June 30, 1993:
+
+Buildings and Leasehold
+ Improvements           $ (34,468)      $ (10,147)     $     72       $  (44,543)
+Furniture & Equipment     (58,853)        (21,015)        2,147          (77,721)
+
+  Total Accumulated
+   Depreciation and
+   Amortization         $ (93,321)      $ (31,162)     $  2,219       $ (122,264)
+
+
+For the Year Ended
+June 29, 1994:
+
+Buildings and Leasehold
+ Improvements           $ (44,543)      $ (17,611)     $    807       $  (61,347)
+Furniture & Equipment     (77,721)        (23,988)        2,198          (99,511)
+
+  Total Accumulated
+   Depreciation and
+   Amortization         $(122,264)      $ (41,599)     $  3,005       $ (160,858)
+</TABLE>
+</PAGE>
+
+                                              SCHEDULE IX
+
+                                      BRINKER INTERNATIONAL, INC.
+                                  CONSOLIDATED SHORT-TERM BORROWINGS
+                                            (In thousands)
+
+<TABLE>
+<CAPTION>
+                                                        Maximum        Average       Weighted
+                                                         Amount        Amount         Average
+                                         Weighted      Outstanding   Outstanding     Interest
+Category of Aggregate    Balance At      Average         During        During         During
+Short Term Borrowings   End of Period  Interest Rate   The Period   The Period (2)  The Period (3)
+
+NOTES PAYABLE
+TO BANKS (Bank Borrowings)(1)
+       <C>                  <C>            <C>          <C>            <C>          <C>
+
+Years Ended June 30,
+
+       1992                 ---            ---          $ 4,000        $   612         7.094%
+
+       1993                 ---            ---          $12,650        $ 3,008         3.590%
+
+
+Year Ended June 29,
+
+       1994                 ---            ---          $ 9,950        $ 4,229         5.005%
+
+              
+
+(1)   Notes payable to banks represent obligations payable  under line of credit agreements with local
+      banks.  Borrowings are arranged on an as needed basis at various terms.
+
+(2)   The average amount outstanding during the year represents the average monthly principal balances
+      outstanding during the year.
+
+(3)   The  weighted average  interest  rates during  the year  were  computed by  dividing  the actual
+      interest accrued on short-term borrowings by the average short-term borrowings.
+</TABLE>
+</PAGE>
+
+                                              SCHEDULE X
+
+                                      BRINKER INTERNATIONAL, INC.
+                               SUPPLEMENTAL INCOME STATEMENT INFORMATION
+                                            (In thousands)
+
+<TABLE>
+<CAPTION>
+                                               FOR THE YEARS ENDED             
+                                  June 29, 1994   June 30, 1993   June 30, 1992
+<S>                                  <C>             <C>             <C>
+Repair and Maintenance               17,740          12,010          10,593
+
+Amortization                          9,902           6,573           5,401
+
+Property Tax                         10,285           7,244           5,651
+
+Advertising                          27,507          23,922          17,694
+</TABLE>
+</PAGE>
+                               INDEX TO EXHIBITS
+
+Exhibit
+
+ 3(a)       Certificate of Incorporation of the registrant, as amended. (1)
+
+ 3(b)       Bylaws of the registrant. (2)
+
+10(a)       Registrant's 1983 Incentive Stock Option Plan. (3)
+
+10(b)       Registrant's 1991 Stock Option Plan for Non-Employee Directors and
+            Consultants (4)
+
+10(c)       Registrant's 1992 Incentive Stock Option Plan. (5)
+
+13          1994 Annual Report to Shareholders. (6)
+
+21          Subsidiaries of the registrant. (7)
+
+23          Independent Auditors' Consent. (7)
+
+27          Financial Data Schedule. (8)
+
+99          Proxy Statement of registrant dated September 29, 1994. (6)
+
+                       
+
+(1)         Filed  as an  exhibit  to Registration  Statement No. 32-52705  on
+            Form S-4 and incorporated herein by reference.
+
+(2)         Filed  as an exhibit to Registration Statement No. 2-87736 on Form
+            S-1 and incorporated herein by reference.
+
+(3)         Filed as an exhibit to report on Form 10-K for year ended June 30,
+            1990 and incorporated herein by reference.
+
+(4)         Filed as an exhibit to report on Form 10-K for year ended June 30,
+            1991 and incorporated herein by reference.
+
+(5)         Filed as an exhibit to Registration Statement No. 33-61594 on Form
+            S-8 and incorporated herein by reference.
+
+(6)         Portions filed herewith, to the extent indicated herein.
+
+(7)         Filed herewith.
+
+(8)         Filed with EDGAR version.
+
+
+                                      E-1
+</PAGE>
+                                              EXHIBIT 13
+
+                                  1994 ANNUAL REPORT TO SHAREHOLDERS
+
+<TABLE>
+                                        SELECTED FINANCIAL DATA
+                  (In thousands, except per share amounts and number of restaurants)
+
+                                                 Fiscal Years
+<CAPTION>
+
+                               1994       1993       1992       1991      1990
+<S>                          <C>        <C>        <C>        <C>       <C>
+Income Statement Data:
+
+Revenues                     $878,473   $697,396   $562,361   $468,926  $385,847
+Costs and Expenses:
+  Cost of Sales               239,835    193,794    156,246    135,365   113,521
+  Restaurant Expenses         446,845    355,040    294,095    245,583   202,957
+  Depreciation and
+    Amortization               51,501     38,223     29,031     23,245    19,232
+  General and Administrative   45,662     37,170     30,761     26,338    21,501
+  Interest Expense                430        395        622      1,063     2,850
+  Merger Expenses               1,949        ---        ---        ---       ---
+  Lawsuit Settlement            2,248        ---        ---        ---       ---
+  Other, Net                   (5,435)    (5,232)    (3,255)    (1,516)   (1,287)
+
+  Total Costs and Expenses    783,035    619,390    507,500    430,078   358,774
+
+Income Before Provision for
+  Income Taxes                 95,438     78,006     54,861     38,848    27,073
+Provision for Income Taxes     33,832     27,083     18,836     13,565     9,328
+
+  Net Income                 $ 61,606   $ 50,923   $ 36,025   $ 25,283  $ 17,745
+
+Primary Net Income
+  Per Share                  $   0.83   $   0.70   $   0.50   $   0.39  $   0.31
+
+Primary Weighted Average
+  Shares Outstanding           74,572     72,911     71,454     65,336    56,526
+
+Balance Sheet Data
+(end of period):
+
+  Working Capital
+   (Deficit)                 $(56,193)  $(40,596)  $(24,871)  $  1,944  $(19,713)
+  Total Assets                558,709    454,354    354,748    276,407   207,891
+  Long-term Obligations        38,003     30,782     26,409     24,270    28,543
+  Shareholders' Equity        417,290    343,905    261,523    207,048   131,972
+
+Number of Restaurants Open
+at End of Period:
+
+  Company Operated                366        305        255        220       189
+  Franchised                       92         78         60         51        41
+    Total                         458        383        315        271       230
+
+Prior year financial  results have been restated to reflect the fiscal 1994 acquisitions accounted for
+as poolings of interests and the fiscal 1994 stock split effected in the form of a 50% stock dividend.
+</TABLE>
+</PAGE>
+                    MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                 FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+RESULTS OF OPERATIONS FOR FISCAL YEARS 1994, 1993, AND 1992
+
+The following table sets forth expenses  as a percentage of total revenues for
+the   periods  indicated  for  revenue  and  expense  items  included  in  the
+Consolidated Statements of Income.
+
+                                    PERCENTAGE OF TOTAL REVENUES
+                                            Fiscal Years
+                                     1994        1993        1992
+
+Revenues                            100.0%      100.0%      100.0%
+
+Costs and Expenses:
+  Cost of Sales                      27.3%       27.8%       27.8%
+  Restaurant Expenses                50.9%       50.9%       52.3%
+  Depreciation and Amortization       5.9%        5.5%        5.2%
+  General and Administrative          5.2%        5.3%        5.5%
+  Interest Expense                    0.0%        0.0%        0.0%
+  Merger Expenses                     0.2%        ---         ---
+  Lawsuit Settlement                  0.2%        ---         ---
+  Other, Net                         (0.6%)      (0.7%)      (0.6%)
+
+Total Costs and Expenses             89.1%       88.8%       90.2%
+
+Income Before Provision
+  for Income Taxes                   10.9%       11.2%        9.8%
+
+Provision for Income Taxes            3.9%        3.9%        3.4%
+
+      Net Income                      7.0%        7.3%        6.4%
+
+REVENUES
+
+Increases in  revenues of 26% and  24% in fiscal 1994  and 1993, respectively,
+primarily relate to the  increases in the number of  Company-owned restaurants
+and comparable store sales.  The  percentage increase in the average number of
+Company-owned restaurants in operation was 20% for both fiscal 1994 and  1993.
+Increases  in comparable  store sales were  2.1% and  3.8% in  fiscal 1994 and
+1993, respectively.   These favorable  trends were due  to increased  customer
+counts resulting from the  Company's commitment to providing quality  food and
+service at  an exceptional value, its  ongoing evolution of the  menu, and its
+continued  remodeling program to keep its restaurants updated and the ambiance
+inviting to the guests.  In addition, the Company continues to refine its real
+estate  site selection  process  which focuses  on trading-area  demographics,
+visibility, accessibility, and complementary concept locations.  Quality sites
+provide  a  competitive advantage  and contribute  to  stronger sales  for new
+restaurants.   Menu  price increases  had  little impact  on  the increase  in
+revenues as  weighted average price increases over the past two years averaged
+less than 1% per year.
+
+COSTS AND EXPENSES (as a percent of Revenues)
+
+Cost of sales  decreased in fiscal  1994 compared to  fiscal 1993.   Favorable
+price changes in  produce, dairy,  poultry, and pasta,  recipe changes  toward
+lower  food  cost items,  implementation of  meat  waste control  systems, and
+increased  purchasing  leverage  offset  unfavorable  price  changes  in  non-
+alcoholic beverages.  Cost of sales remained constant in  fiscal 1993 compared
+to  fiscal  1992  as the  favorable  impact from  continued  emphasis  on food
+portioning and  waste and yield management programs were offset by product mix
+changes to menu items with higher percentage food costs. 
+
+Restaurant expenses  were flat in fiscal  1994.  Insurance costs  were flat as
+aggressive safety and loss management  programs implemented in the restaurants
+in fiscal 1993 have continued to be successful and offset rising insurance and
+health care costs.  Occupancy costs, however, decreased due to  an increase in
+percentage  of restaurants owned versus  leased.  Liquor  taxes also decreased
+due to the Company's expansion into states with lower liquor tax rates.  These
+decreases were  offset by increases  in manager salaries  due to  annual merit
+increases, manager training expenses to support expansion, and  property taxes
+due to increased rates.   In fiscal 1993, restaurant expenses declined  as the
+administrative hours required  of restaurant managers was reduced, programs to
+contain insurance costs were introduced, and rent expense decreased due to the
+increase in percentage of owned restaurants versus leased.
+
+Depreciation  and amortization increased in fiscal 1994 and 1993 primarily due
+to continued investments in computer hardware and software which has generated
+operating efficiencies at  both the restaurants  and corporate office  support
+groups.   Also,  the  ongoing  restaurant remodeling  program,  the  continued
+replacement of restaurant furniture  and equipment, and the trend  to purchase
+new restaurant sites in favor of leasing have contributed to the increases.   
+
+General  and administrative  expenses have  decreased in  the past  two fiscal
+years   as  a  result  of   the  Company's  focus   on  controlling  corporate
+expenditures.   Efficiencies resulting  from investments in  computer hardware
+and software allowed the Company to continue with the aggressive  expansion of
+its restaurant concepts without  incurring significant increases in  staff and
+support costs.
+
+Merger expenses are  one-time charges  related to  the acquisition  of On  The
+Border, such as consulting fees, legal fees, and severance costs.
+
+Lawsuit  settlement represents  a one-time  charge to  settle an  injury claim
+arising from an airplane  accident involving several former officers of On The
+Border.
+
+Other, net,  decreased in  fiscal 1994.   A gain  of approximately  $1 million
+related to the sale of land in fiscal 1994 was offset by losses resulting from
+recognition of a  permanent decline  in market value  for certain  securities.
+Net realized gains  on investment  transactions were down  slightly in  fiscal
+1994.   Dividend  and interest  income, however,  was flat.   The  increase in
+fiscal 1993 compared to fiscal 1992 is the result of  increased realized gains
+from investment transactions experienced  in fiscal 1993 offset somewhat  by a
+decrease in dividend and interest income.
+
+INCOME BEFORE PROVISION FOR INCOME TAXES
+
+As a result  of changes in  the relationships between  revenues and costs  and
+expenses, income before provision for income  taxes has increased at rates  of
+22.3% and 42.2% in fiscal 1994 and 1993, respectively.
+
+INCOME TAXES
+
+The  Company's effective income tax rate of  35.4%, 34.7%, and 34.3% in fiscal
+1994,  1993, and  1992, respectively,  continues to  increase as  a  result of
+incremental  earnings taxed  at higher  effective  rates and  additional state
+income  tax liabilities  resulting  from expansion,  particularly relating  to
+growth in Florida and California.
+
+The  Omnibus Budget  Reconciliation  Act,  enacted  in August  1993,  mandated
+certain changes in Federal income tax  laws, which among other items, included
+an  increase in the  statutory Federal corporate  income tax rate  from 34% to
+35%,  retroactive  to January  1993, reinstatement  of  the targeted  jobs tax
+credit, retroactive to January 1993, and a  tax credit for FICA taxes paid  on
+tips, effective January 1994.  These changes did not have a material impact on
+Brinker's  fiscal 1994 and 1993 effective income  tax rate or the consolidated
+financial statements.
+
+NET INCOME AND NET INCOME PER SHARE
+
+Net income and primary net income per share as a percent of revenues decreased
+slightly in  fiscal 1994 as a  result of one-time charges,  including the $2.2
+million  lawsuit settlement and $1.9  million of costs  incurred in connection
+with the On  The Border acquisition.   Net income and  primary net income  per
+share  increased  as a  percent of  revenues  in fiscal  1993 as  a  result of
+controlling  costs and  expenses while  continuing with  the expansion  of the
+restaurant  concepts.  The increases in the  weighted average number of common
+shares outstanding arose from common stock options exercised each year.
+
+STOCK DIVIDENDS
+
+Stock splits in each of March 1994,  May 1993, and November 1991, effected  in
+the  form of 50%  stock dividends, resulted  in the issuance  of 23.2 million,
+22.8 million, and 21.5 million shares of the Company's common stock, in fiscal
+1994, 1993, and 1992, respectively.
+
+IMPACT OF INFLATION
+
+The Company has not  experienced a significant overall impact  from inflation.
+As  operating expenses  increase,  the Company,  to  the extent  permitted  by
+competition, recovers increased costs by increasing menu prices.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The working capital  deficit increased from $40.6 million  at June 30, 1993 to
+$56.2  million at  June 29,  1994.   Strong  operating  results from  new  and
+existing  units  and the  exercise of  employee  stock options  generated cash
+proceeds  that were  offset  by the  Company's  capital expenditures  and  the
+investment of available  cash in  long-term marketable securities.   Net  cash
+provided  by operating activities increased  to $125.5 million  in fiscal 1994
+from $106.2 million in fiscal 1993 due to the increased  number of restaurants
+in  operation, strong operating results from existing units, and the effective
+containment of costs.
+
+The Company had available funds from credit facilities totalling $41.2 million
+at June 29, 1994.  The Company estimates that its capital expenditures  during
+fiscal  1995 will approximate $200 million.  These capital expenditures, which
+will primarily relate to  the planned expansion of each restaurant concept and
+the  Company's  ongoing   remodel  program,  will  be  funded   from  internal
+operations,  income earned  from  investments, build-to-suit  lease agreements
+with landlords, and draw downs on the Company's available lines of credit.
+
+The Clinton administration  continues to analyze  and propose new  legislation
+which could adversely impact  the entire business community.   Mandated health
+care  and minimum  wage  measures, if  passed,  could increase  the  Company's
+operating costs.  The Company would attempt to offset  increased costs through
+continued improvements in operating efficiencies and menu price increases.
+
+The Company is not  aware of any other event or  trend which would potentially
+affect its liquidity.   In the event such  a trend would develop,  the Company
+believes that there are sufficient  funds available under the lines of  credit
+and from strong internal cash generating capabilities to adequately manage the
+expansion of the business.
+
+NEW ACCOUNTING PRONOUNCEMENT
+
+In  November 1992, the  Financial Accounting  Standards Board  ("FASB") issued
+Statement  of  Financial  Accounting   Standards  No. 112  ("SFAS   No. 112"),
+Employers' Accounting  for Postemployment Benefits.   SFAS No. 112  sets forth
+standards of accounting and reporting for employers  that offer postemployment
+benefits.   SFAS No. 112 is  effective for  the Company in  fiscal 1995.   The
+Company does  not believe the  adoption of SFAS  No. 112 will have  a material
+impact on its consolidated financial statements.
+
+<TABLE>
+                                      CONSOLIDATED BALANCE SHEETS
+                          (In thousands, except share and per share amounts)
+
+<CAPTION>
+                                                 1994                  1993
+  <S>                                       <C>                   <C> 
+ASSETS
+
+Current Assets:
+  Cash and Cash Equivalents                 $    3,614            $   12,429
+  Accounts Receivable, Net                      12,573                 6,016
+  Assets Held for Sale and Leaseback               ---                 1,155
+  Inventories                                    8,152                 6,907
+  Prepaid Expenses                              18,229                12,564
+  Deferred Income Taxes (Note 7)                 4,655                   ---
+      Total Current Assets                      47,223                39,071
+
+Property and Equipment, at Cost (Note 9):
+  Land                                      $  106,040             $  87,561
+  Buildings and Leasehold Improvements         286,316               223,585
+  Furniture and Equipment                      171,390               144,825
+  Construction-in-Progress                      31,300                29,042
+                                               595,046               485,013
+  Less Accumulated Depreciation
+      and Amortization                         160,858               122,264
+      Net Property and Equipment               434,188               362,749
+
+Other Assets:
+  Preopening Costs                          $    7,927            $    9,781
+  Long-term Marketable Securities (Note 3)      45,239                28,693
+  Long-term Notes Receivable                     2,231                 2,773
+  Other (Notes 2 and 10)                        21,901                11,287
+      Total Other Assets                        77,298                52,534
+            Total Assets                    $  558,709            $  454,354
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Current Liabilities:
+  Current Installments of Long-Term
+    Debt (Note 9)                            $     501            $      886
+  Accounts Payable                              45,037                31,902
+  Accrued Liabilities (Note 4)                  57,878                45,960
+  Deferred Income Taxes (Note 7)                   ---                   919
+      Total Current Liabilities                103,416                79,667
+
+Long-Term Debt, Less Current
+  Installments (Note 9)                          4,464                 7,845
+Senior Subordinated Convertible
+  Debentures (Note 6)                            1,200                 1,200
+Deferred Income Taxes (Note 7)                  12,143                 8,837
+Other Liabilities                               20,196                12,900
+Commitments and Contingencies
+  (Notes 9, 10 and 11)
+
+Shareholders' Equity (Notes 2 and 8):
+  Preferred Stock-1,000,000 Authorized Shares;
+    $1.00 Par Value; No Shares Issued              ---                   ---
+  Common Stock-100,000,000 Authorized Shares;
+    $.10 Par Value; 71,029,522 and 69,946,814
+    Shares Issued and Outstanding in
+    1994 and 1993, Respectively                  7,103                 6,995
+  Additional Paid-In Capital                   182,579               170,467
+  Unrealized Loss on Marketable Securities
+    (Note 3)                                      (441)                  ---
+  Retained Earnings                            228,049               166,443
+     Total Shareholders' Equity                417,290               343,905
+       Total Liabilities and
+         Shareholders' Equity               $  558,709            $  454,354
+
+
+
+See Accompanying Notes to Consolidated Financial Statements
+</TABLE>
+<TABLE>
+                                   CONSOLIDATED STATEMENTS OF INCOME
+                               (In thousands, except per share amounts)
+<CAPTION>
+                                                FISCAL YEARS
+
+                                       1994         1993        1992
+<S>                                  <C>          <C>         <C>
+Revenues                             $878,473     $697,396    $562,361
+
+Costs and Expenses:
+  Cost of Sales                       239,835      193,794     156,246
+  Restaurant Expenses (Note 9)        446,845      355,040     294,095
+  Depreciation and Amortization        51,501       38,223      29,031
+  General and Administrative           45,662       37,170      30,761
+  Interest Expense                        430          395         622
+  Merger Expenses (Note 2)              1,949          ---         ---
+  Lawsuit Settlement (Note 11)          2,248          ---         ---
+  Other, Net (Note 3)                  (5,435)      (5,232)     (3,255)
+
+Total Costs and Expenses              783,035      619,390     507,500
+
+Income Before Provision
+  for Income Taxes                     95,438       78,006      54,861
+
+Provision for Income Taxes (Note 7)    33,832       27,083      18,836
+
+      Net Income                     $ 61,606     $ 50,923    $ 36,025
+
+Primary Net Income Per Share         $   0.83     $   0.70    $   0.50
+
+Primary Weighted Average
+  Shares Outstanding                   74,572       72,911      71,454
+
+Fully Diluted Net Income
+  Per Share                          $   0.83     $   0.70    $   0.50
+
+Fully Diluted Weighted Average
+  Shares Outstanding                   74,668       73,040      71,609
+
+         See Accompanying Notes to Consolidated Financial Statements
+</TABLE>
+<TABLE>
+                            CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+                                            (In thousands)
+
+<CAPTION>
+                                                                Unrealized
+                                                    Additional   Loss On
+                                   Common Stock      Paid-In    Marketable   Retained
+                                  Shares   Amount    Capital    Securities   Earnings     Total
+<S>                               <C>     <C>        <C>        <C>          <C>        <C>
+Balances at June 30, 1991         64,670  $ 6,467    $122,927   $ (1,841)    $ 79,495   $207,048
+Net Income                           ---      ---         ---        ---       36,025     36,025
+Recovery of Unrealized Loss on
+  Marketable Securities (Note 3)     ---      ---         ---      1,841          ---      1,841
+Issuances of Common Stock          1,638      164      16,445        ---          ---     16,609
+
+
+Balances at June 30, 1992         66,308  $ 6,631    $139,372   $    ---     $115,520   $261,523
+Net Income                           ---      ---         ---        ---       50,923     50,923
+Issuances of Common Stock          3,639      364      31,095        ---          ---     31,459
+Balances at June 30, 1993         69,947  $ 6,995    $170,467   $    ---     $166,443   $343,905
+Net Income                           ---      ---         ---        ---       61,606     61,606
+Unrealized Loss on Marketable
+  Securities (Note 3)                ---      ---         ---       (441)         ---       (441)
+Issuances of Common Stock          1,083      108      12,112        ---          ---     12,220
+
+
+Balances at June 29, 1994         71,030  $ 7,103    $182,579   $   (441)    $228,049   $417,290
+
+
+                See Accompanying Notes to Consolidated Financial Statements
+</TABLE>
+<TABLE>
+                                 CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                            (In thousands)
+<CAPTION>
+                                                          FISCAL YEARS
+                                                 1994         1993        1992
+  <S>                                         <C>          <C>         <C>
+Cash Flows From Operating Activities:
+  Net Income                                  $ 61,606     $ 50,923    $ 36,025
+
+  Adjustments to Reconcile Net Income to Net
+    Cash Provided By Operating Activities:
+    Depreciation and Amortization of
+      Property and Equipment                    41,599       31,162      23,659
+    Amortization of Preopening Costs             9,902        7,061       5,372
+    Gain on Sale of Land                        (1,000)         ---         ---
+    Net Gain on Sale of Long-term
+      Marketable Securities                     (1,543)      (1,579)        (15)
+    Loss on Impairment of Long-term
+      Marketable Securities                      1,072          ---         ---
+    Changes in Assets and Liabilities:
+      (Increase) Decrease in Accounts
+        Receivable                              (6,557)        (948)        809
+      Increase in Inventories                   (1,245)      (1,251)     (1,017)
+      Increase in Prepaid Expenses              (5,665)      (2,678)     (1,329)
+      Increase in Other Assets                 (11,179)     (12,989)     (6,681)
+      Increase in Accounts Payable              21,522       24,604      15,208
+      Increase in Accrued Liabilities           11,918       10,166      12,353
+      (Decrease) Increase in Deferred
+        Income Taxes                            (2,268)      (5,753)      3,622
+      Increase (Decrease) in Other
+        Liabilities                              7,296        7,487        (418)
+        Net Cash Provided by Operating
+          Activities                           125,458      106,205      87,588
+
+Cash Flows From Investing Activities:
+    Payments for Property and Equipment       (114,994)    (124,969)    (95,276)
+    Proceeds from Sale of Land                   4,180          ---         ---
+    Payment for Purchase of Restaurants
+      (Note 2)                                  (8,165)         ---         ---
+    Decrease (Increase) in Assets Held
+      for Sale and Leaseback                     1,155           13        (442)
+    Purchases of Long-term Marketable
+      Securities                               (58,986)     (62,796)    (45,016)
+    Proceeds from Sales of Long-term
+      Marketable Securities                     42,470       61,630      36,407
+      Net Cash Used in Investing Activities   (134,340)    (126,122)   (104,327)
+
+Cash Flows From Financing Activities:
+    Payments of Long-Term Debt                  (3,766)        (298)     (2,282)
+    Proceeds from Issuance of Debentures           ---          ---       1,200
+    Proceeds from Issuances of Common Stock      3,833       12,477      10,792
+    Net Cash Provided by Financing Activities       67       12,179       9,710
+
+  Net Decrease in Cash and Cash Equivalents     (8,815)      (7,738)     (7,029)
+  Cash and Cash Equivalents at Beginning
+    of Year                                     12,429       20,167      27,196
+  Cash and Cash Equivalents at End of Year    $  3,614     $ 12,429    $ 20,167
+
+  Cash Paid During the Year:
+    Interest, Net of Amounts Capitalized      $   430      $    395    $    622
+    Income Taxes                              $ 26,579     $ 11,687    $  8,847
+
+  Non-Cash Transactions During the Year:
+    Tax Benefit from Stock Options Exercised  $ 8,387      $ 18,982    $  5,817
+    Property and Equipment Received in
+      Exchange for Note Receivable            $   ---      $    ---    $  2,305
+    Property and Equipment Received in
+      Exchange for Property and Equipment     $   ---      $    ---    $  1,483
+
+
+                 See Accompanying Notes to Consolidated Financial Statements
+</TABLE>
+
+                          Brinker International, Inc.
+                  Notes To Consolidated Financial Statements
+
+1.    SIGNIFICANT ACCOUNTING POLICIES
+
+      (a)   Basis of Presentation
+
+      The consolidated  financial statements  include the accounts  of Brinker
+      International, Inc. and its  wholly-owned subsidiaries ("Brinker").  All
+      significant intercompany accounts and transactions have  been eliminated
+      in consolidation.  
+
+      On March 9, 1994,  Brinker declared a stock  split in the form of  a 50%
+      stock dividend to shareholders  of record on March 21, 1994,  payable on
+      March 30, 1994.   As a result, 23.2 million shares  of common stock were
+      issued, and  cash was paid in lieu of fractional shares.  All references
+      to the number of shares and per share amounts of  common stock have been
+      restated  to  reflect  this  stock  dividend.    In addition,  Brinker's
+      consolidated financial  statements and notes thereto  have been restated
+      to include the accounts and operations of On The Border Cafes, Inc. ("On
+      The Border")  and Northwest Restaurants  Joint Venture ("NRJV")  for all
+      periods presented (see Note 2).
+
+      Effective July 1, 1993, Brinker adopted a 52 week fiscal year ending  on
+      the last Wednesday  in June.   Most retailing  and restaurant  companies
+      operate on an accounting calendar that is measured in weeks rather  than
+      months.  Thus, a normal fiscal year only contains 364 days.  Every fifth
+      or sixth year, lost days are recaptured by having a 53 week fiscal year.
+      This change enhances Brinker's  ability to measure comparative operating
+      results.  The  impact of this change was not  significant.  Fiscal years
+      1994,  1993, and 1992 ended  June 29, 1994, June 30,  1993, and June 30,
+      1992, respectively.
+
+      Certain  amounts in  the fiscal  1993 consolidated  financial statements
+      have been reclassified to conform with the fiscal 1994 presentation.
+
+      (b)   Cash and Cash Equivalents
+
+      Brinker's policy is to  invest cash in excess of  operating requirements
+      in  income-producing investments.    Cash invested  in instruments  with
+      maturities  of  three  months  or less  at  the  time  of  investment is
+      reflected  as  cash  equivalents.   Cash  equivalents  of  $110,000  and
+      $11,142,000 at  June 29, 1994  and June 30, 1993,  respectively, consist
+      primarily  of  money  market  funds,  short-term  municipal  funds,  and
+      commercial paper.   The carrying value of these instruments approximates
+      market value due to their short-term maturities.
+
+      (c)   Inventories
+
+      Inventories, which consist  of food, beverages, and supplies, are stated
+      at the lower of cost (first-in, first-out method) or market.
+
+      (d)   Property and Equipment
+
+      Buildings   and  leasehold   improvements   are  amortized   using   the
+      straight-line method over the lesser of the life of the lease, including
+      renewal  options, or  the estimated  useful lives  of the  assets, which
+      range from 5 to 20 years.
+
+      Furniture and  equipment are depreciated using  the straight-line method
+      over the estimated useful lives of the  assets, which range from 3 to  8
+      years.
+
+      (e)   Capitalized Interest
+
+      Interest costs capitalized during the construction period of restaurants
+      were approximately  $690,000,  $800,000, and  $1,300,000  during  fiscal
+      1994, 1993, and 1992, respectively.
+
+      (f)   Preopening Costs
+
+      Capitalized preopening  costs include  the direct and  incremental costs
+      typically  associated  with  the  opening  of  a  new  restaurant  which
+      primarily consist of costs incurred to develop new restaurant management
+      teams,  travel  and  lodging for  both  the  training  and opening  unit
+      management teams, and the food, beverage, and supplies costs incurred to
+      perform  role  play testing  of  all  equipment,  concept  systems,  and
+      recipes.   Effective  July 1,  1993, Brinker  prospectively revised  its
+      policy for capitalizing and  amortizing preopening costs associated with
+      the  opening of  new  restaurant sites.    The amortization  period  was
+      reduced from  24  months to  12 months.   The  impact of  the change  in
+      accounting  policy  did   not  have  a  material   impact  on  Brinker's
+      consolidated financial statements.
+
+      (g)   Stock Options
+
+      Proceeds from the exercise  of common stock options issued  to officers,
+      directors,  key employees,  and  certain non-employees  under  Brinker's
+      stock option plans  are credited to  common stock to  the extent of  par
+      value and to additional paid-in capital for the excess.
+
+      (h)   Net Income Per Share
+
+      Both  primary and fully  diluted net income  per share are  based on the
+      weighted average  number of  shares outstanding  during the fiscal  year
+      increased by  common equivalent shares (stock  options) determined using
+      the treasury stock method.   Primary weighted average equivalent  shares
+      are  determined based on the average market price exceeding the exercise
+      price of the stock  options.  Fully diluted weighted  average equivalent
+      shares  are  determined based  on the  higher of  the average  or ending
+      market price exceeding the exercise price of the stock options.
+
+2.    BUSINESS COMBINATIONS
+
+      On June 30, 1993,  Brinker acquired  the remaining 50%  interest in  its
+      three unit  Spageddies Italian Kitchen restaurant concept ("Spageddies")
+      from  its  joint  venture partner  in  exchange  for  205,716 shares  of
+      Brinker's  common stock.  The acquisition was accounted for as a pooling
+      of  interests, and  accordingly,  Brinker's 1993  consolidated financial
+      statements include the accounts  and operations of Spageddies  since the
+      commencement of its operations in July 1992.
+
+      On October 7, 1993, Brinker  acquired the assets of a  franchisee, which
+      operated  four  Chili's  restaurants   in  Pennsylvania  and  Ohio,  for
+      approximately  $8,165,000 in cash.  The acquisition was accounted for as
+      a  purchase.   Goodwill  of approximately  $6,941,000, representing  the
+      excess of cost over the fair  value of the assets acquired, was recorded
+      in  connection with  the acquisition  and is  included in  other assets.
+      Goodwill is being amortized on a straight-line basis over 30 years.  The
+      operations  of the  restaurants are  included in  Brinker's consolidated
+      results of  operations from  the date  of acquisition.   The  results of
+      operations on a  pro forma  basis are  not presented  separately as  the
+      results  do not  differ significantly  from historical  amounts reported
+      herein.
+
+      On  May 18, 1994,  Brinker consummated  a merger  agreement with  On The
+      Border,  pursuant to which Brinker acquired a 100% ownership interest in
+      On The Border.  Under the terms of the merger agreement, 3,767,711 fully
+      diluted shares of On The Border common stock were converted to 1,239,130
+      shares of Brinker common  stock (approximately 0.3 for 1  exchange).  On
+      The  Border's operations  included fourteen  company-operated and  seven
+      franchised casual  dining Tex-Mex  theme restaurants.   This acquisition
+      was accounted for as a pooling of interests.
+
+      On May 25, 1994,  Brinker acquired  the remaining 50%  interest in  NRJV
+      from its joint venture partner in exchange for 256,576 shares of Brinker
+      common  stock.   NRJV  owned and  operated  nine Chili's  restaurants in
+      California and Nevada.  This acquisition  was accounted for as a pooling
+      of interests.
+
+      Revenues,  net income (loss), primary  net income (loss)  per share, and
+      fully diluted net  income (loss) per share  for the period  ended May 4,
+      1994, fiscal 1993,  and fiscal 1992 are presented below  for Brinker, On
+      The Border, and  NRJV on a  separate and  combined basis (in  thousands,
+      except per share amounts):
+
+                                 Period Ended May 4   Year Ended June 30
+                                      1994 (1)          1993      1992  
+                                   (Unaudited)
+      Revenues:
+        Brinker                     $684,901         $652,943   $519,260
+        On The Border                 28,169           25,615     21,765
+        NRJV                          19,634           22,755     24,143
+        Pro forma adjustments         (2,573)          (3,917)    (2,807)
+         Combined                   $730,131         $697,396   $562,361
+
+      Net income (loss):
+        Brinker                     $ 53,722         $ 48,933   $ 35,712
+        On The Border                 (4,234)             970        (20)
+        NRJV                           2,135            4,020      2,119
+        Pro forma adjustments           (749)          (3,000)    (1,786)
+          Combined                  $ 50,874         $ 50,923   $ 36,025
+
+      Primary and fully diluted
+      net income (loss) per share:
+        Brinker                     $   0.72         $   0.67   $   0.50
+        On The Border                  (0.06)            0.01       0.00
+        NRJV                            0.03             0.06       0.02
+        Pro forma adjustments          (0.01)           (0.04)     (0.02)
+          Combined                  $   0.68         $   0.70   $   0.50
+
+      (1)   On  The Border  amounts  are based  on  financial results  through
+            April 25, 1994.
+
+      Pro  forma  adjustments  represent  the  elimination  of  royalty  fees,
+      franchise fees,  development fees, accounting fees,  and management fees
+      charged  to NRJV by Brinker, and the elimination of Brinker's investment
+      in  NRJV including  partnership  distributions and  equity  income.   In
+      addition, a pro forma adjustment was made in fiscal 1994 to reinstate an
+      On The  Border deferred  income  tax asset  of approximately  $1,024,000
+      which was  not recognized on an  On The Border stand-alone  basis due to
+      the uncertainty of On The Border's  ability to utilize the asset against
+      future earnings.
+
+      Merger expenses of  $1,949,000 incurred  in fiscal 1994  related to  the
+      acquisition  of On  The Border  are reported  separately to  reflect the
+      impact  of  nonrecurring  charges.   These  costs  primarily  relate  to
+      consulting fees, legal fees, and severance costs.
+
+3.    INVESTMENTS
+
+      Brinker  adopted Statement  of  Financial  Accounting Standards  No. 115
+      ("SFAS No. 115"), Accounting for Certain Investments  in Debt and Equity
+      Securities,  effective June 29,  1994.   Under  SFAS  No. 115, debt  and
+      equity  securities   are  classified  into  three  categories:  trading,
+      available-for-sale,  and held-to-maturity.  Trading securities represent
+      debt and equity securities held for  a very short period with the intent
+      on  making a  profit  on the  difference  between retail  versus  dealer
+      prices.   Held-to-maturity securities  represent debt securities  that a
+      company has the intent and ability to hold to  maturity.  Available-for-
+      sale securities represent  debt and  equity securities that  can not  be
+      classified as trading or held-to-maturity.
+
+      As of June 29, 1994, Brinker's investment portfolio consists entirely of
+      equity  securities  classified  as  available-for-sale.    SFAS  No. 115
+      requires available-for-sale securities to be  carried at fair value with
+      unrealized gains and unrealized losses reported as  a separate component
+      of shareholders' equity.   A decline in  market value of  any available-
+      for-sale  security below  cost that  is deemed  other than  temporary is
+      charged to earnings resulting  in the establishment of a new  cost basis
+      for the security.
+
+      Brinker's investment position at  June 29, 1994 and June 30, 1993  is as
+      follows (in thousands):
+
+                                                  1994           1993
+
+      Cost                                      $45,680        $28,693
+      Gross unrealized holding gains                 66            917
+      Gross unrealized holding losses              (507)           (34)
+           Fair value                           $45,239        $29,576
+
+      Realized  gains  and  realized  losses  are  determined  on  a  specific
+      identification  basis.     Realized  gains  and   realized  losses  from
+      investment  transactions  were  $1,871,000  and   $1,400,000  (including
+      $1,072,000 of realized losses resulting from recognition of a  permanent
+      decline in  market value  for certain  securities)  during fiscal  1994,
+      $2,137,000 and  $558,000 during fiscal  1993, and $965,000  and $950,000
+      during  fiscal 1992.  Dividend  and interest income  during fiscal 1994,
+      1993, and 1992 was $3,624,000, $2,800,000, and $3,200,000, respectively.
+      Realized  gains and  realized losses  as well  as dividend  and interest
+      income are included in other, net.
+
+4.    ACCRUED LIABILITIES
+
+      Accrued liabilities consist of the following (in thousands):
+
+                                            1994           1993
+
+      Insurance                           $16,956        $10,651
+      Payroll                              13,810         11,171
+      Profit sharing                        6,259          5,630
+      Property tax                          6,023          3,948
+      Sales tax                             4,843          4,324
+      Other                                 9,987         10,236
+                                          $57,878        $45,960
+
+5.    CREDIT FACILITIES
+
+      Brinker  has available  credit facilities  aggregating $41.2  million at
+      June 29, 1994.   These credit  facilities bear interest  based upon  the
+      lower  of  the  banks'  "Base"  or prime  rate  plus  1%,  CD  rates, or
+      Eurodollar  rates,  and expire  through  fiscal 1995.    Commitment fees
+      related to these credit facilities were not material.
+
+6.    SENIOR SUBORDINATED CONVERTIBLE DEBENTURES
+
+      Prior to its acquisition by Brinker, On The Border completed the private
+      placement of  $1,200,000 of senior  subordinated convertible  debentures
+      ("debentures")  on March 10, 1992.  The debentures bear interest at 8.5%
+      per annum and are  payable semi-annually.  If not  previously converted,
+      Brinker will  be required  to redeem $300,000  of debentures on  each of
+      January 15, 1996, 1997, 1998, and December 31, 1998.  The debentures may
+      be converted into Brinker common stock at a rate of $24.32 per share  by
+      the holders at any time and may be prepaid at the election of Brinker.
+
+7.    INCOME TAXES
+
+      Brinker  adopted  Statement  of  Financial Accounting  Standards  No. 96
+      ("SFAS No. 96"), "Accounting  for Income  Taxes", in fiscal  1988.   The
+      Financial  Accounting  Standards  Board  issued  Statement of  Financial
+      Accounting Standards  No. 109 ("SFAS  No. 109"), "Accounting  for Income
+      Taxes", in February 1992.   SFAS No. 109, which supersedes  SFAS No. 96,
+      retained the asset and  liability approach for financial  accounting and
+      reporting for income taxes as in SFAS No. 96, but reduced the complexity
+      of  SFAS No. 96 and changed the criteria for recognition and measurement
+      of  deferred tax assets.   Effective July 1, 1993,  Brinker adopted SFAS
+      No. 109 without restatement of prior periods and the impact on Brinker's
+      consolidated financial statements was not material.
+
+      The provision for income taxes consists of the following (in thousands):
+
+                                                1994         1993       1992
+      Current income tax expense:
+        Federal                               $32,120      $29,335    $13,445
+        State                                   3,980        3,501      1,769
+
+      Total current income tax expense         36,100       32,836     15,214
+
+      Deferred income tax expense (benefit):
+        Federal                                (1,935)      (5,551)     3,002
+        State                                    (333)        (202)       620
+
+      Total deferred income tax expense
+        (benefit):                             (2,268)      (5,753)     3,622
+                                              $33,832      $27,083    $18,836
+
+      A reconciliation between the reported provision for income taxes and the
+      amount computed by applying the statutory Federal income tax rate of 35%
+      in  fiscal  1994 and  34%  in  fiscal 1993  and  1992  to income  before
+      provision for income taxes follows (in thousands):
+
+                                                1994         1993       1992
+
+      Income tax expense at statutory rate    $33,403      $26,522    $18,653
+      Targeted jobs tax credit                   (709)        (588)      (919)
+      FICA tax credit                          (1,097)         ---        ---
+      Foreign tax credit                          (55)         (50)       (31)
+      Net investment activities                  (870)      (1,094)      (650)
+      State income taxes                        2,228        2,177      1,577
+      Other                                       932          116        206
+                                              $33,832      $27,083    $18,836
+
+      The  income tax  effects  of temporary  differences  that give  rise  to
+      significant  portions of deferred  income tax assets  and liabilities as
+      determined   under  SFAS  No. 109  as  of  June  29,  1994  follows  (in
+      thousands):
+
+      Deferred income tax assets:
+
+        Insurance reserves                          $10,399
+        Leasing transactions                          2,004
+        Net operating loss carryforwards              2,255
+        Other, net                                    4,509
+          Total deferred income tax assets           19,167
+
+     Deferred income tax liabilities:
+
+       Depreciation and capitalized interest
+         on property and equipment                   16,116
+       Preopening costs amortization                  5,670
+       Prepaid expenses                                 480
+       Other, net                                     4,389
+         Total deferred income tax liabilities       26,655
+         Net deferred income tax liability          $ 7,488
+
+      The  income tax  effects  of temporary  differences  that give  rise  to
+      significant  portions of  deferred  income tax  (assets) liabilities  as
+      determined under SFAS  No. 96 as  of June 30,  1993 are  as follows  (in
+      thousands):
+
+       Depreciation and capitalized interest
+         on property and equipment                  $13,269
+       Insurance reserves                            (6,948)
+       Preopening costs amortization                  5,796
+       Leasing transactions                          (1,898)
+       Net operating loss carryforwards                (398)
+       Other, net                                       (65)
+         Net deferred income tax liability          $ 9,756
+
+      At June 29, 1994, Brinker has available net operating loss carryforwards
+      for Federal income tax purposes  of $5,981,000 (arising from the  On The
+      Border merger),  which are  available to  offset future  Federal taxable
+      income through fiscal 2008.
+
+      The  Omnibus Budget Reconciliation Act, enacted in August 1993, mandated
+      certain changes in  Federal income  tax laws, which  among other  items,
+      included  an increase in the statutory Federal corporate income tax rate
+      from  34%  to 35%,  retroactive to  January  1993, reinstatement  of the
+      targeted jobs tax credit, retroactive to January 1993, and a  tax credit
+      for FICA taxes paid on tips,  effective January 1994.  These changes did
+      not have a  material impact on Brinker's fiscal  1994 and 1993 effective
+      income tax rate or the consolidated financial statements.
+
+8.    STOCK OPTION PLANS
+
+      (a)   1983 and 1992 Employee Incentive Stock Option Plans
+
+      In accordance with the  Incentive Stock Option Plans adopted  in October
+      1983 and November 1992,  options to purchase approximately 16.3  million
+      shares  of Brinker's common stock may be granted to officers, directors,
+      and key  employees.  Options are granted at  market value on the date of
+      grant, are exercisable  beginning one year from the  date of grant, with
+      various vesting  periods, and expire ten  years from the  date of grant.
+      Option prices under these plans range from $1.27 to $26.83.
+
+      Transactions  during fiscal  1994, 1993,  and 1992  were as  follows (in
+      thousands, except option prices):
+
+                                                  1994       1993       1992
+
+      Options outstanding at beginning of year   6,284      6,498      6,318
+      Granted                                    1,474      1,539      1,277
+      Exercised                                   (771)    (1,562)      (944)
+      Canceled                                     (90)      (191)      (153)
+      Options outstanding at end of year         6,897      6,284      6,498
+
+      Option price range for options
+        granted during the year                 $20.38     $18.95     $11.22
+                                                   to         to         to
+                                                $26.83     $19.33     $14.55
+
+      Options exercisable at end of year         3,282      2,702      3,059
+
+      Options available for grant
+        at end of year                           2,321      3,705      1,677
+
+      (b)   1984 Non-Qualified Stock Option Plan
+
+      In accordance  with  the  Non-Qualified  Stock Option  Plan  adopted  in
+      December 1984, options  to purchase approximately 5.0 million  shares of
+      Brinker's  common stock were authorized for grant.  Options were granted
+      at market value on the date of grant, are exercisable beginning one year
+      from the date  of grant, with  various vesting  periods, and expire  ten
+      years from the date  of grant.  Option prices under this plan range from
+      $.35 to $5.30.
+
+      On  November 30,   1989,  the   Non-Qualified  Stock  Option   Plan  was
+      terminated.  Consequently, no options were granted subsequent  to fiscal
+      1990.   Options  granted prior to  the termination  of this  plan remain
+      exercisable through June 1999.
+
+      Transactions  during fiscal  1994, 1993,  and 1992  were as  follows (in
+      thousands):
+
+                                                  1994       1993       1992
+
+      Options outstanding at beginning of year     858      2,741      2,871
+      Exercised                                   (309)    (1,871)      (127)
+      Canceled                                     ---        (12)        (3)
+      Options outstanding at end of year           549        858      2,741
+
+      Options exercisable at end of year           549        858      2,741
+
+      (c)   1991 Non-Employee Stock Option Plan
+
+      In  accordance with the Stock Option Plan for Non-Employee Directors and
+      Consultants adopted in May  1991, options to purchase 337,500  shares of
+      Brinker's common stock were authorized for grant. Options are granted at
+      market value on  the date of grant, are exercisable  beginning two years
+      from the date of grant, with a three year vesting period, and expire ten
+      years from the date of grant.  Option prices  under this plan range from
+      $11.22 to $23.92.
+
+      Transactions  during fiscal  1994, 1993,  and 1992  were as  follows (in
+      thousands, except option prices):
+
+                                                  1994       1993       1992
+
+      Options outstanding at beginning of year     107         80        ---
+      Granted                                       18         27         80
+      Exercised                                     (3)       ---        ---
+      Options outstanding at end of year           122        107         80
+
+      Option price for options granted
+        during the year                         $23.92     $14.67     $11.22
+
+      Options exercisable at end of year            36        ---        ---
+
+      Options available for grant
+        at end of year                             213        231        258
+
+      (d)   On The Border 1989 Stock Option Plan
+
+      In accordance with the Stock Option Plan for On The Border employees and
+      consultants,  options to purchase 550,000 shares of On The Border's pre-
+      acquisition  common  stock were  authorized  for  grant.   Options  were
+      granted  at  market value  on  the date  of grant,  were  exercisable in
+      installments,  and expired  three  to five  years  from date  of  grant.
+      Effective May 18,  1994, the  376,000 unexercised  On  The Border  stock
+      options  became exercisable  immediately  in accordance  with the  Stock
+      Option Plan's change in  control clause (see Note 2) and  were converted
+      to  approximately 124,000  Brinker  stock options.    These options  are
+      outstanding  at June 29, 1994 and are exercisable at prices ranging from
+      $17.48 to $24.32.
+
+9.    LEASES
+
+      (a)   Capital Leases
+
+      Brinker  leases  certain  buildings   under  various  leases  which  are
+      classified as capital leases.  The asset value of $7,900,000 at June 29,
+      1994 and at June 30,  1993, and the related accumulated  amortization of
+      $5,100,000  and   $4,800,000  at   June 29,  1994  and   June 30,  1993,
+      respectively, are included in property and equipment.
+
+      (b)   Operating Leases
+
+      Brinker  leases  restaurant  facilities  and  certain   equipment  under
+      operating leases having terms  expiring at various dates  through fiscal
+      2022.   The restaurant leases have  renewal clauses of 5  to 30 years at
+      the option of Brinker and have provisions for contingent rent based upon
+      a percentage of gross sales, as defined in the leases.  Rent expense for
+      fiscal  1994,   1993,  and   1992  was  $31,700,000,   $27,400,000,  and
+      $24,900,000, respectively.  Contingent rent included in rent expense for
+      fiscal 1994, 1993, and 1992 was $2,800,000, $2,500,000, and  $1,900,000,
+      respectively.
+
+      (c)   Commitments
+
+      At June 29, 1994, future minimum lease payments on capital and operating
+      leases were as follows (in thousands):
+
+            Fiscal Year                      Capital Leases   Operating Leases
+
+            1995                                $  965           $ 26,724
+            1996                                   955             26,577
+            1997                                   949             26,390
+            1998                                   771             25,938
+            1999                                   657             25,355
+            Thereafter                           2,881            186,927
+
+              Total minimum lease payments       7,178           $317,911
+              Imputed interest
+                (average rate of 11.5%)          2,213
+
+              Present value of
+                minimum payments                 4,965
+              Less current installments            501
+              Capital lease obligations         $4,464
+
+      In  July  1993, Brinker  entered  into operating  lease  agreements with
+      unaffiliated groups  to begin leasing  certain restaurant sites.   These
+      unaffiliated groups have  committed to make available  up to $30,000,000
+      for the development of  restaurants to be leased by Brinker  for up to 5
+      years.  The  agreements with these groups expire in  fiscal 1998, and do
+      not provide for renewal.   Upon expiration, Brinker may  either purchase
+      the properties  or  allow  the lessor  to  sell the  restaurants  to  an
+      unrelated  party  and  guarantee  the residual  value  of  approximately
+      $25,500,000.  At June 29, 1994,  $12,400,000 of this financing  facility
+      had been utilized.
+
+      At  June 29, 1994, Brinker had  entered into other  lease agreements for
+      restaurant  facilities  currently  under   construction  or  yet  to  be
+      constructed.    In addition  to a  base  rent, the  leases  also contain
+      provisions for  additional contingent  rent based upon  gross sales,  as
+      defined  in the leases.   Classification of  these leases  as capital or
+      operating  has  not  been  determined  as  construction  of  the  leased
+      properties has not been completed.
+
+10.   SAVINGS PLANS
+
+      Effective  January 1,  1993,  Brinker established  the  Brinker  Savings
+      Plan I  ("Plan I"), a  qualified  defined contribution  retirement  plan
+      covering salaried employees who  have completed one year or  1,000 hours
+      of service.  Plan I allows eligible employees to defer receipt  of up to
+      20%  of  their  compensation  and contribute  such  amounts  to  various
+      investment funds.    Brinker matches  25% of  the first  5% an  employee
+      contributes  with Brinker  common  stock.   Employee contributions  vest
+      immediately while  Brinker contributions vest 25%  annually beginning in
+      the participants' second year  of eligibility since plan inception.   In
+      fiscal  1994  and  1993,   Brinker  contributed  approximately  $345,000
+      (representing  11,666  shares  of  Brinker common  stock)  and  $173,000
+      (representing 8,162  shares of Brinker common  stock), respectively, and
+      incurred  approximately  $116,000  and $48,000  in  administrative fees,
+      respectively.
+
+      Effective  January 1,  1993,  Brinker  established  the  Brinker Savings
+      Plan II  ("Plan II"), a  non-qualified  defined contribution  retirement
+      plan  covering highly  compensated employees,  as defined  in the  plan.
+      Plan II allows eligible employees to defer receipt of up to 20% of their
+      base compensation and  100% of their eligible bonuses, as defined in the
+      plan,  and contribute such amounts to various investment funds.  Brinker
+      matches  25%  of the  first 5%  a  non-officer contributes  with Brinker
+      common  stock while officers' contributions are matched at the same rate
+      with  cash.    Employee  contributions vest  immediately  while  Brinker
+      contributions vest  25% annually  beginning in the  participants' second
+      year  of employment  since plan  inception.   In fiscal  1994  and 1993,
+      Brinker  contributed  approximately  $231,000  (of  which  approximately
+      $175,000 was used to purchase 7,096 shares of  Brinker common stock) and
+      $69,000  (of which  approximately  $49,000 was  used  to purchase  2,373
+      shares   of   Brinker   common   stock),   respectively,   and  incurred
+      approximately $116,000 and $48,000 in administrative fees, respectively.
+      Brinker has a  Rabbi Trust to fund Plan II obligations.   As of June 29,
+      1994  and June 30, 1993,  assets of  the trust  aggregated approximately
+      $2,599,000 and $566,000, respectively, and are included in other assets.
+      The aggregate market value of these assets at June 29, 1994 and June 30,
+      1993 approximated aggregate cost.
+
+11.   LAWSUIT SETTLEMENT AND CONTINGENCIES
+
+      On  March 13, 1993, certain officers of On The Border and various family
+      members  were involved  in an  airplane accident.   In fiscal  1994, the
+      claim was settled  for approximately  $2,248,000 and On  The Border  was
+      released from further liability.
+
+      Brinker  is  engaged  in  various  legal  proceedings  and  has  certain
+      unresolved  claims pending.   The  ultimate liability,  if any,  for the
+      aggregate amounts claimed cannot  be determined at this time.   However,
+      management of Brinker, based upon consultation with legal counsel, is of
+      the opinion that there are  not matters pending or threatened which  are
+      expected to  have a  material adverse  effect on  Brinker's consolidated
+      financial condition or results of operations.
+
+12.   QUARTERLY RESULTS OF OPERATIONS (UNAUDITED)
+
+      The following summarizes the unaudited consolidated quarterly results of
+      operations for fiscal 1994 and 1993.
+
+      (in thousands, except per share amounts)
+
+                                                  Fiscal 1994
+                                                Quarters Ended
+                                    Sept. 29   Dec. 29    March 30   June 29
+
+    Revenues                       $205,368   $212,196   $224,508   $236,401
+    Income Before Provision
+      for Income Taxes               22,771     20,024     24,818     27,825
+    Net Income                       14,758     12,995     15,966     17,887
+    Primary Net Income Per Share       0.20       0.17       0.21       0.24
+    Primary Weighted Average
+      Shares Outstanding             74,148     74,682     74,824     74,512
+
+
+
+                                                  Fiscal 1993
+                                                Quarters Ended
+                                    Sept. 30   Dec. 31    March 31   June 30
+
+    Revenues                       $161,336   $163,097   $175,286   $197,677
+    Income Before Provision
+      for Income Taxes               17,524     16,457     20,321     23,704
+    Net Income                       11,777     10,789     13,077     15,280
+    Primary Net Income Per Share       0.16       0.15       0.18       0.21
+    Primary Weighted Average
+      Shares Outstanding             71,912     72,383     73,167     73,606
+
+Amounts differ from those previously reported to reflect the fiscal 1994
+acquisitions accounted for as poolings of interest as discussed in Note 2.
+</PAGE>
+
+                         INDEPENDENT AUDITORS' REPORT
+
+
+The Board of Directors
+Brinker International, Inc.:
+
+
+We  have  audited the  accompanying  consolidated  balance sheets  of  Brinker
+International, Inc. and subsidiaries  ("the Company") as of June 29,  1994 and
+June 30,   1993,  and   the   related  consolidated   statements  of   income,
+shareholders' equity, and  cash flows for each of the  years in the three-year
+period ended June 29, 1994.   These consolidated financial statements  are the
+responsibility  of the Company's management.  Our responsibility is to express
+an opinion on these consolidated financial statements based on our audits.
+
+We  conducted  our audits  in  accordance  with  generally  accepted  auditing
+standards.   Those standards  require that  we plan and  perform the  audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in  the financial statements.  An audit
+also  includes  assessing  the  accounting  principles  used  and  significant
+estimates made by the Company's management, as well as  evaluating the overall
+financial  statement presentation.    We believe  that  our audits  provide  a
+reasonable basis for our opinion.
+
+In  our  opinion, the  consolidated  financial  statements referred  to  above
+present  fairly, in all material  respects, the financial  position of Brinker
+International,  Inc. and subsidiaries as  of June 29, 1994  and June 30, 1993,
+and the results of  their operations and cash flows  for each of the  years in
+the  three-year  period ended  June 29,  1994,  in conformity  with  generally
+accepted accounting principles.
+
+
+
+
+
+                                             KPMG Peat Marwick LLP
+
+
+
+Dallas, Texas
+July 29, 1994
+</PAGE>
+                                  EXHIBIT 21
+
+
+              BRINKER INTERNATIONAL, INC., A DELAWARE CORPORATION
+
+                                 SUBSIDIARIES                                 
+
+
+REGISTRANT  has other wholly-owned subsidiaries not shown herein, all of which
+operate full-service  restaurants in  various locations throughout  the United
+States.
+
+ON THE BORDER  CAFES, INC., a Texas corporation,  is a wholly-owned subsidiary
+of Registrant.   ON THE BORDER CAFES, INC. has other wholly-owned subsidiaries
+not shown herein.
+
+BRINKER  RESTAURANT CORPORATION,  a  Delaware corporation,  is a  wholly-owned
+subsidiary  of Registrant.   BRINKER RESTAURANT CORPORATION  has other wholly-
+owned subsidiaries not shown herein.
+
+      BRINKER SPAGEDDIES CORPORATION, a Delaware corporation (a  wholly-
+      owned subsidiary of Brinker Restaurant Corporation)
+
+      CHILI'S BEVERAGE  COMPANY, INC., a Texas  corporation (an indirect
+      wholly-owned subsidiary of Brinker Restaurant Corporation)
+
+      GRADY'S, INC., a Tennessee  corporation (a wholly-owned subsidiary
+      of Brinker Restaurant Corporation)
+
+      MODERNAGE, INC., a Delaware corporation (a wholly-owned subsidiary
+      of Brinker Restaurant Corporation)
+
+      ROMANO'S MACARONI GRILL, INC., a Texas corporation (a wholly-owned
+      subsidiary of Brinker Restaurant Corporation)
+
+      BRINKER  TEXAS, L.P.,  a  Texas limited  partnership (an  indirect
+      wholly-owned subsidiary of Brinker Restaurant Corporation)
+</PAGE>
+                                  EXHIBIT 23
+
+
+                         INDEPENDENT AUDITORS' CONSENT
+
+
+
+The Board of Directors
+Brinker International, Inc.:
+
+
+We consent to incorporation by reference in the Registration Statement No. 33-
+61594 on  Form S-8, No. 33-52705 on Form S-4 and No. 33-67318, No. 33-55181
+and No. 33-53965 on Form S-3 of Brinker International, Inc. and  subsidiaries
+of our reports dated July 29, 1994, relating to the consolidated balance
+sheets of Brinker International, Inc. and subsidiaries as of June 29, 1994
+and June 30, 1993, and the related consolidated statements of income,
+shareholders' equity, and cash flows and related schedules for each of the
+years in the three-year period ended June 29, 1994, which reports
+appear or are incorporated by reference in the June 29, 1994 annual report on
+Form 10-K of Brinker International, Inc. and subsidiaries.
+
+
+
+                                      KPMG Peat Marwick LLP
+
+Dallas, Texas
+September 27, 1994
+</PAGE>
+                                  EXHIBIT 27
+
+                            FINANCIAL DATA SCHEDULE
+
+
+
+                          [Filed With EDGAR Version]
+
+</PAGE>
+                                  EXHIBIT 99
+
+                         PROXY STATEMENT OF REGISTRANT
+                           DATED SEPTEMBER 29, 1994
+
+
+
+                       DIRECTORS AND EXECUTIVE OFFICERS
+
+      A brief description of each person nominated to become a director of the
+Company is provided below.  All nominees are currently serving as directors of
+the  Company,  each having  been elected  at the  last  annual meeting  of the
+Company's shareholders held on November 4, 1993, except James E. Oesterreicher
+and  Frederick S. Humphries,  both  of whom  were appointed  to  the Board  of
+Directors on May 3, 1994.
+
+      Norman E. Brinker, 63, has  been Chairman of the Board  of Directors and
+Chief Executive Officer  of the Company since  September 1983, except  for the
+period  from January 27,  1993  to  May 4, 1993.    During  this time  period,
+Mr. Brinker was incapacitated  due to an  injury, and  until his recovery  the
+positions  of Chairman and CEO were  held by Ronald A. McDougall.  Mr. Brinker
+is  a  member  of the  Executive  and Nominating  Committees  of  the Company.
+Mr. Brinker was the founder of  S & A Restaurant Corp. (which was  acquired by
+The Pillsbury Company in June  1976), the developer and operator of  Steak and
+Ale   Restaurants and Bennigan's  Taverns, having served as its President from
+February 1966 through May  1977 and as its Chairman of  the Board of Directors
+and Chief  Executive Officer from May 1977 through July  1983.  From June 1982
+through  July 1983, Mr. Brinker served  as Chairman of  the Board of Directors
+and  Chief Executive Officer of Burger  King Corporation, while simultaneously
+occupying the position of President of The Pillsbury Company Restaurant Group.
+Mr. Brinker  currently serves as a member of  the Board of Directors of Haggar
+Apparel Company.
+
+      F.  Lane Cardwell,  Jr.,  42,  was  elected Executive  Vice  President -
+ Strategic  Development in  June 1992,  having formerly  held the  position of
+Senior   Vice   President - Strategic   Development   since   December   1990.
+Mr. Cardwell joined the Company  as Vice President - Strategic  Development in
+August  1988, having been previously  employed by S & A  Restaurant Corp. from
+November 1978  to August 1988, during which time he served as Vice President -
+Strategic   Planning  and   Senior   Vice   President -  Strategic   Planning.
+Mr. Cardwell  has served as a member of  the Board of Directors of the Company
+since  September  1991 and  is  a member  of  the Executive  Committee  of the
+Company.
+
+      Creed L. Ford, III,  41, joined the  Company's predecessor in  September
+1976 as  an Assistant Manager and  was promoted to the  position of Restaurant
+General Manager in March 1977.  In September 1978, Mr. Ford became Director of
+Operations of the Company.  He was elected  Vice President - Operations of the
+Company in October  1983, Senior Vice President - Operations in November 1984,
+and Executive  Vice President - Operations in April 1986.  Mr. Ford has served
+as a member of the Board of Directors of the Company since April 1985 and is a
+member of the Executive Committee of the Company.
+
+      Ronald A.  McDougall,  52, was  elected  President  and Chief  Operating
+Officer  of the  Company in  April  1986 having  formerly held  the office  of
+Executive  Vice President - Marketing and Strategic Development of the Company
+since  September 1983.   During the  period January 27,  1993 to  May 4, 1993,
+Mr. McDougall served  as Chairman and CEO.   Mr. McDougall is a  member of the
+Executive and Nominating Committees  of the Company.  From  March 1974 through
+June 1982, Mr. McDougall  was employed  by S & A Restaurant  Corp. in  several
+management  positions,  including  Senior  Vice  President  of  Marketing  and
+Strategic Development and a director.  During the last six months of 1982,  he
+was Executive  Vice President of  1330 Corporation, a  publishing firm.   From
+January 1983 to July 1983, he held the position of  Vice President - Marketing
+of Burger King Corporation.  Mr. McDougall has served as a member of the Board
+of Directors of the Company since September 1983.
+
+      Debra L.  Smithart, 40, joined  the Company  as Assistant  Controller in
+June 1985.  In February  1986 she was promoted  to the position of  Controller
+and served  in this  capacity until  December 1988 when  she was  elected Vice
+President -Controller.   In  March  1991, Ms. Smithart  was  promoted to  Vice
+President - Finance and held this  position until September 1991 when  she was
+promoted  to Executive  Vice  President - Chief Financial  Officer.   Prior to
+joining  the  Company,  Ms. Smithart  worked in  various  financial/accounting
+capacities in the public accounting, oil & gas, real estate, and manufacturing
+industries.  Ms. Smithart has served  as a member of the Board of Directors of
+the  Company  since September  1991  and  is a  member  of  the Executive  and
+Nominating Committees of the Company.
+
+      Roger F.  Thomson, 45,  joined  the Company  as  Senior Vice  President,
+General Counsel and Secretary in April 1993 and was promoted to Executive Vice
+President, General Counsel and Secretary in March 1994.  From 1988 until April
+1993, Mr. Thomson  served  as  Senior  Vice  President,  General  Counsel  and
+Secretary for Burger King  Corporation.  Prior to 1988, Mr. Thomson  spent ten
+years at S & A Restaurant Corp. where he was Executive Vice President, General
+Counsel  and Secretary.  Mr. Thomson  has served as  a member of  the Board of
+Directors of the Company since September 1993.
+
+      Jack W. Evans,  72, is  currently President  of Jack  Evans Investments,
+Inc.   Mr.  Evans is  a member  of the  Nominating Committee  and Compensation
+Committee of the Company and has served as a member of the Company's  Board of
+Directors  since September  1983.   He  served  as Chairman,  Chief  Executive
+Officer and President of Cullum Companies,  Inc., a retail food and  drugstore
+chain from 1977 to 1990.   He served as Mayor of  the City of Dallas from  May
+1981  to May  1983.   He is  also a  director of Texas  Utilities Corporation,
+Randall's-Tom Thumb, First Bank, and Morning Star Group.
+
+      Rae  F.  Evans, 46,  is currently  Vice  President, National  Affairs of
+Hallmark  Cards,  Inc.  and  has  held  such  position  since  February  1982.
+Ms. Evans is a member of  the Nominating Committee and Audit Committee  of the
+Company and has served as  a member of the  Board of Directors of the  Company
+since  January 1990.   She  is a  member of the  Business-Government Relations
+Council and is a past president of the  organization.  She is a member of  the
+Executive Committee of the National Women's Economic Alliance, the  Washington
+Federal  City  Council,  National Women's  Forum  and  the  Catalyst Board  of
+Advisors.  Additionally,  she is the founder  of Women at the  Top, a speakers
+bureau of Washington women and is an active guest speaker on government issues
+in Washington.  Ms. Evans was recently  appointed to the Board of Directors of
+Haggar Apparel Company.
+
+      J. M. Haggar, Jr., 69, was elected as Chairman of the Board of Directors
+of Haggar  Apparel  Company,  a clothing  manufacturer,  in April  1991.    He
+previously  held the  positions of  President and  Chief Executive  Officer of
+Haggar  Apparel Company  from  1971 and  1985,  respectively.   He  is also  a
+director  of  ENSERCH  Corporation.   Mr. Haggar  is  a  member  of the  Audit
+Committee of the Company and has served as a member of the Company's  Board of
+Directors since April 1985.
+
+      J.  Ira Harris,  56, is a  Senior Partner  with Lazard  Freres & Co., an
+investment banking firm,  having held such position since joining  the firm in
+January 1988.  Mr. Harris has  served as a member of the Board of Directors of
+the Company since September 1993 and is a member of the Compensation Committee
+of the Company.   He was previously a General Partner of  Salomon Brothers and
+served  as a  member of its  Executive Committee from  1978 to 1983.   He also
+served  as a Director of Phibro-Salomon.   Mr. Harris serves as a Director for
+various entities including Manpower, Inc. and Caremark International, Inc.  He
+is also Trustee of Northwestern University.
+
+      Frederick S. Humphries, 58,  is the President of  Florida A&M University
+in  Tallahassee,  Florida having  held this  position  since 1985.    Prior to
+joining Florida A&M University, Dr. Humphries was President of Tennessee State
+University in Nashville for over  11 years.  Dr. Humphries serves as  Chairman
+of the  State Board of Education Advisory Committee on the Education of Blacks
+in Florida  and is Chairman of  the Board of Regents,  Five-Year Working Group
+for  Agriculture,  State University  System of  Florida  in addition  to being
+involved  in various civic and  community activities.  He is  also a member of
+the Board of Directors of Barnett Bank and Wal-Mart, Inc.
+
+      Ray L.  Hunt, 51, is currently  Chief Executive Officer  and Chairman of
+the  Board of Directors of Hunt Oil  Company, having held such positions since
+1975.  He  is also President and  Chairman of the  Board of Directors of  Hunt
+Consolidated, Inc.  and RRH  Corporation.   Mr. Hunt serves  as a  director of
+Dresser Industries,  Inc.  Mr. Hunt  has served  as a member  of the Board  of
+Directors  of  the  Company  since  December  1983 and  is  a  member  of  the
+Compensation Committee and the Nominating Committee of the Company.
+
+      James  E. Oesterreicher,  53, is  the President  of JCPenney  Stores and
+Catalog, having been elected to this position  in 1992.  Mr. Oesterreicher has
+been  with  J.C. Penney  Company,  Inc.  since  1964  where  he  started  as a
+management trainee.  He serves  as a Director for various  entities, including
+Presbyterian Hospital of Plano, Circle Ten Council, Boy Scouts of America, and
+National 4-H  Council.   He also serves  as an advisory  board member  for the
+Center for Retailing, Education and Research at the University of Florida.
+
+      William F. Regas, 65,  co-founded, in 1982, Grady's, Inc. ("Grady's"), a
+Tennessee corporation and a wholly-owned subsidiary of the Company, and served
+as its Chairman  of the Board from 1982  to 1989.  Mr. Regas is  currently Co-
+Chairman  of Grady's  Board of Directors.   Mr. Regas  has been  active in the
+National Restaurant Association, having  served as its President from  1980 to
+1981.   Mr. Regas has served  as Chairman of the  Board of Directors  of Regas
+Brothers, Inc. since 1952, and is also a general partner of Regas  Real Estate
+Company.  He serves as a member of the Audit Committee of the Company  and has
+served on the Company's Board of Directors since October 1989.
+
+      Roger T.  Staubach, 52,  has  been  Chairman  of  the  Board  and  Chief
+Executive  Officer of  The Staubach  Company, a  national real  estate company
+specializing in tenant representation, since 1982.  He has served  as a member
+of the Board of Directors of the Company since May 1993 and is a member of the
+Executive,   Nominating   and   Compensation   Committees   of  the   Company.
+Mr. Staubach is  a 1965 graduate  of the  U.S. Naval Academy  and served  four
+years  in the  Navy as  an officer.   In  1968, he  joined the  Dallas Cowboys
+professional  football team  as quarterback  and was  elected to  the National
+Football League Hall  of Fame in  1985.  He currently  serves on the  Board of
+Directors  of Halliburton  Company, Gibson  Greetings, Inc.,  First USA, Inc.,
+Life Partners Group and Columbus Realty Trust and is active in numerous civic,
+charity and professional organizations.
+
+Executive Officers of the Company
+
+      The following persons are  executive officers of the Company who  do not
+serve on the Company's Board of Directors:
+
+      Douglas H. Brooks, 41,  joined the  Company as an  Assistant Manager  in
+February 1978  and was promoted  to General Manager  in April 1978.   In March
+1979,  Mr. Brooks was promoted to Area Supervisor  and in May 1982 to Regional
+Director.   He  was again  promoted in  March 1987  to Senior  Vice President-
+Central Region  Operations and to the position of Concept Head and Senior Vice
+President-Chili's Operations in  June 1992.   Mr. Brooks was  promoted to  his
+current position of  Senior Vice  President and Chili's  Concept President  in
+June 1994.  Prior to  joining the Company, Mr. Brooks helped manage  the first
+two Luther's Barbecue units.
+
+      Richard L.  Federico, 40, joined  the Company as  Director of Operations
+for Grady's  in February  1989.   Upon the Company's  acquisition of  Romano's
+Macaroni Grill in November  1989, Mr. Federico became the Concept Head of this
+new restaurant group.   He  was promoted to  Vice President-Romano's  Macaroni
+Grill Operations in  December 1990 and  in June 1992  was promoted to  Concept
+Head and Senior Vice  President-Macaroni Grill Operations.  In  February 1994,
+Mr. Federico assumed  responsibility for the operations  of Spageddies Italian
+Kitchen and was promoted to his current position as Senior  Vice President and
+Italian  Concept President  in  June  1994.   Prior  to  joining the  Company,
+Mr. Federico worked in various management capacities with S&A Restaurant Corp.
+and  Houston's  Restaurants  and  was  a  co-founder  of  Grady's   Goodtimes,
+predecessor to Grady's American Grill.
+
+      John C.  Miller,  39,  joined  the  Company  as  Vice  President-Special
+Concepts in September  1987.  In October 1988, he  was elected Vice President-
+Joint Venture/Franchise and served in this capacity until August 1993  when he
+was promoted to Senior  Vice President-New Concept Development.   In May 1994,
+Mr. Miller  assumed responsibility for the  operations of On  The Border Cafes
+and  was promoted  to his  current position  as Senior  Vice President-Mexican
+Concepts in September 1994.  Mr. Miller worked  in various capacities with the
+Taco Bueno Division of Unigate Restaurants prior to joining the Company.
+
+      Arthur J. DeAngelis,  40, has worked with the Company through one of its
+franchise groups as a manager  and later as an  area director since 1984.   In
+1991,  Mr. DeAngelis  joined the  Company  under  the  Grady's American  Grill
+concept   and  in  June  1991   was  promoted  to  Vice  President-Operations.
+Mr. DeAngelis  was promoted to his  recent position of  Senior Vice President-
+Grady's American  Grill Concept Head  in June 1994.   Mr. DeAngelis began  his
+restaurant career  with S&A  Restaurant Corp.  in 1976  prior  to joining  the
+Company.
+
+Committees of the Board of Directors
+
+      The  Board  of Directors  of the  Company  has established  an Executive
+Committee, Audit Committee,  Compensation Committee and  Nominating Committee.
+The  Executive  Committee  (along  with  Ms. Smithart,  comprised  of  Messrs.
+Brinker, McDougall, Ford, Cardwell and Staubach) has authority  to act for the
+Board on most matters during the intervals between Board meetings.
+
+      All  of the  members  of  the  Audit  and  Compensation  Committees  are
+directors independent of  management who are not and never  have been officers
+or employees  of the Company.   The Audit Committee is  currently comprised of
+Ms. Evans  and Messrs. Haggar and Regas and  the Committee met once during the
+fiscal year.  Included  among the functions  performed by the Audit  Committee
+are:  the review with independent  auditors of the scope  of the audit and the
+results of the  annual audit  by the independent  auditors; consideration  and
+recommendation to the  Board of the selection of the  independent auditors for
+the next year; the review with  management and the independent auditors of the
+annual financial  statements of the Company;  and the review of  the scope and
+adequacy of internal audit activities.
+
+      The Compensation  Committee  is currently  comprised  of  Messrs. Evans,
+Hunt, Harris and Staubach  and it met three (3) times  during the fiscal year.
+Functions  performed  by  the  Compensation Committee  include:  ensuring  the
+effectiveness  of senior  management and  management continuity,  ensuring the
+reasonableness   and   appropriateness  of   senior   management  compensation
+arrangements and  levels, the adoption, amendment and administration of stock-
+based  incentive  plans  (subject  to shareholder  approval  where  required),
+management  of the various stock option plans  of the Company, approval of the
+total number  of available shares to  be used each year  in stock-based plans,
+approval of the adoption  and amendment of significant compensation  plans and
+approval of all compensation  actions for officers, particularly at  and above
+the level of executive vice president.  The specific nature of the Committee's
+responsibilities as it relates to executive officers are set forth below under
+"Report of the Compensation Committee."
+
+      The purpose of the  Nominating Committee, created in September  1993, is
+to  recommend to the  Board of Directors potential  non-employee members to be
+added as new or replacement members to the Board of Directors.  The Nominating
+Committee  met once during the fiscal year and is composed of Messrs. Brinker,
+Evans, Hunt, McDougall and Staubach and Ms. Smithart and Ms. Evans.
+
+      For  purposes  of determining  whether  non-employee  directors will  be
+nominated for reelection to the Board of Directors, the non-employee directors
+have been divided into four classes.  Each non-employee director will continue
+to  be subject  to reelection by  the shareholders  of the  Company each year.
+However, after a non-employee  director has served on  the Board of  Directors
+for  four years, such  director shall  be deemed to  have been advised  by the
+Nominating  Committee that  he or  she will  not stand  for reelection  at the
+subsequent  annual meeting of shareholders and shall be considered a "Retiring
+Director".    Notwithstanding  this   policy,  the  Nominating  Committee  may
+determine  that it  is appropriate to  renominate any  or all  of the Retiring
+Directors  after  first  considering  the appropriateness  of  nominating  new
+candidates for election  to the Board of Directors.  The  four classes of non-
+employee  directors are as follows:   Messrs. Hunt and  Regas comprise Class 2
+and  will  be considered  Retiring  Directors  as  of the  annual  meeting  of
+shareholders following  the end of the 1995 fiscal year.  Mr. Haggar comprises
+Class 3 and will be considered a Retiring Director as of the annual meeting of
+shareholders following  the end of the  1996 fiscal year.   Messrs. Harris and
+Staubach comprise Class 4 and will be considered Retiring  Directors as of the
+annual  meeting of  shareholders following the  end of  the 1997  fiscal year.
+Messrs. Evans, Humphries, and Oesterreicher and Ms. Evans comprise Class 1 and
+will be considered Retiring Directors as of the annual meeting of shareholders
+following the end of the 1998 fiscal year.
+
+Directors Compensation
+
+      Directors who are not employees  of the Company receive $1,000  for each
+meeting of the Board of Directors attended and $1,000 for  each meeting of any
+committee of the Board of Directors attended (unless such committee meeting is
+held in conjunction with  a meeting of the Board of  Directors, in which event
+compensation for  attending the committee meeting will  be $750).  The Company
+also  reimburses directors for costs incurred by them in attending meetings of
+the Board.
+
+      Directors who are not  employees of the Company receive grants  of stock
+options  under the Company's 1991 Stock Option Plan for Non-Employee Directors
+and  Consultants.  Each such  director receives 2,000  stock options annually.
+If  the  shareholders of  the Company  approve  the amendment  described under
+"Amendment  of Stock  Option  Plans-1991 Stock  Option  Plan for  Non-Employee
+Directors and Consultants", new directors who are not employees of the Company
+will have  the option at  the beginning  of each Director  term to receive  as
+additional  compensation for  serving on  the Board  of Directors  either cash
+consideration  of $30,000 per year during the term such non-employee serves as
+a director or  a one-time grant  of 12,000 stock  options under the  Company's
+1991 Stock  Option Plan for  Non-Employee Directors  and Consultants.   If the
+director is appointed to the  Board of Directors at any time other  than at an
+annual meeting of  shareholders, such director will make  such election at the
+meeting of  the Board of Directors  held contemporaneous with  the next annual
+meeting of shareholders and  the director will receive  a prorated portion  of
+the  annual cash  compensation for  the period  from the  date of  election or
+appointment  to the  Board of  Directors  until the  meeting of  the Board  of
+Directors held contemporaneous  with the next annual meeting  of shareholders.
+If the director elects to receive cash, the first payment will be made at such
+Board of Directors meeting and the following payments will be made on the date
+of each  annual meeting of shareholders thereafter.  If the director elects to
+receive stock options, they will be granted as of the  60th day following such
+meeting (or if  the 60th day is not a business  day, on the first business day
+thereafter).  The  stock options will be  granted at the fair  market value on
+the date of grant.  One-third of the options  will vest on each of the second,
+third and fourth anniversaries of the date of grant.
+
+      Current directors who are not employees of the Company are also eligible
+for additional compensation under this  compensation program.  Commencing with
+the meeting of the Board of Directors to be held November 3, 1994, each of the
+current non-employee directors  will have  the one-time option  to receive  as
+additional compensation for serving  on the Board of Directors  either $30,000
+cash  consideration per  year  during the  term  such non-employee  serves  as
+director or a  one-time grant of  stock options. The  number of stock  options
+received and the vesting period for such options will be prorated as set forth
+below.    The  election  of  a  current  director  to  accept  the  additional
+compensation  in cash  or in  stock  options will  be  made at  such Board  of
+Directors meeting.  If the director  elects to receive cash, the first payment
+will  be made at  such Board of  Directors meeting and  the following payments
+will be  made on the date  of each annual meeting  of shareholders thereafter.
+If a current director elects to receive stock options, they will be granted as
+of January 3,  1995.   The stock options  will be granted  at the  fair market
+value on the date of grant.
+
+      For  purposes of applying this  new compensation program  to the current
+non-employee directors of the Company, if any of Messrs. Evans, Humphries, and
+Oesterreicher or Ms. Evans  elect to receive stock options, such director will
+be granted 12,000  options on  January 3, 1995, and  one-third of the  options
+will be fully  vested on each of January 3,  1997, 1998, and 1999.   If either
+Messrs. Harris  or Staubach elect to receive stock options, such director will
+be  granted  9,000 stock  options  on January 3,  1995,  and one-third  of the
+options will be fully vested  on each of January 3, 1996, 1997, and  1998.  If
+Mr. Haggar elects  to receive  stock options, he  will be granted  6,000 stock
+options on January 3, 1995, and  one-half of the options will be  fully vested
+on each of January 3, 1996 and 1997.  If either of Messrs. Hunt or Regas elect
+to receive stock options, he will be granted 3,000 stock options on January 3,
+1995, and the options will be fully vested on January 3, 1996.
+
+      If a Retiring Director is renominated to serve on the Board of Directors
+for an additional four-year period, such  Retiring Director will be treated as
+a new director for purposes of determining compensation during such additional
+four-year period.
+
+      During the  year ended  June 29, 1994, the  Board of Directors  held six
+meetings; all incumbent directors were present at all of the meetings with the
+exception of Mr. Hunt who was unable to attend two meetings.
+
+                            EXECUTIVE COMPENSATION
+
+Summary Compensation Table
+
+      The  following   summary  compensation  table  sets   forth  the  annual
+compensation for  the Company's  five highest compensated  executive officers,
+including  the  Chief Executive  Officer,  whose  salary  and  bonus  exceeded
+$100,000.00 in fiscal 1994.
+
+<TABLE>
+<CAPTION>
+                                                        Long-Term                 Stock
+    Name and                          Profit            Incentive     Total      Options
+Principal Position   Year    Salary   Sharing   Other(1)  Payouts   Compensation  Awarded(2)
+<S>                  <C>    <C>       <C>       <C>       <C>        <C>           <C>
+Norman E. Brinker    1994   $659,135  $706,592  $26,439   $93,940    $1,486,106    202,500
+ Chairman of the     1993   $573,708  $753,887  $10,933   $93,940    $1,432,468    225,000
+ Board and Chief     1992   $523,792  $360,308  $     0   $75,164    $  959,264    168,750
+ Executive Officer
+
+Ronald A. McDougall  1994   $529,327  $567,439  $22,547   $93,940    $1,213,253    202,500
+ President and Chief 1993   $444,538  $585,842  $ 5,972   $93,940    $1,130,292    225,000
+ Operating Officer   1992   $406,115  $283,009  $   500   $75,164    $  764,788    135,000
+
+Creed L. Ford, III   1994   $343,942  $275,154  $ 7,305   $68,889    $  695,290     56,250
+ Executive Vice      1993   $306,692  $309,847  $ 6,082   $68,889    $  691,510     67,500
+ President --        1992   $290,146  $169,406  $   500   $50,109    $  510,161     67,500
+   Operations
+
+Debra L. Smithart    1994   $232,500  $186,000  $ 5,471   $50,101    $  474,072     56,250
+ Executive Vice      1993   $183,309  $186,640  $   500   $31,313    $  401,762     67,500
+ President -- Chief  1992   $134,208  $ 30,935  $   500   $25,055    $  190,698     45,000
+ Financial Officer
+
+Douglas H. Brooks    1994   $232,884  $135,772  $12,582   $43,839    $  425,077     45,000
+ Senior Vice         1993   $206,231  $174,199  $ 2,746   $43,839    $  427,015     38,250
+ President-Chili's   1992   $184,280  $ 75,598  $   500   $37,582    $  297,960     38,250
+ Grill & Bar
+ Operations
+
+                    
+
+(1)   Other compensation represents Company match on deferred compensation, club memberships and dues,
+      tax preparation services and relocation benefits.
+
+(2)   Stock options awarded  have been restated to reflect the March  1994 stock split effected in the
+      form of a 50% stock dividend.
+</TABLE>
+
+Option Grants During 1994 Fiscal Year
+
+      The following table contains certain information concerning the grant of
+stock options to the executive officers named in the above  compensation table
+during the Company's last fiscal year:
+<TABLE>
+<CAPTION>
+                               % of Total                              Realizable Value of Assumed
+                             Options Granted                           Annual Rates of Stock Price
+                   Options    to Employees   Exercise or  Expiration  Appreciation for Option Term
+    Name           Granted   in Fiscal Year  Base Price      Date        5%              10%    
+<S>                <C>           <C>           <C>        <C>          <C>            <C>
+
+Norman E. Brinker   15,000                     $26.833    02/04/2004   $  253,127     $  641,473
+                   187,500                     $20.375    06/28/2004   $2,402,574     $6,088,594
+                   202,500       13.75%                                $2,655,701     $6,730,067
+
+Ronald A. McDougall 15,000                     $26.833    02/04/2004   $  253,127     $  641,473
+                   187,500                     $20.375    06/28/2004   $2,402,574     $6,088,594
+                   202,500       13.75%                                $2,655,701     $6,730,067
+
+Creed L. Ford, III  11,250                     $26.833    02/04/2004   $  189,845     $  481,105
+                    45,000                     $20.375    06/28/2004   $  576,618     $1,461,263
+                    56,250        3.82%                                $  766,463     $1,942,368
+
+Debra L. Smithart   11,250                     $26.833    02/04/2004   $  189,845     $  481,105
+                    45,000                     $20.375    06/28/2004   $  576,618     $1,461,263
+                    56,250        3.82%                                $  766,463     $1,942,368
+
+Douglas H. Brooks    7,500                     $26.833    02/04/2004   $  126,563     $  320,737
+                    37,500                     $20.375    06/28/2004   $  480,515     $1,217,719
+                    45,000        3.06%                                $  607,078     $1,538,456
+</TABLE>
+
+Stock Option Exercises and Fiscal Year-End Value Table
+
+      The following table shows  stock option exercises by the  named officers
+during  the last fiscal  year, including the  aggregate value of  gains on the
+date  of exercise.   In  addition, this  table includes  the number  of shares
+covered  by both exercisable and non-exercisable stock options at fiscal year-
+end.  Also  reported are the values for "in-the-money" options which represent
+the position  spread between the exercise  price of any such  existing options
+and the $21.00 fiscal year-end price of the Company's Common Stock.
+
+<TABLE>
+<CAPTION>
+                       Shares                                            Value of Unexercised
+                      Acquired               Number of Unexercised     In-the-Money Options at
+                         On      Value    Options at Fiscal Year End       Fiscal Year End      
+    Name              Exercise  Realized  Exercisable  Unexercisable  Exercisable  Unexercisable
+<S>                   <C>      <C>          <C>           <C>          <C>            <C>
+Norman E. Brinker           0  $        0   421,875       511,875      $ 4,364,635    $1,036,060
+Ronald A. McDougall   150,938   3,312,804   195,000       495,000        1,724,191       927,301
+Creed L. Ford, III    225,000   5,806,595   738,144       157,500       11,420,035       358,167
+Debra L. Smithart       9,000     191,731    48,938       146,250          442,278       285,661
+Douglas H. Brooks      35,972     990,919   337,953       102,375        5,228,379       210,462
+</TABLE>
+
+Long-Term Executive Profit Sharing Plan and Awards
+
+      Executives of  the Company participate in the Long-Term Executive Profit
+Sharing  Plan.   See  "Report  of  the  Compensation  Committee  --  Long-Term
+Incentives" for more  information regarding  this plan.   The following  table
+represents  awards granted  in  the  last  fiscal  year  under  the  Long-Term
+Executive Profit Sharing Plan.
+
+                       Number of       Estimated Future Payouts
+      Name           Units Awarded    Under Non-Stock Based Plans
+                                               (Dollars)
+
+                                    Threshold     Target    Maximum
+
+Norman E. Brinker         900        $60,000     $90,000       *
+Ronald A. McDougall       900        $60,000     $90,000       *
+Creed L. Ford, III        600        $40,000     $60,000       *
+Debra L. Smithart         600        $40,000     $60,000       *
+Douglas H. Brooks         400        $26,667     $40,000       *
+
+                      
+
+* There is no maximum future payout under the Long-Term Executive Profit
+  Sharing Plan.
+
+
+                            PRINCIPAL SHAREHOLDERS
+
+      The following table sets  forth certain information as to  the number of
+shares  of Common  Stock of  the Company  beneficially owned by  the principal
+shareholders of the Company.
+
+                                           Beneficial Ownership  
+
+                                         Number of
+Name and Address                           Shares           Percent
+
+Provident Investment Counsel            4,577,115 (1)        6.39%
+300 North Lake Avenue
+Pasadena, California 91101
+
+IDS Financial Corporation               4,137,950 (2)        5.78%
+IDS Tower 10
+Minneapolis, Minnesota 55440
+
+             
+
+      (1)   As  of  September 8,  1994.   Based  on  information contained  in
+Schedule 13G dated  as of  December 31, 1993,  as  supplemented by  subsequent
+communication.
+
+      (2)    As of  August 31,  1994.    Based  on  information  contained  in
+Schedule 13G  dated as  of December 31,  1993,  as supplemented  by subsequent
+communication.
+
+                       SECURITY OWNERSHIP OF MANAGEMENT
+                           AND ELECTION OF DIRECTORS
+
+      Fifteen (15) directors are to  be elected at the meeting.   Each nominee
+will  be  elected  to  hold  office  until  the  next  annual  meeting of  the
+shareholders or  until his or her  successor is elected and  qualified.  Proxy
+holders will  not be able to  vote the proxies held  by them for  more than 15
+persons.   To be elected a director, each nominee  must receive a plurality of
+all of  the votes cast at the  meeting for the election  of directors.  Should
+any nominee become unable  or unwilling to accept nomination or  election, the
+proxy holders may  vote the proxies for the election, in  his or her stead, of
+any other  person the  Board of  Directors may recommend.   All  nominees have
+expressed  their intention  to serve  the entire  term for  which  election is
+sought.    The  following  table  sets forth  certain  information  concerning
+security ownership of  management and  the persons nominated  for election  as
+directors of the Company:
+
+                           Number of Shares
+                           of Common Stock
+                         Beneficially Owned as           Percent of
+      Name             as of September 9, 1994(1)          Class   
+
+Norman E. Brinker          1,562,134 (2)                   2.18%
+
+Douglas H. Brooks            337,975                         *
+
+F. Lane Cardwell, Jr.         79,772                         *
+
+Creed L. Ford, III           755,354                       1.06%
+
+Ronald A. McDougall          195,022                         *
+
+Debra L. Smithart             50,460                         *
+
+Roger F. Thomson               1,000                         *
+
+Jack W. Evans, Sr.            71,717                         *
+
+Rae F. Evans                   1,585                         *
+
+J.M. Haggar, Jr.             130,645                         *
+
+J. Ira Harris                  2,000 (3)                     *
+
+Frederick S. Humphries           -0-                        -0-
+
+Ray L. Hunt                   33,750                         *
+
+James E. Oesterreicher           -0-                        -0-
+
+William F. Regas             109,287 (4)                     *
+
+Roger T. Staubach              1,500                         *
+
+All executive officers
+  and directors as a
+  group (19 persons)       3,528,510                       4.93%
+
+                        
+
+      *     Less than one percent (1%)
+
+      (1)   Includes  shares of Common Stock which may be acquired by exercise
+of exercisable options granted under the Company's 1983 Incentive Stock Option
+Plan,  the  1984 Non-Qualified  Stock Option  Plan,  the 1992  Incentive Stock
+Option Plan  and the  1991 Stock  Option Plan for  Non-Employee Directors  and
+Consultants, as applicable.
+
+      (2)   Includes 20,250 shares of Common Stock held of  record by a family
+trust of which Mr. Brinker is trustee.
+
+      (3)   Includes 2,000 shares of Common Stock held of record by a trust of
+which Mr. Harris is trustee.
+
+      (4)   Includes  4,658 shares of Common Stock  held of record by a family
+trust of which Mr. Regas is trustee.
+
+      The Company has established  a guideline that all senior officers of the
+Company own  stock in the Company,  believing that it is  important to further
+encourage  and support an ownership  mentality among the  senior officers that
+will continue to align  their personal financial interests with  the long-term
+interests  of  the Company's  shareholders.   Pursuant  to the  guideline, the
+minimum amount of Company Common Stock that a senior officer  will be required
+to own  will be determined  by such officer's  position within the  Company as
+well as annual  compensation.  The  guideline requires  that each Senior  Vice
+President own an amount of  Common Stock equal in value to such officer's base
+salary, each Executive  Vice President own an amount of  Common Stock equal in
+value to  twice such officer's  base salary,  the President own  an amount  of
+Common Stock  equal in  value to three  times his base  salary, and  the Chief
+Executive Officer  own an amount of Common Stock equal  in value to four times
+his base  salary.  The  guideline also  encourages all other  officers of  the
+Company to similarly acquire Common Stock in the Company.  It is expected that
+phase-in  of the guideline  will begin  by the end  of 1994,  for those senior
+officers who  do not  currently meet  the minimum  stock  ownership levels  as
+established by the guideline.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+COMPANY'S FISCAL 1994 CONSOLIDATED FINANCIAL STATEMENTS AND IS QUALIFIED IN ITS
+ENTIRETY BY REFERENCE TO SUCH CONSOLIDATED FINANCIAL STATEMENTS.
+</LEGEND>
+<CIK> 0000703351
+<NAME> BECKY KECK
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   QTR-4
+<FISCAL-YEAR-END>                          JUN-29-1994
+<PERIOD-END>                               JUN-29-1994
+<CASH>                                           3,614
+<SECURITIES>                                    45,239
+<RECEIVABLES>                                   12,573
+<ALLOWANCES>                                     (239)
+<INVENTORY>                                      8,152
+<CURRENT-ASSETS>                                47,223
+<PP&E>                                         595,046
+<DEPRECIATION>                               (160,858)
+<TOTAL-ASSETS>                                 558,709
+<CURRENT-LIABILITIES>                          103,416
+<BONDS>                                          1,200
+<COMMON>                                         7,103
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                     410,187
+<TOTAL-LIABILITY-AND-EQUITY>                   558,709
+<SALES>                                        870,718
+<TOTAL-REVENUES>                               878,473
+<CGS>                                          239,835
+<TOTAL-COSTS>                                  544,008
+<OTHER-EXPENSES>                               (1,323)
+<LOSS-PROVISION>                                    85
+<INTEREST-EXPENSE>                                 430
+<INCOME-PRETAX>                                 95,438
+<INCOME-TAX>                                    33,832
+<INCOME-CONTINUING>                             61,606
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    61,606
+<EPS-PRIMARY>                                      .83
+<EPS-DILUTED>                                      .83
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

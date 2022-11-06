@@ -1,0 +1,3219 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ QdGF0/wJMqlG8/29NeRYxfRhoaZC/wcxwqvdjfhCJywIV8IN4qL6nGk0KUnInR7B
+ ZPCbQabhzxg5jkCDQR6LUQ==
+
+<IMS-DOCUMENT>0000950152-94-000978.txt : 19941005
+<IMS-HEADER>0000950152-94-000978.hdr.sgml : 19941005
+ACCESSION NUMBER:		0000950152-94-000978
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		9
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940926
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BEARINGS INC /OH/
+		CENTRAL INDEX KEY:			0000109563
+		STANDARD INDUSTRIAL CLASSIFICATION:	5080
+		IRS NUMBER:				340117420
+		STATE OF INCORPORATION:			OH
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02299
+		FILM NUMBER:		94550279
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3600 EUCLID AVE
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44115
+		BUSINESS PHONE:		2168818900
+
+	MAIL ADDRESS:	
+		STREET 1:		3600 EUCLID AVE
+		CITY:			CLEVELAND
+		STATE:			OH
+		ZIP:			44115
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BROWN JIM STORES INC
+		DATE OF NAME CHANGE:	19600201
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>BEARUNGS, INC. 10-K
+<TEXT>
+
+<PAGE>   1
+
+
+
+
+
+                                   FORM 10-K
+                       SECUTITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                 ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+             OF THE SECURITIES EXCHANGE ACT OF 1934 (FEE REQUIRED)
+
+                    For The Fiscal Year Ended June 30, 1994
+
+                           Commission File No. 1-2299
+
+                                 BEARINGS, INC.
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+                 <S>                                               <C>
+                            OHIO                                         34-0117420
+                 (State or other jurisdiction of                   (I.R.S. Employer
+                 incorporation or organization)                     Identification No.)
+</TABLE>
+
+                   3600 Euclid Avenue, Cleveland, Ohio 44115
+              (Address of principal executive offices)  (Zip Code)
+
+      Registrant's telephone number, including area code: (216) 881-8900.
+
+                     Securities registered pursuant to Section 12(b) of the Act:
+
+                Title of each class        Name of exchange on which registered
+                -------------------        ------------------------------------
+                 Common Stock without               New York Stock Exchange
+                   par value
+
+                Securities registered pursuant to Section 12(g) of the Act: None
+
+
+                 Indicate by check mark whether the registrant (1) has filed
+                 all reports required to be filed by Section 13 or 15(d) of the
+                 Securities Exchange Act of 1934 during the preceding 12 months
+                 (or for such shorter period that the registrant was required
+                 to file such reports), and (2) has been subject to such filing
+                 requirements for the past 90 days.  Yes  X       No 
+                                                         ----        ----
+                 Indicate by check mark if disclosure of delinquent filers
+                 pursuant to Item 405 of Regulation S-K is not contained
+                 herein, and will not be contained, to the best of registrant's
+                 knowledge, in definitive proxy or information statements
+                 incorporated by reference in Part III of this Form 10-K or any
+                 amendment to this Form 10-K.  [ ]
+
+                 The aggregate market value of the voting stock held by
+                 non-affiliates of the registrant, computed by reference to the
+                 price at which the stock was sold as of the close of business
+                 on September 1, 1994: $229,558,403.
+<PAGE>   2
+
+
+                 Indicate the number of shares outstanding of each of the
+                 registrant's classes of common stock, as of the latest
+                 practicable date.
+
+                              Class            Outstanding at September 1, 1994
+                              -----            --------------------------------
+                 Common Stock without par value           7,595,947
+
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+                 Listed hereunder are the documents, portions of which are
+                 incorporated by reference, and the Parts of this Form 10-K
+                 into which such portions are incorporated:
+
+                               (1) Bearings, Inc. 1994 Annual Report
+                               to shareholders for the
+                               fiscal year ended June 30,
+                               1994, portions of which are
+                               incorporated by reference
+                               into Parts I, II and IV of
+                               this Form 10-K; and,
+                               
+                               (2) Bearings, Inc. Proxy Statement
+                               dated September 16, 1994,
+                               portions of which are
+                               incorporated by reference
+                               into Parts III and IV of this
+                               Form 10-K.
+                               
+                               
+<PAGE>   3
+
+
+                                    PART I.
+                                    -------
+                               ITEM 1.  BUSINESS.
+                                        ---------
+                            BEARINGS, INC., an Ohio corporation, and its
+                 wholly-owned operating subsidiaries, BRUENING BEARINGS, INC.,
+                 a Kentucky corporation, DIXIE BEARINGS, INCORPORATED, a
+                 Tennessee corporation, KING BEARING, INC., a California
+                 corporation, and MAINLINE INDUSTRIAL DISTRIBUTORS, INC., a
+                 Wisconsin corporation, are in the business of selling and
+                 distributing bearings, mechanical and electrical drive
+                 systems, industrial rubber products, fluid power transmission
+                 components and specialty maintenance and repair products
+                 manufactured by others.  Bearings, Inc. and its wholly-owned
+                 operating subsidiaries are hereafter referred to in this
+                 Report as the "Company", unless the context indicates
+                 otherwise.  The Company's executive offices are located at
+                 3600 Euclid Avenue, Cleveland, Ohio.  The Company and
+                 predecessor companies have been engaged in this business since
+                 1923.  Bearings, Inc. was incorporated under the laws of
+                 Delaware in 1928 and reincorporated from Delaware to Ohio in
+                 1988.
+
+                            (a)  GENERAL DEVELOPMENT OF BUSINESS.
+                                 --------------------------------
+                            During fiscal 1994, the Company established a
+                 physical presence in strategic geographic markets in the Upper
+                 Midwest.  In the summer of 1993, the Company opened two
+                 branches in the Chicago area, the largest industrial market in
+                 the nation.  In March 1994, the Company acquired Mainline
+                 Industrial Distributors, Inc.  of Appleton, Wisconsin in
+                 exchange for 196,000 shares of Company Common Stock.  The
+                 Mainline acquisition added nine branches to the Company's
+                 network, including seven in Wisconsin, one in Minneapolis and
+                 one in Chicago.  All continue to operate under the Mainline
+                 name.  Four additional Chicago-area branches were acquired by
+                 the Company for cash in May 1994.
+
+                            Also in fiscal 1994, the Company's implementation
+                 of Total Quality Management ("TQM") continued on course.  TQM
+                 is aimed at maximizing customer satisfaction and improving all
+                 aspects of the Company's business, while increasing the
+                 understanding, involvement and overall teamwork of the
+                 Company's employees at all levels.  Virtually all Company
+                 branches have undergone quality audits by Company management.
+                 Since its adoption of TQM, the Company has been honored with
+                 quality-supplier awards from dozens of its customers.
+
+                            In July 1993, John R. Cunin, a Director and former
+                 Chairman & Chief Executive Officer of the Company, died after
+                 45 years of service to the Company.  Dr. Jerry Sue Thornton,
+                 president of Cuyahoga Community College, was elected in
+                 January 1994 to fill the vacancy on the Board of Directors.
+                 Also in July 1993, Richard C. Shaw, previously Director of
+                 Corporate Communications, was appointed to serve as Vice
+                 President-Communications & Public Relations.
+
+
+
+
+                                      
+                                      2
+<PAGE>   4
+
+                                 Further information regarding
+                 developments in the Company's business can be found in the
+                 Bearings, Inc. 1994 Annual Report to shareholders under the
+                 caption "Management's Discussion and Analysis" on pages 10 and
+                 11, which is incorporated herein by reference.
+
+
+                            (b)  FINANCIAL INFORMATION ABOUT INDUSTRY SEGMENTS.
+                                 ----------------------------------------------
+                            The Company considers its business to involve only 
+                 one industry segment.
+
+                            (c)  NARRATIVE DESCRIPTION OF BUSINESS.
+                                 ----------------------------------
+                            PRODUCTS.  The Company engages in the distribution
+                 and sale of ball, roller, thrust and linear type bearings,
+                 mechanical, electrical and fluid power transmission
+                 components, industrial rubber products and specialty items
+                 used in connection with the foregoing such as seals,
+                 lubricants, locking devices, sealing compounds, adhesives and
+                 tools for use therewith.  Although the Company does not
+                 generally manufacture the products that it sells, it does
+                 assemble filter carts, fluid power units, speed reducers and
+                 electrical panels.
+
+                            The Company is a non-exclusive distributor for
+                 numerous manufacturers of the products which it sells.  The
+                 principal bearing lines distributed by the Company are:
+                 American, Barden, Cooper, FAG, INA, Kaydon, MB Bearings,
+                 McGill, Rexnord/PTC, Sealmaster, MRC, SKF, Thomson, Timken and
+                 Torrington/Fafnir.  The principal power transmission
+                 components distributed by the Company are: Aeroquip, ARO,
+                 Baldor, Browning, Dana, Eaton, Falk, FMC, Gates, Goodyear,
+                 Jeffrey, Kop-Flex, Lincoln Electric, Lovejoy, Martin, Morse,
+                 Reliance/Dodge, Rexnord/PTC, Schrader Bellows, and U.S.
+                 Electrical Motors.  Specialty and other items, including
+                 bronze, babbit, nylon, rubber, seals, sealants, "O" rings,
+                 retaining rings, adhesives, lubricants, maintenance equipment
+                 and tools, are purchased from various manufacturers.  The
+                 principal suppliers of specialty and other items are: CR
+                 Industries, Dow Corning, Garlock, Loctite, J.M. Clipper,
+                 National/Federal Mogul, OTC, Parker Hannifin, Rotoclip and
+                 Symmco.  The Company believes that its relationships with its
+                 suppliers are generally good and that the Company can continue
+                 to represent these suppliers.  The loss of certain of these
+                 suppliers could have an adverse effect on the Company's
+                 business.
+
+                            Based upon the Company's analysis of product dollar
+                 sales volume for the fiscal year ended June 30, 1994, bearings
+                 (including mounted bearings, which in some contexts are
+                 categorized as power transmission components) represented 50%,
+                 power transmission components (including certain rubber and
+                 fluid power products) represented 38%, and specialty and other
+                 items represented 12% of sales.  For the year ended June 30,
+                 1993, bearings represented 52%,
+
+
+                                       3
+
+
+<PAGE>   5
+
+                  power transmission components represented 32%, and specialty
+                 and other items represented 16% of sales.  For the year ended
+                 June 30, 1992, bearings represented 53%, power transmission
+                 components 32%, and specialty and other items 15% of sales.
+
+                            The Company rebuilds precision machine spindles and
+                 live centers at its Spindle Lab in Cleveland, Ohio.
+                 Mechanical shops located in Cleveland, Ohio; Corona,
+                 California; Longview, Washington; Modesto, California; Fort
+                 Worth, Texas; Carlisle, Pennsylvania; Butte, Montana; and
+                 Florence, Kentucky rebuild and assemble speed reducers,
+                 provide custom machining and assemble fluid power systems to
+                 customer specifications.  Fluid power centers located in Kent,
+                 Washington, Corona, California and Worcester, Massachusetts,
+                 provide customers with technical expertise.  The Company also
+                 operates rubber shops in Arlington, Texas; Longview,
+                 Washington; Corona, California; Modesto, California; Tucson,
+                 Arizona; Atlanta, Georgia; Dayton, New Jersey;  and Crestwood,
+                 Illinois to modify conveyor belts and provide hose assemblies
+                 in accordance with customer requirements.
+
+                            SERVICES.  The Company's sales personnel advise and
+                 assist customers with respect to the selection and application
+                 of various bearings, related accessories and power
+                 transmission components.  The Company considers this advice
+                 and assistance to be an integral part of its overall sales
+                 efforts.  Company sales personnel consist of inside customer
+                 service and field account representatives assigned to each
+                 branch, in addition to representatives assigned as industry
+                 and product specialists.  Inside customer service
+                 representatives receive, process and expedite customer orders,
+                 provide pricing and product information, and provide
+                 assistance to field account representatives in servicing
+                 customers.  Field account representatives make on-site calls
+                 to customers and potential customers to provide product and
+                 pricing information, make surveys of customer requirements and
+                 recommendations, and assist in the implementation of
+                 maintenance programs.  The Company maintains inventory levels
+                 in each branch that are tailored to meet the immediate needs
+                 of its customers and maintains back-up inventory in its
+                 distribution centers, thereby enabling customers to minimize
+                 their own inventories.  Such inventories consist of certain
+                 standard items stocked at most branches as well as other items
+                 related to the specific needs of customers in the particular
+                 locale.  Due to its high percentage of sales in the
+                 maintenance and replacement market, the Company believes that
+                 service is more important than price in its sales effort,
+                 although price is a competitive factor.  As a result, the
+                 business of each branch is concentrated largely in the
+                 geographic area in which it is located.  Special products or
+                 products for export may be sold from a number of locations.
+
+
+
+
+
+                                      4
+
+
+<PAGE>   6
+
+                            Timely delivery of products to customers is an
+                 integral part of the service that the Company provides.
+                 Branches and distribution centers utilize the most effective
+                 method of transportation available to meet customer needs
+                 including both surface and air common carrier and courier
+                 services.  The Company also maintains a fleet of delivery
+                 vehicles to provide for delivery to customers.  These
+                 transportation services and delivery vehicles are also
+                 utilized for movement of products between suppliers,
+                 distribution centers and branches to assure availability of
+                 merchandise for customer needs.
+
+                            The Company's ability to service its customers is
+                 enhanced by its computerized inventory and sales information
+                 systems.  The Company's point-of-sale OMNEX(TM) 2.0 computer
+                 system gives all Company locations on-line access to
+                 inventory, sales analysis and  data.  Inventory and sales
+                 information is updated as transactions are entered.  The
+                 OMNEX(TM) 2.0 system permits direct access for order entry, 
+                 pricing and price-auditing, order expediting and back order 
+                 review.  The Company's computer system also permits Electronic
+                 Data Interchange (EDI) with participating customers.  Nine
+                 network-integrated computer sites serve all branches,
+                 distribution centers and service facilities.  Three additional
+                 network-integrated computer systems in Cleveland are tied into
+                 a mainframe computer for sales analysis, management
+                 information and accounting applications.
+
+                            The Company's operations contrast sharply with
+                 those of manufacturers whose products it sells in that the
+                 manufacturers generally confine their direct sales activities
+                 to large-volume transactions with original equipment
+                 manufacturers who incorporate the components purchased into
+                 the products they make.  The manufacturers generally do not
+                 sell replacement components directly to the customer but refer
+                 the customer to the Company or another nearby distributor,
+                 although there is no assurance that this practice will
+                 continue.
+
+                            Patents, trademarks and licenses do not have a 
+                 significant effect on the Company's business.
+
+                            MARKETS AND METHODS OF DISTRIBUTION.  The Company
+                 estimates that approximately 85% of its sales are in the
+                 maintenance and replacement market, the balance being sales
+                 for original equipment.  The Company purchases from over 100
+                 major suppliers of bearings, power transmission components and
+                 related items and resells to a wide range of customers, which
+                 include industrial plants of all kinds, machine shops, mines,
+                 paper mills, public utilities, all modes of transportation,
+                 defense establishments and other government agencies, garages,
+                 textile mills, food processing plants, schools and
+                 universities, hospitals, high technology businesses,
+                 contractors, agricultural concerns and other enterprises using
+                 any form of machine, vehicle or implement that
+                                      5
+<PAGE>   7
+
+
+
+
+
+                 contains bearings, power transmission components or related
+                 maintenance items.  Its customers range from the largest
+                 industrial concerns in the country to the smallest.  The
+                 Company's business is not significantly dependent upon a
+                 single customer or group of customers, the loss of which would
+                 have a material adverse effect upon the Company's business as
+                 a whole, and no single customer of the Company accounts for
+                 more than 2% of the Company's total sales.
+
+                            During fiscal 1994, 5 branches were closed or
+                 consolidated with other branches and 21 branches were newly
+                 opened or acquired.  On June 30, 1994, the Company had 339
+                 branches in 40 states.  The Company has no operations outside
+                 the continental United States.
+
+                            The Company's export business during the fiscal
+                 year ended June 30, 1994 and prior fiscal years was less than
+                 2% of net sales, and is not concentrated in any one geographic
+                 area.
+
+                            COMPETITION.  The Company considers its overall
+                 business to be highly competitive.  The Company's principal
+                 competitors are other specialized bearing and power
+                 transmission distributors and industrial parts distributors,
+                 and, to a lesser extent, mine and mill supply houses.  These
+                 competitors include single and multiple branch operations,
+                 some of which are divisions or subsidiaries of larger
+                 organizations that may have greater financial resources than
+                 the Company.  There is a trend in the industry toward larger
+                 multiple branch operations.  The Company also competes with
+                 the manufacturers of original equipment and their distributors
+                 in the sale of maintenance and replacement bearings, power
+                 transmission components and related items.  Some of these
+                 manufacturers may have greater financial resources than the
+                 Company.  The competitors and the number of competitors vary
+                 throughout the geographic areas in which the Company does
+                 business.  As a distributor, the Company's market continues to
+                 be influenced by competitive products of European and Asian
+                 manufacturers, which are sold in the United States.  The
+                 Company continues to develop and implement marketing
+                 strategies to maintain a competitive position.
+
+                            The Company is one of the leading distributors of
+                 replacement bearings, power transmission components and
+                 related items in the United States, but the Company's share of
+                 the market for those products is relatively small compared to
+                 the portion of that market serviced by original equipment
+                 manufacturers and other distributors, including dealers in
+                 distressed and surplus merchandise.  The Company may not be
+                 the largest distributor in each of the geographic areas in
+                 which a branch is located.
+
+                            BACKLOG AND SEASONALITY.  The Company does not have 
+                 a substantial backlog of orders and backlog is not significant
+                 in the business of the Company since prompt delivery of the
+                 majority of the Company's products is essential to the
+                 Company's business.  The Company does not consider its
+                 business to be seasonal.
+
+                                      6
+<PAGE>   8
+                            RAW MATERIALS AND GENERAL BUSINESS CONDITIONS.  The
+                 Company's operations are dependent upon general industrial
+                 activities and economic conditions and would be adversely
+                 affected by the unavailability of raw materials to its
+                 suppliers or by any prolonged recession or depression that has
+                 an adverse effect on American industrial activity generally.
+
+                            NUMBER OF EMPLOYEES.  On June 30, 1994, the Company
+                 had 4056 employees (not including the Company's executive
+                 officers).  None of the Company's employees are covered by
+                 collective bargaining.  The Company considers its relationship
+                 with its employees to be generally favorable.
+
+                            WORKING CAPITAL.  The Company's working capital
+                 position is disclosed in the financial statements referred to
+                 at Item 8 on page 12 of this Report and is discussed in
+                 "Management's Discussion and Analysis" set forth in the
+                 Bearings, Inc. 1994 Annual Report to shareholders on pages 10
+                 and 11.
+
+                            The Company requires substantial working capital
+                 related to accounts receivable and inventories.  Significant
+                 amounts of inventory are required to be carried to meet rapid
+                 delivery requirements of customers.  The Company generally
+                 requires all payments for sales on account within 30 days and
+                 generally customers have no right to return merchandise.
+                 Returns are not considered to have a material effect on the
+                 Company's working capital requirements.  The Company believes
+                 that such practices are consistent with prevailing industry
+                 practices in these areas.
+
+                            ENVIRONMENTAL LAWS.  The Company believes that
+                 compliance with federal, state and local provisions regulating
+                 the discharge of materials into the environment or otherwise
+                 relating to the protection of the environment will not have a
+                 material adverse effect upon capital expenditures, earnings or
+                 competitive position of the Company.
+
+                            (d)   FINANCIAL INFORMATION ABOUT FOREIGN AND 
+                                  ---------------------------------------
+                                  DOMESTIC OPERATIONS AND EXPORT SALES.
+                                  -------------------------------------
+                            The Company has no operations outside the
+                 continental United States.  The Company's export business
+                 during the fiscal year ended June 30, 1994, and prior fiscal
+                 years, was less than 2% of net sales, and is not concentrated
+                 in any one geographic area.
+
+                              ITEM 2.  PROPERTIES.
+                                       -----------
+                            The Company owns or leases the properties in which
+                 its offices, branches, distribution centers, shops and
+                 corporate facilities are located.  As of June 30, 1994, the
+                 real properties at 187 locations were owned by the Company,
+                 while 164 locations were leased by the Company.  Certain
+                 property locations may contain multiple operations, such as a 
+                 branch and a distribution center.
+
+                                      7
+<PAGE>   9
+
+                            The principal real properties owned by the Company
+                 (each of which has more than 20,000 square feet of floor
+                 space) are: the corporate office building in Cleveland, Ohio;
+                 the corporate finance and information services office building
+                 in Cleveland, Ohio; the Cleveland East branch in Cleveland,
+                 Ohio; the Prospect mechanical shop in Cleveland, Ohio; the
+                 Midwest Distribution Center in Florence, Kentucky; the John R.
+                 Cunin Distribution Center in Carlisle, Pennsylvania; and the
+                 Portland branch and Portland Distribution Center in Portland,
+                 Oregon.  The principal real properties leased by the Company
+                 (each of which has more than 20,000 square feet of floor
+                 space) are: the Corona offices and Corona Distribution Center
+                 in Corona, California; the Fulton Industrial branch and J. L.
+                 Lammers Distribution Center in Atlanta, Georgia; the Fort
+                 Worth Distribution Center in Fort Worth, Texas; the Long Beach
+                 branch in Long Beach, California; the San Jose branch in San
+                 Jose, California; the Worcester branch and fluid power center
+                 in Worcester, Massachusetts; the Longview branch and Longview
+                 Distribution Center in Longview, Washington; the Appleton
+                 offices and branch in Appleton, Wisconsin; and the Milwaukee
+                 branch in Milwaukee, Wisconsin.
+
+                            The Company considers the properties owned or
+                 leased to be generally sufficient to meet its requirements for
+                 office space and inventory stocking.  The size of the
+                 buildings in which the Company's branches are located is
+                 primarily influenced by the amount of inventory required to be
+                 carried to meet the needs of the customers of the branch.  All
+                 of the real properties owned or leased by the Company are
+                 being utilized by the Company in its business except for
+                 certain properties, which in the aggregate are not material
+                 and are either for sale or lease to third parties due to
+                 relocation or closing of a facility.  Unused portions of
+                 buildings may be leased or subleased to others.
+
+                            Generally, when opening a new branch, the Company
+                 will lease space for a term not exceeding five years.  Then,
+                 as the business develops, suitable property may be purchased
+                 or leased for relocation of the branch.  A new general purpose
+                 office-storeroom building may be constructed.  However, the
+                 Company has no fixed policy in this regard, and in each
+                 instance the final decision is made on the basis of
+                 availability and cost of suitable property in the local real
+                 estate market, whether purchased or leased.  The Company does
+                 not consider any one of its properties to be material, because
+                 it believes that if it becomes necessary or desirable to
+                 relocate any of its branches and distribution centers, other
+                 suitable properties could be found.
+
+                            During the fiscal year ended June 30, 1994, the
+                 Company opened or acquired 21 new branches and closed or
+                 consolidated 5 branches.
+                                      8
+<PAGE>   10
+                      ITEM 3.  PENDING LEGAL PROCEEDINGS.
+                               -------------------------  
+
+                            In 1989, Bearings, Inc. was served with a Second
+                 Amended Complaint in a case captioned SAMMIE ADKINS, ET AL. V.
+                 A. P. GREEN INDUSTRIES, INC., ET AL., Summit County Court of
+                 Common Pleas Case No. ACV 88- 7-2398, naming it as an
+                 additional defendant, along with over 200 other defendants.
+                 Subsequently, 17 additional cases were filed in the same court
+                 naming Bearings, Inc. as a defendant and setting forth
+                 virtually the same allegations against many of the same
+                 defendants on behalf of different plaintiffs.  These cases are
+                 known generally as the Akron Tireworker Asbestos Cases and
+                 allege that the plaintiffs (including spouses in some cases)
+                 were injured due to exposure to asbestos while working for
+                 various tire and rubber companies in the greater Akron, Ohio
+                 area.  In each case the employee plaintiff has sued for
+                 $500,000 compensatory and $500,000 punitive damages.  About
+                 40% of the plaintiffs in the cases are spouses of the
+                 employees, and the spouse plaintiffs have each sued for
+                 $50,000 compensatory and $50,000 punitive damages.
+
+                            Preliminary information made available to the
+                 Company indicates that Bearings, Inc. has been named a
+                 defendant in these cases only as a supplier of certain
+                 products manufactured by others, which products allegedly
+                 contained asbestos.  Due to the court's case management order,
+                 the proceedings as they relate to Bearings, Inc. are in the
+                 preliminary stages; the Company believes, however, based upon
+                 circumstances presently known that such cases are not material
+                 to its business or its financial condition.  The Company
+                 intends to defend these cases vigorously.  Even if liability
+                 were assessed, the Company would seek indemnification from its
+                 suppliers and its insurance carriers.
+
+                            In 1992, a jury in a case captioned KING BEARING,
+                 INC., ET AL. V. CARYL EDMUND ORANGES, ET AL., Superior Court
+                 of the State of California, County of Orange, Case No.
+                 53-42-31, awarded a $32.4 million judgment against King
+                 Bearing, Inc., a wholly-owned subsidiary of Bearings, Inc.;
+                 however, as explained below, the Company believes that this
+                 judgment will have no material adverse effect on its business
+                 or financial condition.  The verdict was based on contractual
+                 and other claims asserted by various cross- complainants
+                 against King Bearing in a breach of contract and unfair
+                 competition case initially filed by King Bearing in 1987.  The
+                 suit, which involved a former owner of King Bearing, was
+                 pending at the time Bearings, Inc. acquired King Bearing in
+                 June 1990.  All events relative to the judgment occurred prior
+                 to the Company's purchase of King Bearing.  Although Bearings,
+                 Inc. was subsequently named as a party to the lawsuit in 1991,
+                 the jury found no liability on the part of Bearings, Inc.
+                 Under the 1990 Stock Purchase Agreement relative to the
+                 acquisition of King Bearing, both Bearings, Inc. and King
+                 Bearing were specifically indemnified by the ultimate parent
+                 of the former owner of King Bearing (whose stockholders' 
+                 equity exceeded $3 billion at June 30,
+
+                                      9
+<PAGE>   11
+                  1994) for any damages or loss related to the judgment.  The
+                 judgment is being strongly contested by counsel retained by
+                 the indemnitor on behalf of King Bearing, and in September
+                 1992, the trial court granted the motion of King Bearing for a
+                 new trial as to all but $219,000 in damages returned by the
+                 jury.  A notice of appeal was filed by the cross-complainants,
+                 and the case is now pending in the California Court of Appeal,
+                 Fourth Appellate District.
+
+                   ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+                            ----------------------------------------------------
+                            No matters were submitted to a vote of security
+                 holders of Bearings, Inc. during the last quarter of the
+                 fiscal year ended June 30, 1994.
+
+
+                              EXECUTIVE OFFICERS OF THE REGISTRANT.
+                              -------------------------------------
+                            The Executive Officers are elected for a term of
+                 one year, or until their successors are chosen and qualified,
+                 at the organizational meeting of the Board of Directors held
+                 immediately following the annual meeting of shareholders.  The
+                 following is a listing of the Executive Officers of Bearings,
+                 Inc. and a description of their business experience during the
+                 past five years.  Except as otherwise stated, the positions
+                 and offices indicated are with Bearings, Inc. and the persons
+                 were elected to their present positions on October 19, 1993:
+
+                                  JOHN C. DANNEMILLER.  Mr. Dannemiller
+                             is Chairman (since January 1992), Chief
+                             Executive Officer (since January 1992) and a
+                             Director (since 1985). He was President (from
+                             January 1990 to January 1992), Chief Operating
+                             Officer (from October 1988 to January 1992) and
+                             Executive Vice President (from 1988 to January
+                             1990).  He is 56 years of age.
+                             
+                                  JOHN C. ROBINSON.  Mr. Robinson is
+                             President (since January 1992), Chief Operating
+                             Officer (since January 1992), and a Director
+                             (since 1991). He was Vice President (from October
+                             1989 to January 1992) and Executive Vice President
+                             & General Manager of the Corporation's
+                             wholly-owned subsidiary, King Bearing, Inc. (from
+                             June 1990 to October 1991).  He was Director of
+                             Development & Strategic Planning from 1987 to
+                             October 1989.  He is 52 years of age.
+
+                                  MARK O. EISELE.  Mr. Eisele is
+                             Controller (since October 1992).  He was
+                             Manager of Internal Audit (from June 1991 to
+                             October 1992).  Prior to that, Mr. Eisele was a
+                             Senior Manager with Deloitte & Touche.  He is 37
+                             years of age.
+
+
+
+
+                                      10
+<PAGE>   12
+                                   FRANCIS A. MARTINS.  Mr. Martins is
+                             Vice President-Marketing (since May 1992).  He was
+                             Vice President, Industrial Aftermarket Operations
+                             for SKF USA Inc., a manufacturer of bearings and
+                             related products (from 1985 to May 1992).  He is
+                             51 years of age.
+        
+                                   FREDERICK L. MOHR.  Mr. Mohr is Vice
+                             President-Sales & Marketing (since 1983).  He is
+                             64 years of age.
+        
+                                   RICHARD C. SHAW.  Mr. Shaw is Vice
+                             President-Communications & Public Relations
+                             (since July 1993).  He was Director of Corporate
+                             Communications from 1989 to July 1993.  He is 45
+                             years of age.
+                             
+                                    ROBERT C. STINSON.  Mr. Stinson is Vice
+                             President-General Counsel (since 1989) and
+                             Secretary (since October 1990).  He was Assistant
+                             Secretary (from 1978 to October 1990).  He is 48
+                             years of age.
+        
+                                     JOHN R. WHITTEN.  Mr. Whitten is Vice
+                             President-Finance & Treasurer (since October
+                             1992).  He was Vice President (since 1985) and
+                             Controller (from 1981 to October 1992).  He is 48
+                             years of age.
+
+
+                                                 PART II.
+                                                 --------
+                    ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+                             -------------------------------------------------
+                                           STOCKHOLDER MATTERS.
+                                           --------------------
+                            The Company's Common Stock, without par value, is
+                 listed for trading on the New York Stock Exchange.  The
+                 information concerning the principal market for the Company's
+                 Common Stock, the quarterly stock prices and dividends for the
+                 fiscal years ended June 30, 1994 and 1993 and the  number of
+                 shareholders of record as of September 1, 1994 is set forth in
+                 the Bearings, Inc. 1994 Annual Report to shareholders on page
+                 25, under the caption "Quarterly Operating Results and Market
+                 Data", and such information is incorporated here by reference.
+
+                                   ITEM 6.  SELECTED FINANCIAL DATA.
+                                            ------------------------
+                            The summary of selected financial data for each of
+                 the last five years is set forth in the Bearings, Inc. 1994
+                 Annual Report to shareholders in the table on pages 26 and 27 
+                 under the caption "10 Year Summary" and is incorporated here by
+                 reference.
+
+                                      11
+<PAGE>   13
+                 ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+                          -------------------------------------------------
+                                CONDITION AND RESULTS OF OPERATIONS.
+                                ------------------------------------
+                            The "Management's Discussion and Analysis" is set
+                 forth in the Bearings, Inc. 1994 Annual Report to shareholders
+                 on pages 10 and 11 and is incorporated here by reference.
+
+                   ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+                            --------------------------------------------
+                            The following consolidated financial statements and
+                 supplementary data of Bearings, Inc. and subsidiaries for the
+                 1994, 1993 and 1992 fiscal years and the independent auditors'
+                 report listed below, which are included in the Bearings, Inc.
+                 1994 Annual Report to shareholders at the pages indicated, are
+                 incorporated here by reference and filed herewith:
+
+
+<TABLE>
+<CAPTION>
+CAPTION                                                                        PAGE NO.
+- - -------                                                                        --------
+<S>                                                                       <C> 
+
+Financial Statements:
+
+     Statements of Consolidated
+     Income for the Years Ended
+     June 30, 1994, 1993 and 1992                                                   12
+     
+     Consolidated Balance Sheets
+     June 30, 1994 and 1993                                                         13
+     
+     Statements of Consolidated
+     Cash Flows for the Years Ended
+     June 30, 1994, 1993 and 1992                                                   14
+     
+     Statements of Consolidated
+     Shareholders' Equity for the
+     Years Ended June 30, 1994,
+     1993 and 1992                                                                  15
+     
+     Notes to Consolidated
+     Financial Statements for the
+     Years Ended June 30, 1994, 1993
+     and 1992                                                                    16 - 22
+     
+Independent Auditors' Report                                                        23
+     
+     Supplementary Data:
+
+          Quarterly Operating Results and
+          Market Data                                                               25
+</TABLE>  
+
+
+                                      12
+<PAGE>   14
+
+                 ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+                          ------------------------------------------------
+                              ACCOUNTING AND FINANCIAL DISCLOSURE.
+                              ------------------------------------
+                                         Not applicable.
+   
+
+                                             PART III.
+                                             ---------
+                 ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+                           ---------------------------------------------------
+                          The information required by this Item as to the
+                 Directors is set forth in the Bearings, Inc. Proxy Statement
+                 dated September 16, 1994 on pages 3 through 5 under the
+                 caption "Election of Directors" and is incorporated here by
+                 reference.  The information required by this Item as to the
+                 Executive Officers has been furnished in this Report on pages
+                 10 and 11 in Part I, after Item 4, under the caption
+                 "Executive Officers of the Registrant".  The information
+                 required by this Item as to Forms 3, 4 and 5 reporting
+                 delinquencies is set forth in the Bearings, Inc. Proxy
+                 Statement dated September 16, 1994 on page 18 under the
+                 caption "Compliance with Section 16(a) of the Securities
+                 Exchange Act of 1934" and is incorporated here by reference.
+
+
+                              ITEM 11.  EXECUTIVE COMPENSATION.
+                                        -----------------------
+                          The information required by this Item is set forth in
+                 the Bearings, Inc. Proxy Statement dated September 16, 1994,
+                 under the captions "Summary Compensation" on pages 8 and 9,
+                 "Aggregate Option/SAR Exercises and Fiscal Year-End Option
+                 Value Table" on page 9, "Estimated Retirement Benefits Under
+                 Supplemental Executive Retirement Benefits Plan" on page 10,
+                 "Compensation of Directors" on page 14, "Deferred Compensation
+                 Plan for Non-employee Directors" on page 15, "G. L. LaMore
+                 Consulting Agreement" on page 16, "Deferred Compensation Plan"
+                 on page 16, and "Severance Payment Agreements" on pages 16 and
+                 17, and is incorporated here by reference.
+
+
+                           ITEM 12.  SECURITY OWNERSHIP OF CERTAIN
+                                     -----------------------------
+                               BENEFICIAL OWNERS AND MANAGEMENT.
+                               ---------------------------------
+                          (a)  Information concerning the security ownership of
+                 certain beneficial owners is set forth under the caption
+                 "Security Ownership of Certain Beneficial Owners" on page 6 of
+                 the Bearings, Inc. Proxy Statement dated September 16, 1994,
+                 and is incorporated here by reference.
+
+                          (b)  Information concerning security ownership of
+                 management is set forth under the caption "Security Ownership
+                 of Management" on page 7 of the  Bearings, Inc.  Proxy
+                 Statement  dated September 16, 1994, and is incorporated here
+                 by reference.
+
+
+
+
+                                      13
+                                     
+<PAGE>   15
+              ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+                        ----------------------------------------------
+                                       Not applicable.
+
+                                          PART IV.
+                                          --------
+
+                 ITEM 14.  EXHIBITS, FINANCIAL STATEMENTS, FINANCIAL
+                           -----------------------------------------
+                         STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.
+                         --------------------------------------------
+                 (a)1.  FINANCIAL STATEMENTS.
+                        ---------------------
+                          The following consolidated financial statements of
+                 the Company, notes thereto, the independent auditors' report
+                 and supplemental data are included in the Bearings, Inc. 1994
+                 Annual Report to shareholders on pages 12 through 23 and page
+                 25, and are incorporated by reference in Item 8 of this
+                 Report.
+
+                                        Caption
+                                        -------
+                        Statements of Consolidated Income for the
+                        Years Ended June 30, 1994, 1993 and 1992
+                        
+                        Consolidated Balance Sheets
+                        June 30, 1994 and 1993
+                        
+                        Statements of Consolidated Cash Flows for
+                        the Years Ended June 30, 1994, 1993 and 1992
+
+                        Statements of Consolidated Shareholders'
+                        Equity for the Years Ended June 30, 1994,
+                        1993 and 1992
+                        
+                        Notes to Consolidated Financial Statements
+                        for the Years Ended June 30, 1994, 1993
+                        and 1992
+                        
+                        Independent Auditors' Report
+
+                        Supplementary Data:
+                        Quarterly Operating Results and Market Data
+
+                 (a)2.  FINANCIAL STATEMENT SCHEDULES.
+                        ------------------------------
+                          The following Report and Schedules are included in
+                 this Part IV, and are found in this Report at the pages
+                 indicated:
+
+                 
+<TABLE>
+<CAPTION>
+                        Caption                                      Page No.
+                        -------                                      --------
+                        <S>                                          <C>
+                        Independent Auditors' Report                    20
+
+                                      14
+<PAGE>   16
+ 
+                       Schedule V - Property, Plant
+                       and Equipment                             21
+
+                       Schedule VI - Accumulated
+                       Depreciation and Depletion of
+                       Property, Plant and Equipment             22             
+
+                       Schedule VIII - Valuation and
+                       Qualifying Accounts                       23
+
+                       Schedule IX - Short Term
+                       Borrowings                                24
+                 
+</TABLE>
+
+                          All other schedules for which provision is made in
+                 the applicable accounting regulation of the Securities and
+                 Exchange Commission have been omitted because they are not
+                 required under the related instructions, are not applicable,
+                 or the required information is included in the financial
+                 statements and notes thereto.
+
+                 (a)3.  EXHIBITS.
+                        ---------
+                           *     Asterisk indicates an executive compensation 
+                                 plan or arrangement.
+
+<TABLE>
+<CAPTION>
+        
+         Exhibit
+         No.                                        Description
+        <S>                                   <C>
+         -------                                    -----------
+         3(a)                                  Amended and Restated
+                                               Articles of Incorporation of
+                                               Bearings, Inc., an Ohio
+                                               corporation, filed with  the
+                                               Ohio  Secretary  of  State on
+                                               October 18, 1988 (filed as
+                                               Exhibit 4(a) to the Bearings,
+                                               Inc. Form 8-K dated October
+                                               21, 1988, SEC File No.
+                                               1-2299, and incorporated here
+                                               by reference).
+         
+         3(b)                                   Code of Regulations of
+                                               Bearings, Inc., an Ohio
+                                               corporation, adopted
+                                               September 6, 1988 (filed as
+                                               Exhibit 4(b) to the Bearings,
+                                               Inc. Form 8-K dated October
+                                               21, 1988, SEC File No.
+                                               1-2299, and incorporated here
+                                               by reference).
+         
+         3(c)                                   Certificate of Amendment of
+                                               Amended and Restated Articles
+                                               of Incorporation of Bearings,
+                                               Inc., an Ohio corporation,
+                                               filed with the  Ohio
+                                               Secretary  of State on
+                                               October 27, 1988 (filed as
+                                               Exhibit 4(c) to the Bearings,
+                                               Inc. Form 10-Q for the
+                                               quarter ended September 30,
+                                               1988, SEC File No. 1-2299,
+                                               and incorporated here by
+                                               reference).
+         
+</TABLE>         
+                                      15
+<PAGE>   17
+
+
+
+
+
+                 3(d)            Certificate of Amendment of
+                                 Amended and Restated Articles
+                                 of Incorporation of Bearings,
+                                 Inc. filed with the Ohio
+                                 Secretary of State on October
+                                 17, 1990 (filed as Exhibit
+                                 4(e) to the Bearings, Inc.
+                                 Form 10-Q for the quarter
+                                 ended September 30, 1990, SEC
+                                 File No. 1-2299, and
+                                 incorporated here by
+                                 reference).
+             
+                 4(a)            Certificate of Merger of
+                                 Bearings, Inc. (Ohio) and
+                                 Bearings, Inc. (Delaware)
+                                 filed with the Ohio Secretary
+                                 of State on October 18, 1988
+                                 (filed as Exhibit 4 to the
+                                 Bearings, Inc. Annual Report
+                                 on Form 10-K for the fiscal
+                                 year ended June 30, 1989, SEC
+                                 File No. 1-2299, and
+                                 incorporated here by
+                                 reference).
+             
+                 4(b)            $80,000,000 Maximum
+                                 Aggregate Principal Amount
+                                 Note Purchase and Private
+                                 Shelf Facility dated October
+                                 31, 1992 between Bearings,
+                                 Inc. and The Prudential
+                                 Insurance Company of America
+                                 (filed as Exhibit 4(f) to the
+                                 Bearings, Inc. Form 10-Q for
+                                 the quarter ended September
+                                 30, 1992, SEC File No.
+                                 1-2299, and incorporated here
+                                 by reference).
+             
+             *10(a)              Form of Executive Severance
+                                 Agreement between the Company and 7
+                                 executive officers (filed as Exhibit
+                                 10(b) to the Bearings, Inc. Annual
+                                 Report on Form 10-K for the fiscal
+                                 year ended June 30, 1989, SEC File
+                                 No. 1-2299, and incorporated here by
+                                 reference), together with schedule
+                                 pursuant to Instruction 2 of Item
+                                 601(a) of Regulation S-K identifying
+                                 the officers and setting forth the
+                                 material details in which the
+                                 agreements differ from the form of
+                                 agreement that is filed.
+             
+             *10(b)              Form of amendment dated January 17,
+                                 1991 amending the Executive
+                                 Severance Agreements filed as
+                                 Exhibit 10(b) to the Bearings, Inc.
+                                 Annual Report on Form 10-K for the
+                                 fiscal year ended June 30, 1989
+                                 (filed as Exhibit 19(a) to the
+                                 Bearings, Inc. Form 10-Q for the
+                                 quarter ended December 31, 1990, SEC
+                                 File No. 1-2299, and incorporated
+                                 here by reference).  The amendment
+                                 is applicable to all executive
+                                 officers named in the schedule filed
+                                 as part of Exhibit 10(a) of this
+                                 Report and that schedule is
+                                 incorporated here by reference.
+                    
+                                      16
+<PAGE>   18
+               
+               *10(c)              A written description of the
+                                   Directors' compensation program is
+                                   found in the Bearings, Inc. Proxy
+                                   Statement dated September 16, 1994,
+                                   SEC File No. 1-2299, on pages 14 and
+                                   15 under the caption "Compensation
+                                   of Directors", and is incorporated
+                                   here by reference.
+               
+               *10(d)              Deferred Compensation Plan for
+                                   Non-employee Directors (filed as
+                                   Exhibit 19 to the Bearings, Inc.
+                                   Form 10-Q for the quarter ended
+                                   December 31, 1991, SEC File No. 1-
+                                   2299, and incorporated here by
+                                   reference).
+               
+               *10(e)              First Amendment to Deferred
+                                   Compensation Plan for Non-Employee
+                                   Directors effective July 1, 1993,
+                                   providing participants with
+                                   additional flexibility in electing
+                                   to defer receipt of compensation,
+                                   and in amending and terminating such
+                                   elections (filed as Exhibit 10(e) to
+                                   the Bearings, Inc. Form 10-K for the
+                                   fiscal year ended June 30, 1993, SEC
+                                   File No. 1-2299, and incorporated
+                                   here by reference).
+               
+               *10(f)              A written description of the Company's
+                                   Non-Contributory Life and Accidental
+                                   Death and Dismemberment Insurance
+                                   for executive officers.
+               
+               *10(g)              A written description of the
+                                   Company's Long-Term Disability
+                                   Insurance for executive officers.
+               
+               *10(h)              Form of Director and Officer
+                                   Indemnification Agreement entered
+                                   into between the Company and its
+                                   directors and its executive officers
+                                   (filed as Appendix A to the
+                                   Bearings, Inc. Proxy Statement dated
+                                   September 17, 1992, SEC File No.
+                                   1-2299, and incorporated here by
+                                   reference), together with a schedule
+                                   pursuant to Instruction 2 of Item
+                                   601(a) of Regulation S-K identifying
+                                   the directors and executive officers
+                                   executing such Agreements.
+               
+               *10(i)              Bearings, Inc. Supplemental
+                                   Executive Retirement Benefits Plan
+                                   (July 1, 1993 Restatement) presently
+                                   covering 7 executive officers of
+                                   Bearings, Inc. (as well as certain
+                                   retired executive officers) (filed
+                                   as Exhibit 10(j) to the Bearings,
+                                   Inc.  Form 10-K for the fiscal year
+                                   ended June 30, 1993, SEC File No.
+                                   1-2299, and incorporated here by reference).
+                                   
+                                      17
+<PAGE>   19
+
+                  *10(j)              First Amendment to Bearings, Inc.
+                                      Supplemental Executive Retirement
+                                      Benefits Plan (July 1, 1993
+                                      Restatement) (filed as Exhibit 10(a)
+                                      to the Bearings, Inc. Form 10-Q for
+                                      the quarter ended December 31, 1993,
+                                      SEC File No. 1-2299, and
+                                      incorporated here by reference).
+                  
+                  *10(k)              Bearings, Inc. Deferred Compensation
+                                      Plan (filed as Exhibit A to the
+                                      Bearings, Inc.  Proxy Statement
+                                      dated September 16, 1993, SEC File
+                                      No. 1-2299, and incorporated here by
+                                      reference).
+                  
+                      10(l)           Stock Purchase Agreement between
+                                      Bearings, Inc. and MLS Industries,
+                                      Inc. dated June 12, 1990 (filed as
+                                      Exhibit 2 to the Bearings, Inc. Form
+                                      8-K dated July 12, 1990, SEC File
+                                      No. 1-2299, and incorporated here by
+                                      reference).
+                  
+                      10(m)           Amendment to Stock Purchase
+                                      Agreement and Related Guarantee and
+                                      Agreement among Bearings, Inc., MLS
+                                      Industries, Inc. and Emerson
+                                      Electric Co., dated as of June 29,
+                                      1990 (filed as Exhibit 2(a) to the
+                                      Bearings, Inc. Form 8-K dated July
+                                      12, 1990, SEC File No. 1-2299, and
+                                      incorporated here by reference).
+                  
+                  *10(n)              Bearings, Inc. 1990 Long-Term
+                                      Performance Plan adopted by
+                                      Shareholders on October 16, 1990
+                                      (filed as Exhibit 10(t) to the
+                                      Bearings, Inc. Form 10-K for the
+                                      fiscal year ended June 30, 1991, SEC
+                                      File No. 1-2299, and incorporated
+                                      here by reference).
+                  
+                  *10(o)              A written description of the
+                                      Company's Management Incentive Plan
+                                      applicable to key executives,
+                                      including the five most highly
+                                      compensated executive officers, is
+                                      found in the Bearings, Inc. Proxy
+                                      Statement dated September 16, 1994,
+                                      SEC File No. 1-2299, on pages 11 and
+                                      12, in the Report of the Executive
+                                      Organization & Compensation
+                                      Committee of the Board of Directors
+                                      on Executive Compensation, under the
+                                      subcaption "Management Incentive
+                                      Plan", and is incorporated here by
+                                      reference.
+                  
+                  *10(p)              Consulting Agreement effective
+                                      January 2, 1992 between the Company
+                                      and George L.  LaMore, Director and
+                                      former Chairman & Chief Executive
+              
+                                      18
+
+<PAGE>   20
+                           Officer of the Company (filed 
+                           as Exhibit 28 to the Bearings,  
+                           Inc. Form 10-Q for the quarter 
+                           ended December 31, 1991, SEC 
+                           File No. 1-2299, and incorporated 
+                           here by reference).
+                           
+           11              Computation of Net Income
+                           Per Share.
+
+           13              Bearings, Inc. 1994 Annual
+                           Report to shareholders (not
+                           deemed "filed" as part of
+                           this Form 10-K except for
+                           those portions that are
+                           expressly incorporated by
+                           reference).
+
+           21              Subsidiaries of Bearings,
+                           Inc. -- This information is
+                           set forth at "Item 1.
+                           Business" on page 2 of this
+                           Report and is incorporated
+                           here by reference.
+
+           23              Independent Auditors' Consent.
+
+           27              Financial Data Schedule.
+
+        
+                 The Company will furnish a copy of any
+           exhibit described above and not contained
+           herein upon payment of a specified reasonable
+           fee which fee shall be limited to the
+           Company's reasonable expenses in furnishing
+           such exhibit.
+        
+(b)      REPORTS ON FORM 8-K.
+         ------------------- 
+
+         None during the quarter ended June 30, 1994.
+
+         
+                                      19
+<PAGE>   21
+
+
+
+
+
+                            INDEPENDENT AUDITORS' REPORT
+
+
+                 Shareholders and Board of Directors
+                 Bearings, Inc.
+
+                          We have audited the consolidated balance sheets of
+                 Bearings, Inc. and its subsidiaries (the "Company") as of June
+                 30, 1994 and 1993 and the related consolidated statements of
+                 income, shareholders' equity, and cash flows for each of the
+                 years in the three year period ended June 30, 1994 and have
+                 issued our report thereon dated August 5, 1994; such
+                 consolidated financial statements and report are included in
+                 your 1994 Annual Report to shareholders and are incorporated
+                 herein by reference.  Our audits also included the
+                 consolidated financial statement schedules of the Company,
+                 listed in Item 14(a)2.  These consolidated financial statement
+                 schedules are the responsibility of the Company's management.
+                 Our responsibility is to express an opinion based on our
+                 audits.  In our opinion, such consolidated financial statement
+                 schedules, when considered in relation to the basic
+                 consolidated financial statements taken as a whole, present
+                 fairly in all material respects the information set forth
+                 therein.
+
+
+
+                 DELOITTE & TOUCHE LLP
+
+
+
+
+                 Cleveland, Ohio
+                 August 5, 1994
+
+                                      20
+<PAGE>   22
+
+
+<TABLE>
+
+
+
+                                                   BEARINGS, INC. & SUBSIDIARIES
+                                                   -----------------------------
+                                                                 
+                                                   PROPERTY, PLANT AND EQUIPMENT
+                                         FOR THE YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+                                                          (IN THOUSANDS)
+- - ----------------------------------------------------------------------------------------------------------------------------------
+<CAPTION>
+                    COLUMN A          COLUMN B          COLUMN C         COLUMN D          COLUMN E         COLUMN F
+                    --------          --------          --------         --------          -------          --------
+                                     BALANCE AT                                              OTHER           BALANCE
+                                      BEGINNING         ADDITIONS                           CHANGES           AT END 
+                                      OF PERIOD          AT COST        RETIREMENTS       ADD (DEDUCT)      OF PERIOD          
+                                      ---------        -----------      -----------       -----------       ---------
+ YEAR ENDED JUNE 30, 1994:                                                                                
+ <S>                                 <C>                <C>             <C>                <C>              <C>
+          Land                          $ 11,265           $   760       ($   383)                           $ 11,642
+                                                                                                                    
+          Buildings                       52,001             3,628       (  1,407)          $  667 (A)         54,889
+                                                                                                          
+          Equipment                       66,479            12,197       ( 13,623)           1,853 (A)         66,906
+                                        --------           -------        -------           ------           --------
+                  Total                 $129,745           $16,585       ($15,413)          $2,520           $133,437
+                                        ========           =======        =======           ======           ========
+ YEAR ENDED JUNE 30, 1993:                                                                                
+                                                                                                          
+          Land                          $ 11,477           $    73       ($   285)                             11,265
+                                                                                                                    
+          Buildings                       49,522             4,231       (  1,752)                             52,001
+                                                                                                                           
+          Equipment                       76,080             9,296       ( 18,897)                             66,479
+                                        --------           -------        -------                            --------
+                  Total                 $137,079           $13,600       ($20,934)                           $129,745
+                                        ========           =======        =======                            ========
+ YEAR ENDED JUNE 30, 1992:                                                                                
+                                                                                                          
+          Land                          $ 10,476           $ 1,037        ($   36)                           $ 11,477
+                                                                                                                    
+          Buildings                       48,884             2,314        ( 1,708)          $   32             49,522
+                                                                                                                           
+          Equipment                       69,813            17,093        (10,794)          (   32)            76,080
+                                        --------           -------        -------           ------           --------
+                  Total                 $129,173           $20,444       ($12,538)              $0           $137,079
+                                        ========           =======        =======               ==           ========
+<FN>                                                                                                      
+ NOTE:   For financial reporting purposes, depreciation is primarily computed on the straight-line method over the estimated useful
+         lives of the assets, not exceeding 30 years.
+
+  (A)    Other changes for the year ended June 30, 1994 relate to the pooling of interests with Mainline Industrial Distributors, 
+         Inc. and the adoption of Statement of Financial Accounting Standards No. 109, "Accounting for Income Taxes".
+- - ----------------------------------------------------------------------------------------------------------------------------------
+                                                            SCHEDULE V
+</TABLE>
+                                                                21
+<PAGE>   23
+<TABLE>
+                                                   BEARINGS, INC. & SUBSIDIARIES
+                                                   -----------------------------
+
+                              ACCUMULATED DEPRECIATION AND DEPLETION OF PROPERTY, PLANT AND EQUIPMENT
+                                         FOR THE YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+                                                          (IN THOUSANDS)
+- - ----------------------------------------------------------------------------------------------------------------------------------
+<CAPTION>
+                    COLUMN A            COLUMN B         COLUMN C       COLUMN D          COLUMN E         COLUMN F
+                    --------            --------         --------       --------          --------         --------
+                                                         ADDITIONS                                     
+                                       BALANCE AT       CHARGED TO                          OTHER           BALANCE
+                                        BEGINNING        COSTS AND                         CHARGES          AT END
+                                        AT PERIOD         EXPENSES     RETIREMENTS       ADD (DEDUCT)      OF PERIOD
+                                        ----------      -----------    -----------      -------------      ---------
+ <S>                                     <C>            <C>            <C>              <C>               <C>
+ YEAR ENDED JUNE 30, 1994:                                                                             
+                                                                                                       
+          Buildings                      $16,345          $ 2,456         ($   636)     $  154 (A)        $18,319
+                                                                                                       
+          Equipment                       33,350           11,130         ( 10,651)      1,170 (A)         34,999
+                                         -------          -------         --------      ------            -------
+                                                                                                       
+                  Total                  $49,695          $13,586         ($11,287)     $1,324            $53,318
+                                         =======          =======         ========      ======            =======
+                                                                                                       
+ YEAR ENDED JUNE 30, 1993:                                                                             
+                                                                                                       
+          Buildings                      $14,719          $ 2,260         ($   634)                       $16,345
+                                                                                                       
+          Equipment                       39,759           10,506          (16,915)                        33,350
+                                         -------          -------         --------                        -------
+                                                                                                       
+                  Total                  $54,478          $12,766         ($17,549)                       $49,695
+                                         =======          =======         ========                        =======
+                                                                                                       
+ YEAR ENDED JUNE 30, 1992:                                                                             
+                                                                                                       
+          Buildings                      $13,442          $ 2,165          ($  843)       ($45)           $14,719
+                                                                                                       
+          Equipment                       37,619           10,421          ( 8,326)         45             39,759
+                                         -------          -------         --------       -----            -------
+                                                                                                       
+                  Total                  $51,061          $12,586          ($9,169)         $0            $54,478
+                                         =======          =======         ========          ==            =======
+                                                                                                       
+<FN>                                                                                                   
+(A)  Other changes for the year ended June 30, 1994 relate to the pooling of interests with Mainline Industrial Distributors, Inc.
+- - ----------------------------------------------------------------------------------------------------------------------------------
+                                                            SCHEDULE VI
+</TABLE>
+
+                                                                22
+<PAGE>   24
+<TABLE>
+                                                   BEARINGS, INC. & SUBSIDIARIES
+                                                   -----------------------------
+
+                                                 VALUATION AND QUALIFYING ACCOUNTS
+                                         FOR THE YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+                                                          (IN THOUSANDS)
+- - -------------------------------------------------------------------------------------------------------------          
+<CAPTION>                                  
+                       COLUMN A                  COLUMN B         COLUMN C          COLUMN D       COLUMN E
+                       --------                  --------         --------          --------       --------
+                                                                  ADDITIONS                     
+                                                BALANCE AT       CHARGED TO        DEDUCTIONS     BALANCE OF
+                                                 BEGINNING       COSTS AND            FROM          END OF
+                      DESCRIPTION                OF PERIOD        EXPENSES          RESERVE         PERIOD
+                      -----------                ---------        --------         ---------      ----------            
+ <S>                                              <C>              <C>             <C>            <C>
+ YEAR ENDED JUNE 30, 1994:                                                                      
+ Reserve deducted from asset to                                                                 
+ which it applies - allowance for                                                               
+ doubtful accounts                                $2,000           $1,418          $1,518 (A)       $1,900
+                                                                                                
+ YEAR ENDED JUNE 30, 1993:                                                                      
+ Reserve deducted from asset to                                                                 
+ which it applies - allowance for                                                               
+ doubtful accounts                                $3,000           $2,190          $3,190 (A)       $2,000
+                                                                                                
+ YEAR ENDED JUNE 30, 1992:                                                                      
+ Reserve deducted from asset to                                                                 
+ which it applies - allowance for                                                               
+ doubtful accounts                                $2,100           $2,496          $1,596 (A)       $3,000
+                                                                                                
+<FN>                                                                                            
+(A)  Amounts represent uncollectible accounts charged off.                    
+- - -------------------------------------------------------------------------------------------------------------          
+                                                           SCHEDULE VIII
+</TABLE>
+                                                                23
+<PAGE>   25
+<TABLE>
+                                                   BEARINGS, INC. & SUBSIDIARIES
+                                                   -----------------------------
+
+                                                       SHORT-TERM BORROWINGS
+                                         FOR THE YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+                                                          (IN THOUSANDS)
+- - ----------------------------------------------------------------------------------------------------------------------------------
+<CAPTION>
+                COLUMN A            COLUMN B      COLUMN C        COLUMN D       COLUMN E      COLUMN F
+                --------            --------      --------        --------       --------      --------
+                                                                   MAXIMUM       AVERAGE       WEIGHTED
+               CATEGORY OF                        WEIGHTED         AMOUNT        AMOUNT        AVERAGE
+                AGGREGATE           BALANCE        AVERAGE       OUTSTANDING   OUTSTANDING   INTEREST RATE
+               SHORT-TERM          AT END OF      INTEREST       DURING THE    DURING THE     DURING THE
+               BORROWINGS           PERIOD          RATE           PERIOD      PERIOD (A)      PERIOD (A)
+               -----------        ----------      ---------     ------------  -------------    ---------
+<S>                                 <C>             <C>           <C>            <C>           <C>
+YEAR ENDED JUNE 30, 1994:                                                                   
+  Notes payable                                                                             
+  to banks                          $ 19,805        5.28%         $ 38,415       $ 23,004        3.98%
+                                                                                            
+YEAR ENDED JUNE 30, 1993:                                                                   
+  Notes payable                                                                             
+  to banks                          $ 22,678        3.90%         $115,395       $ 62,794        3.98%
+                                                                                            
+YEAR ENDED JUNE 30, 1992:                                                                   
+  Notes payable                                                                             
+  to banks                          $110,000        4.50%         $132,037       $117,612        5.60%
+<FN>                                                                                              
+      NOTE:      Notes payable to banks represent unsecured borrowings under line of credit arrangements, which the Company 
+                 renews annually.  The notes bear interest at various interest rate options not in excess of the banks' prime 
+                 rate at interest determination dates.
+
+       (A)       Average amounts outstanding and weighted average interest rates during the periods were computed based upon daily 
+                 balances outstanding.
+- - ----------------------------------------------------------------------------------------------------------------------------------
+                                                            SCHEDULE IX
+</TABLE>
+                                                                24
+<PAGE>   26
+<TABLE>
+                                                            SIGNATURES
+
+                          Pursuant to the requirements of Section 13 of the Securities and Exchange Act of 1934, the Registrant 
+                 has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+                                                          BEARINGS, INC.
+                 <S>                                      <C>                                
+                                                                                             
+                 /s/ John C. Dannemiller                  /s/ John C. Robinson               
+                 ------------------------------           --------------------------------                      
+                 John C. Dannemiller, Chairman            John C. Robinson, President        
+                 & Chief Executive Officer                & Chief Operating Officer          
+                                                                                             
+                                                                                             
+                 /s/ John R. Whitten                      /s/ Mark O. Eisele                 
+                 ------------------------------           --------------------------------        
+                 John R. Whitten                          Mark O. Eisele                     
+                 Vice President-Finance                   Controller                         
+                 & Treasurer                              (Principal Accounting              
+                 (Principal Financial Officer)            Officer)                           
+                                                                                             
+                 Date:  September 26, 1994      
+
+                          Pursuant to the requirements of the Security Exchange Act of 1934, this Report has been signed below
+                 by the following persons on behalf of the Registrant and in the capacities and on the date indicated.
+                                                                                               
+                 /s/ William G. Bares                     /s/ William E. Butler                
+                 ------------------------------           --------------------------------                                    
+                 William G. Bares, Director               William E. Butler, Director          
+                                                                                               
+                                                                                               
+                 /s/ John C. Dannemiller                  /s/ Russel B. Every                  
+                 ------------------------------           --------------------------------            
+                 John C. Dannemiller                      Russel B. Every, Director            
+                 Chairman, Chief Executive                                                     
+                 Officer and Director                                                          
+                                                                                               
+                                                                                               
+                 /s/ Russell R. Gifford                   /s/ L. Thomas Hiltz                  
+                 ------------------------------           -------------------------------      
+                 Russell R. Gifford, Director             L. Thomas Hiltz, Director            
+                                                                                               
+                                                                                               
+                 /s/ John J. Kahl                         /s/ George L. LaMore                 
+                 ------------------------------           -------------------------------      
+                 John J. Kahl, Director                   George L. LaMore, Director           
+                                                                                               
+                                                                                               
+                 /s/ John C. Robinson                     /s/ Dr. Jerry Sue Thornton           
+                 ------------------------------           -------------------------------      
+                 John C. Robinson, President,             Dr. Jerry Sue Thornton, Director     
+                 Chief Operating Officer and                                                   
+                 Director                                                                      
+                                                                                               
+                 ______________________________                                                
+                 William G. Bares, as attorney   
+                 in fact for persons indicated by "*"
+
+                 Date:  September 26, 1994
+</TABLE>
+
+<PAGE>   27
+
+                                 BEARINGS, INC.
+
+                                 EXHIBIT INDEX
+                 TO FORM 10-K FOR THE YEAR ENDED JUNE 30, 1994
+
+
+Exhibit
+  No.       Description                                Reference
+- - --------    -----------                                ---------
+
+3(a)        Amended and Restated Articles of
+            Incorporation of Bearings, Inc., an
+            Ohio corporation, filed with the Ohio
+            Secretary of State on October 18, 1988.     Note (a)
+
+3(b)        Code of Regulations of Bearings, Inc.,
+            an Ohio corporation, adopted
+            September 6, 1988.                          Note (a)
+
+3(c)        Certificate of Amendment of Amended and
+            Restated Articles of Incorporation of
+            Bearings, Inc., an Ohio corporation,
+            filed with the Ohio Secretary of State
+            on October 27, 1988.                        Note (b)
+
+3(d)        Certificate of Amendment of Amended and
+            Restated Articles of Incorporation of
+            Bearings, Inc., filed with the Ohio
+            Secretary of State on October 17, 1990.     Note (c)
+
+4(a)        Certificate of Merger of Bearings, Inc.
+            (Ohio) and Bearings, Inc. (Delaware)
+            filed with the Ohio Secretary of State
+            on October 18, 1988.                        Note (d)
+
+4(b)        $80,000,000 Maximum Aggregate Principal
+            Amount Note Purchase and Private Shelf
+            Facility dated October 31, 1992 between
+            Bearings, Inc. and The Prudential
+            Insurance Company of America.               Note (e)
+
+10(a)       Form of Executive Severance Agreement
+            between the Company and 7 executive
+            officers.                                   Note (d)
+
+            Schedule pursuant to Instruction 2 of
+            Item 601(a) of Regulation S-K identifying
+            the officers and setting forth material
+            details in which the agreements differ
+            from the form of agreement filed.           Attached
+
+10(b)       Form of amendment amending the Executive
+            Severance Agreements referenced in
+            Exhibit 10(a) hereto.                       Note (f)
+<PAGE>   28
+10(c)       A written description of the Directors'
+            compensation program.                       Note (g)
+
+10(d)       Deferred Compensation Plan for Non-
+            employee Directors.                         Note (h)
+
+10(e)       First Amendment to Deferred Compensation
+            Plan for Non-employee Directors effective
+            July 1, 1993.                               Note (i)
+
+10(f)       A written description of the Company's
+            Non-Contributory Life and Accidental 
+            Death and Dismemberment Insurance for 
+            executive officers.                         Attached
+
+10(g)       A written description of the Company's
+            Long-Term Disability Insurance for
+            executive officers.                         Attached
+
+10(h)       Form of Director and Officer Indemnifi-
+            cation Agreement entered into between
+            the Company and its directors and
+            executive officers.                         Note (j)
+
+            Schedule pursuant to Instruction 2 of
+            Item 601(a) of Regulation S-K identifying
+            the directors and executive officers
+            executing such agreements.                  Attached
+
+10(i)       Bearings, Inc. Supplemental Executive
+            Retirement Benefits Plan (July 1, 1993
+            Restatement) presently covering 7
+            executive officers of Bearings, Inc.        Note (i)
+
+10(j)       First Amendment to Bearings, Inc.
+            Supplemental Executive Retirement
+            Benefits Plan (July 1, 1993 Restatement).   Note (k)
+
+10(k)       Bearings, Inc. Deferred Compensation
+            Plan.                                       Note (l)
+
+10(l)       Stock Purchase Agreement between Bearings,
+            Inc. and MLS Industries, Inc. dated
+            June 12, 1990.                              Note (m)
+
+10(m)       Amendment to Stock Purchase Agreement
+            and Related Guarantee and Agreement among
+            Bearings, Inc., MLS Industries, Inc. and
+            Emerson Electric Co., dated as of June 29,
+            1990.                                       Note (m)
+
+10(n)       Bearings, Inc. 1990 Long-Term Performance
+            Plan adopted by Shareholders on
+            October 16, 1990.                           Note (n)
+<PAGE>   29
+10(o)       A written description of the Company's
+            Management Incentive Plan applicable to
+            key executives of the Company, including
+            the five most highly compensated executive
+            officers.                                   Note (o)
+
+10(p)       Consulting Agreement effective January 2,
+            1992 between the Company and George L.
+            LaMore, Director and former Chairman &
+            Chief Executive Officer of the Company.     Note (h)
+
+11          Computation of Net Income Per Share.        Attached
+
+13          Bearings, Inc. 1994 Annual Report to
+            shareholders.                               Attached
+
+21          Subsidiaries of Bearings, Inc.--This
+            information is set forth at "Item 1.
+            Business" on page 2 of this Report.
+
+23          Independent Auditors' Consent.              Attached
+
+27          Financial Data Schedule.                    Attached
+
+
+Notes:   (a)   Incorporated by reference from the Company's Report on Form 8-K
+               dated October 21, 1988, SEC File No.   1-2299.
+
+         (b)   Incorporated by reference from the Company's Report on Form 10-Q
+               for the quarter ended September 30, 1988, SEC File No. 1-2299.
+
+         (c)   Incorporated by reference from the Company's Report on Form 10-Q 
+               for the quarter ended September 30, 1990, SEC File No. 1-2299.
+
+         (d)   Incorporated by reference from the Company's Report on Form 10-K 
+               for the fiscal year ended June 30, 1989, SEC File No. 1-2299.
+
+         (e)   Incorporated by reference from the Company's Report on Form 10-Q 
+               for the quarter ended September 30, 1992, SEC File No. 1-2299.
+
+         (f)   Incorporated by reference from the Company's Report on Form 10-Q 
+               for the quarter ended December 31, 1990, SEC File No. 1-2299.
+<PAGE>   30
+   (g)   Incorporated by reference from the Company's Proxy Statement dated
+         September 16, 1994, SEC File No. 1-2299, on pages 14 and 15 under
+         the caption "Compensation of Directors".
+
+   (h)   Incorporated by reference from the Company's Report on Form 10-Q for
+         the quarter ended December 31, 1991, SEC File No. 1-2299.
+
+   (i)   Incorporated by reference from the Company's Report on Form 10-K for
+         the fiscal year ended June 30, 1993, SEC File No. 1-2299.
+
+   (j)   Incorporated by reference from the Company's Proxy Statement dated
+         September 17, 1992, SEC File No. 1-2299, at Appendix A.
+
+   (k)   Incorporated by reference from the Company's Report on Form 10-Q for
+         the quarter ended December 31, 1993, SEC File No. 1-2299.
+
+   (l)   Incorporated by reference from the Company's Proxy  Statement dated
+         September 16, 1993, SEC File No. 1-2299, at Exhibit A.
+
+   (m)   Incorporated by reference from the Company's Report on Form 8-K dated
+         July 12, 1990, SEC File No. 1-2299.
+
+   (n)   Incorporated by reference from the Company's Report on Form 10-K for
+         the fiscal year ended June 30, 1991, SEC File No. 1-2299.
+
+   (o)   Incorporated by reference from the Company's Proxy Statement dated
+         September 16, 1994, SEC File No. 1-2299, on pages 11 and 12 in the
+         Report of the Executive Organization & Compensation Committee of the
+         Board of Directors on Executive Compensation, under the subcaption
+         "Management Incentive Plan".
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.A
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 10.A
+<TEXT>
+
+<PAGE>   1
+                                                              EXHIBIT 10(a)
+
+
+                       BEARINGS, INC. FORM 10-K FOR FISCAL
+                             YEAR ENDED JUNE 30, 1994
+
+
+                                    SCHEDULE
+
+      The Executive Severance Agreements ("Agreements") presently in effect for
+seven (7) executive officers are substantially identical in all material
+respects.  This revised schedule is included pursuant to Instruction 2 of Item
+601(a) of Regulation S-K for the purpose of setting forth the material details
+in which the specific Agreements differ from the form of Agreement filed as
+Exhibit 10(b) to the Bearings, Inc. Form 10-K for the fiscal year ended June
+30, 1989:
+
+<TABLE>
+<CAPTION>
+                                          "Base Compensation"
+                                          Multiple Pursuant
+Name               Title                  to Paragraph 3(b)  
+- - ----               -----                  -------------------
+<S>                <C>                    <C>
+J. C. Dannemiller  Chairman & Chief       Three (3)
+                   Executive Officer
+
+J. C. Robinson     President & Chief      Three (3)
+                   Operating Officer
+
+F. A. Martins      Vice President-        Two (2)
+                   Marketing
+
+F. L. Mohr         Vice President-        Two (2)
+                   Sales & Marketing
+
+R. C. Shaw         Vice President-        One and one-half
+                   Communications &       (1.5)
+                   Public Relations
+
+R. C. Stinson      Vice President-        One and one-half
+                   General Counsel        (1.5)
+                   & Secretary
+
+J. R. Whitten      Vice President-        One and one-half
+                   Finance & Treasurer    (1.5)
+</TABLE>
+
+
+   The continuation of employee benefit plans, programs and arrangements set
+forth in Paragraph 4 is three (3) years for Messrs. Dannemiller and Robinson,
+and two (2) years for all other executive officers.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.F
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 10.F
+<TEXT>
+
+<PAGE>   1
+
+                                                                EXHIBIT 10(f)
+
+
+                                 BEARINGS, INC.
+                 FORM 10-K FOR FISCAL YEAR ENDED JUNE 30, 1994
+
+                       NON-CONTRIBUTORY LIFE & ACCIDENTAL
+                        DEATH & DISMEMBERMENT INSURANCE
+
+
+   The Company maintains ongoing Non-Contributory Life & Accidental Death &
+Dismemberment Insurance for its executive officers, which provides benefits
+equal to two and one-half (2-1/2) times annual compensation, but in no event
+more than $250,000.  The Company also provides its executive officers with
+travel and accident insurance in the amount of $500,000.  All such insurance
+has certain reductions after age 65.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.G
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT 10.G
+<TEXT>
+
+<PAGE>   1
+
+                                                                   EXHIBIT 10(g)
+
+
+                          BEARINGS, INC. FORM 10-K for
+                        FISCAL YEAR ENDED JUNE 30, 1994
+
+
+                         LONG-TERM DISABILITY INSURANCE
+
+
+   The Company's long-term disability insurance plan provides for long-term
+disability coverage to all employees of the Company who become eligible after a
+one-year waiting period based on plan requirements.  Under the plan, eligible
+employees who become totally disabled as defined in the plan would receive 60%
+of monthly earnings, subject to a maximum schedule amount of $5,000 per month
+without evidence of insurability.  The Corporation's executive officers,
+including its five most highly compensated officers, are covered under the
+plan, subject to a maximum schedule amount of $18,000 per month, with evidence
+of insurability required for amounts in excess of $15,000 per month.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.H
+<SEQUENCE>5
+<DESCRIPTION>EXHIBIT 10.H
+<TEXT>
+
+<PAGE>   1
+
+                                                                   EXHIBIT 10(h)
+
+
+                          BEARINGS, INC. FORM 10-K FOR
+                        FISCAL YEAR ENDED JUNE 30, 1994
+
+
+                                    SCHEDULE
+                           PURSUANT TO INSTRUCTION 2
+                         ITEM 601(a) OF REGULATION S-K
+
+
+The Director and Officer Indemnification Agreements presently in effect for the
+Company's directors and executive officers are identical in all material
+respects.  The Directors having executed such form of Agreement are:
+
+   W. G. Bares
+   W. E. Butler
+   J. C. Dannemiller
+   R. B. Every
+   R. R. Gifford
+   L. T. Hiltz
+   J. J. Kahl
+   G. L. LaMore
+   J. C. Robinson
+   J. S. Thornton
+
+The Officers having executed such form of Agreement are (in addition to Messrs.
+Dannemiller and Robinson):
+
+<TABLE>
+   <S>            <C>
+   F. A. Martins  -  Vice President-Marketing
+   F. L. Mohr     -  Vice President-Sales & Marketing
+   R. C. Shaw     -  Vice President-Communications &
+                            Public Relations
+   R. C. Stinson  -  Vice President-General Counsel &
+                            Secretary
+   J. R. Whitten  -  Vice President-Finance & Treasurer
+   M. O. Eisele   -  Controller
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>6
+<DESCRIPTION>EXHIBIT 11
+<TEXT>
+
+<PAGE>   1
+<TABLE>
+                                                                  EXHIBIT 11
+
+                        BEARINGS, INC. AND SUBSIDIARIES
+                   Computation of Net Income (Loss) Per Share
+                                 (in thousands)
+
+
+<CAPTION>
+                                                                                Year Ended June 30,
+
+                                                              1994                     1993                     1992
+                                                              ----                     ----                     ----
+ <S>                                                         <C>                      <C>                      <C>
+ Average Shares Outstanding
+ --------------------------
+ 1.       Average common shares outstanding                   7,546                   7,238                    7,081
+
+ 2.       Net additional shares outstanding
+          assuming stock options exercised and
+          proceeds used to purchase treasury
+          stock                                                 154                      60                       68
+                                                            -------                  ------                   ------
+ 3.       Adjusted average common shares
+          outstanding for fully diluted
+          computation                                         7,700                   7,298                    7,149
+                                                            =======                  ======                   ======
+ Net Income (Loss)
+ -----------------
+ 4.       Net income (loss) as reported in
+          statements of consolidated income                 $12,687                  $8,927                  ($1,666)
+                                                            =======                  ======                   ====== 
+
+ Net Income (Loss) Per Share
+ ---------------------------
+ 5.       Net income (loss) per average common
+          share outstanding (4/1)                           $  1.68                  $ 1.23                   ($0.24)
+                                                            =======                  ======                   ====== 
+ 6.       Net income (loss) per common share on a
+          fully dilutive basis (4/3)                        $  1.65 (A)              $ 1.22 (A)               ($0.23) (B)
+                                                            =======                  ======                   ======     
+
+<FN>
+(A)      Amount is not presented in the statements as the dilutive effect is less than 3%.
+
+(B)      Amount is not presented in the statements as the effect is antidilutive.
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>7
+<DESCRIPTION>EXHIBIT 13
+<TEXT>
+
+<PAGE>   1
+
+                                                                EXHIBIT 13
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+                                                Bearings, Inc. and Subsidiaries
+
+YEAR ENDED JUNE 30, 1994 VS 1993
+Sales in 1994 increased 13% to a record $936.3 million from 1993 sales of
+$831.4 million.  The increase in sales was principally due to volume increases
+and the acquisition of Mainline Industrial Distributors, Inc. (Mainline). 
+Further, net income for the fiscal year ended June 30, 1994 improved 42% over
+the prior year.
+        Gross margin (net sales less cost of sales) as a percent of sales was
+26.9% in 1994 and 26.2% in 1993.  The gross margin percentage improved in
+fiscal 1994 due to more focused purchasing strategies and favorable LIFO cost
+adjustments.  During 1994, the Company liquidated LIFO inventory quantities
+carried at lower costs prevailing in prior years.  The effect of the liquidation
+included the effect of a change in the application of the LIFO method of
+calculating inventory.  This new method determines the Company's LIFO inventory
+pools by class of product rather than the operating company. (See Note 3 to the
+Consolidated Financial Statements).
+        Selling, distribution and administrative expenses as a percent of sales
+were 23.9% in 1994 and 23.8% in 1993.  During fiscal 1994, the Company incurred
+increased expenses due to a new sales commission program for account
+representatives and a new incentive program for sales management, increased
+advertising costs due to additional marketing programs, costs associated with
+the acquisition of Mainline and the accelerated vesting of performance
+accelerated restricted stock (PARS) based upon the price performance of the
+Company's common stock during the year.
+        The number of associates rose to 4,066 at June 30, 1994 from 3,986 at
+June 30, 1993.
+        Interest expense for 1994 increased by 15% as a result of the issuance
+of $80 million of long-term debt in December of 1992 and repayment of
+previously existing short-term debt.  As long-term interest rates are higher
+than short-term interest rates, interest expense has increased.  The increased
+expense was partially offset by net interest earned under interest rate swap
+agreements and lower average borrowings during the year.
+        Income tax expense as a percentage of income before income taxes was
+41.4% in 1994.  The effective tax rate was greater than the federal statutory
+rate primarily due to state and local income taxes and non-deductible expenses.
+
+YEAR ENDED JUNE 30, 1993 VS 1992
+Results for the fiscal year ended June 30, 1993 were significantly improved
+over the prior year.  The Company returned to profitability after reporting a
+loss in the previous year which included a restructuring charge of $7.8
+million. (See Note 9 to the Consolidated Financial Statements).
+        Sales in 1993 of $831.4 million increased 1.7% from 1992 levels
+primarily due to price increases.  Gross margin (net sales less cost of sales)
+as a percent of sales was 26.2% in 1993 and 25.7% in 1992.  The gross margin
+percentage in fiscal 1993 was higher due to favorable LIFO cost adjustments
+resulting from lower inventory levels and a strengthening of selling prices
+coupled with minimal increases in costs.  (See Note 3 to the Consolidated
+Financial Statements).
+        Selling, distribution and administrative expenses as a percent of sales
+were 23.8% in 1993 and 24.2% in 1992.  During fiscal 1993, the Company incurred
+increased expenses for incentive programs due to improved performance and for
+associate training.  Salaries and other compensation expense decreased as a
+result of a reduction in the number of associates to 3,986 at June 30, 1993
+from 4,050 at June 30, 1992.  Also, during 1993 consulting fees decreased due
+to completion of data processing enhancements and health care expenses declined
+due to lower claims and implementation of new managed health care programs.
+        Interest expense for 1993 decreased by 21% due to lower short-term
+interest rates, lower average indebtedness, and favorable interest rate swap
+agreements.  These were offset in part by higher fixed interest costs incurred
+
+- - --------------------------------------10---------------------------------------
+<PAGE>   2
+                                                Bearings, Inc. and Subsidiaries
+
+from borrowings under Senior Unsecured Term Notes.
+        Incomes tax expense as a percentage of income before income taxes was
+41.9% in 1993.  The effective tax rate was greater than the federal statutory
+rate primarily due to state and local income taxes and non-deductible expenses.
+
+LIQUIDITY AND WORKING CAPITAL
+The Company continued to provide significant amounts of cash by generating
+$30.5 million and $18.9 million from operating activities in 1994 and 1993,
+respectively.
+        Cash flow from operations depends primarily upon generating operating
+income and controlling the investment in inventory and receivables.  The
+Company's growth in accounts receivable and inventory in 1994 was necessary to
+service the increased sales volume.  Further, in 1994 the Company had a
+substantial increase in net income.
+        Investments in property totaled $16.6 million and $13.6 million in 1994
+and 1993, respectively.  These capital expenditures were primarily made for
+upgrading branch facilities, acquisition of data processing equipment, vehicles
+and real estate.
+        Working capital at June 30, 1994, was $144.6 million compared to $130.9
+million at June 30, 1993.  The current ratio was 2.4 at June 30, 1994 and 1993.
+
+CAPITAL RESOURCES
+Capital resources are obtained from income retained in the business,
+indebtedness under the Company's lines of credit and long-term debt and, to a
+lesser extent, from operating lease arrangements.  Average combined short-term
+and long-term borrowing was $103.0 million in 1994 and $107.7 million in 1993. 
+Effective interest rates on short-term borrowings were 4.0% in both 1994 and
+1993.  The Company has short-term lines of credit totaling $95 million.  The
+Company had $19.8 million of borrowings under these short-term lines of credit
+at June 30, 1994.
+        The Company is obligated for rental payments for operating leases on
+165 of its 352 branch, distribution center and other operating locations.  See
+Note 8 to the Consolidated Financial Statements for annual rental commmitments.
+        As of June 30, 1994, the Company has Board authorization to acquire up
+to 263,000 shares of its common stock in open market or negotiated transactions
+depending on market conditions.
+        Management expects that capital resources provided from operations,
+available lines of credit, and long-term debt will be sufficient to finance
+normal working capital needs, capital expenditure programs, and the purchase of
+additional Bearings, Inc. common stock.  Management also believes that
+additional long-term debt and line of credit financing could be obtained if
+desired.
+
+OTHER MATTERS
+The 1990 agreement for the acquisition of King Bearing included specific
+indemnification of Bearings, Inc. and King for any financial damages or losses
+related to a lawsuit pending against King in the Superior Court of Orange
+County, California.  The indemnification was also guaranteed by the ultimate
+parent of King's former owner, a Fortune 100 company with stockholders' equity
+exceeding three billion dollars at June 30, 1994.  A $32.4 million judgement
+relating to this lawsuit was rendered against King in June 1992.  As further
+explained in Note 10 to the Consolidated Financial Statements, management
+believes that the outcome of this matter will not have a material adverse
+effect on the consolidated financial position or results of operations of the
+Company due to the indemnification and guarantee.
+
+- - -------------------------------------11----------------------------------------
+<PAGE>   3
+<TABLE>
+STATEMENTS OF
+
+CONSOLIDATED INCOME
+(Thousands, except per share amounts)                                           Bearings, Inc and Subsidiaries
+<CAPTION>
+                                                                                 Year Ended June 30
+                                                                      ----------------------------------------
+                                                                        1994            1993            1992
+                                                                      --------        --------        --------
+<S>                                                                   <C>             <C>             <C>
+NET SALES                                                             $936,254        $831,432        $817,813
+                                                                      --------        --------        --------
+COST AND EXPENSES 
+     Cost of Sales                                                     684,213         613,246         607,443
+     Selling, Distribution and administrative                          224,224         197,665         197,835
+     Restructuring charge                                                                                7,832
+                                                                      --------        --------        --------
+                                                                       908,437         810,911         813,110
+                                                                      --------        --------        --------
+OPERATING INCOME                                                        27,817          20,521           4,703                  
+                                                                      --------        --------        --------
+INTEREST EXPENSE                                                         6,385           5,546           6,985
+INTEREST INCOME                                                           (225)           (382)           (407)
+                                                                      --------        --------        --------
+                                                                         6,160           5,164           6,578
+                                                                      --------        --------        --------
+INCOME (LOSS) BEFORE INCOME TAXES                                       21,657          15,357          (1,875)
+                                                                      --------        --------        --------
+INCOME TAX EXPENSE (BENEFIT)
+     Federal                                                             7,172           5,365            (178)
+     State and Local                                                     1,798           1,065             (31)
+                                                                      --------        --------        --------
+                                                                         8,970           6,430            (209)
+                                                                      --------        --------        --------
+NET INCOME (LOSS)                                                     $ 12,687        $  8,927        $ (1,666)
+                                                                      ========        ========        ========
+NET INCOME (LOSS) PER SHARE                                           $   1.68        $   1.23        $   (.24)
+                                                                      ========        ========        ========
+
+
+See notes to consolidated Financial Statements.
+
+
+</TABLE>
+
+                                      12
+<PAGE>   4
+<TABLE>
+CONSOLIDATED
+
+BALANCE SHEETS
+<CAPTION>
+
+(Amounts in thousands)                                                                              Bearings, Inc. and Subsidiaries
+
+                                                                                                    June 30
+                                                                              ---------------------------------------------------
+                                                                                  1994                                   1993
+                                                                              ------------                          -------------
+<S>                                                                         <C>                                   <C>
+ASSETS
+  Current assets
+        Cash and temporary investments                                       $    10,935                            $      4,634
+        Accounts receivable, less allowance of
+                $1,900 and $2,000                                                129,798                                 112,971
+        Inventories                                                              106,233                                  95,015
+        Other current assets                                                       2,278                                   8,613
+                                                                              ----------                            ------------
+  Total current assets                                                           249,244                                 221,233
+                                                                              ----------                            ------------
+  Property - at cost
+        Land                                                                      11,642                                  11,265
+        Buildings                                                                 54,889                                  52,001
+        Equipment                                                                 66,906                                  66,479
+                                                                              ----------                            ------------
+                                                                                 133,437                                 129,745
+        Less accumulated depreciation                                             53,318                                  49,695
+                                                                              ----------                            ------------
+
+  Property - net                                                                  80,119                                  80,050
+                                                                              ----------                            ------------
+
+  Other assets                                                                    14,156                                  14,652
+                                                                              ----------                           -------------
+        TOTAL ASSETS                                                         $   343,519                           $     315,935
+                                                                             ===========                           =============
+LIABILITIES
+  Current Liabilities                                                   
+        Notes payable                                                        $    19,805                           $      22,678
+        Accounts payable                                                          50,937                                  37,678
+        Compensation and related benefits                                         21,508                                  18,770
+        Other accrued liabilities                                                 12,389                                  11,247
+                                                                             -----------                           -------------
+  Total current liabilities                                                      104,639                                  90,373
+  Long-term debt                                                                  80,000                                  80,000
+  Deferred income taxes                                                            3,370                                   5,706
+  Other liabilities                                                                5,019                                   4,916
+                                                                            ------------                          --------------
+        TOTAL LIABILITES                                                         193,028                                 180,995
+                                                                            ------------                          --------------
+SHAREHOLDERS' EQUITY
+  Preferred stock - no par value; 2,500
+        shares authorized; none issued or
+        outstanding
+  Common stock - no par value; 30,000 shares
+        authorized; 9,303 shares issued                                           10,000                                  10,000
+  Additional paid-in capital                                                       6,962                                   6,710
+  Income retained for use
+        in the business                                                          165,807                                 155,908
+  Less 1,757 and 1,984 treasury shares -
+        at cost                                                                  (32,278)                                (35,489)
+  Less unearned restricted common stock
+        compensation                                                                                                      (2,189)
+                                                                            ------------                            ------------
+        TOTAL SHAREHOLDERS' EQUITY                                               150,491                                 134,940
+                                                                            ------------                            ------------
+        TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                          $    343,519                            $    315,935
+                                                                            ============                            ============
+</TABLE>
+See notes to consolidated financial statements.
+
+
+                                      13
+
+
+
+
+
+
+<PAGE>   5
+
+<TABLE>
+STATEMENTS OF CONSOLIDATED
+
+CASH FLOWS
+
+<CAPTION>
+(Amounts in thousands)                                                                          Bearings, Inc. and Subsidiaries
+
+                                                                                     Year Ended June 30
+                                                                   -------------------------------------------------------
+                                                                     1994                    1993                   1992
+                                                                   --------                --------               --------
+<S>                                                               <C>                    <C>                    <C>
+CASH FLOWS FROM OPERATING ACTIVITIES
+  Net income (loss)                                                $ 12,687                $  8,927               $ (1,666)
+  Adjustments to reconcile net income (loss) to net 
+    cash provided by operating activities:
+      Depreciation                                                   13,586                  12,766                 12,586
+      Deferred income taxes                                           2,448                   3,507                 (1,504)
+      Provision for losses on accounts receivable                     1,418                   2,190                  2,496
+      (Gain)/loss on sale of property                                  (775)                    225                    688
+      Amortization of restricted common stock 
+        compensation and goodwill                                     2,779                     580                    267
+      Treasury shares contributed to employee benefit plans           1,510                     856                    733
+      Changes in current assets and liabilities:
+        Accounts receivable                                         (14,344)                 (5,207)                (8,270)
+        Inventories                                                  (2,042)                  6,676                  9,488
+        Other current assets                                            885                   1,049                    609
+        Accounts payable and accrued expenses                         9,810                 (14,273)                15,573
+        Other-net                                                     2,547                   1,611                    269
+                                                                   --------                --------               --------
+NET CASH PROVIDED BY OPERATING ACTIVITIES                            30,509                  18,907                 31,269
+                                                                   --------                --------               --------
+CASH FLOWS FROM INVESTING ACTIVITIES                                                                                          
+  Property purchases                                                (16,585)                (13,600)               (20,444)
+  Proceeds from property sales                                        4,901                   3,160                  2,680
+  Other                                                                (519)                 (1,170)                (3,998)
+                                                                   --------                --------               --------
+NET CASH USED IN INVESTING ACTIVITIES                               (12,203)                (11,610)               (21,762)
+                                                                   --------                --------               --------
+CASH FLOWS FROM FINANCING ACTIVITIES
+  Borrowings (repayments) under:
+    Line-of-credit agreements:
+      Maturities three months or less-net                            (5,321)                (87,322)                22,884
+      Maturities greater than three months:
+        Borrowings                                                                           60,000                125,000
+        Repayments                                                                          (60,000)              (152,000)
+    Long-term debt                                                                           80,000
+  Dividends paid                                                     (4,739)                 (4,640)                (4,533)
+  Purchase of treasury shares                                        (1,945)
+                                                                   --------                --------               --------
+NET CASH USED IN FINANCING ACTIVITIES                               (12,005)                (11,962)                (8,649)
+                                                                   --------                --------               --------
+Increase (decrease) in cash and temporary investments                 6,301                  (4,665)                   858
+Cash and temporary investments at beginning of year                   4,634                   9,299                  8,441
+                                                                   --------                --------               --------
+CASH AND TEMPORARY INVESTMENTS AT END OF YEAR                      $ 10,935                $  4,634               $  9,299
+                                                                   ========                ========               ========
+SUPPLEMENTAL CASH FLOW INFORMATION
+Cash paid during the year for:
+  Income taxes                                                     $  3,697                $  2,288               $    539
+  Interest                                                         $  5,928                $  4,935               $  6,988
+<FN>
+
+See notes to consolidated financial statements.
+
+</TABLE>
+
+                                      14
+
+
+
+
+<PAGE>   6
+
+<TABLE>
+
+STATEMENTS OF CONSOLIDATED
+
+SHAREHOLDERS' EQUITY
+
+<CAPTION>
+For the Years Ended June 30, 1994, 1993, and 1992
+
+(Amounts in thousands)
+                                 Shares of                                Income                         Unearned
+                                  Common                 Additional      Retained       Treasury        Restricted      Total   
+                                  Stock         Common    Paid-in       for Use in       Shares-       Common Stock   Shareholders'
+                                Outstanding      Stock    Capital      the Business     at Cost        Compensation     Equity
+- - ------------------------------------------------------------------------------------------------------------------------------------
+<S>                                <C>          <C>        <C>           <C>            <C>             <C>             <C>
+BALANCE AT JULY 1, 1991            7,057        $10,000    $6,483        $157,906       $(40,186)                       $134,203
+   Net Loss                                                                (1,666)                                        (1,666)
+   Cash dividends-
+      $.64 per share                                                       (4,533)                                        (4,533)
+   Treasury shares issued for:   
+        401(k) Savings Plan
+        contribution                  34                      124                          609                               733
+      Exercise of stock options       13                       29                          241                               270
+   Other                                                                     (177)                                          (177)
+- - ------------------------------------------------------------------------------------------------------------------------------------
+BALANCE AT JUNE 30, 1992           7,104         10,000     6,636         151,530      (39,336)                          128,830  
+  Net income                                                                8,927                                          8,927
+  Cash dividends-
+     $.64 per share                                                        (4,640)                                        (4,640)
+  Treasury shares issued for:       
+        401(k) Savings Plan           
+        contribution                  44                       86                          770                               856
+     Exercise of stock options        30                      (19)                         543                               524
+     Restricted common stock
+        awards                       140                       (2)                       2,505           $(2,503)
+     Other                             1                        9                           29                                38
+   Amortization of restricted
+     common stock compensation                                                                               314             314
+   Other                                                                       91                                             91
+- - ------------------------------------------------------------------------------------------------------------------------------------
+BALANCE AT JUNE 30, 1993
+   As previously reported          7,319         10,000     6,710         155,908      (35,489)           (2,189)        134,940
+   Pooling of interests with
+     Mainline Industrial
+     Distributors                    196                   (1,353)          1,876        3,542                             4,065
+- - ------------------------------------------------------------------------------------------------------------------------------------
+BALANCE AS RESTATED                7,515         10,000     5,357         157,784      (31,947)            (2,189)       139,005
+   Net income                                                              12,687                                         12,687
+   Cash dividends-
+     $.64 per share                                                        (4,739)                                        (4,739)
+   Purchase of common 
+     stock for treasury              (59)                                               (1,945)                           (1,945)
+   Treasury shares issued for:
+        401(k) Savings Plan
+        contribution                  56                      503                        1,007                             1,510
+        Exercise of stock options     13                       74                          237                               311
+        Restricted common stock
+           awards                     13                       53                          233               (286)
+        Other                          8                       64                          137                               201
+   Amortization of restricted
+     common stock compensation                                911                                           2,475          3,386
+   Other                                                                       75                                             75
+- - ------------------------------------------------------------------------------------------------------------------------------------
+BALANCE AT JUNE 30, 1994           7,546       $10,000     $6,962        $165,807     $(32,278)          $      0       $150,491
+====================================================================================================================================
+See notes to consolidated  financial statements.
+
+</TABLE>
+                                      15
+                 
+<PAGE>   7
+
+NOTES TO CONSOLIDATED
+
+FINANCIAL STATEMENTS
+
+Years Ended June 30, 1994, 1993, and 1992
+(Dollar amounts in thousands,
+except per share amounts)               Bearings, Inc. and Subsidiaries
+
+1. BUSINESS AND ACCOUNTING POLICIES
+BUSINESS. The Company's principal business is the sale and distribution of
+bearings, mechanical and electrical drive systems, industrial rubber products,
+fluid power transmission components, and specialty maintenance and repair
+products. The Company does not manufacture the products it sells.
+CASH EQUIVALENTS. The Company considers all temporary investments with
+maturities of three months or less to be cash equivalents for purposes of the
+statements of consolidated cash flows.
+CONSOLIDATION. The consolidated financial statements include the accounts of
+Bearings, Inc. and its wholly-owned subsidiaries Bruening Bearings, Inc., Dixie
+Bearings, Incorporated, King Bearing, Inc. and for the year ended June 30,
+1994, Mainline Industrial Distributors, Inc.  All significant intercompany
+transactions and balances have been eliminated in consolidation.
+GOODWILL is recorded for the purchase price of acquired operations in excess of
+the fair value of identifiable net assets. Goodwill, net of accumulated
+amortization, of $4,752 and $4,524 at June 30, 1994 and 1993, respectively, is
+included in other assets in the accompanying consolidated balance sheets and is
+being amortized on a straight-line basis over periods ranging from 15 to 20
+years.
+INVENTORIES are valued at the lower of cost or market, using the last-in,
+first-out (LIFO) method.
+DEPRECIATION of buildings and equipment is computed using the straight-line
+method over the estimated useful lives of the assets.
+NET INCOME PER SHARE is computed using the weighted average number of common
+shares outstanding for the period. Net income per share has not been adjusted
+for the effect of stock options as the dilutive effect would be less than 3%
+for each year.
+CONSOLIDATED CASH FLOWS PRESENTATION. The statement of consolidated cash flows
+for the year ended June 30, 1994 is presented using the indirect method of
+reporting cash flows from operating activities. The presentation of the
+statements of consolidated cash flows for fiscal years 1993 and 1992 have been
+changed to the indirect method to be consistent with fiscal 1994.
+ACCOUNTING CHANGES. For the year ended June 30, 1994, the Company changed its
+method of accounting for income taxes to conform with Statement of Financial
+Accounting Standards (SFAS) No. 109 (see Note 5) and its application of the
+LIFO method used to determine inventory amounts for financial reporting
+purposes (see Note 3).
+
+2. BUSINESS COMBINATION
+On March 10, 1994, the Company exchanged 196,000 shares of Bearings, Inc.
+common stock for Mainline Industrial Distributors, Inc., a high quality applied
+technology distributor of drive systems, rubber products and bearings. The
+business combination was accounted for as a pooling of interests. The Company's
+1994 consolidated financial statements include Mainline's results of operations
+for the entire fiscal year. The prior years' consolidated financial statements
+have not been restated because the effects are not material.
+
+
+
+
+
+                                       16
+<PAGE>   8
+<TABLE>
+Net sales and net income for the separate companies prior to the acquisition
+are as follows:
+
+<CAPTION>
+                            Nine Months Ended
+                             March 31, 1994
+                              (Unaudited)
+                       --------------------------
+                       Bearings          Mainline
+                       --------          --------
+<S>                   <C>               <C>
+Net Sales              $663,841           $24,899
+Net Income                7,369               229
+
+</TABLE>
+Acquisition costs of $700 were charged to expense in 1994 and included legal
+and accounting fees, consulting fees and benefit-related costs.
+
+3. INVENTORIES
+For the year ended June 30, 1994, the Company changed its application of the
+last-in, first-out (LIFO) method used to determine inventory amounts for
+financial reporting purposes. This change revised the Company's LIFO pools to
+establish Company-wide inventory pools for each of the major classes of
+products. Previously, the LIFO inventory pools were established by legal
+entity, rather than by class of product.  Management believes that using
+inventory pools grouped by product is more consistent with how the Company
+currently manages its operations and will more accurately measure the effects
+of changes in inventory levels and costs.
+          The cumulative effect on previous years from this change in LIFO
+pools is not determinable. This change in LIFO pools reduced cost of sales and
+increased net income and net income per share by $3,344, $1,894, and $.25,
+respectively, for the year ended June 30, 1994. These effects are incorporated
+in the LIFO liquidation effects discussed below. 
+CURRENT COST. At the end of the last two fiscal years, the current cost
+of inventories exceeded the LIFO cost as follows:
+
+<TABLE>
+<CAPTION>
+                                          June 30,
+                               ------------------------------
+                                 1994                   1993
+                                 ----                   ----
+<S>                            <C>                    <C>
+LIFO cost                      $106,233               $ 95,015
+Excess of current cost over
+  LIFO cost                      86,429                 96,718
+                               --------               --------
+Current cost                   $192,662               $191,733
+                               ========               ========
+
+</TABLE>
+LIFO LIQUIDATION. During the years ended June 30, 1994 and 1993, the Company
+liquidated LIFO inventory quantities carried at lower costs prevailing in prior
+years. The effect of these liquidations, including the effect of the accounting
+change discussed above, reduced cost of sales and increased net income and net
+income per share by $6,784, $3,841, and $.51 per share, respectively, during
+1994 and $4,714, $2,749 and $.38 per share, respectively, during 1993. The
+effects of LIFO liquidations during 1992 were not material.
+
+4. NOTES PAYABLE AND LONG-TERM DEBT
+NOTES PAYABLE. The Company has $95,000 of short-term lines of credit which
+provide for payment of interest at various interest rate options, none of which
+are in excess of the banks' prime rate at interest determination dates.
+Borrowings under these lines of credit totaled $19,805 at June 30, 1994. The
+remaining unused lines available for short-term borrowings at June 30, 1994
+were $75,195.
+
+
+
+
+
+                                       17
+<PAGE>   9
+LONG-TERM DEBT. The Company has $80,000 of long-term Senior Unsecured Term
+Notes at a fixed interest rate of 7.82%. Interst is payable quarterly. The
+principal amount is to be paid in fourteen equal semi-annual installments
+beginning in June 1996. These notes contain certain restrictive covenants
+regarding liquidity, tangible net worth, financial ratios and other covenants.
+At June 30, 1994, the most restrictive of these covenants required that the
+Company maintain a minimum tangible net worth of $104,646. Based upon current
+market rates for debt of similar maturities, the Company estimates that the
+fair value of its long-term debt is less than its carrying value at June 30,
+1994 by $1,100.
+          During 1994, the Company received net proceeds from termination of
+its three year interest rate swap agreements previously held. The Company also
+entered into a new two year interest rate swap agreement with a major bank that
+effectively converts $40,000 of its fixed rate borrowings into variable rate
+obligations. Under this agreement the Company makes payments at variable rates
+based on LIBOR, as determined at quarterly intervals, and receives payments at
+fixed interest rates. Net interest earned under these agreements reduced
+interest expense. The interest rate swap agreement has no carrying value. The
+Company's estimated cost to terminate the agreement as of June 30, 1994 was
+$300.
+
+5. INCOME TAXES
+For the year ended June 30, 1994, the Company changed its method of accounting
+for income taxes from the deferred method used in prior years to the liability
+method, as required by SFAS No. 109, "Accounting for Income Taxes." As
+permitted by SFAS No. 109, the Company has elected not to restate the financial
+statements of any prior year. There was no significant cumulative effect on the
+Statements of Consolidated Income for adopting SFAS No. 109.
+
+<TABLE>
+PROVISION. The provision (benefit) for income taxes consists of:
+
+<CAPTION>
+                                LIABILITY METHOD    Deferred Method    Deferred Method
+          Year ended June 30          1994               1993               1992
+          ----------------------------------------------------------------------------
+
+<S>                             <C>                   <C>               <C>
+Current                              $6,522             $2,923            $ 1,295
+Deferred                              2,448              3,507             (1,504)
+                                     ------             ------             ------
+Total                                $8,970             $6,430             $ (209)
+                                     ======             ======             ======
+</TABLE>
+
+<TABLE>
+Prior to the change in accounting methods, the net tax effects giving rise to
+deferred amounts were:
+
+<CAPTION>
+                                                       Year Ended June 30,
+                                                 1993                       1992
+                                               -----------------------------------
+<S>                                             <C>                       <C>
+Accrued restructuring charge                    $1,238                    $(1,159)
+Accrued vacation                                  (146)                        44
+Inventory obsolescence                           1,448                       (859)
+Depreciation                                       144                        222
+Allowance for doubtful accounts                    343                       (304)
+Other                                              480                        552
+                                                ------                    -------
+Total                                           $3,507                    $(1,504)
+                                                ======                    =======
+                                          
+                                          
+                                          
+
+</TABLE>
+
+                                       18
+<PAGE>   10
+EFFECTIVE TAX RATES. A reconciliation between the federal statutory income tax
+rate (benefit) and the Company's effective tax rate is:
+
+<TABLE>
+<CAPTION>
+                                LIABILITY METHOD     Deferred Method     Deferred Method
+   Years ended  June 30               1994                1993               1992
+                                ------------------------------------------------------
+<S>                                  <C>                  <C>              <C>
+Statutory tax rate                   35.0%                34.0%            (34.0)%
+Effects of:     
+   State and local income taxes       5.4                  4.6              (1.1)
+   Non-deductible expenses            1.8                  2.1              18.2
+   Alternative minimum tax                                 0.4               5.6
+   Other, net                        (0.8)                 0.8               0.2
+                                     -----               -----             -----
+Effective tax rate                   41.4%                41.9%            (11.1)%
+                                     =====               =====             =====
+
+</TABLE>
+
+BALANCE SHEET. Deferred income taxes reflect the net tax effects of temporary
+differences between the carrying amounts of assets and liabilities for
+financial reporting purposes and the amounts used for income tax purposes. The
+significant components of the Company's deferred tax assets (liabilities) as of
+June 30, 1994 are as follows:
+
+<TABLE>
+<CAPTION>
+                                                        June 30, 1994
+                                                        -------------
+<S>                                                     <C>
+Depreciation and differences in property bases            $(5,443)
+Inventory                                                  (8,394)
+Compensation liabilities not currently deductible           3,791
+Reserves not currently deductible                           1,968
+Goodwill                                                    1,389
+Tax loss/credit carryforwards                                 393
+Other                                                         686
+Valuation allowance                                          (211)
+                                                          -------
+Net deferred tax liability                                $(5,821)
+                                                          =======
+
+</TABLE>
+
+   Net deferred tax liabilities associated with current items of $2,451 at 
+June 30, 1994 are included in other accrued liabilities in the Consolidated 
+Balance Sheets.
+   The valuation allowance was established due to the Company's estimation that 
+certain state income tax loss carryforwards may expire unused.
+
+6. STOCK INCENTIVE PLANS
+The Company may grant stock options under the 1990 Long-Term Performance Plan
+(the "1990 Plan"). Outstanding options issued under the Company's 1982 Stock
+Option Plan continue to be exercisable until expiration. Options become
+exercisable at times determined by the Executive Organization and Compensation
+Committee of the Board of Directors (the "Committee") at the date of grant.
+Options may include stock appreciation rights that entitle the holder to
+receive shares of stock or cash, at the discretion of the Committee, equal to
+the difference between the value of the shares covered by the option on the
+date of exercise less the option price for such shares. The 1990 Plan also
+provides for granting of stock awards, cash awards, and such
+
+
+
+
+                                      19
+ 
+
+
+<PAGE>   11
+
+
+other awards or combination thereof as the Committee may determine. The number
+of shares of Common Stock which may be awarded in each fiscal year under the
+1990 Plan is two percent (2%) of the total number of shares of Common Stock
+outstanding on the first day of each year for which the plan is in effect.
+Common Stock available for distribution under the 1990 Plan, but not
+distributed, may be carried over to the following year.
+
+    During fiscal 1994 accelerated vesting occurred for all 153,000 shares of
+Performance Accelerated Restricted Stock (PARS) awarded to officers and other
+key associates during fiscal 1994 and 1993 under the 1990 Plan. Pursuant  to
+the PARS agreements, recipients were entitled to receive dividends and have
+voting rights on their respective shares prior to vesting. The PARS vested
+either after a period of six years or earlier upon achievement of certain
+return on asset objectives or minimum stock price levels. The aggregate fair
+market value of the restricted stock was considered unearned compensation at
+the time of grant. Unearned common stock compensation reduced consolidated
+shareholders' equity and was amortized over the vesting period or upon
+acceleration of vesting. With the accelerated vesting of all outstanding PARS
+during 1994, all remaining unearned compensation was recorded as an expense.
+The expense recorded in 1994 exceeded by $2,010 the annual expense which would
+have been recorded on the basis of six-year amortization.   
+
+    The following is a summary of transactions with respect to the stock
+incentive plans:
+
+<TABLE>
+<CAPTION>
+                                                                                   Number of Shares
+                                                                  -------------------------------------------------
+                                                                                                      Available for
+                                        Option Price Per Share      Outstanding      Exercisable      Future Grants
+                                        ---------------------------------------------------------------------------
+<S>                                     <C>                         <C>                <C>               <C>
+Balance at July 1, 1991                                               482,662          189,082           189,305
+Additional available from 1990 Plan                                                                      141,132
+Became exercisable                                                                     112,332
+Canceled upon exercise                     $14.19-$16.89              (75,946)         (75,946)
+Granted                                        $20.56                 141,700                           (141,700)
+- - -------------------------------------------------------------------------------------------------------------------
+Balance at June 30, 1992                                              548,416          225,468           188,737
+Additional available from 1990 Plan                                                                      142,082
+Became exercisable                                                                     130,030
+Canceled upon exercise                     $14.19-$20.56              (40,828)         (40,828)                   
+Expired/canceled                           $20.56-$30.00              (25,634)         (24,250)         (188,645)       
+PARS common stock awards                                                                                (140,000)
+- - -------------------------------------------------------------------------------------------------------------------
+Balance at June 30, 1993                                              481,954          290,420             2,174
+Additional available from 1990 Plan                                                                      146,382
+Became exercisable                                                                     115,050
+Cancelled upon exercise                    $14.19-$30.00              (98,795)         (98,795)
+Expired/canceled                           $14.19-$30.00              (20,325)         (16,475)
+Granted                                    $21.94-$32.31              119,450                           (119,450)
+PARS common stock awards                                                                                 (13,000)
+- - -------------------------------------------------------------------------------------------------------------------
+Balance at June 30, 1994                                              482,284          290,200            16,106
+                                                                      =======          =======            ======
+
+</TABLE>
+
+At June 30, 1994 option prices related to the balance outstanding ranged from 
+$14.19 to $32.31 per share.   
+
+                                      20
+
+<PAGE>   12
+
+7. BENEFIT PLANS
+
+QUALIFIED RETIREMENT PLANS.  Substantially all associates of the Company are
+covered by the following defined contribution retirement plans.  The Company
+makes a discretionary contribution to the Employees' Profit-Sharing Trust
+generally based upon a percentage of the Company's income before income taxes
+and before the amount of the contribution.  The 401(k) Savings Plan allows
+participants to contribute up to ten percent of their compensation.
+The Company partially matches the participants' contributions.  The matching
+contribution is made with the Company's Common Stock and is determined
+quarterly using rates based on the Company achieving certain quarterly net
+income amounts.
+
+        The Company's expense for contributions to the above plans was $2,602,
+$1,496 and $678 for the years ended June 30, 1994, 1993, and 1992,
+respectively.
+
+RETIREE MEDICAL BENEFITS.  The Company provides health care benefits to
+eligible retired associates who elect to pay the Company a specified monthly
+premium.  Premium payments are based upon current insurance rates for the type
+of coverage provided and are adjusted annually.  Certain monthly health care
+premium payments are partially subsidized by the Company.
+
+        In fiscal 1993, the Company adopted the provisions of SFAS No. 106,
+"Employers' Accounting for Postretirement Benefits Other Than Pensions," which
+requires accrual of such post-retirement benefits over the years the associate
+provides services and becomes eligible to receive benefits upon retirement.  In
+1993 the Company accrued an expense of $588 (which, net of income taxes,
+reduced net income by $352, or $.05 per share) for the accumulated
+post-retirement benefit obligation.  At June 30, 1994 the accumulated
+post-retirement benefit obligation was $630.  The costs recognized for
+post-retirement benefits under SFAS No. 106 for fiscal 1994 and 1993, and
+under the previous pay-as-you-go accounting method during 1992, were not
+material. 
+
+SUPPLEMENTAL EXECUTIVE RETIREMENT BENEFIT PLAN (SERP).  The Company has a
+non-qualified pension plan to provide supplemental retirement benefits to
+certain officers.  Benefits are payable at retirement based upon a percentage
+of the participant's compensation.  The plan specifies minimum annual
+retirement benefits for certain participants.
+<TABLE>
+
+The funded status of the SERP plan is:
+<CAPTION>
+                                                               June 30
+                                                   -----------------------------
+                                                     1994                1993
+                                                   ---------          ---------
+<S>                                               <C>                <C>
+Projected benefit obligation                       $  4,446           $  4,376
+Unrecognized net transition obligation                 (536)              (980)
+Unrecognized net loss                                  (801)              (893)
+Unrecognized prior service cost
+   minimum liability                                    886              1,520
+                                                   --------          ---------
+
+Accrued pension liability, included in
+   other liabilities on the Consolidated
+   Balance Sheets                                  $  3,727          $   3,641
+                                                   ========          =========
+
+Accumulated benefit obligation, fully vested       $  3,727          $   3,641
+                                                   ========          =========
+</TABLE>
+                                      21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>   13
+                
+<TABLE>
+                
+Periodic pension cost for the SERP consists of: 
+<CAPTION>
+                                        
+                                                                      Year ended June 30        
+                                                        ---------------------------------------------------
+                                                         1994                  1993                1992
+                                                         ----                  ----                ----
+<S>                                                   <C>                   <C>                <C>
+Service cost - benefits earned                          $  91                 $  64               $  24
+Interest cost on projected benefit obligation             347                   334                 406
+Net amortization and deferral                             483                   388                 370
+                                                         ----                  ----                ----
+Total                                                   $ 921                 $ 786               $ 800
+                                                        =====                 =====               =====
+</TABLE>
+
+Pension cost and benefit obligations shown above were determined using a
+discount rate of 8.0% and a rate of increase in compensation levels of 5.5%.  At
+June 30, 1994 there were no assets under the plan.  The Company funds the
+benefits when payments are made to participants.
+
+8. LEASE COMMITMENTS AND RENT EXPENSE
+
+The Company leases certain branch and distribution center facilities and
+computer equipment under non-cancelable lease agreements.  The minimum annual
+rental commitment under operating leases is $7,517 in 1995; $6,056 in 1996;
+$4,576 in 1997; $3,832 in 1998; $2,071 in 1999, and $2,950 after 2000.
+
+        Rental cost, principally from leases for real property, vehicles and
+computer equipment was $10,013 in 1994, $8,527 in 1993, and $11,596 in 1992.
+
+9. RESTRUCTURING CHARGES
+
+During the fourth quarter of fiscal 1992, the Company adopted a restructuring
+plan which critically evaluated the performance of all facilities and
+administrative functions to enhance the Company's long-term profitability.  The
+actions related to this plan, which were substantially completed in fiscal 1993,
+included the reorganization and consolidation of certain branch, distribution
+center, shop facilities and administrative functions.  A restructuring charge of
+$7,832 was recorded in 1992 for the costs of these actions, including lease
+termination costs, write-off of property and other assets associated with
+reorganization or consolidation of facilities, relocation costs and separation
+costs of terminated associates.
+
+10. LITIGATION
+
+The 1990 agreement for the acquisition of King Bearing included specific
+indemnification of Bearings, Inc. and King for any financial damages or losses
+related to a lawsuit pending against King in the Superior Court of Orange
+County, California.  The indemnification was also guaranteed by the ultimate
+parent of King's former owner, a Fortune 100 company with stockholders' equity
+exceeding three billion dollars at June 30, 1994.  A $32,400 judgment relating
+to this lawsuit was rendered against King in June 1992.  The judgment is being
+strongly contested by counsel retained by the indemnitor on behalf of King, and
+in September 1992 the trial court granted the motion of King for a new trial as
+to all but $219 in damages returned by the jury.  A notice of appeal was filed
+by the cross-complainants, and the case is now pending in the California Court
+of Appeal, Fourth Appellate District.  All alleged events relevant to the
+judgment occurred prior to the Company's purchase of King and the jury found no
+liability on the part of Bearings, Inc. Due to the indemnification and
+guarantee, management believes that the outcome of this matter will not have a
+material adverse effect on the consolidated financial position or results of
+operations of the Company.
+
+
+                                      22
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>   14
+INDEPENDENT
+
+AUDITORS' REPORT
+
+                                           Bearings, Inc. and Subsidiaries
+
+
+                                          [ DELOITTE & TOUCHE LLP - LOGO ]
+
+
+
+Shareholders and Board of Directors
+
+Bearings, Inc.
+
+
+We have audited the accompanying consolidated balance sheets of Bearings, Inc.
+and its subsidiaries (the "Company") as of June 30, 1994 and 1993 and the
+related statements of consolidated income, shareholders' equity, and cash flows
+for each of the three years in the period ended June 30, 1994.  These financial
+statements are the responsibility of the Company's management.  Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+        We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+
+        In our opinion, the consolidated financial statements present fairly,
+in all material respects, the financial position of the Company at June 30,
+1994 and 1993 and the results of its operations and its cash flows for each of
+the three years in the period ended June 30, 1994 in conformity with generally
+accepted accounting principles.
+
+        As discussed in Notes 5 and 3 to the consolidated financial statements,
+in the year ended June 30, 1994, the Company changed its method of accounting
+for income taxes to conform with Statement of Financial Accounting Standards
+No. 109 and its application of the last-in, first-out (LIFO) method for valuing
+inventories.
+
+
+
+DELOITTE & TOUCHE LLP
+
+
+Cleveland, Ohio
+
+August 5, 1994 
+
+
+
+
+
+
+
+
+
+
+
+                                      23
+<PAGE>   15
+
+<TABLE>
+
+QUARTERLY OPERATING RESULTS
+
+AND MARKET DATA
+
+                                                                                    Bearings, Inc. and Subsidiaries
+<CAPTION>
+
+(UNAUDITED)
+(Dollar amounts in thousands, except per share amounts)
+                                                                                   Per Common Share                       
+                                                                     -----------------------------------------------      
+                                                            Net          Net                                              
+                                Net         Gross         Income       Income       Cash            Price Range           
+                               Sales        Profit        (Loss)       (Loss)      Dividend      High          Low        
+- - ---------------------------------------------------------------------------------------------------------------------     
+<S>                         <C>            <C>          <C>           <C>          <C>          <C>          <C>          
+1994                                                                                                                      
+FIRST QUARTER(C)             $222,712      $ 56,672      $ 2,398       $ .32        $.16        $25.25       $21.13      
+SECOND QUARTER(C)             226,285        61,528        2,314         .31         .16         31.13        25.38      
+THIRD QUARTER                 239,743        65,498        2,886         .38         .16         37.50        27.75      
+FOURTH QUARTER                247,514        68,343        5,089         .68         .16         34.00        30.00      
+                             --------      --------      -------       -----        ----                                 
+                             $936,254      $252,041      $12,687       $1.68        $.64                                    
+                             ========      ========      =======       =====        ====                                 
+
+1993                                                                                                                      
+First Quarter                $204,175      $ 50,603      $ 1,505       $ .21        $.16        $18.75       $16.75      
+Second Quarter                198,535        51,587        1,755         .24         .16         23.25        16.88      
+Third Quarter                 210,789        54,673        2,378         .33         .16         23.50        20.50      
+Fourth Quarter                217,933        61,323        3,289         .45         .16         24.75        21.38      
+                             --------      --------      -------       -----        ----                                
+                             $831,432      $218,186      $ 8,927       $1.23        $.64                                    
+                             ========      ========      =======       =====        ====                                 
+
+1992                                                                                                                      
+First Quarter                $202,038      $ 51,621      $ 1,037       $ .15        $.16        $23.63       $19.88      
+Second Quarter                198,639        52,132          381         .05         .16         21.13        18.00      
+Third Quarter                 208,144        52,081          392         .06         .16         23.25        19.38      
+Fourth Quarter(B)             208,992        54,536       (3,476)       (.49)        .16         22.63        17.63      
+                             --------      --------      -------       -----        ----                                 
+                             $817,813      $210,370      $(1,666)      $(.24)       $.64                                    
+                             ========      ========      =======       =====        ====                                 
+<FN>
+                                                                                                                          
+(A) Cost of sales for interim financial statements are computed using
+    estimated gross profit percentages which are adjusted throughout the year
+    based upon avalilable information. Adjustments to actual cost are made based
+    upon the annual physical inventory and the effect of year-end inventory
+    quantities on LIFO costs. The physical inventory adjustments in 1994 and
+    1993 were not material. The physical inventory adjustment in 1992 increased
+    gross profit, net income and net income per share by $1,806; $1,084; and
+    $.15, respectively. Reductions in inventories during the fiscal years ended
+    June 30, 1994 and 1993 resulted in liquidations of LIFO inventory quantities
+    carried at lower costs prevailing in prior years. The effect of these
+    liquidations for the years ended June 30, 1994 and 1993 increased annual
+    gross profit by $6,784 and $4,714; annual net income by $3,841 and $2,749
+    and net income per share by $.51 and $.38, respectively. The effects of LIFO
+    liquidations during 1992 were not material. (See Note 3 of Notes to
+    Consolidated Financial Statements).
+
+(B) Includes a restructuring charge of $7,832 for costs of reorganization
+    and consolidation of certain branch, distribution center and other
+    facilities and administrative functions.  Net of applicable income
+    taxes, this charge decreased net income by $4,700 or $.66 per share.  (See
+    Note 9 of Notes to Consolidated Financial Statements.)
+
+(C) The first two quarters of 1994 have been restated to relect the acquisition 
+    of Mainline.  (See Note 2 of Notes to Consolidated Financial Statements.)
+
+(D) On September 1, 1994 there were 1,469 shareholders of record.  Additionally
+    at June 30, 1994 there were 2,994 participants in the Bearings, Inc. 401(k)
+    Savings Plan.  The Company's common stock is listed on the New York Stock
+    Exchange.  The closing price on September 1, 1994 was $32.25 per share.
+ 
+
+
+
+</TABLE>
+                                      25
+
+
+<PAGE>   16
+<TABLE>
+
+10 YEAR
+
+SUMMARY
+<CAPTION>
+
+ (Thousands, except per share data and statistics)
+
+                                              1994                  1993                 1992                    1991
+- - ------------------------------------------------------------------------------------------------------------------------------------
+<S>                                     <C>                   <C>                 <C>                     <C>
+CONSOLIDATED OPERATIONS-
+   YEAR ENDED JUNE 30
+Net sales                                 $  936,254            $  831,432           $  817,813              $  814,000
+Operating income                              27,817                20,521                4,703                  17,115
+Net income (loss)                             12,687                 8,927               (1,666)                  4,282
+Per share data
+   Net income (loss)                            1.68                  1.23                 (.24)                     61
+   Cash dividend                                 .64                   .64                  .64                     .64
+
+YEAR-END POSITION - JUNE 30
+Working capital                           $  144,605            $  130,860           $   41,967             $    54,695
+Long-term debt                                80,000                80,000
+Total assets                                 343,519               315,935              330,619                 327,939
+Shareholders' equity                         150,491               134,940              128,830                 134,203
+
+YEAR-END STATISTICS - JUNE 30
+Current ratio                                    2.4                   2.4                  1.2                     1.3
+Branches                                         339                   323                  333                     341
+Shareholders of record                      1,484(A)                 1,543                1,617                   1,679
+<FN>
+(A) In addition there were 2,994 employee participants in the Bearings, Inc. 401(k) Savings Plan.
+</TABLE>                                               
+
+
+
+
+                                                                         26
+
+
+
+
+
+
+
+<PAGE>   17
+<TABLE>
+<CAPTION>
+                                                                 Bearings, Inc. and Subsidiaries
+                                                                                            
+              1990         1989            1988             1987              1986           1985   
+- - --------------------------------------------------------------------------------------------------
+        <S>           <C>             <C>              <C>              <C>           <C>
+
+
+         $  651,271    $ 630,281       $ 542,883        $ 490,995         $  490,249    $  495,529
+             25,281       33,463          25,000           13,964              7,591        24,934
+             12,201       18,313          14,948            6,247              2,244        11,011
+
+               1.70         2.45            1.89              .71                .25          1.22
+                .64          .56            .489             .445               .445          .445
+
+
+         $   64,091    $  75,134       $  77,606        $ 121,068         $  129,288    $  131,690
+                                                           44,750             44,750        44,750
+            380,224      251,376         222,957          223,202            231,894       225,082
+            135,338      134,848         128,919          125,419            133,912       135,126
+
+
+                1.3          1.7             1.9              3.5                3.7           4.2
+                363          267             266              269                274           275
+              1,694        1,358           1,318            1,361              1,476         1,613
+
+</TABLE>
+                                                                27
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>8
+<DESCRIPTION>EXHIBIT 23
+<TEXT>
+
+<PAGE>   1
+                                                                EXHIBIT 23
+INDEPENDENT AUDITORS' CONSENT
+- - -----------------------------
+Bearings, Inc.
+
+We consent to the incorporation by reference in Registration Statements
+Nos. 2-81660, 33-42623,33-43506, 33-53345, 33-53401 and 33-53405 of Bearings,
+Inc. on Forms S-3 and S-8 of our reports dated August 5, 1994 appearing in and
+incorporated by reference in the Annual Report on Form 10-K of Bearings, Inc.
+for the year ended June 30, 1994.
+
+DELOITTE & TOUCHE LLP
+Cleveland, Ohio
+September 26, 1994
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>9
+<DESCRIPTION>EXHIBIT 27
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1994
+<PERIOD-END>                               JUN-30-1994
+<CASH>                                          10,935
+<SECURITIES>                                         0
+<RECEIVABLES>                                  131,698
+<ALLOWANCES>                                     1,900
+<INVENTORY>                                    106,233
+<CURRENT-ASSETS>                               249,244
+<PP&E>                                         133,437
+<DEPRECIATION>                                  53,318
+<TOTAL-ASSETS>                                 343,519
+<CURRENT-LIABILITIES>                          104,639
+<BONDS>                                         80,000
+<COMMON>                                        10,000
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                     140,491
+<TOTAL-LIABILITY-AND-EQUITY>                   343,519
+<SALES>                                        936,254
+<TOTAL-REVENUES>                               936,254
+<CGS>                                          684,213
+<TOTAL-COSTS>                                  684,213
+<OTHER-EXPENSES>                               222,806
+<LOSS-PROVISION>                                 1,418
+<INTEREST-EXPENSE>                               6,160
+<INCOME-PRETAX>                                 21,657
+<INCOME-TAX>                                     8,970
+<INCOME-CONTINUING>                             12,687
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    12,687
+<EPS-PRIMARY>                                     1.68
+<EPS-DILUTED>                                     1.65
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

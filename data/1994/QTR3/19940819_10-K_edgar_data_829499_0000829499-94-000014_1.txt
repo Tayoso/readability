@@ -1,0 +1,2982 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ gcnxizo9np7itJScG2Wzhnd0RAsewv1yWWCe7Tsuj7KsmtbILhs5sviTFRlhjNbB
+ ncLNDU+Ilma/gQU5TlxEXA==
+
+<IMS-DOCUMENT>0000829499-94-000014.txt : 19940823
+<IMS-HEADER>0000829499-94-000014.hdr.sgml : 19940823
+ACCESSION NUMBER:		0000829499-94-000014
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19940528
+FILED AS OF DATE:		19940819
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTERSTATE BAKERIES CORP/DE/
+		CENTRAL INDEX KEY:			0000829499
+		STANDARD INDUSTRIAL CLASSIFICATION:	2050
+		IRS NUMBER:				431470322
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11165
+		FILM NUMBER:		94545175
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12 E ARMOUR BLVD
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64111
+		BUSINESS PHONE:		8165616600
+
+	MAIL ADDRESS:	
+		STREET 1:		12 E ARMOUR BLVD
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IBC HOLDINGS CORP
+		DATE OF NAME CHANGE:	19910612
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K FOR FISCAL YEAR ENDED MAY 28, 1994
+<TEXT>
+
+                               FORM 10-K
+                   SECURITIES AND EXCHANGE COMMISSION
+                        WASHINGTON, D.C.  20549
+
+(Mark One)
+  [ X ]       ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES  
+              EXCHANGE ACT OF 1934 [FEE REQUIRED]
+
+For the fiscal year ended                   May 28, 1994
+                          -------------------------------------------------
+                                      OR
+
+  [   ]       TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE         
+              SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from                       to
+                               ---------------------    --------------------
+
+Commission File Number 1-11165
+                       -------  
+
+                         INTERSTATE BAKERIES CORPORATION
+- - ---------------------------------------------------------------------------
+              (Exact name of registrant as specified in its charter)
+
+
+                 Delaware                                  43-1470322     
+      -------------------------------               -----------------------
+      (State or other jurisdiction of               (I.R.S. Employer
+       incorporation or organization)                Identification No.)
+
+12 East Armour Boulevard, Kansas City, Missouri                    64111
+- - -----------------------------------------------                  ---------
+    (Address of principal executive offices)                     (Zip Code)
+
+Registrant's telephone number, including area code (816) 561-6600
+                                                   -------------- 
+
+  Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class        Name of each exchange on which registered
+
+Common Stock,
+$.01 par value per share               New York Stock Exchange             
+- - ------------------------   ------------------------------------------------
+
+  Securities registered pursuant to Section 12(g) of the Act:
+
+               Common Stock, $.01 par value per share
+               -------------------------------------- 
+                        (Title of class)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.
+
+             Yes    X                              No        
+                 -------                              -------
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.
+                 [   ]
+The aggregate market value of the voting stock held by non-affiliates of the
+registrant was $124,750,049 as of August 1, 1994.  For these purposes only,
+the registrant has assumed that shares of Common Stock, $.01 par value per
+share, that may be deemed to be beneficially owned by certain members of the
+Board of Directors constitute shares held by affiliates of the registrant.
+
+There were 19,640,563 shares of Common Stock, $.01 par value per share,
+outstanding as of August 1, 1994.  
+
+
+<PAGE>
+                   DOCUMENTS INCORPORATED BY REFERENCE
+                   -----------------------------------
+
+     Part and Item                             Document Incorporated
+     of Form 10-K:                                  By Reference    
+     -------------                             ---------------------
+
+     Part II, Item 5                           Annual Report*
+
+     Part II, Item 6                           Annual Report*
+
+     Part II, Item 7                           Annual Report*
+
+     Part II, Item 8                           Annual Report*
+
+     Part III, Item 10                         Proxy Statement**
+
+     Part III, Item 11                         Proxy Statement**
+
+     Part III, Item 12                         Proxy Statement**
+
+     Part III, Item 13                         Proxy Statement**
+
+- - ----------------------------------------------------------------------------
+*  Refers to portions of Registrant's annual report to security holders with   
+   respect to the fiscal year ended May 28, 1994.
+
+** Refers to portions of Registrant's definitive proxy statement filed on      
+   August 18, 1994.
+
+                                   -2-
+
+<PAGE>
+                                  PART I
+
+Item 1.   Business
+- - -------   --------
+
+General
+- - -------
+
+          Interstate Bakeries Corporation (the "Company") was organized in
+1987 as a Delaware corporation under the name IBC Holdings Corp. and through
+its wholly-owned operating subsidiary, Interstate Brands Corporation, is the
+largest independent and third largest baker and distributor of fresh bakery
+products in the United States.  The Company or its predecessors have baked and
+distributed fresh bread and cake products since 1927.  The Company has grown
+to its present size primarily through acquisitions of other bakery businesses.
+In its 1988 fiscal year, the Company underwent a change in control through a
+leveraged buyout transaction and acquired 10 bakeries in the Southeastern
+United States.
+
+          The Company operates 31 bakeries throughout the United States and
+employs over 14,000 people.  From these geographically dispersed bakeries, the
+Company's driver-salesmen deliver baked goods to more than 100,000 food
+outlets on more than 4,000 delivery routes.  The Company's products are
+distributed throughout the United States through its direct route system and
+its 790 Company-operated thrift stores, and to some extent through
+distributors.
+
+          The principal executive offices of the Company are located at 12
+East Armour Boulevard, Kansas City, Missouri 64111, and the telephone number
+is (816) 561-6600.
+
+Operating Divisions
+- - -------------------
+
+          Bread Division
+
+          The principal products of the Bread Division are white breads,
+variety breads, "lite" breads, rolls, buns and English muffins, marketed under
+well-known brand names, including "Butternut", "Cotton's Holsum", "Eddy's",
+"Holsum", "Merita", "Millbrook", "Mrs. Karl's", "Sweetheart" and "Weber's". 
+The majority of the Bread Division's sales are generated by white breads and
+variety breads, the latter consisting of whole wheat, rye and other whole
+grain breads.  The Bread Division is the largest licensed baker and
+distributor of "Roman Meal" and "Sun Maid" breads.  These products include
+traditional Roman Meal bread, Roman Meal variety breads, Roman Meal light
+breads and Roman Meal buns, rolls and English muffins and also include Sun
+Maid's line of raisin bread and English muffins.
+
+          In fiscal 1994, the Bread Division had net sales of $779,550,000,
+which represented 68.2% of the net sales of the Company.  The Bread Division's
+sales are generally concentrated in the Southeast, Southern California, the
+Midwest and certain Northern Mountain states.  Bread Division customers
+consist primarily of supermarkets and are served by its separate distribution
+system.  No single customer accounts for more than 5% of the Company's net
+sales.  Many of the Bread Division's accounts are also serviced by the Cake
+Division.
+
+          The Bread Division faces intense competition in all of its markets
+from large, national bakeries and smaller regional operators, as well as from
+supermarket chains with their own bakeries or private label products.  The
+Continental Baking Company (majority-owned by Ralston Purina), Campbell
+Taggert, Inc. (owned by Anheuser-Busch) and Flowers Industries, Inc. are the
+Bread Division's largest competitors, each marketing bread products under
+various brand names.  The Bread Division from time to time experiences price
+pressure in certain of its markets as a result of competitors' promotional
+pricing practices.  However, management believes that the Company's geographic
+diversity helps to limit the effect of regionally-based competition.  
+
+                                    -3-
+
+<PAGE>
+Competition in the Bread Division's business is based on product quality,
+price, brand loyalty, effective promotional activities and the ability to
+identify and satisfy emerging consumer preferences.  Customer service,
+including frequency of deliveries and maintenance of fully stocked shelves, is
+also an important competitive factor and is central to the competition for
+retail shelf space among bread product distributors.
+
+         Cake Division
+
+          The Cake Division produces fresh baked sweet goods, including snack
+cakes, donuts, sweet rolls, snack pies, breakfast pastries, variety cakes,
+large cakes and shortcakes, approximately 90% of which are sold under the
+nationally known "Dolly Madison Bakery" brand name.
+
+          In fiscal 1994, the Cake Division had net sales of $347,371,000,
+representing 30.4% of the net sales of the Company.  The Cake Division
+distributes its products principally through convenience stores, in markets
+representing approximately 75% of the U.S. population, in all areas of the
+country except certain Northeast markets.
+
+          No single customer represents more than 5% of the Company's net
+sales.  The Company believes that its credit practices adequately address the
+financial condition of its customers, particularly in the convenience store
+industry.  Cake sales tend to be somewhat seasonal, with a historically weak
+winter period, which management believes is attributable to home baking and
+consumption patterns during the holiday seasons.  Spring and early summer
+months are historically stronger due to the sale of shortcake products during
+the fresh strawberry season.
+
+          The wholesale cake industry is highly competitive with product
+quality, retail account service and price being the most significant
+competitive factors.  The Cake Division from time to time experiences price
+pressures in certain of its markets as a result of competitors' promotional
+pricing practices.  The Cake Division's ability to sell its products depends
+on its ability to attain store shelf space in relation to competing cake
+brands and other food products.  The Company competes primarily with a few
+large national bakeries, as well as with certain regional bakeries. 
+Continental Baking Company (majority-owned by Ralston Purina) and McKee
+Baking, marketing cake products under the brand names Hostess and Little
+Debbie, respectively, are the largest competitors of the Cake Division.
+
+          Dry Products
+
+          The Company's line of dry products consists of branded, dry, bread-
+based products, including traditional stuffing and salad croutons, principally
+under the "Mrs. Cubbison's" brand name.  The majority of the Company's dry
+product sales (which account for l.4% of the Company's net sales) is generated
+during the Thanksgiving and Christmas holiday periods.  The "Mrs. Cubbison's"
+product line is distributed primarily in 11 western states through a
+subsidiary that is 80% owned by the Company.  The largest market for the
+Company's dry products is Southern California.
+
+Raw Materials
+- - -------------
+
+          The ingredients of bread and cake products, principally flour, sugar
+and edible oils, are readily available from numerous sources.  The Company
+periodically engages in commodity futures hedging programs, and also attempts
+to lock in prices through advance purchase contracts of up to six months in
+duration when prices are expected to increase.  Through its program of central
+purchasing of baking ingredients and packaging materials, the Company is able
+to utilize its national presence to obtain competitive prices.  The Company
+historically has been able to pass through most commodity price increases.
+
+                                  -4-
+
+<PAGE>
+Management and Employees
+- - ------------------------
+
+          The Company employs over 14,000 people.  Approximately 75% of the
+Company's employees are covered by approximately 250 union contracts. 
+Unionized workers are generally members of either the International
+Brotherhood of Teamsters or the Bakery, Confectionery and Tobacco Workers
+International Union.  The Company believes it has good relations with all of
+its union and nonunion employees.
+
+
+Governmental Regulation; Environmental Matters
+- - ----------------------------------------------
+
+          The Company's operations are subject to regulation by various
+federal, state and local governmental entities and agencies.  As a baker of 
+goods for human consumption, the Company's operations are subject to stringent
+quality and labeling standards.  The operations of the Company's bakeries and
+its delivery fleet are subject to various federal, state and local
+environmental laws and workplace regulations, including the Occupational
+Safety and Health Act, the Fair Labor Standards Act, the Clean Air Act and the
+Clean Water Act.  The Company believes that its current legal and
+environmental compliance programs adequately address such concerns and that it
+is in substantial compliance with such applicable laws and regulations.
+
+Item 2.    Properties
+- - -------    ----------
+
+          The Company's principal properties are its bakeries, distribution
+depots and thrift stores.  Shown below are the locations of the Company's
+bakeries, all of which are owned with the exception of the Charlotte, North
+Carolina, bread bakery, which is operated under a capital lease with an option
+to purchase the facility in 1996, and the Dry Products bakery.  The Company
+owns the building in Kansas City, Missouri in which its principal executive
+offices are located.  The Company's distribution depots and thrift stores are
+located throughout the Company's distribution area and the majority of these
+facilities are leased.
+
+                         Bread Division Bakeries
+                         -----------------------
+
+           Alexandria, Louisiana         Jacksonville, Florida
+           Billings, Montana             Knoxville, Tennessee
+           Birmingham, Alabama           Los Angeles, California
+           Boise, Idaho                  Miami, Florida
+           Boonville, Missouri           Minonk, Illinois
+           Charlotte, North Carolina     Minot, North Dakota
+           Chicago, Illinois             Monroe, Louisiana
+           Cincinnati, Ohio              Orlando, Florida
+           Decatur, Illinois             Peoria, Illinois
+           Florence, South Carolina      Rocky Mount, North Carolina
+           Fort Pierce, Florida          San Diego, California
+           Glendale, California          Springfield, Missouri
+           Grand Junction, Colorado      Tampa, Florida
+           Grand Rapids, Michigan                    
+                                         
+
+           Cake Division Bakeries        Dry Products Bakery
+           ----------------------        ----------------------
+
+           Columbus, Georgia             Montebello, California
+           Columbus, Indiana
+           Emporia, Kansas
+
+          The Company believes that its facilities are well maintained and
+does not foresee the need to make significant capital improvements to existing
+facilities in the near future.  
+
+                                  -5-
+
+<PAGE>
+          On June 13, 1994, the Company completed the acquisition of the
+assets and liabilities of Fuchs Baking Co. of Miami, Florida.  Fuchs, which
+has annual sales of approximately $50,000,000, distributes bakery products
+throughout central and southern Florida from bakeries in Miami and Fort
+Pierce, Florida.
+
+          The Company operates 790 retail stores which sell its bakery
+products not otherwise sold through its primary distribution system. 
+Generally, each thrift store is between 500 and 1,200 square feet in size. 
+Approximately 80% of the stores are located at the Company's distribution
+depots, while the others are freestanding units located along the Company's
+distribution routes.
+
+Item 3.   Legal Proceedings
+- - -------   -----------------
+          
+          The Company has been named as a defendant in various claims arising
+out of its normal business operations.  Based upon the facts available to
+date, management believes that the Company has meritorious defenses to these
+actions and that their ultimate resolution will not have a material adverse
+effect on the Company's financial position.
+
+
+Item 4.   Submission of Matters to a Vote of Security Holders
+- - -------   ---------------------------------------------------
+ 
+          Not applicable.
+
+                                 PART II
+                                 -------
+
+
+Item 5.   Market for Registrant's Common Equity and Related Stockholder        
+- - -------   -------------------------------------------------------------
+          Matters.
+          --------
+
+          The section entitled "Common Stock Information" appearing on the
+inside front cover of the Annual Report is incorporated herein by this
+reference.  Footnote (a) (iii) to note 2, entitled "Debt", to the consolidated
+financial statements appearing on page 20 of the Annual Report is also
+incorporated herein by this reference with regard to limitations on cash
+dividends and common stock repurchases.  The section entitled, "Management's
+Discussion and Analysis of Financial Condition and Results of Operations",
+specifically the subsection entitled "Capital Resources and Liquidity"
+appearing on page 15 of the Annual Report is also incorporated herein by this
+reference with regard to planned common stock dividend payments.
+
+Item 6.   Selected Financial Data
+- - -------   -----------------------
+
+          The section entitled "Five-Year Summary of Financial Data",
+appearing on page 13 of the Annual Report, is incorporated herein by this
+reference.
+
+Item 7.   Management's Discussion and Analysis of Financial Condition and      
+- - -------   ---------------------------------------------------------------
+          Results of Operations
+          ---------------------
+
+          The section entitled "Management's Discussion and Analysis of
+Financial Condition and Results of Operations" appearing on pages 14 through
+15 of the Annual Report is incorporated herein by this reference.
+
+                                  -6-
+
+<PAGE>
+Item 8.   Financial Statements and Supplementary Data
+- - -------   -------------------------------------------
+
+          The consolidated financial statements and accompanying notes and 
+report of Independent Public Accountants appearing on pages 16 through 25 of
+the Annual Report are incorporated herein by this reference.
+
+Item 9.   Changes in and Disagreements with Accountants on Accounting and      
+- - -------   ---------------------------------------------------------------
+          Financial Disclosure
+          --------------------
+
+          Not applicable.
+
+
+                                  PART III
+                                  --------
+
+          The information required by Part III (Item 10, 11, 12 and 13) is
+incorporated herein by reference to the Company's definitive proxy statement,
+involving the election of directors and ratification of independent auditors
+filed on August 18, 1994.
+
+
+                                 PART IV
+                                 -------
+
+Item 14.  Exhibits, Financial Statement Schedules and Reports on Form 8-K
+- - --------  ---------------------------------------------------------------
+
+     (a)  Documents Filed as Part of this Report:
+
+          1.   Financial Statements
+
+               The following financial statements and report included in the   
+               Company's Annual Report are incorporated herein by reference:   
+             
+                    Consolidated Balance Sheet at May 28, 1994 and May 29,     
+                     1993
+
+                    For the 52 weeks ended May 28, 1994, May 29, 1993 and May  
+                     30, 1992: 
+         
+                         Consolidated Statement of Income
+                         Consolidated Statement of Cash Flows
+                         Consolidated Statement of Stockholders' Equity
+                         
+                    Notes to Consolidated Financial Statements
+
+                    Report of Independent Public Accountants dated July 8,     
+                     1994
+
+                                   -7-
+
+<PAGE>
+          2.   Financial Statement Schedules
+
+               The following report and schedules are filed herewith as a part 
+               hereof:
+
+                    Report of Independent Public Accountants dated July 8,     
+                     1994
+
+                    Schedules for the 52 weeks ended May 28, 1994, May 29,     
+                     1993 and May 30, 1992:
+
+                        II  Amounts Receivable from Related Parties and        
+                             Underwriters, Promoters and Employees Other Than  
+                             Related Parties
+                         V  Property, Plant and Equipment
+                        VI  Accumulated Depreciation of Property, Plant and    
+                             Equipment
+                      VIII  Valuation and Qualifying Accounts 
+                        IX  Short-term Borrowings
+                         X  Supplementary Income Statement Information
+
+               
+               All other schedules have been omitted since the required        
+               information is not present or not present in amounts sufficient 
+               to require submission of the schedule, or because the           
+               information required is included in the consolidated financial  
+               statements or the notes thereto.
+ 
+          3.   Exhibits
+
+               The exhibits are listed in the Exhibit Index.  Copies of        
+               certain documents have not been filed as exhibits, in reliance  
+               upon paragraph (b) (4) (iii) of Item 601 of Regulation S-K.     
+               Registrant agrees to furnish a copy of any such instrument to   
+               the Securities and Exchange Commission upon request.
+
+     (b)  Reports on Form 8-K:
+          --------------------
+
+          No reports on Form 8-K have been filed during the last quarter of    
+          the period covered by this report.
+
+                                  -8-  
+
+<PAGE>
+                               SIGNATURES
+                               ----------
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this Report to be signed
+on its behalf by the undersigned, thereunto duly authorized.
+
+
+                                         INTERSTATE BAKERIES CORPORATION
+
+Dated:  August 19, 1994                  By:  /s/ Charles A. Sullivan    
+                                            ----------------------------
+                                              Charles A. Sullivan
+                                              President and Chief
+                                              Executive Officer
+
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+Report has been signed below by the following persons on behalf of the
+Registrant and in the capacities indicated and on the dates indicated.
+
+                              Capacities
+Name of Signatory             In Which Signing               Date
+- - -----------------             ----------------               ----
+
+/s/ Charles A. Sullivan       Chairman of the Board,     August 19, 1994
+- - --------------------------    President, Chief
+Charles A. Sullivan           Executive Officer
+                              and Director (Principal
+                              Executive Officer)
+
+
+/s/ G. Kenneth Baum           Director                   August 19, 1994
+- - --------------------------
+G. Kenneth Baum
+
+
+/s/ Leo Benatar               Director                   August 19, 1994
+- - --------------------------
+Leo Benatar
+
+
+/s/ E. Garrett Bewkes, Jr.    Director                   August 19, 1994
+- - --------------------------
+E. Garrett Bewkes, Jr.
+
+
+/s/ Philip Briggs             Director                   August 19, 1994
+- - --------------------------
+Philip Briggs
+
+
+/s/ Robert B. Calhoun, Jr.    Director                   August 19, 1994
+- - --------------------------
+Robert B. Calhoun, Jr.
+
+
+/s/ Frank E. Horton           Director                   August 19, 1994
+- - --------------------------
+Frank E. Horton
+
+
+/s/ Paul E. Yarick            Vice President             August 19, 1994
+- - --------------------------    and Treasurer
+Paul E. Yarick                (Principal
+                              Financial Officer)
+
+
+/s/ John F. McKenny           Vice President             August 19, 1994
+- - --------------------------    and Corporate
+John F. McKenny               Controller
+                              (Principal 
+                              Accounting Officer)
+
+                                  -9-
+
+<PAGE>
+             REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+
+Interstate Bakeries Corporation
+
+
+We have audited the consolidated financial statements of Interstate Bakeries
+Corporation and its subsidiaries as of May 28, 1994 and May 29, 1993, and for
+each of the three fiscal years in the period ended May 28, 1994, and have
+issued our report thereon dated July 8, 1994; such consolidated financial
+statements and report are included in your 1994 Annual Report to Stockholders
+and are incorporated herein by reference.  Our audits also included the
+consolidated financial statement schedules of Interstate Bakeries Corporation
+and its subsidiaries, listed in Item 14.  These consolidated financial
+statement schedules are the responsibility of the Company's management.  Our
+responsibility is to express an opinion based on our audits.  In our opinion,
+such consolidated financial statement schedules, when considered in relation
+to the basic consolidated financial statements taken as a whole, present
+fairly in all material respects the information set forth therein.
+
+
+/s/ Deloitte & Touche
+
+
+Kansas City, Missouri
+July 8, 1994
+
+                                   -10-
+
+<PAGE>
+                       INTERSTATE BAKERIES CORPORATION
+                                 SCHEDULE II
+           AMOUNTS RECEIVABLE FROM RELATED PARTIES AND UNDERWRITERS,
+              PROMOTERS AND EMPLOYEES OTHER THAN RELATED PARTIES
+       FIFTY-TWO WEEKS ENDED MAY 28, 1994, MAY 29, 1993 AND MAY 30, 1992
+                                (In Thousands)
+
+                                                                               
+                                          Deductions        Balance at end
+               Balance at           ----------------------     of period  
+               beginning             Amounts     Amounts   ------------------
+Name of debtor of period  Additions collected  written off Current Noncurrent
+- - -------------- ---------- --------- ---------  ----------- ------- ----------
+
+1994:         
+
+None
+
+
+1993:
+
+Ellingboe        $  134     $  -      $    2      $   -     $   -    $  132
+Shetler             107        -         107          -         -        -
+               ---------- --------- ---------  ----------- ------- ----------- 
+                 $  241     $  -      $  109      $   -     $   -    $  132
+               ========== ========= =========  =========== ======= ===========
+
+
+1992:
+
+Bartoszewski     $  105     $  -      $   61      $   -     $   -    $   44
+Ellingboe           198        -          64          -         -       134
+Fiorini             635        -         175          -         -       460
+McKenny             106        -          39          -         -        67
+O'Connor            134        -          94          -         -        40
+Parque              105        -          55          -         -        50
+Shetler             252        -         145          -         -       107
+Sullivan            150        -         150          -         -         -
+Sutton              244        -         244          -         -         -
+               ---------- --------- ---------  ----------- ------- ---------- 
+                 $1,929     $  -      $1,027      $   -     $   -    $  902
+               ========== ========= =========  =========== ======= ==========
+
+
+Note:  The loans are payable on demand, bear interest at a rate of 3% per      
+       annum and are secured by a pledge of Interstate Bakeries Corporation    
+       common stock.
+
+                                   -11-
+
+<PAGE>
+                       INTERSTATE BAKERIES CORPORATION
+                                 SCHEDULE V
+                        PROPERTY, PLANT AND EQUIPMENT
+     FIFTY-TWO WEEKS ENDED MAY 28, 1994, MAY 29, 1993 AND MAY 30, 1992
+                               (In Thousands)
+
+
+                                          Reclassifi-   
+                    Balance at             cations,              Balance
+                    beginning              sales and    Other    at end
+Classification      of period  Additions  retirements  changes  of period
+- - --------------      ---------- ---------  -----------  -------  ---------
+1994:
+
+Land                 $ 24,433   $ 1,252    $ (5,079)    $    -   $ 20,606
+Buildings and
+ improvements          67,197     8,147      (4,410)         -     70,934
+Plant equipment       193,287    26,389     (34,123)         -    185,553
+Delivery equipment     28,377     1,963      (4,218)         -     26,122
+Construction in
+ progress              16,153    (2,906)          -          -     13,247
+                     ---------  ---------  -----------  -------  ---------
+                     $329,447   $34,845    $(47,830)    $    -   $316,462
+                     =========  =========  ===========  =======  =========
+
+1993:
+
+Land                 $ 24,435   $    46    $    (48)    $    -   $ 24,433
+Buildings and
+ improvements          64,182     3,060         (45)         -     67,197
+Plant equipment       183,072    18,519      (8,304)         -    193,287
+Delivery equipment     28,049     2,179      (1,851)         -     28,377
+Construction in
+ progress               9,367     6,786           -          -     16,153
+                     ---------  ---------  -----------  -------  ---------
+                     $309,105   $30,590    $(10,248)    $    -   $329,447
+                     =========  =========  ===========  =======  =========
+
+1992:
+
+Land                 $ 24,418   $   119    $   (102)    $    -   $ 24,435
+Buildings and
+ improvements          62,552     1,738        (108)         -     64,182
+Plant equipment       170,873    13,624      (1,425)         -    183,072
+Delivery equipment     25,439     2,784        (174)         -     28,049
+Construction in
+ progress               4,155     5,212           -          -      9,367
+                     ---------  ---------  -----------  -------  ---------
+                     $287,437   $23,477    $ (1,809)    $    -   $309,105
+                     =========  =========  ===========  =======  =========
+
+                                   -12-
+
+<PAGE>     
+                    INTERSTATE BAKERIES CORPORATION
+                               SCHEDULE VI
+            ACCUMULATED DEPRECIATION OF PROPERTY, PLANT AND EQUIPMENT
+       FIFTY-TWO WEEKS ENDED MAY 28, 1994, MAY 29, 1993 AND MAY 30, 1992
+                             (In Thousands)
+
+
+                                Additions   Reclassifi-
+                    Balance at  charged to    cations,             Balance
+                    beginning   costs and    sales and    Other    at end
+Classification      of period    expenses   retirements  changes  of period
+- - --------------      ----------  ----------  -----------  -------  ----------
+
+1994:
+
+Buildings and
+ improvements       $ 14,448     $ 2,330     $ (2,041)    $   -    $ 14,737
+Plant equipment       78,794      19,197      (26,770)        -      71,221
+Delivery equipment    15,820       2,697       (3,453)        -      15,064
+                    ----------  ----------  -----------  -------  ----------
+                    $109,062     $24,224     $(32,264)    $   -    $101,022
+                    ==========  ==========  ===========  =======  ==========
+
+1993:
+
+Buildings and
+ improvements       $ 11,783     $ 2,627     $     38     $   -    $ 14,448
+Plant equipment       68,303      18,764       (8,273)        -      78,794
+Delivery equipment    14,387       3,020       (1,587)        -      15,820
+                    ----------  ----------  -----------  -------  ----------
+                    $ 94,473     $24,411     $ (9,822)    $   -    $109,062
+                    ==========  ==========  ===========  =======  ==========
+
+1992:
+
+Buildings and
+ improvements       $  9,084     $ 2,734     $    (35)     $  -    $ 11,783
+Plant equipment       51,736      17,819       (1,252)        -      68,303
+Delivery equipment    10,770       3,768         (151)        -      14,387
+                    ----------  ----------  -----------  -------  ----------
+                    $ 71,590     $24,321     $ (1,438)     $  -    $ 94,473
+                    ==========  ==========  ===========  =======  ==========
+
+                                   -13-
+
+<PAGE>
+                       INTERSTATE BAKERIES CORPORATION
+                                SCHEDULE VIII
+                      VALUATION AND QUALIFYING ACCOUNTS
+       FIFTY-TWO WEEKS ENDED MAY 28, 1994, MAY 29, 1993 AND MAY 30, 1992
+                                (In Thousands)
+
+
+                          Balance at    Additions    Accounts    Balance
+                          beginning      charged     charged     at end
+Description               of period     to income      off      of period
+- - -----------               ----------    ---------    --------   ---------
+
+1994:
+
+Reserve for discounts 
+ and allowances on
+ accounts receivable        $4,328       $  (50)      $    -      $4,278
+Allowance for doubtful
+ accounts                    1,511          510          376       1,645
+                          ----------    ---------    --------   ---------
+                            $5,839       $  460       $  376      $5,923
+                          ==========    =========    ========   =========
+
+1993:
+
+Reserve for discounts 
+ and allowances on
+ accounts receivable        $4,297       $   31       $    -      $4,328
+Allowance for doubtful
+ accounts                    2,143        1,142        1,774       1,511
+                          ----------    ---------    --------   ---------
+                            $6,440       $1,173       $1,774      $5,839
+                          ==========    =========    ========   =========
+
+1992:
+
+Reserve for discounts
+ and allowances on
+ accounts receivable        $3,770       $  527       $    -      $4,297
+Allowance for doubtful
+ accounts                    2,462          364          683       2,143
+                          ----------    ---------    --------   ---------
+                            $6,232       $  891       $  683      $6,440
+                          ==========    =========    ========   =========
+
+                                   -14-
+
+<PAGE>
+                    INTERSTATE BAKERIES CORPORATION 
+                             SCHEDULE IX
+                        SHORT-TERM BORROWINGS
+   FIFTY-TWO WEEKS ENDED MAY 28, 1994, MAY 29, 1993 AND MAY 30, 1992
+
+
+                                       Maximum     Average     Weighted
+                             Weighted   amount      amount      average
+Fiscal            Balance at average  outstanding outstanding  interest
+ year               end of   interest   during      during    rate during
+ended  Category     period     rate   the period  the period* the period**
+- - ------ --------   ---------- -------- ----------- ----------- ------------
+1994   Bank
+       Borrowings $        -      -   $5,000,000   $126,000       3.96%
+
+1993   Bank       
+       Borrowings $5,000,000   4.00%  $5,000,000   $346,000       3.95%
+
+1992   None
+
+
+*   Computed by actual amounts outstanding times the actual number of days     
+    outstanding divided by number of days in the year.
+
+**  Computed by actual interest costs incurred divided by average amount       
+    outstanding during the period as computed in "*".
+
+
+Note:  The Company has no short-term borrowing agreements in place at May 28,
+1994.
+
+                                   -15-
+
+<PAGE>
+                      INTERSTATE BAKERIES CORPORATION
+                               SCHEDULE X
+                 SUPPLEMENTARY INCOME STATEMENT INFORMATION
+        FIFTY-TWO WEEKS ENDED MAY 28, 1994, MAY 29, 1993 AND MAY 30, 1992
+                             (In Thousands)
+
+
+                                      Charged to costs and expenses
+                                      -----------------------------
+
+                                        1994       1993      1992
+                                      -------    -------   --------
+
+Maintenance and repairs               $48,620    $48,738    $49,126
+                                      =======    =======    =======
+
+Advertising                           $15,959    $15,987    $16,166
+                                      =======    =======    =======
+
+                                   -16-
+
+<PAGE>
+                            EXHIBIT INDEX
+                            -------------
+
+Exhibit 
+  No.                           Exhibit                        
+- - -------                         -------                        
+
+  3.1       Restated Certificate of Incorporation of                           
+            Interstate Bakeries Corporation, as amended.*
+
+  3.2       Restated Bylaws of Interstate Bakeries
+            Corporation (incorporated herein by reference 
+            to Exhibit 3.2 to the Annual Report on Form 
+            10-K of Interstate Bakeries Corporation filed 
+            on August 30, 1991 (the "1991 10-K")).
+
+  4.1       Article FOURTH of Restated Certificate of 
+            Incorporation of Interstate Bakeries Corporation
+            (contained in Exhibit 3.1 hereto and incorporated
+            herein by reference to Exhibit 3.1 to the 1991 
+            10-K).
+
+ 10.1       Interstate Bakeries Corporation 1991 Stock Option
+            Plan (incorporated herein by reference to
+            Exhibit 10.1 to the Registration Statement on
+            Form S-1 of Interstate Bakeries Corporation, File
+            No. 33-40830 (the "Form S-1")).
+
+ 10.2       Employment Agreement, dated as of March 1, 1989,
+            by and among Interstate Bakeries Corporation, 
+            Interstate Brands Corporation and Charles A. Sullivan              
+            (incorporated herein by reference to Exhibit 10.2 
+            to the Form S-1).
+
+ 10.3       Stock Performance Unit Agreement, dated as of 
+            November 1, 1989, by and between Interstate Bakeries 
+            Corporation and Charles A. Sullivan (incorporated 
+            herein by reference to Exhibit 10.3 to the Form S-1).
+
+ 10.4       Memorandum of Agreement, dated as of May 16,
+            1991, by and among Interstate Bakeries Corporation,
+            Interstate Brands Corporation and Charles A. Sullivan
+            (incorporated herein by reference to Exhibit
+            10.4 to the Form S-1).
+
+ 10.5       Restated Memorandum of Agreement dated as of 
+            July 22, 1992 by and among Interstate Bakeries
+            Corporation, Interstate Brands Corporation and 
+            Charles A. Sullivan (incorporated herein by
+            reference to Exhibit 10.5 to the Annual Report 
+            on Form 10-K of Interstate Bakeries Corporation 
+            filed on August 20, 1992).
+
+ 11.1       Statement regarding computation of per share        
+            earnings.*
+
+ 13.1       The inside front cover and pages 13 through 25 
+            of the Interstate Bakeries Corporation annual 
+            report to security holders for the year ended 
+            May 28, 1994.  (Those portions of the annual 
+            report to security holders not listed here shall 
+            not be deemed to be filed as a part of this 
+            Report.)*
+
+ 21.1       Subsidiaries of Interstate Bakeries Corporation
+            (incorporated herein by reference to Exhibit 22.1 
+            to the 1991 10-K).
+
+ 99         Interstate Brands Corporation Retirement Income
+            Plan (incorporated herein by reference to
+            Exhibit 28.1 to the Form S-1).
+- - ----------------------
+* Filed herewith.
+
+                                 -17-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3
+<SEQUENCE>2
+<DESCRIPTION>AMENDED ARTICLES OF INCORPORATION
+<TEXT>
+
+                                                               EXHIBIT 3.1
+
+
+
+                          CERTIFICATE OF AMENDMENT
+                                     TO
+                    RESTATED CERTIFICATE OF INCORPORATION
+                                     OF
+                       INTERSTATE BAKERIES CORPORATION
+
+                       -------------------------------
+
+     Pursuant to Section 242 of the Delaware General Corporation Law
+
+                       -------------------------------
+
+INTERSTATE BAKERIES CORPORATION, a corporation organized and existing under
+and by virtue of the General Corporation Law of the State of Delaware (the
+"Corporation"), does hereby certify as follows:
+
+FIRST:  That Section 4.01 of Article Fourth of the Restated Certificate of
+Incorporation of the Corporation is hereby amended by striking out Section
+4.01 in its entirety and substituting in lieu thereof the following:
+
+     Section 4.01.  Authorized Capital.
+     ----------------------------------
+     The total number of shares of all classes of stock which the
+     Corporation shall have the authority to issue is 41,000,000
+     shares, consisting of 40,000,000 shares of Common Stock of $.01
+     par value ("Common Stock") and 1,000,000 shares of Preferred 
+     Stock of $.01 par value ("Preferred Stock").
+
+SECOND:  That amendment to the Restated Certificate of Incorporation herein
+certified has been duly adopted in accordance with the provisions of Section
+242 of the General Corporation Law of the State of Delaware.
+
+IN WITNESS WHEREOF,  the Corporation has caused this certificate to be signed
+by Charles A. Sullivan, its President, and Ray Sandy Sutton, its Secretary,
+this 28th day of September, 1993.
+
+
+                                By:/s/ Charles A. Sullivan
+                                   -----------------------
+                                   Charles A. Sullivan
+                                   President
+
+Attest: /s/ Ray Sandy Sutton
+        --------------------
+        Ray Sandy Sutton
+        Secretary
+
+<PAGE>
+                               RESTATED
+                     CERTIFICATE OF INCORPORATION
+                                  OF
+                    INTERSTATE BAKERIES CORPORATION
+
+
+
+INTERSTATE BAKERIES CORPORATION, a corporation organized and existing under
+and by virtue of the General Corporation Law of the State of Delaware, DOES
+HEREBY CERTIFY:
+
+1.  The name of the Corporation is Interstate Bakeries Corporation and the
+name under which the Corporation was originally incorporated is IBC Holdings
+Corp.
+
+The date of filing of its original Certificate of Incorporation with the
+Secretary of State of the State of Delaware was September 9, 1987, which
+certificate was amended on January 27, 1988, December 12, 1988, October 4,
+1989 and June 17, 1991.
+
+2.  This Restated Certificate of Incorporation was duly adopted by the
+Directors and the Stockholders of the Corporation in accordance with the
+provisions of Sections 242 and 245 of the General Corporation Law of the State
+of Delaware and amends and replaces in its entirety the Certificate of
+Incorporation of this Corporation as heretofore amended or supplemented.
+
+3.  The text of the Certificate of Incorporation of Interstate Bakeries
+Corporation as amended and restated by this Restated Certificate of
+Incorporation to read in full as follows:
+
+FIRST:   NAME.   
+         ----  
+The name of the Corporation is Interstate Bakeries Corporation.
+
+<PAGE>
+SECOND:  REGISTERED OFFICE; AGENT.
+         ------------------------
+The Registered Office of the Corporation in the State of Delaware is located
+at 1209 Orange Street in the City of Wilmington, County of New Castle.  The
+name of its Registered Agent at such address is The Corporation Trust Company.
+
+THIRD:   PURPOSE.
+         -------
+The purpose of the Corporation is to engage in any lawful act or activity for
+which corporations may be organized under the General Corporation Law of the
+State of Delaware as presently in effect or as it may hereafter be amended.
+
+FOURTH:  CAPITALIZATION.
+         --------------
+
+Section 4.01.  Authorized Capital.
+               ------------------
+The total number of shares of all classes of stock which the Corporation shall
+have the authority to issue is 26,000,000 shares, consisting of 25,000,000
+shares of common stock of $.01 par value ("Common Stock") and 1,000,000 shares
+of preferred stock of $.01 par value ("Preferred Stock").
+
+Section 4.02.  Preferred Stock.
+               ---------------
+1.  Shares of Preferred Stock may be issued from time to time in one or more
+classes or series as may from time to time be determined by the Board of
+Directors, each of said class or series to be distinctively designated.  All
+shares of any one class or series of Preferred Stock shall be alike in every
+particular, except that there may be different dates from which dividends, if
+any, thereon shall be cumulative, if made cumulative.  The voting powers and
+the preferences and relative, participating, optional and other 
+
+                                       -2-
+
+<PAGE>
+special rights
+of each such class or series, and the qualifications, limitations or
+restrictions thereof, if any, may differ from those of any and all other class
+or series at any time outstanding; and the Board of Directors of the
+Corporation is hereby expressly granted authority to fix by resolution or
+resolutions adopted prior to the issuance of any shares of a particular class
+or series of Preferred Stock, the voting powers and the designations,
+preferences and relative, optional and other special rights, and the
+qualifications, limitations and restrictions of such class or series,
+including, but without limiting the generality of the foregoing, the
+following:
+
+   (a)  The distinctive designation of, and the number of shares of Preferred
+   Stock which shall constitute such class or series, which number may be
+   increased (except where otherwise provided by the Board of Directors) or
+   decreased (but not below the number of shares thereof then outstanding) from
+   time to time by like action of the Board of Directors;
+
+   (b)  The rate and times at which, and the terms and conditions on which,
+   dividends, if any, on Preferred Stock of such class or series shall be paid,
+   the extent of the preference or relation, if any, of such dividends to the
+   dividends payable on any other class or classes, or series of the same or
+   other classes of stock and whether such dividends shall be cumulative or
+   noncumulative;
+
+                                       -3-
+
+<PAGE>
+   (c)  The right, if any, of the holders of Preferred Stock of such class or
+   series to convert the same into, or exchange the same for, shares of any 
+   other class or classes or of any series of the same or any other class or 
+   classes of stock of the Corporation and the terms and conditions of such 
+   conversion or exchange;
+
+   (d)  Whether or not Preferred Stock of such class or series shall be subject
+   to redemption, and the redemption price or prices and the time or times at
+   which, and the terms and conditions on which, Preferred Stock of such class 
+   or series may be redeemed;
+
+   (e)  The rights, if any, of the holders of Preferred Stock of such class or
+   series upon the voluntary or involuntary liquidation, merger, consolidation,
+   distribution or sale of assets, dissolution or winding-up of the 
+   Corporation; 
+   
+   (f)  The terms of the sinking fund or redemption or purchase account, if 
+   any, to be provided for the Preferred Stock of such class or series; and
+
+   (g)  The voting powers, if any, of the holders of such class or series of
+   Preferred Stock which may, without limiting the generality of the foregoing,
+   include the right, voting as a class or series or by itself or together with
+   other series of Preferred Stock or all series of Preferred Stock as a class,
+   to elect one or more Directors of the Corporation if there shall have been a
+   default in the payment 
+   
+                                       -4-
+   
+<PAGE>   
+   of dividends on any one or more class or series of
+   Preferred Stock or under such other circumstances and on such conditions as
+   the Board of Directors may determine.
+
+2.  The relative powers, preferences and rights of each class or series of
+Preferred Stock in relation to the powers, preferences and rights of each
+other class or series of Preferred Stock shall, in each case, be as fixed from
+time to time by the Board of Directors in the resolution or resolutions
+adopted pursuant to authority granted in subparagraph 1 of this Section 4.02
+and the consent, by class or series vote or otherwise, of the holders of such
+of the class or series of Preferred Stock as are from time to time outstanding
+shall not be required for the issuance by the Board of Directors of any other
+class or series of Preferred Stock whether or not the powers, preferences and
+rights of such other class or series shall be fixed by the Board of Directors
+as senior to, or on a parity with, the powers, preferences and rights of such
+outstanding class or series, or any of them; unless in the resolution or
+resolutions as to the outstanding class or series of Preferred Stock adopted
+pursuant to subparagraph 1 of this Section 4.02 the Board of Directors
+provided that the consent of the holders of a majority (or such greater
+proportion as shall be therein fixed) of the outstanding shares of such class
+or series voting thereon would be required for the issuance of any or all
+other classes or series of Preferred Stock.
+
+                                       -5-
+
+<PAGE>
+3.  Subject to the provisions of subparagraph 2 of this Section 4.02, shares
+of any class or series of Preferred Stock may be issued from time to time as
+the Board of Directors of the Corporation shall determine and on such terms
+and for such consideration as shall be fixed by the Board of Directors.
+
+Section 4.03  Common Stock.
+              ------------
+1.  Shares of Common Stock may be issued from time to time as the Board of
+Directors of the Corporation shall determine and on such terms and for such
+consideration as shall be fixed by the Board of Directors.
+
+2.  After the requirements with respect to preferential dividends on the
+Preferred Stock (fixed in accordance with the provisions of Section 4.02 of
+this Article FOURTH), if any, shall have been met and after the Corporation
+shall have complied with all the requirements, if any, with respect to the
+setting aside of sums as sinking funds or redemption or purchase accounts in
+respect of the Preferred Stock (fixed in accordance with the provisions of
+Section 4.02 of this Article FOURTH), and subject further to any other
+conditions which may be fixed in accordance with the provisions of Section
+4.02 of this Article FOURTH, then and not otherwise the holders of Common
+Stock shall be entitled to receive such dividends as may be declared from time
+to time by the Board of Directors.
+
+                                       -6-
+
+<PAGE>
+3.  After distribution in full of the preferential amount (fixed in accordance
+with the provisions of Section 4.02 of this Article FOURTH), if any, to be
+distributed to the holders of Preferred Stock in the event of voluntary or
+involuntary liquidation, distribution or sale of assets, dissolution or
+winding-up of the Corporation, the holders of the Common Stock shall be
+entitled to receive all of the remaining assets of the Corporation tangible
+and intangible of whatever kind, available for distribution to Stockholders
+ratably in proportion to the number of shares of Common Stock held by them
+respectively.
+
+4.  Except as may otherwise be required by law and subject to the power of the
+Board of Directors to establish voting rights for the Preferred Stock pursuant
+to Section 4.02 of this Article FOURTH, each holder of Common Stock shall have
+one vote in respect of each share of Common Stock held by him or her on all
+matters voted upon by the Stockholders.
+
+5.  Upon the Effective Time (as defined in Section 9.01, below), 1.92868
+issued and outstanding shares of Common Stock of the Corporation shall
+thereupon be combined and converted into one (1) validly issued, fully paid
+and nonassessable share of Common Stock of the Corporation.  No scrip or
+fractional shares will be issued by reason of such combination and conversion
+and cash in an amount equal to the fair market value at the time thereof of
+any such fractional interest as determined by the Board of Directors shall be
+paid in lieu of any fractional interest.
+
+                                       -7-
+
+<PAGE>
+FIFTH.  BOARD OF DIRECTORS.
+        ------------------
+Section 5.01.  Number, Election and Terms.
+               --------------------------
+The number of Directors which shall constitute the whole Board of Directors of
+the Corporation shall be not less than five and not more than nine.  The exact
+number of Directors within the minimum and maximum limitations specified in
+the preceding sentence shall be fixed from time to time by the Board of
+Directors pursuant to a resolution adopted by a majority of the entire Board
+of Directors.  Upon the effectiveness of this Restated Certificate of
+Incorporation pursuant to the Delaware General Corporation Law, the Board of
+Directors of the Corporation shall be divided into three classes, designated
+Class I, Class II and Class III, which at all times shall be as nearly equal
+in number as possible, as determined by the Board of Directors.  The term of
+office of the initial Class I Directors shall expire at the Annual Meeting of
+Stockholders next succeeding the date on which this Restated Certificate of
+Incorporation becomes effective as provided above, the term of office of the
+initial Class II Directors shall expire at the Annual Meeting of Stockholders
+next succeeding the Annual Meeting at which the term of office of the initial
+Class I Directors expires, and the term of office of the initial Class III
+Directors shall expire at the Annual Meeting of Stockholders next succeeding
+the Annual Meeting at which the term of office of the initial Class II
+Directors expires.  The appointment of 
+
+                                       -8-
+
+<PAGE>
+incumbent Directors to Board of
+Director Classes I, II and III at the time of the effectiveness of this
+Restated Certificate of Incorporation pursuant to the Delaware General
+Corporation Law shall be by a resolution adopted by a majority of the
+Stockholders entitled to vote in an election of directors.  At each Annual
+Meeting of Stockholders following such initial classification and election,
+Directors elected to succeed those whose terms expire at the time of such
+meeting shall be elected to hold office until the third succeeding Annual
+Meeting of Stockholders after their election.  In the event of any increase in
+the number of Directors of the Corporation, the additional Directors shall be
+so classified that all classes of Directors shall be increased equally as
+nearly as possible, and the additional Directors shall be elected by majority
+vote of the Directors then in office.  Each Director shall hold office until
+his or her successor is elected and qualified, or until his or her earlier
+resignation or removal.  Election of Directors of the Corporation need not be
+by written ballot unless the Bylaws so provide.  Directors need not be
+Stockholders.
+
+5.02.  Removal of Directors.
+       --------------------
+Except as may be provided in any provision of this Restated Certificate of
+Incorporation authorizing the issuance of any Preferred Stock or as may be
+provided in any Certificate of Designation authorizing the issuance of any
+Preferred Stock pursuant to Article FOURTH hereof, any Director, or the entire
+Board of Directors, may be removed from office only for cause and only by the
+affirmative vote of the 
+
+                                       -9-
+
+<PAGE>
+holders of a majority of the voting power of all of
+the shares of the Corporation entitled to vote for the election of Directors,
+voting together as a single class.  For purposes of this Section 5.02, and
+except as otherwise provided by law, cause for removal shall be deemed to
+exist only if:
+
+   (1)  the Director whose removal is proposed has been convicted, or where a
+   Director was granted immunity to testify where another has been convicted, 
+   of a felony by a court of competent jurisdiction and such conviction is no 
+   longer subject to appeal;
+
+   (2)  such Director has been adjudicated by a court of competent jurisdiction
+   to be liable for negligence or misconduct, in the performance of his or her
+   duty to the Corporation, in a matter of substantial importance to the
+   Corporation;
+
+   (3)  such Director has become mentally incompetent, whether or not so
+   adjudicated, which mental incompetency directly affects his or her ability 
+   as a Director of the Corporation;
+
+   (4)  such Director becomes disabled and such disability in the opinion of 
+   the Board of Directors renders such Director unable to perform his or her 
+   duties as provided herein or in the Bylaws;
+
+                                       -10-
+                                           
+<PAGE>   
+   (5)  such Director's actions or failure to act are deemed by the Board of
+   Directors to be in derogation of the Director's duties; or
+
+   (6)  such Director is found to be unsuitable to fulfill his or her 
+   obligations as a Director of the Corporation by any regulatory agency 
+   having jurisdiction over the Corporation.
+
+Section 5.03.  Newly Created Directorships and Vacancies.
+               -----------------------------------------
+Except as may be provided in any provision of this Certificate of
+Incorporation authorizing the issuance of any Preferred Stock or as may be
+provided in any Certificate of Designation authorizing the issuance of any
+Preferred Stock pursuant to Article FOURTH hereof, the size of the Board of
+Directors may be increased only by majority vote of the Directors then in
+office.  Newly created directorships resulting from any such increase in the
+authorized number of Directors and any vacancies in the Board of Directors
+resulting from death, resignation, retirement, disqualification, removal from
+office or other cause may be filled only by majority vote of the Directors
+then in office, even though less than a quorum, or by a sole remaining
+Director, and Directors so chosen shall hold office for a term expiring at the
+Annual Meeting of Stockholders at which the term of the class or classes to
+which they have been elected expires.
+
+Section 5.04.  Amendment, Repeal, Etc.
+               ----------------------
+Notwithstanding anything contained in this Restated Certificate of
+Incorporation 
+
+                                       -11-
+
+<PAGE>
+to the contrary, the affirmative vote of the holders of at least
+66 2/3% of the shares of the Corporation then entitled to be voted in an
+election of Directors shall be required to amend or repeal, or to adopt, any
+provision inconsistent with this Article FIFTH.  For purposes of this Section
+5.04, shares not voting shall count as votes against any such proposed
+amendment, repeal or adoption of such inconsistent provision.
+
+Section 5.05.  Preferred Stock Directors.
+               -------------------------
+The terms upon which any Director elected pursuant to special voting rights of
+one or more classes or series of Preferred Stock is elected or removed and the
+voting rights of such Director shall be fixed by the resolution or resolutions
+adopted pursuant to authority granted under Section 4.02 hereof.
+
+SIXTH:  BOARD AUTHORIZED TO AMEND, ETC. BYLAWS.
+        --------------------------------------
+In furtherance and not in limitation of the powers conferred by the laws of
+the State of Delaware, the Board of Directors of the Corporation is authorized
+and empowered to make, alter, amend and repeal the Bylaws of the Corporation
+in any manner not inconsistent with the laws of the State of Delaware.
+
+SEVENTH:  INDEMNIFICATION; LITIGATION EXPENSES.
+          ------------------------------------
+The Corporation shall, to the fullest extent permitted by Section 145 of the
+General Corporation Law of the State of Delaware as presently in effect or as
+it may hereafter be amended, indemnify all persons whom it may indemnify
+pursuant thereto and shall advance expenses 
+
+                                       -12-
+
+<PAGE>
+of litigation to Directors and
+Officers in accordance with the procedures set forth in the Bylaws.
+
+EIGHT:  LIMITATION OF LIABILITY FOR BREACH OF FIDUCIARY DUTY.
+        ----------------------------------------------------
+To the fullest extent permitted by the General Corporation Law of the State of
+Delaware as the same exists or may hereafter be amended, a Director of this
+Corporation shall not be liable to the Corporation or its Stockholders for
+monetary damages for breach of fiduciary duty as a Director.
+
+NINTH:  VOTE REQUIRED FOR CERTAIN BUSINESS COMBINATIONS.
+        ------------------------------------------------
+Section 9.01.  The affirmative vote of the holders of not less than 66 2/3% of
+the outstanding shares of "Voting Stock" (as hereinafter defined) held by
+Stockholders other than an "Interested Stockholder" (as hereinafter defined)
+shall be required for the approval or authorization of any "Business
+Combination" (as hereinafter defined) of the Corporation with any Interested
+Stockholder; provided, however, that such 66 2/3% voting requirement shall not
+be applicable as to Business Combinations with an Interested Stockholder if:
+
+   (1)  The Business Combination is solely between the Corporation and another
+   corporation, 100% of the Voting Stock of which is owned directly or 
+   indirectly by the Corporation;
+ 
+   (2)  The Business Combination is a merger or consolidation and the cash or
+   fair market value  of the property, securities or other consideration to be
+   received 
+   
+                                       -13-
+   
+<PAGE>   
+   per share by holders of Common Stock of the Corporation in the
+   Business Combination is not less than the highest per-share price (with
+   appropriate adjustments for recapitalizations and for stock splits, stock
+   dividends and like distributions), paid by such Interested Stockholder in
+   acquiring any of its holdings of the Corporation's Common Stock; or
+
+   (3)  The Business Combination is approved by the "Continuing Directors" (as
+   hereinafter defined).
+
+For the purposes of this Article NINTH:
+
+   (i)  The term "Business Combination" shall mean (a) any merger or
+   consolidation of the Corporation or a subsidiary with or into an Interested
+   Stockholder, (b) any sale, lease, exchange, transfer or other disposition to
+   an Interested Stockholder, including without limitation a mortgage or any 
+   other security device, of all or any "Substantial Part" (as hereinafter 
+   defined) of the assets either of the Corporation (including without 
+   limitation any voting securities of a subsidiary) or of a subsidiary, (c) 
+   any merger or consolidation of an Interested Stockholder with or into the 
+   Corporation or a subsidiary of the Corporation, (d) any sale, lease, 
+   exchange, transfer or other disposition of all or any Substantial Part of 
+   the assets of an Interested Stockholder to the Corporation or a subsidiary 
+   of the Corporation (unless the assets of the Interested Stockholder being 
+   sold, exchanged, transferred or disposed of consist solely of securities or 
+   
+                                       -14-
+
+<PAGE>
+   debt instruments of the Corporation owned by the Interested Stockholder at 
+   the time of adoption of this Article NINTH by the Stockholders and the 
+   effectiveness thereof pursuant to the Delaware General Corporation Law), 
+   (e) the issuance of any securities of the Corporation or a subsidiary of the 
+   Corporation to an Interested Stockholder, other than (1) securities issued 
+   in consideration of or exchanged for, or issued in conversion of securities 
+   or debt instruments held by the Interested Stockholder, (2) an issuance of 
+   securities to an Interested Stockholder acting as an underwriter or dealer 
+   in an offering of such securities registered under the Securities Act of 
+   1933, as amended, or any successor legislation thereto, or (3) securities 
+   issued in connection with distributions of securities to all holders of 
+   securities of a class on a PRO RATA basis, (f) any recapitalization that 
+   would have the effect of increasing the voting power of an Interested 
+   Stockholder, and (g) any agreement, contract or other arrangement providing 
+   for any of the transactions described in this definition of Business 
+   Combination.
+
+   (ii)  The term "Interested Stockholder" shall mean and include any 
+   individual, corporation, partnership or other person or entity which, 
+   together with its "Affiliates" (as hereinafter defined) and "Associates" 
+   (as hereinafter defined), "Beneficially Owns" (as defined on June 1, 1991 
+   in Rule 13d-3 promulgated under the Securities Exchange Act of 1934) in 
+   
+                                       -15-
+   
+<PAGE>   
+   the 
+   aggregate 5% or more of the outstanding Voting Stock of the Corporation, and 
+   any Affiliate or Associate of any such individual, corporation, partnership 
+   or other person or entity, except that the term Interested Stockholder does 
+   not include any such entity who becomes the beneficial owner in the 
+   aggregate of 5% or more of the outstanding Voting Stock of the Corporation 
+   as a result of repurchases of Voting Stock by the Corporation; provided, 
+   however, that such entity shall be deemed to be an Interested Stockholder 
+   when it purchases any additional shares of Voting Stock after becoming an 
+   Interested Stockholder as a result of such repurchases by the Corporation.
+
+   (iii)  The term "Substantial Part" shall mean more than 20% of the fair 
+   market value of the total assets of the corporation in question, as of the 
+   end of its most recent fiscal year ending prior to the time the 
+   determination is being made.
+
+   (iv)  Without limitation, any shares of Common Stock of the Corporation that
+   any Interested Stockholder has the right to acquire pursuant to any 
+   agreement, or upon exercise of conversion rights, warrants or options or 
+   otherwise, shall be deemed to be Beneficially Owned by the Interested 
+   Stockholder.
+
+   (v)  For the purposes of subparagraph (2) of this Section 9.01, the term
+   "other consideration to be received" shall include, without limitation, 
+   Common Stock of the 
+   
+                                       -16-
+   
+<PAGE>   
+   Corporation retained by its existing public stockholders 
+   in the event of a Business Combination in which the Corporation is the 
+   surviving corporation.
+
+   (vi)  The term "Voting Stock" shall mean all outstanding shares of capital
+   stock of the Corporation or another corporation entitled to vote generally 
+   in the election of Directors and each reference to the proportion of shares 
+   of Voting Stock shall refer to such proportion of the votes entitled to be 
+   cast by such shares.
+
+   (vii)  The term "Affiliate" shall mean any person that directly, or
+   indirectly, through one or more intermediaries, "Controls" (as hereinafter
+   defined), or is Controlled by, or is under common Control with, a 
+   corporation, person or other entity.
+
+   (viii)  The term "Associate" shall mean (a) any corporation or organization
+   (other than the Corporation or a majority-owned subsidiary of the 
+   Corporation) of which such corporation, person or other entity is an officer 
+   or partner or is, directly or indirectly, the Beneficial Owner of 10% or 
+   more of any class of equity securities, (b) any trust or other estate in 
+   which such corporation, person or other entity has a substantial beneficial 
+   interest or as to which such corporation, person or other entity serves as 
+   a trustee or in a similar fiduciary capacity, and (c) any relative or spouse 
+   of such person, or any relative of such spouse, who has the 
+   
+                                       -17-
+   
+<PAGE>   
+   same home as 
+   such person or who is a Director or officer of the Corporation or any of its 
+   subsidiaries.
+
+   (ix)  The term "Control" (including the terms "Controlling", "Controlled by"
+   and "under common Control with") means the possession, directly or 
+   indirectly, of the power to direct or cause the direction of the management 
+   and policies of a corporation, person or other entity, whether through the 
+   ownership of voting securities, by contract, or otherwise.
+
+   (x)  The term "Continuing Director" shall mean, as to any Stockholder who is
+   an Interested Stockholder as of the time of adoption of this Article NINTH 
+   by the Stockholders of the Corporation and the effectiveness thereof 
+   pursuant to the Delaware General Corporation Law (the "Effective Date"), any 
+   Director (other than such Interested Stockholder or an Affiliate, Associate, 
+   nominee, or representative of such Interested Stockholder) who is a member 
+   of the Board of Directors on the Effective Date or whose initial election as 
+   a Director of the Corporation was recommended by the affirmative vote of a 
+   majority of the Directors who are not such Interested Stockholder or an 
+   Affiliate, Associate, nominee or representative of such Interested 
+   Stockholder.  The term "Continuing Director" shall mean, as to any 
+   Stockholder who becomes an Interested Stockholder after the Effective Date, 
+   any Director (other than such Interested Stockholder or an Affiliate, 
+   Associate, nominee, or representative of such 
+   
+                                       -18-
+   
+<PAGE>   
+   Interested Stockholder) who 
+   is a member of the Board of Directors immediately prior to the time such 
+   Interested Stockholder became an Interested Stockholder or whose initial 
+   election as a Director of the Corporation was recommended by the affirmative 
+   vote of a majority of the Directors who are not such Interested Stockholder 
+   or an Affiliate, Associate, nominee or representative of such Interested 
+   Stockholder; provided that, in either such case, such Continuing Director 
+   shall have continued in office after first becoming a Continuing Director.
+
+Section 9.02.  Board of Directors May Exercise Discretion.
+               -------------------------------------------
+Notwithstanding anything contained in this Article NINTH to the contrary, the
+Continuing Directors may waive the provisions of this Article NINTH and
+approve a Business Combination by majority vote of the Continuing Directors
+after evaluating the proposed Business Combination, which evaluation may, but
+is not required to include consideration of any or all of the following:
+
+   (i)  the character, integrity, business philosophy and financial status of 
+   an Interested Stockholder and any other party to the proposed Business
+   Combination;
+
+   (ii)  the consideration to be received by the Corporation or its 
+   Stockholders in connection with the proposed Business Combination, as 
+   compared to:
+
+      (a)  the current market price or value of the Corporation's properties or
+      securities;
+
+                                       -19-
+
+<PAGE>                                           
+      (b)  the estimated future value of the Corporation, its properties or
+      securities; and
+
+      (c)  such other measures of the value of the Corporation, its properties 
+      or securities as the Continuing Directors, in their discretion, may deem
+      appropriate;
+
+   (iii)  the projected social, legal and economic effects of the proposed
+   Business Combination upon the Corporation, its employees, suppliers, and
+   customers and the communities in which the Corporation or its subsidiaries 
+   do business;
+
+   (iv)  the general desirability of the continuance of the Corporation as an
+   independent entity; and
+
+   (v)  such other factors as the Continuing Directors may, in their 
+   discretion, deem relevant.
+
+Section 9.03.  Board of Directors has Authority to Interpret, Etc.
+               -------------------------------------------------
+The Board of Directors shall have the power to make any and all determinations
+provided for in this Article NINTH and to interpret all provisions thereof. 
+All such determinations and interpretations by the Board of Directors shall be
+final and legally binding.
+
+Section 9.04.  Amendment, Repeal, Etc.
+               ----------------------
+Notwithstanding anything contained in this Restated Certificate of
+Incorporation to the contrary, the affirmative vote of the holders of at least
+66 2/3% of the shares of the Corporation then entitled to be voted 
+
+                                       -20-
+
+<PAGE>                                           
+in an
+election of Directors shall be required to amend or repeal or to adopt any
+provision inconsistent with this Article NINTH.  For purposes of this Section
+9.02, shares not voting shall count as votes against any such proposed
+amendment, repeal or adoption of such inconsistent provision.
+
+TENTH:  COMPROMISES OR ARRANGEMENTS WITH CREDITORS OR STOCKHOLDERS.
+        -----------------------------------------------------------
+Whenever a compromise or arrangement is proposed between this Corporation and
+its creditors or any class of them and/or between this Corporation and its
+Stockholders or any class of them, any court of equitable jurisdiction within
+the State of Delaware may, on the application in a summary way of this
+Corporation or of any creditor or Stockholder thereof or on the application of
+any receiver or receivers appointed for this Corporation under the
+provisions of Section 291 of Title 8 of the Delaware Code or on the application
+of trustees in dissolution or of any receiver or receivers appointed for this
+Corporation under the provisions of Section 279 of Title 8 of the Delaware
+Code order a meeting of the creditors or class of creditors, and/or of the
+Stockholders or class of Stockholders of this Corporation, as the case may be,
+to be summoned in such manner as the said court directs.  If a majority in 
+number representing three-fourths in value of the creditors or class of 
+creditors, and/or of the Stockholders or class of Stockholders of this 
+Corporation, as the case may be, agree to any compromise or arrangement and to 
+any reorganization of this Corporation as consequence of such 
+
+                                       -21-
+
+<PAGE>
+compromise or 
+arrangement, the said compromise or arrangement and the said reorganization 
+shall, if sanctioned by the court to which the said application has been made, 
+be binding on all the creditors or class of creditors, and/or on all the 
+Stockholders or class of Stockholders, of this Corporation, as the case may 
+be, and also on this Corporation.
+
+ELEVENTH:  STOCKHOLDERS.
+           ------------
+Section 11.01.  Annual Stockholder Meetings.
+                ---------------------------
+Annual Meetings of the Stockholders shall be held at such times and upon such
+notice as may be provided in the Bylaws.
+
+Section 11.02.  Special Stockholder Meetings Called Only by Board of
+Directors.      ----------------------------------------------------
+- - ----------
+Special meetings of the Stockholders of the Corporation may be called only by
+the Board of Directors, and the power of the Stockholders or any of them to
+call special meetings of the Stockholders is specifically denied.
+
+Section 11.03.  No Stockholder Action by Written Consent.
+                ----------------------------------------
+No action required to be taken or which may be taken at any Annual or Special
+Meeting of the Stockholders of the Corporation may be taken without a meeting,
+and the power of Stockholders to consent in writing to the taking of any
+action is specifically denied.
+
+Section 11.04.  Nominations for Director by Stockholders.
+                ----------------------------------------
+Nominations for the election of Directors at a meeting of the Stockholders may
+be made by persons other than the Board of Directors only if notice of intent
+to make such nomination or nominations, including the name or names of the
+nominees, is given 
+
+                                       -22-
+
+<PAGE>
+in writing to the Board of Directors at least 60 days
+prior to the date of such meeting in accordance with the procedures set forth
+in the Bylaws.
+
+Section 11.05.  Amendment, Repeal, Etc.
+                -----------------------
+Notwithstanding anything contained in this Restated Certificate of
+Incorporation to the contrary, the affirmative vote of the holders of at least
+66 2/3% of the shares of the Corporation then entitled to be voted in an
+election of Directors shall be required to amend or repeal or to adopt any
+provision inconsistent with this Article ELEVENTH.  For purposes of this
+Section 11.05, shares not voting shall count as votes against any such
+proposed amendment, repeal or adoption of such inconsistent provision.
+
+TWELFTH:  RIGHT TO AMEND, ETC.
+          -------------------
+The Corporation reserves the right to amend, alter, change or repeal any
+provision contained in this Certificate in the manner now or hereafter
+prescribed by law, and all rights and powers conferred herein on Stockholders,
+Directors and Officers are subject to this reserved power.
+
+IN WITNESS WHEREOF, I have executed, signed and acknowledged this Restated
+Certificate of Incorporation this 20th day of July, 1991.
+
+
+ATTEST:/s/ Ray Sandy Sutton              /s/ Charles A. Sullivan    
+       --------------------              -----------------------
+       Ray Sandy Sutton                  Charles A. Sullivan
+       Secretary                         President
+
+                                       -23-
+
+<PAGE>
+STATE OF KANSAS    )
+                   )  ss
+COUNTY OF JOHNSON  )
+
+On this 20th day of July, 1991, before me, Linda L. Thompson, a Notary Public
+in and for the County and State aforesaid, personally appeared Charles A. 
+Sullivan, known to me to be the person who executed the within Restated 
+Certificate of Incorporation, and acknowledged to me that he executed the same
+for the purposes therein stated.
+
+
+                                       /s/ Linda L. Thompson
+                                       ---------------------
+                                           Notary Public
+
+
+[NOTARIAL SEAL]
+
+              LINDA L. THOMPSON
+              My Appt. Exp. 4/21/97
+
+
+
+STATE OF KANSAS    )
+                   ) ss
+COUNTY OF JOHNSON  )
+
+On this 20th day of July, 1991, before me, Linda L. Thompson, a Notary Public 
+in and for the County and State aforesaid, personally appeared Ray Sandy 
+Sutton, known to me to be the person who executed the within Restated 
+Certificate of Incorporation, and acknowledged to me that he executed the same 
+for the purposes therein stated.
+
+
+                                       /s/ Linda L. Thompson
+                                       ---------------------
+                                           Notary Public
+
+
+[NOTARIAL SEAL]
+
+              LINDA L. THOMPSON
+              My Appt. Exp. 4/21/97
+
+                                       -24-
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>3
+<DESCRIPTION>STATEMENT OF EARNINGS PER SHARE COMPUTATION
+<TEXT>
+
+                                                         EXHIBIT 11.1
+
+                     INTERSTATE BAKERIES CORPORATION
+          STATEMENT REGARDING COMPUTATION OF PER SHARE EARNINGS
+
+
+                                 (In Thousands, Except Per Share Data)
+                                             52 Weeks Ended
+                                  ------------------------------------
+                                  May 28,        May 29,       May 30, 
+                                   1994           1993          1992
+                                  -------        -------       -------
+Income before extraordinary
+ charge and cumulative
+ effect of accounting change      $15,754        $30,784       $25,780
+Adjustment for accrued dividends
+ on preferred stock                     -              -         2,075
+                                  -------        -------       -------
+
+Income before extraordinary
+ charge and cumulative
+ effect of accounting change
+ as adjusted                       15,754         30,784        27,855
+Extraordinary charge                    -              -        10,176
+Cumulative effect of change
+ in accounting for 
+ postretirement benefits
+ other than pensions                    -         14,121             -
+                                  -------        -------       -------
+Net income as adjusted            $15,754        $16,663       $17,679
+                                  =======        =======       =======
+
+Weighted average common shares
+ outstanding                       20,252         20,980        18,593
+Dilutive stock options                 54            152           142
+                                  -------        -------       -------
+Weighted average common and
+ equivalent shares outstanding     20,306         21,132        18,735
+                                  =======        =======       =======
+
+Per share:
+  Income before extraordinary
+   charge and cumulative
+   effect of accounting change      $ .78          $1.46         $1.49
+  Extraordinary charge                  -              -          (.55)
+  Cumulative effect of 
+   accounting change                    -           (.67)            -
+                                  -------        -------       -------
+  Net income                        $ .78          $ .79         $ .94
+                                  =======        =======       =======
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>4
+<DESCRIPTION>PORTIONS OF THE ANNUAL REPORT TO STOCKHOLDERS
+<TEXT>
+
+                                                               EXHIBIT 13.1
+PROFILE
+- - -------
+
+IBC is the largest independent and third largest baker and distributor of fresh 
+bakery products in the United States.  The Company has two major divisions - 
+the Bread Division with established regional recognition and the Cake Division 
+with a national distribution presence.  The Company also sells dry products, 
+primarily in the western United States.
+
+The IBC product line is marketed under a number of well-known brands which 
+include Dolly Madison, Butternut, Merita, Mickey, Weber's, Millbrook, Eddy's, 
+Holsum, Sweetheart, Sunbeam, Cotton's Holsum, Mrs. Karl's and Mrs. Cubbison's.
+In addition, the Company is the nation's largest franchisee of Roman Meal and 
+Sun Maid bread.
+
+The Company operates 31 bakeries throughout the United States and employs 
+over 14,000 people.  From these geographically dispersed bakeries, the 
+Company's driver-salesmen deliver baked goods to more than 100,000 food 
+outlets on approximately 4,000 delivery routes.  The Company's products 
+are distributed throughout the United States, primarily through its direct 
+route system and 790 company-operated thrift stores, and to some extent 
+through distributors.
+
+
+COMMON STOCK INFORMATION
+- - ------------------------
+
+The Company's common stock is listed on the New York Stock Exchange and is
+traded under the symbol IBC.  The table below presents the high and low sales
+prices for the stock and cash dividends paid during fiscal 1994 and 1993:
+
+
+                               Stock Price
+        Fiscal              ------------------    Cash
+         Year     Quarter     High       Low    Dividends
+        ------    -------   --------   -------  ---------
+
+         1994        1      $17.500    $15.125     $.12
+                     2       16.500     14.125      .125
+                     3       15.250     13.625      .125
+                     4       13.875     11.750      .125
+
+  
+         1993        1       18.250     14.375      .11
+                     2       21.125     16.625      .12
+                     3       20.000     16.000      .12
+                     4       18.125     16.000      .12
+
+
+The Company had approximately 3,500 shareholders at May 28, 1994.
+
+                          [Inside Front Cover]
+
+<PAGE>
+                            INTERSTATE BAKERIES CORPORATION
+                          FIVE-YEAR SUMMARY OF FINANCIAL DATA
+
+<TABLE>
+<CAPTION>
+                                                    (In Thousands, Except Per Share Data)
+                                                              52 Weeks Ended                        53 Weeks
+                                        -------------------------------------------------------       Ended
+                                          May 28,        May 29,        May 30,        June 1,       June 2,
+                                           1994           1993           1992           1991          1990
+                                        ----------     ----------     ----------     ----------    ----------
+<S>                                     <C>            <C>            <C>            <C>           <C>
+Statement of Operations
+  Net sales                             $1,142,684     $1,165,588     $1,145,875     $1,106,723    $1,093,424
+  Operating income                          46,883<F1>     71,344         73,615         61,830        48,917
+    % of net sales                            4.1%           6.1%           6.4%           5.6%          4.5%
+  Income (loss) before extraordinary
+   charge and cumulative effect  
+   of accounting change                 $   15,754<F1> $   30,784     $   25,780     $   (8,035)   $  (17,135)
+    % of net sales                            1.4%           2.6%           2.2%           (.7%)        (1.6%)
+  Net income (loss)                     $   15,754<F1> $   16,663<F2> $   15,604<F3> $   (8,035)   $  (17,135)
+
+Per share:
+  Income (loss) before extraordinary 
+   charge and cumulative effect 
+   of accounting change                        .78<F1>       1.46           1.49          (1.70)        (3.72)
+  Net income (loss)                            .78<F1>        .79<F2>        .94<F3>      (1.70)        (3.72)
+  Common stock dividends                       .495           .47            .33              -             -
+Weighted average common
+ shares outstanding                         20,306         21,132         18,735          4,822         4,740
+
+Balance Sheet
+  Total assets                          $  574,791     $  586,756     $  573,609     $  584,803    $  591,125
+  Long-term debt, excluding 
+   current maturities                      201,235        189,238        211,124        350,567       362,508
+  Minority interest - redeemable 
+   preferred stocks                              -              -              -         90,080        82,535
+  Stockholders' equity (deficit)           187,441        202,315        194,608        (49,865)      (41,852)
+  Debt to total capital                      51.8%          48.3%          52.0%          89.5%         89.8%
+
+<FN>
+<F1> Fiscal 1994 includes a charge of $9,400,000, $5,687,000 net of tax ($.28 per share), related to a plant 
+disposal and environmental matters.
+
+<F2> Fiscal 1993 includes a charge of $14,121,000 ($.67 per share) for the cumulative effect of the change 
+in accounting for postretirement benefits other than pensions, from adopting SFAS No. 106.
+
+<F3> Fiscal 1992 includes an extraordinary charge of $10,176,000 ($.55 per share) related to additional 
+interest payments and the write-off of unamortized deferred financing charges in connection with the 
+retirement of debt.
+</TABLE>
+
+                                       13
+
+<PAGE>
+                   MANAGEMENT'S DISCUSSION AND ANALYSIS
+            OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+Results of Operations
+- - --------------------------------------------------------
+
+Fiscal 1994 Compared With Fiscal 1993
+
+Net sales for the fiscal year ended May 28, 1994 were $1,142,684,000, down
+$22,904,000 and 2.0% from the prior year's net sales of $1,165,588,000. 
+The Company's withdrawal from the California cake market through the sale
+of its Los Angeles cake operation accounted for the majority of the actual
+net sales decline.  Bread Division net sales were $779,550,000, an
+$11,584,000 and 1.5% increase from net sales of $767,966,000 in fiscal
+1993.  This increase was attributable to higher selling prices and the
+acquisition of the Tampa bread bakery, offset somewhat by a slight unit
+volume decline in private label business.  Cake Division net sales for
+fiscal 1994 were down $38,809,000, or 10.0%, to $347,371,000 from the prior
+year's $386,180,000.  While the Los Angeles sale was the main factor in
+this decline, cake volume related to ongoing business has also decreased
+somewhat.
+
+Gross profit for fiscal 1994 was $561,458,000 (49.1% of net sales) compared
+to $575,584,000 (49.4% of net sales) for fiscal 1993, a 2.5% decline.  This
+unfavorable comparison reflects the negative impact of unit volume declines
+on overhead absorption.  Higher commodity costs during the latter half of
+the year were essentially offset by higher selling prices.
+
+Selling, delivery and administrative expenses increased $1,005,000 to
+$473,607,000 (41.4% of net sales) for fiscal 1994 compared to $472,602,000
+(40.5% of net sales) last year against a lower net sales base in fiscal
+1994.  These unfavorable variances were attributable to higher labor and
+labor related costs, combined with lower unit volume to absorb these and
+other costs, and higher delivery costs associated with a two-month
+transport drivers strike at one bakery.
+
+Fiscal 1994 reflects $9,400,000 ($5,687,000 after tax, or $.28 per share)
+of other charges, which includes costs related to a plant disposal of
+$6,700,000 and environmental matters of $2,700,000.  After these other
+charges, operating income for fiscal 1994 was $46,883,000 (4.1% of net
+sales), a decrease of $24,461,000, or 34.3%, from the $71,344,000 (6.1% of
+net sales) reported for fiscal 1993.
+
+Interest expense for fiscal 1994 of $14,745,000 was down $2,643,000, or
+15.2%, from fiscal 1993's $17,388,000.  The Company benefitted from
+somewhat lower interest rates related to the renegotiation of its bank
+credit agreement in November 1993, as well as generally lower market
+interest rates during most of the year.
+
+The Company's effective tax rate of 51.2% for fiscal 1994 reflects the
+passage of the Omnibus Budget Reconciliation Act of 1993 during the first
+quarter of the year.  The increase in the corporate tax rate provided for
+in the Act raised the fiscal 1994 provision for income taxes by $1,131,000,
+or $.06 per share.  Approximately $800,000 of this increase relates to the
+cumulative adjustment of the Company's net deferred tax liability at May
+29, 1993 and the additional current taxes attributable to the fiscal year
+ended May 29, 1993.  Non-deductible goodwill amortization was also
+responsible for the higher effective rates in fiscal 1994 and 1993.
+
+Income before the cumulative effect of an accounting change was
+$15,754,000, or $.78 per share, in fiscal 1994 compared to $30,784,000, or
+$1.46 per share, the prior year.  During fiscal 1993, the Company incurred
+a one-time, noncash charge of $14,121,000 ($.67 per share), net of an
+income tax benefit of $8,655,000, representing the cumulative effect of
+adopting Statement of Financial Accounting Standards (SFAS) No. 106.  Net
+income was $15,754,000, or $.78 per share, for fiscal 1994 compared to
+$16,663,000, or $.79 per share, for fiscal 1993.
+
+Fiscal 1993 Compared With Fiscal 1992
+
+Net sales for fiscal 1993, which ended May 29, 1993, were $1,165,588,000
+representing an increase of $19,713,000, or 1.7%, over net sales of
+$1,145,875,000 in fiscal 1992.  This increase resulted from modest selling
+price increases during the year, offset somewhat by an overall slight unit
+volume decline.  Bread Division net sales were up $21,873,000, or 2.9%, to
+$767,966,000 from $746,093,000 in fiscal 1992.  Bread Division unit volume
+was steady with the net sales gain reflecting moderate price increases
+implemented to cover cost increases.  Cake Division net sales, at
+$386,180,000, were down 1.1% from fiscal 1992's $390,285,000 due to a unit
+volume decline, primarily in the West.
+
+Fiscal 1993's gross profit of $575,584,000 (49.4% of net sales) represented
+an increase of 2.1% over fiscal 1992's gross profit of $563,714,000 (49.2%
+of net sales).  Higher selling prices were utilized to offset moderate
+ingredient 
+
+                                       14
+
+<PAGE>
+and labor cost increases, which, along with production
+efficiencies, slightly improved margins.
+
+Selling, delivery and administrative expenses were $472,602,000 (40.5% of
+net sales) for fiscal 1993, an increase of 3.1% from $458,544,000 (40.0% of
+net sales) for fiscal 1992.  This unfavorable variance resulted from higher
+labor and labor related costs during fiscal 1993.
+
+Operating income for fiscal 1993 was $71,344,000 (6.1% of net sales), down
+$2,271,000, or 3.1%, from fiscal 1992's $73,615,000 (6.4% of net sales). 
+This decrease reflects the factors noted above, as well as the incremental
+noncash charge for the change in accounting for postretirement benefits
+required by SFAS No. 106 adopted by the Company during fiscal 1993.
+
+Interest expense decreased $7,644,000, or 30.5%, to $17,388,000.  This
+reduction reflects lower interest rates and a continued deleveraging
+subsequent to the first quarter of fiscal 1992 initial public offering of
+common stock.  Proceeds from the offering were used to reduce debt and
+redeem the minority interest - redeemable preferred stocks.
+
+The fiscal 1993 effective tax rate of 43.0% reflects the non-deductibility
+of goodwill amortization, while the fiscal 1992 rate of 37.8% reflects this
+amortization, offset by utilization of investment tax credit carryforwards. 
+The adoption of SFAS No. 109 in fiscal 1993 had no impact on results of
+operations.
+
+Income before extraordinary charge and cumulative effect of accounting
+change was $30,784,000, or $1.46 per share (including an approximate $.03
+per share incremental charge for SFAS No. 106), compared to $25,780,000, or
+$1.49 per share, for fiscal 1992.  During fiscal 1993, the Company incurred
+a one-time, noncash charge of $14,121,000 ($.67 per share), net of an
+income tax benefit of $8,655,000, representing the cumulative effect of
+adopting SFAS No. 106.  In fiscal 1992, the Company incurred an
+extraordinary charge of $10,176,000, or $.55 per share, net of an income
+tax benefit of $6,184,000, related to additional interest payments and the
+write-off of unamortized deferred financing charges in connection with the
+retirement of debt.
+
+Net income was $16,663,000, or $.79 per share, for fiscal 1993, compared to
+$15,604,000, or $.94 per share, for fiscal 1992.
+
+
+
+Capital Resources and Liquidity
+
+The Company's primary source of liquidity is cash provided by operations
+which totaled $53,087,000 for fiscal 1994, a decline of $4,055,000 from the
+prior year's $57,142,000.  This decline primarily reflects lower operating
+profits, offset to some extent by more favorable changes in working
+capital.  Cash generated by operations during fiscal 1994,  along with a
+net $4,281,000 increase in bank borrowings, was used to fund net capital
+purchases of $24,867,000, to pay common stock dividends of $10,009,000 and
+to repurchase common stock of $20,621,000 under the Company's share
+repurchase program.
+
+For fiscal 1995, the Company anticipates cash needs of approximately
+$33,000,000 to fund $22,000,000 of planned capital expenditures, $9,700,000
+of common stock dividends and $1,300,000 of required principal reductions
+on debt.  The Company expects these needs to be funded by ongoing
+operations.  At May 28, 1994, the Company also had unused borrowing capacity
+of $66,000,000 under its bank credit facility.  During fiscal 1995, the
+Company may use its excess cash from operations and available borrowing
+capacity to repurchase up to 600,000 shares of common stock, reduce its
+revolving credit borrowings and fund acquisitions.  In June 1994, the
+Company acquired Fuchs Baking Co. of Miami, Florida.  This acquisition,
+which has annual sales of approximately $50,000,000, was financed through
+borrowings on the revolving credit facility.
+
+Inflation
+
+Inflation is not expected to have a significant impact on the Company's
+results of operations.  The Company has generally been able to offset
+inflationary price increases with production efficiencies and higher
+selling prices.
+
+                                       15
+
+<PAGE>
+                                    INTERSTATE BAKERIES CORPORATION
+                                      CONSOLIDATED BALANCE SHEET
+<TABLE>
+<CAPTION>
+                                                                         (In Thousands)
+                                                                      May 28,     May 29,
+                                                                       1994        1993
+                                                                     --------    --------
+<S>                                                                  <C>         <C>
+Assets
+  Current assets:
+    Cash and cash equivalents                                        $  5,046    $  4,603
+    Accounts receivable, less allowance for 
+     doubtful accounts of $1,645,000            
+     ($1,511,000 in 1993)                                              71,734      71,258
+    Inventories                                                        21,020      22,330
+    Other current assets                                               17,106      20,545
+                                                                     --------    --------
+      Total current assets                                            114,906     118,736
+                                                                     --------    --------
+  Property and equipment:
+    Land and buildings                                                 91,540      97,024
+    Machinery and equipment                                           224,922     232,423
+                                                                     --------    --------
+                                                                      316,462     329,447
+    Less accumulated depreciation                                    (101,022)   (109,062)
+                                                                     --------    --------
+      Net property and equipment                                      215,440     220,385
+                                                                     --------    --------
+  Excess of purchase cost over net assets acquired                    240,249     242,407
+  Other assets                                                          4,196       5,228
+                                                                     --------    --------
+                                                                     $574,791    $586,756
+                                                                     ========    ========
+Liabilities and Stockholders' Equity
+  Current liabilities:
+    Note payable                                                     $      -    $  5,000
+    Long-term debt payable within one year                              1,263       3,979
+    Accounts payable                                                   47,848      41,871
+    Accrued expenses                                                   58,182      67,056
+                                                                     --------    --------
+      Total current liabilities                                       107,293     117,906
+                                                                     --------    --------
+  Long-term debt:
+    Related party                                                      79,000      79,000
+    Other                                                             122,235     110,238
+  Other liabilities                                                    43,409      36,993
+  Deferred income taxes                                                35,413      40,304
+                                                                     --------    --------
+      Total long-term liabilities                                     280,057     266,535
+                                                                     --------    --------
+  Stockholders' equity:
+    Preferred stock, par value $.01 per share; 
+     authorized - 1,000,000 shares; issued - none                           -           -
+    Common stock, par value $.01 per share; 
+     authorized - 40,000,000 shares; 
+     issued - 21,050,000 shares (21,040,000 in 1993)                      211         210
+    Additional paid-in capital                                        261,064     261,063
+    Accumulated deficit                                               (53,091)    (58,836)
+    Treasury stock, at cost - 1,400,000 shares 
+     (7,000 in 1993)                                                  (20,743)       (122)
+                                                                     --------    --------
+      Total stockholders' equity                                      187,441     202,315
+                                                                     --------    --------
+                                                                     $574,791    $586,756
+                                                                     ========    ========
+                                                       See accompanying notes.
+</TABLE>
+
+                                       16
+
+<PAGE>
+                                          INTERSTATE BAKERIES CORPORATION
+                                          CONSOLIDATED STATEMENT OF INCOME
+<TABLE>
+<CAPTION>
+                                                      (In Thousands, Except Per Share Data)              
+                                                                  52 Weeks Ended
+                                                      ---------------------------------------
+                                                        May 28,        May 29,       May 30,
+                                                         1994           1993          1992
+                                                      ----------     ----------    ----------
+<S>                                                   <C>            <C>           <C>
+Net sales                                             $1,142,684     $1,165,588    $1,145,875
+                                                      ----------     ----------    ----------
+Cost of products sold                                    581,226        590,004       582,161
+Selling, delivery and administrative expenses            473,607        472,602       458,544
+Other charges                                              9,400              -             -
+Depreciation and amortization                             31,568         31,638        31,555
+                                                      ----------     ----------    ----------
+                                                       1,095,801      1,094,244     1,072,260
+                                                      ----------     ----------    ----------
+Operating income                                          46,883         71,344        73,615
+                                                      ----------     ----------    ----------
+Other income                                                (144)           (53)         (522)
+Interest expense                                          14,745         17,388        25,032
+                                                      ----------     ----------    ----------
+                                                          14,601         17,335        24,510
+                                                      ----------     ----------    ----------
+Income before income taxes and 
+ minority interest                                        32,282         54,009        49,105
+Provision for income taxes                                16,528         23,225        18,561
+Minority interest                                              -              -         4,764
+                                                      ----------     ----------    ----------
+Income before extraordinary charge 
+ and cumulative effect of accounting change               15,754         30,784        25,780
+Extraordinary charge                                           -              -       (10,176)
+Cumulative effect of change in accounting for 
+ postretirement benefits other than pensions                   -        (14,121)             -
+                                                      ----------     ----------    ----------
+Net income                                            $   15,754     $   16,663    $   15,604
+                                                      ==========     ==========    ==========
+Per share:
+  Income before extraordinary charge 
+   and cumulative effect of accounting change         $      .78     $     1.46    $     1.49
+  Extraordinary charge                                         -              -          (.55) 
+  Cumulative effect of accounting change                       -           (.67)            -
+                                                      ----------     ----------    ----------
+  Net income                                          $      .78     $      .79    $      .94
+                                                      ==========     ==========    ==========
+                                                   See accompanying notes.
+</TABLE>
+
+                                       17
+
+<PAGE>
+                     INTERSTATE BAKERIES CORPORATION
+                  CONSOLIDATED STATEMENT OF CASH FLOWS
+<TABLE>
+<CAPTION>
+                                                            (In Thousands)
+                                                            52 Weeks Ended
+                                                    -------------------------------
+                                                     May 28,     May 29,    May 30,
+                                                      1994        1993       1992
+                                                    --------    --------   --------
+<S>                                                 <C>         <C>        <C>
+Cash flows from operating activities:
+  Net income                                        $ 15,754    $ 16,663   $  15,604
+  Extraordinary charge                                     -           -      10,176
+  Cumulative effect of accounting change                   -      14,121           -
+  Depreciation and amortization                       31,568      31,638      31,555
+  Deferred taxes and other                             4,389       5,730       2,425
+  Minority interest                                        -           -       4,764
+  Change in operating assets                        
+   and liabilities:
+    Accounts receivable                                 (476)      1,697      (5,540)
+    Inventories                                        1,310         586        (749)
+    Other current assets                               3,439         369        (928)
+    Accounts payable and accrued expenses             (2,897)    (13,662)     (3,396)
+                                                    --------    --------   ---------
+    Cash from operating activities                    53,087      57,142      53,911
+                                                    --------    --------   ---------
+Cash flows from investing activities:
+  Additions to property and equipment                (31,163)    (30,590)    (23,477)
+  Sale of assets                                       6,296         416         314
+  Other                                               (1,430)        101          62
+                                                    --------    --------   ---------
+    Cash from investing activities                   (26,297)    (30,073)    (23,101)
+                                                    --------    --------   ---------
+Cash flows from financing activities:
+  Reduction of long-term debt                         (6,719)    (20,705)   (310,539)
+  Addition to long-term debt                          16,000           -     155,000
+  Addition (reduction) of note payable                (5,000)      5,000           -
+  Common stock dividends paid                        (10,009)     (9,861)     (6,902)
+  Acquisition of treasury stock                      (20,621)       (122)          -
+  Issuance of common stock                                 2       1,027     234,047
+  Retirement of minority interest - 
+   redeemable preferred stocks                             -           -     (98,918)
+  Other                                                    -           -      (2,392)
+                                                    --------    --------   ---------
+    Cash from financing activities                   (26,347)    (24,661)    (29,704)
+                                                    --------    --------   ---------
+Change in cash and cash equivalents                      443       2,408       1,106
+Cash and cash equivalents:
+  Beginning of period                                  4,603       2,195       1,089
+                                                    --------    --------   ---------
+  End of period                                     $  5,046    $  4,603   $   2,195
+                                                    ========    ========   =========
+                                           See accompanying notes.
+</TABLE>
+
+                                       18
+
+<PAGE>
+                                  INTERSTATE BAKERIES CORPORATION
+                           CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY
+<TABLE>
+<CAPTION>
+                                                           (In Thousands)
+                                     Common 
+                                  Stock Issued                                 Treasury Stock
+                                 --------------                              ------------------ 
+                                 Number           Additional                  Number
+                                   of      Par     Paid-in     Accumulated      of   
+                                 Shares   Value    Capital       Deficit      Shares     Cost       Other
+                                 ------   -----   ----------   -----------   --------  --------    -------
+
+<S>                              <C>       <C>     <C>           <C>         <C>       <C>         <C>
+Balance June 1, 1991              4,765    $ 48    $ 26,522      $(74,340)        -    $      -    $(2,095)
+Net income                            -      -            -        15,604         -           -          -
+Shares issued:
+  Public offering                15,625     156     233,433             -         -           -          -
+  Employee benefit plans            464       5       7,585             -         -           -          -
+  Exercise of employee 
+   stock options                      8       -           1             -         -           -          -
+Dividends paid -                                
+ $.33 per share                       -       -           -        (6,902)        -           -          - 
+Accretion adjustment
+ on preferred stock
+ redemption                           -       -      (8,303)            -         -           -          -
+Reclassification/other               59       -         799             -         -           -      2,095 
+                                 ------    ----    --------      --------    ------    --------    -------
+
+Balance May 30, 1992             20,921     209     260,037       (65,638)        -           -          -
+Net income                            -       -           -        16,663         -           -          -
+Shares issued - exercise                  
+ of employee stock 
+ options                            119       1       1,026             -         -           -          -
+Dividends paid -
+ $.47 per share                       -       -           -        (9,861)        -           -          -
+Treasury stock acquired               -       -           -             -        (7)       (122)         -
+                                 ------    ----    --------      --------    ------    --------    -------
+
+Balance May 29, 1993             21,040     210     261,063       (58,836)       (7)       (122)         -
+Net income                            -       -           -        15,754         -           -          - 
+Shares issued - exercise 
+ of employee stock
+ options                             10       1           1             -         -           -          -
+Dividends paid -
+ $.495 per share                      -       -           -       (10,009)        -           -          -
+Treasury stock acquired               -       -           -             -    (1,393)    (20,621)         -
+                                 ------    ----    --------      --------    ------    --------    -------
+Balance May 28, 1994             21,050    $211    $261,064      $(53,091)   (1,400)   $(20,743)   $     -
+                                 ======    ====    ========      ========    ======    ========    =======
+                                                    See accompanying notes.
+</TABLE>
+
+                                       19
+
+<PAGE>
+               INTERSTATE BAKERIES CORPORATION
+          NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                               
+
+1.  Description of Business and Significant Accounting Policies
+
+Description of business - Interstate Bakeries Corporation (the "Company") is
+the largest independent and third largest baker and distributor of fresh
+bakery products in the United States. 
+
+Fiscal year end - The Company has a 52-53 week year that ends on the Saturday 
+closest to the last day of May.
+
+Principles of consolidation - The consolidated financial statements include 
+the accounts of the Company and its subsidiaries.  All significant 
+intercompany accounts and transactions have been eliminated.
+
+Inventories - Inventories are stated at the lower of cost or market.  
+Specific invoiced costs are used with respect to ingredients and average 
+costs are used for other inventory items.
+
+The components of inventories are as follows:
+
+                                      (In Thousands)
+                                    May 28,    May 29,
+                                     1994       1993
+                                   --------   --------
+    Ingredients and packaging       $13,384    $14,208
+    Finished goods                    5,907      6,497
+    Other                             1,729      1,625
+                                    -------    -------
+                                    $21,020    $22,330
+                                    =======    =======
+                                  
+Property and equipment - Property and equipment are recorded at cost and 
+depreciated over estimated useful lives of 4 to 35 years, using the 
+straight-line method for financial reporting purposes and accelerated methods 
+for tax purposes.  Interest cost capitalized as part of the construction 
+cost of capital assets was $903,000 and $314,000 in fiscal 1994 and 1993, 
+respectively.
+
+Excess of purchase cost over net assets acquired - Excess of purchase cost 
+over net assets acquired is amortized over 40 years using the straight-line 
+method.  Accumulated amortization as of May 28, 1994 and May 29, 1993 was 
+$46,091,000 and $39,017,000, respectively.
+
+Interest rate swap agreements - The differential to be paid or received is 
+accrued as interest rates change and is recognized over the term of the 
+agreements.
+
+Statement of cash flows - For purposes of the statement of cash flows, the 
+Company considers all investments purchased with a maturity of three months 
+or less to be cash equivalents.
+
+Earnings per share - Per share amounts are calculated on the basis of the 
+weighted average common shares outstanding and outstanding options to the 
+extent they are dilutive.  The calculation for fiscal 1992 gives effect to 
+the preferred dividend requirements related to preferred stocks.  Weighted 
+average common and common equivalent shares outstanding were 20,306,000, 
+21,132,000 and 18,735,000 for fiscal 1994, 1993 and 1992, respectively.
+
+
+2.  Debt
+
+Long-term debt consists of the following:
+
+                                      (In Thousands)
+                                    May 28,    May 29,
+                                     1994       1993
+                                   --------   --------
+     Bank borrowings:
+       Revolving credit loans (a)  $121,000   $  5,000
+       Term loans (a)                     -    105,000   
+     Senior notes (b)                79,000     79,000
+     Other                            2,498      4,217
+                                   --------   --------
+                                    202,498    193,217
+     Less amounts payable
+      within one year                (1,263)    (3,979)
+                                   --------   --------
+                                   $201,235   $189,238
+                                   ========   ========
+
+(a)  During fiscal 1994, the Company renegotiated its bank credit agreement,
+replacing the previous debt agreement with a $210,000,000 bank revolving
+credit facility.  The new facility, which consists of a combination of
+revolving loans and up to $60,000,000 in letters of credit (with availability
+of $37,000,000 at May 28, 1994), matures during fiscal 1999.  The outstanding
+borrowings, which are unsecured, bear interest at variable rates generally
+equal to the London Interbank Offered Rate (LIBOR) plus from .35% to 1.00%
+(.50% at May 28, 1994), depending upon certain financial ratios.  The Company
+also pays a fee of between .15% and .35% (.225% at May 28, 1994) on the
+unused portion of the facility.
+
+To offset the variable rate characteristic of a portion of these bank
+borrowings, the Company entered into interest rate swap agreements with major
+banks resulting in fixed interest rates of 6.84% on $21,000,000 through May
+1996, 5.34% on $30,000,000 through July 1995, 5.27% on $30,000,000 through
+January 1995 and 4.97% on $25,000,000 through July 1994.  The overall weighted
+average interest rate on the bank borrowings was 5.73% and 6.16% at May 28,
+1994 and May 29, 1993, respectively.
+
+The new credit facility agreement contains covenants which, among other
+matters (i) limit the Company's ability to incur indebtedness, merge,
+consolidate and acquire or sell assets, (ii) require the Company to satisfy
+certain ratios related to net worth, debt-to-capitalization and interest
+coverage and (iii) limit the payment of cash dividends on common stock and
+common stock repurchases to $25,000,000 for the year following the completion
+of the agreement and 75% of aggregate consolidated net income thereafter, with
+approximately $13,000,000 available at May 28, 1994.
+
+(b)  Represents 10.00% notes issued to an owner of the Company's common stock. 
+Principal is due in annual installments from July 1998 to July 2000.  The note
+agreement was modified during fiscal 1994 to include covenants mirroring
+those of the new credit agreement.  
+
+                                       20
+
+<PAGE>
+Interest expense on these notes totaled
+$7,878,000, $7,878,000 and $6,569,000 for fiscal 1994, 1993 and 1992,
+respectively.
+
+The Company had long-term notes payable to related parties which were repaid
+or exchanged in conjunction with the July 1991 public stock offering. 
+Interest expense on these notes was $5,169,000 during fiscal 1992.  In
+addition, the prepayment of a portion of these notes with the notes described
+in (b) above required an additional $1,264,000 interest payment.
+
+Statement of Financial Accounting Standards (SFAS) No. 107, "Disclosures About
+Fair Value of Financial Instruments", requires disclosure of the year end fair
+value of significant financial instruments, including long-term debt.  The fair 
+value of the senior notes, described in (b) above, is estimated at $87,400,000 
+and $91,000,000 as of May 28, 1994 and May 29, 1993, respectively, based upon 
+rates available for debt with similar terms.  The Company believes, based upon 
+current terms, that the carrying value of all other long-term debt at May 28, 
+1994 approximates fair value. 
+
+The scheduled repayment of long-term debt is as follows:
+
+               Fiscal Years Ending       (In Thousands)
+               -------------------       --------------
+
+                      1995                 $  1,263
+                      1996                    1,030
+                      1997                      205
+                      1998                        -
+                      1999                  146,000
+                   Thereafter                54,000
+                                           --------
+                                           $202,498
+                                           ========
+
+
+3.  Commitments and Contingencies
+
+Leased capital assets included in property and equipment are as
+follows:
+
+                                   (In Thousands)
+                                May 28,      May 29,
+                                 1994         1993
+                               --------     --------
+     Land and buildings         $ 8,983      $ 8,983
+     Machinery and equipment      1,199        3,088
+                                -------      -------
+                                 10,182       12,071
+     Less accumulated
+      depreciation               (2,911)      (3,530)
+                                -------      -------
+                                $ 7,271      $ 8,541
+                                =======      =======
+
+The related capitalized lease obligations were $898,000 and $1,817,000 at 
+May 28, 1994 and May 29, 1993, respectively.  These obligations and the
+scheduled annual repayments are included with long-term debt.
+
+Future minimum rental commitments for all noncancelable operating leases, 
+exclusive of taxes and insurance, are as follows:
+
+             Fiscal Years Ending        (In Thousands)
+             -------------------        --------------
+                    1995                   $22,469
+                    1996                    17,542
+                    1997                    12,382
+                    1998                     6,935
+                    1999                     3,666
+                 Thereafter                  6,790
+                                           -------
+                                           $69,784
+                                           =======
+
+Net rental expense under operating leases was $27,435,000, $26,137,000
+and $24,081,000 for fiscal 1994, 1993 and 1992, respectively.  The majority
+of the operating leases contain renewal options for varying periods.  
+Certain capital and operating leases include purchase options during or 
+at the end of the lease term.
+
+The Company is subject to various routine legal proceedings, environmental
+actions and other matters in the ordinary course of business, some of which
+may be covered in whole or in part by insurance.  In management's opinion,
+none of these matters will have a material adverse effect on the Company's
+financial position.
+
+
+4.  Income Taxes
+
+The reconciliation of the provision for income taxes to the statutory federal
+rate is as follows:
+
+                                       52 Weeks Ended
+                              --------------------------------
+                               May 28,     May 29,     May 30,
+                                1994        1993        1992
+                              --------    --------    --------
+Statutory federal tax           35.0%       34.0%       34.0%
+State income tax                 5.5         5.1         4.5
+Goodwill amortization            7.7         4.4         4.9
+Loss and investment credit
+ carryforwards                     -           -        (4.7)
+Cumulative impact of 
+ tax law changes                 2.5           -           -
+Other                            0.5        (0.5)       (0.9)
+                                ----        ----        ----
+                                51.2%       43.0%       37.8%
+                                ====        ====        ====
+
+The components of the provision for income taxes are as follows:
+
+                                  (In Thousands)
+                                  52 Weeks Ended
+                         --------------------------------
+                          May 28,     May 29,     May 30,
+                           1994        1993        1992
+                         --------    --------    --------
+Current:
+  Federal                $14,645     $10,650     $16,629
+  State                    3,416       2,800       2,664
+                         -------     -------     -------
+                          18,061      13,450      19,293
+                         -------     -------     -------
+Deferred:
+  Federal                   (838)      8,399      (1,092)
+  State                     (695)      1,376         360
+                         -------     -------     -------
+                          (1,533)      9,775        (732)
+                         -------     -------     -------
+                         $16,528     $23,225     $18,561
+                         =======     =======     =======
+
+                                       21
+
+<PAGE>
+Temporary differences and carryforwards which give rise to the deferred income
+tax assets and liabilities at May 28, 1994 and May 29, 1993 are as follows:
+
+                                       (In Thousands)
+                                      May 28,     May 29,   
+                                       1994        1993        
+                                     --------    --------    
+Deferred tax asset:
+  Accounts receivable                $ 1,231     $ 1,081
+  Accrued expenses                    11,565      12,733
+  Other                                  236       1,120
+  Tax credit carryforwards                 -       1,456
+                                     -------     -------    
+                                     $13,032     $16,390 
+                                     =======     =======    
+Deferred tax liability:
+  Property and equipment             $41,392     $42,781
+  Postretirement benefits
+   liability                          (9,115)     (8,584)
+  Other                                3,136       6,107
+                                     -------     -------
+                                     $35,413     $40,304
+                                     =======     =======
+Valuation allowance                  $     -     $     -
+                                     =======     =======
+
+During fiscal 1992, deferred income taxes were provided for timing differences
+in the recognition of revenue and expense for tax and financial reporting
+purposes.  In fiscal 1992, the largest component of deferred taxes was a
+$1,232,000 deferred tax benefit resulting from fixed asset depreciation, net
+of retirement gains/losses.
+
+
+5.  Employee Benefit Plans
+
+The 1991 Employee Stock Purchase Plan, which is noncompensatory, allows all
+eligible employees to purchase common stock of the Company.  The common stock
+can be either issued by the Company at market prices or purchased on the open
+market.  At May 28, 1994, 116,000 shares were authorized but not issued under
+this plan.
+
+The Company sponsors a defined contribution retirement plan for eligible
+employees not covered by union plans.  Contributions are based upon a 
+percentage of annual compensation plus a percentage of voluntary employee
+contributions.  Retirement expense related to this plan was $6,352,000,
+$5,955,000 and $5,789,000 for fiscal 1994, 1993 and 1992, respectively.
+
+There are also in effect numerous negotiated pension plans covering employees
+participating by reason of union contracts.  Expense for these plans was
+$27,276,000, $27,289,000 and $26,566,000 for fiscal 1994, 1993 and 1992,
+respectively.  Information regarding assets and accumulated benefits of these
+plans has not been made available to the Company.
+
+In addition to providing retirement pension benefits, the Company provides
+health care benefits for eligible retired employees.  Effective at the
+beginning of fiscal 1993, the Company adopted SFAS No. 106, "Employers'
+Accounting for Postretirement Benefits Other Than Pensions", whereby the cost
+of such postretirement benefits is accrued during the employee's active
+service period.  The Company elected to immediately recognize the accumulated
+postretirement benefit obligation rather than amortize it over future periods. 
+The cost of providing these benefits was previously recognized on a pay-as-
+you-go basis and amounted to $1,049,000 for fiscal 1992.
+
+The cumulative effect of this accounting change as of the beginning of fiscal
+1993 was to decrease net income by $14,121,000 ($.67 per share), net of a 
+deferred income tax benefit of $8,655,000.
+
+Under the Company's plans, all nonunion employees, with 10 years of service
+after age 50, are eligible for retiree health care coverage between ages 60
+and 65.  Grandfathered nonunion employees and certain union employees who have
+bargained into the Company-sponsored health care plans are generally eligible
+after age 55, with 10 years of service, and have only supplemental benefits
+after Medicare eligibility is reached.  Certain of the plans require
+contributions by retirees and/or spouses.
+
+The components of the net postretirement benefit expense are as follows:
+
+                                         (In Thousands)
+                                         52 Weeks Ended
+                                       --------------------
+                                        May 28,     May 29,
+                                         1994        1993
+                                       --------    --------
+     Service cost                       $  615      $  441
+     Interest cost                       2,178       1,807
+     Amortization of unrecognized 
+      net loss                             422           -
+                                        ------      ------
+     Net postretirement benefit 
+      expense                           $3,215      $2,248
+                                        ======      ======
+
+The status of the Company's unfunded postretirement benefit obligation is as
+follows:
+
+                                        (In Thousands)
+                                       May 28,     May 29,
+                                        1994        1993
+                                      --------    --------
+     Retirees                         $15,795     $11,008
+     Fully eligible active 
+      plan participants                 8,395       6,991
+     Other active plan
+      participants                      8,290       5,732
+                                      -------     -------
+     Accumulated postretirement
+      benefit obligation (APBO)        32,480      23,731
+     Unrecognized net loss from
+      assumption changes               (7,555)          -
+                                      -------     -------
+     Accrued postretirement
+      benefit                          24,925      23,731
+     Less current portion              (1,800)     (1,400)
+                                      -------     -------
+     APBO included in other
+      liabilities                     $23,125     $22,331
+                                      =======     =======
+
+In determining the APBO, the weighted average discount rate for fiscal 1994
+was assumed to be 7.0%, a change from the 8.0% used in fiscal 1993.  The
+assumed health 
+
+                                       22   
+
+<PAGE>
+care cost trend rate for fiscal 1994 was 9.5%, declining
+gradually to 6.0% over the next 10 years and to 5.0% after 20 years. A 1.0% 
+increase in this assumed health care cost trend rate would increase the
+service and interest cost components of the net postretirement benefit expense
+for fiscal 1994 by approximately $464,000, as well as increase the May 28,
+1994 APBO by approximately $4,970,000.
+
+The Company also participates in a number of multi-employer plans which
+provide postretirement health care benefits to substantially all union
+employees not covered by Company-administered plans.  Amounts reflected as
+benefit cost and contributed to such plans, including amounts related to
+health care benefits for active employees, totaled $40,467,000 and $40,287,000
+in fiscal 1994 and 1993, respectively.
+
+
+6.  Stock Option Plans
+
+The 1991 Stock Option Plan allows the Company to grant to employees stock
+options to purchase up to 1,032,000 shares of common stock at prices which are
+not less than the fair market value at the date of grant.  These
+options may be granted over a period not to exceed ten years and are currently
+exercisable from one to five years after the date of grant. The changes in
+outstanding options are as follows:
+
+                                  Shares          Price Range
+                               Under Option        Per Share
+                               ------------      -------------
+     Balance June 1, 1991              -               
+     Issued                      771,000         $15.63-$16.50
+     Surrendered                 (51,000)         16.13
+                                 -------         -------------
+     Balance May 30, 1992        720,000          15.63- 16.50
+     Issued                      152,000          17.00
+     Exercised                   (63,000)         16.13
+     Surrendered                  (1,000)         15.63
+                                 -------         -------------
+     Balance May 29, 1993        808,000          15.63- 17.00
+     Issued                      163,000          12.25- 14.50
+     Surrendered                 (47,000)         15.63- 17.00
+                                 -------         -------------
+     Balance May 28, 1994        924,000         $12.25-$17.00
+                                 =======         =============
+     Exercisable May 28, 1994    761,000         $15.63-$17.00
+                                 =======         =============
+
+At May 28, 1994, options to purchase 45,000 shares were authorized but not
+granted.
+
+Key personnel were also granted options to purchase shares of common stock in
+January 1988.  The options are exercisable at $.19 per share for a period of
+ten years after the first anniversary of their issuance.  The changes in these
+outstanding options are as follows:
+
+      Balance June 1, 1991           120,000
+      Exercised                       (8,000)
+                                     -------
+      Balance May 30, 1992           112,000
+      Exercised                      (56,000)
+                                     -------
+      Balance May 29, 1993            56,000
+      Exercised                      (10,000)
+                                     -------
+      Balance May 28, 1994            46,000
+                                     =======
+
+At May 28, 1994, 1,130,000 total shares of common stock were reserved for
+issuance under various employee benefit plans.
+
+
+7.  Accrued Expenses
+
+Included in accrued expenses are the following:
+
+                                              (In Thousands)
+                                             May 28,     May 29,
+                                              1994        1993
+                                            --------    --------
+     Payroll, vacation and other
+      compensation                          $22,618     $24,262
+     Pension and welfare                      4,177      10,183
+     Worker's compensation                    9,495       9,980
+     Taxes other than income                  6,506       6,013
+
+
+8.  Other Charges
+
+The Company incurred $9,400,000 of other charges during fiscal 1994 including
+costs related to a plant disposal of $6,700,000 and environmental matters of 
+$2,700,000.
+
+
+9.  Supplemental Cash Flow Information
+
+Noncash investing and financing activities excluded from the consolidated
+statement of cash flows and certain cash payments are as follows:
+
+                                              (In Thousands)
+                                              52 Weeks Ended
+                                        -------------------------------
+                                         May 28,     May 29,     May 30,
+                                          1994        1993        1992
+                                        --------    --------    --------
+     Noncash investing and 
+      financing activities:
+       Exchange of property and
+        equipment for property,
+        equipment and intangibles       $ 7,006     $     -     $     -
+       Preferred dividends of
+        subsidiary paid-in-kind               -           -       4,764
+       Common stock issued in
+        exchange for preferred
+        stock                                 -           -       4,229
+       Stock issued for employee
+        compensation and benefit
+        plans                                 -           -       2,904
+                                       
+     Certain cash payments:
+       Interest                         $14,301     $18,097     $31,620
+       Income taxes                      17,937      17,568       9,022
+
+
+10.  Public Offering of Common Stock and Recapitalization
+
+In July 1991, the Company completed an initial public offering of 15,625,000 
+shares of common stock at $16.00 per share (the "Offering").  The net proceeds 
+of the Offering, after deducting applicable issuance costs and expenses, were 
+$233,589,000.  The proceeds were used 
+
+                                       23
+
+<PAGE>
+to repay $134,096,000 of senior 
+subordinated notes, plus accrued interest, and to redeem, at their liquidation 
+value of $98,315,000, all three series of minority interest - redeemable 
+preferred stocks, plus accrued dividends.
+
+Concurrent with the Offering, the Company (i) replaced its existing bank
+credit facility, (ii) exchanged $79,000,000 of 12.50% subordinated notes for a 
+like amount of 10.00% senior notes, (iii) approved an increase in the 
+authorized common stock to 25,000,000 shares, (iv) declared a 1-for-1.92868 
+reverse stock split and (v) issued 181,000 shares of common stock in exchange 
+for certain outstanding stock performance units.
+
+In the first quarter of fiscal 1992, the Company incurred an extraordinary
+charge of $10,176,000 (net of an income tax benefit of $6,184,000) related to
+additional interest payments and the write-off of unamortized deferred
+financing charges in connection with the retirement of debt.
+
+
+11.  Subsequent Event
+
+On June 13, 1994, the Company completed the acquisition of the assets and
+liabilities of Fuchs Baking Co. ("Fuchs"), Miami, Florida.  Fuchs, which has
+annual sales of approximately $50,000,000, produces and distributes bakery
+products throughout central and southern Florida.  The acquisition, which was
+financed through borrowings on the Company's revolving credit agreement, will
+be accounted for as a purchase.
+
+
+12.  Quarterly Financial Information (Unaudited)
+
+Summarized quarterly financial information for the fiscal years ended May 28, 
+1994 and May 29, 1993 is as follows (each quarter represents a period of
+twelve weeks except the third quarters, which cover sixteen weeks):
+
+
+                               (In Thousands, Except Per Share Data)
+                              First       Second      Third      Fourth
+                             --------    --------    --------   --------
+1994
+  Net sales                  $269,662    $268,934    $336,296   $267,792
+  Cost of products sold       135,638     134,640     172,666    138,282
+  Operating income             17,690      16,800       1,551     10,842
+  Net income (loss)             6,989       7,289      (2,468)     3,944
+  Income (loss) per share         .33         .36        (.12)       .20
+
+1993
+  Net sales                  $273,663    $271,924    $344,627   $275,374
+  Cost of products sold       139,012     136,559     176,065    138,368
+  Operating income             20,035      20,265      14,080     16,964
+  Income before 
+   cumulative effect
+   of accounting change         9,011       9,263       5,002      7,508
+  Net income (loss)            (5,110)      9,263       5,002      7,508
+  Per share:
+    Income before 
+     cumulative effect of
+     accounting change            .43         .44         .24        .36
+    Net income (loss)            (.24)        .44         .24        .36
+
+
+The third quarter of fiscal 1994 includes other charges of $9,400,000,
+$5,687,000 net of tax ($.28 per share), related to a plant disposal and
+environmental matters.
+
+Due to the adoption of SFAS No. 106, the net loss for the first quarter of
+1993 includes a charge of $14,121,000 ($.67 per share) for the cumulative
+effect of the change in accounting for postretirement benefits other than
+pensions.
+
+                                       24
+<PAGE>
+                   REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+                   ----------------------------------------
+
+We have audited the accompanying consolidated balance sheets of Interstate
+Bakeries Corporation and its subsidiaries as of May 28, 1994 and May 29, 1993,
+and the related consolidated statements of income, stockholders' equity
+and cash flows for each of the three fiscal years in the period ended May 28,
+1994.  These financial statements are the responsibility of the Company's
+management.  Our responsibility is to express an opinion on these financial
+statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, such consolidated financial statements present fairly, in all
+material respects, the financial position of Interstate Bakeries Corporation
+and its subsidiaries as of May 28, 1994 and May 29, 1993, and the results of
+their operations and their cash flows for each of the three fiscal years in
+the period ended May 28, 1994 in conformity with generally accepted accounting
+principles.
+
+/s/ Deloitte & Touche
+
+Kansas City, Missouri
+July 8, 1994
+
+                                       25
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

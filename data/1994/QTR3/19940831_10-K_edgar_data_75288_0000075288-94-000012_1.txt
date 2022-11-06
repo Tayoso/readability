@@ -1,0 +1,2991 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ NQNmiHqZ1E0N4GnaJaS9HP5eGGCrCPMiEnTEMb0dMsOyxnbin/iqQcIYXX3sXCfA
+ N1AOFApIHktcszKyJvzJrA==
+
+<IMS-DOCUMENT>0000075288-94-000012.txt : 19940901
+<IMS-HEADER>0000075288-94-000012.hdr.sgml : 19940901
+ACCESSION NUMBER:		0000075288-94-000012
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		9
+CONFORMED PERIOD OF REPORT:	19940603
+FILED AS OF DATE:		19940831
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OXFORD INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000075288
+		STANDARD INDUSTRIAL CLASSIFICATION:	2320
+		IRS NUMBER:				580831862
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04365
+		FILM NUMBER:		94547390
+
+	BUSINESS ADDRESS:	
+		STREET 1:		222 PIEDMONT AVE NE
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+		BUSINESS PHONE:		4046592424
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+<PAGE> 1  
+                                  FORM 10-K
+                     SECURITIES AND EXCHANGE COMMISSION
+                           Washington, D.C. 20549
+
+   [ X ]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+          THE SECURITIES EXCHANGE ACT OF 1934 [FEE REQUIRED]
+
+For the fiscal year ended June 3, 1994
+                          ------------
+                                     OR
+
+   [   ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+          SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+For the transition period from                   to
+                               -----------------    --------------
+Commission file number  1-4365
+
+                          OXFORD INDUSTRIES, INC.
+- --------------------------------------------------------------------
+           (Exact name of Registrant as specified in its charter)
+
+          Georgia                          58-0831862
+- -------------------------------        ------------------
+(State or other jurisdiction of          (I.R.S. Employer
+ incorporation or organization)          Identification No.)
+
+             222 Piedmont Avenue, N.E., Atlanta, Georgia 30308
+           -----------------------------------------------------
+           (Address of principal executive offices)    (Zip Code)
+
+Registrant's telephone number, including area code (404) 659-2424
+                                                   --------------
+Securities registered pursuant to Section 12(b) of the Act:
+
+   Title of each class                    Name of exchange on
+                                          which registered
+ Common Stock, $1 par value                New York Stock Exchange
+- --------------------------                -------------------------
+
+       Securities registered pursuant to Section 12(g) of the Act:  
+                                    NONE
+                               --------------
+                              (Title of Class)
+
+     Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter
+period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days.   
+Yes  X     No
+   ----        ----
+
+
+
+
+
+
+     Indicate by check mark if disclosure of delinquent filers pursuant
+to Item 405 of Regulation S-K (Section 229.405 of this chapter) is not
+contained herein, and will not be contained, to the best of registrant's
+knowledge, in definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this Form
+10-K. [   ]
+
+     State the aggregate market value of the voting stock held by
+non-affiliates of the Registrant: As of August 22, 1994, the aggregate
+market value of the voting stock held by non-affiliates of the
+Registrant (based upon the closing price for the common stock on the New
+York Stock Exchange on that date) was approximately $228,149,421.
+
+     Indicate the number of shares outstanding of each of the
+Registrant's classes of common stock, as of the last practicable date.
+
+                                       Number of shares outstanding
+     Title of each class                    as of August 22, 1994
+
+Common Stock, $1 par value                            8,650,215
+- --------------------------                            ---------
+Documents Incorporated by Reference
+- ------------------------------------
+(1)  Sections of 1994 Annual Report to Stockholders (Incorporated in
+     Parts II and IV of this Report).
+(2)  Sections of Proxy Statement dated August 26, 1994, which will be
+     filed with the Securities and Exchange Commission not later than
+     120 days after June 3, 1994. (Incorporated in Part III of this
+     Report).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE> 2  
+
+                                PART I
+                                ------
+
+Item 1.  Business.
+- ------------------
+
+                         BUSINESS AND PRODUCTS
+
+Introduction and Background
+     Oxford Industries, Inc. (the "Company") was incorporated under
+the laws of the State of Georgia as Oxford Manufacturing Company,
+Inc. on April 27, 1960.  In 1967, its name was changed to Oxford
+Industries, Inc.  Its principal office is in Atlanta, Georgia.
+
+     The Company's primary business, which comprises a single
+industry segment, is the design, manufacture, marketing and sale of
+consumer apparel products in the popular to better price range. 
+Substantially all of the Company's distribution facilities, offices
+and customers are located in the United States and most of its
+manufacturing facilities are also located in the United States.
+
+     The Company is in a single line of business with two classes
+of similar products, menswear and womenswear.  The table below sets
+forth, for each of the last three fiscal years, the percentage of
+net sales attributable to each such class of similar products:
+
+                          Fiscal Year Ended:
+
+                   June 3,       May 28,       May 29,       
+                    1994          1993          1992              
+                   ------        -------       -------       
+Menswear              73%            73%           70%         
+Womenswear            27%            27%           30%         
+                   ------        -------       -------       
+                     100%           100%          100%         
+                   ======        =======       =======       
+
+Menswear
+     Primary menswear products sold include men's suits, vests,
+dress slacks and sportcoats and men's and boys' sportswear, dress
+shirts, woven and knitted sport shirts, sweaters, slacks, shorts
+and jeans.  
+
+Womenswear
+     Primary womenswear products sold include women's and girls'
+sportswear, dresses, suits, sweaters, shirts, blouses, t-shirts,
+sweatshirts, swimsuits, vests, jackets, skirts, shorts, jeans and
+pants.  Sportswear products are marketed as coordinates, which
+include wardrobe items in styles and colors designed to be worn
+together, or as separates.
+
+
+
+
+
+
+
+
+ 
+<PAGE> 3  
+                             DISTRIBUTION
+
+     The Company sells products to approximately 3,400 customers,
+many of whom have multiple retail outlets.  The Company's customers
+include national and regional chain stores, mail order and catalog
+firms, discount stores, department stores and chain and independent
+specialty stores.  Although the Company experienced a slight
+decrease in the number of customers in fiscal 1994, sales to the 
+fifty largest customers increased by 13.2%.  The decline in total
+customers was due to the continuing focus on large financially
+stable retailers.
+
+     Several product lines are designed and manufactured in
+anticipation of orders for sale to department and specialty stores
+and certain specialty chain and mail order customers. The Company
+must make commitments for fabric and production in connection with
+these lines.  In the case of imports, these commitments can be up
+to several months prior to the receipt of firm orders from
+customers.  These lines include both popular and better price
+merchandise sold under brand and designer names or customers'
+private labels.
+
+     The Company works closely with many customers to develop
+large-volume product programs prior to commencement of production,
+enabling the Company to take advantage of relative efficiencies in
+planning, raw materials purchasing and utilization of production
+facilities.  Products sold under these progroms are in the
+popular price range and usually carry the customers' trademarks,
+although the Company offers some branded and designer programs for
+this customer market.
+
+     The Company employs a sales force consisting of salaried and
+commissioned sales employees and independent commissioned sales
+representatives.  Apparel sales offices and showrooms are
+maintained by the Company in Atlanta, Chicago, Los Angeles, New
+York and in both Dallas and Plano, Texas.  Other showrooms are
+maintained by independent commissioned sales representatives.  A
+majority of the Company's business is conducted by direct contacts
+between the Company's divisional management and buyers and other
+executives of the Company's customers.
+
+          MANUFACTURING, RAW MATERIALS AND SOURCES OF SUPPLY
+
+Manufacturing and Raw Materials
+     Apparel products are manufactured from cotton, linen, wool,
+silk, other natural fibers, synthetics and blends of these
+materials.  Materials used by the Company in its manufacturing
+operations are purchased from numerous domestic and foreign textile
+mills and converters in the form of woven or knitted finished
+fabrics.  Buttons, zippers, thread and other trim items are
+purchased from both domestic and foreign suppliers.  The Company's
+domestic manufacturing facilities perform cutting, sewing and
+related operations to produce finished apparel products from these
+materials.  At the end of the 1994 fiscal year, domestic production
+for the Company accounted for almost 50% of the Company's business,
+of which approximately 71% came from the Company's United States
+manufacturing facilities, and approximately 29% came from United
+States contractors. 
+
+<PAGE> 4 
+     In accordance with common industry practice, the Company often
+purchases fabric and places it with domestic and foreign
+independent contractors for production of goods conforming to the
+Company's patterns, specifications and quality standards. The
+Company also performs independent contracting services for other
+companies to ensure maximum utilization of its production
+facilities.
+
+     The Company imports finished apparel products meeting its
+quality standards from suppliers in  Central America, the Far East
+and other areas.  Imported goods are generally manufactured
+according to designs and specifications furnished or approved in
+advance of production by the Company.  In order to place orders and
+monitor production, the Company maintains buying offices in Hong
+Kong and Singapore.  The Company also retains unaffiliated buying
+agents in several other countries.
+
+     The Company also uses its own facilities in Mexico, the
+Dominican Republic and Costa Rica. These facilities generally
+assemble finished apparel products from components made in the
+United States.
+
+Sources of Supply
+     The Company regards its domestic and foreign sources of raw
+materials, finished goods and outside production as adequate, and
+is not dependent on any single source or contractor.  No single
+supplier or contractor accounts for a material portion of the
+Company's purchases or business.  Alternative competitive sources
+are available, and the Company does not anticipate significant
+difficulty in meeting its supply and outside production
+requirements.  There are occasions, however, where the Company is
+unable to take customer orders on short notice because of limited
+availability of materials and/or production facilities.
+
+     The Company's import business could be adversely affected by
+currency exchange fluctuations, changes in United States import
+duties and trade restraints, political unrest in exporting
+countries, and other factors normally associated with imports.  The
+Company believes it has diminished potential risks in its import
+business by placing import programs with suppliers in several
+different countries.  The Company continues to expand assembly
+operations in the Caribbean Basin to take greater advantage of
+incentives implicit in United States trade policy.
+
+                   TRADEMARKS, LICENSES AND PATENTS
+
+Trademarks 
+    Principal menswear trademarks owned by the Company are "Lanier
+Clothes" for men's suits and sportcoats; "Oxford Shirtings" for
+men's shirts; "Travelers Worstead" for mens suits; "Everset" and
+"Everpress" for men's slacks; and "928" for young men's suited
+separates.
+
+    Principal womenswear trademarks owned by the Company are
+"RENNY" for women's sportswear; and "B.J. Design Concepts",  "MBC",
+and "Koala Blue" for t-shirts and sweatshirts.  
+
+<PAGE> 5 
+    The Company licenses its trademark "Merona" to the Target
+Stores and Mervyn's divisions of the Dayton Hudson Corporation. 
+The license agreement calls for these divisions to pay minimum
+royalties and additional royalties for sales above certain levels. 
+The minimum royalties due in the future have been reduced by actual
+royalties paid in preceding years.  If certain levels of royalty
+payments have been made and renewal options exercised, Target
+Stores will have the option to purchase the trademark in 1999.
+
+    Although the Company is not dependent on any single trademark,
+it believes its trademarks in the aggregate are of significant
+value to its business.  If an attractive opportunity were to
+present itself the Company would seriously consider the acquisition
+of significant brands and related businesses.
+
+Licenses
+    The Company also has the right to use trademarks under license
+and design agreements with the trademarks' owners.  Principal
+menswear trademarks the Company has the right to use are "Polo by
+Ralph Lauren" for boys' shirts, suits, shorts, swimwear, sweat
+suits, woven and knitted sportswear, pants, sweaters, outerwear,
+jackets, denim jeans and caps; "Robert Stock" for men's suits,
+sportcoats, dress slacks; and "Oscar de la Renta" for
+men's suits, sportcoats, vests, and dress slacks.  Additionally,
+the Company entered into several new license agreements during the
+fiscal year ended June 3, 1994. These new agreements allow the
+Company to use "Tommy Hilfiger" for men's dress shirts;  "Savane"
+and  "Process 2000" for men's and boys dress and sports shirts; and
+the Charles Schulz "Peanuts" characters for men's t-shirts and
+sweatshirts.  
+
+    Principal womenswear trademarks the Company has the right to
+use are "Done Art & Design" for women's sportswear; and Charles
+Schulz "Peanuts" characters for women's, junior and missy t-shirts,
+sweatshirts, shortsets, cover-ups, dresses and pants. 
+Additionally, in January 1994 the Company entered into a license
+and design agreement to use the trademark "Jump Start"  characters
+for women's t-shirts and sweatshirts.  
+
+    The above mentioned license and design agreements will expire
+at various dates through 1999.  Many of the Company's licensing
+agreements are eligible for renewal to extend the licenses through
+various dates from 1994 through 2006.  
+     
+     Although the Company is not dependent on any single license
+and design agreement, it believes its license and design agreements
+in the aggregate are of significant value to its business.  The
+Company has entered into several manufacturing licenses that permit
+the Company to use proprietary methods for producing wrinkle
+resistant apparel products.
+
+Patents
+    The Company owns several patents covering apparel manufacturing
+processes and devices, but competitive processes and devices are
+available to others, and these are not material to the Company's
+business.
+
+
+
+
+
+<PAGE> 6  
+            SEASONAL ASPECTS OF BUSINESS AND ORDER BACKLOG 
+
+Seasonal Aspects of Business
+     The Company's business is generally divided among four retail
+selling seasons: Spring, Summer, Fall and Holiday.  Seasonal
+factors can cause some variance in production and sales levels
+among fiscal quarters in any fiscal year, but the Company does not
+regard its overall business as highly seasonal.
+
+
+Order Backlog
+     A large portion of sales are booked in advance of each season,
+and it is therefore normal for the Company to maintain a
+significant order backlog.  As of June 3, 1994 and May 28, 1993,
+the Company had booked orders amounting to approximately
+$156,733,000 and $129,869,000, respectively, substantially all of
+which were to be shipped within six months after each such date. 
+These numbers represent only store orders for shipments on hand and
+do not include private-label contract balances.  The Company does
+not believe that this backlog information is indicative of sales to
+be expected for the following year, because order backlog at the
+end of May primarily represents only Fall season business.
+
+                            WORKING CAPITAL
+
+     Working capital needs are affected primarily by inventory
+levels, outstanding receivables and trade payables.  The Company
+had available for its use committed lines of credit with several
+lenders aggregating $20,000,000 at June 3, 1994.  These lines of
+credit are used by the Company to cover fluctuations in working
+capital needs.  The Company had $10,000,000 outstanding under these
+lines of credit at the end of the 1994 fiscal year, and $18,500,000
+outstanding at the end of the 1993 fiscal year.  In addition, at
+the end of fiscal 1994, the Company had $122,000,000 in uncommitted
+lines of credit of which $47,000,000 was reserved for the issuance
+of letters of credit.  At June 3, 1994 $9,500,000 was outstanding
+under these lines of credit.  At the end of  fiscal 1993 the
+Company had $97,000,000 in uncommitted lines of credit of which
+$57,000,000 was reserved for the issuance of letters of credit.  At
+May 28, 1993 there were no amounts outstanding under these
+uncommitted lines of credit.  The total amount of letters of credit
+outstanding totaled approximately $36,000,000 at the end of fiscal
+1994, and approximately $39,000,000 at the end of fiscal 1993.  The
+Company had cash of $3,227,000 and $3,254,000 at the end of the
+1994 and 1993 fiscal years. The Company anticipates continued use
+and availability of short-term borrowings as working capital needs
+may require.
+
+     During fiscal 1988, the Company issued an 8.62% note due in
+annual installments through May 1996 which had an unpaid balance on
+June 3, 1994 of $7,500,000.  The note requires the Company to
+maintain a tangible net worth of not less than $90,000,000 and
+contains various covenants including restrictions on the amount of
+retained earnings available for dividends and certain other
+payments.     
+   
+<PAGE> 7 
+    Inventory levels are affected by order backlog and anticipated
+sales.  It is general practice in the apparel industry to offer
+payment terms of ten to 60 days from date of shipment, and the
+Company's policies are consistent with this general practice.
+
+     The Company believes that its working capital requirements and
+financing resources are comparable with those of other major,
+financially sound apparel manufacturers.
+
+                            MAJOR CUSTOMERS
+
+     The Company's ten largest customers accounted for 69 percent
+and 64 percent of the Company's net sales in the 1994 and 1993
+fiscal years.  The increase percentage represents the Company's
+continuing focus on large financially stable retailers.  JCPenney
+Company, Inc. accounted for 24 percent and 28 percent of net sales
+in the 1994 and 1993 fiscal years, respectively.  Lands' End, Inc.
+accounted for 10 percent and 7 percent of net sales in the 1994 and
+1993 fiscal years, respectively.  The Company believes that its
+relationships with all of its major customers, including JCPenney
+Company, Inc., and Lands' End, Inc., are excellent.
+
+                              COMPETITION
+
+     The Company's products are sold in a highly competitive
+domestic market in which numerous domestic and foreign
+manufacturers compete.  No single manufacturer or small group of
+manufacturers dominates the apparel industry.  The Company believes
+it is a major apparel manufacturing and marketing company, but
+there are other apparel firms with greater sales and financial
+resources.
+
+     Competition within the apparel industry is based upon styling,
+marketing, price, quality, customer service and, with respect to
+branded and designer product lines, consumer recognition and
+preference.  The Company believes it competes effectively with
+other members of its industry with regard to all of these factors. 
+Successful competition in styling and marketing is related to the
+Company's ability to foresee changes and trends in fashion and
+consumer preference and to present appealing product programs to
+its customers.  Successful competition in price, quality and
+customer service is related to its ability to maintain efficiency
+in production, sourcing and distribution.
+
+     Growth in apparel imports and direct importing by retailers
+present competitive risks to domestic apparel manufacturers. The
+United States has implemented restrictive quotas on the importation
+of many classifications of textiles and textile products from
+certain countries and has adopted restrictive regulations governing
+textile and apparel imports.  The Multi-Fiber Arrangement (MFA), an
+international textile trade agreement to which the United States is
+a party and which permits broad import restraints, was temporarily
+extended and remains effective through December 1994. During
+December 1993, the United States and various other countries
+concluded negotiation of the Uruguay Round of the General Agreement
+on Tariffs and Trade.  Under the Uruguay Round agreement, which is
+currently being considered for ratification by the U.S. Congress,
+quotas on textiles and textile products would be gradually removed. 
+Reduced restrictions on the importation of textiles and textile
+products could increase competitive import pressure on the
+Company's domestic manufacturing operations, but could also
+positively affect its sourcing activities in some countries.
+
+
+<PAGE> 8 
+    During fiscal 1994, the North American Free Trade Agreement
+(NAFTA) was approved and implemented.  Implementation of NAFTA has
+not significantly affected or benefited the Company.  The Company
+has realized small duty savings under the agreement and it hopes to
+increase sales to Mexico and Canada as its domestic customers
+expand in the two countries.
+
+                               EMPLOYEES
+
+     As of July 1, 1994, the Company employed 9,331 persons,
+approximately 86% of whom were hourly and incentive paid production
+workers.  The Company believes its employee relations are
+excellent.
+
+Item 2.  Properties.
+- --------------------
+
+     At June 3, 1994 the Company operated a total of 32 production
+plants.  Domestic plants, of which 20 plants are owned and five
+plants are leased, are located in Alabama, Georgia, Mississippi,
+North Carolina, South Carolina, Tennessee and Virginia. Foreign
+plants, of which two are owned and five are leased, are located in
+Mexico, Dominican Republic and Costa Rica.  In the fiscal year
+ended June 3, 1994 the Company closed one domestic manufacturing
+facility.  During the period after the end of the 1994 fiscal year
+through August 22, 1994, the closure of two domestic manufacturing
+facilities were announced. 
+
+     The Company also maintains separate warehousing and
+distribution facilities (in addition to space allocated for these
+purposes in or adjacent to manufacturing plants) in Arizona,
+California, Georgia, Mississippi and South Carolina.  
+
+     Certain of the manufacturing, warehousing and distribution
+facilities deemed owned by the Company are held pursuant to
+long-term capital leases or lease purchase agreements, some of
+which have been entered into by the Company in connection with
+industrial revenue bond financing arrangements.  Under this type of
+financing, the facilities are subject to trust indentures or
+security agreements securing the interests of the bondholders.  See
+Notes C and D in the Notes to Consolidated Financial Statements
+forming a part of the financial statements included under Item 8 of
+this Report.
+
+     General offices are maintained in a facility owned by the
+Company in Atlanta.  The Company leases sales, purchasing and
+administrative offices in Atlanta, Chicago, Downey (California),
+Hong Kong, Los Angeles, New York, Singapore, and in both Dallas and
+Plano, Texas.
+
+     The Company owns substantially all of its machinery and
+equipment.  Current facilities are adequately covered by insurance,
+generally well maintained and provide adequate production capacity
+for current and anticipated future operations.  Additionally, the
+Company has recently approved plans to expand its distribution   
+in Lyons Georgia.  This expansion will include the installation of new
+equipment and a new computer system.
+
+
+<PAGE> 9 
+Item 3.  Legal Proceedings.
+- ---------------------------
+
+     Not applicable.
+
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+- -------------------------------------------------------------
+
+     Not applicable.
+
+
+
+
+Item 4A.  Executive Officers of the Registrant.
+- -----------------------------------------------
+        Name              Age             Office Held
+- ---------------------    ---         -------------------------
+J. Hicks Lanier           54         Chairman of the Board and
+                                     President
+ 
+Ben B. Blount Jr          55         Executive Vice President --
+                                     Planning and Development
+
+R. William Lee, Jr.       64         Executive Vice President --
+                                     Finance and Administration
+
+Knowlton J. O'Reilly      54         Group Vice President
+
+
+      Messrs. J. Hicks Lanier, Ben B. Blount, Jr., R. William
+Lee, Jr. and Knowlton J. O'Reilly are also directors of the
+Company.  The Board of Directors of the Company elects executive
+officers annually.
+
+     Mr. J. Hicks Lanier has served as President of the Company
+since 1977.  In 1981 he was elected as Chairman of the Board.
+
+     Mr. Ben B. Blount, Jr. has been Executive Vice President --
+Planning and Development since 1986.  Mr. Blount was President of
+Kayser Roth Apparel, an apparel manufacturer and marketer, from
+1982 to 1986.  Prior to 1982 he was Group Vice President of the
+Company.
+
+     Mr. R. William Lee, Jr. was Vice President -- Finance and
+Administration of the Company from 1977 to 1986.  In 1986 he was
+elected to serve in his present position as Executive Vice
+President -- Finance and Administration.
+
+     Mr. Knowlton J. O'Reilly has served as Group Vice President of
+the Company since 1978.
+
+<PAGE>10  
+                                PART II
+                                -------
+
+Item 5.  Market for Registrant's Common Equity and Related
+         Stockholder Matters
+- ------------------------------------------------------------
+
+     Incorporated by reference to the table presented under the
+heading "Common Stock Information" on page 23 of the Company's 1994
+Annual Report to Stockholders (Exhibit 13 hereto).  On August 22,
+1994, there were 946 holders of record of the Company's common
+stock.
+
+
+     During the 1988 fiscal year, the Company signed a $30,000,000,
+8.62% note due in annual installments through May 1996.  The
+remaining unpaid balance on June 3, 1994 was $7,500,000.  The note,
+as amended, contains various financial covenants including a
+provision restricting dividends and similar payments after February
+26, 1988, to a cumulative limit of $22,500,000 plus 75% (or minus
+100% in the case of a loss) of earnings (or losses) after that
+date.  Unrestricted retained earnings equalled $19,471,000 at the
+end of the 1994 fiscal year.
+
+
+Item 6.  Selected Financial Data.
+- ---------------------------------
+
+     Incorporated by reference to page 12 of the Company's 1994
+Annual Report to Stockholders (Exhibit 13 hereto).
+
+
+Item 7.  Management's Discussion and Analysis of Financial
+         Condition and Results of Operations.
+- ----------------------------------------------------------
+
+     Incorporated by reference to page 13 and 14 of the Company's
+1994 Annual Report to Stockholders (Exhibit 13 hereto).
+
+
+Item 8.  Financial Statements and Supplementary Data.
+- -----------------------------------------------------
+
+     Financial statements, including selected quarterly financial
+data, are incorporated by reference to pages 15 through 23 of the
+Company's 1994 Annual Report to Stockholders (Exhibit 13 hereto).
+
+
+Item 9.  Changes in and Disagreements with Accountants on
+         Accounting and Financial Disclosure.
+- ---------------------------------------------------------
+
+     Not applicable.
+
+                               PART III
+                               --------
+
+Item 10.  Directors and Executive Officers of the Registrant.
+- -------------------------------------------------------------
+
+     Information required by this item covering directors of the
+Company is incorporated by reference to the information presented
+under the heading "Election of Directors - Directors and Nominees"
+in the Company's Proxy Statement dated August 26, 1994, which will
+be filed with the Securities and Exchange Commission not later than
+120 day after June 3, 1994.  Information required by this Item
+covering executive officers of the  Company is set forth under Item
+4A of this Report.
+
+
+
+
+
+
+<PAGE>11
+Item 11.  Executive Compensation.
+- ---------------------------------
+
+     Incorporated by reference to the information presented under
+the heading "Executive Compensation and Other Information" in the
+Company's Proxy Statement dated August 26, 1994, which will be
+filed with the Securities and Exchange Commission not later than
+120 days after June 3, 1994.
+
+Item 12.  Security Ownership of Certain Beneficial Owners and
+          Management.
+- -------------------------------------------------------------
+
+     Incorporated by reference to the information presented under
+the heading "Beneficial Ownership of Common Stock" in the Company's
+Proxy Statement dated August 26, 1994, which will be filed with the
+Securities and Exchange Commission not later than 120 days after
+June 3, 1994.
+
+Item 13.  Certain Relationships and Related Transactions.
+- ---------------------------------------------------------
+
+     Incorporated by reference to the information presented under
+the heading "Executive Compensation and Other Information -
+Compensation Committee Interlocks and Insider Participation" in the
+Company's Proxy Statement dated August 26, 1994, which will be
+filed with the Securities and Exchange Commission not later than
+120 days after June 3, 1994.
+
+                                PART IV
+                              -------
+
+Item 14.  Exhibits, Financial Statement Schedules, and Reports on
+          Form 8-K.
+- -----------------------------------------------------------------
+
+(a) 1.  Financial Statements
+        --------------------
+
+     Included on pages 15 through 23 of the 1994 Annual Report to
+Stockholders (Exhibit 13 hereto) and incorporated by reference in
+this Form 10-K:
+
+            Report of Independent Public Accountants.
+           
+            Consolidated Balance Sheets at June 3, 1994 and
+            May 28, 1993
+            
+            Consolidated Statements of Earnings for years ended
+            June 3, 1994, May 28, 1993 and May 29, 1992.
+            
+            Consolidated Statements of Stockholders' Equity for
+            years ended June 3, 1994, May 28, 1993 and May 29,
+            1992.
+            
+            Consolidated Statements of Cash Flows for years ended
+            June 3, 1994, May 28, 1993 and May 29, 1992.
+            
+            Notes to Consolidated Financial Statements for years
+            ended June 3, 1994, May 28, 1993 and May 29, 1992.
+
+
+
+
+
+
+<PAGE>12  
+     2.  Financial Statement Schedules
+         -----------------------------
+
+         Included herein:
+
+            Report of Independent Public Accountants on
+            Financial Statement Schedules.
+            
+            Schedule VIII - Valuation and Qualifying Accounts.
+            
+            Schedule IX - Short-term Borrowings.
+            
+            Schedule X - Supplementary Income Statement
+            Information.
+
+     3.   Exhibits
+          --------
+
+3(a)  Articles of Incorporation of the Company. Incorporated by
+      reference to Exhibit 3(a) to the Company's Form 10-Q for the
+      fiscal quarter ended August 28, 1992.
+
+3(b)  Bylaws of the Company. 
+
+4(a)  Note Agreement between the Company and The Prudential
+      Insurance Company of America dated May 26, 1988 covering the
+      Company's 8.62% promissory note due May 24, 1996. 
+      Incorporated by reference to Exhibit 4(a) to the Company's
+      Form 10-K for the fiscal year ended May 28, 1993.
+
+4(b)  Amendment dated October 27, 1989 to Note Agreement between
+      the Company and The Prudential Insurance Company of America
+      dated May 26, 1988 covering the Company's 8.62% promissory
+      note due May 24, 1996.  Incorporated by reference to Exhibit
+      4(b) to the Company's Form 10-K for the fiscal year ended
+      May 28, 1993.
+
+4(c)  Amendment dated May 3, 1990 to Note Agreement between the
+      Company and The Prudential Insurance Company of America
+      dated May 26, 1988 covering the Company's 8.62% promissory
+      note due May 24, 1996.  Incorporated by reference to Exhibit
+      4(c) to the Company's Form 10-K for the fiscal year ended
+      May 28, 1993.  
+
+<PAGE>13
+4(d)  Amendment dated July 19, 1990 to Note Agreement between the
+      Company and The Prudential Insurance Company of America
+      dated May 26, 1988 covering the Company's 8.62% promissory
+      note due May 24, 1996.  Incorporated by reference to Exhibit
+      4(d) to the Company's Form 10-K for the fiscal year ended
+      May 28, 1993.  
+
+10(a) Split-Dollar Life Insurance Agreement.  Incorporated by
+      reference to Exhibit 10(a) to the Company's Form 10-K for
+      the fiscal year ended May 29, 1992.
+
+10(b) Group Life Insurance Plan, effective January 1, 1993. 
+      Incorporated by reference to Exhibit 10(b) to the Company's
+      Form 10-K for the fiscal year ended May 28, 1993. 
+
+
+10(c) 1984 Stock Option Plan.  Incorporated by reference to
+      Exhibit 28 to the Company's Form 8-K filed January 17, 1991.
+
+10(d) Long Range Incentive Plan, as amended through July 31, 1992. 
+      Incorporated by reference to Exhibit 10(d) to the Company's
+      Form 10-K for the fiscal year ended May 28, 1993.
+  
+10(e) Summary of Executive Medical Reimbursement Plan. 
+
+10(f) Management Incentive Bonus Program, as amended through June
+      1, 1991.  Incorporated by reference to Exhibit 10 to the
+      Company's Form 10-K for the fiscal year ended May 31, 1991.
+
+10(g)  Executive Officers' Long Range Incentive Plan.  Incorporated 
+       by reference to Exhibit 10(g) to the Company's Form 10-K
+       for the fiscal year ended May 28, 1993.
+
+10(h) 1992 Stock Option Plan.  Incorporated by reference to
+      Exhibit A, "1992 Stock Option Plan", to the Company's Proxy
+      Statement dated August 28, 1992.  The 1992 Stock Option Plan
+      was approved on October 5, 1992 by the Company's
+      shareholders.
+
+11    Statement re computation of per share earnings.
+
+13    1994 Annual Report to Stockholders (furnished for the
+      information of the Commission and not deemed "filed" or part
+      of this Form 10-K except for those portions expressly
+      incorporated herein by reference).
+
+24    Consent of Arthur Andersen & Co.
+
+25    Powers of Attorney.
+
+      The Company agrees to file upon request of the Securities
+      and Exchange Commission a copy of all agreements evidencing
+      long-term debt of the Company and its subsidiaries omitted
+      from this report pursuant to Item 601(b)(4)(iii) of
+      Regulation S-K.
+
+      Shareholders may obtain copies of Exhibits without charge
+      upon written request to the Corporate Secretary, Oxford
+      Industries, Inc., 222 Piedmont Avenue, N.E., Atlanta,
+      Georgia 30308.
+
+<PAGE>14
+(b) No reports on Form 8-K were filed during the last quarter of
+the period covered by this report.
+
+
+                              SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the Company has duly caused this
+report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+
+                                  Oxford Industries, Inc.
+
+                                         /s/J. Hicks Lanier
+                                         ------------------
+                                         Chairman and President
+
+
+Date:   August 31, 1994
+        ---------------
+        Pursuant to the requirements of the Securities Exchange Act
+of 1934, this report has been signed below by the following persons
+on behalf of the Company in the capacities and on the dates
+indicated.
+
+      Signature               Capacity                     Date
+- --------------------------   -----------------           ---------
+
+/s/J. Hicks Lanier           Chairman and                 08/31/94
+- --------------------------   President, Chief             --------
+J. Hicks Lanier              Executive Officer
+                             and Director
+
+
+/s/R. William Lee, Jr.       Executive                    08/31/94
+- --------------------------   Vice President,              --------
+R. William Lee, Jr.          Chief Financial
+                             Officer and
+                             Director
+
+
+/s/Debra A. Pauli            Controller and               08/31/94
+- --------------------------   Chief Accounting             --------
+Debra A. Pauli               Officer
+
+
+/s/David K. Ginn             Director                      08/31/94
+- --------------------------                                --------
+Ben B. Blount, Jr.*
+
+
+/s/David K. Ginn             Director                     08/31/94
+- --------------------------                                --------
+Cecil D. Conlee*
+
+
+/s/David K. Ginn             Director                     08/31/94
+- --------------------------                                --------
+John B. Ellis*
+
+*by power of attorney
+
+
+<PAGE>15
+/s/David K. Ginn             Director                     08/31/94
+- --------------------------                                --------
+Thomas Gallagher*
+
+
+/s/David K. Ginn              Director                    08/31/94
+- --------------------------                                --------
+Bradley Hale*
+
+
+/s/David K. Ginn              Director                    08/31/94
+- --------------------------                                --------
+Clifford M. Kirtland, Jr.*
+
+
+/s/David K. Ginn              Director                    08/31/94
+- --------------------------                                --------
+J. Reese Lanier*
+
+
+/s/David K. Ginn             Director                     08/31/94
+- --------------------------                                --------
+Knowlton J. O'Reilly*
+
+
+/s/David K. Ginn             Director                      08/31/94
+- --------------------------                                --------
+Robert E. Shaw*
+
+
+/s/David K. Ginn             Director                     08/31/94
+- --------------------------                                --------
+Robert Strickland*
+
+
+*by power of attorney
+ 
+
+<PAGE>16
+               REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+                   ON FINANCIAL STATEMENT SCHEDULES
+
+
+
+To Oxford Industries, Inc.:
+
+
+     We have audited, in accordance with generally accepted
+auditing standards, the consolidated financial statements included
+in Oxford Industries, Inc.'s 1994 Annual Report to Stockholders
+incorporated by reference in this Form 10-K, and have issued our
+report thereon, dated July 15, 1994.  Our audits were made for the
+purpose of forming an opinion on the basic financial statements
+taken as a whole.  The schedules listed in Item 14(a)2 are the
+responsibility of the Company's management and are presented for
+purposes of complying with the Securities and Exchange Commission's
+rules and are not part of the basic financial statements.  These
+schedules have been subjected to the auditing procedures applied in
+the audits of the basic financial statements and, in our opinion,
+fairly state in all material respects the financial data required
+to be set forth therein in relation to the basic financial
+statements taken as a whole.
+
+
+
+
+                             ARTHUR ANDERSEN & CO.
+
+
+Atlanta, Georgia
+July 15, 1994
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>17
+<TABLE>
+<S>            <C> <C>   <C>         <C>          <C>       <C>         <C>
+                     OXFORD INDUSTRIES, INC. AND SUBSIDIARIES
+                     ----------------------------------------
+                SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+                -------------------------------------------------
+
+   Column A              Column B        Column C           Column D    Column E
+- ----------------------                 ---------- --------------------  ----------     --------
+                                                Additions               Deductions
+                                       ---------------------            ----------
+                         Balance at    Charged                          Balance
+                         Beginning       to                             at End
+    Description          of Period     Income   Recoveries  Write-Offs  of Period
+- ----------------------   ---------- ----------  ----------  ----------  ----------
+
+Reserves for losses
+from accounts receivable:
+
+Year ended May 29, 1992  $1,871,000  $833,000     $73,000   $885,000    $1,892,000
+                         ==========  ==========   ========  ==========  ==========
+
+Year ended May 28, 1993  $1,892,000  $85,000      $204,000  $188,000    $1,993,000
+                         ==========  ==========   ========  ==========  ==========
+
+Year ended June 3, 1994  $1,993,000  $1,793,000   $73,000   $1,559,000  $2,300,000
+                         ==========  ==========   ========  ==========  ==========
+
+
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>18
+<TABLE>
+    <S>              <C>       <C>            <C>      <C>             <C>
+                     OXFORD INDUSTRIES, INC. AND SUBSIDIARIES
+                     ----------------------------------------
+                       SCHEDULE IX - SHORT-TERM BORROWINGS
+                       -----------------------------------
+
+     Column A      Column B Column C    Column D      Column E   Column F
+- ---------------- ---------- ---------- ------------ ------------- -------------
+                             Average      Maximum      Average     Weighted
+Category of                 Interest       Amount       Amount     Average
+Aggregate        Balance     Rate at    Outstanding  Outstanding   Interest
+Short-Term       at End of   End of     During the    During the  Rate During
+Borrowings        Period     Period     Period        Period     the period(A)
+- --------------- ----------- ---------- ------------ ------------- --------------
+
+May 29, 1992:
+  Notes payable -
+    banks            (NA)      (NA)           (B)      $51,000         4.4%
+
+May 28, 1993:
+  Notes payable -
+    banks         $18,500,000   3.2%   $28,500,000  $13,510,000        3.3%
+
+June 3, 1994:
+   Notes payable -
+     banks        $19,500,000   4.5%   $50,000,000  $28,570,000        3.5%
+
+- -------------------
+<F1>
+(A)           The weighted average rate was computed by dividing related
+              interest expense by average short-term borrowings outstanding,
+              calculated on a daily basis.
+<F2>
+(B)           No short-term borrowings outstanding at end of period, or at the
+              end of any month during the year.
+<F3>
+(NA)          No short-term borrowings outstanding at end of period.
+
+
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>19
+                 OXFORD INDUSTRIES, INC. AND SUBSIDIARIES
+                 ----------------------------------------
+          SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+          -------------------------------------------------------
+
+            Column A                           Column B
+            --------                      ----------------
+                                          Charged to costs
+              Item                           and expenses
+            --------                      ----------------
+
+Year ended May 29, 1992:
+  Maintenance and repairs                     $5,494,000
+  Depreciation and amortization of
+    intangible assets, pre-operating costs
+    and similar deferrals                          *
+Taxes, other than income and payroll               *
+  Advertising                                      *
+  Royalties                                        *
+
+Year ended May 28, 1993:
+  Maintenance and repairs                     $5,794,000
+  Depreciation and amortization of
+    intangible assets, pre-operating costs
+    and similar deferrals                          *
+Taxes, other than income and payroll               *
+  Advertising                                      *
+  Royalties                                        *
+
+Year ended June 3, 1994:
+  Maintenance and repairs                          *    
+  Depreciation and amortization of
+    intangible assets, pre-operating costs
+    and similar deferrals                          *
+Taxes, other than income and payroll               *
+  Advertising                                      *
+  Royalties                                        *
+
+
+
+- -------------------
+
+*Total of expense category was less than 1% of net sales or can be
+ascertained from the Company's financial statements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3
+<SEQUENCE>2
+<DESCRIPTION>EX-3B BYLAWS OF COMPANY
+<TEXT>
+
+<PAGE>20 
+                                EXHIBIT 3b
+
+                                                 
+                                                      
+
+                                  BYLAWS
+                                  ------
+
+                                    OF
+                                    --
+
+                          OXFORD INDUSTRIES, INC.
+                          -----------------------
+
+                                 ARTICLE I
+                                 ---------
+
+                               STOCKHOLDERS
+                               ------------
+
+Section 1.  Annual Meetings.  The Annual Meeting of the
+stockholders for the election of Directors and for the transaction
+of such other business as may properly come before the meeting
+shall be held at such place, either within or without the State of
+Georgia, on such date, and at such time, as the Board of Directors
+may by resolution provide, or if the Board of Directors fails to
+provide for such meeting by action by November 1 of any year, then
+such meeting shall be held at the principal office of the Company
+in Atlanta, Georgia, at 11 a.m. on the third Wednesday in November
+of each year, if not a legal holiday under the laws of the State of
+Georgia, and if a legal holiday, on the next succeeding business
+day.
+
+Section 2.  Special Meetings.  Special meetings of the stockholders
+may be called by the persons specified in the Company's Articles of
+Incorporation.  Such meetings may be held at such place, either
+within or without the State of Georgia, as is stated in the call
+and notice thereof.
+
+Section 3.  Notice of Meeting.  A written or printed notice stating
+the place, day and hour of the meeting, and in case of a special
+meeting, the purpose or purposes for which the meeting is called,
+shall be delivered or mailed by the Secretary of the Company to
+each holder of record of stock of the Company at the time entitled
+to vote, at his address as appears upon the record of the Company,
+not less than 10 nor more than 50 days prior to such meeting.  If
+the Secretary fails to give such notice within 20 days after the
+call of a meeting the person or persons calling such meeting, or
+any person designated by them, may give such notice.  Notice of
+such meeting may be waived in writing by any stockholder. 
+Attendance at any meeting, in person or by proxy, shall constitute
+a waiver of notice of such meeting.  Notice of any adjourned
+meeting of the stockholders shall not be required.
+
+<PAGE>21 
+Section 4.  Quorum.  A majority in interest of the outstanding
+capital stock of the Company represented either in person or by
+proxy shall constitute a quorum for the transaction of business at
+any annual or special meeting of the stockholders.  If a quorum
+shall not be present, the holders of a majority of the stock
+represented may adjourn the meeting to some later time.  When a
+quorum is present, a vote of a majority of the stock represented in
+person or by proxy shall determine any question, except as
+otherwise provided by the Articles of Incorporation, these Bylaws,
+or by law.
+
+Section 5.  Proxies.  A stockholder may vote, either in person or
+by proxy duly executed in writing by the stockholder.  A proxy for
+any meeting shall be valid for any adjournment of such meeting.
+
+Section 6.  Record Date.  The Board of Directors shall have power
+to close the stock transfer books of the Company for a period not
+exceeding fifty days preceding the date of any meeting of
+stockholders or the date for payment of any dividend or the date
+for allotment of rights or the date when any change or conversion
+or exchange of capital stock shall go into effect; provided,
+however, that in lieu of closing the stock transfer books as
+aforesaid, the Board of Directors may fix in advance a date, not
+exceeding fifty days preceding the date of any meeting of
+stockholders or the date for the payment of any dividend, or the
+date for allotment of rights, or the date when any change or
+conversion or exchange of capital stock shall go into effect, as a
+record date for the determination of the stockholders entitled to
+such notice of, and to vote at, any such meeting, or entitled to
+receive payment of any such dividend or to any such allotment of
+rights, or to exercise the rights in respect of any such change,
+conversion or exchange of capital stock, and in such case only such
+stockholders as shall be stockholders of record on the date so
+fixed shall be entitled to such notice of, and to vote at, such
+meeting, or to receive payment of such dividend, or to receive such
+allotment of rights, or to exercise such rights, as the case may
+be, notwithstanding any transfer of any stock on the books of the
+Company after any such record date fixed as aforesaid.
+
+                                ARTICLE II
+                                ----------
+
+                                 DIRECTORS
+                                 ---------
+
+Section 1.  Powers of Directors.  The Board of Directors shall have
+the management of business of the Company, and, subject to any
+restriction imposed by law, by the charter, or by these Bylaws, may
+exercise all the powers of the corporation.
+
+Section 2.  Number of Directors.  Effective as of the date of the
+1989 Annual Meeting of Stockholders, the Board of Directors shall
+consist of 12 members.
+Section 3.  Meeting of Directors.  The Board may by resolution
+
+<PAGE>22 
+provide for the time and place of regular meetings, and no notice
+need by given of such regular meetings.  Special Meetings of the
+Directors may be called by the Chairman of the Board or by the
+President or by at least 30 percent of the Directors.
+
+Section 4.  Notice of Meeting.  Notice of each meeting of the
+Directors shall be given by the Secretary mailing the same at least
+five days before the meeting or by telephone or telegraph or in
+person at least three days before the meeting, to each Director,
+except that no notice need be given of regular meetings fixed by
+the resolution of the Board or of the meeting of the Board held at
+the place of and immediately following the Annual Meeting of the
+stockholders.
+
+Section 5.  Executive Committee.  The Board may by resolution
+provide for an Executive Committee consisting of such Directors as
+are designated by the Board.  Any vacancy in such Committee may be
+filled by the Board.  Except as otherwise provided by the law, by
+these Bylaws, or by resolution of the full Board, such Executive
+Committee shall have and may exercise the full powers of the Board
+of Directors during the interval between the meetings of the Board
+and wherever by these Bylaws, or by resolution of the stockholders,
+the Board of Directors is authorized to take action or to make a
+determination, such action or determination may be taken or made by
+such Executive Committee, unless these Bylaws or such resolution
+expressly require that such action or determination be taken or
+made by the full Board of Directors.  The Executive Committee shall
+by resolution fix its own rules of procedure, and the time and
+place of its meetings, and the person or persons who may call, and
+the method of call, of its meetings.  The Chairman of the Board of
+Directors shall be a member of the Executive Committee and shall
+act as Chairman thereof.
+
+Section 6.  Compensation.  A fee and reimbursement for expenses for
+attendance at meetings of the Board of Directors or any Committee
+thereof may be fixed by resolution of the full Board.
+
+Section 7.  Retirement of Directors.  Any Director who is also an
+employee of the Company, other than the Chief Executive Officer,
+shall be ineligible for election or appointment as a Director after
+his retirement as an employee or after reaching sixty-five (65)
+years of age, whichever occurs first.  Any person who has served as
+Chief Executive Officer of the Company and any Director who is not
+an employee of the Company shall be ineligible for election or
+appointment as a Director after reaching seventy-two (72) years of
+age.
+
+
+<PAGE>23 
+                                ARTICLE III
+                                -----------
+
+                                 OFFICERS
+                                 --------
+
+Section 1.  Officers.  The officers of the Company shall consist of
+a Chairman of the Board of Directors, a President, one or more Vice
+Presidents, a Secretary and Treasurer, and such other officers or
+assistant officers as may be elected by the Board of Directors. 
+Any two offices may be held by the same person, except that the
+same person shall not be President and Secretary.  The Board may
+designate a Vice President as an Executive Vice President, and may
+designate the order in which the other Vice Presidents may act.
+
+Section 2.  Chairman of the Board of Directors.  The Chairman of
+the Board of Directors shall preside at all meetings of the
+stockholders, of the Board of Directors and of the Executive
+Committee, unless he designates another officer to preside.  He
+shall act in a consultative capacity and perform such other duties
+as the Board of Directors may from time to time direct.
+
+Section 3.  President.  Subject to the directions of the Board of
+Directors, the President shall be the Chief Executive Officer of
+the Company and shall give general supervision and direction to the
+affairs of the Company.  He shall preside at meetings in case of
+the absence or disability of the Chairman of the Board.
+
+Section 4.  Vice President.  The Vice President shall act in case
+of the absence or disability of the Chairman of the Board and the
+President.  If there is more than one Vice President such Vice
+Presidents shall act in the order of precedence as set out by the
+Board of Directors, or in the absence of such designation, the
+Executive Vice President shall be first in order of precedence.
+
+Section 5.  Treasurer.  The Treasurer shall be responsible for the
+maintenance of proper financial books and records of the Company.
+
+Section 6.  Secretary.  The Secretary shall keep the minutes of the
+meetings of the stockholders, the Directors, and the Executive
+Committee and shall have custody of the seal of the corporation.
+
+Section 7.  Other Duties and Authorities.  Each officer, employee,
+and agent shall have such other duties and authorities as may be
+conferred on him by the Board of Directors and, subject to any
+directions of the Board, by the Chairman of the Board.
+
+Section 8.  Removal.  Any officer may be removed at any time by the
+Board of Directors.  A contract of employment for a definite term
+shall not prevent the removal of any officer; but this provision
+shall not prevent the making of a contract of employment with any
+officer and any officer removed in breach of his contract of
+employment shall have cause of action therefor.
+
+<PAGE>24  
+                                ARTICLE IV
+                                ----------
+
+                     DEPOSITORIES, SIGNATURES AND SEAL
+                     ---------------------------------
+
+Section 1.  Depositories.  All funds of the Company shall be
+deposited in the name of the Company in such depositories as the
+Board may designate and shall be drawn out on checks, drafts or
+other orders signed by such officer, officers, agent or agents as
+the Board may from time to time authorize.
+
+Section 2.  Contracts.  All contracts and other instruments shall
+be signed on behalf of the Company by such officer, officers, agent
+or agents, as the Board may from time to time by resolution
+provide.
+
+Section 3.  Seal.  The corporate seal of the Company shall be as
+follows:
+
+                              (Imprint Seal)
+
+The seal may be affixed to any instrument by any officer of the
+Company and may be lithographed or otherwise printed on any
+document with the same force and effect as if it had been imprinted
+manually.
+
+<PAGE>25
+                                 ARTICLE V
+                                 ---------
+
+                              STOCK TRANSFERS
+                              ---------------
+
+Section 1.  Form and Execution of Certificates.  The certificates
+of shares of capital stock of the Company shall be in such form as
+may be approved by the Board of Directors and shall be signed by
+the President or a Vice President and by the Secretary or any
+Assistant Secretary or the Treasurer or any Assistant Treasurer,
+provided that any such certificate may be signed by the facsimile
+of the signature of either or both of such officers imprinted
+thereon if the same is countersigned by a transfer agent of the
+Company, and provided further that certificates bearing a facsimile
+of the signature of such officers imprinted thereon shall be valid
+in all respects as if such person or persons were still in office,
+even though such officer or officers shall have died or otherwise
+ceased to be officers.
+
+Section 2.  Transfer of Shares.  Shares of stock in the Corporation
+shall be transferable only on the books of the Company by proper
+transfer signed by the holder of record thereof or by a person duly
+authorized to sign for such holder of record.  The Company or its
+transfer agent shall be authorized to refuse any transfer unless
+and until it is furnished such evidence as it may reasonable
+require showing that the requested transfer is proper.
+Section 3.  Lost, Destroyed or Mutilated Certificates.  The Board
+may by resolution provide for the issuance of certificates in lieu
+of lost, destroyed or mutilated certificates and may authorize such
+officer or agent as it may designate to determine the sufficiency
+of the evidence of such loss, destruction or mutilation and the
+sufficiency of any security furnished to the Company and to
+
+<PAGE>26
+determine whether such duplicate certificate should be issued.
+
+Section 4.  Transfer Agent and Registrar.  The Board may appoint a
+transfer agent or agents and a registrar or registrars of transfer,
+and may require that all stock certificates bear the signature of
+such transfer agent or such transfer agent and registrar.
+
+                                ARTICLE VI
+                                ----------
+
+                                 INDEMNITY
+                                 ---------
+
+Section 1.  Indemnity.  Each person who is now, has been, or who
+shall hereafter become a Director or officer of the Corporation,
+whether or not then in office, shall be indemnified by the
+Corporation against all costs and expenses reasonably incurred by
+or imposed upon him in connection with or resulting from any
+demand, action, suit or proceedings or threat thereof, to which he
+may be made a party as a result or by reason of his being or having
+been a Director or officer of the Corporation or of any other
+corporation which he serves as a Director or officer at the request
+of the Corporation, except in relation to matters as to which a
+recovery shall be had against him or penalty imposed upon him by
+reason of his having been finally adjudged in such action, suit or
+proceedings to have been derelict in the performance of his duties
+as such Director or officer.  The foregoing right to indemnify
+shall include reimbursement of the amounts and expenses paid in
+settling any such demand, suit or proceedings or threat thereof
+when settling the same appears to the Board of Directors or the
+Executive Committee to be in the best interest of the Corporation,
+and shall not be exclusive of other rights to which such Director
+or officer may be entitled as a matter of law.
+
+                                ARTICLE VII
+                                -----------
+
+                                AMENDMENTS
+                                ----------
+
+Section 1.  Amendments.  Except as otherwise provided in the
+Articles of Incorporation or in resolutions of the Board of
+Directors pursuant to which preferred stock is issued, the Board of
+Directors or the stockholders shall have the power to alter, amend
+or repeal the Bylaws or to adopt new Bylaws.  The stockholders may
+prescribe that any Bylaw or Bylaws adopted by them shall not be
+altered, amended or repealed by the Board of Directors.  Except as
+otherwise provided in the Articles of Incorporation or in
+resolutions of the Board of Directors pursuant to which preferred
+stock is issued, action by the Board of Directors with respect to
+the Bylaws shall be taken by the affirmative vote of a majority of
+all Directors then holding office, and action by the stockholders
+with respect to the Bylaws shall be taken by the affirmative vote
+of the holders of a majority of all shares of common stock.
+
+<PAGE>27
+                               ARTICLE VIII
+                               ------------
+
+                           BUSINESS COMBINATIONS
+                           ---------------------
+
+Section 1.  Business Combinations.  All the requirements of Article
+11A of the Georgia Business Corporation Code (the "Code"), which
+includes Sections 14-2-1131, 14-2-1132 and 14-2-1133 of the Code,
+shall be applicable to the Company.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<DESCRIPTION>EX-10E EXECUTIVE MEDICAL
+<TEXT>
+
+<PAGE>28
+                                EXHIBIT 10e
+
+
+                          OXFORD INDUSTRIES, INC.
+              SUMMARY OF EXECUTIVE MEDICAL REIMBURSEMENT PLAN
+                      FISCAL YEAR ENDED JUNE 3, 1994
+
+
+
+     The Company provides an Executive Medical Reimbursement plan,
+under coverage from an insurance company, for certain executives of
+the Company for medical expenses not covered by the Company's
+Flexible Medical Plan.
+
+     Irrespective of any provisions of the Flexible Medical plan,
+the Executive Medical Reimbursement Plan provides that the
+insurance company  providing coverage under the Plans will pay 100%
+of the charges incurred by the participating executive or his
+eligible dependent for hospital, surgical, medical or dental
+expenses, including expenses relating to vision care, eyeglasses,
+hearing examination and hearing aids, Orthodontia, and physicals. 
+The Executive Medical Reimbursement Plan does not cover (i) the
+executive's required contributions under the Flexible Medical Plan,
+(ii) the first $250 deductible under the comprehensive medical
+expense insurance provisions of the Flexible Medical Plan, (iii)
+expenses for non-prescription drugs or medicines, (iv) routine
+travel expenses to and from the place of service, and (v) charges
+in excess of Usual, Customary and Reasonable allowance.
+
+     The aggregate maximum amount payable for any one participating
+executive and all his eligible dependents is $10,000 for any one
+calendar year.
+
+     The cost of the Executive Medical Reimbursement Plan is borne
+by the Company.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>4
+<DESCRIPTION>EX-11 EPS
+<TEXT>
+
+<PAGE>29
+                               EXHIBIT-11
+
+
+
+                         OXFORD INDUSTRIES, INC.
+                    COMPUTATION OF PER SHARE EARNINGS
+                    ---------------------------------
+
+                               Year Ended
+                      -------------------------------
+                      June 3, 1994       May 28, 1993
+                      ------------       ------------
+
+Net earnings           $19,201,000        $14,786,000
+
+Average number of shares                 
+  outstanding:
+    Primary              8,817,582          8,873,528
+    Fully diluted        8,837,850          8,881,251
+    As reported (1)      8,606,843          8,688,015
+
+Net earnings per
+  common share:
+    Primary                 $2.18              $1.67
+    Fully Diluted           $2.17              $1.66
+    As Reported (1)         $2.23              $1.70
+- -------------------
+
+(1)  Common stock equivalents (which arise solely from outstanding
+stock options) are not materially dilutive and, accordingly, have not
+been considered in the computation of reported net earnings per common
+share.
+
+Weighted Average Shares O/S   8,603,332
+Weighted Average Shares O/S   8,581,949
+Weighted Average Shares O/S   8,605,122
+Weighted Average Shares O/S   8,634,511
+- ---------------------------   ---------
+12 Months Average             8,606,843
+                              =========
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>5
+<DESCRIPTION>EX-13 ANNUAL RPT TO SHAREHOLDERS
+<TEXT>
+
+<PAGE>30      
+                   MANAGEMENT'S DISCUSSION AND ANALYSIS OF 
+                    FINANCIAL CONDITION AND OPERATIONS
+
+
+RESULTS OF OPERATIONS
+
+    FISCAL 1994
+
+Net sales increased 9% from fiscal 1993.  In order to achieve
+this increase, the Company had to replace approximately
+$20,000,000 of fiscal 1993 sales to the discontinued Sears,
+Roebuck & Co. catalog business.  The Lanier Clothes  division
+recorded a sales increase of 9%.  The Oxford Shirtings  division
+recorded a sales increase in excess of 19%.  In fiscal 1994, the
+Company continued to strengthen strategic alliances with its
+largest customers.  Sales to the Company's fifty largest
+customers increased 13.2%.  
+
+Cost of goods sold as a percentage of net sales decreased to
+79.9% in fiscal 1994 from 80.3% in fiscal 1993.  The primary
+reasons for this decrease were more effective sourcing and
+favorable costing variances combined with a decreased LIFO
+charge.
+
+Selling, general and administrative expenses increased by 5.9% to
+$91,209,000 in fiscal 1994 from $86,098,000 in fiscal 1993. 
+Combined with the increase in net sales, the percentage of
+selling, general and administrative expenses to net sales
+declined to 14.6% in fiscal 1994 from 15% in fiscal 1993.  This
+decline as a percentage of net sales was the result of the
+Company's continued focus on expense control in addition to
+efficiencies gained from realizing economies of scale.  In spite
+of the absorption of start up expenses for the Tommy Hilfiger 
+dress shirt line (with no sales volume) and the Savane  sport
+shirt line (with minimal sales volume), the Company still
+decreased total expenses as a percent of sales.
+
+Net interest expense as a percentage of net sales was 0.4% in
+both fiscal 1994 and fiscal 1993.
+
+As discussed in the notes to financial statements, the Company
+adopted SFAS No. 109, Accounting for Income taxes, effective May
+29, 1993.  This adoption did not have a significant impact on the
+Company's financial statements.  Income taxes are discussed at
+length for all three years in the notes to the consolidated
+financial statements.
+
+    FISCAL 1993
+
+Net sales increased 8.6% from fiscal 1992.  The Company made
+significant gains in its core menswear businesses.  The Lanier
+Clothes  division recorded a sales increase in excess of 12%. 
+The Oxford Shirtings  division recorded a sales increase in
+excess of 35% to become the Company's largest division.  The
+
+<PAGE>31
+Private Label Women's Sportswear and Dress divisions posted
+moderate declines in sales.  In the fourth quarter, the Company
+began to feel the adverse effects of the decision by Sears,
+Roebuck & Co. to discontinue its catalog business.  The Company's
+strategy of restructuring the customer base to larger, more
+financially stable retailers continued for the year.  Sales to
+the Company's fifty largest customers rose by 14.6%, while sales
+to all other customers declined by 16.3%.
+
+Cost of goods sold as a percentage of net sales increased to
+80.3% in fiscal 1993 from 79.8% in fiscal 1992.  This increase
+reflects a slight initial margin erosion due to intense
+competitive pressure.
+
+Selling, general and administrative expenses increased by 1.9% to
+$86,098,000 in fiscal 1993 from $84,466,000 in fiscal 1992. 
+Combined with the increase in net sales, the percentage of
+selling, general and administrative expenses to net sales
+declined to 15.0% in fiscal 1993, from 16.0% in fiscal 1992. 
+This was the result of the Company's expense control efforts.
+
+Net interest expense as a percentage of net sales increased to
+0.4%  in fiscal 1993, from 0.3% in fiscal 1992, due to higher
+weighted average short-term borrowings.  The increased borrowings
+were used primarily to support increased inventory.
+
+    FISCAL 1992
+
+Net sales increased 4.3% from fiscal 1991.  The increase was
+primarily attributable to significant gains in  the Company's
+Upscale Lines and Private Label Women's Lines which were
+partially offset by decreases in the Private Label Women's Lines
+and a significant decrease caused by discontinuance of Cos Cob 
+and JBJ  branded women's sportswear and Holbrook  men's
+shirtings.  Fiscal 1992 results reflected increased sales
+achieved along with a continued adjustment to the customer base. 
+The Company de-emphasized the pursuit of small independent
+specialty stores and placed greater emphasis on large specialty
+chains and department stores.
+
+
+Cost of goods sold as a percentage of net sales decreased to
+79.8% in fiscal 1992, from 80.3% in fiscal 1991.  The decrease in
+fiscal 1992 resulted primarily from reduced markdowns and
+increased manufacturing efficiency, but were partially offset by
+an increased LIFO charge and costs associated with opening new
+offshore facilities.
+
+Selling, general and administrative expenses as a percentage of
+net sales decreased to 16% in fiscal 1992, from 17.3% in fiscal
+1991.  The decrease resulted primarily from cost savings
+associated with discontinued lines, including Cos Cob, JBJ and
+Holbrook, as well as the Company's continued expense containment
+efforts.  
+
+<PAGE>32
+Net interest expense as a percentage of net sales declined to
+0.3% in fiscal 1992, from 0.6% in fiscal 1991.  This decline was
+due to the near elimination of short-term borrowings and
+scheduled reductions of long-term debt.
+
+
+
+    FUTURE OPERATING RESULTS
+
+The Company views fiscal 1995 with cautious optimism.  The
+apparel industry remains highly competitive.  While the long-term
+economic environment has become less predictable due to increased
+globalization, the near term economic environment appears to be
+stabilizing.  Current uncertainties regarding the future economic
+environment that may effect the Company include the budget
+deficit, corporate and individual taxes, national health care and
+the General Agreement on Tariffs and Trades (GATT) among others.
+
+The Company's backlog of unshipped orders at the end of fiscal
+1994 was $156,733,000, more than a 20% increase from the
+$129,869,000, at the end of fiscal 1993.   These numbers
+represent only store orders on hand, and do not include private-
+label contract balances.  The Company expects sales volume will
+increase by 7% to 8% in fiscal 1995 in part fueled by the new
+Tommy Hilfiger  dress shirt line and the Savane  wrinkle-free
+sport and dress shirt line.  Continued attention to sourcing
+effectiveness and expense control should permit net earnings to
+increase at a rate somewhat greater than the rate of sales
+increase.
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+    FISCAL 1994
+
+During fiscal 1994, operating activities generated $19,683,000 in
+cash as compared to 1993 when these activities used $5,012,000 in
+cash.  The primary factors contributing to this change were
+increased net earnings and trade payables offset by increased
+receivables and increased inventories.  The increased receivables
+reflect the increased sales in the last two months of fiscal 1994
+over fiscal 1993.  The increased inventory reflects the Company's
+backlog of unshipped orders and the introduction of the Tommy
+Hilfiger  and Savane  shirt lines.  The increase in trade
+payables primarily supports the increased inventory.
+
+Investing activities used $8,981,000 in fiscal 1994 as compared
+to $6,226,000 in fiscal 1993.  The primary differences resulted
+from increased capital expenditures for additions or replacement
+of worn or obsolete machinery and equipment and upgrading
+management information systems.  A substantial part of this
+increase was for equipment relating to the "wrinkle-free" process
+for the slacks and shirtings divisions.  In fiscal 1993, proceeds
+from the sale of previously idled facilities helped offset some
+of the capital expenditures.  There were no similar significant
+proceeds from the sale of capital assets in 1994.
+
+Net financing activities used $10,729,000 in fiscal 1994 which
+included scheduled payments on long-term debt, dividends on
+common stock and the purchase and retirement of 125,700 shares of
+the Company's common stock, all of which were purchased on the
+open market or in negotiated transactions.  Sources included
+short-term borrowings and proceeds from the net issuance of
+78,437 shares of the Company's stock due to the exercise of
+employee stock options.
+
+   FISCAL 1993
+
+During fiscal 1993, operating activities used $5,012,000 in cash
+as compared to 1992 when these activities generated $3,817,000 in
+cash.  The primary factors contributing to this change were
+increased inventories and a reduction in trade accounts payable,
+which were partially offset by increased net income.  Most of the
+increase in inventory occurred in the fourth quarter, and was
+related to private label finished goods, which are covered by
+contracts with major customers.
+
+Investing activities used $6,226,000 in fiscal 1993, as compared
+to $4,671,000 in fiscal 1992.  The primary difference resulted
+from increased capital expenditures for additions or replacement
+of worn or obsolete machinery and equipment and upgrading
+management information systems.  In 1993, proceeds from the sale
+of previously idled facilities helped offset some of the
+increased capital expenditures.
+
+<PAGE>33
+Net financing activities generated $6,083,000 in fiscal 1993,
+which included increased short-term borrowings to finance
+increased working capital requirements, and the net issuance of
+37,569 shares due to the exercise of employee stock options. 
+Uses of funds included payment of dividends on common stock,
+scheduled payments on long-term debt, and the purchase and
+retirement of 162,404 shares of Company common stock, all of
+which were purchased on the open market or in negotiated
+transactions.
+
+    FISCAL 1992
+
+During fiscal 1992, operating activities generated $3,817,000 as
+compared to fiscal 1991, when these activities generated
+$44,724,000 in cash.  The primary factors contributing to this
+decrease were increased accounts receivable and inventories,
+which were somewhat offset by higher net earnings and an increase
+in trade payables.  The increase in accounts receivable reflected
+the increased sales in the last two months of the year over
+fiscal 1991.  The increase in inventories anticipated increased
+sales as reflected in the Company's increased backlog of
+unshipped orders to $123,519,000 at the end of fiscal 1992, from
+$102,505,000 in fiscal 1991.  The bulk of the increase in
+
+<PAGE>34
+inventory was in raw materials and work in process.  The trade
+payables increase primarily supported the increase in inventory.  
+
+Investing activities used $4,671,000 as compared to $5,948,000 in
+fiscal 1991.  The bulk of these investments were for additions or
+replacement of worn or obsolete machinery and equipment,
+upgrading management information systems and offshore plant
+construction.  
+
+Financing activities used $9,893,000 which included dividends on
+common stock, scheduled payments on long-term debt, the purchase
+and retirement of 80,735 shares of Company common stock on the
+open market and the net issuance of 35,822 shares due to the
+exercise of employee stock options.
+
+    FUTURE LIQUIDITY AND CAPITAL RESOURCES
+
+The Company believes it has the ability to generate cash to meet
+its foreseeable needs.  The sources of funds primarily include
+funds provided by operations and short-term borrowings.  The uses
+of funds primarily include working capital requirements, capital
+expenditures, dividends and repayment of long-term debt.  The
+Company regularly utilizes committed bank lines of credit and
+other uncommitted bank resources to meet capital needs.  At the
+end of fiscal 1994, the Company had committed bank lines of
+$20,000,000 and uncommitted bank lines of $122,000,000.  At the
+end of fiscal 1994, $10,000,000 was outstanding under the
+commited lines of credit, and $9,500,000 was outstanding under
+the uncommitted lines.
+
+Capital expenditures in 1995 will consist of improved management
+information systems and the replacement of worn or obsolete
+equipment.  In addition, capital expenditures for fiscal 1995
+will include equipment relating to the "wrinkle-free" process for
+the slacks and shirtings divisions.
+
+The Company will continue to purchase shares of its own common
+stock on the open market and in negotiated trades as conditions
+and opportunities warrant.  The Company will also consider
+possible acquisitions of apparel-related businesses that are
+compatible with its long-term strategies.  There are no present
+plans to borrow additional long-term funds, sell securities or
+obtain off-balance sheet financing.
+
+<PAGE>35
+        MANAGEMENT'S RESPONSIBILITY FOR FINANCIAL REPORTING
+
+
+
+     The management of Oxford Industries, Inc. is responsible for
+the integrity and objectivity of the consolidated financial
+statements and other financial information presented in this
+report.  These statements have been prepared in conformity with
+generally accepted accounting principles consistently applied and
+include amounts based on the best estimates and judgements of
+management.
+
+     Oxford maintains a system of internal accounting controls
+designed to provide reasonable assurance, at a reasonable cost,
+that assets are safeguarded against loss or unauthorized use and
+that the financial records are adequate and can be relied upon to
+produce financial statements in accordance with generally
+accepted accounting principles.  The internal control system is
+augmented by written policies and procedures, an internal audit
+program and the selection and training of qualified personnel. 
+This system includes policies that require adherence to ethical
+business standards and compliance with all applicable laws and
+regulations.
+
+     The consolidated financial statements for the years ended
+June 3, 1994, May 28, 1993 and May 29, 1992 have been audited by
+Arthur Andersen & Co., independent public accountants.  In
+connection with its audits, Arthur Andersen & Co. develops and
+maintains an understanding of Oxford's accounting and financial
+controls and conducts tests of Oxford's accounting systems and
+other related procedures as it considers necessary to render an
+opinion on the financial statements.
+
+     The Audit Committee of the Board of Directors, composed
+solely of outside directors, meets periodically with Oxford's
+management, internal auditors and independent public accountants
+to review matters relating to the quality of financial reporting
+and internal accounting controls, and the independent nature,
+extent and results of the audit effort.  The Committee recommends
+to the Board appointment of the independent public accountants. 
+Both the internal auditors and the independent public accountants
+have access to the Audit Committee, with or without the presence
+of management.
+
+
+
+
+R. William Lee, Jr.
+
+Executive Vice President
+
+and Chief Financial Officer
+
+<PAGE>36
+Report of Independent Public Accountants
+
+To the Board of Directors and the Stockholders of
+Oxford Industries, Inc.
+
+We have audited the accompanying consolidated balance sheets of Oxford
+Industries, Inc. (a Georgia corporation) and Subsidiaries as of June 3,
+1994 and May 28, 1993 and the related consolidated statements of earnings,
+stockholders' equity, and cash flows for each of the three years in the
+period ended June 3, 1994.  These financial statements are the
+responsibility of the Company's management.  Our responsibility is to
+express an opinion on the financial statements based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free
+of material misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial
+statements.  An audit also includes assessing the accounting principles
+used and significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  We believe that our audits
+provide a reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Oxford Industries, Inc.
+and subsidiaries as of June 3, 1994 and May 28, 1993 and the results of
+their operations and their cash flows for each of the three years in the
+period ended June 3, 1994 in conformity with generally accepted accounting
+principles.
+
+Arthur Andersen & Co.
+
+Atlanta, Georgia
+July 15, 1994
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<PAGE>37
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+OXFORD INDUSTRIES, INC. AND SUBSIDIARIES
+
+Years Ended June 3, 1994, May 28, 1993 and May 29, 1992
+
+A.  Summary of Significant Accounting Policies:
+
+1.  Principal Business Activity--Oxford Industries, Inc. (the "Company") is
+engaged in the design, manufacture and sale of consumer apparel for men,
+women and children.
+
+2.  Principles of Consolidation--The consolidated financial statements
+include the accounts of the Company and all of its subsidiaries.  All
+material inter-company balances, transactions and profits have been
+eliminated.
+
+3.  Fiscal Period--The Company's fiscal closing date is the Friday nearest
+May 31.  The fiscal year includes operations for a 53-week period in 1994,
+and a 52-week period in 1993 and 1992.
+
+4.  Revenue Recognition--Revenue is recognized when goods are shipped.
+
+5.  Statement of Cash Flows--The Company considers cash equivalents to be
+short-term investments with original maturities of three months or less.
+
+6.  Inventories--Inventories are principally stated at the lower of cost
+(last-in, first-out method, "LIFO") or market.
+
+7.  Property, Plant and Equipment--Depreciation and amortization of
+property, plant and equipment are provided on both straight-line (primarily
+buildings) and accelerated methods over the estimated useful lives of the
+assets as follows:
+                                                                      
+Buildings and improvements                                 7-40 years
+Machinery and equipment                                    3-15 years
+Office fixtures and equipment                              3-10 years
+Autos and trucks                                            2-6 years
+Leasehold improvements                                   Life of Lease
+                                                                           
+8.  Income Taxes--Effective May 29, 1993, the Company adopted Statement of
+Financial Accounting Standards No. 109, "Accounting for Income Taxes" in
+which deferred tax liabilities and assets are determined based on the
+difference between financial and tax bases of assets and liabilities using
+enacted tax rates in effect for the year in which the differences are
+expected to reverse.  The adoption did not have a significant impact on the
+Companies financial statements.
+
+9.  Financial Instruments--The fair values of financial instruments closely
+approximate their carrying values.   
+
+<PAGE>38
+B.  Inventories:
+
+The components of inventories are summarized as follows:
+
+                                                                          
+$ in thousands                           June 3, 1994       May 28, 1993
+                                                                          
+Finished goods                                $ 59,784          $55,733
+Work in process                                 22,549           19,931
+Fabric                                          24,967           20,484
+Trim and supplies                                7,165            6,445
+                                                                          
+                                              $114,465         $102,593
+                                              ========          =======
+    The excess of replacement cost over the value of inventories based
+upon the LIFO method was $35,644,000 at June 3, 1994 and $36,667,000 at May
+28, 1993.  
+     For fiscal year 1994, net income was increased by approximately
+$609,000 ($.07 per share) as a result of using the LIFO method as compared
+to using the first-in, first-out method.  During 1993 and 1992, net income
+was reduced by approximately $757,000 ($.09 per share) and $683,000 ($.08
+per share) respectively, as a result of using the LIFO method.  
+    During fiscal 1993 and 1992, inventory quantities were reduced, which
+resulted in a liquidation of LIFO inventory layers carried at lower costs
+which prevailed in prior years.  The effect of the liquidations was to
+decrease cost of goods sold by approximately $124,000 and to increase net
+earnings by $75,000 or $.01 per share.  The effect of the liquidations for
+1992 was to decrease cost of goods sold by $1,205,000 and to increase net
+earnings by $735,000 or $.08 per share.  There were no significant
+liquidations of LIFO inventories in 1994.
+
+C.  Property, Plant and Equipment:
+
+Property, plant and equipment, carried at cost, is summarized as follows:
+
+$ in thousands                           June 3, 1994      May 28, 1993
+Land                                         $  1,374          $  1,374
+Buildings                                      32,508            31,131
+Machinery and equipment                        65,206            61,990
+Leasehold improvements                          3,782             3,299
+                                              102,870            97,794
+Less accumulated depreciation
+    and amortization                           69,653            66,767
+                                             $ 33,217           $31,027 
+                                             ========           ======= 
+<PAGE>39
+D.  Notes Payable and Long-Term Debt:
+
+The Company had available for its use lines of credit with several lenders
+aggregating $20,000,000 at June 3, 1994.  The Company has agreed to pay
+commitment fees for these available lines of credit.  At June 3, 1994,
+$10,000,000 was in use under these lines at various rates approximating
+4.5%.  In addition, the Company has $122,000,000 in uncommitted lines of
+credit, of which $47,000,000 is reserved exclusively for letters of credit. 
+The Company pays no commitment fees for these available lines of credit. 
+At June 3, 1994, $9,500,000 was in use under these lines of credit at
+various rates approximating 4.5%.
+
+A summary of long-term debt is as follows:
+
+$ in thousands                           June 3, 1994    May 28, 1993
+                                                                          
+Note payable to insurance company,
+  8.62%, due in annual installments
+  through May 1996                            $ 7,500          $11,250
+
+Industrial revenue bonds and mortgage
+  notes at fixed rates of 6.1% to
+  7.25% and varying rates of 73% to
+  86% of prime rate (prime was 7.25%
+  at June 3, 1994), due in varying
+  installments to 2016                         10,240           11,403
+                                               17,740           22,653
+Less current maturities                         5,352            4,865
+                                              $12,388          $17,788
+                                              =======          ======= 
+    The note payable to the insurance company contains various covenants
+including restrictions on the amount of retained earnings available for
+dividends and certain other payments, and requires tangible net worth to be
+not less than $90,000,000.  Retained earnings of $19,471,000 at June 3,
+1994 were unrestricted.
+
+    Property, plant and equipment with an aggregate carrying amount at
+June 3, 1994 of approximately $6,385,000 is pledged as collateral on the
+industrial revenue bonds.
+    The aggregate maturities of long-term debt are as follows:
+                                                                          
+$ in thousands
+                                                                          
+Fiscal year
+    1995                                                       $ 5,352
+    1996                                                         4,849
+    1997                                                         2,112
+    1998                                                         2,942
+    1999                                                           612
+    Thereafter                                                   1,873
+                                                                          
+                                                               $17,740
+                                                               =======
+<PAGE>40
+E.  Commitments and Contingencies: 
+
+The Company has operating lease agreements for buildings, sales offices and
+equipment with varying terms to 2006.  The total rent expense under all
+leases was approximately $4,883,000 in 1994, $5,654,000 in 1993 and
+$5,932,000 in 1992.
+    The aggregate minimum rental commitments for all non-cancellable
+operating leases with terms of more than one year are as follows:
+
+$ in thousands
+Fiscal year:
+    1995                                                        $ 3,816
+    1996                                                          2,788
+    1997                                                          1,639
+    1998                                                          1,314
+    1999                                                          1,160
+    Thereafter                                                    1,950
+                                                                $12,667
+                                                                ======= 
+     The Company is also obligated under certain apparel license and design
+aggreements to make future minimum payments as follows: 
+
+$ in thousands
+Fiscal Year:
+    1995                                      $ 3,236
+    1996                                        3,241
+    1997                                        3,498
+    1998                                        2,700
+    1999                                        2,700
+                                               15,375
+                                              =======
+
+    The Company uses letters of credit to facilitate certain apparel
+purchases.  The total amount of letters of credit outstanding at June 3,
+1994 was approximately $36,000,000.
+
+    The Company is involved in certain legal matters primarily arising in
+the normal course of business.  In the opinion of management, the Company's
+liability under any of these matters would not materially affect its
+financial condition or results of operations.
+
+<PAGE>41
+F.  Stock Options:
+A summary of changes in stock options is as follows:
+                                                    Number of Shares
+                                              1994       1993       1992
+Outstanding, beginning of year              407,740    268,190    313,700
+Granted                                       6,500    185,000         - 
+Cancelled                                    (2,280)    (6,860)    (8,240)
+Exercised                                   (82,380)   (38,590)   (37,270) 
+ Outstanding, end of year                   329,580    407,740    268,190
+                                           ===============================
+
+    Options have been granted at prices equal to 100% of the market price
+of Oxford common stock at dates of grant.  Stock options outstanding as of
+June 3, 1994 are as follows:
+
+Date of                           Number of       Price     Expiration
+Option Grant                         Shares       Per Share      Date      
+Jan.  7, 1991                       145,960       $ 7.00    Jan.  7, 1996
+Jan. 14, 1991                         8,060       $ 7.00    Jan. 14, 1996
+Mar. 28, 1991                         2,000       $ 9.81    Mar. 28, 1996
+July 13, 1992                       167,060       $15.38    July 13, 1997
+July 12, 1993                         5,000       $15.94    July 12, 1998
+Sept. 9, 1993                           500       $20.38    Sept. 9, 1998
+Nov. 10, 1993                         1,000       $22.88    Nov. 10, 1998
+                                    329,580
+                                    ======= 
+As of June 3, 1994, 146 employees held stock options.  At June 3, 1994,
+options for 62,880 shares were exercisable and an additional 510,480 shares
+were reserved for issuance pursuant to options that could be granted in the
+future.
+
+G.  Significant Customers:
+
+Approximately 24% in 1994, 28% in 1993 and 24% in 1992 of the Company's
+revenues were derived from sales to a national retail chain.  Approximately
+10% in 1994, and 7% in both 1993 and 1992 of the Company's revenues were
+derived from sales to another national retail chain.
+
+H.  Retirement Plans:
+
+The Company has retirement savings programs covering substantially all
+full-time U.S. employees.  If a participant decides to contribute, a
+portion of the contribution is matched by the Company.  Total expense under
+these programs was $1,412,000 in 1994, $1,372,000 in 1993 and $1,328,000 in
+1992.  
+
+<PAGE>42
+I.  Income Taxes:    
+The provision (benefit) for income taxes includes the following:
+
+$ in thousands                         1994          1993          1992
+Current:
+    Federal                         $11,164        $7,983        $8,146
+    State                             1,938         1,114         1,150
+                                     13,102         9,097         9,296
+Deferred                                (31)          657        (1,284)
+                                                                          
+                                    $13,071        $9,754        $8,012
+                                  ===================================== 
+ 
+Reconciliations of the U.S. federal statutory income tax rates and the
+Company's effective tax rates are summarized as follows:
+
+                                       1994           1993          1992  
+Statutory rate                         35.0%          34.0%         34.0%
+State income taxes - net of
+    federal income tax benefit          3.9            4.5           4.5
+Tax credits                            (0.1)          (0.2)         (0.7)
+Other items - net                       1.7            1.4           1.2
+                                                                          
+Effective rate                         40.5%          39.7%         39.0%
+                                       ==================================
+
+
+<PAGE>43
+    Deferred income taxes result from accounting for certain transactions
+in different periods for financial and tax reporting purposes.  The sources
+and income tax effect of these differences are as follows:
+
+                                       1994             1993           1992 
+
+Depreciation                            (41)           (132)          (589)
+Lease termination                        10              72           (133)
+Inventory valuation                     300              71           (761)
+Group insurance                         329            (128)           188
+Compensation                            (27)           (164)          (263)
+Other, net                             (602)            938            274
+                                                                    
+                                       $(31)           $657        $(1,284)
+                                       ====================================
+
+    Effective May 29, 1993, the Company adopted Statement of  Financial
+Accounting Standards No. 109, "Accounting for Income Taxes" (SFAS 109). 
+This statement requires the recognition of deferred tax assets and
+liabilities for the expected future tax consequences of events that have
+been included in the financial statements.  The adoption did not have a
+significant impact on the Company's financial statements.
+    Deferred tax assets and liabilities as of June 3, 1994, and at time of
+adoption, May 29, 1993, computed under SFAS 109, are comprised of the
+following ($ in thousands):
+
+     Deferred Tax Assets:                     June 3, 1994    May 29, 1993
+      Inventory                                    $ 1,966        $ 2,266
+      Compensation                                   1,829          1,802
+      Group insurance                                  622            951
+      Allowance for bad debts                          919            802
+      Lease termination                                590            600
+      Other, net                                     1,552            507
+                                                   -------        -------
+      Deferred Tax Assets                            7,478          6,928
+
+      Deferred Tax Liabilities:
+      Depreciation - property, plant & equipment     1,691          1,732
+      Foreign                                          800            913
+      Other, net                                     1,368            695
+                                                  --------        -------
+      Deferred Tax Liabilities                       3,859          3,340
+
+      Net Deferred Tax Asset                       $ 3,619        $ 3,588
+                                                    ======         ======
+<PAGE>44
+J.  Equity and Earnings Per Share:
+
+     Earnings per share is computed based on the weighted average number of
+shares of common stock outstanding of 8,606,843 in 1994, 8,688,015 in 1993
+and 8,801,920 in 1992.  The dilutive effect of stock options outstanding in
+1994, 1993 and 1992 was not material for purposes of this calculation.  
+
+K.  Summarized Quarterly Data (Unaudited):
+
+Following is a summary of the quarterly results of operations for the years
+ended June 3, 1994, May 28, 1993 and May 29, 1992:
+                                          Fiscal Quarter
+$ in thousands, except
+per share amounts         First    Second     Third     Fourth     Total    
+1994 *
+Net sales               $148,711  $178,737   $143,141   $153,979  $624,568
+Gross profit              29,337    35,066     29,229     32,146   125,778
+Net earnings               3,982     5,829      4,474      4,916    19,201
+Earnings per share          0.46      0.68       0.52       0.57      2.23
+
+1993 *
+Net sales               $134,300  $163,565   $140,651  $134,353  $572,869
+Gross profit              26,429    31,810     27,602    27,060   112,901
+Net earnings               3,114     4,617      3,459     3,596    14,786
+Earnings per share          0.36      0.53       0.40      0.41      1.70
+
+1992 *
+Net sales               $122,988  $142,559   $125,755  $136,371  $527,673
+Gross profit              25,085    28,565     25,701    27,362   106,713
+Net earnings               2,642     3,748      2,922     3,220    12,532
+Earnings per share          0.30      0.43       0.33      0.36      1.42
+
+* Includes a favorable fourth-quarter after tax LIFO adjustment of
+$1,769,000 ($.21 per share) in 1994, $654,000 ($.08 per share) in 1993 and
+$415,000 ($.04 per share) in 1992.
+
+Net Sales by Product Class
+
+The following table sets forth separately in percentages net sales by class
+of similar products for each of the last three fiscal years:
+                                           1994         1993         1992
+Net Sales:
+    Menswear                                73%          73%          70%
+    Womenswear                              27%          27%          30%
+                                                                         
+                                           100%         100%         100%
+                                           ==============================
+
+                           Common Stock Information:
+                 Market Price on the               Quarterly Cash Dividend
+              New York Stock Exchange                Per Share
+                Fiscal 1994   Fiscal 1993         Fiscal 1994   Fiscal 1993
+               High     Low   High     Low
+1st Quarter   21      15 1/8  27       14 3/8        .165          .15
+2nd Quarter   24      20      19 5/8   15 1/2        .165          .15
+3rd Quarter   29 3/4  22 1/8  22 1/2   15 3/4        .18           .165   
+4th Quarter   34 1/2  30      20 1/2   15 3/4        .18           .165   
+
+At the close of fiscal 1994, there were 959 stockholders of record.
+
+<PAGE>45
+Oxford Industries, Inc. and Subsidiaries
+Consolidated Balance Sheets
+                                     Year Ended
+$ in thousands except share amounts            June 3, 1994   May 28, 1993
+
+Assets
+Current Assets:
+   Cash and cash equivalents                      $  3,227       $  3,254
+   Receivables, less allowance for
+      doubtful accounts of $2,300 and $1,993
+      in 1994 and 1993, respectively                75,165         68,093
+   Inventories                                     114,465        102,593
+   Prepaid expenses                                 12,402         11,698
+
+      Total Current Assets                         205,259        185,638
+
+   Property, Plant and
+  Equipment, Net                                    33,217         31,027
+   Other Assets, Net                                 1,471          1,562
+                                                                   
+     Total Assets                                 $239,947       $218,227
+                                                  ========       ========
+
+Liabilities and Stockholders' Equity
+Current Liabilities:
+ Notes payable                                      19,500         18,500
+   Trade accounts payable                           45,023         34,629
+   Accrued compensation                             11,687         11,304
+   Other accrued expenses                           12,977         11,072
+   Dividends payable                                 1,555          1,433
+   Current maturities of long-term debt              5,352          4,865
+
+      Total Current Liabilities                     96,094         81,803
+
+Long-Term Debt, less current
+   maturities                                       12,388         17,788
+
+Deferred Income Taxes                                3,730          3,304
+
+Commitments and Contingencies (Note E)
+
+Stockholders' Equity:                 
+   Common stock*                                     8,638          8,685
+   Additional paid-in capital                        6,153          5,193
+   Retained earnings                               112,944        101,454
+
+     Total Stockholders' Equity                    127,735        115,332
+
+   Total Liabilities and Stockholders' Equity     $239,947       $218,227
+                                                  ========       ========
+
+
+* Par value $1 per share;  authorized 30,000,000 shares;  issued and
+outstanding shares:   8,637,665 in 1994 and 8,684,928 in 1993.
+
+
+See notes to consolidated financial statements.
+
+<PAGE>46
+Oxford Industries, Inc. and Subsidiaries
+Consolidated Statements of Earnings
+
+                                        Year Ended                  
+$ in thousands except                June 3, 1994  May 28, 1993  May 29, 1992
+per share amounts                    ------------  ------------  ------------
+
+Net Sales                                $624,568     $572,869       $527,673
+
+Costs and Expenses:
+   Cost of goods sold                  498,790      459,968        420,960
+   Selling, general and administrative  91,209       86,098         84,466
+   Interest, net                         2,297        2,263          1,703
+                                       --------     --------       --------
+                                       592,296      548,329        507,129
+
+Earnings Before Income Taxes            32,272       24,540         20,544
+Income Taxes                            13,071        9,754          8,012
+                                      --------     --------       --------
+Net Earnings                          $ 19,201     $ 14,786       $ 12,532
+                                      ========     ========       ========
+   
+Net Earnings Per Common Share            $2.23       $1.70           $1.42
+                                      ========    ========        ========
+
+See notes to consolidated financial statements.
+<PAGE>47
+Oxford Industries, Inc. and Subsidiaries
+Consolidated Statements of Stockholders' Equity
+                                                                               
+                                         Additional
+$ in thousands                 Common     Paid-In   Retained
+except per share amounts        Stock     Capital   Earnings   Total
+
+Balance, May 31, 1991            8,855      4,828     87,527    101,210
+   Net earnings                      -         -      12,532     12,532
+   Purchase and retirement
+     of common stock               (81)       (44)      (843)      (968)
+   Exercise of stock options        36        270        (26)       280
+   Cash dividends $.55 
+     per share                       -         -      (4,840)    (4,840)
+                              ---------  ---------  ---------  ---------
+Balance, May 29, 1992            8,810      5,054     94,350    108,214
+   Net earnings                                       14,786     14,786
+   Purchase and retirement
+     of common stock              (162)       (94)    (2,193)    (2,449)
+   Exercise of stock options        37        233        (19)       251
+   Cash dividends, $.63
+     per share                                        (5,470)    (5,470)
+                              ---------  ---------  ---------  ---------
+Balance, May 28, 1993         $  8,685   $  5,193   $101,454   $115,332
+   Net earnings                                       19,201     19,201
+   Purchase and retirement
+     of common stock              (125)       (75)    (1,685)    (1,885)
+   Exercise of stock options        78      1,035        (88)     1,025
+   Cash dividends, $.69
+     per share                                        (5,938)    (5,938)
+                              ---------  ---------  ---------  ---------
+Balance, June 3, 1994            8,638      6,153     112,944   127,735
+                              =========  =========  =========  =========
+
+See notes to consolidated financial statements.
+
+<PAGE>48
+Oxford Industries, Inc. and Subsidiaries
+Consolidated Statements of Cash Flows
+  
+                                       June 3,   May 28,   May 29,
+$ in thousands  Year ended:             1994      1993      1992
+                                       -------   -------   -------
+Cash Flows from Operating Activities:
+Net earnings                           $19,201   $14,786   $12,532
+Adjustments to reconcile net earnings
+ to net cash provided by (used in) operating activities
+  Depreciation and amortization          7,041     6,457     6,254
+  (Gain) loss on sale of property, plant                  
+  and equipment                           (211)     (488)       33
+Changes in working capital:
+  Receivables                           (7,072)     (935)   (7,470)
+  Inventories                          (11,872)  (20,572)  (15,359)
+  Prepaid expenses                        (704)   (1,851)   (1,200)
+  Trade accounts payable                10,394    (3,734)    8,353
+  Accrued expenses and other
+    current liabilities                  2,428     1,078     1,122
+  Income taxes payable                      -       (402)     (324)
+Deferred income taxes                      426     1,162       250 
+Other noncurrent assets                     52      (513)    (374)
+                                       -------   -------   -------
+  Net cash flows provided by (used  
+    in) operating activities            19,683    (5,012)    3,817
+Cash Flows from Investing Activities:
+Purchase of property, plant
+  and equipment                         (9,395)   (8,050)   (5,439)
+Proceeds from sale of property,
+  plant and equipment                      414     1,824       768
+                                       -------   -------   -------
+Net cash (used in) investing activities (8,981)   (6,226)   (4,671)
+
+Cash Flows from Financing Activities:
+Short-term borrowings                    1,000    18,500        -  
+Payments on long-term debt              (4,913)   (4,733)   (4,576)
+Proceeds from exercise of options        1,025       251       280
+Purchase and retirment of common stock  (1,885)   (2,449)     (968)
+Dividends on common stock               (5,956)   (5,486)   (4,629)
+                                        -------   -------   -------
+   Net cash (used in) provided by
+      financing activities             (10,729)    6,083     (9,893)
+Net change in cash and cash equivalents    (27)   (5,155)   (10,747)
+Cash and cash equivalents at beginning 
+   of period                             3,254     8,409     19,156
+                                       -------   -------    -------
+Cash and cash equivaltents at end of
+period                                  $3,227    $3,254     $8,409
+                                       =======   =======    =======
+
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION
+  CASH PAID FOR:
+  Interest                              $ 2,315   $ 2,312   $ 1,701
+  Income taxes                           11,443    10,868     9,424
+                                        =======   =======   =======
+
+
+See notes to consolidated financial statements
+
+<PAGE>49
+DIRECTORS AND OFFICERS
+DIRECTORS                                 
+
+J. Hicks Lanier                           
+Chairman and President                    
+
+Ben B. Blount                             
+Executive Vice President                  
+
+Cecil D. Conlee                           
+President                                 
+CGR Advisors                              
+(real estate advisory service)
+
+John B. Ellis                             
+Private investor;                         
+former Senior Vice President
+Genuine Parts Company
+(automotive replacement parts)
+
+Thomas Gallagher                          
+President                                 
+Genuine Parts Company
+(automotive replacement parts)
+
+Bradley Hale                              
+Former Partner, Retired                   
+King & Spalding                           
+(attorneys)                               
+  
+Clifford M. Kirtland, Jr.
+Private Investor;
+former Chairman
+Cox Communications, Inc.
+(television and radio broadcasting)
+
+J. Reese Lanier
+Self-employed in farming
+and related businesses
+
+R. William Lee, Jr.
+Executive Vice President
+
+Knowlton J. O'Reilly
+Group Vice President
+
+Robert E. Shaw
+President and Chief Executive Officer
+Shaw Industries, Inc.
+(carpet manufacturing and marketing)
+
+Robert Strickland
+Former Chairman of the Board, Retired
+Sun Trust Banks, Inc.
+(bank holding company)
+
+
+OFFICERS
+
+J. Hicks Lanier                           
+Chairman and President
+  
+Ben B. Blount, Jr.
+Executive Vice President
+Planning and Development
+
+R. William Lee, Jr.                       
+Executive Vice President                  
+Finance and Administration
+
+Knowlton J. O'Reilly
+Group Vice President
+
+John A. Baumgartner, Jr.
+Vice President
+Information Systems
+
+Joseph H. Kraft
+Vice President
+Human Resources
+
+Debra A. Pauli                            
+Controller                                
+
+James W. Wold
+Treasurer
+
+David K. Ginn                             
+General Counsel and Secretary             
+  
+
+
+<PAGE>50
+Division Presidents
+
+L. Wayne Brantley                         
+President, Lanier Clothes                 
+
+Donald S. Carswell
+President, Polo for Boys
+
+Daniel J. Chin                            
+President, Oxford Dresses                 
+
+R. Larry Johnson
+President, Oxford Slacks
+
+Debra S. Malbin                                     
+President, Jhane Barnes and Renny         
+
+Theodore R. Mendelson
+President, B.J. Design Concepts
+
+Knowlton J. O'Reilly
+President, Oxford Sportswear Separates
+
+James M. Pressley                         
+President, Oxford Sportswear Collections  
+
+Robert C. Skinner
+President, Oxford Shirtings
+
+
+
+<PAGE>51
+Corporate Information
+
+Executive Offices                         Auditors
+222 Piedmont Avenue, N.E.                 Arthur Andersen & Co.
+Atlanta, GA  30308
+
+  Transfer Agent and Registrar
+Telephone: (404) 659-2424                 Trust Company Bank, Atlanta
+Facsimile: (404) 653-1545                 
+
+Stock Listing
+The common stock of Oxford Industries, Inc. is listed on the New York Stock
+Exchange.  Ticker Symbol:  OXM
+
+A copy of the Company's Form 10-K Annual Report filed with the Securities
+and Exchange Commission will be furnished without charge to any stockholder
+upon writted request to the Corporate Secretary, Oxford Industries, Inc.,
+222 Piedmont Avenue, N.E., Atlanta, Georgia 30308.
+
+Oxford Industries, Inc. is an Equal Opportunity Employer with an
+Affirmative Action Program.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>6
+<DESCRIPTION>EX-13A SELECTED FIN DATA INCLUDED IN ANNUAL RPT
+<TEXT>
+
+<PAGE>52
+
+
+
+
+<TABLE>
+    <S>                                 <C>         <C>          <C>          <C>          <C>
+    SELECTED FINANCIAL DATA 
+    OXFORD INDUSTRIES, INC.
+
+ 
+
+                           
+ $ and shares in thousands 
+   except per share amounts
+                   Year Ended        June 3, 1994 May 28, 1993 May 29, 1992 May 31, 1991 June 1, 1990 
+
+    Net Sales                           $624,568    $572,869     $527,673     $505,845     $550,434  
+    Cost of Goods Sold                   498,790     459,968      420,960      406,108      444,105  
+    Selling, General and Administr        91,209      86,098       84,466       87,762       89,997    
+    Interest                               2,297       2,263        1,703        3,024        3,491    
+    Earnings (Loss) Before Income         32,272      24,540       20,544        8,951       12,841    
+    Income Taxes                          13,071       9,754        8,012        3,410        4,892     
+    Net Earnings (Loss)                   19,201      14,786       12,532        5,541        7,949    
+    Net Earnings (Loss) Per Common          2.23        1.70         1.42         0.62         0.82     
+    Average Number of Shares Outst         8,607       8,688        8,802        9,000        9,695    
+    Dividends                              5,938       5,470        4,840        4,487        4,817     
+    Dividends Per Share                     0.69        0.63         0.55         0.50         0.50          
+    Total assets                         239,947     218,227      199,254      187,214      208,429        
+    Long-term obligations                 12,388      17,788       22,693       27,309       31,962 
+    Stockholders equity                  127,735     115,332      108,214      101,210      103,660      
+    Capital Expenditures                   9,395       8,050        5,439        6,433        5,849    
+    Book Value Per Share at Year-E         14.79       13.28        12.28        11.43        11.19     
+    Return on Average Stockholders         15.8%        13.2%        12.0%         5.4%         7.5%     
+    Return on Average Total Assets          8.4%         7.1%         6.5%         2.8%         3.8%     
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>7
+<DESCRIPTION>EX-24 AUDITORS CONSENT
+<TEXT>
+
+<PAGE>53
+                               EXHIBIT-24
+
+
+
+               CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+
+
+As independent public accountants, we hereby consent to the
+incorporation by reference in Oxford Industries, Inc.'s previously
+filed Registration Statements No. 2-76870 and No. 33-7231 of (1)
+our report dated July 15, 1994 appearing on page 15 of the
+Corporation's 1994 Annual Report to Stockholders which is
+incorporated by reference in the Corporation's Annual Report on
+Form 10-K for the year ended June 3, 1994, and (2) our report on
+schedules dated July 15, 1994 appearing on page 17 of the
+Corporation's Annual Report on Form 10-K for the year ended June 3,
+1994.
+
+
+
+
+                                  ARTHUR ANDERSEN & CO.
+
+
+Atlanta, Georgia
+August 26, 1994
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-25
+<SEQUENCE>8
+<DESCRIPTION>EX-25 POWER OF ATTORNEY
+<TEXT>
+
+<PAGE>54
+                                EXHIBIT 25
+                  ELECTRONIC SUMMARY - POWER OF ATTORNEY
+
+     Each of the undersigned, a director of Oxford Industries, Inc.
+(the "Company"), does hereby constitute and appoint David K. Ginn
+and Thomas Caldecort Chubb, III, his true and lawful attorney-in-
+fact and agents, with full power of substitution and
+resubstitution, for him and in his name, place and stead, to sign
+the Company's Form 10-K Annual Report pursuant to Section 13 of the
+Securities Exchange Act of 1934 for the fiscal year ended June 3,
+1994 and to file the same, with all exhibits thereto, and other
+documents in connection therewith, with the Securities and Exchange
+Commission, granting unto the attorneys-in-fact full power and
+authority to sign such documents on behalf of the undersigned and
+to make such filing, as fully to all intents and purposes as the
+undersigned might or could do in person, hereby ratifying and
+confirming all that the attorneys-in-fact, or his substitutes, may
+lawfully do or cause to be done by virtue hereof.  
+
+Dated:  July 18, 1994
+
+                          Oxford Industries, Inc.
+
+     BEN B. BLOUNT, JR.                      CECIL D. CONLEE
+- ------------------------------       ------------------------------
+     Ben B. Blount, Jr.                      Cecil D. Conlee
+     Director                                Director
+
+     JOHN B. ELLIS                           TOM GALLAGHER
+- ------------------------------       ------------------------------
+     John B. Ellis                           Tom Gallagher
+     Director                                Director
+
+     BRADLEY HALE                      CLIFFORD M. KIRTLAND, JR.
+- ------------------------------       ------------------------------
+     Bradley Hale                      Clifford M. Kirtland, Jr.
+     Director                                Director
+
+     J. REESE LANIER                     KNOWLTON J. O'REILLY
+- -------------------------            ------------------------------
+     J. Reese Lanier                     Knowlton J. O'Reilly
+     Director                                Director
+
+     ROBERT E. SHAW                          ROBERT STRICKLAND
+- -------------------------            ------------------------------
+     Robert E. Shaw                          Robert Strickland
+     Director                                Director
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>9
+<DESCRIPTION>EX-99 INDEX OF EXHIBITS
+<TEXT>
+55
+<PAGE>
+                                   EXHIBIT 99
+                                        
+
+                            INDEX OF EXHIBITS
+                       INCLUDED HEREIN, FORM 10-K 
+                              JUNE 3, 1994
+                                                                SEQUENTIAL
+ EXHIBIT                                                            PAGE
+NUMBER                  DESCRIPTION                               NUMBER
+- -------------------------------------------------------------------------
+3(b) By laws of the Company                                       20-27
+                                     
+10(e)     Summay of Executive Medical Reimbursement
+          Plan.                                                   28
+                                    
+                                    
+11   Statement re computation of per share earnings.              29
+                                    
+13   1994 Annual Report to Stockholders (furnished for 
+     the information of the Commission and not deemed 
+     "filed" or part of this Form 10-K except for those 
+      portions expressly incorporated herein by 
+      reference).                                                 30-52
+                                    
+                                    
+24   Consent of Arthur Andersen & Co. to the incorporation 
+      by reference in Form S-8 Registration Statements 
+      No. 2-76870 and No. 33-7231 of its reports dated 
+      July 18, 1994.                                              53
+                                    
+25   Powers of Attorney.                                          54
+                                      
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

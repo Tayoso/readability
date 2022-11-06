@@ -1,0 +1,2235 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ di51WbdhFSA+sKTbXcis/LL8Mj8z1H9TFBzT0gF96DkB54SvV5krz8HrD52OQgmc
+ Ji6YwMy/gbA0TjGo0pEC8Q==
+
+<IMS-DOCUMENT>0000277375-94-000007.txt : 19940916
+<IMS-HEADER>0000277375-94-000007.hdr.sgml : 19940916
+ACCESSION NUMBER:		0000277375-94-000007
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940908
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DELTA NATURAL GAS CO INC
+		CENTRAL INDEX KEY:			0000277375
+		STANDARD INDUSTRIAL CLASSIFICATION:	4923
+		IRS NUMBER:				610458329
+		STATE OF INCORPORATION:			KY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-08788
+		FILM NUMBER:		94548484
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3617 LEXINGTON RD
+		CITY:			WINCHESTER
+		STATE:			KY
+		ZIP:			40391
+		BUSINESS PHONE:		6067446171
+
+	MAIL ADDRESS:	
+		STREET 2:		3617 LEXINGTON ROAD
+		CITY:			WINCHESTER
+		STATE:			KY
+		ZIP:			40391
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+FORM 10-K
+
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+[X] ANNUAL REPORT PRUSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended June 30, 1994.
+
+OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from _____________ to _______________.
+
+Commission file number 0-8788.
+
+           DELTA NATURAL GAS COMPANY, INC.__________
+(Exact name of registrant as specified in its charter)
+
+  ________KENTUCKY_______  ___________61-0458329_____________
+  (State of Incorporation) (IRS Employer Identification Number)
+
+3617 Lexington Road, Winchester, Kentucky          40391___
+ (Address of principal executive offices)        (Zip Code)
+
+Registrant's telephone number, including area code 606-744-6171.
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                              Name of each exchange
+        Title of each class                    on which registered
+
+        _______None________                  __________None________
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+Common Stock $1 Par Value
+
+(Title of class)
+     Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) 
+Exchange Act of 1934 during the preceding 12 months (or for such shorter
+period that the registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days. 
+Yes [X]         No  [ ]
+
+      Indicate by check mark if disclosure of delinquent filers pursuant
+to Item 405 of Regulation S-K is not contained herein, and will not be
+contained, to the best of registrant's knowledge, in definitive proxy or
+information statements incorporated by reference in Part III of this Form 10-
+K or any amendment to this Form 10-K    [X]
+
+               As of August 18, 1994, Delta Natural Gas Company, Inc. had
+outstanding 1,842,618 shares of common stock $1 Par Value, and the aggregate
+market value of the voting stock held by non-affiliates was approximately
+$32,706,469.
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+       The Registrant's definitive proxy statement to be filed with the
+Commission not later than 120 days after June 30, 1994, is incorporated by
+reference in Part III of this Report.
+
+TABLE OF CONTENTS
+
+                                                             Page Number
+PART I
+        Item 1.          Business                                 1
+
+                         General                                  1
+                         Gas Operations and Supply                1
+                         Regulatory Matters                       5
+                         Capital Expenditures                     7
+                         Employees                                7
+                         Consolidated Statistics                  8
+
+        Item 2.          Properties                               9
+
+        Item 3.          Legal Proceedings                       10
+
+        Item 4.          Submission of Matters to a Vote of
+                         Security Holders                        10       
+
+PART II
+        Item 5.          Market for Registrant's Common Equity
+                         and Related Stockholder Matters         10
+
+        Item 6.          Selected Financial Data                 12
+
+        Item 7.          Management's Discussion and Analysis
+                         of Financial Condition and Results
+                         of Operations                           13
+
+        Item 8.          Financial Statements and Supplementary
+                         Data                                    17
+
+        Item 9.          Changes in and Disagreements with
+                         Accountants on Accounting and 
+                         Financial Disclosures                   18
+
+PART III
+        Item 10.         Directors and Executive Officers of
+                         the Registrant                          18
+
+        Item 11.         Executive Compensation                  18
+
+        Item 12.         Security Ownership of Certain
+                         Beneficial Owners and Management        18
+
+        Item 13.         Certain Relationships and Related
+                         Transactions                            18
+
+Part IV
+        Item 14.         Exhibits, Financial Statement
+                         Schedules and Reports on Form 8-K       19
+
+Signatures                                                       22
+
+PART I
+
+Item 1.  Business
+
+General
+
+        Delta Natural Gas Company, Inc. (Delta or the Company) was incorporated
+in 1949 in the State of Kentucky.  The Company is engaged in the
+distribution, transmission and production of natural gas in its service area
+in 17 counties in central and southeastern Kentucky.  In addition to its
+corporate headquarters in Winchester, Delta has warehouse facilities in
+Corbin and Winchester and branch offices in Barbourville, Berea, Corbin,
+London, Manchester, Middlesboro, Nicholasville, Owingsville, Stanton, and
+Williamsburg, with which it serves approximately 32,000 residential,
+commercial, industrial and transportation customers.  The four largest branch
+offices are Corbin, Nicholasville, Berea and Barbourville, where Delta serves
+approximately 5,800, 5,300, 3,400 and 3,100 customers, respectively.
+
+        The Company purchases and produces gas for distribution to its retail
+customers.  Additionally, Delta transports gas produced in southeastern
+Kentucky to inter-connected pipelines and also transports gas for others to
+industrial customers.  Delta owns and operates storage facilities and
+approximately 1,682 miles of natural gas gathering, transmission,
+distribution and service lines.
+
+        Delta has four wholly-owned subsidiaries, Delta Resources, Inc.
+(Resources), Delgasco, Inc. (Delgasco), Deltran, Inc. (Deltran) and Enpro,
+Inc. (Enpro).  Resources buys gas and resells it to industrial customers on
+Delta's system and to Delta for system supply.  Delgasco buys gas and resells
+it to Resources and to customers not on Delta's system.  Deltran was formed
+to engage in potential pipeline projects under consideration and is inactive. 
+Enpro owns and operates existing production properties.  Delta and its
+subsidiaries are managed by the same officers.
+
+
+Gas Operations and Supply
+
+        The Company's revenues are affected by various factors, including rates
+billed to customers, the cost of natural gas, economic conditions in the
+areas that the Company serves, weather conditions and competition.  Delta
+competes for customers and sales with alternate sources of energy, including
+electricity, coal, oil, propane and wood.  Gas costs, which the Company is
+able to pass through to customers under its purchased gas adjustment clause,
+may affect Delta's competitive position or may cause customers to conserve,
+or, in the case of industrial customers, to use alternative energy sources. 
+Also, the potential bypass of Delta's system by industrial customers and
+others is a competitive concern that Delta has and will continue to address. 
+In recent years, regulatory changes at the federal level and changes in the
+participants in the natural gas industry have led to a national spot market
+for natural gas.  The Company's marketing subsidiaries purchase gas and
+resell it to various industrial customers and others in competition with
+producers and marketers.
+
+        Delta's retail sales are seasonal and temperature-sensitive as the
+majority of the gas sold by Delta is used for heating.  This seasonality
+impacts Delta's liquidity position and its management of its working capital
+requirements during each 12 month period (see "Management's Discussion and
+Analysis of Financial Condition and Results of Operations").  Currently, over
+99% of Delta's customers are residential and commercial.  Delta's remaining
+light industrial customers purchased approximately 7% of the total volume of
+gas sold by Delta at retail during 1994.
+
+        Retail gas sales in 1994 were 4,334,000 thousand cubic feet (Mcf), as
+compared to 3,990,000 Mcf in 1993.  Heating degree days for 1994 were
+approximately 105.8% of the thirty year average as compared with 99.2% in
+1993.  Sales volumes increased by 344,000 Mcf, or 8.6% in 1994 reflecting the
+colder weather in 1994 as compared to 1993.  Also, the number of customers
+served increased by 796, or 2.5%, during 1994.  Delta continued to convert
+customers to natural gas from other fuels.  Also, much of Delta's service
+area continued to expand, resulting in growth opportunities for the Company. 
+Industrial parks have been developed in certain areas and have resulted in
+new industrial customers, some of whom are on-system transportation
+customers.
+
+        A total of $2,933,000 of transportation revenues was earned during 1994
+as compared with $3,287,000 during 1993.  Total volumes transported were
+4,183,000 Mcf in 1994 as compared to 4,916,000 Mcf in 1993.  As of June 30,
+1994, Delta had 73 on-system transportation customers (industrial customers
+who purchase their gas from others) and 4 off-system transportation customers
+(deliveries made by Delta to other pipelines).
+
+        Transportation revenues include $2,310,000 earned during 1994 and
+$2,451,000 earned during 1993 for transportation of 2,186,000 Mcf and
+2,248,000 Mcf, respectively, on behalf of several on-system customers.  Delta
+also transports volumes for off-system deliveries, which include deliveries
+for interconnected interstate pipeline systems.  During 1994 and 1993,
+1,997,000 Mcf and 2,668,000 Mcf, respectively, were transported for such off-
+system deliveries.  The decline in off-system transportation in 1994 was
+primarily due to reduced shipments of gas on a 43 mile pipeline that Delta
+leased and began operating during 1989.  The pipeline extends from Clay
+County to Madison County, where it interconnects with the interstate pipeline
+facilities of the Columbia Gulf Transmission Company.  Delta's agreements to
+operate the line and transport gas through it had an initial term of three
+years and extend from year-to-year thereafter.  Delta's off-system
+transportation volumes include 574,000 Mcf transported through this pipeline
+in 1993.  This pipeline has been inactive since October, 1992.  Also, some
+producers shipped gas to markets that did not require the use of Delta's
+system.
+
+        Some producers in Delta's service area can access certain pipeline
+delivery systems other than Delta, which provides competition from others for
+transportation of such gas.  Delta will continue to purchase or transport any
+natural gas available that is produced in reasonable proximity to its
+facilities.
+
+        Recognizing competitive concerns, Delta will continue to maintain an
+active gas supply management program that emphasizes long-term reliability
+and the pursuit of cost effective sources of gas for its customers.  Delta
+purchases gas supplies from interstate pipelines, intrastate suppliers and
+others.  Delta has transportation and storage capacity available on certain
+interstate pipelines for deliveries of gas through those facilities.  The
+Company presently anticipates an adequate gas supply for service to existing
+customers and to provide for growth.
+
+        Delta receives a portion of its gas supply (including transportation gas
+purchased from others) from its interstate sources, Tennessee Gas Pipeline 
+Company (Tennessee) and Columbia Gas Transmission Corporation (Columbia), which
+companies are subject to the Federal Energy Regulatory Commission (FERC)
+jurisdiction.  A significant portion of Delta's supply comes from gas
+producers in southeastern Kentucky.  Delta's subsidiary companies obtain
+supply from Kentucky producers and others.
+
+        During 1992, the FERC ordered a major restructuring of interstate
+natural gas pipeline operations, services and rates during its Order 636
+proceedings.  It required that interstate pipelines provide transportation
+and storage services priced separately from sales of gas.  The FERC provided
+for blanket sales for resale certificates authorizing interstate pipelines to
+sell gas at unregulated, market-based rates.  Pipelines must provide a new
+no-notice firm service in addition to open-access transportation and storage
+services.  The FERC provided for new capacity assignment mechanisms. 
+Pipelines are required to design their transportation and storage rates using
+the straight-fixed-variable rate design methodology, which provides for
+recovery of less costs in the commodity, or unit, component of rates and
+correspondingly more costs in the demand, or fixed, component.  Pipelines
+will be allowed to abandon sales and transportation service upon expiration
+or termination of contracts.  The FERC established methods for the recovery
+of transition costs such as take-or-pay and contract reformation costs by
+pipelines.
+
+        Delta was involved in restructuring proceedings with both Tennessee and
+Columbia.  During 1994, Delta entered agreements for transportation and
+storage services with these two pipeline suppliers and began purchasing gas
+supplies from gas marketers.  The FERC approved Tennessee's new rates and
+services effective September 1, 1993, and Columbia's new rates and services
+effective November 1, 1993.  
+
+        Delta's agreements with Tennessee expire in the year 2000 and thereafter
+will continue on a year-to-year basis until terminated by either party.
+During 1994, Tennessee discontinued sales of gas to Delta and other wholesale
+customers upon implementation of FERC Order 636.  Delta's entitlements under
+those agreements were converted to firm transportation and storage rights on
+Tennessee, and Delta entered a three-year contract with a gas marketer to
+supply gas for those portions of Delta's system formerly served by Tennessee. 
+The initial term of the contract extends through April, 1996, and such
+purchases are included in Delta's gas cost recovery filings (see "Regulatory
+Matters").  During 1994, Delta purchased approximately 530,000 Mcf from
+Tennessee, including the purchase of Delta's allocated portion of the gas in
+Tennessee's storage inventory as of September 1, 1993 as required by the
+FERC.  Delta also purchased approximately 738,000 Mcf from the gas marketer.
+
+        Delta's entitlements under agreements with Columbia were also converted
+to firm transportation and firm storage services upon implementation of Order
+636 by Columbia.  The agreements expire in the year 2008 and thereafter will
+continue on a year-to-year basis until terminated by either party.  Delta
+contracted with a gas marketer to supply gas for those portions of Delta's
+system formerly served by Columbia.  The initial term of the agreement with
+the gas marketer extends through April, 1996, and such purchases are included
+in Delta's gas cost recovery filings (see "Regulatory Matters").  During
+1994, Delta purchased approximately 406,400 Mcf, from Columbia, including the
+purchase of Delta's allocated portion of the gas in Columbia's storage
+inventory as of November 1, 1993 as required by the FERC.  Delta also
+purchased approximately 340,000 Mcf from the gas marketer.
+
+        During July, 1991, Columbia and its parent company, Columbia Gas System
+Inc., filed for protection under Chapter 11 of the U.S. Bankruptcy Code due
+to problems related to above-market-price gas purchase contracts.  The filing
+has not materially affected its service to Delta.  Delta will continue to
+monitor Columbia's situation and take appropriate actions as required.
+
+        Delta has a contract with The Wiser Oil Company (Wiser) to purchase
+natural gas from Wiser through 1999.  Delta and Wiser annually determine the
+daily deliverability from Wiser and Wiser is committed to deliver that
+volume.  Under this agreement, Wiser is obligated to deliver 11,000 Mcf per
+day to Delta.  Delta purchased approximately 1,456,000 Mcf from Wiser during
+1994.
+
+        Delta has four contracts with Enpro to purchase all the natural gas
+produced from Enpro's wells on certain leases in Bell, Knox and Whitley
+Counties.  These agreements remain in force so long as gas is produced in
+commercial quantities from the wells on the leases.  Also, Delta purchases
+gas from Enpro which is produced from the Flat Lick Field in Knox County. 
+Remaining proved, developed natural gas reserves are estimated at
+approximately 5.4 million Mcf.  Delta purchased a total of approximately
+242,000 Mcf from those properties during 1994.  Enpro also produces oil from
+certain of these leases, but oil production has not been significant.
+
+        Delta receives gas under agreements with various other marketers,
+brokers and local producers, most of which are priced as short-term, or spot-
+market, purchases.  The combined volumes of gas purchased from these sources
+in 1994 was approximately 832,000 Mcf.
+
+        Resources and Delgasco purchase gas under agreements with various
+marketers, brokers and local producers, most of which are priced as short-
+term, or spot-market, purchases.  The gas is resold to industrial customers
+on Delta's system, to Delta for system supply and to others.  The combined
+volumes of gas purchased by Resources and Delgasco from these sources in 1994
+was approximately 1,535,000 Mcf.
+
+        Although there are competitors for the acquisition of supplies, Delta
+continues to seek additional new gas supplies from all available sources,
+including those in the proximity of its facilities in southeastern Kentucky. 
+Also, Resources and Delgasco continue to pursue acquisitions of new gas
+supplies from local producers and others.
+
+        As an active participant in many areas of the natural gas industry,
+Delta plans to continue its efforts to expand its gas distribution system. 
+Delta is considering acquisitions of other gas systems, some of which are
+contiguous to its existing service areas, as well as continued expansion
+within its existing service areas.  The Company also anticipates continuing
+activity in gas production and transportation areas and plans to pursue and
+increase these activities wherever practicable.  The Company will continue to
+consider the construction or acquisition of additional transmission, storage
+and gathering facilities to provide for increased transportation and enhanced
+supply and system flexibility.
+
+Regulatory Matters
+
+        Delta is subject to the regulatory authority of the Public Service
+Commission of Kentucky (PSC) with respect to various aspects of its business,
+including rates and service to retail and transportation customers.  Delta's
+last rate case was filed in 1990.  Rates were implemented in May, 1991. 
+Delta currently has no general rate case filed.
+
+        On January 29, 1993, the PSC established an administrative proceeding to
+investigate the reasonableness of current state regulatory practices, in
+particular purchased gas cost recovery mechanisms, in light of FERC Order
+636.  Delta is a party to this proceeding.  Delta currently has a Gas Cost
+Recovery (GCR) clause, which provides for a dollar-tracker that matches
+revenues and gas costs and allows eventual full recovery of gas costs.  This
+clause requires Delta to make quarterly filings with the PSC, but such
+procedure does not require a general rate case.  The GCR mechanism provides
+for any over or under-recovery of purchased gas costs to be reflected in the
+rates charged to customers.
+
+        In an Order dated December 22, 1993, in its administrative proceeding,
+the PSC provided for pipeline transition costs and certain other components
+of gas supply costs to appropriately be recovered through regulated
+utilities' purchased gas recovery mechanisms.  Delta's quarterly GCR filings
+include certain pipeline transition costs and various components of gas
+supply costs as a result of the FERC Order 636 restructuring.  The PSC has
+approved such filings and Delta has implemented rates reflecting these
+increased costs.  The administrative proceeding is a continuing docket
+wherein the PSC is considering and evaluating these and other issues relating
+to the FERC Order 636 restructuring.  Delta will continue to be an active
+participant in this proceeding.
+
+        In addition to PSC regulation, Delta may obtain non-exclusive franchises
+from the cities and communities in which it operates authorizing it to place
+its facilities in the streets and public grounds.  However, no utility may
+obtain a franchise until it has obtained from the PSC a certificate of
+convenience and necessity authorizing it to bid on the franchise.  Delta
+holds unexpired franchises in five of the ten cities in which it maintains a
+branch office and in seven other communities it serves.  In the other cities
+or communities, either Delta's franchises have expired, the communities do
+not have governmental organizations authorized to grant franchises, or the
+local governments have not required, or do not want to offer, a franchise. 
+Delta will attempt to acquire or reacquire franchises wherever possible and
+feasible.
+
+        Without a franchise, a local government could require Delta to cease its
+occupation of the streets and public grounds or prohibit Delta from extending
+its facilities into any new area of that city or community.  To date, the
+absence of a franchise has had no adverse effect on Delta's operations.
+
+Capital Expenditures
+
+        Capital expenditures during fiscal 1994 were approximately $7.4 million
+and for fiscal 1995 are estimated at approximately $8.4 million.  These
+include expenditures for system extensions and the replacement and
+improvement of existing transmission, distribution, gathering and general
+facilities.
+
+Employees
+
+        Delta employed a total of 174 full-time employees on June 30, 1994. 
+Delta considers its relationship with its employees to be satisfactory.
+
+Consolidated Statistics                                     
+                                                                      
+For the Years Ended June 30,     1994      1993      1992     1991       1990
+                                                                      
+Retail Customers Served,                                              
+End of Period                                                         
+   Residential ..............   27,939     27,293    26,488   25,698    25,364
+   Commercial ...............    4,242      4,093     4,035    4,168     4,049
+   Industrial ...............       76         75        66       71        63
+                                                                      
+      Total .................   32,257     31,461    30,589   29,937    29,476
+                                                                      
+Operating Revenues ($000)                                             
+   Residential sales ........   16,597     14,578    13,945   12,453    12,792
+   Commercial sales .........    9,663      8,269     7,651    6,294     6,581
+   Industrial sales .........    1,671      1,383     1,188    1,299     1,656
+   On-system transportation .    2,310      2,451     2,348    2,351     2,039
+   Off-system transportation.      623        836     1,342    1,377     1,126
+   Subsidiary sales .........    3,755      3,532     2,580    2,873     2,708
+   Other ....................      228        172       147      131       280
+                                                                      
+      Total .................   34,847     31,221    29,201   26,778    27,182
+                                                                      
+System Throughput                                                     
+(Million Cu. Ft.)                                                     
+   Residential sales ........    2,511      2,341     2,202    2,049     2,195
+   Commercial sales .........    1,506      1,368     1,235    1,115     1,214
+   Industrial sales .........      316        281       229      248       327
+                                                                      
+      Total retail sales ....    4,333      3,990     3,666    3,412     3,736
+                                                                      
+   On-system transportation..    2,186      2,248     2,061    1,993     1,518
+                                                                      
+   Off-system transportation.    1,997      2,668     4,580    4,903     4,087
+                                                                      
+      Total .................    8,516      8,906    10,307   10,308     9,341
+                                                                      
+                                                                      
+Average Annual Consumption Per                                        
+  End of Period Residential                                           
+  Customer (Mcf) ............       90         86        83       80        86
+Lexington, Kentucky Degree Days                                       
+   Actual ...................    4,999      4,688     4,370    4,025     4,579
+   Percent of 30 year average                                         
+     (4,726) .................   105.8       99.2      92.5     85.2      96.9
+                                                                      
+                                                                      
+Average Revenue Per Mcf Sold                                          
+  at Retail ($) .............     6.44       6.07      6.21     5.88      5.63
+                                                                      
+Average Gas Cost Per Mcf Sold                                         
+  at Retail ($) .............     3.34       2.90      3.01     3.42      3.26
+
+Item 2.  Properties
+
+      Delta owns the land and buildings containing its corporate headquarters in
+Winchester.  The buildings house executive, administrative and technical staffs
+of Delta.  In addition, Delta owns buildings used for branch operations in
+Barbourville, Berea, Corbin, London, Manchester, Middlesboro, Nicholasville,
+Stanton and Williamsburg and rents an office building in Owingsville for branch
+operations.  Also, Delta owns a building in Laurel County used for training as
+well as equipment and materials storage.
+
+      The Company owns approximately 1,682 miles of natural gas field,
+transmission, distribution and service lines.  These lines range in size up to
+eight inches in diameter.  There are no significant encumbrances on this
+property.
+
+      Delta owns the rights to any oil and gas underlying approximately 3,500
+acres in Bell County.  Portions of these properties are used by Delta for the
+storage of natural gas.  The maximum capacity of the storage facilities is
+approximately 550,000 Mcf.  These properties otherwise are currently non-
+producing, and no reserve studies have been completed on the properties.
+
+      Enpro owns interests in certain oil and gas leases relating to
+approximately 11,000 acres located in Bell, Knox and Whitley Counties.  There
+presently are 56 gas wells and 7 oil wells producing from these properties. 
+Remaining proved, developed natural gas reserves are estimated at approximately
+5.4 million Mcf. The gas production from these properties continues to be
+purchased by Delta for system supply, and such purchases amounted to
+approximately 242,000 Mcf during 1994. Oil production has not been
+significant.  
+ 
+    Also, Enpro owns the oil and gas underlying approximately 11,500 additional
+acres in Bell, Clay and Knox Counties.  These properties are currently non-
+producing, and no reserve studies have been completed on the properties.  During
+1994, Enpro entered an agreement with a producer covering approximately 14,000
+acres of Enpro's undeveloped holdings.  Under the terms of the agreement, the
+producer is to conduct exploration activities on the acreage.  Enpro reserved
+the option to participate in wells drilled.  Enpro also retained certain working
+and royalty interests in any production from wells to be drilled.
+
+
+Item 3.  Legal Proceedings
+
+      Delta and its subsidiaries are not parties to any legal proceedings which
+are expected to have a materially adverse impact on the financial condition or
+results of operations of the Company.
+
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+        No matter was submitted during the fourth quarter of 1994.
+
+
+
+PART II
+
+Item 5.   Market for Registrant's Common Equity and Related
+                 Stockholder Matters
+
+
+        Delta has paid cash dividends on its common stock each year since 1964. 
+While it is the intention of the Board of Directors to continue to declare
+dividends on a quarterly basis, the frequency and amount of future dividends
+will depend upon the Company's earnings, financial requirements and other
+relevant factors.
+
+        Delta's common stock is traded in the National Association of Securities
+Dealers Automated Quotation (NASDAQ) National Market System.  The accompanying
+table reflects the high and low sales prices during each quarter as reported by
+NASDAQ and the quarterly dividends declared per share.
+
+
+Quarter                  Range of Stock                    Dividends
+                           Prices ($)                      Per Share
+                    High                 Low                   ($)
+
+__________________________________________________________________
+
+Fiscal 1994
+
+First              22 1/4                18 3/4                 .275
+
+Second             23 1/2                21                     .275
+
+Third              21 3/4                19                     .275
+
+Fourth             20 1/2                17 1/4                 .28
+
+Fiscal 1993
+
+First              18 1/2                15 1/2                 .27
+
+Second             18 1/2                17 1/4                 .27
+
+Third              19 1/2                17 1/4                 .27
+
+Fourt              19 1/2                18 1/2                 .275
+__________________________________________________________________
+
+        There were 2,258 record holders of Delta's common stock as of August 1,
+1994.
+
+Item 6.          Selected Financial Data
+
+Ended June 30,          1994(a)      1993         1992       1991(b)       1990
+                                                                        
+Summary of                                                              
+Operations ($)
+                                                                        
+   Operating                                                            
+   revenues ........  34,846,941  31,221,410  29,200,834  26,778,255  27,182,104
+                                                                        
+   Operating                                                            
+   income ..........   4,850,673   4,791,816   4,586,323   3,039,045   2,920,238
+                                                                        
+   Net income ......   2,671,001   2,620,664   2,453,813   1,162,582   1,195,512
+                                                                        
+   Earnings per                                                         
+   common share ....      1.50        1.60        1.52        0.73        0.76 
+                                                                      
+   Dividends                                                            
+   declared per                                                         
+   common share ....      1.105       1.085       1.08        1.08        1.08
+                                                                        
+Average Number of                                                       
+Common Shares                                                           
+Outstanding ........   1,775,068   1,635,945   1,612,437   1,586,235   1,563,588
+                                                                        
+Total Assets ($)....  61,932,480  55,129,912  50,478,014  47,816,330  44,243,819
+                                                                        
+Capitalization ($)..                                                    
+                                                                        
+   Common share-                                                        
+   holders' equity .  22,164,791  17,501,045  16,227,158  15,147,551  15,369,126
+                                                                        
+   Long-term debt ..  24,500,000  19,596,401  20,187,826  21,473,431  12,231,202
+                                                                        
+   Total                                                                
+   capitalization ..  46,664,791  37,097,446  36,414,984  36,620,982  27,600,328
+                                                                        
+Short-Term                                                              
+Debt ($) (c) .......   2,705,000   7,729,000   4,029,000   2,616,000   7,632,800
+                                                                        
+Other Items ($)                                                         
+                                                                        
+   Capital                                                              
+   expenditures ....   7,374,747   6,289,508   5,074,483   5,213,319   6,275,866
+                                                                        
+   Total plant .....  77,882,135  71,187,860  66,032,217  61,757,666  57,421,951
+                                                                        
+                                                                        
+     (a)  During October, 1993, $15 million of debentures and 170,000 shares of
+          Common Stock were sold, and the proceeds were used to repay short-term
+          debt and to refinance certain long-term debt.
+     (b)  During May, 1991, $10 million of debentures were sold, and the
+          proceeds
+          were used to repay short-term debt.
+     (c)  Includes current portion of long-term debt.
+
+
+
+Item 7.          Management's Discussion and Analysis of Financial Condition and
+Results of Operations
+
+Liquidity and Capital Resources
+
+        Capital expenditures for Delta for 1995 are expected to be approximately
+$8.4 million.  Delta generates internally only a portion of the cash necessary
+for its capital expenditure requirements and finances the balance of its capital
+expenditures on an interim basis through the use of its borrowing capability
+under its short-term line of credit.  The current line of credit is $15 million,
+of which approximately $2.7 million had been borrowed at June 30, 1994 at an
+interest rate of 5.5%.  Delta had an average interest rate of 4.3% for 1994 on
+its line of credit.  The current line of credit extends until November, 1994. 
+Short-term borrowings are periodically repaid with the proceeds from the
+issuance of long-term debt and equity securities, as was done in October, 1993,
+when the net proceeds of approximately $17.8 million from the sale of $15
+million of debentures and 170,000 shares of common stock were used to repay
+short-term debt and to refinance certain long-term debt. The amounts and types
+of future long-term debt and equity financings will depend upon the Company's
+capital needs and market conditions.
+
+     Delta's sales are seasonal in nature, and the largest proportion of cash is
+received during the winter heating months when sales volumes increase
+considerably.  During non-heating months, cash needs for operations and
+construction are partially met through short-term borrowings.  Additionally,
+most construction activity takes place during the non-heating season because of
+more favorable weather conditions, thus increasing seasonal cash needs.
+     The primary sources and uses of cash during the last three years are
+summarized below:
+
+Sources(Uses)                1994                 1993                 1992
+
+Provided by operat-                       
+  ing activities          $ 6,172,019         $ 4,567,023          $ 6,370,685
+
+Capital expenditures      $(7,374,747)        $(6,289,508)         $(5,074,483)
+
+Issuance of deben-
+  tures, net              $ 14,246,937        $     -              $      -
+
+Repayment of long-
+  term debt               $(11,330,286)       $(591,425)           $  (787,605)
+
+Net short-term 
+  borrowings              $ (3,765,000)       $ 3,700,000          $   915,000
+
+Common stock 
+  dividends               $ (1,972,368)       $(1,775,411)         $(1,741,661)
+
+Issuance of common
+  stock, net              $  3,965,113        $   428,634          $   367,455
+
+
+
+  Cash provided by operating activities consists of net income and noncash items
+including depreciation, depletion, amortization and deferred income taxes. 
+Additionally, changes in working capital are also included in cash provided by
+operating activities.  The Company expects that internally generated cash,
+coupled with seasonal short-term borrowings, will continue to be sufficient to
+satisfy its operating, capital expenditure and dividend requirements over the
+next year.
+
+
+
+Results of Operations
+
+   The increase in operating revenues for 1994 of approximately $3,625,000 was
+due primarily to an increase in retail sales volumes of approximately 344,000
+Mcf as a result of the colder winter weather in 1994 (105.8% of thirty year
+average weather compared to 99.2% for 1993), and an increase in customers served
+of 796, or 2.5%.  The increase in operating revenues was partially offset by an
+approximately $212,000 decrease in transportation revenues for off-system
+customers resulting from decreased volumes of approximately 671,000 Mcf due
+primarily to reduced volumes shipped by others on a leased pipeline that has
+been inactive since October, 1992, and due to certain producers who shipped gas
+into markets that did not require the use of Delta's system.
+
+   The increase in operating revenues for 1993 of approximately $2,021,000 was
+due primarily to an increase in retail sales volumes of approximately 324,000
+Mcf as a result of the colder winter weather in 1993 (99.2% of thirty year
+average weather as compared to 92.5% for 1992) and an increase in customers
+served of 872, or 2.9%.  Contributing to the increase in operating revenues was
+an increase in Resources' revenues resulting from increased volumes and cost of
+gas for resale to on-system customers and an increase in transportation revenues
+resulting from increased volumes of approximately 187,000 Mcf transported for
+on-system customers.  The increase in operating revenues was partially offset by
+an approximately $506,000 decrease in transportation revenues for off-system
+customers resulting from decreased volumes of approximately 1,912,000 Mcf due to
+reduced volumes shipped by others on a leased pipeline that has been inactive
+since October, 1992, and due to certain producers who shipped gas into markets
+that did not require the use of Delta's system.
+
+
+Operating Expenses
+
+   The increase in purchased gas expense of approximately $3,016,000 for 1994
+was due primarily to an increase in the cost of gas for retail sales due to an
+increase in retail sales volumes.
+
+   The increase in purchased gas expense of approximately $1,669,000 for 1993
+was due primarily to increases in the cost of gas purchased by Resources for
+resale to on-system customers.  Contributing to the increase was an increase in
+the cost of gas for retail sales due to an increase in retail sales volumes.
+
+   The increases in depreciation expense during 1994 and 1993 of approximately
+$145,000 and $158,000, respectively, were due primarily to additional
+depreciable plant.
+
+        The increases in taxes other than income taxes during the periods of
+approximately $78,000 and $39,000 for 1994 and 1993, respectively, were
+primarily due to increased property taxes which resulted from increased plant,
+and to increased payroll taxes which resulted from increased wages and payroll
+tax rates.
+
+        Changes in income taxes during the periods of approximately $34,100 and
+$102,000 for 1994 and 1993, respectively, were primarily due to changes in net
+income.  The Omnibus Budget Reconciliation Act of 1993 did not result in
+additional income taxes for Delta.  The Company adopted Statement of Financial
+Accounting Standard (SFAS) No. 109, "Accounting for Income Taxes", effective
+July 1, 1993, as required.  SFAS No. 109, which replaces SFAS No. 96, adopts the
+liability method of accounting for income taxes, requiring deferred income tax
+assets and liabilities to be computed using tax rates that will be in effect
+when the book and tax temporary differences reverse.  For regulated companies,
+the change in tax rates applied to accumulated deferred income taxes may not be
+immediately recognized in operating results because of ratemaking treatment.  A
+regulatory liability has been established to recognize the future revenue
+requirement impact from these deferred taxes.  As a result, the adoption of SFAS
+No. 109 did not have a material impact on the results of operations or financial
+position of the Company. 
+
+        Statement of Financial Accounting Standard (SFAS) No. 106, "Employers'
+Accounting for Post-Retirement Benefits", and SFAS No. 112, "Employers'
+Accounting for Post-Employment Benefits", did not affect the Company as Delta
+does not provide benefits for post-retirement or post-employment other than the
+pension plan for retired employees.
+
+
+Interest Charges
+
+        The decrease in long-term interest for 1993 of approximately $62,000 was
+due to less long-term debt outstanding during the period.  The increase in other
+interest charges for 1993 of approximately $106,000 was due primarily to
+increased average short-term borrowings that were partially offset by lower
+interest rates for the period.
+
+
+Item 8.  Financial Statements and Supplementary Data
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS AND SCHEDULES              PAGE
+
+Management's Statement of Responsibility for
+  Financial Reporting and Accounting                                    24
+
+Report of Independent Public Accountants                                25
+
+Consolidated Statements of Income for the years
+  ended June 30, 1994, 1993 and 1992                                    26
+
+Consolidated Statements of Cash Flows for the years
+  ended June 30, 1994, 1993 and 1992                                    27
+
+Consolidated Balance Sheets as of June 30, 1994 and 1993                29
+
+Consolidated Statements of Changes in Shareholders'
+  Equity for the years ended June 30, 1994, 1993 
+  and 1992                                                              31
+
+Consolidated Statements of Capitalization as of 
+  June 30, 1994 and 1993                                                32
+
+Notes to Consolidated Financial Statements                              33
+
+Schedule II - Amounts Receivable from Related
+  Parties and Underwriters, Promoters and
+  Employees Other than Related Parties for the
+  years ended June 30, 1994, 1993 and 1992                              41
+
+Schedule V - Property, Plant and Equipment for
+  the years ended June 30, 1994, 1993 and 1992                          42
+
+Schedule VI - Accumulated Depreciation,
+  Depletion and Amortization of Property, Plant
+  and Equipment for the Years Ended June 30,
+  1994, 1993 and 1992                                                   45
+
+Schedule VIII - Valuation and Qualifying Accounts
+  for the years ended June 30, 1994, 
+  1993 and 1992                                                         48
+
+Schedule IX - Short-term Borrowings for the years
+  ended June 30, 1994, 1993 and 1992                                    49
+
+Schedule X - Supplementary Income Statement
+  Information for the years ended June 30, 1994,
+  1993 and 1992                                                         50
+
+
+Schedules other than those listed above are omitted because they are not
+required, not applicable or the required information is shown in the financial
+statements or notes thereto.
+
+Item 9.          Changes in and Disagreements with Accountants on
+Accounting and Financial Disclosure
+                 None.
+
+
+PART III
+
+
+Item 10.         Directors and Executive Officers of the Registrant
+Item 11.         Executive Compensation
+Item 12.         Security Ownership of Certain Beneficial Owners and
+Management
+Item 13.         Certain Relationships and Related Transactions
+
+     Registrant intends to file a definitive proxy statement with the Commission
+pursuant to Regulation 14A (17 CFR 240.14a) not later than 120 days after the
+close of the fiscal year.  In accordance with General Instruction G(3) to Form
+10-K, the information called for by Items 10, 11, 12 and 13 is incorporated
+herein by reference to the definitive proxy statement.  Neither the report on
+Executive Compensation nor the performance graph included in the Company's
+definitive proxy statement shall be deemed incorporated herein by reference.
+
+PART IV
+
+
+Item 14.         Exhibits, Financial Statement Schedules and Reports on
+Form 8-K
+
+(a)     -  Financial Statements, Schedules and Exhibits
+
+                 (1)     -  Financial Statements
+                                  See Index at Item 8
+
+                 (2)     -  Financial Statement Schedules
+                                  See Index at Item 8
+
+                 (3)     -  Exhibits
+
+        Exhibit No.
+
+          3(a) -         Delta's Amended and Restated Articles of
+                          Incorporation are incorporated herein by
+                          reference to Exhibit 3(a) to Delta's Form
+                          10-Q for the period ended March 31, 1990.
+
+          3(b) -         Delta's By-Laws as amended August 19, 1993
+                          are incorporated herein by reference to
+                          Exhibit 3(b) to Delta's Form 10-K for the
+                          year ended June 30, 1993.
+
+          4(a) -         The Indenture dated April 1, 1991 in respect
+                          of 9% Debentures due April 30, 2011, is
+                          incorporated herein by reference to Exhibit
+                          4(e) to Delta's Form S-2 dated April 23, 
+                          1991.
+
+          4(b) -         The Indenture dated September 1, 1993 in 
+                          respect of 6 5/8% Debentures due October 1,
+                          2023, is incorporated herein by reference
+                          to Exhibit 4(e) to Delta's Form S-2 dated
+                          September 2, 1993.
+
+         10(a) -         Certain of Delta's material natural gas 
+                          supply contracts are incorporated herein
+                          by reference to Exhibit 10 to Delta's
+                          Form 10 for the year ended June 30, 1978 
+                          and by reference to Exhibits C and D to
+                          Delta's Form 10-K for the year ended
+                          June 30, 1980.
+
+         10(b) -         Gas Purchase Contract between Delta and
+                          Wiser is incorporated herein by reference 
+                          to Exhibit 2(C) to Delta's Form 8-K dated
+                          February 9, 1981.
+
+        10(c) -          Assignment to Delta by Wiser of its Columbia
+                          Service Agreement, including a copy of said
+                          Service Agreement, is incorporated herein by
+                          reference to Exhibit 2(D) to Delta's Form 
+                          8-K dated February 9, 1981.
+
+        10(d) -          Contract between Tennessee and Delta for the
+                          sale of gas by Tennessee to Delta (amends
+                          earlier contract for Nicholasville and 
+                          Wilmore Service Areas) is incorporated
+                          herein by reference to Exhibit 10(d) to 
+                          Delta's Form 10-Q for the period ended
+                          September 30, 1990.
+
+        10(e) -          Contract between Tennessee and Delta for the
+                          sale of gas by Tennessee to Delta (amends
+                          earlier contract for Jeffersonville Service
+                          Area) is incorporated herein by reference
+                          to Exhibit 10(e) to Delta's Form 10-Q for
+                          the period ended September 30, 1990.
+
+        10(f) -          Contract between Tennessee and Delta for the
+                          sale of gas by Tennessee to Delta (amends
+                          earlier contract for Salt Lick Service
+                          Area) is incorporated herein by reference
+                          to Exhibit 10(f) to Delta's Form 10-Q for
+                          the period ended September 30, 1990.
+
+        10(g) -          Contract between Tennessee and Delta for the
+                          sale of gas by Tennessee to Delta (amends
+                          earlier contract for Berea Service Area) is
+                          incorporated herein by reference to Exhibit
+                          10(g) to Delta's Form 10-Q for the period 
+                          ended September 30, 1990.
+
+        10(h) -          Service Agreements between Columbia and Delta
+                          for the sale of gas by Columbia to Delta
+                          (amends earlier service agreements for
+                          Cumberland, Stanton and Owingsville service
+                          areas) are incorporated herein by reference
+                          to Exhibit 10(h) to Delta's Form 10-Q for
+                          the period ended September 30, 1990.
+
+        10(i) -          Amendment to Gas Purchase Contract between
+                          Delta and Wiser is incorporated herein by
+                          reference to Exhibit 10(c) to Delta's Form
+                          10-Q for the period ended December 31, 1988.
+
+        10(j) -          Second amendment to Gas Purchase Contract
+                          between Delta and Wiser, dated August 20, 1993.
+
+        10(k) -          Employment agreements between Delta and three
+                          officers, those being Alan L. Heath, Jane W.
+                          Hylton, and Thomas A. Kohnle, are incorporated
+                          herein by reference to Exhibit 10(k) to Delta's
+                          Form 10-Q for the period ended December 31,
+                          1985.
+
+        10(l) -          Employment agreements between Delta and two
+                          officers, those being John F. Hall and
+                          Robert C. Hazelrigg, are incorporated herein
+                          by reference to Exhibit 10(m) to Delta's Form
+                          10-Q for the period ended December 31, 1988.
+
+        10(m) -          Employment agreement dated June 1, 1992 between
+                          Delta and Glenn R. Jennings, an officer, is
+                          incorporated herein by reference to Exhibit
+                          10(l) to Delta's Form 10-K for the period
+                          ended June 30, 1992.
+
+        12       -       Computation of the Consolidated Ratio of 
+                          Earnings to Fixed Charges.
+
+        21       -       Subsidiaries of the Registrant are incorporated
+                          herein by reference to Exhibit 22 to Delta's
+                          Form 10-K for the period ended June 30, 1986.
+
+        24       -       Consent of Independent Public Accountants.
+
+
+(b)     Reports on 8-K.
+
+        No reports on Form 8-K were filed during the three months 
+        ended June 30, 1994.
+SIGNATURES
+
+
+        Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized, on the 26th day of
+August, 1994.
+
+
+                                  DELTA NATURAL GAS COMPANY, INC.
+
+                                  By /s/Glenn R. Jennings
+                                      Glenn R. Jennings, President
+                                      and Chief Executive Officer
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+(i)     Principal Executive Officer:
+
+
+/s/Glenn R. Jennings         President, Chief                August 26, 1994
+  (Glenn R. Jennings)         Executive Officer
+                                  and Director
+
+(ii)    Principal Financial Officer:
+
+
+/s/John F. Hall               Vice President -               August 26, 1994
+  (John F. Hall)              Regulatory Matters
+                                  and Treasurer
+
+(iii) Principal Accounting Officer:
+
+
+/s/Thomas A. Kohnle            Vice President -              August 26, 1994
+  (Thomas A. Kohnle)           Controller
+
+(iv)    A Majority of the Board of Directors:
+
+
+/s/H. D. Peet                   Chairman of the              August 26, 1994
+  (H. D. Peet)                  Board
+
+
+/s/Donald R. Crowe              Director                     August 26, 1994
+  (Donald R. Crowe)
+
+
+/s/Billy Joe Hall               Director                     August 26, 1994
+  (Billy Joe Hall)
+
+
+/s/Jane W. Hylton               Vice President -             August 26, 1994
+  (Jane W. Hylton)              Human Resources,
+                                Secretary and
+                                Director
+
+
+/s/Virgil E. Scott              Director                     August 26, 1994
+  (Virgil E. Scott)
+
+
+/s/Henry C. Thompson            Director                     August 26, 1994
+  (Henry C. Thompson)
+
+
+/s/Arthur E. Walker, Jr.        Director                     August 26, 1994
+  (Arthur E. Walker, Jr.)
+
+
+/s/Robert M. Watt III           Director                     August 26, 1994
+  (Robert M. Watt III)
+
+
+Management's Statement of Responsibility for Financial Reporting and Accounting
+
+     Management is responsible for the preparation, presentation and integrity
+of the financial statements and other financial information in this report.  The
+statements, which were prepared in accordance with generally accepted accounting
+principles, include some amounts which are based on management's best estimates
+and judgments.
+
+        The Company maintains a system of accounting and internal controls which
+management believes provides reasonable assurance that the accounting records
+are reliable for purposes of preparing financial statements and that the assets
+are properly accounted for and protected.
+
+        The Board of Directors pursues its oversight role for these financial
+statements through its Audit Committee which consists of three outside
+directors.  The Audit Committee meets periodically with management to review the
+work and monitor the discharge of their responsibilities.  The Audit Committee
+also meets periodically with the Company's internal auditor as well as Arthur
+Andersen LLP, the independent auditors, who have full and free access to the
+Audit Committee, with or without management present, to discuss internal
+accounting control, auditing and financial reporting matters.
+
+Report of Independent Public Accountants
+
+To the Board of Directors and Shareholders of Delta Natural Gas Company, Inc.:
+
+     We have audited the accompanying consolidated balance sheets and statements
+of capitalization of DELTA NATURAL GAS COMPANY, INC. (a Kentucky corporation)
+and subsidiary companies as of June 30, 1994 and 1993, and the related
+consolidated statements of income, cash flows and changes in shareholders'
+equity for each of the three years in the period ended June 30, 1994.  These
+consolidated financial statements and the schedules referred to below are the
+responsibility of the Company's management.  Our responsibility is to express an
+opinion of these consolidated financial statements and schedules based on our
+audits.
+
+        We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation. 
+We believe that our audits provide a reasonable basis for our opinion.
+
+     In our opinion, the financial statements referred to above present fairly,
+in all material respects, the financial position of Delta Natural Gas Company,
+Inc. and subsidiary companies as of June 30, 1994 and 1993, and the results of
+their operations and their cash flows for each of the three years in the period
+ended June 30, 1994, in conformity with generally accepted accounting
+principles.
+
+     As discussed in Note 1 to the consolidated financial statements, 
+effective July 1, 1993, the Company changed its method of accounting
+for income taxes.
+
+        Our audit was made for the purpose of forming an opinion on the basic
+financial statements taken as a whole.  The schedules listed in the Index to
+Consolidated Financial Statements and Schedules are presented for purposes of
+complying with the Securities and Exchange Commission rules and are not part of
+the basic financial statements.  These schedules have been subjected to the
+auditing procedures applied in the audit of the basic financial statements and,
+in our opinion, fairly state in all material respects the financial data
+required to be set forth therein in relation to the basic financial statements
+taken as a whole.
+
+                                  Arthur Andersen LLP
+
+Louisville, Kentucky
+
+August 12, 1994
+
+Delta Natural Gas Company, Inc. and Subsidiary Companies
+                                                                  
+Consolidated Statements of Income                                 
+For the Years Ended June 30,            1994           1993            1992
+                                                                  
+Operating Revenues ............     $34,846,941    $31,221,410     $29,200,834
+                                                                  
+Operating Expenses                                                
+                                                                  
+   Purchased gas ..............     $17,250,556    $14,234,258     $12,564,947
+   Operation and maintenance                                      
+     (Note 1) .................       8,382,767      8,020,622       8,173,070
+                                                                  
+   Depreciation and depletion                                     
+     (Note 1) .................       1,977,868      1,833,072       1,675,540
+                                                                  
+   Taxes other than income                                        
+     taxes ....................         875,477        797,942         759,354
+                                                                  
+   Income taxes (Note 1) ......       1,509,600      1,543,700       1,441,600
+                                                                  
+      Total operating expenses.     $29,996,268    $26,429,594     $24,614,511
+                                                                  
+Operating Income ..............     $ 4,850,673    $ 4,791,816     $ 4,586,323
+                                                                  
+Other Income and Deductions, Net         34,987         39,681          34,087
+                                                                  
+Income Before Interest Charges.     $ 4,885,660    $ 4,831,497     $ 4,620,410
+                                                                  
+Interest Charges                                                  
+                                                                  
+   Interest on long-term debt..     $ 1,879,526    $ 1,875,901     $ 1,938,389
+                                                                  
+   Other interest .............         243,729        258,405         152,728
+                                                                  
+   Amortization of debt expense          91,404         76,527          75,480
+                                                                  
+      Total interest charges ..     $ 2,214,659    $ 2,210,833     $ 2,166,597
+                                                                  
+Net Income                          $ 2,671,001    $ 2,620,664     $ 2,453,813
+                                                                  
+Weighted Average Number of                                        
+Common Shares Outstanding .....       1,775,068      1,635,945       1,612,437
+                                                                  
+Earnings Per Common Share .....     $      1.50    $      1.60     $      1.52
+                                                                  
+Dividends Declared Per Common                                     
+Share .........................     $     1.105    $     1.085     $      1.08
+                                                                  
+                                                                  
+                                                                  
+The accompanying notes to consolidated financial statements are an
+integral part of these statements.
+
+<PAGE>
+Delta Natural Gas Company, Inc. and Subsidiary Companies
+                                                                    
+Consolidated Statements of Cash Flows                               
+                                                                    
+For the Years Ended June 30,               1994           1993           1992
+                                                                    
+Cash Flows From Operating                                           
+Activities:
+   Net income ......................   $ 2,671,001    $ 2,620,664   $ 2,453,813
+                                                                    
+   Adjustments to reconcile net                                     
+   income to net cash from                                          
+   operating activities:                                            
+      Depreciation, depletion and                                   
+        amortization ...............     2,069,013      1,922,102     1,751,020
+      Deferred income taxes and                                     
+        investment tax credits .....       874,800        839,100       467,600
+      Other - net ..................       446,969        493,848       565,756
+                                                                    
+   (Increase) decrease in assets:                                   
+      Accounts receivable ..........       802,197       (707,605)      343,423
+      Unamortized debt expense and                                  
+        other ......................            -          (1,616)     (160,401)
+      Materials and supplies .......      (229,275)       155,358       122,092
+      Prepayments ..................        25,701          8,096       (39,997)
+      Other assets .................          (780)       (93,948)     (119,703)
+                                                                    
+   Increase (decrease) in other                                     
+   liabilities:                                                     
+      Accounts payable .............       513,265        438,897       424,898
+      Refunds due customers ........       358,270         37,226       (20,752)
+      Accrued taxes ................       (34,543)      (162,982)      297,368
+      Other current liabilities ....        38,675         16,435      (213,594)
+      Advance (deferred) recovery                                   
+        of gas cost ................    (1,372,030)      (993,136)      463,870
+      Advances for construction and                                 
+        other ......................         8,756         (5,416)       35,292
+                                                                    
+         Net cash provided by                                       
+           operating activities ....   $ 6,172,019    $ 4,567,023   $ 6,370,685
+                                                                    
+Cash Flows From Investing                                           
+Activities:
+   Capital expenditures ............   $(7,374,747)   $(6,289,508)  $(5,074,483)
+                                                                    
+         Net cash used in investing                                 
+           activities ..............   $(7,374,747)   $(6,289,508)  $(5,074,483)
+
+Delta Natural Gas Company, Inc. and Subsidiary Companies
+                                                                    
+Consolidated Statements of Cash Flows (continued)
+                                                                    
+For the Years Ended June 30,               1994           1993           1992
+                                                                    
+Cash Flows From Financing                                           
+Activities:
+   Dividends on common stock .......   $(1,972,368)   $(1,775,411)  $(1,741,661)
+   Issuance of common stock,net ....     3,965,113        428,634       367,455
+   Issuance of debentures,net ......    14,246,937            -              -
+   Repayment of long-term debt .....   (11,330,286)      (591,425)     (787,605)
+   Increase (decrease) in notes                                     
+     payable .......................    (3,765,000)     3,700,000       915,000
+                                                                    
+         Net cash provided by (used                                 
+           in) financing activities    $ 1,144,396    $ 1,761,798   $(1,246,811)
+                                                                    
+Net Increase (Decrease) in Cash and                                 
+Cash Equivalents ...................   $   (58,332)   $    39,313   $    49,391
+                                                                    
+Cash and Cash Equivalents,                                          
+Beginning of Year ..................       214,879        175,566       126,175
+                                                                    
+Cash and Cash Equivalents,                                          
+End of Year ........................   $   156,547    $   214,879   $   175,566
+                                                                    
+                                                                    
+Supplemental Disclosures of Cash                                    
+Flow Information:                                                   
+                                                                    
+Cash paid during the year for:                                      
+   Interest                            $ 2,141,705    $ 2,107,168   $ 2,154,055
+   Income taxes                        $   715,000    $   952,851   $   867,382
+                                                                    
+                                                                    
+The accompanying notes to consolidated financial statements are an integral
+part of these statements.
+
+<PAGE>
+Delta Natural Gas Company, Inc. and Subsidiary Companies
+                                                                  
+Consolidated Balance Sheets                                       
+                                                                  
+As of June 30,                                         1994            1993
+                                                                  
+Assets                                                            
+   Gas Utility Plant, at cost ..............       $77,882,135     $71,187,860
+     Less - Accumulated provision for                             
+     depreciation ..........................       (22,862,469)    (21,118,363)
+                                                                  
+         Net gas plant                             $55,019,666     $50,069,497
+                                                                  
+   Current Assets                                                 
+      Cash and cash equivalents ............       $   156,547     $   214,879
+      Accounts receivable, less accumulated                       
+        provisions for doubtful accounts of                       
+        $131,324 and $208,182 in 1994 and                         
+        1993, respectively .................         1,117,962       1,920,159
+      Gas in storage, at average cost ......           352,572         364,508
+      Deferred Gas Costs (Note 1) ..........         1,471,342          99,312
+      Materials and supplies, at first-in,                        
+        first-out cost .....................           700,761         471,486
+      Prepayments ..........................           317,343         343,044
+                                                                  
+         Total current assets                      $ 4,116,527     $ 3,413,388
+                                                                  
+   Other Assets                                                   
+      Cash surrender value of officers' life                      
+        insurance (face amount of $1,031,000                      
+        and $1,020,000 in 1994 and 1993,                          
+        respectively) ......................       $   269,029     $   244,313
+      Note receivable from officer .........            83,000          95,000
+      Unamortized debt expense and other                          
+        (Note 5) ...........................         2,444,258       1,307,714
+                                                                  
+         Total other assets                        $ 2,796,287     $ 1,647,027
+                                                                  
+            Total assets                           $61,932,480     $55,129,912
+
+Delta Natural Gas Company, Inc. and Subsidiary Companies
+                                                                  
+Consolidated Balance Sheets (continued)                           
+                                                                  
+As of June 30,                                         1994            1993
+                                                                  
+Liabilities and Shareholders' Equity                              
+                                                                  
+   Capitalization (See Consolidated Statements                    
+   of Capitalization)                                             
+      Common Shareholders' equity ..........       $22,164,791     $17,501,045
+      Long-term debt (Note 5) ..............        24,500,000      19,596,401
+                                                                  
+         Total capitalization ..............       $46,664,791     $37,097,446
+                                                                  
+   Current Liabilities                                            
+      Notes payable (Note 4) ...............       $ 2,705,000     $ 6,470,000
+      Current portion of long-term debt                           
+        (Note 5) ...........................           500,000       1,259,000
+      Accounts payable .....................         2,133,840       1,620,575
+      Accrued taxes ........................           436,158         470,701
+      Refunds due customers ................           396,065          37,795
+      Customers' deposits ..................           342,979         377,402
+      Accrued interest on debt .............           427,338         445,788
+      Accrued vacation .....................           454,362         420,675
+      Other accrued liabilities ............           314,888         257,027
+                                                                  
+         Total current liabilities                 $ 7,710,630     $11,358,963
+                                                                  
+   Deferred Credits and Other                                     
+      Deferred income taxes ................       $ 5,116,400     $ 5,482,600
+      Investment tax credits ...............           921,800         993,300
+      Regulatory liability (Note 1) ........         1,312,500             -
+      Advances for construction and other ..           206,359         197,603
+                                                                  
+         Total deferred credits and other          $ 7,557,059     $ 6,673,503
+                                                                  
+   Commitments and Contingencies (Note 6) ..                      
+                                                                  
+            Total Liabilities and                                 
+            shareholders' equity ............      $61,932,480     $55,129,912
+                                                                  
+                                                                  
+                                                                  
+The accompanying notes to consolidated financial statements are an
+integral part of these statements.
+
+Delta Natural Gas Company, Inc. and Subsidiary Companies
+
+Consolidated Statements of Changes in
+Shareholders' Equity
+                                                                         
+For the Years Ended June 30,                   1994         1993         1992
+                                                                         
+Common Shares                                                            
+   Balance, beginning of year ............$ 1,648,485  $ 1,624,878  $ 1,600,033
+     $1.00 par value of 190,855, 23,607                                  
+       and 24,845 shares issued in 1994,                                 
+       1993 and 1992, respectively -                                     
+       Public issuance of common shares ..    170,000           -           -
+       Dividend reinvestment and stock                                   
+         purchase plan ...................     15,355       16,265       18,067
+       Employee stock purchase plan and                                  
+         other ...........................      5,500        7,342        6,778
+                                                                         
+   Balance, end of year ..................$ 1,839,340  $ 1,648,485  $ 1,624,878
+                                                                         
+Premium on Common Shares                                                 
+   Balance, beginning of year ............$15,562,427  $15,157,400  $14,814,790
+     Premium on issuance of common shares-                               
+       Public issuance of common shares ..  3,570,000          -            -
+       Dividend reinvestment and stock                                   
+         purchase plan ...................    293,782      281,074      245,801
+       Employee stock purchase plan and                                  
+         other ...........................    106,700      123,953       96,809
+                                                                         
+   Balance, end of year ..................$19,532,909  $15,562,427  $15,157,400
+                                                                         
+Capital Stock Expense                                                    
+   Balance, beginning of year ............$(1,391,801) $(1,391,801) $(1,391,801)
+   Public issuance of common shares          (196,224)         -           -
+   Balance, end of year ..................$(1,588,025) $(1,391,801) $(1,391,801)
+                                                                         
+Retained Earnings                                                        
+   Balance, beginning of year ............$ 1,681,934  $   836,681  $   124,529
+     Net income ..........................  2,671,001    2,620,664    2,453,813
+     Cash dividends declared on common                                   
+       shares - (See Consolidated                                        
+       Statements of Income for rates) ... (1,972,368)  (1,775,411)  (1,741,661)
+                                                                         
+   Balance, end of year ..................$ 2,380,567  $ 1,681,934  $   836,681
+                                                                         
+                                                                         
+                                                                         
+The accompanying notes to consolidated financial statements are an integral part
+
+of these statements.
+
+<PAGE>
+Delta Natural Gas Company, Inc. and Subsidiary Companies
+                                                                  
+Consolidated Statements of Capitalization                         
+                                                                  
+As of June 30,                                         1994            1993
+                                                                  
+Common Shareholders' Equity                                       
+   Common shares, par value $1.00 per share                       
+     (Notes 2 and 3) Authorized - 6,000,000                       
+      shares - Issued and outstanding -                           
+       1,839,340 and 1,648,485 shares in                          
+       1994 and 1993, respectively .........       $ 1,839,340     $ 1,648,485
+   Premium on common shares ................        19,532,909      15,562,427
+   Capital stock expense ...................        (1,588,025)     (1,391,801)
+   Retained earnings (Note 5) ..............         2,380,567       1,681,934
+                                                                  
+      Total common shareholders' equity ....       $22,164,791     $17,501,045
+                                                                  
+Long-Term Debt (Note 5)                                           
+   Debentures, 6 5/8%, due 2023                    $15,000,000             -
+   Debentures, 9%, due 2011 ................        10,000,000     $10,000,000
+   Debentures, 8 5/8%, due 2007 ............               -        10,553,000
+   First mortgage loan payable to bank, at                        
+     9 1/4%, due in monthly installments                          
+     through 1997, secured by first                               
+     mortgage on corporate office building .               -           177,401
+   Sinking fund debentures, 9 1/2% due in                         
+     annual installments to 1996 ...........               -           125,000
+                                                                  
+                                                   $25,000,000     $20,855,401
+                                                                  
+   Less - Amounts due within one year,                            
+     included in current liabilities .......          (500,000)     (1,259,000)
+                                                                  
+      Total long-term debt .................       $24,500,000     $19,596,401
+                                                                  
+         Total capitalization ..............       $46,664,791     $37,097,446
+                                                                  
+                                                                  
+                                                                  
+The accompanying notes to consolidated financial statements are an
+integral part of these statements.
+
+
+
+<PAGE>
+Notes to Consolidated Financial Statements
+
+(1)  Summary of Significant Accounting Policies:
+
+(a)  Principles of Consolidation -- Delta Natural Gas Company, Inc. (Delta or
+the Company) has four wholly-owned subsidiaries.  Delta Resources, Inc.
+(Resources) buys gas and resells it to industrial customers on Delta's system
+and to Delta for system supply.  Delgasco, Inc. buys gas and resells it to
+Resources and to customers not on Delta's system.  Deltran, Inc. was formed to
+engage in potential pipeline projects under consideration and is inactive. 
+Enpro, Inc. owns and operates existing production properties.  All subsidiaries 
+of Delta are included in the consolidated financial statements.  Intercompany
+balances and transactions have been eliminated.
+
+(b)  Cash Equivalents -- For the purposes of the Consolidated Statements of Cash
+Flows, all temporary cash investments with a maturity of three months or less at
+the date of purchase are considered cash equivalents.
+
+(c)  Depreciation -- The Company determines its provision for depreciation using
+the straight-line method and by the application of rates to various classes of
+utility plant.  The rates are based upon the estimated service lives of the
+properties and were equivalent to composite rates of 2.7% of average depreciable
+plant.
+
+(d)  Maintenance -- All expenditures for maintenance and repairs of units of
+property are charged to the appropriate maintenance expense accounts.  A
+betterment or replacement of a unit of property is accounted for as an addition 
+and retirement of utility plant.  At the time of such a retirement, the
+accumulated provision for depreciation is charged with the original cost of the 
+property retired and also for the net cost of removal.
+
+(e)  Gas Cost Recovery -- Delta has a Gas Cost Recovery (GCR) clause that
+matches revenues and gas costs and provides eventual dollar-for-dollar recovery 
+of all gas costs incurred.  The Company expenses gas costs based on the amount
+of gas cost recovered through revenue.  Any differences between actual gas costs
+and those estimated costs billed are deferred and reflected in the computation
+of future billings to customers using the GCR mechanism.
+
+(f)  Revenue Recognition -- The Company records revenues as billed to its
+customers on a monthly meter reading cycle.  At the end of each month, gas
+service which has been rendered from the latest date of each cycle meter reading
+to the month-end is unbilled.
+
+(g)  Revenues and Customer Receivables -- The Company supplies natural gas to
+approximately 32,000 customers in central and southeastern Kentucky.  Revenues
+and customer receivables arise primarily from sales of natural gas to customers 
+and from transportation services for others.  Provisions for doubtful accounts
+are recorded to reflect the expected net realizable value of accounts
+receivable.
+
+(h)  Income Taxes -- The Company provides for income taxes on timing differences
+resulting from the use of alternative methods of income and expense recognition 
+for financial and tax reporting purposes.  The differences result primarily from
+the use of accelerated tax depreciation methods for certain properties versus
+the straight-line depreciation method for financial purposes, differences in
+recognition of purchased gas cost recoveries and certain other accruals which
+are not currently deductible for income tax purposes.  Investment tax credits
+were deferred for certain periods prior to fiscal 1987 and are being amortized
+to income over the estimated useful lives of the applicable properties.  
+
+The Company adopted Statement of Financial Accounting Standard (SFAS) No. 109,
+"Accounting for Income Taxes", effective July 1, 1993, as required.  SFAS No.
+109, which replaces SFAS No. 96, adopts the liability method of accounting for
+income taxes, requiring deferred income tax assets and liabilities to be
+computed using tax rates that will be in effect when the book and tax temporary 
+differences reverse.  For regulated companies, the change in tax rates applied
+to accumulated deferred income taxes may not be immediately recognized in
+operating results because of ratemaking treatment.  A regulatory liability has
+been established to recognize the future revenue requirement impact from these
+deferred taxes.  As a result, the adoption of SFAS No. 109 did not have a
+material impact on the results of operations or financial position of the
+Company.  The temporary differences which gave rise to the following net
+deferred tax liability at June 30, 1994 were as follows:
+
+
+                 Deferred Tax Assets
+        Unamortized investment tax credit                        $   363,600
+        Regulatory liabilities                                       517,700
+        Alternative minimum tax credits                              667,200
+        Other                                                        402,100
+
+                                                                 $ 1,950,600
+
+                 Deferred Tax Liabilities
+        Accelerated depreciation                                 $(6,257,200)
+        Deferred Gas Cost                                           (580,400)
+        Other                                                       (229,400)
+
+                                                                 $(7,067,000)
+
+        Net Accumulated Deferred
+         Income Tax Liability                                    $(5,116,400)
+
+
+
+The components of the income tax provision are comprised of the following for
+the years ended June 30:
+
+                                          1994           1993          1992
+Components of income tax expense:                                  
+   Payable currently:                                              
+      Federal                            306,300      $  432,300    $  968,300
+      State                              100,800         121,900       260,100
+         Total                           407,100      $  554,200    $1,228,400
+                                                                   
+   Deferred to future years from:                                  
+      Use of accelerated depreciation    675,000         660,300       575,000
+      Deferred (advance) recovery of     541,200         418,000      (238,600)
+         gas cost                                                  
+      Amortization of investment                                   
+         tax credits, net                (71,500)        (71,800)      (72,100)
+      Other deferred tax effects, net    (42,200)        (17,000)      (51,100)
+         Income tax expense            1,509,600      $1,543,700    $1,441,600
+ 
+                                                                  
+Reconciliation of the statutory Federal income tax rate is shown in the table
+below:
+
+                                      1994             1993             1992
+
+Statutory Federal income
+  tax rate                            34.0%            34.0%            34.0%
+
+State income taxes net of
+  Federal benefit                      5.2              5.2              5.2
+
+Amortization of investment
+  tax credit                          (1.8)            (1.7)            (1.9)
+
+Other differences - net                (.9)               -                -
+Effective Income Tax Rate             36.5%            37.5%            37.3%
+
+
+(2)     Employee Benefit Plans:
+
+(a)     Defined Benefit Retirement Plan - Delta has a trusteed, noncontributory,
+defined benefit pension plan covering all eligible employees.  Retirement income
+is based on the number of years of service and annual rates of compensation. 
+The Company makes annual contributions equal to the amounts necessary to
+adequately fund the plan.  The funded status of the pension plan and the amounts
+recognized in the Company's consolidated balance sheets at June 30 were as
+follows:
+
+                                         1994           1993           1992
+Plan assets at fair value             $5,251,296    $ 4,931,658     $4,357,255
+Actuarial present value of                                         
+  benefit obligation:                                              
+   Vested benefits                    $4,114,517    $ 4,042,029     $3,335,604
+   Non-vested benefits                    30,562         37,777         32,019
+Accumulated benefit obligation        $4,145,079    $ 4,079,806     $3,367,623
+Additional amounts related                                         
+   to projected salary increases       1,734,413      1,881,303      1,528,180
+   Total projected benefit                                         
+     obligation                       $5,879,492    $ 5,961,109     $4,895,803
+Projected benefit obligation                                       
+   in excess of plan assets           $ (628,196)   $(1,029,451)    $ (538,548)
+Unrecognized net assets at date of                                 
+  initial application being                                        
+  amortized over 15 years               (339,153)      (381,547)      (423,941)
+Unrecognized net loss                    950,735      1,407,072        873,813
+   Accrued pension liability          $  (16,614)   $    (3,926)    $  (88,676)
+                                                                   
+                                                                   
+The assets of the plan consist primarily of common stock, bonds and
+certificates of deposit.  Net pension costs for the years ended June 30
+include the following:                                             
+                                                                   
+                                                                   
+                                         1994           1993           1992
+Benefits earned during the year -                                  
+  service cost                        $  455,097    $   401,054     $  339,359
+Interest cost on projected                                         
+  benefit obligation                     357,372        317,897        271,382
+Actual return on plan assets             (45,100)      (356,971)      (442,461)
+Net amortization and deferral           (353,530)       (24,856)       123,892
+   Net periodic pension cost          $  413,839    $   337,124     $  292,172
+
+
+The weighted average discount rates and the assumed rates of increase in future 
+compensation levels used in determining the actuarial present values of the
+projected benefit obligation at June 30, 1994, 1993 and 1992 were 6.0%, 6.5% and
+7.0%, respectively (discount rates), and 4% (rates of increase).  The expected
+long-term rates of return on plan assets were 8%.
+
+SFAS No. 106, "Employers' Accounting for Post-Retirement Benefits", and SFAS No.
+112, "Employers' Accounting for Post-Employment Benefits", did not affect the
+Company as Delta does not provide benefits for post-retirement or post-
+employment other than the pension plan for retired employees.
+
+(b)   Employee Savings Plan - The Company has an Employee Savings Plan (Savings
+Plan) under which eligible employees may elect to contribute any whole
+percentage between 2% and 15% of their annual compensation.  The Company will
+match 50% of the employee's contribution up to a maximum Company contribution of
+2% of the employee's annual compensation.  For the years ended June 30, 1994,
+1993 and 1992, Delta's Savings Plan expense was $106,863, $93,749 and $87,966,
+respectively.
+
+(c)    Employee Stock Purchase Plan - The Company has an Employee Stock Purchase
+Plan (the Stock Plan) under which qualified permanent employees are eligible to 
+participate.  Under the terms of the Stock Plan, such employees can contribute
+on a monthly basis 1% of their annual salary level (as of July 1 of each year)
+to be used to purchase Delta's common stock.  After June 30, the Company will
+issue Delta common stock, based upon the fiscal year contributions, using an
+average of the last sale price of Delta's stock as quoted in NASDAQ's national
+market system at the close of business for the last five business days in June, 
+and will match those shares so purchased. Therefore, stock equivalent to 
+$47,653 will be issued in July, 1994.  The continuation and terms of the Stock
+Plan are subject to approval by Delta's Board of Directors on an annual basis.  
+
+(3)     Dividend Reinvestment and Stock Purchase Plan:
+
+The Company's Dividend Reinvestment and Stock Purchase Plan (Reinvestment Plan) 
+provides that shareholders of record can reinvest dividends and also make
+limited additional investments of up to $3,000 per quarter in shares of common
+stock of the Company.  Shares purchased under the Reinvestment Plan are
+authorized but unissued shares of common stock of the Company, and 15,355 shares
+were issued in 1994.  Delta reserved 200,000 shares under the Reinvestment Plan 
+in 1989, and, as of June 30, 1994 there were 122,020 shares still available for 
+issuance.
+
+(4)     Notes Payable and Line of Credit:
+
+Substantially all of the cash balances of Delta are maintained to compensate the
+respective banks for banking services and to obtain lines of credit; however, no
+specific amounts have been designated as compensating balances, and Delta has
+the right of withdrawal of such funds.  At June 30, 1994, the line of credit was
+$15,000,000, of which $2,705,000 had been borrowed at an interest rate of 5.5%. 
+The maximum amount borrowed during 1994 was $9,065,000.  The interest on this
+line is either at the daily prime rate or is based upon certificate of deposit
+rates.  The current line of credit expires on November 15, 1994.
+
+(5)     Long-Term Debt:
+
+On October 18, 1993, Delta issued $15,000,000 of 6 5/8% Debentures that mature
+in October, 2023.  Commencing in October, 1995, each holder may require
+redemption of up to $25,000 of the 6 5/8% Debentures annually, subject to an
+annual aggregate limitation of $500,000.  Such redemption will also be made on
+behalf of deceased holders within sixty days of notice, subject to the annual
+aggregate $500,000 limitation.  The 6 5/8% Debentures can be redeemed by the
+Company beginning in October, 1998 at a 5% premium, such premium declining
+ratably until it ceases in October, 2003.  Restrictions under the indenture
+agreement covering the 6 5/8% Debentures include, among other things, a
+restriction whereby dividend payments cannot be made unless consolidated
+shareholders' equity of the company exceeds $12 million.  As of June 30, 1994,
+no retained earnings were restricted under the provisions of the indenture.  
+
+On May 1, 1991, Delta issued $10,000,000 of 9% Debentures that mature in April, 
+2011.  Each holder may require redemption of up to $25,000 of the 9% Debentures 
+annually, subject to an annual aggregate limitation of $500,000.  Such
+redemption will also be made on behalf of deceased holders within sixty days of 
+notice, subject to the annual aggregate $500,000 limitation.  The 9% Debentures 
+can be redeemed by the Company beginning in April, 1996 at a 5% premium, such
+premium declining ratably until it ceases in April, 2001. The Company may not
+assume any additional mortgage indebtedness in excess of $1 million without
+effectively securing the 9% Debentures equally to such additional indebtedness.
+
+Debt issuance expenses are deferred and amortized over the terms of the related 
+debt.  Call premium in 1994 of approximately $475,000 was deferred and will be
+amortized over the term of the related debt consistent with regulatory
+treatment.
+
+(6)     Commitments and Contingencies:
+
+The Company has entered into individual employment agreements with its six
+officers.  The agreements expire or may be terminated at various times.  The
+agreements provide for continuing monthly payments or lump sum payments and
+continuation of certain benefits over varying periods in the event employment is
+altered or terminated following certain changes in ownership of the Company.
+
+(7)     Rates:
+
+Reference is made to "Regulatory Matters" herein with respect to rate matters.
+
+(8)     Quarterly Financial Data (Unaudited):
+
+
+                                                                     Earnings
+                                                      Net           (Loss) per
+                  Operating          Operating      Income            Common
+Quarter Ended     Revenues             Income        (Loss)          Share(a)
+
+Fiscal 1994
+
+September 30     $ 3,585,499       $   11,056     $ (542,285)         $(.33)
+December 31        7,814,638        1,117,871        578,448            .32
+March 31          16,494,674        3,270,274      2,713,563           1.48
+June 30            6,952,130          451,472        (78,725)          (.04)
+
+
+
+Fiscal 1993
+
+September 30     $ 3,466,378       $   46,208     $ (475,979)         $(.29)
+December 31        7,712,590        1,269,509        716,010            .44
+March 31          13,479,132        2,786,379      2,228,909           1.40
+June 30            6,563,310          689,720        151,724            .09
+
+
+______________________________________________________________
+
+(a) Quarterly earnings per share may not equal annual earnings per share due to 
+changes in shares outstanding.
+<TABLE>
+SCHEDULE II
+                         DELTA NATURAL GAS COMPANY, INC. AND SUBSIDIARY COMPANIES
+                    AMOUNTS RECEIVABLE FROM RELATED PARTIES AND UNDERWRITERS, PROMOTERS
+                                 AND EMPLOYEES OTHER THAN RELATED PARTIES
+                             FOR THE YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+                                                                                              
+<CAPTION>
+                                                                                              
+Column A                  Column B        Column C           Column D                    Column E
+<S>                     <C>             <C>           <C>        <C>            <C>           <C>  
+                                                                                              
+                         Balance at                                                                 
+                        Beginning of                                                  Balance at End
+Name of Debtor               Period      Additions          Deductions                    of Period
+                                                                                                    
+                                                                   Amounts                          
+                                                       Amounts     written                          
+                                                      collected      off          Current  Non-Current
+                                                                                              
+Glenn R. Jennings (a):                                                                        
+June 30, 1994           $      95,000     $    -       $    -      $ 12,000     $     -       $ 83,000
+June 30, 1993           $     107,000     $    -       $    -      $ 12,000     $     -       $ 95,000
+June 30, 1992           $      91,000     $ 28,000     $    -      $ 12,000     $     -       $107,000
+                                                                                              
+                                                                                              
+                                                                                              
+(a)  Interest is to be paid at the annual rate of 8% payable monthly with the Company forgiving
+     $1,000 of the principal amount for each month of service Mr. Jennings completes.  Effective                                    
+     September 1, 1994, the loan forgiveness was amended to $2,000 per month.  The loan
+     is secured by a mortgage on certain property.
+</TABLE>
+<TABLE>
+SCHEDULE V
+                       DELTA NATURAL GAS COMPANY, INC. AND SUBSIDIARY COMPANIES
+                                     PROPERTY, PLANT AND EQUIPMENT
+                                    FOR THE YEAR ENDED JUNE 30, 1994
+                                                                                       
+<CAPTION>
+                                                                                       
+Column A             Column B        Column C            Column D        Column E          Column F
+<S>               <C>               <C>           <C>  <C>             <C>              <C>
+                                                                          Other                
+                    Balance at       Additions                         Changes Add        Balance at
+                  June 30, 1993       at Cost          Retirements     (Deduct)(a)       June 30, 1994
+                                                                                       
+Classification                                                                         
+Production         $ 4,633,905      $    40,764         $  13,297      $       -        $ 4,661,372
+Storage                545,157              -                 -                -            545,157
+Transmission        15,575,862        1,467,119            61,883              -         16,981,098
+Distribution        41,514,312        3,762,532            90,023              -         45,186,821
+General              8,724,704        1,280,813           515,269              -          9,490,248
+Construction Work                                                                      
+   In Progress         193,920          823,519   (b)         -                -          1,017,439
+Acquisition                -                -                 -                -                -
+Adjustment
+                   $71,187,860      $ 7,374,747         $ 680,472      $       -        $77,882,135
+                                                                                       
+                                                                                       
+                                                                                       
+(a)  These amounts represent customer contributions in aid of construction, reclassifications and     
+     other.  
+(b)  Additions to construction work in progress are net of transfers to plant in service.
+</TABLE>
+<TABLE>
+SCHEDULE V
+                         DELTA NATURAL GAS COMPANY, INC. AND SUBSIDIARY COMPANIES
+                                      PROPERTY, PLANT AND EQUIPMENT
+                                     FOR THE YEAR ENDED JUNE 30, 1993
+                                                                                             
+<CAPTION>
+                                                                                             
+Column A                  Column B         Column C           Column D        Column E      Column F
+<S>                    <C>                <C>          <C>  <C>             <C>          <C>              
+                                                                               Other               
+                         Balance at        Additions                        Changes Add    Balance at
+                       June 30, 1992        at Cost         Retirements     (Deduct)(a)  June 30, 1993
+                                                                                             
+Classification                                                                               
+Production              $ 4,800,777       $    35,787        $ 207,659      $     5,000    $ 4,633,905
+Storage                     550,157               -                -             (5,000)       545,157
+Transmission             13,596,575         2,059,165           79,878              -       15,575,862
+Distribution             38,167,687         3,489,218          138,253           (4,340)    41,514,312
+General                   7,901,993         1,115,286          285,315           (7,260)     8,724,704
+Construction Work                                                                            
+   In Progress              603,868          (409,948) (b)         -                -          193,920
+Acquisition Adjustment      411,160               -                -           (411,160)           -
+                        $66,032,217       $ 6,289,508        $ 711,105      $  (422,760)   $71,187,860
+                                                                                             
+                                                                                             
+                                                                                             
+(a)  These amounts represent customer contributions in aid of construction, reclassifications and 
+     other.
+(b)  Additions to construction work in progress are net of transfers to plant in service.
+</TABLE>
+<TABLE>
+SCHEDULE V
+                    DELTA NATURAL GAS COMPANY, INC. AND SUBSIDIARY COMPANIES
+                                    PROPERTY, PLANT AND EQUIPMENT
+                                   FOR THE YEAR ENDED JUNE 30, 1992
+                                                                                         
+<CAPTION>
+                                                                                         
+Column A                  Column B        Column C          Column D       Column E        Column F
+<S>                    <C>               <C>         <C>   <C>           <C>           <C>                <C>
+                                                                            Other              
+                         Balance at      Additions                       Changes Add      Balance at
+                       June 30, 1991       at Cost         Retirements   (Deduct)(a)    June 30, 1992
+                                                                                         
+Classification                                                                           
+Production              $ 4,812,652      $   89,832        $    12,751   $   (88,956)     $ 4,800,777
+Storage                     550,157             -                  -             -            550,157
+Transmission             12,904,313         722,386             30,124           -         13,596,575
+Distribution             35,059,511       3,343,271            174,195       (60,900)      38,167,687
+General                   7,647,258         687,741            432,740          (266)       7,901,993
+Construction Work                                                                        
+   In Progress              372,615         231,253  (b)           -             -            603,868
+Acquisition Adjustment      411,160             -                  -             -            411,160
+                        $61,757,666      $5,074,483        $   649,810   $  (150,122)     $66,032,217
+                                                                                         
+                                                                                         
+                                                                                         
+(a)  These amounts represent customer contributions in aid of construction, reclassifications and
+     other.
+(b)  Additions to construction work in progress are net of transfers to plant in service.
+</TABLE>
+<TABLE>
+SCHEDULE VI
+                           DELTA NATURAL GAS COMPANY, INC. AND SUBSIDIARY COMPANIES
+                                    ACCUMULATED DEPRECIATION, DEPLETION AND
+                                 AMORTIZATION OF PROPERTY, PLANT AND EQUIPMENT
+                                        FOR THE YEAR ENDED JUNE 30, 1994
+                                                                                                  
+<CAPTION>
+                                                                                                 
+Column A        Column B          Column C                Column D               Column E      Column F
+<S>          <C>           <C>        <C>            <C>         <C>            <C>         <C>          
+                                  Additions               Deductions                            
+                                         Charged to              Salvage and       Other           
+               Balance at  Charged to Transportation               Cost of      Changes Add   Balance at
+Description  June 30, 1993  Expenses      Clearing   Retirements  Removal, Net    (Deduct)  June 30, 1994
+Production    $ 1,216,575  $  150,418  $        -    $   13,297   $      -       $     -      $ 1,353,696
+Storage           137,289       8,583           -           -            -             -          145,872
+Transmission    5,273,357     451,985           -        61,883      (10,794)          -        5,674,253
+Distribution    9,998,157   1,118,420           -        90,023       11,949           -       11,014,605
+General         4,492,985     248,462       360,941     515,269      (86,924)          -        4,674,043
+Acquisition                                                                                       
+   Adjustment         -           -             -           -             -            -              -
+              $21,118,363  $1,977,868  $    360,941  $  680,472   $  (85,769)    $     -      $22,862,469
+</TABLE>
+<TABLE>
+SCHEDULE VI
+                            DELTA NATURAL GAS COMPANY, INC. AND SUBSIDIARY COMPANIES
+                                     ACCUMULATED DEPRECIATION, DEPLETION AND
+                                  AMORTIZATION OF PROPERTY, PLANT AND EQUIPMENT
+                                        FOR THE YEAR ENDED JUNE 30, 1993
+                                                                                                    
+<CAPTION>
+                                                                                                    
+Column A        Column B          Column C                Column D                Column E     Column F
+<S>          <C>           <C>        <C>            <C>         <C>            <C>         <C>           
+                                  Additions               Deductions                                   
+                                         Charged to              Salvage and        Other           
+               Balance at  Charged to Transportation               Cost of      Changes Add   Balance at
+Description  June 30, 1992  Expenses      Clearing   Retirements  Removal, Net    (Deduct)  June 30, 1993
+Production    $ 1,185,221  $  179,013  $        -    $  207,659   $  (60,000)    $     -      $ 1,216,575
+Storage           128,706       8,583           -           -            -             -          137,289
+Transmission    4,937,553     409,050           -        79,878       (6,632)          -        5,273,357
+Distribution    9,095,321   1,029,507           -       138,253      (11,582)          -        9,998,157
+General         4,167,347     206,919       344,136     285,315      (59,898)          -        4,492,985
+Acquisition                                                                                         
+   Adjustment     411,160         -             -           -            -        (411,160)           -
+              $19,925,308  $1,833,072  $    344,136  $  711,105   $ (138,112)    $(411,160)   $21,118,363
+</TABLE>
+<TABLE>
+SCHEDULE VI
+                             DELTA NATURAL GAS COMPANY, INC. AND SUBSIDIARY COMPANIES
+                                     ACCUMULATED DEPRECIATION, DEPLETION AND
+                                  AMORTIZATION OF PROPERTY, PLANT AND EQUIPMENT
+                                         FOR THE YEAR ENDED JUNE 30, 1992
+                                                                                                    
+<CAPTION>
+                                                                                                    
+Column A        Column B          Column C                Column D               Column E       Column F
+<S>          <C>           <C>        <C>            <C>         <C>            <C>         <C>
+                                  Additions               Deductions                             
+                                         Charged to              Salvage and       Other            
+               Balance at  Charged to Transportation               Cost of      Changes Add   Balance at
+Description  June 30, 1991  Expenses      Clearing   Retirements  Removal, Net    (Deduct)  June 30, 1992
+Production    $ 1,021,866  $   179,631  $        -    $  12,751   $     3,525    $           $  1,185,221
+Storage           119,873        8,833           -          -             -             -         128,706
+Transmission    4,594,835      372,842           -       30,124           -             -       4,937,553
+Distribution    8,332,540      944,332           -      174,195         7,356           -       9,095,321
+General         4,003,670      169,902       328,535    432,740       (97,980)          -       4,167,347
+Acquisition                                                                                         
+   Adjustment     411,160          -             -           -            -             -         411,160
+              $18,483,944  $ 1,675,540  $    328,535   $ 649,810   $   (87,099)  $      -    $ 19,925,308
+</TABLE>
+<TABLE>
+                                                                                                    
+SCHEDULE VIII
+                        DELTA NATURAL GAS COMPANY, INC. AND SUBSIDIARY COMPANIES
+                                    VALUATION AND QUALIFYING ACCOUNTS
+                             FOR THE YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+                                                                                            
+<CAPTION>
+                                                                                            
+Column A                       Column B              Column C                   Column D       Column E
+<S>                            <C>           <C>          <C>                  <C>           <C>            
+                                                     Additions                                     
+                                Balance                    Charged to          Deductions             
+                                  at         Charged to      Other               Amounts       Balance
+                               Beginning     Costs and     Accounts-           Charged Off      at End
+Description                    of Period      Expenses      Recoveries            or Paid     of Period
+                                                                                            
+Deducted From the Asset to                                                                  
+Which it Applies - Allowance                                                                
+for doubtful accounts for                                                                   
+the years ended:                                                                            
+June 30, 1994                  $  208,182    $  100,800   $     25,906         $    203,564  $   131,324
+June 30, 1993                  $  208,212    $  100,800   $     20,018         $    120,848  $   208,182
+June 30, 1992                  $   45,262    $  295,400   $     27,176         $    159,626  $   208,212
+</TABLE>
+<TABLE>                                                        
+SCHEDULE IX
+                          DELTA NATURAL GAS COMPANY, INC. AND SUBSIDIARY COMPANIES
+                                          SHORT-TERM BORROWINGS
+                             FOR THE YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+                                                                                     
+<CAPTION>
+                                                                                     
+                                                    Maximum Amount   Average Amount            
+                         Balance       Weighted      Outstanding       Outstanding     Weighted Average
+Category of aggregate   at End of       Average         During           During      Interest Rate During
+short-term borrowings     Period     Interest Rate    the Period     the Period (b)     the Period (b)
+<C>                     <C>              <C>         <C>              <C>                    <C>
+                                                                                     
+Bank Notes Payable (a)                                                               
+                                                                                     
+1994                    $2,705,000       5.5%        $ 9,065,000      $  4,230,945           4.3%
+1993                    $6,470,000       4.2%        $ 7,815,000      $  5,350,779           4.3%
+1992                    $2,770,000       5.0%        $ 3,825,000      $  2,117,896           5.9%
+                                                                                     
+                                                                                     
+                                                                                     
+(a)  Bank loans consist of a demand grid note.  The interest rate fluctuated with either the daily prime  
+        or various certificate of deposit rates for the periods.
+
+(b)  Computed by using the daily weighted average borrowings for the periods.
+
+</TABLE>
+                                                                        
+
+SCHEDULE X
+
+
+DELTA NATURAL GAS COMPANY, INC. AND SUBSIDIARY COMPANIES
+
+SUPPLEMENTARY INCOME STATEMENT INFORMATION
+
+FOR THE YEARS ENDED JUNE 30, 1994, 1993 AND 1992
+
+
+
+Column A                                    Column B
+
+                                  Charged to Income for the Year
+                                          Ended June 30_________
+
+                                     1994       1993       1992
+
+Item (a)
+
+Maintenance and Repairs           $ 408,498   $436,455   $524,976
+
+Property Taxes                    $ 408,361   $360,745   $356,061
+
+
+
+
+
+
+(a)     Items omitted do not exceed one percent of total consoli-
+        dated revenues as reported in the related consolidated 
+        statements of income or are reported separately in the
+        consolidated financial statements.
+
+EXHIBIT INDEX
+
+Exhibit 12      Computation of the Consolidated Ratio of Earnings to Fixed
+                Charges
+
+Exhibit 23      Consent of Independent Public Accountants
+
+Exhibit 27      Financial Data Schedule
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>2
+<TEXT>
+
+<TABLE>
+EXHIBIT 12
+                       DELTA NATURAL GAS COMPANY, INC. AND SUBSIDIARY COMPANIES
+                            COMPUTATION OF THE CONSOLIDATED RATIO OF EARNINGS
+                                             TO FIXED CHARGES
+                                                                                                        
+                                                                                                        
+<CAPTION>
+                               1994            1993            1992            1991            1990     
+<S>                          <C>            <C>              <C>             <C>            <C>        
+                                                                                                        
+Earnings:                                                                                               
+   Net income ............   $2,671,001     $2,620,664       $2,453,813      $1,162,582     $1,195,512  
+   Provisions for income                                                                                
+     taxes ...............    1,509,600      1,543,700        1,441,600         560,500        608,200  
+   Fixed charges .........    2,214,659      2,210,833        2,166,597       1,968,390      1,757,772  
+                                                                                                        
+      Total                  $6,395,260     $6,375,197       $6,062,010      $3,691,472     $3,561,484  
+                                                                                                        
+                                                                                                        
+Fixed Charges:                                                                                          
+   Interest on debt ......   $2,123,255     $2,134,306       $2,091,117      $1,914,894     $1,708,296  
+   Amortization of debt                                                                                 
+     expense .............       91,404         76,527           75,480          53,496         49,476  
+                                                                                                        
+      Total                  $2,214,659     $2,210,833       $2,166,597      $1,968,390     $1,757,772  
+                                                                                                        
+                                                                                                        
+Ratio of Earnings to                                                                                    
+Fixed Charges:                     2.89  x         2.88  x         2.80  x         1.88 x          2.03 x
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>3
+<TEXT>
+
+EXHIBIT 23
+         
+         
+         
+CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+         
+         
+         
+                 As independent public accountants, we hereby consent to the
+         incorporation of our report dated August 12, 1994, included in this
+         Form 10-K, into the Company's previously filed Registration Statement
+         No. 33-31457, relating to the Dividend Reinvestment and Stock Purchase
+         Plan of the Company.
+         
+         
+                                                            Arthur Andersen LLP
+         
+         
+         
+         Louisville, Kentucky
+         August 26, 1994
+         
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> OPUR1
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1994
+<PERIOD-END>                               JUN-30-1994
+<BOOK-VALUE>                                  PER-BOOK
+<TOTAL-NET-UTILITY-PLANT>                   55,019,666
+<OTHER-PROPERTY-AND-INVEST>                          0
+<TOTAL-CURRENT-ASSETS>                       4,116,527
+<TOTAL-DEFERRED-CHARGES>                     2,444,258
+<OTHER-ASSETS>                                 352,029
+<TOTAL-ASSETS>                              61,932,480
+<COMMON>                                    (1,839,340)
+<CAPITAL-SURPLUS-PAID-IN>                  (17,944,884)
+<RETAINED-EARNINGS>                         (2,380,567)
+<TOTAL-COMMON-STOCKHOLDERS-EQ>             (22,164,791)
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<LONG-TERM-DEBT-NET>                       (24,500,000)
+<SHORT-TERM-NOTES>                                   0
+<LONG-TERM-NOTES-PAYABLE>                            0
+<COMMERCIAL-PAPER-OBLIGATIONS>                       0
+<LONG-TERM-DEBT-CURRENT-PORT>                 (500,000)        
+<PREFERRED-STOCK-CURRENT>                            0
+<CAPITAL-LEASE-OBLIGATIONS>                          0
+<LEASES-CURRENT>                                     0
+<OTHER-ITEMS-CAPITAL-AND-LIAB>             (12,062,689)
+<TOT-CAPITALIZATION-AND-LIAB>              (61,932,480)
+<GROSS-OPERATING-REVENUE>                  (34,846,941)
+<INCOME-TAX-EXPENSE>                         1,509,600
+<OTHER-OPERATING-EXPENSES>                  28,486,668         
+<TOTAL-OPERATING-EXPENSES>                  29,996,268
+<OPERATING-INCOME-LOSS>                     (4,850,673)
+<OTHER-INCOME-NET>                             (34,987)
+<INCOME-BEFORE-INTEREST-EXPEN>              (4,885,660)
+<TOTAL-INTEREST-EXPENSE>                    (2,214,659)
+<NET-INCOME>                                (2,671,001)
+<PREFERRED-STOCK-DIVIDENDS>                          0
+<EARNINGS-AVAILABLE-FOR-COMM>               (2,671,001)         
+<COMMON-STOCK-DIVIDENDS>                     1,972,368
+<TOTAL-INTEREST-ON-BONDS>                    1,879,526
+<CASH-FLOW-OPERATIONS>                       6,172,019
+<EPS-PRIMARY>                                     1.50
+<EPS-DILUTED>                                     1.50
+       
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

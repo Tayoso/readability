@@ -1,0 +1,1892 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ hM/Azk6dOjmLH1PiE43ExfUEmoLybqq6tgZuT50syHmCXzX6062vPRf2g1Xp/mBR
+ kTl356dgnSKNaxgYx9lm5w==
+
+<IMS-DOCUMENT>0000912057-94-002840.txt : 19940901
+<IMS-HEADER>0000912057-94-002840.hdr.sgml : 19940901
+ACCESSION NUMBER:		0000912057-94-002840
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19940531
+FILED AS OF DATE:		19940826
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MARSHALL INDUSTRIES
+		CENTRAL INDEX KEY:			0000062765
+		STANDARD INDUSTRIAL CLASSIFICATION:	5065
+		IRS NUMBER:				952048764
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05441
+		FILM NUMBER:		94546296
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9320 TELSTAR AVE
+		CITY:			EL MONTE
+		STATE:			CA
+		ZIP:			91731
+		BUSINESS PHONE:		8183076000
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>10-K
+<TEXT>
+
+<PAGE>
+- - --------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   FORM 10-K
+/X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT
+    OF 1934
+
+    FOR THE FISCAL YEAR ENDED MAY 31, 1994
+/ /  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+     FOR THE TRANSITION PERIOD FROM ................... TO ...................
+                         COMMISSION FILE NUMBER 1-5441
+- - --------------------------------------------------------------------------------
+
+                              MARSHALL INDUSTRIES
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+- - --------------------------------------------------------------------------------
+
+<TABLE>
+<S>                                       <C>
+                CALIFORNIA                                95-2048764
+     (STATE OR OTHER JURISDICTION OF                   (I.R.S. EMPLOYER
+      INCORPORATION OR ORGANIZATION)                 IDENTIFICATION NO.)
+           9320 TELSTAR AVENUE                            91731-2895
+           EL MONTE, CALIFORNIA                           (ZIP CODE)
+ (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)
+</TABLE>
+
+                                 (818) 307-6000
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+
+<TABLE>
+<S>                                       <C>
+                                                    NAME OF EACH EXCHANGE
+           TITLE OF EACH CLASS                       ON WHICH REGISTERED
+- - ------------------------------------------------------------------------------------
+         COMMON STOCK, PAR VALUE                   NEW YORK STOCK EXCHANGE
+             $1.00 PER SHARE
+</TABLE>
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT: NONE
+
+INDICATE BY CHECK MARK WHETHER THE REGISTRANT (1) HAS FILED ALL REPORTS REQUIRED
+TO BE FILED BY SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 DURING
+THE  PRECEDING 12  MONTHS (OR  FOR SUCH SHORTER  PERIOD THAT  THE REGISTRANT WAS
+REQUIRED TO  FILE  SUCH  REPORTS)  AND  (2) HAS  BEEN  SUBJECT  TO  SUCH  FILING
+REQUIREMENTS FOR THE PAST 90 DAYS.
+
+                               YES  /X/    NO / /
+INDICATE  BY CHECK MARK IF DISCLOSURE OF  DELINQUENT FILERS PURSUANT TO ITEM 405
+OF REGULATION S-K IS  NOT CONTAINED HEREIN,  AND WILL NOT  BE CONTAINED, TO  THE
+BEST  OF REGISTRANT'S KNOWLEDGE,  IN DEFINITIVE PROXY  OR INFORMATION STATEMENTS
+INCORPORATED BY REFERENCE IN PART III OF THIS FORM 10-K OR ANY AMENDMENT TO THIS
+FORM 10-K.   /X/
+
+    STATE THE AGGREGATE MARKET VALUE OF THE VOTING STOCK HELD BY  NON-AFFILIATES
+OF THE REGISTRANT.
+
+    $349,747,464  (COMPUTED ON THE BASIS OF $22.00 PER SHARE, WHICH WAS THE LAST
+SALE PRICE ON THE NEW YORK STOCK EXCHANGE ON JULY 29, 1994).
+
+    INDICATE THE  NUMBER  OF SHARES  OUTSTANDING  OF EACH  OF  THE  REGISTRANT'S
+CLASSES OF COMMON STOCK, AS OF THE LATEST PRACTICABLE DATE.
+
+<TABLE>
+<CAPTION>
+                                                 NUMBER OF OUTSTANDING SHARES
+              CLASS OF STOCK                         AS OF JULY 29, 1994
+- - ------------------------------------------------------------------------------------
+<S>                                       <C>
+ COMMON STOCK, PAR VALUE $1.00 PER SHARE                  17,232,864
+</TABLE>
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+   PROXY STATEMENT FOR ANNUAL MEETING OF SHAREHOLDERS TO BE HELD OCTOBER 24,
+                                 1994  PART III
+<PAGE>
+Marshall Industries
+FORM 10-K
+Year Ended May 31, 1994
+PART I
+
+ITEM 1. BUSINESS
+
+GENERAL
+
+    Electronics  distributors form an integral part of the electronics industry.
+Most domestic  and  foreign  manufacturers  of  electronic  components  rely  on
+independent   authorized  distributors,   such  as   Marshall  Industries  ("the
+Company"), to augment  their product marketing  operations and provide  stocking
+and  service  capabilities. These  manufacturers  are relying  to  an increasing
+extent on distributors to market their products.
+
+    The Company is the  fourth largest domestic distributor  in sales volume  of
+industrial electronic components and production supplies. Through its network of
+36  sales and distribution  facilities and 3  corporate support and distribution
+centers in the  United States and  Canada, the Company  supplies and services  a
+broad   range  of   products,  including   semiconductors,  passive  components,
+connectors and  interconnect  products,  and  computer  systems  and  peripheral
+products,  as  well  as  production  supplies.  The  distribution  of electronic
+components accounted for  approximately 91% and  94% of total  Company sales  in
+fiscal  1993 and 1994,  respectively. The distribution  of industrial production
+supplies accounted for the balance or 9% and 6%, respectively, of total  Company
+sales  in each of such periods. The  Company believes it is the largest domestic
+distributor in sales volume  of industrial production  supplies to customers  in
+the electronics industry.
+
+ELECTRONIC COMPONENTS DISTRIBUTION
+
+    The  distribution of semiconductor products  accounted for approximately 62%
+and 70%, respectively, of total Company  sales in fiscal 1993 and 1994.  Passive
+components, connectors and interconnect products accounted for approximately 16%
+and  13%,  respectively, of  total  Company sales  for  those periods.  Sales of
+computer systems and  peripheral products  accounted for  approximately 13%  and
+11%, respectively, of total Company sales in fiscal 1993 and 1994.
+
+    Texas  Instruments ("TI") is the Company's largest supplier of semiconductor
+products. TI's semiconductor products accounted for approximately 14% and 15% of
+total Company sales in fiscal 1993  and 1994, respectively. The Company  carries
+the  full range of semiconductor products manufactured by TI and distributes the
+products of a  number of other  leading American manufacturers.  The Company  is
+also the major distributor in sales volume of Japanese semiconductor products in
+the  United States. Sales of these  products accounted for approximately 16% and
+19% of total Company sales in fiscal 1993 and 1994, respectively.  Additionally,
+the  Company distributes components manufactured  by European suppliers, such as
+Siemens Components, Inc. ("Siemens"),  Philips Semiconductors, a North  American
+Philips    Company   ("Philips"),   formerly    "Signetics,"   and   SGS-Thomson
+Microelectronics Inc. ("SGS-Thomson").
+
+    The Company purchases electronic components from over 50 major suppliers  in
+the following general categories:
+
+    SEMICONDUCTOR  PRODUCTS:   Semiconductor products include  memory, logic and
+programmable logic devices, microprocessors and microperipheral components.  The
+Company's  principal suppliers are  Brooktree Corporation, Cypress Semiconductor
+Corp., Fujitsu, Hitachi, Lattice  Semiconductor Corporation, Linear  Technology,
+Philips, NEC, Siemens, SGS-Thomson, TI, Toshiba America, Inc. and Xilinx, Inc.
+
+    During  late fiscal 1993, Atmel Corp. and IBM Technology Products, a unit of
+IBM, awarded the Company franchise agreements to distribute their  semiconductor
+products.
+
+                                       2
+<PAGE>
+
+    PASSIVE  COMPONENTS:  The Company  distributes passive components, including
+multilayer ceramic, tantalum and foil  capacitors as well as resistor  networks.
+These  products are manufactured by such leading suppliers as AVX Corporation, a
+subsidiary of Kyocera Corporation and Bourns, Inc.
+
+    CONNECTORS AND INTERCONNECT PRODUCTS:  Connectors and interconnect  products
+include  surface  mount  sockets and  fiber  optic systems,  along  with printed
+circuit board level connectors. The Company's principal suppliers of  connectors
+and interconnect products are AMP Incorporated and T&B/Ansley Corporation, which
+rank among the leading suppliers of these products.
+
+    COMPUTER  SYSTEMS AND PERIPHERALS:   The Company's product offerings include
+printers, keyboards,  optical, hard  and floppy  disk drives,  monitors,  mother
+boards  for personal  computers, power  supplies, and  other systems components.
+Computer Products Inc., Fujitsu, IBM Personal Computer Company, NEC Electronics,
+Inc., Sharp  Electronics  Corporation,  Sony Components  Products,  and  Toshiba
+America  Information Systems, Inc. are the  major suppliers of these products to
+the Company.
+
+    VALUE ADDED SERVICES:  In addition  to the distribution of component  parts,
+the  Company provides a  variety of value  added services to  its customers. The
+Company provides programmable logic array and PROM and EPROM programming,  along
+with  certain types  of testing services.  The Company  also packages electronic
+component kits  to  customers'  specifications ("kitting")  and  provides  cable
+assembling  services. Through  the use of  third party  contractors, the Company
+provides contract manufacturing capabilities.
+
+PRODUCTION SUPPLIES DISTRIBUTION
+
+    The Company believes that  it is the largest  domestic distributor in  sales
+volume  of  industrial  production  supplies  to  customers  in  the electronics
+industry.  Such   supplies  include   hand  tools,   static  control   products,
+instrumentation,  solder, soldering  irons and work  stations. Leading suppliers
+include Cooper Tools, a division of Cooper Industries, Kester Solder, a division
+of Litton Industries, Tektronix, Inc., and 3M.
+
+MARKETS
+
+    The Company  currently has  a national  distribution network  in the  United
+States  and  Canada  consisting  of  36 sales  and  distribution  centers  and 3
+corporate support and  distribution centers.  The Company believes  that it  has
+sales  facilities in all of the major  electronic products markets in the United
+States, including the Los  Angeles/Orange County, San Francisco/Silicon  Valley,
+Boston,  Chicago, Denver, Philadelphia, Portland, Seattle, Connecticut, Florida,
+New Jersey, Georgia, Maryland, Minnesota, Ohio  and Texas areas. In Canada,  the
+Company  has  sales facilities  in  Toronto and  Montreal.  As a  result  of the
+Company's marketing strategy  and expansion programs,  the Company is  currently
+distributing  products  manufactured  by  over  50  major  electronic  component
+suppliers to approximately 30,000 customers.
+
+    As described in Note 6 to the financial statements, the Company has  entered
+into  an agreement to make an  investment in Sonepar Electronique International,
+the third largest electronic component distributor in Europe.
+
+    At  May  31,   1994,  the   Company  had   approximately  1,450   employees,
+substantially all of whom were employed full-time.
+
+                                       3
+<PAGE>
+
+CUSTOMERS AND MARKETING
+
+    Distributors  offer electronics customers the convenience of immediate price
+and delivery information, backlog  status, diverse off-the-shelf inventories  in
+small  and  large  quantities,  rapid  deliveries  and  the  financing  of their
+purchases.   The   Company's   electronics   distribution   business    services
+approximately  30,000 customers, the majority of which are small and medium size
+original  equipment  manufacturers  ("OEM's")   in  the  fields  of   computers,
+communications,  capital and  office equipment,  industrial control  and medical
+equipment. In  recent  years,  contract manufacturers  have  also  become  major
+customers  for electronic component distributors, including the Company, as many
+OEM's have outsourced their purchasing  and manufacturing functions to them.  No
+single  customer accounted for more than 4% of the Company's sales during any of
+the last five fiscal years.
+
+    The Company's products are sold by both field and inside sales people. Sales
+personnel work directly  with customers providing  price, delivery, backlog  and
+technical information regarding the products which the Company distributes. Each
+sales  and distribution center is electronically linked to the Company's central
+computer system, which  provides fully integrated  on-line, real-time data  with
+respect  to the  Company's nationwide  inventory levels.  The Company's computer
+system  facilitates  the  control  of  purchasing  and  payables,  shipping  and
+receiving,  and billing and  collections. A salesperson may  order shipment of a
+product from any distribution center within a matter of minutes. The Company has
+made significant investments,  particularly during  the last  several years,  to
+increase  the capabilities of its computerized information systems. In December,
+1992, the  Company  implemented new  computer  software for  its  operating  and
+financial  systems. The  Company had  invested approximately  $9 million  in the
+design, purchase, and  implementation of these  systems. In the  opinion of  the
+Company,  these  systems,  which were  written  in a  contemporary  language and
+architecture, have the capabilities to  support future changes and  enhancements
+required to meet market needs and growth. Due to the high volume of transactions
+and   the  cost  competitiveness  of  the  electronics  components  distribution
+industry,  the  Company  believes  that  the  expansion  and  upgrading  of  its
+computerized  information systems will be an ongoing requirement. In July, 1994,
+the Company  introduced an  electronic  telecommunications service  that  allows
+customers  to design,  engineer and  purchase products  via the  "Internet". The
+Company believes that it is the first major electronic component distributor  to
+offer this service.
+
+    The  Company has  focused on obtaining  franchises with  suppliers which are
+among the  leading manufacturers  of  the product  categories that  the  Company
+distributes.  In addition, the Company has established distributor relationships
+with suppliers of emerging high technology products, such as Brooktree, Cypress,
+Lattice, Linear  Technology, and  Xilinx. The  Company offers  a broad  line  of
+products  to meet  its customers' needs.  The Company has  also concentrated its
+inventory and  marketing efforts  on the  following product  categories that  it
+believes  are the greatest  growth areas of the  distribution business: (1) high
+performance memory and programmable logic devices; (2) data conversion products;
+(3) microprocessors; (4) computer systems  and peripherals; (5) printed  circuit
+board  level connectors; (6)  passive components; and  (7) industrial production
+supplies and instrumentation.  Additionally, the Company  is focusing on  having
+its  sales  force  sell a  balanced  mix of  all  types of  products  along with
+expanding its customer base.
+
+RELATIONSHIP WITH SUPPLIERS
+
+    The majority of the products sold  by the Company are purchased pursuant  to
+distributor  agreements. These agreements  are typically for  terms of one year,
+renewable annually, non-exclusive, and authorize the Company to sell through its
+sales and distribution centers all or a portion of the products produced by that
+manufacturer. These agreements may be cancelled by either party on short  notice
+and  generally  provide  for  a  return  of  the  manufacturer's  inventory upon
+cancellation. The Company's  ten largest suppliers  accounted for  approximately
+51%  and 54%,  respectively, of  total Company  sales in  fiscal 1993  and 1994.
+Except for TI, which accounted for 14% and 15% of total Company sales for fiscal
+1993 and 1994, no other supplier accounted for more than 10%. Cancellation of an
+agreement with, or trade restrictions affecting purchases from, a major supplier
+could have a material  adverse effect upon the  Company's business. The  Company
+believes that it has a
+
+                                       4
+<PAGE>
+
+satisfactory  relationship with each of its suppliers. The Company considers its
+relationships with its Japanese suppliers  to be sound. Nonetheless, because  of
+uncertainties  relating  to  U.S.  trade  issues,  the  possibility  exists that
+continued access  to  Japanese products  could  be affected.  In  addition,  the
+Company  cannot determine the  direction of U.S. trade  issues or their ultimate
+effect on the competitive environment and the Company's results.
+
+    Most   manufacturers   of    electronic   components,   including    foreign
+manufacturers,  protect authorized  distributors, such  as the  Company, against
+potential inventory losses  from declining prices  and obsolescence. To  protect
+its  distributors  from  declining  market  prices,  most  electronic  component
+manufacturers allow their distributors pricing adjustments as products are  sold
+to  customers  as well  as credits  on unsold  inventory when  the manufacturers
+reduce prices on their price  lists. In addition, under  the terms of many  such
+agreements,  the distributor  has the right  to return to  the manufacturer, for
+credit, any product classified as obsolete  by the manufacturer and a  specified
+portion of other inventory items purchased within a designated period of time. A
+manufacturer  who elects to terminate a  distribution agreement without cause is
+generally required  to  purchase  from  the distributor  the  products  of  such
+manufacturer  carried in the  distributor's inventory. While  such agreements do
+not protect the Company  totally from inventory losses,  such agreements do,  in
+management's  opinion,  provide  substantial  protection  from  such  losses. No
+assurance can be given, however, that such price adjustment and return  policies
+will continue.
+
+    To  service  its kitting  and turnkey  contract manufacturing  customers, as
+described on page  3, the Company  must buy  a certain amount  of products  from
+third  parties on a non-franchised basis. Since there are typically no return or
+price protection privileges on these purchases, there are significantly  greater
+inventory  risks  associated  with kitting  and  turnkey  contract manufacturing
+orders than  with  the  purchase  and stocking  of  inventory  pursuant  to  its
+franchise agreements.
+
+NATURE OF BUSINESS AND COMPETITION
+
+    Although  the Company's business is not seasonal to any material extent, its
+business is affected  by the  cyclical nature  of the  electronics industry  and
+overall  trends in the general economy. In addition, the Company has experienced
+industry-wide product shortages and  excess supplies from  time to time.  During
+the last several years, there have been shortages of and long lead times on some
+semiconductor  products,  particularly surface  mount  logic and  certain memory
+devices. In  recent months  however, the  availability and  lead times  of  many
+products have returned to normal levels.
+
+    Supplying  and servicing  the electronics  industry is  a highly competitive
+business. The competition  is from other  large national distributors,  numerous
+local  and regional  distributors, as well  as some of  the Company's suppliers.
+Providing service to customers is the major competitive factor of the  industry.
+In   addition  to  providing  basic  distribution  services  such  as  technical
+information, product availability and  competitive pricing, prompt delivery  and
+credit,  the  Company  offers  many sophisticated  value  added  services. These
+additional services include component testing and assembly; just in time ("JIT")
+inventory management and  delivery systems; kitting  and contract assembly;  and
+sophisticated  computer interface  services such as  electronic data interchange
+("EDI"). The Company  considers its emphasis  on high-quality customer  service,
+monitored  by  statistical process  control ("SPC")  methods, to  be one  of its
+strengths.
+
+    From  time  to   time,  the   Company  has   experienced  competition   from
+"unauthorized"  U.S. distributors of Japanese  semiconductors who purchase these
+products in  foreign countries  at  prices below  those  which the  Company  may
+purchase  such  products directly  from its  suppliers.  In addition,  a limited
+number of the Company's customers have moved their manufacturing operations  out
+of  the United  States in  recent years.  Such changes  have not  had a material
+impact on the Company's business.
+
+    Information concerning backlog is  not material to  an understanding of  the
+Company's business, as the Company's objective is to ship orders on the same day
+they are received unless the customer has requested a
+
+                                       5
+<PAGE>
+
+specific  future delivery date on an  order. Additionally, it is common industry
+practice for  customers, in  most cases,  to be  able to  re-schedule or  cancel
+orders  with  future  delivery  dates  without  penalties.  In  the  electronics
+industry, the book-to-bill ratio, which is the ratio of sales orders received to
+shipments made, is commonly used as an indicator of business trends. Since  late
+calendar  1991, the  book-to-bill ratios for  both the industry  and the Company
+have been generally positive.
+
+ITEM 2. PROPERTIES
+
+    The Company  presently  has  36  sales and  distribution  facilities  and  3
+corporate  support and distribution centers. The Company's executive offices and
+corporate support and distribution center  are located in El Monte,  California.
+This facility is Company owned, has 258,000 square feet of space and utilizes an
+automated  inventory handling system. In addition  to this facility, the Company
+is using one other facility in El Monte for its regional warehousing  functions.
+It is also Company owned and has approximately 65,500 square feet of warehousing
+and general office space.
+
+    In  addition  to  the El  Monte  facilities,  a majority  of  the  sales and
+distribution facilities located in Marshall's  major markets are Company  owned.
+The  three largest facilities  range from approximately  58,000 to approximately
+65,000 square feet  in size  and are  located in  Milpitas, California;  Irvine,
+California  and  Boston,  Massachusetts.  The Company  also  owns  facilities in
+Austin, Texas,  Endicott,  New  York, San  Diego,  California  and  Wallingford,
+Connecticut of approximately 8,000 to 15,000 square feet each.
+
+    The Company leases its remaining sales and distribution facilities. They are
+located  in  cities  throughout  the  United States  and  Canada,  vary  in size
+depending on sales volume and are  subject to leases whose initial terms  expire
+at  various dates through fiscal 2000. Substantially all of those leases include
+renewal provisions.
+
+    In the opinion of the Company,  the current facilities are adequate for  the
+Company's operating requirements.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+    There  are no material pending  legal proceedings to which  the Company is a
+party.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+    No matter was  submitted to a  vote of security  holders during the  quarter
+ended May 31, 1994.
+
+                                       6
+<PAGE>
+
+PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED
+       STOCKHOLDER MATTERS
+
+    The  Company's Common Stock is  listed on the New  York Stock Exchange under
+the symbol  MI.  The following  table  shows,  for the  periods  indicated,  the
+published closing sale prices per share for the Company's Common Stock.
+
+<TABLE>
+<CAPTION>
+                                                     HIGH       LOW
+                                                    -------   -------
+<S>                                                 <C>       <C>
+FISCAL YEAR 1993
+  First Quarter...................................  $18 5/8   $14 5/8
+  Second Quarter..................................   21 1/8    17 3/8
+  Third Quarter...................................   20 1/4    17 3/8
+  Fourth Quarter..................................   21 1/8    18 1/4
+FISCAL YEAR 1994
+  First Quarter...................................  $23       $21
+  Second Quarter..................................   25        22 1/4
+  Third Quarter...................................   28        22 3/8
+  Fourth Quarter..................................   29 3/8    23 7/8
+</TABLE>
+
+    The  above share prices have been adjusted  to reflect the two for one stock
+split paid on February 28, 1994.
+
+    The Company had  approximately 6,000 shareholders  at May 31,  1994. It  has
+never  paid a  cash dividend.  Earnings have  been retained  to provide  for the
+growth and expansion of the Company's business.
+
+                                       7
+<PAGE>
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+    The following table sets forth selected  financial data with respect to  the
+statements  of income  of the Company  for the  five fiscal years  ended May 31,
+1994, and the balance sheets of the Company at year end for each of those years.
+The selected financial data is derived from financial statements for such  years
+and  at  such dates  as audited  by  Arthur Andersen  & Co.,  independent public
+accountants, including the statements  of income for the  three years ended  May
+31,  1994, and the  balance sheets at  May 31, 1993  and 1994 included elsewhere
+herein.
+<TABLE>
+<CAPTION>
+STATEMENTS OF INCOME
+  (IN THOUSANDS EXCEPT FOR PER SHARE DATA)
+                                                                     YEARS ENDED MAY 31,
+                                                    -----------------------------------------------------
+                                                      1990       1991       1992       1993       1994
+                                                    -----------------------------------------------------
+<S>                                                 <C>        <C>        <C>        <C>        <C>
+Net sales.........................................  $ 543,690  $ 582,717  $ 575,223  $ 652,899  $ 822,548
+Cost of sales.....................................    416,596    449,739    441,709    502,955    652,121
+                                                    ---------  ---------  ---------  ---------  ---------
+  Gross profit....................................    127,094    132,978    133,514    149,944    170,427
+Selling, general and administrative expenses......     90,440     99,868     98,917    108,394    112,220
+                                                    ---------  ---------  ---------  ---------  ---------
+  Income from operations..........................     36,654     33,110     34,597     41,550     58,207
+Interest expense and other -- net (1).............      3,376      4,391      2,689      2,016      1,931
+                                                    ---------  ---------  ---------  ---------  ---------
+  Income before provision for income taxes........     33,278     28,719     31,908     39,534     56,276
+Provision for income taxes........................     13,186     11,450     12,615     15,640     23,105
+                                                    ---------  ---------  ---------  ---------  ---------
+Net income........................................  $  20,092  $  17,269  $  19,293  $  23,894  $  33,171
+                                                    ---------  ---------  ---------  ---------  ---------
+                                                    ---------  ---------  ---------  ---------  ---------
+Net income per share (2)..........................  $    1.12  $    1.01  $    1.13  $    1.38  $    1.91
+                                                    ---------  ---------  ---------  ---------  ---------
+                                                    ---------  ---------  ---------  ---------  ---------
+Cash dividends per share (3)......................         --         --         --         --         --
+                                                    ---------  ---------  ---------  ---------  ---------
+                                                    ---------  ---------  ---------  ---------  ---------
+Weighted average number of shares outstanding.....     17,886     17,040     17,114     17,278     17,357
+BALANCE SHEETS -- SUMMARY
+  (IN THOUSANDS)
+
+<CAPTION>
+                                                                           MAY 31,
+                                                    -----------------------------------------------------
+                                                      1990       1991       1992       1993       1994
+                                                    -----------------------------------------------------
+<S>                                                 <C>        <C>        <C>        <C>        <C>
+Working capital...................................  $ 136,181  $ 150,726  $ 162,080  $ 206,970  $ 229,019
+Total assets......................................    249,920    254,132    273,429    330,844    363,659
+Long-term debt, net of current portion............     51,520     46,988     36,216     54,468     34,742
+Shareholders' investment..........................    140,541    158,345    178,464    202,791    238,716
+<FN>
+- - -------------
+(1)  Amounts are net of capitalized interest during construction of $834,000  in
+     1990  and a gain of $428,000  from the sale of a  facility and a receipt of
+     $500,000 from the sale of intangible assets in 1991.
+
+(2)  Net income  per share  is computed  on the  basis of  the weighted  average
+     common  and  common  equivalent  shares outstanding  during  each  year and
+     reflects the repurchase of 845,000 shares  of common stock in fiscal  1990.
+     All  amounts have been restated to reflect the two for one stock split paid
+     on February 28, 1994.
+
+(3)  The Company has never paid a cash dividend. Earnings have been retained  to
+     provide for the growth and expansion of the Company's business.
+</TABLE>
+
+                                       8
+<PAGE>
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+       AND RESULTS OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+    The  following  table sets  forth items  in  the statements  of income  as a
+percent of net sales for periods shown:
+
+<TABLE>
+<CAPTION>
+                                                                                                        YEARS ENDED MAY 31,
+                                                                                                  -------------------------------
+                                                                                                    1992       1993       1994
+                                                                                                  -------------------------------
+<S>                                                                                               <C>        <C>        <C>
+Net sales.......................................................................................      100.0%     100.0%     100.0%
+Cost of sales...................................................................................       76.8       77.0       79.3
+                                                                                                  ---------  ---------  ---------
+  Gross profit..................................................................................       23.2       23.0       20.7
+Selling, general and administrative expenses....................................................       17.2       16.6       13.7
+                                                                                                  ---------  ---------  ---------
+  Income from operations........................................................................        6.0        6.4        7.0
+Interest expense and other--net.................................................................         .5         .3         .2
+                                                                                                  ---------  ---------  ---------
+  Income before provision for income taxes......................................................        5.5        6.1        6.8
+Provision for income taxes......................................................................        2.2        2.4        2.8
+                                                                                                  ---------  ---------  ---------
+Net income......................................................................................        3.3%       3.7%       4.0%
+                                                                                                  ---------  ---------  ---------
+                                                                                                  ---------  ---------  ---------
+</TABLE>
+
+    As an aid  to understanding the  results of operations,  the following is  a
+summary  of the Company's  unaudited quarterly results  of operations for fiscal
+years 1992, 1993 and 1994 (in thousands except for per share data):
+
+<TABLE>
+<S>                                                              <C>          <C>          <C>          <C>          <C>
+                                                                       FIRST       SECOND        THIRD       FOURTH
+         1992                                                        QUARTER      QUARTER      QUARTER      QUARTER         YEAR
+- - ---------------------------------------------------------------  -----------  -----------  -----------  -----------  -----------
+Net sales......................................................  $   137,520  $   138,864  $   142,615  $   156,224  $   575,223
+Gross profit...................................................       31,783       32,033       32,896       36,802      133,514
+Net income.....................................................        4,018        4,118        4,826        6,331       19,293
+Net income per share...........................................          .24          .24          .28          .37         1.13
+
+         1993
+- - ---------------------------------------------------------------
+Net sales......................................................  $   151,867  $   154,680  $   156,259  $   190,093  $   652,899
+Gross profit...................................................       36,314       36,740       35,012       41,878      149,944
+Net income.....................................................        6,012        6,048        4,667        7,167       23,894
+Net income per share...........................................          .35          .35          .27          .41         1.38
+</TABLE>
+
+<TABLE>
+<S>                                                 <C>        <C>        <C>        <C>        <C>
+         1994
+- - --------------------------------------------------
+NET SALES.........................................  $ 199,807  $ 200,594  $ 197,628  $ 224,519  $ 822,548
+GROSS PROFIT......................................     42,900     42,740     40,767     44,020    170,427
+NET INCOME........................................      7,487      8,643      7,819      9,222     33,171
+NET INCOME PER SHARE..............................        .43        .50        .45        .53       1.91
+</TABLE>
+
+    All per share amounts have  been restated to reflect  the two for one  stock
+split paid on February 28, 1994.
+
+                                       9
+<PAGE>
+
+FISCAL 1994 COMPARED TO FISCAL 1993
+
+    The  increase in net sales for fiscal  1994, as compared to fiscal 1993, was
+due to  an increase  in the  sales volume  of semiconductor  products. Sales  of
+semiconductor  products  increased by  $178,237,000 as  a  result of  the strong
+market demand and  additional sales of  products from new  suppliers. The  sales
+volume  of  the  Company's  other major  products  was  relatively  unchanged or
+decreased modestly from the prior year.
+
+    The decrease in net margins for fiscal 1994, as compared to fiscal 1993, was
+due to a decline in  the margins of most of  the Company's major products.  This
+decline  in margins resulted from market pressures on the pricing of many of the
+Company's products, including some of the Company's value added products, and an
+increase in  the sales  volume of  lower  margin products,  such as  DRAMS.  The
+Company  believes that  these conditions affecting  margins may  continue in the
+near term.
+
+    The increase in selling, general and administrative ("SG & A") expenses,  in
+dollars,  for fiscal  1994, as  compared to  fiscal 1993,  was primarily  due to
+higher operating costs to support the  significant increase in sales volume.  In
+addition,  the Company is  amortizing $463,000 per  quarter of deferred computer
+software costs  associated with  its new  operating and  financial systems  that
+became  operational  in December,  1992. Fiscal  1994  expenses also  included a
+charge of $890,000 that was recorded in  the first quarter related to the  costs
+of  the  elimination  of  approximately  120  positions.  These  positions  were
+eliminated as of August 31, 1993 by a reorganization of the Company's field  and
+corporate  support functions. The  amounts incurred for the  last nine months of
+fiscal 1994 would have been higher  except for the savings from the  elimination
+of  these  positions.  This  reorganization reduced  the  Company's  fiscal 1994
+expenses by approximately $1,000,000 per  quarter beginning the second  quarter.
+Primarily  due to the savings from the August, 1993 restructuring and the higher
+sales volume, SG & A as a percentage of sales declined significantly for  fiscal
+1994  as  compared to  fiscal 1993.  The SG  &  A amounts  for fiscal  1993 also
+included  some  extraordinary  levels  of  expenses  related  to  the  Company's
+conversion  to its new computer software  systems in December, 1992. As reported
+previously, the  Company  estimated  that it  had  incurred  approximately  $2.4
+million to $2.9 million in additional costs, affecting both cost of sales and SG
+& A expenses in fiscal 1993 associated with the computer software conversion.
+
+    Interest  expense for fiscal 1994  remained relatively unchanged from fiscal
+1993, as lower borrowing levels were  offset by higher interest rates  beginning
+in late fiscal 1994.
+
+    In  August, 1993 the  Omnibus Budget Reconciliation Act  of 1933 was enacted
+which essentially increased  the Company's  Federal tax  rate from  34% to  35%.
+Additionally,  as a result of  the Act, a retroactive  Federal tax adjustment of
+$163,000, or $.02  per share, was  charged to  income tax expense  in the  first
+quarter of fiscal 1994 for the period of January to May 1993.
+
+FISCAL 1993 COMPARED TO FISCAL 1992
+
+    The  increase in net sales for fiscal  1993, as compared to fiscal 1992, was
+primarily due to  an increase  in the  sales volume  of semiconductor  products.
+Sales  of such products increased  by $77,859,000. The increase  in the sales of
+semiconductor products  was the  result  of increased  market demand  for  these
+products and the successful execution of the Company's marketing strategies. The
+sales volume of the Company's other major products was relatively unchanged.
+
+    The decrease in margins for the third and fourth quarters of fiscal 1993, as
+compared  to  fiscal  1992, was  largely  due to  a  decline in  the  margins of
+semiconductor and value added  products. This decrease  was attributable to  the
+market  pressures on the pricing of some of the Company's products. In addition,
+the Company's acceptance  of some  large customer  orders at  lower than  normal
+margins  contributed to the decline in the  Company's margins. There was also an
+increase in  the volume  of the  Company's lower  margin value  added  products,
+particularly  the programming of semiconductors, during  the last half of fiscal
+1993. Lastly,  additional expenses  were incurred  during the  third quarter  of
+fiscal   1993,  due  to   some  problems  with   the  Company's  conversion  and
+implementation of new computer software for its operating and financial  systems
+in
+
+                                       10
+<PAGE>
+
+December, 1992. These expenses contributed to the overall decline in margins for
+the  third quarter and included  some higher than normal  levels of overtime for
+value added  services,  missed  vendor discounts  and  credits,  and  additional
+expenses from customer billing problems.
+
+    The  increase in dollars of SG & A expenses for the third quarter and fiscal
+1993, as compared to fiscal 1992, partly relates to short-term expenses incurred
+as a result  of the  conversion to new  computer software  systems in  December,
+1992.  These expenses consisted  of overtime costs,  higher than normal delivery
+costs to  satisfy customer  demands, additional  computer consultant  costs  and
+other  out-of-pocket costs. As described in  Note 1 to the financial statements,
+expenses during the last half of  fiscal 1993 also included the amortization  of
+$926,000  in deferred computer  software costs. In  addition, compensation costs
+and other operating expenses increased during fiscal 1993, as compared to fiscal
+1992, as a  result of the  significantly higher sales  volume and  profitability
+levels.
+
+    The  Company estimates that  it incurred approximately  $1.5 million to $2.0
+million in additional costs, affecting both cost  of sales and SG & A  expenses,
+associated  with the conversion and implementation  of the new computer software
+systems in the third quarter  of fiscal 1993. These  amounts do not include  the
+amortization  of the deferred computer software costs described in the preceding
+paragraph. The Company  also incurred approximately  $900,000 during the  fourth
+quarter  of  fiscal  1993  for consulting  costs  associated  with  the computer
+software implementation and enhancement. These expenses continued, although at a
+significantly lower level, into the fiscal year 1994. The software systems  have
+been  largely operating as  designed. The Company has  not experienced any major
+disruptions to its operations from the new computer software system since  early
+January, 1993.
+
+    The  decrease in  interest expense  for fiscal  1993, as  compared to fiscal
+1992, was due to significantly lower interest  rates paid by the Company on  its
+borrowings.  The favorable improvement in interest rates was partially offset by
+higher debt levels.
+
+INCOME TAXES
+
+    During the  fourth quarter  of  fiscal year  1993, the  Company  implemented
+Statement  of  Financial  Accounting  Standards  No.  109  covering  income  tax
+accounting. The  adoption  did not  have  a  material impact  on  the  financial
+statements for fiscal year 1993.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+    The  Company has been able to fund  its working capital requirements for the
+past five years through cash flow from operations and bank borrowings.
+
+    For the five years  ended May 31, 1994,  the Company incurred  approximately
+$26 million in net aggregate capital expenditures. A significant portion of this
+amount  was  incurred  for the  land,  equipment, building  improvements  and an
+automated material handling  system for  its new executive  offices and  western
+regional  support and distribution center. Costs  incurred to upgrade and expand
+its computer system and the  acquisition and construction of several  facilities
+accounted  for substantially the balance of  the capital expenditure program for
+the last five years. Additionally, the Company incurred approximately $9 million
+for the  design, purchase  and  development of  new  computer software  for  its
+operating and financial systems during fiscal years 1990 to 1993.
+
+    The  Company's sources of liquidity at May 31, 1994 consisted principally of
+working capital of $229,019,000 and unsecured bank credit lines of  $70,000,000,
+of  which $30,000,000 in borrowings were  outstanding. The Company believes that
+its working  capital,  borrowing  capabilities, and  the  funds  generated  from
+operations   should  be  sufficient  to   finance  its  anticipated  operational
+requirements.
+
+                                       11
+<PAGE>
+
+ITEM 8. FINANCIAL STATEMENTS
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+To Marshall Industries:
+
+    We  have audited the  accompanying balance sheets  of Marshall Industries (a
+California corporation) as of May 31, 1993 and 1994, and the related  statements
+of  income, shareholders' investment and cash flows  for each of the three years
+in  the  period  ended  May  31,  1994.  These  financial  statements  are   the
+responsibility  of the Company's management. Our responsibility is to express an
+opinion on these financial statements based on our audits.
+
+    We conducted  our  audits in  accordance  with generally  accepted  auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence  supporting
+the  amounts and disclosures in the financial statements. An audit also includes
+assessing the  accounting  principles used  and  significant estimates  made  by
+management,  as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+    In our opinion, the financial  statements referred to above present  fairly,
+in  all material respects,  the financial position of  Marshall Industries as of
+May 31, 1993 and 1994, and the results of its operations and its cash flows  for
+each  of the  three years in  the period ended  May 31, 1994  in conformity with
+generally accepted accounting principles.
+
+                                          ARTHUR ANDERSEN & CO.
+Los Angeles, California
+July 20, 1994
+
+                                       12
+<PAGE>
+Marshall Industries
+BALANCE SHEETS
+May 31, 1993 and 1994
+
+<TABLE>
+<CAPTION>
+ASSETS
+                                                  -----------------------------
+CURRENT ASSETS:                                       1993            1994
+                                                  -----------------------------
+<S>                                               <C>             <C>
+  Cash.........................................   $   1,583,000   $   3,694,000
+  Receivables, less reserves of $5,499,000 in
+   1993 and
+   $5,860,000 in 1994..........................     101,120,000     120,489,000
+  Inventories..................................     163,280,000     180,753,000
+  Prepaid expenses.............................         888,000         510,000
+  Deferred income tax benefits (Note 3)........       7,681,000       8,325,000
+                                                  -------------   -------------
+        Total current assets...................     274,552,000     313,771,000
+                                                  -------------   -------------
+PROPERTY, PLANT AND EQUIPMENT, at cost (Notes 1
+  and 2):
+  Land.........................................       8,812,000       8,863,000
+  Buildings and improvements...................      33,545,000      34,038,000
+  Equipment, furniture, fixtures and other.....      21,447,000      21,908,000
+  Computer equipment...........................      17,862,000      18,716,000
+  Construction in progress.....................         199,000          17,000
+                                                  -------------   -------------
+                                                     81,865,000      83,542,000
+  Accumulated depreciation and amortization....     (34,234,000)    (40,482,000)
+                                                  -------------   -------------
+                                                     47,631,000      43,060,000
+OTHER ASSETS -- NET (Note 1)...................       8,661,000       6,828,000
+                                                  -------------   -------------
+                                                  $ 330,844,000   $ 363,659,000
+                                                  -------------   -------------
+                                                  -------------   -------------
+LIABILITIES AND SHAREHOLDERS' INVESTMENT
+CURRENT LIABILITIES:
+  Current portion of long-term debt (Note 2)...   $   1,763,000   $   1,358,000
+  Accounts payable.............................      54,128,000      70,839,000
+  Accrued salaries and wages...................       3,545,000       3,908,000
+  Other accrued liabilities....................       5,796,000       5,783,000
+  Income taxes payable.........................       2,350,000       2,864,000
+                                                  -------------   -------------
+        Total current liabilities..............      67,582,000      84,752,000
+                                                  -------------   -------------
+LONG-TERM DEBT, net of current portion (Note
+  2)...........................................      54,468,000      34,742,000
+DEFERRED INCOME TAX LIABILITIES (Note 3).......       6,003,000       5,449,000
+COMMITMENTS AND CONTINGENCIES (Note 4)
+SHAREHOLDERS' INVESTMENT (Notes 1 and 5):
+  Common stock, $1.00 par value
+    Shares authorized -- 40,000,000
+    Shares issued and outstanding -- 17,037,864
+      in 1993 and
+      17,231,864 in 1994.......................      17,038,000      17,232,000
+  Additional paid-in capital...................      50,327,000      52,887,000
+  Retained earnings............................     135,426,000     168,597,000
+                                                  -------------   -------------
+                                                    202,791,000     238,716,000
+                                                  -------------   -------------
+                                                  $ 330,844,000   $ 363,659,000
+                                                  -------------   -------------
+                                                  -------------   -------------
+</TABLE>
+
+THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE BALANCE SHEETS.
+
+                                       13
+<PAGE>
+Marshall Industries
+STATEMENTS OF INCOME
+For the Years Ended May 31, 1992, 1993 and 1994
+
+<TABLE>
+<CAPTION>
+                                                                       ----------------------------------------------------
+                                                                             1992              1993              1994
+                                                                       ----------------------------------------------------
+<S>                                                                    <C>               <C>               <C>
+Net sales............................................................  $    575,223,000  $    652,899,000  $    822,548,000
+Cost of sales........................................................       441,709,000       502,955,000       652,121,000
+                                                                       ----------------  ----------------  ----------------
+  Gross profit.......................................................       133,514,000       149,944,000       170,427,000
+Selling, general and administrative expenses.........................        98,917,000       108,394,000       112,220,000
+                                                                       ----------------  ----------------  ----------------
+  Income from operations.............................................        34,597,000        41,550,000        58,207,000
+Interest expense (Note 1)............................................         2,689,000         2,016,000         1,931,000
+                                                                       ----------------  ----------------  ----------------
+  Income before provision for income taxes...........................        31,908,000        39,534,000        56,276,000
+Provision for income taxes (Notes 1 and 3)...........................        12,615,000        15,640,000        23,105,000
+                                                                       ----------------  ----------------  ----------------
+NET INCOME...........................................................  $     19,293,000  $     23,894,000  $     33,171,000
+                                                                       ----------------  ----------------  ----------------
+                                                                       ----------------  ----------------  ----------------
+
+NET INCOME PER SHARE (Note 1)........................................             $1.13             $1.38             $1.91
+                                                                       ----------------  ----------------  ----------------
+                                                                       ----------------  ----------------  ----------------
+</TABLE>
+
+THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE STATEMENTS.
+
+                                       14
+<PAGE>
+Marshall Industries
+STATEMENTS OF SHAREHOLDERS' INVESTMENT
+For the Years Ended May 31, 1992, 1993 and 1994
+
+<TABLE>
+<CAPTION>
+                                                                        COMMON STOCK             ADDITIONAL
+                                                                -----------------------------     PAID-IN          RETAINED
+                                                                   SHARES          AMOUNT         CAPITAL          EARNINGS
+                                                                ---------------------------------------------------------------
+<S>                                                             <C>            <C>             <C>             <C>
+BALANCE, MAY 31, 1991.........................................     16,947,864  $   16,948,000  $   49,158,000  $     92,239,000
+  Compensation expense related to nonqualified stock options
+   (Note 5)...................................................             --              --         200,000                --
+  Exercise of stock options...................................         71,500          71,000         415,000                --
+  Tax benefit from stock options exercised....................             --              --         140,000                --
+  Net income..................................................             --              --              --        19,293,000
+                                                                -------------  --------------  --------------  ----------------
+BALANCE, MAY 31, 1992.........................................     17,019,364      17,019,000      49,913,000       111,532,000
+  Compensation expense related to nonqualified stock options
+   (Note 5)...................................................             --              --         215,000                --
+  Exercise of stock options...................................         18,500          19,000         121,000                --
+  Tax benefit from stock options exercised....................             --              --          78,000                --
+  Net income..................................................             --              --              --        23,894,000
+                                                                -------------  --------------  --------------  ----------------
+BALANCE, MAY 31, 1993.........................................     17,037,864      17,038,000      50,327,000       135,426,000
+  COMPENSATION EXPENSE RELATED TO NONQUALIFIED STOCK OPTIONS
+   (NOTE 5)...................................................             --              --         103,000                --
+  EXERCISE OF STOCK OPTIONS...................................        194,000         194,000       1,276,000                --
+  TAX BENEFIT FROM STOCK OPTIONS EXERCISED....................             --              --       1,181,000                --
+  NET INCOME..................................................             --              --              --        33,171,000
+                                                                -------------  --------------  --------------  ----------------
+BALANCE, MAY 31, 1994.........................................     17,231,864  $   17,232,000  $   52,887,000  $    168,597,000
+                                                                -------------  --------------  --------------  ----------------
+                                                                -------------  --------------  --------------  ----------------
+</TABLE>
+
+THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE STATEMENTS.
+
+                                       15
+<PAGE>
+Marshall Industries
+STATEMENTS OF CASH FLOWS
+For the Years Ended May 31, 1992, 1993 and 1994
+
+<TABLE>
+<CAPTION>
+                                                                                 ----------------------------------------------
+                                                                                      1992            1993            1994
+                                                                                 ----------------------------------------------
+<S>                                                                              <C>             <C>             <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+  Net income...................................................................  $   19,293,000  $   23,894,000  $   33,171,000
+                                                                                 --------------  --------------  --------------
+  Adjustments to reconcile net income to net cash provided by (used in)
+    operating activities:
+      Depreciation and amortization............................................       6,561,000       7,379,000       8,194,000
+      Compensation expense related to stock options............................         200,000         215,000         103,000
+      Provision for bad debts..................................................       1,082,000       1,284,000       1,704,000
+      Change in current assets and liabilities:
+        Increase in receivables................................................      (3,249,000)    (20,892,000)    (21,073,000)
+        Increase in inventories................................................      (9,550,000)    (39,188,000)    (17,473,000)
+        (Increase) decrease in prepaid expenses................................         116,000        (206,000)        378,000
+        Increase in accounts payable...........................................       3,899,000      14,387,000      16,711,000
+        Increase (decrease) in accrued salaries and wages......................         324,000         (21,000)        363,000
+        Increase (decrease) in other accrued
+           liabilities.........................................................         578,000       1,974,000         (13,000)
+        Increase (decrease) in income taxes
+           payable.............................................................       1,441,000      (1,942,000)        514,000
+      Deferred income taxes provision (benefit), net...........................       1,395,000         (88,000)     (1,198,000)
+      Other....................................................................          48,000          44,000         (19,000)
+                                                                                 --------------  --------------  --------------
+        Total adjustments......................................................       2,845,000     (37,054,000)    (11,809,000)
+                                                                                 --------------  --------------  --------------
+        Net cash provided by (used in) operating activities....................      22,138,000     (13,160,000)     21,362,000
+                                                                                 --------------  --------------  --------------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Proceeds from sale of property, plant, and equipment.........................         198,000          60,000           9,000
+  Capital expenditures.........................................................      (6,387,000)     (3,186,000)     (1,780,000)
+  Software development costs...................................................      (3,985,000)     (2,417,000)             --
+                                                                                 --------------  --------------  --------------
+        Net cash used in investing activities..................................     (10,174,000)     (5,543,000)     (1,771,000)
+                                                                                 --------------  --------------  --------------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Net borrowings (repayments) under credit line agreements.....................      (8,000,000)     20,000,000     (18,000,000)
+  Repayments of long-term debt.................................................      (4,636,000)     (1,741,000)     (2,131,000)
+  Exercise of stock options....................................................         486,000         140,000       1,470,000
+  Tax benefit from exercise of stock options...................................         140,000          78,000       1,181,000
+                                                                                 --------------  --------------  --------------
+        Net cash (used in) provided by financing activities....................     (12,010,000)     18,477,000     (17,480,000)
+                                                                                 --------------  --------------  --------------
+NET INCREASE (DECREASE) IN CASH................................................         (46,000)       (226,000)      2,111,000
+CASH AT BEGINNING OF YEAR......................................................       1,855,000       1,809,000       1,583,000
+                                                                                 --------------  --------------  --------------
+CASH AT END OF YEAR............................................................  $    1,809,000  $    1,583,000  $    3,694,000
+                                                                                 --------------  --------------  --------------
+                                                                                 --------------  --------------  --------------
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION:
+  Cash paid during the year for the following:
+    Interest...................................................................  $    2,551,000  $    2,008,000  $    2,052,000
+                                                                                 --------------  --------------  --------------
+                                                                                 --------------  --------------  --------------
+    Income taxes...............................................................  $    9,639,000  $   16,439,000  $   23,132,000
+                                                                                 --------------  --------------  --------------
+                                                                                 --------------  --------------  --------------
+</TABLE>
+
+THE ACCOMPANYING NOTES ARE AN INTEGRAL PART OF THESE STATEMENTS.
+
+                                       16
+<PAGE>
+Marshall Industries
+NOTES TO FINANCIAL STATEMENTS
+May 31, 1994
+
+(1) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+    Revenue Recognition: Sales are recognized at the time of product shipment.
+
+    Depreciation  and Amortization: Depreciation on  buildings is computed using
+the straight-line method over useful lives  of 25 years. Building and  leasehold
+improvements  are amortized on the straight-line  method over the shorter of the
+lives of the buildings or the remaining  terms of the leases or useful lives  of
+the  assets. Depreciation on  all other plant  and equipment is  computed on the
+straight-line and declining  balance methods  over useful  lives of  two to  ten
+years. Maintenance and repairs and minor replacements of property are charged to
+expense  when incurred.  Major expenditures  for additions  and improvements are
+capitalized at cost. When assets are retired, or otherwise disposed of, the cost
+and related reserves are  removed from the accounts,  and any resulting gain  or
+loss is included in income.
+
+    Interest Expense: Interest income is netted against interest expense and was
+not material for 1992, 1993 and 1994.
+
+    Tax  Deferred  Profit Sharing  Plan: Under  the  provisions of  the Marshall
+Industries  Tax  Deferred  Profit  Sharing  Plan  (the  "Plan"),   participating
+employees  may  agree  to  defer  from  two  to  twelve  percent,  with  certain
+limitations, of their earnings each payroll period, and such amount is deposited
+in a nonforfeitable, fully vested trust account for the employee's benefit.  The
+Company  contributes quarterly an  amount equal to 50  percent of the employees'
+contributions, limited to 3% of such employee earnings for the quarter,  reduced
+by  employee forfeitures  of prior Company  contributions. Company contributions
+may be  limited to  the  extent of  net  profits and  must  be invested  in  the
+Company's  common stock. The Plan, however, may  not own more than 20 percent of
+the Company's outstanding shares. At May 31,  1994, the Plan owned less than  2%
+of  the Company's outstanding shares. Company contributions and expenses related
+to the Plan amounted  to $917,000 in  1992, $952,000 in  1993 and $1,125,000  in
+1994.
+
+    Capitalized  Interest: In accordance with the provisions of the Statement of
+Financial Accounting  Standards  No. 34,  the  Company capitalizes  interest  in
+connection  with major construction projects. The Company did not have any major
+construction projects requiring the capitalization of interest during 1992, 1993
+and 1994.
+
+    Income Taxes: As discussed  in Note 3, during  the fourth quarter of  fiscal
+1993, the Company adopted Statement of Financial Accounting Standards (SFAS) No.
+109,  "Accounting for Income Taxes." Under SFAS No. 109, deferred tax assets and
+liabilities are computed based on the difference between the financial statement
+and income tax  bases of  assets and liabilities  using the  enacted tax  rates.
+Prior  to the implementation of  SFAS No. 109, the  Company accounted for income
+taxes using Accounting Principles Board Opinion No. 11.
+
+    Cash and Accounts  Payable: The  Company's banking system  provides for  the
+daily  replenishment  of  its  bank accounts  for  check  clearing requirements.
+Accordingly, outstanding checks of $7,655,000  and $11,015,000 that had not  yet
+been  paid by the  Company's banks at  May 31, 1993  and 1994, respectively, are
+reflected in cash and accounts payable in the accompanying financial statements.
+
+    Inventories: The Company values its inventories at the lower of average cost
+or market.
+
+    Shareholders' Investment: The  Company has authorized  200,000 shares of  no
+par  value preferred  stock, of which  none was  outstanding at May  31, 1993 or
+1994.
+
+    Capitalized Deferred Software Costs: Deferred software costs are included in
+other assets and  represent payments  to vendors  for the  design, purchase  and
+implementation  of  the  computer  software  for  the  Company's  operating  and
+financial systems. Such deferred costs aggregating to $9,259,000, are  amortized
+over  five  years  beginning December,  1992.  At  May 31,  1993  and  1994, the
+accumulated  amortization   of  such   costs  were   $926,000  and   $2,778,000,
+respectively.
+
+                                       17
+<PAGE>
+
+    Net  Income  Per Share:  Per  share amounts  are  computed on  the  basis of
+weighted average common and common equivalent shares outstanding (17,114,000  in
+1992,  17,278,000  in 1993  and 17,357,000  in  1994). Common  equivalent shares
+include the dilutive  effect of  outstanding stock options,  if applicable.  All
+share  and  per share  data  included in  these  financial statements  have been
+restated to reflect the two-for-one stock split paid on February 28, 1994.
+
+(2) LONG-TERM DEBT
+
+    Long-term debt consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                                                               MAY 31,
+                                                                                    ------------------------------
+                                                                                         1993            1994
+                                                                                    ------------------------------
+<S>                                                                                 <C>             <C>
+Bank credit lines.................................................................  $   48,000,000  $   30,000,000
+Industrial revenue bonds:
+  75.8% of prime, due through 1996................................................       1,553,000       1,025,000
+Mortgages:
+  8 1/10%, due through 1998.......................................................       5,500,000       4,250,000
+  Variable rate, but limited to a maximum of prime rate, due through 1997.........       1,125,000         825,000
+Other.............................................................................          53,000        --
+                                                                                    --------------  --------------
+                                                                                        56,231,000      36,100,000
+Less current portion..............................................................       1,763,000       1,358,000
+                                                                                    --------------  --------------
+                                                                                    $   54,468,000  $   34,742,000
+                                                                                    --------------  --------------
+                                                                                    --------------  --------------
+</TABLE>
+
+Bank credit lines --
+
+    The Company has entered into revolving credit line agreements with two major
+banks to borrow up to $70,000,000 in the aggregate. These unsecured credit  line
+agreements,  with borrowing  limits of up  to $40,000,000  and $30,000,000 each,
+mature on December  31, 1995 and  1996, respectively. The  interest rates  under
+these  credit lines are determined at the time of borrowing based on a choice of
+options as specified  in the  agreements. In no  event would  the interest  rate
+exceed  the prime interest  rate. At May 31,  1994, the prime  rate was 7.25%. A
+commitment fee is payable based  on 1/4% per annum  on the daily average  unused
+amounts  of the lines of credit. In  addition, both banks require a facility fee
+of 1/8% per annum on the  commitment balance. There are no compensating  balance
+requirements.
+
+    The  terms  of  these credit  agreements  require the  Company,  among other
+things, to maintain a minimum net worth of $170,000,000 which is adjusted upward
+quarterly by 70 percent of  net income and 70 percent  of net proceeds from  any
+sales  of capital  stock or  subordinated debentures. At  May 31,  1994 at least
+$202,564,000 of shareholders' investment was required to meet this covenant. The
+credit agreements also  require the  Company to meet  certain specified  working
+capital and financial ratios and not to make capital expenditures or incur lease
+liabilities in excess of certain specified amounts. The Company is in compliance
+with all conditions and covenants of these agreements.
+
+Industrial revenue bonds --
+
+    The  industrial revenue bonds are  secured by real property  with a net book
+value of $3,129,000 at
+May 31, 1994.
+
+                                       18
+<PAGE>
+
+Mortgages --
+
+    These notes are secured by real property and related improvements with a net
+book value of approximately $20,119,000 at May 31, 1994.
+
+Maturities of long-term debt --
+
+    Long-term debt  at  May  31, 1994  based  on  current terms  is  payable  in
+succeeding  fiscal  years as  follows: 1995  $1,358,000; 1996  $18,710,000; 1997
+$14,532,000; 1998 $1,000,000; 1999 $500,000.
+
+    The Company's bank  credit lines  and industrial  revenue bonds  approximate
+fair  value as they bear floating interest rates. The mortgages approximate fair
+market value.
+
+(3) INCOME TAXES
+
+    The Company adopted  the provisions  of SFAS  No. 109  effective the  fourth
+quarter  of fiscal year 1993.  The adoption of this  Standard, which changed the
+Company's method of accounting for income  taxes from the deferred method to  an
+asset  and liability approach, did  not have a material  effect on the financial
+statements for fiscal year 1993.
+
+    The provision (benefit) for income taxes consists of the following:
+
+<TABLE>
+<CAPTION>
+                                                 -------------------------------------
+Current:                                            1992         1993         1994
+                                                 -------------------------------------
+<S>                                              <C>          <C>          <C>
+  Federal......................................  $ 8,272,000  $12,369,000  $19,357,000
+  State........................................    2,948,000    3,359,000    4,946,000
+                                                 -----------  -----------  -----------
+                                                  11,220,000   15,728,000   24,303,000
+                                                 -----------  -----------  -----------
+Deferred:
+  Federal......................................    1,674,000      (32,000)  (1,024,000)
+  State........................................     (279,000)     (56,000)    (174,000)
+                                                 -----------  -----------  -----------
+                                                   1,395,000      (88,000)  (1,198,000)
+                                                 -----------  -----------  -----------
+        Total..................................  $12,615,000  $15,640,000  $23,105,000
+                                                 -----------  -----------  -----------
+                                                 -----------  -----------  -----------
+</TABLE>
+
+    The difference between  the income  tax provision at  the Federal  statutory
+rate and the recorded income tax provision is reconciled as follows:
+
+<TABLE>
+<CAPTION>
+                                                 -------------------------------------
+Computed Federal income taxes at                    1992         1993         1994
+                                                 -------------------------------------
+<S>                                              <C>          <C>          <C>
+  the statutory rate...........................  $10,849,000  $13,441,000  $19,697,000
+State income taxes, net of Federal income tax
+  benefit......................................    1,762,000    2,180,000    3,102,000
+Other, net.....................................        4,000       19,000      306,000
+                                                 -----------  -----------  -----------
+Provision for income taxes.....................  $12,615,000  $15,640,000  $23,105,000
+                                                 -----------  -----------  -----------
+                                                 -----------  -----------  -----------
+</TABLE>
+
+                                       19
+<PAGE>
+
+    As  of  May  31,  1993  and 1994,  deferred  tax  assets  (liabilities) were
+comprised of the following:
+
+<TABLE>
+<CAPTION>
+                                                                                       1993           1994
+                                                                                   -------------  -------------
+<S>                                                                                <C>            <C>
+Operating reserves...............................................................  $   4,301,000  $   4,446,000
+Tax depreciation in excess of book amounts.......................................     (3,210,000)    (3,084,000)
+Capitalization of deferred software costs for book purposes......................     (2,793,000)    (2,177,000)
+Capitalization of inventory costs for income tax purposes........................      1,447,000      1,615,000
+Vacation expense accrued for book purposes.......................................        729,000        825,000
+State tax provision..............................................................        629,000        934,000
+Other, net.......................................................................        575,000        317,000
+                                                                                   -------------  -------------
+        Total net deferred tax asset.............................................  $   1,678,000  $   2,876,000
+                                                                                   -------------  -------------
+                                                                                   -------------  -------------
+</TABLE>
+
+    As of May 31, 1994, the Company had total deferred tax assets of  $8,325,000
+and total deferred tax liabilities of $5,449,000. The Company did not record any
+valuation allowances against deferred tax assets at May 31, 1994.
+
+(4) COMMITMENTS AND CONTINGENCIES
+
+    Lease Commitments: The Company leases certain facilities and equipment under
+operating  leases  expiring  at  various dates  through  fiscal  year  2000. The
+aggregate rent  expense  for  all  operating  leases  was  $2,800,000  in  1992,
+$2,618,000 in 1993 and $2,324,000 in 1994.
+
+    The future minimum lease payments under all leases are shown below:
+
+<TABLE>
+<CAPTION>
+                                                                                  OPERATING LEASES
+                                                                                  ----------------
+<S>                                                                               <C>
+Year Ending May 31 --
+  1995..........................................................................  $     1,285,000
+  1996..........................................................................          581,000
+  1997..........................................................................          330,000
+  1998..........................................................................          336,000
+  1999..........................................................................           95,000
+  Thereafter....................................................................           53,000
+                                                                                  ----------------
+                                                                                  $     2,680,000
+                                                                                  ----------------
+                                                                                  ----------------
+</TABLE>
+
+    Amounts  shown  above  are net  of  sublease income  of  $476,000, $491,000,
+$503,000, $214,000 and $129,000 from 1995 to 1999, respectively.
+
+    Litigation: There are  no material  pending legal proceedings  to which  the
+Company is a party.
+
+(5) STOCK OPTIONS
+
+    The  Company has four stock  option plans which provide  for the granting of
+incentive and nonqualified  stock options  covering 2,040,000  shares of  common
+stock. The 1992 Stock Option Plan was approved by the shareholders during fiscal
+1993  and the 1990  Plan was terminated.  No shares were  granted under the 1990
+Plan prior to its termination. Nonqualified  stock options may have an  exercise
+price  which is  less than market  value at  the date of  grant; incentive stock
+options must have an exercise price equal to market value at the date of  grant.
+There  were  314,000  and  50,000  options  granted  in  fiscal  1992  and 1994,
+respectively, at exercise  prices ranging from  $10.00 to $24.00  per share.  No
+options  were granted during fiscal  1993. At May 31,  1994, 320,500 shares were
+available for additional grants.
+
+                                       20
+<PAGE>
+
+    The following  is  a summary  of  changes  in outstanding  options  for  the
+Company's stock option plans for the year ended May 31, 1994:
+
+<TABLE>
+<CAPTION>
+                                                                                       UNDER
+                                                                                       OPTION       OPTION PRICE
+                                                                                     ----------  -------------------
+<S>                                                                                  <C>         <C>
+Options outstanding at May 31, 1993................................................     589,500      $ 6.50 - $14.00
+Options granted....................................................................      50,000         24.00
+Options exercised..................................................................    (194,000)       6.50 -   9.89
+Options expired or canceled........................................................      (1,000)        7.60
+                                                                                     ----------
+Options outstanding at May 31, 1994................................................     444,500        7.60 -  24.00
+                                                                                     ----------  -------------------
+                                                                                     ----------  -------------------
+Options exercisable................................................................      96,000      $ 7.60 -  14.00
+                                                                                     ----------  -------------------
+                                                                                     ----------  -------------------
+</TABLE>
+
+    The  difference between the quoted market value of the shares at the date of
+grant and  the option  price for  grants made  under the  nonqualified plans  is
+charged  to  income as  compensation  expense over  the  vesting periods  of the
+related options. During 1992,  1993 and 1994,  $200,000, $215,000 and  $103,000,
+respectively,  were charged  against income  and credited  to additional paid-in
+capital under these plans. Options granted are exercisable over a period of five
+to twenty years.  The income  tax effect of  any difference  between the  market
+price at the grant date and the market price at the exercise date is credited to
+additional paid-in capital as the options are exercised.
+
+(6) INVESTMENT IN SONEPAR ELECTRONIQUE INTERNATIONAL
+
+    In March, 1994, the Company entered into an agreement in principle to invest
+$151  million French Francs (approximately $28  million in U.S. dollars based on
+July 29, 1994 exchange rates) in Sonepar Electronique International ("SEI"), one
+of  the  three  largest  electronic  component  distributors  in  Europe.   This
+investment  is in the form of  an interest bearing, convertible note, guaranteed
+by a major French  bank as to default.  The interest to be  charged on the  note
+will be the same as the Company's borrowing rates under its unsecured term loan,
+as  described herein. The note  plus accrued interest will  be converted in 1997
+into a minority equity interest of up to 20% in SEI if certain anticipated sales
+and pre-tax income goals are met. If  these goals are not met, the Company  will
+have  the option  to call  for the  repayment in  U.S. dollar  equivalent of the
+original loan (plus accrued interest) or to  convert the loan into a 20%  equity
+interest  in SEI.  Following the conversion,  SEI will  have a 2  year option to
+purchase an equivalent amount in U.S. dollars of the Company's stock of up to 5%
+of the Company's outstanding shares on  a fully diluted basis. The option  price
+will  be based  on market  prices at  the time  of conversion.  In addition, the
+Company will have the option of increasing its equity investment to 49% in SEI.
+
+    To finance its investment in SEI, the Company has obtained a commitment from
+a bank for an unsecured term loan  in the amount of $25,000,000, with  principal
+repayment  due on September  30, 1997. The  Company, however, has  the option of
+repaying the  loan,  or a  portion  thereof, prior  to  the maturity  date.  The
+interest rate on this loan will be based on 90 day LIBOR rates plus 1/2% and the
+other  major terms and conditions of the  loan are comparable to the bank credit
+line agreements as disclosed in Note 2.
+
+    The Company anticipates that  its agreements with SEI  and the bank will  be
+executed by August 31, 1994.
+
+(7) BUSINESS SEGMENT
+
+    The  Company  is  engaged  in  the  distribution  of  industrial  electronic
+components and production  supplies through  a nationwide network  of sales  and
+distribution  facilities. In the  opinion of management,  the Company's products
+are identifiable to only one industry segment.
+
+    The Company's Canadian operations are currently not material to its  results
+of operations or financial position.
+
+                                       21
+<PAGE>
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+    NONE
+
+PART III
+
+    Marshall  will file with the Securities and Exchange Commission a definitive
+Proxy Statement pursuant to Regulation 14A involving the election of  directors.
+The Proxy Statement for the Annual Meeting of Shareholders to be held on October
+24, 1994 is incorporated herein by this reference.
+
+PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+
+    (A)  1.  FINANCIAL  STATEMENTS  --  The  following  financial  statements of
+Marshall Industries are set forth in Item 8 of this Annual Report on Form 10-K:
+
+<TABLE>
+<CAPTION>
+                                                                                                      PAGE
+                                                                                                      ----
+<S>                                                                                                   <C>
+Report of Independent Public Accountants............................................................   12
+Financial Statements:
+  Balance Sheets -- May 31, 1993 and 1994...........................................................   13
+  Statements for the years ended May 31, 1992, 1993 and 1994 --
+    Income..........................................................................................   14
+    Shareholders' Investment........................................................................   15
+    Cash Flows......................................................................................   16
+  Notes to Financial Statements.....................................................................   17
+</TABLE>
+
+    (A) 2. FINANCIAL  STATEMENT SCHEDULES --  The following financial  statement
+schedules supporting the financial statements are included in this Annual Report
+on Form 10-K:
+
+<TABLE>
+<CAPTION>
+                                                                                                      PAGE
+                                                                                                      ----
+<S>                                                                                                   <C>
+Report of Independent Public Accountants on Financial Statement Schedules...........................   25
+  Schedules for the years ended May 31, 1992, 1993 and 1994:
+      V -- Property, Plant and Equipment............................................................   26
+     VI -- Accumulated Depreciation and Amortization of Property, Plant and Equipment...............   26
+</TABLE>
+
+    All other schedules are omitted since they are not applicable, not required,
+or  the required  information is included  in the financial  statements or notes
+thereto.
+
+    (A) 3. EXHIBITS -- The following exhibits are attached to this Annual Report
+on Form 10-K:
+
+<TABLE>
+<S>              <C>
+Exhibit  3.1:    Articles of  Incorporation.  Incorporated  herein  by reference  to  Exhibit  3.2  of  the
+                 Company's Registration Statement on Form S-1, Registration No. 2-85466.
+Exhibit  3.2:    Certificate  of Amendment of Articles of Incorporation filed with the California Secretary
+                 of State  on June  23,  1986. Incorporated  herein  by reference  to  Exhibit 3.1  to  the
+                 Company's Annual Report on Form 10-K for the fiscal year ended May 31, 1986.
+</TABLE>
+
+                                       22
+<PAGE>
+
+<TABLE>
+<S>              <C>
+Exhibit  3.3:    Certificate  of Amendment of Articles of Incorporation filed with the California Secretary
+                 of State  on October  18, 1988.  Incorporated  herein by  reference to  Exhibit A  to  the
+                 Company's Proxy Statement for the annual meeting of shareholders held on October 11, 1988.
+Exhibit  3.4:    Certificate  of Amendment of Articles of Incorporation filed with the California Secretary
+                 of State on February 14, 1994.
+Exhibit  3.5:    Amended and Restated  By-Laws. Incorporated  herein by reference  to Exhibit  (ii) to  the
+                 Company's Quarterly Report on Form 10-Q for the quarter ended August 31, 1987.
+Exhibit  3.6:    Certificate  of  Amendment  to  By-Laws of  Marshall  Industries.  Incorporated  herein by
+                 reference to  Exhibit  C to  the  Company's Proxy  Statement  for the  annual  meeting  of
+                 shareholders held on October 11, 1988.
+Exhibit  4.1:    Credit  Agreement dated March 1,  1993 between Marshall Industries  and Citicorp USA, Inc.
+                 Incorporated by reference to Exhibit  (i) to the Company's  Quarterly Report on Form  10-Q
+                 for the quarter ended February 28, 1993.
+Exhibit  4.2:    Credit  Agreement dated  March 1,  1993 between  Marshall Industries  and Bank  of America
+                 National Trust and Savings Association. Incorporated  by reference to Exhibit (ii) to  the
+                 Company's Quarterly Report on Form 10-Q for the quarter ended February 28, 1993.
+Exhibit  4.3:    First Amendment to Credit Agreement dated May 3, 1993 between Marshall Industries and Bank
+                 of  America National Trust  and Savings Association. Incorporated  by reference to Exhibit
+                 4.3 to the Company's Annual Report on Form 10-K for the fiscal year ended May 31, 1993.
+Exhibit  4.4:    First Amendment to  Credit Agreement dated  June 1, 1993  between Marshall Industries  and
+                 Citicorp USA, Inc. Incorporated by reference to Exhibit 4.4 to the Company's Annual Report
+                 on Form 10-K for the fiscal year ended May 31, 1993.
+Exhibit 10.1:    Marshall  Industries 1981 Nonqualified Stock Option Plan. Incorporated herein by reference
+                 to Exhibit 4.2 to the Company's Registration Statement on Form S-8, No. 2-79412.
+Exhibit 10.2:    First Amendment to 1981 Nonqualified Stock  Option Plan. Incorporated herein by  reference
+                 to Exhibit B to the Company's Final Proxy Statement dated September 16, 1983.
+Exhibit 10.6:    Marshall  Industries 1984 Stock Option Plan. Incorporated herein by reference to Exhibit A
+                 to the Company's Final Proxy Statement dated September 17, 1984.
+Exhibit 10.7:    Marshall Industries 1992 Nonqualified Stock Option Plan. Incorporated herein by  reference
+                 to Exhibit A to the Company's Final Proxy Statement dated August 31, 1992.
+Exhibit 24:      Consent of Independent Public Accountants.
+Exhibit 28:      Undertakings.
+</TABLE>
+
+(B) REPORTS ON FORM 8-K -- Marshall has not filed any reports on Form 8-K during
+the quarter ended May 31, 1994
+
+                                       23
+<PAGE>
+
+SIGNATURES
+
+    Pursuant  to the  requirements of  Section 13  or 15  (d) of  the Securities
+Exchange Act of 1934, Marshall has duly  caused this report to be signed on  its
+behalf by the undersigned, thereunto duly authorized.
+
+MARSHALL INDUSTRIES
+
+<TABLE>
+<S>                                                        <C>
+By:         /s/ HENRY W. CHIN
+
+   ---------------------------------------------
+                    Henry W. Chin                               August 25, 1994
+ Vice President, Finance, Chief Financial Officer and
+                        Secretary
+</TABLE>
+
+    Pursuant  to the requirements  of the Securities Exchange  Act of 1934, this
+report has  been  signed  below  by  the following  persons  on  behalf  of  the
+Registrant and in the capacities and on the dates indicated.
+
+<TABLE>
+<S>                                                        <C>
+                   /s/ GORDON S. MARSHALL                       August 25, 1994
+    ---------------------------------------------
+                  Gordon S. Marshall
+          Chairman of the Board and Director
+                        /s/ ROBERT RODIN                        August 25, 1994
+    ---------------------------------------------
+                     Robert Rodin
+          President, Chief Executive Officer
+      and Director (Principal Executive Officer)
+
+                       /s/ HENRY W. CHIN                        August 25, 1994
+    ---------------------------------------------
+                    Henry W. Chin
+       Vice President, Finance, Chief Financial
+                Officer and Secretary
+     (Principal Financial and Accounting Officer)
+
+                   /s/ RICHARD D. BENTLEY                       August 25, 1994
+    ---------------------------------------------
+                  Richard D. Bentley
+                       Director
+
+                        /s/ WILLIAM BONE                        August 25, 1994
+    ---------------------------------------------
+                     William Bone
+                       Director
+
+                   /s/ RICHARD C. COLYEAR                       August 25, 1994
+    ---------------------------------------------
+                  Richard C. Colyear
+                       Director
+
+                     /s/ LATHROP HOFFMAN                        August 25, 1994
+    ---------------------------------------------
+                   Lathrop Hoffman
+                       Director
+
+                  /s/ RAYMOND G. RINEHART                       August 25, 1994
+    ---------------------------------------------
+                 Raymond G. Rinehart
+                       Director
+
+                     /s/ HOWARD C. WHITE                        August 25, 1994
+    ---------------------------------------------
+                   Howard C. White
+                       Director
+</TABLE>
+
+                                       24
+<PAGE>
+
+REPORT OF INDEPENDENT PUBLIC ACCOUNTANTS ON FINANCIAL STATEMENT SCHEDULES
+
+To Marshall Industries:
+
+    We  have audited in  accordance with generally  accepted auditing standards,
+the financial  statements  of  Marshall Industries  (a  California  corporation)
+included  in this Form 10-K,  and have issued our  report thereon dated July 20,
+1994. Our audits were made  for the purpose of forming  an opinion on the  basic
+financial  statements taken as a whole. The schedules listed under Item 14.(a)2.
+are the  responsibility  of  the  Company's management  and  are  presented  for
+purposes  of complying with  the Securities and  Exchange Commission's rules and
+are not  part of  the  basic financial  statements.  These schedules  have  been
+subjected  to  the  auditing  procedures  applied in  the  audits  of  the basic
+financial statements and, in our opinion, fairly state in all material  respects
+the  financial data required  to be set  forth therein in  relation to the basic
+financial statements taken as a whole.
+
+                                          ARTHUR ANDERSEN & CO.
+
+Los Angeles, California
+July 20, 1994
+
+                                       25
+<PAGE>
+Marshall Industries
+SCHEDULE V -- PROPERTY, PLANT AND EQUIPMENT
+For the Years Ended May 31, 1992, 1993 and 1994
+
+<TABLE>
+<CAPTION>
+                                                    BALANCE AT
+                                                     BEGINNING                    SALES,        BALANCE AT
+                                                        OF       ADDITIONS    RETIREMENTS OR      END OF
+                                                      PERIOD      AT COST    RECLASSIFICATIONS    PERIOD
+<S>                                                 <C>          <C>         <C>                <C>
+                                                    -------------------------------------------------------
+Year ended May 31, 1992 --
+  Land............................................  $ 8,303,000  $       --    $        --      $ 8,303,000
+  Buildings and improvements......................   31,294,000   1,109,000         44,000       32,447,000
+  Equipment, furniture, fixtures and other........   19,134,000   1,638,000       (422,000)      20,350,000
+  Computer equipment..............................   14,415,000   3,048,000       (579,000)      16,884,000
+  Construction in progress........................      519,000     592,000         (3,000)       1,108,000
+                                                    -----------  ----------  ----------------   -----------
+                                                    $73,665,000  $6,387,000    $  (960,000)     $79,092,000
+                                                    -----------  ----------  ----------------   -----------
+                                                    -----------  ----------  ----------------   -----------
+Year ended May 31, 1993 --
+  Land............................................  $ 8,303,000  $       --    $   509,000      $ 8,812,000
+  Buildings and improvements......................   32,447,000     760,000        338,000       33,545,000
+  Equipment, furniture, fixtures and other........   20,350,000   1,161,000        (64,000)      21,447,000
+  Computer equipment..............................   16,884,000   1,066,000        (88,000)      17,862,000
+  Construction in progress........................    1,108,000     199,000     (1,108,000)         199,000
+                                                    -----------  ----------  ----------------   -----------
+                                                    $79,092,000  $3,186,000    $  (413,000)     $81,865,000
+                                                    -----------  ----------  ----------------   -----------
+                                                    -----------  ----------  ----------------   -----------
+</TABLE>
+
+<TABLE>
+<S>                                                 <C>          <C>         <C>                <C>
+YEAR ENDED MAY 31, 1994 --
+  LAND............................................  $ 8,812,000  $   51,000    $        --      $ 8,863,000
+  BUILDINGS AND IMPROVEMENTS......................   33,545,000     329,000        164,000       34,038,000
+  EQUIPMENT, FURNITURE, FIXTURES AND OTHER........   21,447,000     476,000        (15,000)      21,908,000
+  COMPUTER EQUIPMENT..............................   17,862,000     865,000        (11,000)      18,716,000
+  CONSTRUCTION IN PROGRESS........................      199,000      59,000       (241,000)          17,000
+                                                    -----------  ----------  ----------------   -----------
+                                                    $81,865,000  $1,780,000    $  (103,000)     $83,542,000
+                                                    -----------  ----------  ----------------   -----------
+                                                    -----------  ----------  ----------------   -----------
+- - -----------------------------------------------------------------------------------------------------------
+</TABLE>
+
+SCHEDULE VI -- ACCUMULATED DEPRECIATION AND AMORTIZATION OF PROPERTY, PLANT AND
+EQUIPMENT
+For the Years Ended May 31, 1992, 1993 and 1994
+
+<TABLE>
+<S>                                                 <C>          <C>         <C>                <C>
+Year ended May 31, 1992 --
+  Buildings and improvements......................  $ 4,950,000  $1,660,000    $    34,000      $ 6,644,000
+  Equipment, furniture, fixtures and other........    8,788,000   1,976,000       (338,000)      10,426,000
+  Computer equipment..............................    8,597,000   2,925,000       (458,000)      11,064,000
+                                                    -----------  ----------  ----------------   -----------
+                                                    $22,335,000  $6,561,000    $  (762,000)     $28,134,000
+                                                    -----------  ----------  ----------------   -----------
+                                                    -----------  ----------  ----------------   -----------
+Year ended May 31, 1993 --
+  Buildings and improvements......................  $ 6,644,000  $1,790,000    $   (89,000)     $ 8,345,000
+  Equipment, furniture, fixtures and other........   10,426,000   1,946,000       (188,000)      12,184,000
+  Computer equipment..............................   11,064,000   2,717,000        (76,000)      13,705,000
+                                                    -----------  ----------  ----------------   -----------
+                                                    $28,134,000  $6,453,000    $  (353,000)     $34,234,000
+                                                    -----------  ----------  ----------------   -----------
+                                                    -----------  ----------  ----------------   -----------
+</TABLE>
+
+<TABLE>
+<S>                                                 <C>          <C>         <C>                <C>
+YEAR ENDED MAY 31, 1994 --
+  BUILDINGS AND IMPROVEMENTS......................  $ 8,345,000  $1,798,000    $    (4,000)     $10,139,000
+  EQUIPMENT, FURNITURE, FIXTURES AND OTHER........   12,184,000   1,858,000        (83,000)      13,959,000
+  COMPUTER EQUIPMENT..............................   13,705,000   2,686,000         (7,000)      16,384,000
+                                                    -----------  ----------  ----------------   -----------
+                                                    $34,234,000  $6,342,000    $   (94,000)     $40,482,000
+                                                    -----------  ----------  ----------------   -----------
+                                                    -----------  ----------  ----------------   -----------
+</TABLE>
+
+                                       26
+<PAGE>
+                               INDEX TO EXHIBITS
+
+<TABLE>
+<CAPTION>
+  EXHIBIT                                                                PAGE NO.
+- - -----------                                                              ---------
+<C>        <S>                                                           <C>
+       3.4 Certificate  of Amendment of Articles of Incorporation filed
+           with the California Secretary of State on February 14, 1994.
+        24 Consent of Independent Public Accountants...................     28
+        28 Undertakings................................................     29
+</TABLE>
+
+                                       27
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.4
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 3.4
+<TEXT>
+
+<PAGE>
+                                                                     EXHIBIT 3.4
+
+                            CERTIFICATE OF AMENDMENT
+                                       OF
+                           ARTICLES OF INCORPORATION
+
+Robert Rodin and Henry W. Chin certify that:
+
+1.   They are the President and Secretary, respectively, of Marshall Industries,
+    a California corporation.
+
+2.   Article FOURTH  of the  articles of  incorporation of  this corporation  is
+    amended to read as follows:
+
+           "FOURTH:  This  corporation is  authorized  to issue  two  classes of
+       shares which shall  be designated 'Common  Stock' and 'Preferred  Stock'.
+       The  total  number of  said  shares shall  be  forty million  two hundred
+       thousand (40,200,000) shares; the aggregate par value of all shares  that
+       are  to have par value shall  be Forty Million Dollars ($40,000,000); the
+       total number of Common  shares shall be  forty million (40,000,000),  and
+       the par value of each Common share shall be One Dollar ($1.00); the total
+       number  of Preferred shares shall be  two hundred thousand (200,000); all
+       of said Preferred shares shall be without par value.
+
+           The shares of Preferred Stock may be issued from time to time in  one
+       or  more series. The  Board of Directors  hereby is authorized  to fix or
+       alter the  dividend  rights,  dividend rate,  conversion  rights,  voting
+       rights,  the  rights  and  terms of  redemption  (including  sinking fund
+       provision), redemption price or prices, or the liquidation preferences of
+       any wholly unissued series  of Preferred Stock, or  the number of  shares
+       constituting  any unissued series of  Preferred Stock and the designation
+       of such series, or all or any of them; or to increase or to decrease (but
+       not below  the number  of shares  of such  series then  outstanding)  the
+       number of shares constituting any outstanding series the number of shares
+       of  which was fixed by the Directors. In case the number of shares of any
+       series shall be so decreased, the shares constituting such decrease shall
+       resume the  status they  had  prior to  the  adoption of  the  resolution
+       originally fixing the number of shares of such series.
+
+           Upon  the amendment of this Article Fourth to read as hereinabove set
+       forth, each share of Common Stock issued and outstanding at the close  of
+       business  on  February 14,  1994, is  divided into  two shares  of Common
+       Stock."
+
+3.  The foregoing Amendment of Articles of Incorporation has been duly  approved
+    by the Board of Directors.
+
+4.   The foregoing Amendment to the  Articles of Incorporation was one which may
+    be adopted  with approval  by  the Board  of  Directors alone,  pursuant  to
+    Section  902(c) of the California General Corporation Law, because one class
+    of shares of the Corporation is outstanding.
+                                          ______________________________________
+                                          Robert Rodin, President
+                                          ______________________________________
+                                          Henry W. Chin, Secretary
+
+                                       28
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 24
+<TEXT>
+
+<PAGE>
+                                                                      EXHIBIT 24
+
+                   CONSENT OF INDEPENDENT PUBLIC ACCOUNTANTS
+
+    As independent public accountants, we hereby consent to the incorporation of
+our  reports included  in this Form  10-K, into  Marshall Industries' previously
+filed Registration Statements  on Form  S-8, File Numbers  2-79412, 33-1587  and
+33-82510.
+
+                                          ARTHUR ANDERSEN & CO.
+
+Los Angeles, California
+August 25, 1994
+
+                                       29
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-28
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT 28
+<TEXT>
+
+<PAGE>
+                                                                      EXHIBIT 28
+
+     TO BE INCORPORATED BY REFERENCE INTO FORM S-8 REGISTRATION STATEMENTS
+                     NUMBERS 2-79412, 33-1587 AND 33-82510.
+
+                                  UNDERTAKINGS
+
+(a) The undersigned Registrant hereby undertakes:
+
+    (1)  To file, during any  period in which offers or  sales are being made, a
+post-effective amendment to this Registration Statement:
+
+        (i) To  include  any prospectus  required  by Section  10(a)(3)  of  the
+    Securities Act of 1933;
+
+        (ii) To reflect in such prospectus any facts or events arising after the
+    effective   date  of  the   Registration  Statement  (or   the  most  recent
+    post-effective amendment thereof) which,  individually or in the  aggregate,
+    represents  a  fundamental  change  in  the  information  set  forth  in the
+    Registration Statement;
+
+       (iii) To include  any material information  with respect to  the plan  of
+    distribution  not previously disclosed in  the Registration Statement or any
+    material change to such information in the Registration Statement;
+
+PROVIDED, HOWEVER, that paragraphs (a)(l)(i) and (a)(l)(ii) do not apply if  the
+Registration  Statement is on Form S-3 or  Form S-8 and the information required
+to be included in a post-effective amendment by those paragraphs is contained in
+periodic reports filed by the Registrant pursuant to Section 13 or Section 15(d)
+of the Securities  Exchange Act of  1934 that are  incorporated by reference  in
+this Registration Statement.
+
+    (2)  That, for the purpose of determining any liability under the Securities
+Act of 1933,  each such post-effective  amendment shall  be deemed to  be a  new
+Registration  Statement  relating to  the  securities offered  therein,  and the
+offering of such securities at that time shall be deemed to be the initial  bona
+fide offering thereof.
+
+    (3)  To remove from registration by  means of a post-effective amendment any
+of the securities being registered which remain unsold at the termination of the
+offering.
+
+(b)  The  undersigned  Registrant  hereby  undertakes  that,  for  purposes   of
+determining  any liability under the Securities Act  of 1933, each filing of the
+Registrant's annual report  pursuant to Section  13(a) or Section  15(d) of  the
+Securities  Exchange  Act of  1934  (and, where  applicable,  each filing  of an
+employee  benefit  plan's  annual  report  pursuant  to  Section  15(d)  of  the
+Securities  Exchange  Act of  1934)  that is  incorporated  by reference  in the
+Registration Statement  shall  be deemed  to  be a  new  Registration  Statement
+relating  to the securities offered therein, and the offering of such securities
+at that time shall be deemed to be the initial bona fide offering thereof.
+
+(f) EMPLOYEE PLANS ON FORM S-8.
+
+    (1) The undersigned Registrant hereby undertakes  to deliver or cause to  be
+delivered with the prospectus to each employee to whom the prospectus is sent or
+given  a copy  of the  registrant's annual report  to stockholders  for its last
+fiscal year, unless such employee otherwise has received a copy of such  report,
+in which case the Registrant shall state in the prospectus that it will promptly
+furnish,  without  charge, a  copy  of such  report  on written  request  of the
+employee. If the  last fiscal year  of the  Registrant has ended  with 120  days
+prior  to the use of the prospectus, the annual report of the Registrant for the
+preceding fiscal year may be  so delivered, but within  such 120 day period  the
+annual report for the last fiscal year will be furnished to each such employee.
+
+    (2)  The undersigned Registrant hereby undertakes to transmit or cause to be
+transmitted to all  employees participating  in the  Plan who  do not  otherwise
+receive  such material as stockholders of the registrant, at the time and in the
+manner such material is sent to  its stockholders, copies of all reports,  proxy
+statements and other communications distributed to its stockholders generally.
+
+(i)  Insofar as indemnification for liabilities arising under the Securities Act
+of 1933 may be permitted to  directors, officers and controlling persons of  the
+Registrant  pursuant to the  foregoing provisions, or  otherwise, the Registrant
+has been advised that in the  opinion of the Securities and Exchange  Commission
+such  indemnification is against  public policy as  expressed in the  Act and is
+therefore unenforceable. In the event  that a claim for indemnification  against
+such  liabilities (other than the payment by the Registrant of expenses incurred
+or paid by a director,  officer or controlling person  of the Registrant in  the
+successful  defense  of any  action,  suit or  proceeding)  is asserted  by such
+director, officer or controlling person in connection with the securities  being
+registered, the Registrant will, unless in the opinion of its counsel the matter
+has  been settled  by controlling  precedent, submit  to a  court of appropriate
+jurisdiction the  question of  whether  such indemnification  by it  is  against
+public  policy  as  expressed in  the  Act and  will  be governed  by  the final
+adjudication of such issue.
+
+                                       30
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

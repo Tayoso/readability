@@ -1,0 +1,3438 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ f63vELQIW6MVyBdowISiUk9VZmcA05xAaDdU6c30UNqn5Qb2Y1niud2A/xijIBL1
+ OjkusphcSYJ6297TEZD/Zw==
+
+<IMS-DOCUMENT>0000718916-94-000020.txt : 19941010
+<IMS-HEADER>0000718916-94-000020.hdr.sgml : 19941010
+ACCESSION NUMBER:		0000718916-94-000020
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19940702
+FILED AS OF DATE:		19940930
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BURLINGTON COAT FACTORY WAREHOUSE CORP
+		CENTRAL INDEX KEY:			0000718916
+		STANDARD INDUSTRIAL CLASSIFICATION:	5651
+		IRS NUMBER:				221970303
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08739
+		FILM NUMBER:		94551200
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1830 RTE 130
+		CITY:			BURLINGTON
+		STATE:			NJ
+		ZIP:			08016
+		BUSINESS PHONE:		6093877800
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+                                 FORM 10-K
+
+                    SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON, D.C. 20549
+
+
+(Mark One)
+
+[X]      ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+         SECURITIES EXCHANGE ACT OF 1934 [FEE REQUIRED]
+         For the fiscal year ended July 2, 1994
+
+                                     or
+
+[ ]      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+         SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+         For the transition period from............... to ...........
+
+Commission File No. 1-8739
+
+               BURLINGTON COAT FACTORY WAREHOUSE CORPORATION
+                 (Exact Name of Registrant as specified in
+                               its charter)
+
+              Delaware                           22-1970303        
+  (State or other jurisdiction             (I.R.S. Employer
+of incorporation or organization)       Identification Number)
+
+           1830 Route 130
+         Burlington, New Jersey                       08016   
+         (Address of principal                      (Zip Code)
+           executive offices)
+
+                      Registrant's telephone number,
+                   including area code:  (609) 387-7800
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+         Title of each class                Name of each exchange
+                                             on which registered 
+
+Common Stock, $1.00 par value          New York Stock Exchange, Inc.
+             per share
+
+        Securities Registered pursuant to Section 12(g) of the Act:
+
+                              Title of Class
+
+                                   None
+                                                                    Page 1
+<PAGE>
+              Indicate by check mark whether the registrant (1) has
+filed all reports required to be filed by Section 13 or 15(d) of
+the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  YES   X      NO_________.
+
+              Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 405 of Regulation S-K is not contained herein, and
+will not be contained, to the best of registrant's knowledge, in
+definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  [ X ]
+
+              The aggregate market value of the common stock, $1.00 par
+value ("Common Stock"), of the registrant held by non-affiliates of
+the registrant, as determined by reference to the closing sale
+price of the Common Stock on the New York Stock Exchange as of
+August 31, 1994, was $379,750,564.
+ 
+              As of August 31, 1994, the number of shares of Common
+Stock, $1.00 par value, outstanding was 40,698,898.
+
+
+Documents incorporated by                      Part of Form 10-K into which
+reference into this report                     document is incorporated    
+__________________________                     ____________________________
+
+Registrant's Proxy Statement                             Part III
+to be filed pursuant to
+Regulation 14A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 2
+
+<PAGE>
+                                  PART I
+
+
+Item 1.  Business
+
+              Burlington Coat Factory Warehouse Corporation and 
+its subsidiaries (the "Company" or "Burlington Coat") operates a
+chain of "off-price" apparel stores which offer a broad range of
+moderate to higher priced, current brand name merchandise for men,
+women and children at prices substantially below traditional full 
+retail prices generally charged by department and specialty stores. 
+The sale of outerwear (coats, jackets and raincoats) accounted for 
+approximately 35% of the Company's total sales during fiscal 1994.
+In addition, Burlington Coat offers customers a complete line of 
+men's, women's and children's wear as well as a linens, bath shop items,
+gifts and accessories department in 180 of its stores and a children's
+furniture department in approximately 126 of its stores.  The Company's 
+policy of buying significant quantities of merchandise throughout the 
+year, maintaining inventory control and using a "no-frills" merchandising 
+approach, allows it to offer merchandise at prices below traditional full
+retail prices.  The sale of irregular or discontinued merchandise represents
+only a small portion of the Company's business.  Merchandise is displayed
+on easy access racks and sales assistance generally is available.  Clothing
+alteration services are available on a limited basis in many stores for an 
+additional charge.
+
+              Burlington Coat's practice of purchasing outerwear early
+in each fashion season and of reordering in rapid response to
+sales has enabled it to maintain a large, current and varied
+selection of outerwear throughout each year.  Although the Company
+believes that this practice helps attract customers to its stores,
+to the extent the Company maintains a relatively large volume of
+merchandise, particularly outerwear, the risks related to style
+changes, weather and other seasonal factors, and economic
+conditions are necessarily greater than if the Company maintained
+smaller inventories.
+
+              An important factor in Burlington Coat's operations has
+been its continued ability to purchase desirable, first-quality
+current brand labeled merchandise directly from manufacturers on
+terms at least as favorable as those offered large retail
+department and specialty stores.  The Company estimates that over
+900 manufacturers of apparel, including over 300 manufacturers
+of outerwear, are represented at the Company's stores, and that no
+manufacturer accounted for more than 5% of the Company's pur-
+chases during the last full fiscal year.  The Company does not
+maintain any long-term or exclusive commitments or arrangements to
+purchase from any manufacturer.  No assurance can be given that the Company
+will be able to continue to purchase such merchandise directly from
+manufacturers or to continue its current selling price structure.
+See "Competition."
+
+
+
+
+
+                                                                    Page 3
+<PAGE>
+
+              The Company sells its merchandise to retail customers for
+cash and accepts checks and most major credit cards.  The Company's
+"Cohoes" division also offers its own credit card.  In addition,
+the Company  sells on a layaway plan and offers special orders on
+selected merchandise.  It does not offer refunds, except on furs,
+defective merchandise and certain specialty retail operations, but will 
+exchange or give store credit slips for merchandise returned within a 
+prescribed period of time.
+
+              The Company advertises primarily on television and, to a
+lesser extent, in regional and local newspapers and radio.  During
+the past three fiscal years, advertising expenditures have averaged
+approximately 2.8% of total revenues.
+
+
+The Stores
+
+              As of August 31, 1994, the Company operated 215
+stores, all but 19 of which are located in leased facilities
+ranging in size (including storage space) from approximately
+15,000 to approximately 133,000 square feet, with an average
+area of approximately 60,000 square feet.  Selling space accounts
+for over four-fifths of the total area in most stores.
+
+              All except 1 of the Company's stores are either free-
+standing or are located in shopping malls or strip shopping
+centers.  The remaining store is operated from the Company's former
+distribution facility in Secaucus, New Jersey.  The Company
+believes that its customers are attracted to its stores principally
+by the availability of a large assortment of first-quality current
+brand name merchandise at attractive prices.
+
+              The Company also operates stores under the names "Cohoes
+Fashions," "Decelle," "Luxury Linens," and "Totally 4 Kids."  Cohoes 
+Fashions offers merchandise in the middle to higher price range.  
+Decelle offers merchandise in the moderate price range for the entire 
+family with an emphasis on children's and youth wear. Luxury Linens is 
+a specialty store for linens, bath shop items, gifts and accessories and 
+offers merchandise in the middle to higher range.  Totally 4 Kids is a
+new moderate to upscale concept store offering maternity wear, baby 
+furniture, children's wear from toddlers up to teens, children's books, 
+toys, computer software for kids and educational tapes in a family
+environment. 
+
+              In the past, Burlington Coat generally has selected sites
+for its stores where there are suitable existing structures which
+can be refurbished, and, if necessary, enlarged, in a manner
+consistent with the Company's merchandising concepts.  In some
+cases, space has been substantially renovated or built to
+specifications given by Burlington Coat to the lessor.  Such
+
+
+
+
+
+
+                                                                    Page 4
+<PAGE>
+
+properties have been available to the Company on lease terms which
+it believes have been favorable.  See "Growth and Expansion."
+
+              The stores generally are located in close proximity to
+population centers, department stores and other retail operations
+and are usually established near a major highway or thoroughfare,
+making them easily accessible by automobile.  Since the Company's
+stores are generally located outside of urban centers and the
+Company believes that some of its customers drive long distances to
+visit store locations, it is likely that the Company would be
+adversely affected by any conditions which were to result in the
+reduction of automobile use.
+
+              The Company owns substantially all the equipment used in
+its stores and believes that its selling space is well utilized and
+that its equipment is well maintained and suitable for its
+requirements.
+
+              At August 31, 1994, a majority of the Company's stores
+contained one or more departments leased by unaffiliated parties
+for the sale of shoes, jewelry, and accessories.  During the fiscal year
+ended July 2, 1994, the Company's rental income from all of its
+leased departments aggregated less than 1% of the Company's total
+revenues.
+
+Central Distribution
+
+              Central distribution, warehousing, ticketing and marking
+services are extended to approximately fifty percent of the dollar
+volume of the Company's merchandise through its office and
+warehouse/distribution facility in Burlington, New Jersey.  This
+facility is capable of servicing the Company's present stores as
+well as accommodating anticipated expansion with modifications to
+its existing data processing and materials handling systems, except
+for juvenile furniture inventory.  The Company is leasing 
+approximately 85,000 square feet of warehouse space nearby to its
+existing warehouse distribution center for the purpose of
+warehousing and distributing its juvenile furniture inventory. 
+
+Growth and Expansion
+
+              Since 1972 when its first store was opened in Burlington,
+New Jersey, the Company has expanded to 196 Burlington Coat stores,
+five Cohoes Fashions stores, eight Decelle stores, five stand-alone
+Luxury Linens stores, and one Totally 4 Kids store as of August 31, 1994.
+
+              At August 31, 1994 the Company operated stores in 41
+states and is exploring expansion opportunities both within its
+current market areas and in other regions.  For fiscal 1995, the
+
+
+
+
+
+                                                                    Page 5
+<PAGE>
+Company has opened or  plans to open approximately 18 additional
+Burlington Coat Factory stores, four Luxury Linens stores, three Totally 
+4 Kids, and two Decelle stores in the United States prior to March, 1995 
+and to close two stores prior to March, 1995.
+
+              The Company believes that its ability to find
+satisfactory locations for its stores is essential for the
+continued growth of its business.  The opening of stores generally
+is contingent upon a number of factors, including the availability
+of desirable locations with suitable structures and the negotiation
+of acceptable lease terms.  There can be no assurance, however,
+that the Company will be able to find suitable locations for new
+stores or that even if such locations are found and acceptable
+lease terms are obtained, the Company will be able to open the
+number of new stores presently planned.
+
+              The Company began operating its own  jewelry department
+in three stores on a trial basis in the Fall of 1993.  The jewelry
+program consists of karat gold and precious and semi-precious stone
+jewelry, and in some stores may include brand-name watches.  Based
+on the results to date, the Company is planning to expand the
+program to an additional 24 stores during the Fall of 1994.  Other stores
+may be added to the program during the remainder of fiscal 1995.
+
+              In December 1993, the Company opened a store in Juarez,
+Mexico which is across the border from El Paso, Texas, in a joint
+venture with a Mexican partner.  The Company is currently
+evaluating the results of operations of this first store.  Future
+expansion in Mexico will depend in part on the results achieved by
+the first store.
+
+              Also in December 1993, the Company acquired a nine-store
+regional chain of stores operating in the New England region under
+the name "Decelle."  Decelle stores offer clothing for the entire
+family in the moderate price range but specialize in children's
+and youth wear.  In June of 1994, the Company converted one of its
+Decelle stores (located in Cranston, Rhode Island), into a Cohoes
+Fashion store.  This site was formerly that of a "Cohoes Specialty"
+store, a predecessor of the Company's Cohoes Fashions division.
+
+              In May of 1994, the Company opened its first "Totally 4
+Kids" store in Sterling, Virginia.  The store caters to the moderate to
+upscale market and offers maternity wear, baby furniture, children's wear 
+up to teens, children's books, educational tapes, computer software for 
+kids and toys in a family environment.  The Company plans to open three 
+additional Totally 4 Kids stores in fiscal 1995.
+
+         In addition, the Company is planning to open one store, "Fit 
+for Men", specializing in special size mens wear.  Depending on 
+
+
+
+
+
+
+
+
+
+                                                                    Page 6
+<PAGE>
+results of this store, the Company will consider opening additional
+men's stores on a stand alone basis.
+
+              The Company seeks to maintain its competitive position
+and improve its prospects by periodically reevaluating its methods
+of operation, including its pricing and inventory policies, the
+format of its stores and its ownership or leasing of stores.
+
+Seasonality
+
+              The Company's business is seasonal, with its highest
+sales occurring in the second fiscal quarter of each year. 
+Historically, approximately 65% of the Company's net sales have
+occurred during the period from September through January. 
+Recently, however, the Company has increased its sales in other
+periods so that sales in the September through January period
+accounted for only approximately 58% of net sales in fiscal 1992,
+57% in fiscal 1993 and 58% in fiscal 1994.  Weather, however,
+continues to be an important contributing factor to the sale of
+clothing in the fall, winter and spring seasons.  Generally, the
+Company's sales are higher if the weather is cold during the early
+fall and winter months and warm during the early spring months. 
+See "Management's Discussion and Analysis of Financial Condition
+and Results of Operations."
+
+
+Operations
+
+              Each store has a manager and one or more assistant
+managers, as well as department managers.  The Company also employs
+regional and district managers to supervise overall store operating
+and merchandising policies.  Major merchandising decisions are
+made, overall policies are set, and accounting and general
+financial functions for the Company's stores are conducted, at
+corporate headquarters.  In addition, the Company employs 
+directors of administration, store operations, loss prevention and
+merchandise presentation who are in charge of those functions on a 
+Company-wide basis.
+
+              Merchandise purchased by the Company is either shipped
+directly from manufacturers to store locations or distributed
+through the Company's warehousing and distribution facility.  See
+"Central Distribution."  A computerized merchandise information
+system provides regular detailed reports of sales and inventory
+levels for each store and assists the merchandise managers and
+buyers in monitoring and, where necessary, adjusting inventory
+levels.
+
+              At July 2, 1994, the Company had approximately 17,000
+employees, including a large number of part time and seasonal
+
+
+
+
+
+
+
+
+                                                                    Page 7
+<PAGE>
+employees which varies throughout the year.  Of the Company's
+employees, only those employed at one  of its stores and at its
+warehousing facility (aggregating up to 600 persons at its peak
+and approximately 500 persons at July 2, 1994) are covered by
+collective bargaining agreements.  The Company cannot predict
+whether any future attempts to unionize its employees will be
+successful.  The Company believes that its relationship with its
+employees has been and remains satisfactory.
+
+
+Competition
+
+              General.  The retail apparel business is highly
+competitive.  Competitors include other individual, regional and
+national "off-price" retailers offering similar merchandise at
+comparable prices as well as individual and chain stores, some of
+which are regional and national department and discount store
+chains.  At various times throughout the year department store
+chains and specialty shops offer brand name merchandise at
+substantial markdowns, which can result in prices approximating
+those offered by the Company.  Some of the Company's competitors 
+are considerably larger than the Company and have substantially
+greater financial and other resources.
+
+              Resale Price Maintenance.  Since it is the general
+policy of the Company to sell at lower than the traditional full
+retail price, its business may be adversely affected by
+manufacturers who attempt to maintain the resale price of their
+merchandise by refusing to sell, or granting advertising allowances,
+to purchasers who do not adhere to their suggested retail prices. 
+Federal legislation and regulations are proposed from time to time
+which, if enacted, would be helpful to manufacturers attempting to
+establish minimum prices or withhold allowances.  In addition, the
+rule against resale price maintenance is subject to challenge in
+the courts from time to time.  In the early part of 1984, the
+United States Supreme Court in Monsanto Company v. Spray-Rite
+Service Corporation, 465 U.S. 752 (1984), declined to reconsider
+the per se rule against resale price maintenance but held that the
+termination of a dealer by a manufacturer following the mere
+complaint by another dealer concerning the first dealer's pricing
+policies, without evidence that tends to exclude the possibility of
+independent action by the manufacturer and the other dealer, is not
+enough to raise the inference of a violation of the restriction
+against vertical price-fixing.  In May, 1988, the Supreme Court
+rendered an opinion in another case, Business Electronics
+Corporation v. Sharp Electronics Corporation, 108 S. Ct. 1515
+(1988), wherein it again declined the invitation of a litigant to
+reconsider the per se rule against resale price maintenance, but
+held that an agreement between a full-price merchant and a
+manufacturer whereunder the manufacturer terminates sales to a dis-
+counter because of the discounter's pricing is not a price fixing
+
+
+
+
+
+                                                                     Page 8
+<PAGE>
+agreement unless the manufacturer and the full-price merchant also
+agree to maintain specific retail prices or price levels.    
+
+              The Company has, on several occasions in the past,
+brought lawsuits against certain manufacturers and department store
+chains and complained to the Federal Trade Commission seeking more
+vigorous enforcement of existing Federal laws, as well as testified
+before Congress in connection with proposed legislation concerning
+the Federal antitrust laws.
+
+
+Item 2.  Properties
+
+              The Company owns the land and building for 19 of its
+stores, and is a 50% partner in a partnership which owns the
+building in which one store is located.  Generally, however, the
+Company's policy has been to lease its stores.  Store leases
+generally provide for fixed monthly rental payments, plus the
+payment, in most cases, of real estate taxes and other charges with
+escalation clauses.  In certain locations, the Company's store
+leases contain formulas providing for the payment of additional
+rent based on sales.
+
+
+<TABLE>
+              The following table shows the years in which store leases
+existing at August 31, 1994 expire:
+
+<CAPTION>
+
+ Fiscal Years      Number of Leases        Expiring with
+Ending June 30         Expiring            Renewal Options
+
+<S>                      <C>                     <C>
+
+1994-98                  46                      39
+
+1999-2000                20                      18
+
+2001-2002                13                       8
+
+2003-2004                25                       8
+
+2005-2006                14                       9
+
+Thereafter               79                      29
+                        ---                     ---
+          Total         197                     111
+                        ===                     ===
+</TABLE>
+
+              The Company owns five buildings in Burlington, New
+Jersey.  Of these buildings, two are used by the Company as retail
+space and three are leased to third parties.  In addition, the Company
+owns approximately 97 acres of land in the Townships of Burlington and
+Florence, New Jersey on which the Company has constructed its office and
+and warehouse/distribution facility and leases approximately 85,000 square
+feet of space nearby to the warehouse/distribution facility to store its
+                                                                     Page 9
+<PAGE>
+juvenile furniture inventory.  The Company leases approximately 20,000 square 
+feet of office space in New York City with the right of occupancy that
+expires in January 2001.  The Company also owns an older
+warehouse/distribution facility in Secaucus, New Jersey, a portion of which 
+it is leasing to a third party and a portion of which uses as a store, but
+may sell if favorable terms can be obtained. 
+
+
+Item 3.  Legal Proceedings
+
+              On September 29, 1994, the Company received summons and 
+complaint in two separate class actions, each filed in the United States
+District Court for the District of New Jersey and entitled Jack Turner v. 
+Monroe G. Milstein, Stephen E. Milstein, Robert L. LaPenta, Jr., and 
+Burlington Coat Factory Warehouse Corporation (Civil Action No. 94-4737) 
+the "Turner Action") and P. Gregory Buchanan v. Monroe G. Milstein, 
+Stephen E. Milstein, Robert L. LaPenta, Jr. and Burlington Coat Factory
+Warehouse Corporation (the "Buchanan Action") (Civil Action No. 94-4663).  
+Each of the complaints seeks unspecified damages and alleges a cause of 
+action arising under Sections 10(b) and 20(a) of Securities Exchange Act of 
+1934, as amended, and Rule 10b-5 under such Act for alleged material
+misstatements and omissions in public statements by the Company and other 
+defendants causing the market price of the Company's common stock to be
+artificially inflated during (a) the period November 1, 1993 through
+September 21, 1994, inclusive, in the case of the Turner Action, and
+(b) the period from November 1, 1993 through September 19, 1994, inclusive 
+in the case of the Buchanan Action.  The Company is unable to assess the 
+impact of such actions at this time but believes they are without merit.
+              
+              In the past, the Company has initiated several lawsuits in its
+initiated several lawsuits in its effort to stop what it believes
+to be unlawful practices on the part of certain manufacturers and
+large retailers to control the prices at which certain items of
+merchandise may be sold at the Company's stores.
+
+Item 4.  Submission of Matters to a Vote
+              of Security Holders            
+
+              The Company did not submit any matter to a vote of its
+security holders during the fourth quarter of fiscal 1994.
+
+                                  PART II
+
+Item 5.  Market for Registrant's Common Equity
+         and Related Stockholder Matters      
+
+              The Company's Common Stock is traded on the New York
+Stock Exchange, Inc. and its trading symbol is "BCF."
+
+
+
+
+
+
+
+
+
+                                                                    Page 10
+<PAGE>
+<TABLE>
+              The following table provides the high and low closing
+prices on the New York Stock Exchange for each fiscal quarter for
+the period from June 28, 1992 to July 2, 1994 and for the two
+months ended August 31, 1994, as adjusted to give retroactive
+effect to three-for-two stock splits effected on July 27, 1992 and
+on September 24, 1993:
+
+<CAPTION>
+
+           Period                 Low Price         High Price
+<S>                                 <C>               <C>
+<C>
+
+June 28, 1992 to
+September 26, 1992                   7 7/8             11 3/8
+
+September 27, 1992 to
+December 26, 1992                    10 3/4            16     
+
+December 27, 1992 to
+March 27, 1993                       13 7/8            18 5/8
+
+March 28, 1993 to
+July 3, 1993                         13 5/8            18 3/8
+
+July 4, 1993 to 
+October 2, 1993                      13 1/8            19 3/8 
+
+October 3, 1993 to
+January 1, 1994                      19                24 1/2
+
+January 2, 1994 to 
+April 2, 1994                        18                28 1/4   
+
+April 3, 1994 to
+July 2, 1994                         16 3/4            27 1/2  
+
+July 3, 1994 to
+August 31, 1994                      16 5/8            24 3/4
+</TABLE>
+
+              As of August 31, 1994 there were 473 record holders of
+the Company's Common Stock.  The number of record holders does not
+reflect the number of beneficial owners of the Company's Common
+Stock for whom shares are held by Cede & Co., certain brokerage
+firms and others.
+
+Dividend Policy
+
+              The Company has not paid cash dividends in the past and
+does not currently plan to do so.  It is the present policy of the
+Company's Board of Directors to retain future earnings to finance
+the growth and development of the Company's business.  Any payment
+
+                                                                    Page 11
+<PAGE>
+of cash dividends in the future will be at the discretion of the
+Company's Board of Directors and will depend upon the financial
+condition, capital requirements and earnings of the Company as well
+as other factors which the Board of Directors may deem relevant.
+
+
+Item 6.  Selected Financial Data
+
+<TABLE>
+              The following table sets forth certain selected financial
+data:
+                        
+<CAPTION>
+                        6/30/90   6/29/91    6/27/92      7/3/93    7/2/94
+                          (In thousands of dollars, except per share data)
+
+<S>                    <C>       <C>       <C>         <C>          <C>
+<C>
+Statement of Operations:
+
+Revenues               $811,999  $916,217  $1,013,470  $1,214,783    $1,480,676
+
+Net Income               24,035    24,742      31,368      42,903(1)     45,383
+
+Net Income per Share     .60(2)       .62(2)      .78(2)     1.06(1)(2)    1.12
+
+Balance Sheet Data:
+
+Total Assets            418,508   438,751     491,940     585,481       725,439
+
+Working Capital         214,520   229,403     252,364     275,113       278,590
+
+Long-Term Debt           95,838    96,040      94,234      91,428        91,369
+
+Stockholder's Equity    218,910   242,071     278,712     323,111       369,857
+<FN>
+__________________
+
+<F1>
+(1)      Effective June 28, 1992, the Company adopted Statement of 
+         Financial Accounting Standards No. 109, "Accounting for
+         Income Taxes."  The Company reflected the cumulative
+         effect of change in accounting  for income taxes by
+         recording a benefit of $.6 million ($.02 per share)
+         during fiscal 1993.
+
+<F2>
+(2)      Adjusted to give retroactive effect to three-for-two
+         stock splits effective in July, 1992 and September, 1993.
+</FN>
+</TABLE>
+
+Item 7.       Management's Discussion and Analysis of Financial
+              Condition and Results of Operations              
+
+              The Company maintains its records on the basis of a 52-53
+week fiscal year ending on the Saturday closest to June 30.  Fiscal
+1994 ended on July 2, 1994 and comprised 52 weeks, whereas fiscal
+                                                                    Page 12
+<PAGE>
+1993 ended July 3, 1993 and comprised 53 weeks, and fiscal 1992
+ended June 27, 1992 and comprised 52 weeks.  The following
+discussion compares the fiscal year ended July 2, 1994 with the
+fiscal years ended July 3, 1993 and June 27, 1992.
+
+Results of Operations
+
+                   Fiscal Years Ended June 27, 1992 and
+                       July 3, 1993 and July 2, 1994
+<TABLE>
+              The following table sets forth certain items in the
+consolidated statements of operations as a percentage of net sales
+for the fiscal years ended June 27, 1992, July 3, 1993 and July  2,
+1994.
+
+<CAPTION>
+                                    Percentage of Net Sales
+                                   Twelve-Month Period Ended                  
+
+                                          6/27/92     7/3/93      7/2/94 
+
+<S>                                        <C>        <C>         <C>
+<C>
+Net Sales                                  100.0%     100.0%      100.0%
+
+Costs and expenses:
+
+Cost of Sales                               65.1       65.0        65.2
+
+Selling and administrative                  29.1       28.6        28.6
+expenses
+
+Depreciation and                             1.4        1.4         1.4
+Amortization
+
+Interest expense                             1.0        0.8         0.7
+                                           -----      -----      ------
+
+                                            96.6       95.8        95.9
+                                           -----      -----      ------
+
+Other income                                 1.6        1.4         0.8
+                                           -----      -----      ------
+
+Income before income taxes                   5.0        5.6         4.9
+and cumulative effect of
+change in accounting for income
+taxes
+
+Provision for income taxes                   1.8        2.1         1.8
+                                           -----      -----       -----
+
+Income before cumulative                     3.2        3.5         3.1
+effect of change in
+accounting for income taxes
+
+Cumulative effect of change                  --          .1        --
+in accounting for income                    ----      -----       ----
+taxes
+
+Net income                                   3.2%       3.6%        3.1%
+</TABLE>
+
+                                                                     Page 13
+<PAGE>
+              Net sales increased $200.6 million (20.1%) for the fiscal
+year ended July 3, 1993 over the fiscal year ended June 27, 1992
+and $270.1 million (22.5%) for the fiscal year ended July 2, 1994
+over the fiscal year ended July 3, 1993.  The increase in fiscal 1993
+over fiscal 1992 was due to an increase in comparative store sales of
+$109.6  million (11.8%) and to the net sales of new stores opened during
+the fiscal year.  The increase in fiscal 1994 over fiscal 1993 was derived from
+the increase in comparative store sales of $75.4 million (6.8%), net sales
+of new stores opened during the fiscal year, increases in net sales of the
+Cohoes Fashions stores, and net sales from the Decelle stores and the Mexican
+operations (hereafter, Cohoes Fashions, Decelle and the Mexican operation are
+collectively referred to as the "Specialty Operations").  Fiscal 1994 and 
+1992 were 52-week fiscal years compared with a 53-week fiscal year in 1993.  
+Net sales for the 53rd week impacted fiscal 1993 by approximately $12.2 
+million compared to fiscal 1992 and net sales for the 53rd week impacted
+fiscal 1993 by approximately $9.5 million compared to fiscal 1994. The 
+18 Burlington Coat Factory stores opened in fiscal 1993
+contributed $61.1 million to net sales in fiscal 1993 compared with
+$107.5 million in fiscal 1994.  The 24 Burlington Coat Factory stores
+opened in fiscal 1994 contributed $147.0 million to net sales.  The two
+Cohoes Fashion stores opened during fiscal 1994 contributed $8.7 milion
+to net sales and the Decelle stores acquired during the period contributed
+$19.4 million to net sales.
+
+              Other income increased $.7 million from the 1992 period
+to the 1993 period and decreased $4.2 million from the 1993 period
+to the 1994 period.  For the fiscal year ended July 3, 1993, compared
+with the fiscal year ended June 27, 1992, investment income decreases
+were offset by increases in other income items including gains from sale
+of investments and other miscellaneous income items.  For the fiscal year
+ended July 2, 1994, the decrease in other income was primarily due to
+decreases in leased department rental income, the result of the closing of
+approximately 30 leased departments which the Company has converted
+to Company department selling space, and to a decrease in investment 
+income.  New store openings and existing store capital improvement
+expenditures as well as planned inventory growth throughout the Company
+absorbed excess investable funds during fiscal 1994  resulting in a
+decrease in interest income of $2.2 million during the fiscal year.  In
+addition, the Company lost $.3 million from the sale of investments 
+during the year.
+
+              Cost of sales increased by $128.2 million (19.7%) from
+the 1992 period to the 1993 period and by $178.5 million (22.9%)
+from the 1993 period to the 1994 period.  The dollar increases in
+cost of sales are attributable to the increases in unit sales from
+new stores opened during the periods, and increases in comparative
+store sales volume of 11.8% in the 1993 period and 6.8% in the 1994 period. 
+Cost of sales as a percentage of net sales decreased from 65.1% in the 1992 
+period to 65.0% in the 1993 period and increased to 65.2% in the 1994 period.
+The decrease in the 1993 period was due primarily to decreases in markdowns 
+and shrinkage losses as a percentage of sales.  The .2 percentage increase in 
+1994 over 1993 was due primarily to lower margins from the Specialty 
+Operations and increases in shrinkage and freight costs as a percentage of
+purchases.  
+
+
+                                                                    Page 14
+<PAGE>
+              Selling and administrative expenses increased by
+$52.6 million (18.1%) from the 1992 period to the 1993 period and
+by $77.2 million (22.5%) from the 1993 period to the 1994
+period, primarily as a result of increased expenses in connection
+with the increase in the number of stores.  As a percentage of net
+sales, selling and administrative expenses were 29.1% in the 1992
+period, 28.6% in the 1993 period and 28.6% in the 1994 period.  In
+the fiscal 1993 period, expenses decreased as a percentage of sales
+because  of the positive leverage achieved through sales growth. 
+In the 1994 fiscal period,  the positive effect on selling and 
+administrative costs, as a percentage of sales, created by comparative
+store sales growth, were partially offset by growth in non-store
+payroll related expenses and costs incurred to operate the Specialty
+Operations. 
+
+              The increase in depreciation expense of $3.1 million in
+the 1993 period over the 1992 period is attributable to fixtures and 
+improvements acquired for 18 new stores as well as additional equipment
+and improvements for existing stores and the home office and distribution
+center.  In addition, the Company acquired the real property associated
+with three of the new stores opened during fiscal 1993.  The increase in
+depreciation expense of $4.4 million in the 1994 period is mainly 
+attributable to the fixturing and improvements made for the 26 new stores
+opened during the period.  In addition, the Company acquired the real 
+property associated with five stores during the 1994 fiscal year.
+
+              Interest expenses decreased $.1 million from the 1992
+period to the 1993 period due to the early retirement of the mortgage
+indebtedness pertaining to the Secaucus warehouse.  Interest expenses
+increased slightly from the 1993 period to the 1994 period due to the
+Company's increased use of its lines of credit during the year.
+
+              The effective income tax rates were 36.5%, 36.7% and 37.3% for
+the 1992, 1993 and 1994 periods, respectively.  The increase in the effective
+tax rate in fiscal 1993 is due mainly to decreased tax credits recorded in 
+fiscal 1993 as compared with tax credits recorded in fiscal 1992.  The 
+increase in the effective tax rate in fiscal 1994 is due primarily to an 
+increase in the statutory federal tax rate to 35% in fiscal 1994.
+
+              Income before cumulative effect of change in accounting for
+income taxes increased $10.9 million (34.9%) to $42.3 million for fiscal
+year ended July 3, 1993 compared with the fiscal 1992 year.  Income before 
+cumulative effect of change in accounting for income taxes increased $3.1 
+million (7.3%) to $45.4 million for the fiscal year ended July 2, 1994 
+compared with the 1993 fiscal year.  Income per share before cumulative 
+effect of change in accounting for income taxes increased to $1.04 per share 
+for fiscal 1993 from $.78 per share for fiscal 1992 after giving effect to 
+the three-for-two stock split effected on September 24, 1993, due to 
+comparative store sales increases, new stores opened during the
+period, leveraging of selling and administrative expenses from the double
+digit comparative store sales increases and the extra week during the year.
+Income per share before cumulative effect of change in accounting for income 
+taxes increased to $1.12 per share for fiscal 1994 due to comparative store 
+sales increases and new stores opened during the year. Income before cumulative
+effect of change in accounting for income taxes, in part, was negatively 
+impacted in fiscal 1994 by an increase in the losses from the Specialty 
+Operations from $.5 million to $3.5 million.
+
+                                                                    Page 15
+<PAGE>
+              During the fiscal year ended July 3, 1993, the Company
+recorded a cumulative effect benefit resulting from the adoption of
+Statement of Financial Accounting Standards No. 109, "Accounting
+for Income Taxes" (See Notes to the Consolidated Financial
+Statement No. A.6.) in the amount of $.6 million ($.01 per share
+after giving effect to the three-for-two stock split).  Net income
+as a percentage of net sales was 3.1%, 3.6% and 3.1% for the 1992,
+1993 and 1994 periods, respectively.
+
+             The results of operations for the fourth fiscal quarter of 1994
+were negatively impacted in comparison with last year's fourth fiscal quarter
+primarily by a shift in comparable calendar weeks and an earlier Easter 
+selling season to the third quarter of fiscal 1994, shifting approximately
+$37.0 million in net sales and $9.6 million in pre-tax profit into the third
+fiscal quarter of 1994.  In addition, losses from the newly acquired operations,
+start-up operations and increased store opening costs were approximately $1.6
+million.
+
+Liquidity and Capital Resources
+
+              The Company estimates  that it will expend approximately
+$21.2 million for capital expenditures (i.e. fixtures, equipment and leasehold
+improvements)  in connection with the opening of 28 new stores during fiscal
+1995.  The Company expects to satisfy its operating requirements, including 
+capital expenditures for the opening of new stores, from internally 
+generated funds and from borrowing.  
+
+              Working capital increased from  $252.4 million at June
+27, 1992 to $275.1 million at July 3, 1993 and increased to $278.6
+million at July 2, 1994.
+
+              Total funds provided from operations for the fiscal years
+ended June 27, 1992, July 3, 1993  and July 2, 1994 were $50.7
+million, $64.7 million and $72.6 million, respectively.  Total
+funds from operations are calculated by adding back to net income
+non-cash expenditures such as depreciation and deferred taxes.
+
+              Net cash used by operating activities amounted to $28.3
+million for the fiscal year ended July 2, 1994 compared with net cash
+provided by operating activities of $11.1 million for the fiscal year
+ended July 3, 1993.  This change is primarily the result of increases in
+merchandise inventories associated with the opening of 26 new stores during
+fiscal 1994, opportunistic merchandise buying through June 1994, and 
+inventory purchased for the anticipated store openings scheduled for the first 
+and second quarters of the 1995 fiscal year.  The inventory increases were 
+financed by cash generated from the disposition of short-term investments 
+during fiscal 1994 as well as increases in amounts owed to suppliers and 
+from borrowings.
+
+              The Company incurred capital expenditures of approximately 
+$63.7 million during fiscal 1994.  These expenditures included store 
+fixtures and leasehold improvements for the 26 new stores opened during
+the period, as well as purchases of equipment, fixtures and  improvements
+for the Company's existing stores, the home office and the distribution
+center.  In addition, real property associated with 5 of the new stores
+was acquired during the fiscal year.
+
+                                                                     Page 16
+<PAGE>
+              In view of the seasonal nature of its business, the
+Company has in the past satisfied its cash flow requirements at
+various times throughout its fiscal year through short-term
+borrowing under its revolving credit and term loan agreement with
+one bank in the amount of $40 million (the "Line of Credit")
+together with uncommitted lines of credit in the aggregate amount
+of $130 million (the "Uncommitted Lines").  In June, 1990, the
+Company issued subordinated notes (the "Notes") in the principal
+amount of $80 million to certain institutional investors (the "Note
+Financing").  The Company believes that its operating requirements,
+including capital expenditures, will be satisfied by the Note
+Financing, the Uncommitted Lines and the Line of Credit, however,
+it may seek additional financing if determined to be appropriate in
+the future.
+
+               At July 2, 1994, the aggregate borrowings under
+the Line of Credit and Uncommitted Lines was $65.0 million.  Letters of 
+credit outstanding against these lines were $50.4 million and $39.7 million
+at July 2, 1994 and July 3, 1993, respectively.  The Company had $54.6
+million available under these lines of credit at July 2, 1994.  The
+Company borrowed under its lines of credit during fiscal 1994 in order
+to finance the opening of new stores as well as planned inventory growth
+in existing stores.  For the fiscal years ended June 27, 1992 and 
+July 3, 1993, the Company did not draw on its available credit line.   
+At June 27, 1992, and at July 3, 1993, there was no borrowing under the 
+Company's Line of Credit facility.
+
+              The Company's long-term borrowings include $80.0 million under
+the Notes and an industrial development bond of $10.0 million issued by the New
+Jersey Economic Development Authority.
+
+              The Notes mature on June 27, 2005 and bear interest at
+the rate of 10.60% per annum.  The Notes have an average maturity
+of ten years and are subject to mandatory prepayment in
+installments of $8 million each without premium on June 27 of each
+year beginning in 1996.  The Notes are subordinated to senior debt,
+including, among others, bank debt and indebtedness for borrowed
+money.  The interest rate on the bonds issued in connection with
+the Company's industrial development bond financing is fixed at
+9.78% over the life of these series and term bonds.  The bonds
+mature at various dates commencing in September 1996 and ending in
+September 2010.  
+
+              On August 10, 1993 the Omnibus Budget Reconciliation Act
+was enacted which increases federal tax rates from 34% to 35%.  The
+effect on current and deferred taxes of a change in tax rates was
+recognized in income in the period that includes the enactment
+date.  Therefore, the effect of the tax rate change was recorded in
+the first quarter of fiscal 1994.
+
+
+
+                                                                    Page 17
+<PAGE>
+Inflation
+
+              Over the past three years, which has been a period of low
+inflation, the Company has been able to increase sales volume to
+compensate for increases in operating expenses.  The Company has
+historically been able to increase its selling prices as the costs
+of merchandise and related operating expenses have increased and,
+therefore, inflation has not had a significant effect on
+operations.
+
+New Accounting Standards
+
+              In November 1992, the Financial Accounting Standards
+Board issued Statement of Financial Accounting Standards No. 112,
+"Employers' Accounting for Post-Employment Benefits."  This
+pronouncement will not have an effect on the Company's consolidated
+financial statements as the benefits covered in the pronouncement
+are not provided by the Company.
+
+Item 8.  Financial Statements and Supplementary Data
+
+              See Index to Financial Statements and following pages.
+
+Item 9.  Changes in and Disagreements with Accountants
+         on Accounting and Financial Disclosure       
+
+                              Not Applicable
+
+                                 PART III
+
+Item 10. Directors and Executive Officers of the
+         Registrant                                 
+
+Item 11. Executive Compensation
+
+Item 12. Security Ownership of Certain Beneficial
+         Owners and Management                       
+
+Item 13. Certain Relationships and Related Transactions
+
+
+              In accordance with General Instruction G(3) of the
+General Instructions to Form 10-K, the information called for by
+Items 10, 11, 12 and 13 is omitted from this Report and is
+incorporated by reference to the definitive Proxy Statement to be
+filed by the Company pursuant to Regulation l4A of the General
+Rules and Regulations under the Securities Exchange Act of 1934,
+which the Company will file not later than 120 days after July 2,
+1994.
+
+
+
+
+
+
+
+
+
+                                                                    Page 18
+<PAGE>
+                                  PART IV
+
+
+Item 14. Exhibits, Financial Statement Schedules,
+         and Reports on Form 8-K                 
+
+
+              (a)  The following documents are filed as part of this
+Report.
+
+                                                                   Page No.
+              1.   Financial Statements
+
+                   Index to Consolidated Financial                   26
+                     Statements
+
+                   Independent Auditor's Report                      27
+
+                   Consolidated Balance Sheets                       28
+                     July 3, 1993 and July 2, 1994 
+
+                   Consolidated Statements of Operations             29
+                     Fiscal Years Ended June 27, 1992,
+                     July 3, 1993 and July 2, 1994
+
+                   Consolidated Statements of                        30
+                     Stockholders' Equity for the
+                     Fiscal Years Ended June 27, 1992,
+                     July 3, 1993 and July 2, 1994
+
+                   Consolidated Statements of Cash                   31
+                     Flows for the Fiscal Years
+                     Ended June 27, 1992, July 3,  
+                     1993 and July 2, 1994  
+              
+                   Notes to Consolidated Financial                   33
+                     Statements
+                   
+               2.  Financial Statement Schedules
+
+                   Schedule V - Property, Plant and                  46
+                     Equipment
+                   Schedule VI - Accumulated Depreciation            47
+                     and Amortization of Property, Plant
+                     and Equipment
+                   Schedule VIII - Valuation and                     48
+                     Qualifying Accounts
+
+                   Schedule IX - Short-term Borrowing
+                   is omitted because the information
+                   required is presented in Management's
+                   Discussion and Analysis of Financial
+                   Condition and Results of Operations
+                   appearing on pages 12 through 18
+                   of this Report and the Notes to the
+                   Consolidated Financial Statements.
+
+                                                                    Page 19
+<PAGE>
+                                                                   Page No.
+
+                        All other schedules are omitted
+                   because they are not applicable or not
+                   required or because the required
+                   information is included in the consol-
+                   idated financial statements or notes
+                   thereto.
+
+              3.   Exhibits
+
+              3.1  Articles of Incorporation,
+                        as amended                              1/
+
+              3.2  By-laws                                      1/
+
+           *10.1   1993 Stock Incentive Plan                    1/
+
+            10.2   Revolving Credit Agreement dated             2/
+                     August 30, 1985 between the
+                     Company and BancOhio National
+                     Bank, as amended through Amendment
+                     No. 3.
+
+            10.3   Amendment No. 4 to Revolving Credit          1/
+                     Agreement between the Company and
+                     National City Bank, Columbus
+                     (successor to BancOhio National Bank)
+
+            10.4   Loan Agreement dated as of September 1,      2/
+                     1985 by and between New Jersey
+                     Economic Development Authority and
+                     Burlington Coat Factory Warehouse
+                     of New Jersey, Inc.
+
+            10.5   Assignment of Lease dated as of Sep-         2/
+                     tember 1, 1985 from Burlington
+                     Coat Factory Warehouse of New
+                     Jersey, Inc. to New Jersey
+                     Economic Development Authority                   
+
+            10.6   Mortgage dated September 20, 1985            2/
+                     between Burlington Coat Factory
+                     Warehouse of New Jersey, Inc. and
+                     New Jersey Economic Development
+                     Authority
+
+_______________
+<F1>
+(1)      Incorporated by reference to the Exhibits filed with the
+         Company's Annual Report on Form 10-K for the year ended July 
+         3, 1993, File No. 1-8739.
+<F2>
+(2)      Incorporated by reference to the Exhibits filed with the
+         Company's Annual Report on Form 10-K for the year ended June
+         29, 1991, File No. 1-8739.
+
+*Executive Compensation Plan
+                                                                    Page 20
+<PAGE>
+                                                                   Page No.
+
+            10.7   Indenture of Trust dated as of               2/
+                     September 1, 1985 by and between           -
+                     New Jersey Economic Development
+                     Authority and National Westminster
+                     Bank USA
+
+            10.8   Guarantee dated as of September 1,           2/
+                     1985 from the Company to New Jersey        -
+                     Economic Development Authority
+
+            10.9   Employees Profit Sharing Plan, as            1/
+                     amended September 30, 1988                 -
+
+            10.10  Amendment No. 3, dated November 16,          1/
+                     1989, to Employees Profit Sharing          -
+                     Plan
+
+            10.11  Amendment No. 4, dated February 24,          1/
+                     1993, to Employees Profit Sharing          -
+                     Plan
+
+            10.12  Note Agreement dated June 27, 1990           3/
+                                                                -
+            22     Subsidiaries of Registrant                   53
+
+            24     Consent of Deloitte & Touche LLP,            55
+                     independent certified public
+                     accountants, to the use of
+                     their report on the financial 
+                     statements of the Company for 
+                     the fiscal year ended July 2, 
+                     1994 in the Registration Statements 
+                     of the Company on Form S-8, 
+                     Registration No. 2-96332,    
+                     No. 33-21569 and No. 33-51965.                         
+ 
+            27       Financial Data Schedule                    57
+
+_______________
+<F1>
+(1)      Incorporated by reference to the Exhibits filed with the
+         Company's Annual Report on Form 10-K for the year ended July 
+         3, 1993, File No. 1-8739.
+<F2>
+(2)      Incorporated by reference to the Exhibits filed with the
+         Company's Annual Report on Form 10-K for the year ended June
+         29, 1991, File No. 1-8739.
+
+<F3>
+(3)  Incorporated by reference to the Exhibits filed with the
+     Company's Annual Report on Form 10-K for the year ended June
+     27, 1990, File No. 1-8739.
+
+
+                                                                    Page 21
+<PAGE>
+               EXECUTIVE COMPENSATION PLANS AND ARRANGEMENTS   
+
+
+       Description                          Location
+
+1)  1993 Stock Incentive Plan         Filed as Exhibit 10.1
+                                       to the Company's Annual
+                                       Report on Form 10-K for
+                                       the year ended July 3, 
+                                       1993, Pages 103-130
+
+            (b)  Reports on Form 8-K
+
+           During the period ended July 2, 1994, the Company did not
+file any report on Form 8-K.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 22
+<PAGE>
+                                   SIGNATURES
+
+              Pursuant to the requirements of Section 13 or 15(d) of  the
+Securities Exchange Act of 1934, the registrant has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+               BURLINGTON COAT FACTORY WAREHOUSE CORPORATION    
+                   (Registrant)
+
+By:  /s/ Monroe G. Milstein                                     
+    Monroe G. Milstein, President
+
+Dated: September 29, 1994
+
+
+       Pursuant to the requirements of the Securities Exchange Act of
+1934, this report has been signed below by the following persons on behalf
+of the registrant and in the capacities and on the dates indicated.
+
+Name                               Title                    Date
+
+/s/ Monroe G. Milstein     Chief Executive Officer    September 29, 1994
+  Monroe G. Milstein         and President (Principal
+                           Executive Officer);
+                           Director
+
+/s/ Robert L. LaPenta, Jr. Controller (Principal      September 29, 1994
+  Robert L. LaPenta, Jr.     Financial and 
+                             Accounting Officer)
+
+/s/ Henrietta Milstein     Director                   September 29, 1994
+  Henrietta Milstein
+
+/s/ Harvey Morgan          Director                   September 29, 1994
+  Harvey Morgan
+
+/s/ Andrew R. Milstein     Director                   September 29, 1994
+  Andrew R. Milstein
+
+/s/ Stephen E. Milstein    Director                   September 29, 1994
+  Stephen E. Milstein
+
+/s/ Mark A. Nesci          Director                   September 29, 1994
+  Mark A. Nesci
+
+/s/ Irving Drillings       Director                   September 29, 1994
+  Irving Drilings
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 23
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      [THIS PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 24
+<PAGE>
+              BURLINGTON COAT FACTORY WAREHOUSE CORPORATION
+                                    
+                            AND SUBSIDIARIES
+                                    
+               INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+                                    
+
+                                                                   Page No.
+
+Independent auditors' report                                         27
+
+Consolidated balance sheets                                          28
+  July 3, 1993 and July 2, 1994
+
+Consolidated statements of operations for the                        29
+  fiscal years ended June 27, 1992, July 3, 
+  1993 and July 2, 1994
+
+Consolidated statements of stockholders'                             30
+  equity for the fiscal years ended June 27, 
+  1992, July 3, 1993 and July 2, 1994
+
+Consolidated statements of cash flows for                            31
+  the fiscal years ended June 27, 1992, July 
+  3, 1993 and July 2, 1994
+
+Notes to consolidated financial statements                           33
+
+Financial Statement Schedules
+
+  - Schedule V    -- Property, Plant and Equipment                   46
+  - Schedule VI   -- Accumulated Depreciation and                    47
+                      Amortization of Property 
+                      Plant and Equipment 
+  - Schedule VIII -- Valuation and Qualifying                        48
+                      Accounts
+
+  - Schedule IX --   (Omitted since information 
+        required appears in Management's 
+        Discussion and Analysis of 
+        Financial Condition and Results 
+        of Operations appearing on pages 
+        12 through 18 of this Report)
+
+  - Schedule X -- (Omitted since information
+         required is included in Note K to the
+         consolidated financial statements)
+
+
+
+
+
+                                                                    Page 25
+<PAGE>
+INDEPENDENT AUDITORS' REPORT
+
+Board of Directors and Stockholders
+Burlington Coat Factory Warehouse Corporation
+Burlington, New Jersey
+
+We have audited the accompanying consolidated balance sheets of
+Burlington Coat Factory Warehouse Corporation and its
+subsidiaries as of July 2, 1994 and July 3, 1993, and the related
+consolidated statements of operations, stockholders' equity and
+cash flows for each of the three fiscal years in the period ended
+July 2, 1994.  Our audits also included the financial statement
+schedules listed in the Index at Item 14(a)(2). These financial
+statements and financial statement schedules are the
+responsibility of the Company's management.  Our responsibility
+is to express an opinion on the financial statements and
+financial statement schedules based on our audits.
+
+We conducted our audits in accordance with generally accepted
+auditing standards.  Those standards require that we plan and
+perform the audit to obtain reasonable assurance about whether
+the financial statements are free of material misstatement.  An
+audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An
+audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating
+the overall financial statement presentation.  We believe our
+audits provide a reasonable basis for our opinion.
+
+In our opinion, such consolidated financial statements present
+fairly, in all material respects, the financial position of
+Burlington Coat Factory Warehouse Corporation and subsidiaries at
+July 2, 1994 and July 3, 1993, and the results of their
+operations and their cash flows for each of the three fiscal
+years in the period ended July 2, 1994 in conformity with
+generally accepted accounting principles.  Also, in our opinion,
+such financial statement schedules, when considered in relation
+to the basic consolidated financial statements taken as a whole,
+present fairly in all material respects the information set forth
+therein.
+
+As discussed in Note Q to the consolidated financial statements, the Company
+is a defendant in two separate purported class action lawsuits.  The ultimate
+outcome of the litigation cannot presently be determined.  Accordingly,
+no provision for any loss that may result upon resolution of these matters
+has been made in the accompanying consolidated financial statements.
+
+As discussed in Note A.6 to the consolidated financial statements, the
+Company changed its method of accounting for income taxes, effective June
+28, 1992, to conform with Statement of Financial Accounting
+Standards No. 109.
+
+
+DELOITTE & TOUCHE LLP
+Philadelphia, Pennsylvania
+September 16, 1994 (September 29, 1994 as to Note Q)
+
+
+
+
+
+
+
+                                                                    Page 26
+<PAGE>
+<TABLE>
+<CAPTION>
+               BURLINGTON COAT FACTORY WAREHOUSE CORPORATION
+                             AND SUBSIDIARIES
+                        CONSOLIDATED BALANCE SHEETS
+
+                (All amounts in thousands except share data)
+                                                         July 02,       July 03,    
+                                                          1994           1993
+<S>                                                      <C>         <C>            
+<C>
+ASSETS
+
+Current Assets:
+ Cash and Cash Equivalents                               $ 21,236    $  34,881      
+ Short-Term Investments                                        --       16,421     
+ Accounts Receivable Net of Allowance for Doubtful
+   Accounts of 1994--$4,995 and 1993--$4,237               13,915       10,057       
+ Merchandise Inventories                                  468,921      352,919 
+ Deferred Tax Asset                                         6,782        4,441  
+ Prepaid and Other Current Assets                          17,968       16,641 
+                                                         ----------------------
+Total Current Assets                                      528,822      435,360 
+
+Property and Equipment Net of Accumulated
+   Depreciation and Amortization                          184,590      142,582 
+Other Assets                                               12,027        7,539 
+                                                         ----------------------
+Total Assets                                             $725,439    $ 585,481 
+                                                         ======================
+LIABILITIES AND STOCKHOLDERS' EQUITY
+- - ------------------------------------
+Current Liabilities:
+ Notes Payable                                           $ 65,020           --
+ Accounts Payable                                         133,706    $ 116,207 
+ Income Taxes Payable                                         454        5,758  
+ Other Current Liabilities                                 50,998       38,169 
+ Current Maturities of Long-Term Debt                          54          113 
+                                                         ---------------------
+         Total Current Liabilities                        250,232      160,247 
+
+Long-Term Debt                                             91,369       91,428 
+Other Liabilities                                           7,151        5,379  
+Deferred Tax Liability                                      6,830        5,316  
+
+Stockholders' Equity:
+ Preferred Stock, Par Value $1; Authorized
+  5,000,000 shares; none issued and outstanding                --           --
+ Common Stock, Par Value $1; Authorized
+  100,000,000 shares;
+  41,122,459 shares issued and outstanding 
+  at July 2, 1994
+  41,027,944 shares issued and oustanding
+  at July 3, 1993                                          41,122       41,028 
+ Capital in Excess of Par Value                            24,592       23,598 
+ Retained Earnings                                        305,729      260,346 
+ Unrealized Loss-Marketable Securities                        (20)         (11)
+ Foreign Currency Translation Adjustment                      284           --
+ Treasury Stock at Cost; 1994 and 1993--427,387 Shares     (1,850)      (1,850)
+                                                         ----------------------
+         Total Stockholders' Equity                       369,857      323,111 
+                                                         ----------------------
+Total Liabilities and Stockholders' Equity               $725,439    $ 585,481 
+                                                         ======================
+See notes to consolidated financial statements
+</TABLE>
+                                                                    Page 27
+<PAGE>
+<TABLE>
+<CAPTION>
+               BURLINGTON COAT FACTORY WAREHOUSE CORPORATION
+                             AND SUBSIDIARIES
+                   CONSOLIDATED STATEMENTS OF OPERATIONS
+                                     
+
+               (All amounts in thousands except share data)
+
+                                         YEAR           YEAR           YEAR
+                                         ENDED          ENDED          ENDED
+                                         July 02,       July 03,      June 27,
+                                         1994           1993           1992
+
+<S>                                   <C>             <C>            <C>
+<C>                                                                                    
+REVENUES:
+                             
+Net Sales                              $1,468,440     $1,198,305      $  997,698
+Other Income                               12,236         16,478          15,772
+                                       -----------------------------------------
+                                        1,480,676      1,214,783       1,013,470
+                                       -----------------------------------------
+COSTS AND EXPENSES:
+ Cost of Sales (Exclusive of 
+   Depreciation and Amortization)         956,818        778,306         650,060
+ Selling and Administrative Expenses      420,046        342,799         290,235
+ Depreciation and Amortization             21,528         17,090          13,974
+ Interest Expense                           9,873          9,774           9,841
+                                       -----------------------------------------
+                                        1,408,265      1,147,969         964,110
+                                       -----------------------------------------
+Income Before Provision for Income Taxes
+ and Cumulative Effect on Prior Years 
+ of Change in Accounting Principle         72,411         66,814          49,360
+
+Provision for Income Taxes                 27,028         24,512          17,992
+                                        ----------------------------------------
+Income Before Cumulative Effect on
+  Prior Years of Change in
+  Accounting Principle                     45,383         42,302          31,368 
+
+ Cumulative Effect on Prior Years of
+  Change in Accounting Principle 
+  (See Note 6)                                 --            601               -
+                                       -----------------------------------------
+Net Income                             $   45,383    $    42,903      $   31,368   
+                                       =========================================
+Earnings Per Share:
+  Income Per Share Before Cumulative
+   Effect on Prior Years of Change
+   in Accounting Principle             $     1.12    $      1.04      $     0.78
+
+Income Per Share From Cumulative
+  Effect on Prior Years of Change
+  in Accounting Principle              $       --           0.02              --
+                                       -----------------------------------------
+Net Income Per Share                   $     1.12    $      1.06      $     0.78
+                                       =========================================
+Weighted Average Shares Outstanding    $40,632,201    40,503,350      40,050,993
+                                       =========================================
+Dividends Per Share                             --            --              --
+                                       =========================================
+See notes to consolidated financial statements
+</TABLE>
+
+                                                                    Page 28
+<PAGE>
+<TABLE>
+<CAPTION>
+               BURLINGTON COAT FACTORY WAREHOUSE CORPORATION
+                             AND SUBSIDIARIES
+              CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+        YEARS ENDED JUNE 27, 1992, JULY 03, 1993 AND JULY 02, 1994
+
+                        (All amounts in thousands)
+
+
+                                        Capital in         
+                             Common     Excess of     Retained     Treasury    Valuation
+                             Stock      Par Value     Earnings       Stock     Allowance     Total
+                            -------------------------------------------------------------------------
+<S>                         <C>        <C>            <C>           <C>           <C>        <C>
+<C>         
+
+Balance at June 29, 1991    $17,819   $40,027        $186,075      $(1,850)                 $242,071
+Net Income                                             31,368                                 31,368
+Stock Options Exercised         345     4,929                                                  5,274
+Stock Split                   9,083    (9,084)                                                    (1)
+                            -------------------------------------------------------------------------
+Balance at June 27, 1992     27,247    35,872         217,443       (1,850)                  278,712     
+Net Income                                             42,903                                 42,903
+Stock Options Exercised         101     1,406                                                  1,507
+Net Unrealized Loss on 
+  Noncrrent Marketable 
+  Securities                                                                      (11)           (11)
+Stock Split                  13,680   (13,680)                                                     0
+                            -------------------------------------------------------------------------
+Balance at July 03, 1993     41,028   23,598          260,346       (1,850)      (11)        323,111 
+      
+Net Income                                             45,383                                 45,383                 
+Stock Options Exercised          81    1,007                                                   1,088
+Net Unrealized Loss on 
+  Noncurrent Marketable
+  Securities                                                                      (9)             (9)
+Equity Adjustment for
+  Translation                                                                    284             284
+Stock Split Adjustment           13      (13)                                                      0
+                           --------------------------------------------------------------------------
+
+
+Balance at July 02, 1994    $41,122  $24,592         $305,729      $(1,850)     $264        $369,857
+                           ==========================================================================
+                                                  
+
+
+See notes to consolidated financial statements
+
+
+
+
+
+
+
+
+
+                                                                    Page 29
+<PAGE>
+
+</TABLE>
+<TABLE>
+<CAPTION>
+               BURLINGTON COAT FACTORY WAREHOUSE CORPORATION
+                             AND SUBSIDIARIES
+                   CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                        (All amounts in thousands)
+
+                                                                 Fiscal Year Ended
+                                                            July 02,   July 03,     June 27,
+                                                              1994         1993        1992   
+                                                             -------------------------------
+
+<S>                                                        <C>          <C>          <C>
+<C>
+OPERATING ACTIVITIES
+ Net Income                                                 $45,383      $42,903      $31,368
+  Adjustments to Reconcile Net Income to 
+   Provided by Operating Activities:
+    Depreciation and Amortization                            21,528       17,090       13,974
+    Provision for Losses on Accounts Receivable               4,821        3,690        3,549
+    Provision for Deferred Income Taxes                        (827)         193         (653)
+    Writedown of Certain Investment to Market Value               -            -          750
+    Loss on Disposition of Fixed Assets                         203          378          478
+    Rent Expense and Other                                    1,528        1,041        1,272
+    Cumulative Effect of Change in Accounting for
+     Income Taxes                                                 -         (601)           -
+ Changes in Operating Assets and Liabilities:  
+    Accounts Receivable                                      (8,674)      (4,741)      (5,708)
+    Merchandise Inventories                                (116,002)     (88,780)     (10,235)
+    Prepaids and Other Operating Assets                      (1,327)      (7,551)      (2,221)
+    Accounts Payable                                         17,499       44,703       12,849
+    Other Current Liabilities                                 7,525        2,766        4,643
+                                                           -----------------------------------
+      Net Cash (Used in) Provided by
+          Operating Activities                              (28,343)      11,091       50,066  
+                                                           -----------------------------------
+INVESTING ACTIVITIES                                     
+   Acquisition of Property and Equipment                    (63,686)     (39,836)     (26,309)
+   Short-Term Investments-Net                                16,421       41,623      (58,044)
+   Proceeds From Sale of Fixed Assets                            17           14          577
+   Issuance of Long-Term Notes Receivable                    (3,668)      (2,241)        (225)
+   Receipts Against Long-Term Notes Receivable                  609          442          187
+   Acquisition of Investments                                     -         (155)           -
+   Proceeds From Sale of Investments                              -          113           11
+   Acquisition of Leasehold                                  (2,050)           -            -   
+   Minority Interest                                            497            -            -
+   Other                                                        568           43         (288)  
+                                                            ----------------------------------
+     Net Cash (Used in) Provided by  
+         Investing Activities                               (51,292)           3      (84,091)  
+                                                           ----------------------------------
+FINANCING ACTIVITIES
+  Principal Payments on Long-Term Debt                         (118)      (3,069)      (1,893)
+  Issuance of Common Stock Upon Exercise of 
+    Stock Options                                             1,088        1,507        5,274
+ Net Borrowings Under Line of Credit                         65,020            -            -
+                                                           -----------------------------------
+     Net Cash (Used in) Provided by Financing
+         Activities                                          65,990       (1,562)       3,381
+                                                           -----------------------------------
+(Decrease) Increase in Cash and
+  Cash Equivalents                                          (13,645)       9,532      (30,644)
+Cash and Cash Equivalents at
+ Beginning of Period                                         34,881       25,349       55,993
+                                                           ---------------------------------
+Cash and Cash Equivalents at End
+  of Period                                                 $21,236      $34,881      $25,349 
+                                                           ==================================
+  Interest Paid                                             $ 9,873      $13,925      $ 5,663
+                                                           ==================================
+  Income Taxes Paid                                         $32,414      $21,955      $21,680 
+                                                           ==================================
+See notes to consolidated financial statements
+
+</TABLE>
+                                                                    Page 30
+<PAGE>
+
+ 
+              BURLINGTON COAT FACTORY WAREHOUSE CORPORATION
+                              AND SUBSIDIARIES
+                   CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+Supplemental Schedule of Non-Cash Financing and Investing Activities:
+
+     During the period ended June 27, 1992, the Company sold certain real estate
+holdings with a book value of $.9 million for $1.1 million.  In connection with
+this sale, the Company received $.5 million in cash and $.6 million in notes 
+receivable.
+
+     In each of the fiscal years ended June 27, 1992 and July 3, 1993, the
+Company wrote off certain fixed assets with a book value of $.4 million.  During
+fiscal 1994 the Company wrote off certain fixed assets with a book value of $.2 
+million.
+
+
+See notes to consolidated financial statements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 31
+<PAGE>
+Notes to Consolidated Financial Statements
+
+A. Summary of Significant Accounting Policies
+
+1. Business
+The Company operates 208 stores which sell off-price apparel for men, women
+and children.  A majority of these stores offer a home linens department and
+baby room furniture department.  In addition, the Company operates five
+stand-alone Luxury Linens stores and one Totally 4 Kids store which sells
+baby furniture, children's wear, toys and educational tapes.
+
+2. Principles of consolidation
+The consolidated financial statements include the accounts of
+Burlington Coat Factory Warehouse Corporation and its subsidiaries
+(the "Company").  All intercompany transactions and balances have
+been eliminated in consolidation.
+
+3. Inventories
+Inventories are stated at the lower of the First In First Out
+(FIFO) cost or market, as determined by the retail inventory
+method.
+
+4. Property and equipment
+Property and equipment are stated at cost and depreciation is
+computed on the straight line method over the estimated useful
+lives of the assets.  The estimated useful lives are between 20
+and 40 years for buildings, depending upon the expected useful
+life of the facility, and three to ten years for store fixtures
+and equipment.  Leasehold improvements are amortized over a ten
+year period.  Repairs and maintenance expenditures are charged to
+expense as incurred.  Renewals and betterments which significantly
+extend the useful lives of existing property and equipment are
+capitalized.
+
+5. Store opening expenses
+Expenses related to new store openings are charged to operations
+in the period incurred.
+
+6. Income taxes
+Effective June 28, 1992, the Company adopted Statement of
+Financial Accounting Standards No. 109, "Accounting for Income
+Taxes." Deferred income taxes have been recorded to recognize
+temporary differences which result from revenues and expenses
+being recognized in different periods for financial reporting
+purposes than for income tax purposes.  The adoption of SFAS 109
+created a $601,000 benefit ($.02 per share) and was accounted for
+in fiscal 1993  as a cumulative change in accounting principle.
+
+7. Income per share
+Income per share is based on the weighted average number of shares
+outstanding during each period.  The dilutive effect of stock
+options is not material.  Net income per share for the 1992 
+
+
+
+
+
+                                                                    Page 32
+<PAGE>
+fiscal year has been restated to reflect the stock splits (see 
+note B. Stock Splits).
+
+8. Cash and Cash Equivalents
+Cash and cash equivalents represent cash and short-term, highly
+liquid investments with initial maturities of three months or less.  Cash
+equivalent investments amounted to $921,681 at July 2, 1994 and
+$19,325,000 at July 3, 1993.
+
+9. Fiscal year end date
+The Company's fiscal year is a 52-53 week year with its year ending
+on the Saturday closest to June 30th of each year.  Fiscal 1993
+ended July 3, 1993 and comprised 53 weeks, whereas fiscal 1994 and
+fiscal 1992 ended July 2, 1994 and June 27, 1992, respectively,
+comprised 52 weeks each.
+
+10. Other income
+Other income is primarily rental income received from leased
+departments and interest income.
+
+11. Reclassifications
+Certain reclassifications have been made to the prior years
+financial statements to conform to the classifications used in the
+current year.
+
+B. Stock Splits
+On September 13, 1993, the Board of Directors declared a three-
+for-two split of the Company's common stock effective October 4,
+1993, to stockholders of record on September 24, 1993.  This stock
+split was effected in the form of a 50% stock dividend by the
+distribution of one additional share for every two shares of stock
+already issued.  The par value of the common stock remained at
+$1.00 per share.  As a result, $13.68 million, representing the
+total par value of the new shares issued, were transferred from
+the capital in excess of par value account to common stock. 
+Common stock and paid in capital in excess of par value accounts
+as of July 3, 1993 and June 27, 1992 were adjusted to give effect
+to the stock split.  All amounts per share were adjusted to give
+retroactive effect to the stock split.
+
+On June 23, 1992, the Board of Directors declared a three-for-two
+split of the Company's common stock effective July 27, 1992, to
+stockholders of record on July 16, 1992.  This stock split was
+effected in the form of a 50% stock dividend by the distribution
+of one additional share for every two shares of stock already
+issued. The par value of the common stock remained at $1.00 per
+share.  As a result, $9.083 million, representing the total par
+value of the new shares issued, were transferred from the capital
+in excess of par value account to common stock.  Common stock and
+paid in capital in excess of par value accounts as of June 27,
+1992 were adjusted to give effect to the stock split.  All amounts
+per share were adjusted to give retroactive effect to the stock
+split.
+
+
+
+                                                                    Page 33
+<PAGE>
+C. Investments
+Investments are valued at the lower of cost or market and consist
+of the following:
+<TABLE>
+<CAPTION>
+_________________________________________________________________
+
+                                             Market   Value      
+                                   
+                                        July 2,        July 3,
+                                        1994           1993
+
+                                             (in thousands)      
+- - -----------------------------------------------------------------
+<S>                                    <C>            <C>
+<C>
+
+Short-Term: 
+   Mutual funds (cost: 1993,    
+     $11,482)                           $     0        $11,674
+   Bankers Acceptances, at cost
+     which approximates market                             985
+   Commercial Paper, at cost
+     which approximates market                           1,954
+   Bonds (cost: 1993 $2,000)                             1,994
+- - -------------------------------------------------------------------
+                                        $     0        $16,607     
+- - -------------------------------------------------------------------
+Long-Term:
+   Common Stock (cost: 1994,            
+     $34; 1993, $34)                    $     9        $    12
+   Preferred Stock (cost: 1994,
+     $69; 1993, $69)                         74             80     
+- - -------------------------------------------------------------------
+                                        $    83        $    92     
+      
+</TABLE>
+To reduce the carrying amount of the non-current investments to
+market, which was lower than the cost at July 2, 1994, an adjustment to
+the valuation allowance in the amount of $9,000 was made by a charge to
+stockholders' equity representing the net unrealized loss.  For the period
+ended July 3, 1993 the valuation allowance adjustment charged to stockholders'
+equity amounted to $11,000.
+
+
+
+
+
+                                                                    Page 34
+<PAGE>
+D. Property and Equipment
+Property and equipment consists of:
+<TABLE>
+<CAPTION>
+
+                                                                  
+                                        July 2,        July 3
+                                         1994            1993
+                                              (in thousands)      
+<S>                                     <C>          <C>
+<C>
+
+Land                                     $ 14,989     $ 14,974
+Buildings                                  78,626       60,261
+Store Fixtures and Equipment              155,359      120,635
+Leasehold Improvements                     35,581       25,029
+Construction in Progress                    1,100        1,594
+- - --------------------------------------------------------------
+                                          285,655      222,493    
+- - --------------------------------------------------------------
+Less Accumulated Depreciation
+  and Amortization                       <101,065>     <79,911>
+- - --------------------------------------------------------------
+                                         $184,590     $142,582
+- - --------------------------------------------------------------
+</TABLE>
+E. Accounts Payable
+Accounts payable consists of the following:
+<TABLE>
+<CAPTION>
+
+                                                                  
+                                        July 2,        July 3
+                                         1994            1993
+
+                                              (in thousands)      
+- - --------------------------------------------------------------
+<S>                                      <C>          <C>
+<C>
+
+Accounts Payable-Trade                   $114,549     $ 99,406
+Accounts Payable-Due Banks                  3,258        5,618
+Other                                      15,899       11,183    
+- - --------------------------------------------------------------
+                                         $133,706     $116,207
+- - --------------------------------------------------------------
+</TABLE>
+
+
+
+
+
+
+
+
+
+                                                                    Page 35
+<PAGE>
+F. Lines of Credit
+The Company had available committed lines of credit of $40.0 million 
+at July 2, 1994 and July 3, 1993.  The Company also had uncomitted lines
+of credit of $130.0 million and $60.0 million at July 2, 1994 and July 3,  
+1993, respectively.  Short-term borrowings outstanding under these lines
+were $65.0 million and $0 at July 2, 1994 and July 3, 1993, respectively.
+Letters of credit outstanding against these lines were $50.4 million and
+$39.7 million at July 2, 1994 and July 3, 1993, respectively.
+
+The maximum borrowings outstanding under these lines were $65.0 million 
+during fiscal 1994. The average borrowings outstanding under these lines
+were $15.7 million during fiscal 1994.  There were no borrowings under
+these lines of credit during fiscal 1993.
+
+The weighted average interest rate on outstanding borrowings was 4.9% at
+July 2, 1994.  The weighted average interest rate on outstanding borrowings
+was 3.8% during fiscal 1994.
+
+The Company's committed line of credit renews annually and is available
+through 1998.  The uncommitted lines of credit are cancellable at any time.
+
+Short-term borrowings against these lines of credit bear interest 
+at or below the lending bank's prime rate.  The $40 million committed line
+of credit requires a commitment fee on the unused portion of 1/5 of 1
+percent.
+
+G. Long-Term Debt
+      Long-term debt consists of:
+<TABLE>
+<CAPTION>
+
+                                                                 
+                                        July 2,        July 3
+                                         1994            1993
+
+                                            (in thousands)       
+- - ---------------------------------------------------------------------- 
+<S>                                     <C>           <C>
+<C>
+
+Subordinated Notes, 10.6%, due in
+  annual $8 million payments from
+  June 1996 to June 2005                $ 80,000       $ 80,000
+Industrial Revenue Bonds 9.78%,
+  due in semi-annual payments of
+  various amounts from September 1,
+  1996 to September 1, 2010               10,000         10,000
+Urban Development Action Grant, non-
+  interest bearing, due April 1999           917            917
+Promissory note due at various dates
+  through 2000 (interest rate
+  imputed at 10.6%)                          506            559
+Other                                         --             65
+- - ----------------------------------------------------------------------
+Subtotal                                  91,423         91,541
+
+Less current portion                         <54>          <113>  
+- - ----------------------------------------------------------------------
+Long-Term Debt                          $ 91,369        $91,428  
+
+</TABLE>
+The Industrial Revenue Bonds and Urban Development Action Grant
+were issued in connection with the construction of the Company's
+distribution center.  The Bonds are secured by a first mortgage on
+the Company's distribution center.  The Urban Development Action
+Grant was secured by a second mortgage on the facility.
+
+Certain indebtedness totaling $10,917,000 are secured by land and
+buildings with a net book value of $20,641,267 at July 2, 1994.
+
+Long-term debt maturing in each of the next five fiscal years is
+as follows: 1995 - $54,000; 1996 - $8,066,000; 1997 - $8,393,000;
+1998 - $8,431,000 and 1999 - $9,393,000.
+
+Several loan agreements of the Company contain restrictions which, among
+other things, require maintenance of certain financial ratios, restrict
+encumbrance of assets and creation of indebtedness, and limit the payment
+of dividends.  At July 2, 1994, $164,745,000 of the Company's retained 
+earnings of $305,729,000 were unrestricted and available for the payment
+of dividends under the most restrictive terms of the agreements.
+                                                                    Page 36
+<PAGE>
+H. Sales from Leased Departments
+Sales from certain leased departments, included in net sales, amounted to
+$18.8 million, $18.8 million and $15.8 million in fiscal 1994, fiscal 1993
+and fiscal 1992, respectively.
+
+I. Lease Commitments
+The Company leases 195 stores and office spaces under operating
+leases that will expire principally during the next twenty years. 
+The leases usually include renewal options and escalation clauses
+and provide for contingent rentals based on a percentage of gross
+sales.  
+
+The following is a schedule of future minimum lease payments under
+the operating leases:
+
+<TABLE>
+<CAPTION>
+                                                                  
+- - -----------------------------------------------------------------------
+                                        (in thousands)
+
+<S>                                    <C>
+<C>
+
+Fiscal Year                                                            
+- - ----------------------------------------------------------------------
+1995                                       46,064
+1996                                       44,687
+1997                                       42,984
+1998                                       41,138
+1999                                       38,188
+Thereafter                                309,257
+- - ----------------------------------------------------------------------
+Total minimum lease payments            $ 522,318
+- - ----------------------------------------------------------------------
+</TABLE>
+
+The above schedule of future minimum lease payments has not been
+reduced by future minimum sublease rental income of $8,790,000
+under non-cancelable subleases and other contingent rental
+agreements.
+
+Total rental expenses under operating leases for the periods ended
+July 2, 1994, July 3, 1993 and June 27, 1992 were $47,333,000, $39,256,000
+and $36,095,000, respectively, including contingent rentals of $1,511,000,
+$989,000 and $876,000.  Rent expense for the above periods has not been 
+reduced by sublease rental income of $4,853,000, $6,877,000 and $6,710,000
+which has been included in other income for the periods ended July 2, 1994,
+July 3, 1993 and June 27, 1992, respectively.
+
+The Company has issued irrevocable letters of credit in the amount
+of $11,302,329 to guarantee payment and performance under certain
+leases and insurance contracts.
+
+J. Employee Retirement Benefit Plans
+The Company has a noncontributory profit-sharing plan covering
+full-time employees who meet age and service requirements.  Under
+the plan, the Company's contribution is determined annually by 
+                                                                    Page 37
+<PAGE>
+the Board of Directors.  Profit sharing contributions were
+$4,167,000, $3,739,000 and $3,034,000, respectively, for the
+periods ended July 2, 1994, July 3, 1993 and June 27, 1992.
+
+K. Income Taxes
+The provision for income taxes is summarized as follows:
+<TABLE>
+<CAPTION>
+                                                                  
+<S>                           <C>          <C>         <C>
+<C>
+- - ----------------------------------------------------------------------
+Year ended                    1994         1993        1992
+                                      (in thousands)
+- - ----------------------------------------------------------------------
+Current:
+Federal                       $24,779     $20,795      $16,025
+State and Local                 3,075       3,309        2,619
+- - ----------------------------------------------------------------------
+Subtotal                       27,854      24,104       18,644
+Deferred                         (826)        408         (652)   
+- - ----------------------------------------------------------------------
+Total                         $27,028     $24,512      $17,992
+- - ----------------------------------------------------------------------
+</TABLE>
+
+A reconciliation of the Company's effective tax rate with the
+statutory federal tax rate is as follows:                          
+<TABLE>
+<CAPTION>
+
+<S>                              <C>         <C>       <C>
+<C>
+
+Year ended                       1994        1993      1992  
+- - ----------------------------------------------------------------------
+Tax at statutory rate            35.0%       34.0%     34.0%
+State income taxes, net
+  of federal benefit              2.8         3.2       3.5
+Job tax credit                    (.9)        (.8)     (1.4)
+Other charges                      .4          .3        .4        
+- - ----------------------------------------------------------------------
+Effective tax rate               37.3%       36.7%     36.5%
+- - ----------------------------------------------------------------------
+</TABLE>
+
+As discussed in Note A.6. the Company adopted SFAS No. 109 for the
+fiscal year beginning June 28, 1992, and the cumulative effect of
+this change is reported in the 1993 consolidated statement of
+operations.  Prior year's financial statements have not been
+restated to apply the provisions of SFAS No. 109.  Deferred income
+taxes for 1994 and 1993 reflect the impact of "temporary differences"
+between amounts of assets and liabilities for financial reporting
+purposes and such amounts as measured by tax laws.  These
+temporary differences are determined in accordance with SFAS No.
+109 and are more inclusive in nature than "timing differences" as
+determined under previously applicable accounting principles.
+
+On August 10, 1993 the Omnibus Budget Reconciliation Act was
+enacted which increases federal tax rates from 34% to 35%.  The
+                                                                    Page 38
+<PAGE>
+effect on current and deferred taxes of this change in tax rates was
+not significant and was recognized in income during fiscal 1994.
+
+Temporary differences which give rise to deferred tax assets and
+liabilities at July 2, 1994 and  July 3, 1993 are as follows:
+<TABLE>
+<CAPTION>
+- - ------------------------------------------------------------------------------------------------------------
+                                           1994                                     1993
+                               Deferred Tax         Deferred Tax       Deferred Tax         Deferred Tax
+                                 Assets              Liabilities           Assets            Liabilities
+                                                            (in thousands)              
+- - ------------------------------------------------------------------------------------------------------------
+
+<S>                               <C>                 <C>                    <C>              <C>
+<C>
+Current:
+  Allowance for doubtful
+    accounts                       $1,954                                    $1,660              
+  Compensated absences                676                                       543             
+  Inventory costs
+    capitalized for IRS
+    purposes                        2,845                                     2,012             
+  Insurance Reserves                2,746                                     1,206             
+  Prepaid Items deductible
+    for IRS purposes                                  $1,439                    ---              $ 980     
+- - -------------------------------------------------------------------------------------------------------------
+                                    8,221              1,439                  5,421                980  
+- - -------------------------------------------------------------------------------------------------------------   
+Non-Current:
+    Depreciation                                       8,281                    ---              7,285
+    Straight line method of
+      expending rent payment        1,261                                     1,742              ---   
+    Other                             190                                       227              ---         
+- - --------------------------------------------------------------------------------------------------------------
+                                   $1,451             $8,281                 $1,969             $7,285    
+- - --------------------------------------------------------------------------------------------------------------
+</TABLE>
+No valuation account is deemed necessary.
+
+L. Supplementary Income Statement Information
+
+<TABLE>
+<CAPTION>
+
+<S>                           <C>          <C>         <C>
+<C>                                                                 
+- - ----------------------------------------------------------------------
+Year ended                    1994         1993        1992
+                                   (in thousands)
+
+- - ----------------------------------------------------------------------
+Advertising                   $38,793     $35,384      $29,881
+
+Repairs and Maintenance        13,330      10,696       10,421   
+- - ----------------------------------------------------------------------
+</TABLE>
+                                                                    Page 39
+<PAGE>
+All other required items are omitted since they are less than 1% of total
+revenues.
+
+M. Incentive Plans
+In April 1983, the stockholders of the Company adopted a Stock Option and Stock
+Appreciation Rights Plan (the "1983 Plan") which authorized the granting of
+options for the issuance of 1,125,000 shares of common stock.  During 1988
+the stockholders authorized the issuance of an additional 675,000 shares of
+common stock for a total of 1,800,000 shares.  The 1983 Plan provided for the
+issuance of incentive stock options, nonqualified stock options and stock 
+appreciation rights.  This Plan expired in April, 1993.  In November, 1993, 
+the stockholders of the Company approved a stock incentive plan 
+(the "1993 Plan"), authorizing the granting of incentive stock options,
+non-qualified stock options, stock appreciation rights, restricted stock, 
+performance stock and other stock based compensation.  A total of 450,000 shares
+of common stock have been reserved for issuance under the 1993 Plan.  A 
+summary of stock options transactions in fiscal 1992, 1993 and 1994  is as 
+follows (all data have been restated to reflect the three-for-two stock split):
+
+<TABLE>
+<CAPTION>
+- - -----------------------------------------------------------------------                                                             
+                               Number        Option Price   
+                               of Shares        Per Share   
+- - -----------------------------------------------------------------------     
+<S>                          <C>           <C>
+<C>
+Options outstanding
+  June 27, 1991     . . . . . 1,409,730    $ 4.48 to $ 8.30
+Options canceled    . . . . .   (90,291)   $ 4.48 to $ 8.30
+Options exercised   . . . . .  (777,516)   $ 4.48 to $ 8.30      
+- - ----------------------------------------------------------------------
+Options outstanding
+  June 27, 1992     . . . . .   541,923    $ 4.48 to $ 8.30
+Options issued      . . . . .     9,000    $11.08 
+Options canceled    . . . . .   (20,236)   $ 4.48 to $ 8.22
+Options exercised   . . . . .  (151,286)   $ 4.75 to $ 8.22      
+- - -----------------------------------------------------------------------
+Options outstanding
+  July 3, 1993      . . . . .   379,401    $ 4.48 to $ 8.30
+Options issued      . . . . .    25,100    $24.69 
+Options cancelled   . . . . .    (5,445)   $ 4.74 to $ 7.37
+Options exercised   . . . . .   (81,011)   $ 4.74 to $ 7.37
+- - -----------------------------------------------------------------------
+Options outstanding
+  July 2, 1994      . . . . .   318,045    $ 4.74 to $24.69
+Options exercisable . . . . .   292,945    $ 4.74 to $ 7.37
+- - ----------------------------------------------------------------------
+</TABLE>
+
+Included in the above are options to purchase 2,250 shares of stock
+issued to a member of the Board of Directors at $8.22 per share which
+were exercised during the year ended July 2, 1994.  To date only stock 
+options have been granted under both the 1983 Plan and the 1993 Plan. 
+                         
+                                                                    Page 40
+<PAGE>
+N. Other Post Employment Benefits
+In November, 1992, the Financial Accounting Standards Board issued
+Statement of Financial Accounting Standards No. 112, "Employers'
+Accounting for Post-Employment Benefits."  This pronouncement will
+not have an effect on the Company's consolidated financial
+statements as the benefits covered in the pronouncements are not
+provided by the Company.
+
+O. Interim Financial Information (Unaudited)
+(All amounts in thousands except per share data.)
+<TABLE>
+<CAPTION>
+- - -------------------------------------------------------------------------------------------------------------
+                                                                                       Income (Loss)  
+                                                         Income (Loss)                 Per Share
+                                                         Before                        Before
+                                                         Cumulative                    Cumulative
+                                                         Effect of                     Effect of    Income
+                                          Provision      Change in                     Change in    (Loss)
+                                          (Benefit)      Accounting     Net            Accounting   per
+             Net            Gross         for Income     for Income     Income         for Income   Share
+             Sales          Profit        Taxes          Taxes          (Loss)         (1) Taxes    (1)
+                                                                                                                     
+
+<S>          <C>            <C>           <C>            <C>            <C>            <C>          <C>       
+<C>
+
+1994:
+First        $241,215       $85,445       $(1,352)       $(2,916)       $(2,916)       $(.07)        $(.07)       
+Second        625,420       218,924        33,914         56,082         56,082         1.38          1.38   
+Third         327,413       114,453         1,727          2,828          2,828          .07           .07 
+Fourth        274,392        92,800        (7,261)       (10,611)       (10,611)        (.26)         (.26)   
+1993:
+First        $192,587       $68,234       $(2,277)       $(3,889)       $(3,288)       $(.10)       $(.08)
+Second        497,498       171,427        25,632         43,677         43,677         1.07         1.07
+Third         257,323        88,831         1,125          1,901          1,901          .05          .05
+Fourth        250,897        91,507            32            613            613          .02          .02
+- - -----------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+(1) Income per share is based on the weighted average number of
+shares outstanding during each of the quarters.  The sum of the
+four quarters may not equal the full year computation due to
+rounding.
+
+On an interim basis the Company values inventory using the gross
+profit method and at year-end values inventory at the lower of
+FIFO cost or market as determined by the retail inventory method. 
+The annual adjustment for the difference between actual gross
+profit and interim estimated gross profit is recorded in the fourth 
+quarter of the fiscal year.  Results of quarterly operations are impacted
+by the highly seasonal nature of the Company's business, timing of certain
+holiday selling seasons and the comparability of calendar weeks within a
+quarter as a result of the 52/53 week fiscal years.
+                                                                    Page 41
+<PAGE>
+P. Fair Value of Financial Instruments
+The carrying values of cash and cash equivalents, short-term
+investments, accounts receivable, accounts payable-trade, and
+accounts payable-due to banks approximate fair value because of
+the short maturities of these items.
+
+Interest rates that are currently available to the Company for
+issuance of notes payable and long-term debt (including current
+maturities) with similar terms and remaining maturities are used
+to estimate fair value for debt issues. The estimated fair value
+of notes payable and long-term debt (including current maturities)
+are as follows:
+<TABLE>
+<CAPTION>
+                                       July 2,                      July 3,
+                                        1994                         1993
+                                                   (in thousands)
+            
+                                  Carrying       Fair         Carrying     Fair
+                                  Amount         Value         Amount      Value
+
+<S>                              <C>           <C>           <C>       <C>
+<C>  
+Notes Payable                    $65,020       $ 65,020            --         --
+
+Long-Term Debt
+ (including current maturities)   91,423        102,800       $91,541   $110,000
+</TABLE>
+
+The fair values presented herein are based on pertinent
+information available to management as of July 2, 1994.  Although
+management is not aware of any factors that could significantly
+affect the estimated fair value amounts, such amounts have not
+been comprehensively revalued for purposes of these financial
+statements since that date, and current estimates of fair value
+may differ from amounts presented herein. 
+
+Q. Subsequent Event
+On September 29, 1994, the Company received summons and complaint in two
+separate purported class action lawsuits.  Each of the complaints seeks 
+unspecified damages and alleges a cause of action arising under certain 
+federal securities laws for alleged material misstatements and omissions 
+in public statements by the Company and three executive officers purportedly
+causing the market price of the Company's common stock to be artificially 
+inflated during the period from November 1, 1993 through September 21, 1994,
+inclusive.  The Company is unable to fully assess the impact of such actions
+at this time but believes they are without merit.  Accordingly, no provision
+for any loss that may result upon resolution of these matters has been made
+in the accompanying consolidated financial statements.
+
+- - ------------------------------------------------------------------------
+Dividend Policy
+
+The Company has not paid cash dividends in the past and does not
+currently plan to do so.  It is the present policy of the
+Company's Board of Directors to retain future earnings to finance
+the growth and development of the Company's business.  Any payment
+of cash dividends in the future will be at the discretion of the
+Company's Board of Directors and will depend upon the financial
+condition, capital requirements and earnings of the Company as
+well as other factors which the Board of Directors may deem
+relevant.
+Market for the Registrant's Common Equity and Related Stockholder
+Matters
+
+The Company's Common Stock is traded on the New York Stock
+Exchange, Inc. and its trading symbol is "BCF."  The following
+table provides the high and low closing prices on the New York
+Stock Exchange for each fiscal quarter for the period from June
+28, 1992 to July 2, 1994 and for the two months ended August 31,
+1994 (all data has been restated to reflect the three-for-two
+stock splits effected on July 27, 1992 and on September 24, 1993):
+
+
+
+
+                                                                    Page 42
+<PAGE>
+<TABLE>
+<CAPTION>
+
+- - -----------------------------------------------------------------
+Period                        Low Price           High Price
+- - ----------------------------------------------------------------
+<S>                                <C>                 <C>
+<C>
+June 28, 1992 to                   7  7/8              11 3/8
+September 26, 1992
+- - -----------------------------------------------------------------
+September 27, 1992 to              10 3/4              16 
+December 26, 1992
+- - ------------------------------------------------------------------
+December 27, 1992 to               13 7/8              18 5/8
+March 27, 1993
+- - ------------------------------------------------------------------
+March 28, 1993 to                  13 5/8              18 3/8
+July 3, 1993
+- - ------------------------------------------------------------------
+July 4, 1993 to                    13 1/8              19 3/8                    
+October 2, 1993
+- - ------------------------------------------------------------------
+October 3, 1993 to                 19                  24 1/2                  
+January 1, 1994
+- - ------------------------------------------------------------------
+January 2, 1994 to                 18                  28 1/4
+April 2, 1994
+- - ------------------------------------------------------------------
+April 3, 1994 to                   16 3/4              27 1/2
+July 2, 1994
+- - ------------------------------------------------------------------
+July 3, 1994 to                    16 5/8              24 3/4
+August 31, 1994
+- - ------------------------------------------------------------------
+</TABLE>
+     As of August 31, 1994, there were 473 record holders of the
+Corporate Common Stock.  The number of record holders does not
+reflect that number of beneficial owners of the Company's Common
+Stock for whom shares are held by Lede & Co., certain brokerage
+firms and others. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 43
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+                         Schedule V-Burlington Coat Factory Warehouse Corporation
+                                      Property, Plant and Equipment-Cost
+
+                                        (All amounts in thousands)
+    
+                                Balance at      Additions at                      Other Changes      Balance at 
+      Description             July 03, 1993         Cost        Retirements        Add (Deduct)     July 02, 1994
+- - ------------------------------------------------------------------------------------------------------------------
+<S>                               <C>             <C>             <C>                <C>               <C>
+<C>  
+Land                              $14,974            $15                                               $14,989  
+Building                           60,261         17,071                             $1,294             78,626
+Store Fixtures and Equipment      120,635         35,001         $(277)                                155,359
+Leasehold Improvements             25,029         10,799          (247)                                 35,581
+Construction in Progress            1,594          1,100                             (1,594)             1,100 
+ 
+                            --------------------------------------------------------------------------------------
+                                 $222,493        $63,986         $(524)               ($300)          $285,655 
+                            ======================================================================================
+ 
+                                Balance at      Additions at                      Other Changes      Balance at 
+      Description             June 27, 1992         Cost        Retirements        Add (Deduct)     July 03, 1993
+- - ------------------------------------------------------------------------------------------------------------------
+
+Land                              $10,420         $4,554                                               $14,974  
+Building                           53,038          7,223                                                60,261
+Store Fixtures and Equipment       99,469         20,608          $(64)               $622             120,635
+Leasehold Improvements             19,760          5,867          (598)                                 25,029
+Construction in Progress               10          1,584                                                 1,594
+ 
+                            --------------------------------------------------------------------------------------
+                                 $182,697        $39,836         $(662)               $622            $222,493 
+                            ======================================================================================
+
+                                Balance at      Additions at                      Other Changes      Balance at 
+      Description             June 29, 1991         Cost        Retirements        Add (Deduct)     June 27, 1992
+- - ------------------------------------------------------------------------------------------------------------------
+
+Land                               $9,964            $10         $(240)                $686            $10,420  
+Building                           48,135          3,413          (754)               2,244             53,038
+Store Fixtures and Equipment       81,963         18,994          (924)                (564)            99,469
+Leasehold Improvements             16,704          3,882          (682)                (144)            19,760
+Construction in Progress                0             10                                                    10 
+ 
+                            --------------------------------------------------------------------------------------
+                                 $156,766        $26,309       $(2,600)              $2,222           $182,697 
+                            ======================================================================================
+</TABLE>
+                                                                    Page 44
+<PAGE>
+<TABLE>
+<CAPTION>
+ 
+                               Schedule VI-Burlington Coat Factory Warehouse Corporation
+                                 Property, Plant and Equipment-Accumulated Depreciation
+
+                                           (All amounts in thousands)
+
+                                                 Additions
+                                Balance at      Charged to                        Other Changes      Balance at 
+      Description             July 03, 1993      Expense        Retirements        Add (Deduct)     July 02, 1994
+- - ------------------------------------------------------------------------------------------------------------------
+<S>                                <C>            <C>           <C>                     <C>           <C>
+<C>       
+Building                          $15,274         $3,669                                               $18,943
+Store Fixtures and Equipment       54,536         14,956         $(153)                                 69,339
+Leasehold Improvements             10,101          2,834          (152)                                 12,783
+
+                            --------------------------------------------------------------------------------------
+                                  $79,911        $21,459         $(305)                 $0            $101,065 
+                            ======================================================================================
+ 
+
+
+                                                 Additions
+                                Balance at      Charged to                        Other Changes      Balance at 
+      Description             June 27, 1992      Expense        Retirements        Add (Deduct)     July 03, 1993
+- - ------------------------------------------------------------------------------------------------------------------
+
+Building                          $12,471         $2,803                                               $15,274
+Store Fixtures and Equipment       42,437         12,145          $(46)                                 54,536
+Leasehold Improvements              8,183          2,142          (224)                                 10,101
+
+                            --------------------------------------------------------------------------------------
+                                  $63,091        $17,090         $(270)                 $0             $79,911 
+                            ======================================================================================
+
+
+
+                                                 Additions
+                                Balance at      Charged to                        Other Changes      Balance at 
+      Description             June 29, 1991      Expense        Retirements        Add (Deduct)     June 27, 1992
+- - ------------------------------------------------------------------------------------------------------------------
+
+Building                          $10,149         $2,379         $(132)                $75             $12,471
+Store Fixtures and Equipment       33,085          9,835          (483)                                 42,437
+Leasehold Improvements              6,789          1,760          (291)                (75)              8,183
+
+                            --------------------------------------------------------------------------------------
+                                  $50,023        $13,974         $(906)                 $0             $63,091 
+                            ======================================================================================
+
+
+</TABLE>
+                                                                     Page 45
+<PAGE>
+
+
+
+<TABLE>
+<CAPTION>
+
+               BURLINGTON COAT FACTORY WAREHOUSE CORPORATION
+             SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+                         (ALL AMOUNTS IN THOUSANDS)
+
+                                                                  
+- - ---------------------------------------------------------------------------------------------
+         COL. A               COL. B               COL. C             COL. D       COL. E
+- - ---------------------------------------------------------------------------------------------
+
+      DESCRIPTION           BALANCE AT                CHARGED TO    DEDUCTIONS-   BALANCE AT
+                            BEGINNING    CHARGED TO    OTHER        ACCOUNTS       END OF
+                            OF PERIOD     EXPENSE     ACCOUNTS      WRITTEN OFF    PERIOD
+- - ---------------------------------------------------------------------------------------------
+<S>                          <C>           <C>                      <C>          <C>           
+<C>
+
+Period ending 7/03/93
+- - ---------------------
+ALLOWANCE FOR DOUBTFUL
+ ACCOUNTS-
+ ACCOUNTS RECEIVABLE          $3,723        $3,690       $0         $(3,176)     $4,237  
+
+PERIOD ENDING 7/02/94
+- - ---------------------
+ALLOWANCE FOR DOUBTFUL 
+ ACCOUNTS-
+ ACCOUNTS RECEIVABLE          $4,237        $4,821       $0         $(4,063)     $4,995  
+
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 46
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+                    [THIS PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 47
+<PAGE>
+
+                                                             File No. 1-8739
+
+                                                                 
+
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                           Washington D.C. 20549
+
+                            EXHIBITS FILED WITH
+
+                                 FORM 10-K
+
+                           FOR FISCAL YEAR ENDED
+
+                                July 2, 1994
+
+                                   under
+
+                    The Securities Exchange Act of 1934
+
+
+                                                       
+
+
+
+               BURLINGTON COAT FACTORY WAREHOUSE CORPORATION
+
+           (Exact Name of Registrant as specified in its Charter)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 48
+                                                                 
+<PAGE>
+
+                             INDEX TO EXHIBITS
+
+      Exhibits                                               Page No.
+
+        3.1        Articles of Incorporation, as Amended        1/
+
+        3.2        By-laws                                      1/
+
+       10.1        1993 Stock Incentive Plan                    1/
+
+       10.2        Revolving Credit Agreement dated             2/
+                     August 30, 1985 between the Company
+                     and BancOhio National Bank as amended
+                     through Amendment No. 3
+
+       10.3        Amendment No. 4 to Revolving Credit          1/
+                     Agreement between the Company and
+                     National City Bank, Columbus (successor
+                     to BancOhio National Bank)
+
+       10.4        Loan Agreement dated as of                   2/
+                     September 1, 1985 by and between
+                     New Jersey Economic Development 
+                     Authority and Burlington Coat Factory
+                     Warehouse of New Jersey, Inc.
+
+       10.5        Assignment of Lease dated as of              2/
+                     September 1, 1985 from Burlington
+                     Coat Factory Warehouse of New
+                     Jersey, Inc. to New Jersey Economic
+                     Development Authority
+
+       10.6        Mortgage dated September 20, 1985            2/
+                     between Burlington Coat Factory of
+                     New Jersey, Inc. and New Jersey 
+                     Economic Development Authority
+
+_______________
+<F1>
+(1)      Incorporated by reference to Exhibits filed with the
+         Company's Annual Report on Form 10-K for the year ended July
+         3, 1993, File No. 1-8739.
+<F2>
+(2)      Incorporated by reference to Exhibits filed with the
+         Company's Annual Report on Form 10-K for the year ended June
+         29, 1991, File No. 1-8739.
+
+
+
+
+
+
+
+
+                                                                    Page 49
+<PAGE>
+
+     Exhibits                                                 Page No.
+
+       10.7        Indenture of Trust dated as of               2/
+                     September 1, 1985 by and between
+                     New Jersey Economic Development 
+                     Authority and National Westminster
+                     Bank USA
+
+
+       10.8        Guarantee dated as of September 1, 1985      2/
+                     from the Company to New Jersey
+                     Economic Development Authority
+
+       10.9        Employees Profit Sharing Plan, as            1/
+                     amended September 30, 1988
+
+       10.10       Amendment No. 3 dated November 16,           1/
+                     1989, to Employees Profit Sharing
+                     Plan
+
+       10.11       Amendment No. 4, dated February 24,          1/
+                     1993, to Employees Profit Sharing 
+                     Plan
+
+       10.12       Note Agreement dated June 27, 1990           3/
+
+          22       Subsidiaries of Registrant                   53
+
+          24       Consent of Deloitte & Touche LLP             55
+                     independent certified public accountants, 
+                     to the use of their report on the financial 
+                     statements of the Company for the fiscal
+                     year ended July 2, 1994 in the Registration
+                     Statements of the Company on Form S-8,
+                     Registration No. 2-96332, No. 33-21569 
+                     and No. 33-51965
+
+          27       Financial Data Schedule                      57
+
+
+
+
+
+_______________
+
+<F3>
+(3) Incorporated by reference to the Exhibits filed within the
+Company's Current Report on Form 8-K dated June 27, 1990, File No.
+1-8739.
+
+
+
+
+
+
+
+                                                                    Page 50
+<PAGE>
+
+                                                                 EXHIBIT 22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 51
+
+<PAGE>
+                        SUBSIDIARIES OF THE COMPANY
+
+
+Burlington Coat Factory Warehouse Corporation is the parent
+corporation of two hundred and fifteen subsidiaries which
+operate "off-price" retail apparel stores in the United States.
+
+Burlington Coat Factory Realty Corp.,  a Delaware corporation,
+which buys, sells and otherwise deals in real estate in 
+connection with the Company's business.
+
+Burlington Coat Factory Warehouse, Inc., a Pennsylvania
+corporation, which leases the Company's store in Clifton Heights,
+Pennsylvania to one of the Company's operating subsidiaries.
+
+Monroe G. Milstein, Inc., a New York corporation, which operates a
+wholesale apparel business.
+
+LC Acquisition Corp., a New York corporation, which owns an
+interest in a manufacturer of coats.
+
+C.L.B., Inc., a Delaware corporation, through which the Company
+collects royalties from its subsidiaries for the use of its trade
+names.
+
+C.F.I.C. Corporation, a Delaware corporation, through which the
+Company invests excess funds.
+
+C.F.B., Inc., a Delaware corporation, through which the Company
+provides financing for its subsidiaries for the acquisition of
+their merchandise inventory and store fixtures.
+
+Burlington Coat Factory Warehouse de Mexico, S.A. de C.V., which is a
+holding company for the Company's Mexican operations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 52
+<PAGE>
+                                                                 EXHIBIT 24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 53
+<PAGE>
+INDEPENDENT AUDITORS' CONSENT
+
+We consent to the incorporation by reference in Registration Statements
+No. 2-96332, No. 33-21569 and No. 33-51965 of Burlington Coat Factory
+Warehouse Corporation and subsidiaries on Form S-8 of our report dated
+September 16, 1994 (September 29, 1994 as to Note Q), appearing in this
+Annual Report on Form 10-K of Burlington Coat Factory Warehouse Corporation 
+and subsidiaries for the year ended July 2, 1994.
+
+
+
+
+DELOITTE & TOUCHE LLP
+Philadelphia, Pennsylvania
+
+September 29, 1994
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 54
+<PAGE>
+                                                                 EXHIBIT 27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 55
+
+<PAGE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page 56
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION FROM THE REGISTRANT'S
+AUDITED FINANCIAL STATEMENTS FOR THE FISCAL YEAR ENDED JULY 2, 1994 AND IS
+QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUL-02-1994
+<PERIOD-END>                               JUL-02-1994
+<CASH>                                      21,236,000
+<SECURITIES>                                         0
+<RECEIVABLES>                               18,910,000
+<ALLOWANCES>                                 4,995,000
+<INVENTORY>                                468,921,000
+<CURRENT-ASSETS>                           528,822,000
+<PP&E>                                     285,655,000
+<DEPRECIATION>                             101,065,000
+<TOTAL-ASSETS>                             725,439,000
+<CURRENT-LIABILITIES>                      250,232,000
+<BONDS>                                     91,369,000
+<COMMON>                                    41,122,000
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                 328,735,000
+<TOTAL-LIABILITY-AND-EQUITY>               725,439,000
+<SALES>                                  1,468,440,000
+<TOTAL-REVENUES>                         1,480,676,000
+<CGS>                                      956,818,000
+<TOTAL-COSTS>                              956,818,000
+<OTHER-EXPENSES>                           436,753,000
+<LOSS-PROVISION>                             4,821,000
+<INTEREST-EXPENSE>                           9,873,000
+<INCOME-PRETAX>                             72,411,000
+<INCOME-TAX>                                27,028,000
+<INCOME-CONTINUING>                         45,383,000
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                45,383,000
+<EPS-PRIMARY>                                     1.12
+<EPS-DILUTED>                                     1.12
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

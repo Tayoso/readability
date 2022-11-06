@@ -1,0 +1,3061 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ eBJ3orPZDTW2vnddYTmxMAS3KTwUsYYENeoW0bjIT2w4TqSv4VdK9w607U7l2Zu5
+ glfYqMrA0yBuDk1s1akUBw==
+
+<IMS-DOCUMENT>0000950124-94-001408.txt : 19941005
+<IMS-HEADER>0000950124-94-001408.hdr.sgml : 19941005
+ACCESSION NUMBER:		0000950124-94-001408
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19940531
+FILED AS OF DATE:		19940823
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BIOMET INC
+		CENTRAL INDEX KEY:			0000351346
+		STANDARD INDUSTRIAL CLASSIFICATION:	3842
+		IRS NUMBER:				351418342
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12515
+		FILM NUMBER:		94545502
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AIRPORT INDUSTRIAL PARK
+		STREET 2:		P O BOX 587
+		CITY:			WARSAW
+		STATE:			IN
+		ZIP:			46581-0587
+		BUSINESS PHONE:		2192676639
+
+	MAIL ADDRESS:	
+		STREET 1:		AIRPORT INDUSTRIAL PARK
+		STREET 2:		P O BOX 587
+		CITY:			WARSAW
+		STATE:			IN
+		ZIP:			46581-0587
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K DATED 5/31/94
+<TEXT>
+
+<PAGE>   1
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                   FORM 10-K
+      (Mark One)
+         [X]     ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+                 SECURITIES EXCHANGE ACT OF 1934 [FEE REQUIRED]
+
+                 For the fiscal year ended MAY 31, 1994.
+
+                                       OR
+
+         [  ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+                 SECURITIES EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+
+                 For the transition period from __________ to  ____________.
+
+                         Commission file No. 0-12515.
+                                      
+                             [BIOMET, INC. LOGO]
+
+            (Exact name of registrant as specified in its charter)
+                                      
+       INDIANA                                          35-1418342 
+(State of incorporation)                     (IRS Employer Identification  No.)
+
+AIRPORT INDUSTRIAL PARK, P.O. BOX 587, WARSAW, INDIANA              46581-0587
+    (Address of principal executive offices)                        (Zip Code)
+
+                                (219) 267-6639
+             (Registrant's telephone number, including area code)
+                                       
+       Securities registered pursuant to Section 12(b) of the Act:  None
+                                       
+          Securities registered pursuant to Section 12(g) of the Act:
+                                       
+COMMON SHARES, WITHOUT PAR VALUE               RIGHTS TO PURCHASE COMMON SHARES
+      (Title of class)                                (Title of class)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+Yes   X    No          
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.  [X]
+
+The aggregate market value of the Common Shares held by nonaffiliates of the
+registrant, based on the average bid and asked prices of the Common Shares on
+July 19, 1994, as reported by NASDAQ, was approximately $1,003,128,000.  As of
+July 19, 1994, there were 114,517,051 Common Shares outstanding.
+
+
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+                                                        PARTS OF FORM 10-K
+IDENTITY OF DOCUMENT                                   INTO WHICH DOCUMENT
+                                                         IS INCORPORATED
+
+Proxy Statement with respect to the 1994 Annual 
+Meeting of Shareholders of the Registrant                       Part III
+
+The Index to Exhibits is at page ____ in the sequential numbering system. 
+Total pages: ______.
+<PAGE>   2
+                                   PART  I
+
+ITEM 1.  BUSINESS.
+
+GENERAL
+
+         Biomet, Inc., an Indiana corporation incorporated in 1977 ("Biomet"),
+and its subsidiaries design, manufacture and market products used primarily by
+orthopedic medical specialists in both surgical and non-surgical therapy,
+including reconstructive and trauma devices, electrical bone growth
+stimulators, orthopedic support devices, operating room supplies, powered
+surgical instruments, general surgical instruments, arthroscopy products and
+oral-maxillofacial products and instruments.  Biomet and its subsidiaries
+currently operate manufacturing and/or office facilities in Warsaw, Indiana;
+Parsippany, New Jersey; Ontario, Aliso Viejo and Redding, California;
+Jacksonville, Florida; Guaynabo, Puerto Rico; Bridgend, South Wales; Swindon,
+England; Milan, Italy; Berlin and Ansbach, Germany and Ontario, Canada.
+Biomet markets its products in the United States through independent commission
+sales representatives, in the United Kingdom and Germany primarily through
+direct factory sales representatives, and in other international markets
+through both independent and direct factory sales representatives and specialty
+medical product dealers.  Electro-Biology, Inc. ("EBI"), Biomet's principal
+domestic subsidiary, sells electrical stimulation and external fixation devices
+through direct factory sales representatives in the United States and the
+United Kingdom and through specialty medical product dealers in the remainder
+of its markets.  Biomet and its subsidiaries currently distribute products in
+approximately 100 countries.
+
+         Unless the context otherwise requires, the term "Company" as used
+herein refers to Biomet and all of its subsidiaries.
+
+PRODUCTS
+
+         The Company's products can be divided into three groups:
+Reconstructive Products, EBI Products and Other Products. The Company's
+Reconstructive Products (principally hips, knees and shoulders) and its Other
+Products (fixation and trauma devices, orthopedic support devices, operating
+room supplies and arthroscopy products are designed, manufactured and marketed
+under the Biomet, Arthrotek and Effner trade names (the "Biomet Products").
+Also included in Other Products are oral-maxillofacial products and instruments
+and general surgical instruments which are marketed under the Walter Lorenz
+trade name.  Through EBI, the Company  develops, manufactures and markets
+non-invasive and implantable electrical bone growth and spinal fusion
+stimulators and distributes the Orthofix line of external fixation devices (the
+"EBI Products").  The following table shows the net sales and percentages of
+net sales contributed by each of these product groups for each of the three
+fiscal years ended May 31, 1994:
+
+<TABLE>
+<CAPTION>
+                                                             YEARS ENDED MAY 31,      
+                                                 ---------------------------------------
+                                                       (DOLLAR AMOUNTS IN THOUSANDS)
+                                  ------------------------------------------------------------------------
+                                         1994                          1993                           1992
+
+                                            PERCENT                      PERCENT                        PERCENT
+                                  NET       OF NET            NET        OF NET             NET         OF NET
+                                SALES       SALES           SALES        SALES            SALES         SALES    
+                               ------       -----           -----        -----            ------        -----
+<S>                          <C>          <C>            <C>             <C>            <C>             <C>
+Reconstructive  Products     $218,145       58%          $188,963          56%          $162,259         59%
+
+EBI Products                   88,714       24             82,136          25             73,549         27
+
+Other Products                 66,436       18             64,274          19             38,987         14                       
+                              -------     -----           --------        ----           -------        ----
+
+Total                        $373,295      100%          $335,373         100%          $274,795        100%       
+                              =======     =====           ========        ====           =======        ====
+</TABLE>      
+
+
+RECONSTRUCTIVE PRODUCTS
+
+         Reconstructive products are used to replace joints which have
+deteriorated as a result  of disease (various forms of arthritis and
+osteoporosis) or injury.  Reconstructive joint surgery involves the
+modification of the area surrounding the affected joint and the insertion of
+one or more manufactured components.  The Company's primary reconstructive
+joints are the hip, knee and shoulder, but it also has the capability of
+producing other peripheral joints (including the ankle, elbow and great toe).
+The Company also produces the associated instruments required by the orthopedic
+surgeon to implant the Company's reconstructive products.
+
+                                      1
+<PAGE>   3
+         All femoral hip prostheses produced by the Company consist of a
+femoral  head, neck and stem, which can be forged or machined depending on the
+design and material used. Because of variations in human anatomy and differing
+design preferences among surgeons, femoral prostheses are manufactured by the
+Company in a variety of head sizes, neck lengths, stem lengths, stem
+cross-sections and configurations.  The Company currently offers several total
+hip systems, most of which utilize titanium or cobalt chromium alloy femoral
+components and ultra-high molecular weight polyethylene-lined acetabular
+components.  Many of the femoral  prostheses utilize a porous coating either to
+enhance the attachment of bone cement to the stem or with a press-fit
+configuration which allows the component's use without bone cement.
+
+         In February 1994, the United States Food and Drug Administration
+("FDA") cleared several of Biomet's porous-coated hip components for cementless
+use.   This clearance to market was granted pursuant to Section 510(k) of the
+Federal Food, Drug and Cosmetic Act and is specifically for noncemented
+applications in skeletally mature patients undergoing primary hip replacement
+surgery as a result of noninflammatory degenerative joint diseases including
+osteoarthritis, avascular necrosis, traumatic arthritis, slipped capital
+epiphysis, fused hip, fracture of the pelvis and diastrophic variant.  The
+510(k) cleared hip components include Mallory-Head Porous Primary Femoral
+Components, Bi-Metric Porous Primary Femoral Components, Integral Porous
+Primary Femoral Components, Taperloc Porous Primary Femoral Components,
+Ranawat/Burstein Porous Primary Femoral Components, Impact Modular Femoral
+Components, Mallory-Head Modular Femoral Components, PMI Primary Femoral
+Components, Mallory-Head Acetabular Components, Universal/QSAC Acetabular
+Components, Ranawat/Burstein/Rx90 Acetabular Components and Impact Acetabular
+Components.
+
+         In July 1993, the Company received FDA clearance to market and sell
+ArCom, a new manufacturing method for polyethylene,  for use in all of its
+polyethylene components.  ArCom devices are machined from uniform compression
+molded bar stock, manufactured by Biomet, or molded directly from high
+molecular weight polyethylene resin.  The processes used to mold devices and
+manufacture bar stock are designed to maximize mechanical and wear properties
+of the polyethylene bearing material.  In addition, the finished components are
+packaged in argon, an inert gas, to avoid oxidative degradation during and
+after sterilization.
+
+         Since 1985, one of Biomet's largest and fastest growing reconstructive
+systems has been the Mallory-Head Total Hip System.  The Mallory-Head Hip
+System is designed to meet  surgeon needs for both primary and revision total
+hip arthroplasty.  The primary femoral components feature a specific proximal
+finned geometry for cementless indications and a slightly different proximal
+ribbed geometry for those patients requiring fixation with bone cement.  The
+goal of each of these primary femoral stems is to ensure proximal loading of
+the femur to recreate near-normal bone stresses.
+
+         The Mallory-Head revision femoral components provide innovative
+solutions for difficult revision cases.  The long stem revision components
+feature the primary proximal finned geometry with additional stem lengths to
+bridge cortical defects and to provide increased stability.  The head/neck
+porous revision components feature multiple resection levels to compensate for
+proximal bone deficiencies.  An optional trochanteric bolt provides additional
+rotational stability and implant fixation.  During fiscal year 1995, Biomet
+plans to introduce a modular version of these head/neck revision stems to
+address the complicated revision femur.  This new component will allow the
+surgeon greater flexibility in optimizing component fit in the metaphysis and
+diaphysis regions simultaneously.
+
+         The Mallory-Head acetabular component is designed with Biomet's
+RingLoc technology to maximize inter-component congruency.  The acetabular
+component is hemispherical in shape and utilizes four peripheral fins to
+enhance rim fixation and prevent rotation.  A solid finned shell without screw
+holes is also available for the surgeon who prefers not to supplement component
+fixation with bone screws but instead to maximize bone-to-implant contact.
+
+          The Maxim Total Knee System, introduced in fiscal year 1993,
+incorporates primary, posterior stabilized and revision components with
+state-of-the-art biomaterials and competes in the revision constrained knee
+market segment, addressing surgical situations where the surgeon is required to
+replace a knee that has a compromised posterior cruciate ligament.  The Company
+has also developed supporting instrumentation for the implantation of the Maxim
+Total Knee System components.  The Maxim Total Knee System continued to expand
+into new accounts during fiscal year 1994 securing a greater share of the
+domestic total knee market.  The Company anticipates that the Maxim Total Knee
+System will become its largest selling knee system during the next fiscal year.
+
+         The Company's AGC Total Knee System with its wide variety of options
+and features is one of the most versatile and comprehensive total knee systems
+in the orthopedic industry.  The AGC Total Knee System consists of left and
+right femoral components, matching reinforced tibial components, and
+appropriately sized reinforced patella components for patellar resurfacing.
+AGC components are available either with or without a porous titanium alloy
+surface designed to enhance the attachment of bone cement to the implant
+surfaces.  The Company has also developed surgical techniques and supporting
+implantation instruments for the AGC and its other knee systems.  These
+instruments allow for accurate implantation of the components and improved
+ligament and tendon balance in the knee following the surgical procedure.   The
+Company has expanded 
+
+
+
+                                      2
+<PAGE>   4
+
+its total knee product line to include the Finn Knee
+Replacement System.  This system offers both resurfacing and segmental
+component options in a wide range of sizes to address severe bone loss due to a
+previous failure or tumor resections.
+
+         Biomet's Patient-Matched Implant ("PMI") services group expeditiously
+designs, manufactures and delivers one-of-a-kind reconstructive and trauma
+devices to orthopedic specialists. This service continues to enhance Biomet's
+reconstructive market sales.  In order to assist orthopedic surgeons and their
+surgical teams in preoperative planning, Biomet's PMI group utilizes a
+three-dimensional ("3-D") bone and soft tissue reconstruction imaging system.
+A patented technology owned by the Company allows the use of CT or MRI data to
+produce 3-D reconstructions for the design and manufacture of PMIs.  With this
+imaging technology, Biomet's PMI group is able to assist the physician by
+recreating, prior to surgery, electronic 3-D models.  Within strict deadlines,
+the model is translated into a PMI design for the actual manufacturing of the
+custom implant for the patient.  Biomet continues to advance the application of
+imaging technology for the design and production of reconstructive devices for
+various joints of the body.
+
+         The Company manufactures and distributes the patented Ultra-Drive Bone
+Cement Removal System ("Ultra-Drive") which utilizes ultrasonic technology to
+safely and effectively remove bone cement during revision arthroplasty
+procedures.  This system reduces the amount of time the orthopedic surgeon
+would usually spend removing an implant and cement during revision procedures.
+Additionally, the Ultra-Drive reduces the possibility of accidental bone trauma
+associated with conventional methods addressing bone cement removal.  The
+Company is engaged in ongoing research and development efforts to enhance the
+use of the Ultra-Drive in other orthopedic applications.
+
+         Reconstructive devices contributing to the Company's sales growth
+include the Maxim Total Knee System, the Bio-Modular Shoulder, the Mallory-Head
+Calcar, Impact Modular, Integral 180 and 225 Revision Total Hips, ArCom
+polyethylene products and the Alliance Instrumentation System.
+
+EBI PRODUCTS
+
+         EBI's primary product categories consist of invasive and non-invasive
+electrical stimulation devices used in the treatment of recalcitrant bone
+fractures (nonunions), spinal fusion stimulation devices used as an adjunctive
+treatment in spinal fusion procedures, external fixation devices and a
+controlled cold therapy unit to aid in the reduction of post-operative pain,
+edema and blood loss.  The FDA has defined a "nonunion" as a case in which nine
+months have elapsed from the date of a fracture with no sign of healing for
+three months.  EBI's non-invasive devices generally provide an alternative to
+surgical intervention in the treatment of recalcitrant bone fractures and
+failed joint fusions.
+
+         One of EBI's primary products, the EBI Bone Healing System, is a
+non-invasive device which produces low-energy pulsed electromagnetic field
+("PEMF") signals that induce weak pulsing currents in living tissues exposed to
+the signals.  These pulses, when suitably configured in amplitude, repetition
+rate and duration, affect bone cells.  EBI's non-invasive stimulator has two
+components:  treatment heads and a control unit.  The treatment heads contain
+electrical coils and are connected to the control unit.  The control unit
+transforms household current or battery power into a predetermined sequence of
+pulsed currents that are induced into the fracture site through the treatment
+heads which may be placed over a patient's cast, incorporated into the cast, or
+worn over the skin.
+
+        EBI's Model 1020 Bone Healing System utilizes household current or a
+rechargeable power supply and allows for complete patient ambulation during
+treatment.  This model usually incorporates the treatment coil into the
+patient's cast or the coil can be worn over the skin if required.  The coil
+design is capable of treating the vast majority of nonunion fracture locations. 
+The device can be pre-programmed as to duration of daily treatment and for
+patient compliance history.  In January 1994, EBI introduced its Model 1200
+Bone Healing System.  The Model 1200 is a light-weight, smaller and easier to
+use unit, which should encourage patient compliance and enhance clinical
+success.
+
+         EBI also manufactures the FLX Flexible Treatment Coils for use with
+the EBI Bone Healing System.  The FLX Flexible Treatment Coils are extremely
+lightweight and provide a slim profile that enhances patient comfort and
+compliance during bone healing treatment regimens, and afford higher bone
+healing success rates.  Additionally, EBI offers a series of coils to address
+shoulder, foot, ankle, clavicle and metatarsal site applications and an
+elliptical coil to be used with external fixation.
+
+         The invasive electrical stimulation devices provide an adjunct to
+surgical intervention in the treatment of nonunions and spinal fusions.  Spinal
+fusions are surgical procedures undertaken to establish bony union between
+adjacent vertebrae.  EBI's SpF-4 Implantable Spinal Fusion Stimulator is used
+in conjunction with bone grafting to increase the probability of fusion
+success.  In addition, EBI's SpF-2, a two lead supplement to its SpF
+implantable spinal product line allows EBI to offer orthopedic surgeons the SpF
+spinal fusion technology for the growing bilateral/lateral procedure market.
+Another SpF product, the SpF-T Implantable Spinal Fusion Stimulator,
+incorporates a telemetry device which emits a signal to allow device monitoring
+after implantation.  The compact design of the SpF-T provides easier surgical
+implantation and explantation while increasing patient comfort.  The
+
+
+                                      3
+<PAGE>   5
+
+implantable devices consist of a generator providing a constant direct current
+to a titanium cathode placed where bone growth is required.  In recent years
+EBI has initiated device modifications and new techniques to its SpF product
+line to address the anterior lumbar interbody fusion and posterior lumbar
+interbody fusion market segments.
+
+         Pursuant to agreements with Orthofix s.r.l. of Verona, Italy, EBI has
+been granted exclusive rights to distribute the Orthofix Dynamic Axial External
+Fixation System ("Orthofix") in the United States, Canada and the Caribbean
+Island Basin through May of 1995.  EBI is currently engaged in negotiations to
+renew the Orthofix distribution arrangement and the outcome of these
+negotiations is uncertain at the present time.  In the event that the Orthofix
+distribution arrangement is not renewed, it could have a material adverse
+impact on EBI or the Company.  Orthofix is an external fixation device used by
+orthopedic surgeons to hold in place complicated fractures of long bones,
+commonly the tibia, from outside the affected limb in cases where fixation with
+casts, rods or plates is inappropriate.  Orthofix stabilizes fractures
+externally from only one side of the limb and is designed to make the
+application procedure less complex and time consuming than other external
+fixators.  EBI has expanded the Orthofix product line with the introduction of
+a mini-ball joint fixator used for extra-articular Colles' fractures, a
+segmental lengthener/bone transport device which is utilized for faster limb
+lengthening and replacement procedures for large bone defects, and the Orthofix
+Iowa Pelvic Fixator is used for treating unstable pelvic fractures.  The
+Orthofix Pennig Dynamic Wrist Fixator is used to treat distal radius fractures.
+This device maintains reduction of the fracture while simultaneously
+permitting early restoration of function.  Overall, EBI's external fixation
+segment has grown during fiscal year 1994 primarily through product
+enhancements and the fourth quarter launch of the Pennig Mini External Fixation
+System for hand and foot applications.  The Orthofix devices are covered by
+United States and foreign patents owned by the manufacturer.
+
+         EBI also distributes the Temptek T-1000, a controlled cold therapy
+unit used to aid in the reduction of post-operative pain, edema and blood loss.
+The application of controlled cold therapy has recently expanded into spinal
+treatment.  EBI anticipates the introduction of new controlled cold therapy
+blanket designs in the next fiscal year.  This product is manufactured by
+Temptek, Inc. of Dallas, Texas, which has granted to EBI exclusive worldwide
+rights to distribute the Temptek T-1000 unit through 1997.
+
+OTHER PRODUCTS
+
+         The Company also manufactures and distributes several other products
+including fixation and trauma devices, orthopedic support devices, operating
+room supplies, arthroscopy products and oral-maxillofacial products.  Biomet
+Medical Products, a separate operating division of the Company, was established
+during fiscal year 1993 to focus on the expansion of the Company's "other
+products," except oral-maxillofacial products, and to further penetrate these
+markets with new products.  Walter Lorenz Surgical, Inc. ("Lorenz Surgical")
+markets the oral-maxillofacial product line.
+
+         FIXATION AND TRAUMA DEVICES.   The Company's fixation and trauma
+devices include internal and external bone fixation devices.  Internal fixation
+devices manufactured by Biomet include nails, plates, screws, pins and wires
+designed to temporarily stabilize traumatic bone injuries.  These devices are
+used by orthopedic surgeons to provide an accurate means of setting and
+stabilizing fractures.  These implants are intended as aids to healing and not
+as a replacement of normal body structures, and may be removed when healing is
+completed.
+
+         The Uniflex Nailing System, which is the Company's largest selling
+fixation system, addresses a wide range of fractures utilizing one product.
+The Uniflex Femoral Nailing System is used for internal fixation of femoral
+fractures and the flexibility of the system enhances the load transfer to the
+bone to further aid in the healing of the fracture.  The Uniflex Nailing System
+also includes tibial and humeral nailing systems.  Both the S.S.T. small bone
+locking nail and the Vector Intertrochanteric Nail, a compression nailing
+system introduced in fiscal year 1993, continue to enhance the Company's
+fracture fixation family.
+
+         The Company introduced the Compression Hip Screw System during the
+fourth quarter of fiscal year 1994 and anticipates the introduction stage will
+continue through the first half of fiscal year 1995.  Additionally, the BMP
+Cable System was introduced during fiscal year 1994.  This system is used
+introperatively, often as part of revision hip surgery, to reduce the risk of
+fracture or to repair an existing femoral fracture.   System specific
+instrumentation is precise and allows reproducible results.
+
+         ORTHOPEDIC SUPPORT DEVICES.  The Company produces an extensive line of
+standard orthopedic support devices, many of which are sold under the CTN and
+START trademarks.  These devices include elbow, wrist, abdominal, thigh and
+ankle supports, in addition to a wide variety of knee immobilizers and braces.
+The CTN product line primarily addresses the sports medicine market.  CTN
+Compression wraps with Soft-Ice were released during the third quarter of
+fiscal year 1993 for use in compression cold-therapy treatment, both
+post-operative and during rehabilitation.  The Company also distributes the
+Active Ankle, a unique ankle stirrup brace which addresses the sports
+rehabilitation market.
+
+         OPERATING ROOM SUPPLIES.  The Company's principal products in the
+operating room supplies category are surgical suction devices, filters and
+drapes.  The Redi-Vacette Closed Wound Suction System provides post-operative
+wound suction 
+
+                                      4
+<PAGE>   6
+
+drainage following both orthopedic and nonorthopedic surgical
+procedures.  The Redi-Flow Filter automatically strains the flow of body
+liquids during surgery.  The filter collects fine bone chips and tissue for
+subsequent pathological evaluation, and saves operating room time by reducing
+suction clogs in surgical procedures.  The Redi-Drape protects the sterile
+operating field from contamination, and provides a drainage bag and built-in
+instrument pouches to assist the surgeon.
+
+         The Company's patented Blockaid cut-resistant glove liner, formerly
+known as Centurion, continues to enhance the Company's operating room supply
+product line.   The construction of the glove liner represents a break-through
+in continuous filament knitting technology allowing stainless steel to be
+encased in synthetic fibers, providing the most cut-resistant fabric in the
+market today.  Unlike thicker, spun fibers, these glove liners are thin enough
+to allow increased tactile sensitivity.  This product reduces the risk of
+exposure of operating room personnel to infectious diseases.
+
+         ARTHROSCOPY PRODUCTS.  Arthroscopy is a less-invasive orthopedic
+surgical procedure in which an arthroscope is inserted through a small incision
+to allow the surgeon direct visualization of the joint.  This market is
+comprised of four product categories:  power instruments, manual instruments,
+visualization products and accessories.  Arthrotek's principal products
+currently include the Ellipticut and BackBiter manual instruments, ACL
+instrumentation utilized in the reconstruction of the anterior cruciate
+ligament, a suture punch, rotary forceps and ligament fixation implants.  FDA
+510(k) clearance was recently received for the marketing of Arthrotek's
+interference screws. Arthrotek also offers the IES 1000 System, a
+fully-integrated arthroscopy system consisting of a camera, light source,
+shaver, pump, monitor, printer and VCR maintained in a pre-wired cart.  During
+fiscal year 1994, Arthrotek introduced the PowerPump 800 which enables the use
+of the IES pump in conjunction with other arthroscopy shaver systems.  In May
+1993, Arthrotek received FDA clearance to market and sell the Harpoon Suture
+Anchor for use in attaching soft tissues, tendons and ligaments to bone during
+surgical shoulder repair procedures.  The introduction of the Harpoon Suture
+Anchor was completed during fiscal year 1994.  To extend its suture anchor
+line, Arthrotek is developing a miniature version of the Harpoon.
+Additionally, Arthrotek is working with Poly-Medics (discussed below) to
+develop a resorbable suture anchor.
+
+         ORAL-MAXILLOFACIAL PRODUCTS.  The Company distributes
+oral-maxillofacial and craniofacial instruments and implants principally
+marketed to oral-maxillofacial, neurological and craniofacial surgeons through
+its Lorenz Surgical subsidiary headquartered in Jacksonville, Florida which was
+acquired in July 1992.  Orthognathic instruments, craniofacial instruments,
+rigid fixation systems, TMJ instruments and  exodontia instruments are among
+the products offered by Lorenz Surgical.  Lorenz Surgical recently began
+marketing micropowered surgical instruments for use in cranio-maxillofacial and
+small bone surgery.  Additionally, Lorenz Surgical is currently developing
+resorbable plates and screws and dental implants in conjunction with
+Poly-Medics which will be marketed by Lorenz Surgical upon receiving FDA
+clearance or approval.  Many of the screws and plating products, previously
+manufactured outside of the Company, are now manufactured in Warsaw, Indiana.
+
+PRODUCT DEVELOPMENT
+
+         For the years ended May 31, 1994, 1993 and 1992, the Company expended
+approximately $20,521,000, $17,995,000 and $16,620,000 respectively, on
+research and development, and it is expected that research and development
+expenses will continue to increase.  The Company's principal research and
+development efforts relate to its reconstructive devices, electrical
+stimulation products and arthroscopy products.
+
+         The Company's research and development efforts contributed to the
+introduction in fiscal year 1994 of the following products:  BMP Cable System,
+Biomet Compression Hip Screw System, Impact Revision Hip System, Integral
+Revision Hip System, RingLoc Bi-Polar Acetabular Cup, Fracture Hip System,
+ArCom polyethylene products and Axial Knee Instrumentation System.
+
+         EBI conducts a program of research and development intending to
+maintain its proprietary position and to expand the range of conditions
+treatable with its electrical stimulation products.  This program includes
+providing equipment and/or funding basic research to study cells and simple
+biological systems, and clinical investigations.  Typically, EBI receives
+proprietary rights with respect to the data developed as the result of research
+sponsored by it.  EBI recently completed clinical trials to investigate the
+application of its products in the treatment of avascular necrosis ("AVN") of
+the femoral head, a debilitating and degenerative disease.  In May 1994, EBI
+received notice from the FDA that it has completed its initial review of EBI's
+premarket approval application ("PMA").  Further, the FDA has determined the
+PMA is sufficiently complete to permit a substantive review by the FDA and is,
+therefore, suitable for filing.  EBI also currently has clinical trials
+underway to develop new indications with PEMF technology for the treatment of
+fresh fractures.
+
+         In July 1991, the Company and United States Surgical Corporation
+("U.S. Surgical") entered into a cooperative effort to develop and market a
+line of state-of-the-art bioresorbable orthopedic and oral-maxillofacial
+implants.  The cooperative effort has been named Poly-Medics.  The Company is
+contributing its product development, marketing and distribution capabilities
+while U.S. Surgical is contributing its expertise in polymer technology and
+product development that led to its successful development of resorbable
+staples and sutures.  Poly-Medics is focusing on three primary areas:  bone
+replacement and 
+
+
+                                      5
+<PAGE>   7
+augmentation; fracture healing; and musculoskeletal soft tissue
+repair and reattachment.  Poly-Medics has launched the Hard Tissue Replacement
+Malleable Facial Implant line of products and is distributing them through
+Lorenz Surgical.  Clinical studies utilizing Poly-Medics resorbable polymers
+are currently in process for maxillofacial, soft tissue reattachment
+applications and peripheral nerve repair.
+
+         The Company is continuing its work to develop hydroxyapatite ("HAP"),
+a bioactive surface, to be applied to orthopedic implants which, by eliminating
+the fibrous tissue interface between the implant and the bone, would improve
+apposition and attachment to the implant and bone ingrowth into the porous
+surface of implants.  Clinical trials are currently being conducted with the
+Company's AGC Knee System and four of its hip systems, in which a  surface
+coating is applied over the systems' porous coating.  HAP bonds directly to
+bone at a cellular level.
+
+         The Company has a 51% equity interest in Polmers Reconstructive A/S
+and has obtained exclusive worldwide distribution rights, with the exception of
+Scandinavia, for the Polymers Boneloc Bone Cement System.  The patented Boneloc
+Bone Cement System is a proprietary new method of mixing bone cement within and
+delivering it from a single self-contained unit.  Boneloc is currently being
+marketed outside the United States and the Company is conducting clinical
+trials within the United States.  The Company expects Boneloc to be fully
+released upon completing the clinical trials and obtaining FDA approval.
+
+         In September 1985, the Company and Hercules Incorporated ("Hercules")
+entered into a joint venture, BHC Laboratories, Inc., whereby the companies
+intend to jointly design, develop, produce and market a line of high
+performance, composite-based orthopedic products.  The joint venture applied
+Hercules  expertise in aerospace technology to cost-effective orthopedic
+devices produced by the Company.  Composite-based materials can be produced
+with a lower modulus of elasticity that approximates the modulus of cortical
+bone more closely than do the current state-of-the-art metals.  The use of
+composite materials may enhance bone remodeling by transferring stress to the
+appropriate portions of the bone.  Composite materials have potential
+applications in total joint replacement and internal fixation devices. Given
+the long-term nature of this project, Biomet and Hercules are currently engaged
+in negotitations with respect to the future restructuring of the joint venture
+arrangement.
+
+         The Company has a minority equity interest in Catheter Research, Inc.
+("CRI"), the developer of the CRI Vessel Occlusion System.  The Company's
+Vascu-Med subsidiary has obtained exclusive distribution rights to the CRI
+Vessel Occlusion System in performing peripheral bypass grafting.  CRI has
+received approval from the FDA to market the Vessel Occlusion System, and
+Vascu-Med has conducted market evaluations to determine market acceptance and
+distribution strategies of the product.  While the product has functioned well
+clinically, the market's early response to this new technology has been
+disappointing.  It is not clear whether a large enough market can be developed
+to create a meaningful distribution effort in the future for the product.
+
+GOVERNMENT REGULATION
+
+         The developing, testing, marketing, and manufacturing of medical
+devices such as arthroscopy products and reconstructive, electrical stimulation
+and internal fixation devices are regulated under the Medical Device Amendments
+of 1976 to the Federal Food, Drug and Cosmetic Act (the "1976 Amendments") and
+additional regulations promulgated by the FDA.  In general, these statutes and
+regulations require that manufacturers adhere to certain standards designed to
+ensure the safety and effectiveness of medical devices.
+
+         Under the 1976 Amendments, each medical device manufacturer must be a
+"registered device manufacturer" and must comply with regulations applicable
+generally to labeling, quality assurance, manufacturing practices and clinical
+investigations involving humans.  The FDA is authorized to obtain and inspect
+devices, their labeling and advertising, and the facilities in which they are
+manufactured in order to assure that a device is not improperly manufactured or
+labeled.  Biomet, EBI, Lorenz Surgical, Arthrotek, and Vascu-Med are registered
+with the FDA.
+
+         In addition, the sale and marketing of specific medical devices are
+regulated by the FDA under the 1976 Amendments, which classify medical devices
+based upon the degree of regulation deemed appropriate and necessary.  A device
+is classified as a Class I, II or III device based on recommendations of
+advisory panels appointed by the FDA.  Class I devices are subject only to
+general controls.  Class II devices, in addition to general controls, are
+subject to additional controls.  Class III devices, including most devices used
+or implanted in the body, require FDA pre-market approval before they may be
+distributed other than in clinical trials.
+
+         The Company's reconstructive and trauma products are regulated as
+Class II or Class III medical devices.  The Company's electrical stimulation
+products are regulated as Class III medical devices.  The procedure for
+obtaining approval to commercially market a device involves the submission of a
+pre-market notification under Section 510(k) of the 1976 Amendments.  If the
+FDA determines that the device is substantially equivalent to a pre-enactment
+device or to a device subsequently classified in Class I or Class II, it will
+grant clearance to commercially market the device.  If the FDA determines 
+
+                                      6
+<PAGE>   8
+
+the device is not substantially equivalent to a pre-enactment device, it is     
+automatically placed into Class III, and will either require reclassification or
+the submission of valid scientific evidence to prove the device is safe and
+effective for human use.  For Class III devices, in order to conduct clinical
+trials the manufacturer must submit to the FDA an application for an
+Investigational Device Exemption ("IDE").  An approved IDE exempts the
+manufacturer from certain otherwise applicable FDA regulations and grants
+approval for a clinical investigation, or human study, to generate clinical data
+to prove safety and efficacy.  In addition, the possibility exists that certain
+devices marketed prior to 1976, or devices substantially equivalent thereto, may
+be placed into Class III by the FDA.  In this event, the manufacturer will be
+required to submit proof of safety and efficacy for these device within 30
+months of the Class III determination.
+
+         When a manufacturer believes that sufficient clinical data has been
+generated to prove the safety and efficacy of the device, it may submit a
+pre-market approval application ("PMA") to the FDA.  The FDA reviews the PMA
+and determines whether it is in submittable form and all key elements have been
+included.  Following acceptance of the PMA, the FDA continues its review
+process which includes submission of the PMA to a panel of experts appointed by
+the FDA to review the PMA and to recommend appropriate action.  The panel then
+recommends that the PMA be approved, not approved or approved subject to
+conditions.  The FDA may act according to the panel's recommendations, or it
+may overrule the panel.  In approving a PMA, the FDA may require some form of
+post-market surveillance whereby the manufacturer follows the initial patient
+group for two or more years, making periodic reports to the FDA.
+
+         The Safe Medical Device Act of 1990 (the "Act") affects medical device
+manufacturers in several areas, including post-market surveillance and device
+tracking procedures.  The Act is the first major change to the Federal Food,
+Drug and Cosmetic Act since the 1976 Amendments.  The Act gives the FDA
+expanded emergency recall authority, requires the submission of a summary of
+the safety and effectiveness in the 510(k) process and adds design validation
+as a requirement of Good Manufacturing Practices.  The Act also requires all
+manufacturers to conduct post-market surveillance on most permanent implants
+and devices that potentially present a serious risk to human health, and
+requires manufacturers of certain devices to adopt device tracking methods to
+enable patients to receive required notices pertaining to the devices they
+receive.  The Act increases the importance of tracking products and will most
+likely add additional administrative requirements pertaining to the sale of
+many of the Company's implants.  Although the precise impact on the Company is
+currently unknown because the FDA has not yet promulgated all of the
+regulations needed to fully implement the Act, management does not believe the
+Act will have a material adverse affect on the Company or its operations.
+
+         In February 1992, the FDA announced that certain uncemented hip
+prostheses had been reclassified from Class III to Class II.  The devices in
+question are "hip joint metal/polymer/metal semi-constrained porous-coated
+uncemented prostheses." The FDA has indicated that the porous coating on the
+femoral stem and acetabular shell must be made of either
+cobalt-chromium-molybdenum beads or fibers of commercially pure titanium or
+titanium-aluminum-vanadium alloy.  The FDA has defined a range of porosity for
+the coating and specified the types of materials that can compose the femoral
+and acetabular components.  The FDA has also stated that such devices must have
+a "design to achieve biological fixation to bone without the use of bone
+cement."  It is anticipated that this reclassification will have a positive
+impact on the marketing of the Company's porous-coated hip prostheses and that
+such prostheses will no longer require PMAs and, consequently, require less
+time for introduction into the marketplace.  The Company promptly made the
+appropriate filings and has since received clearance to market many of its hip
+systems in accordance with this regulation.
+
+         The medical device industry extensively utilizes the pre-market
+notification procedures under Section 510(k) of the 1976 Amendments in bringing
+new products to the market.  The Company currently has over fifteen Section
+510(k) notifications pending with the FDA, and is experiencing delays in the
+clearance of new products by the FDA as a result of its attempts to follow the
+directives of Congress.  These delays are likely to continue through the end of
+fiscal year 1995.  Although the delays experienced to date have not had a
+material adverse impact on the operations of the Company, management is unable
+to assess the impact of the current circumstances or the effects of any
+increases in the time for clearance of Section 510(k) notifications on the
+future operations of the Company.
+
+SALES AND MARKETING
+
+         Biomet Products are distributed in the United States through
+approximately 318 independent commission sales representatives ("distributors")
+and sales associates engaged principally in the business of supplying
+orthopedic products to hospitals in their geographic areas.  Some of these
+distributors have formal contractual arrangements with Biomet which limit
+Biomet's right to terminate the distributor and provide certain long-term
+benefits to the distributor upon termination.
+
+         EBI's products are distributed in the United States through EBI's
+wholly-owned subsidiary, EBI Medical Systems, Inc. ("EBIMS"), a Delaware
+corporation with offices in Parsippany, New Jersey.  EBIMS maintains a 120
+person direct sales force which operates in assigned territories throughout the
+United States and through a growing international distribution network in
+Central and South America, Canada, Asia and Europe.
+
+
+                                      7
+
+<PAGE>   9
+         Lorenz Surgical products are distributed in the United States through
+its direct salesforce of approximately 40 sales representatives operating in
+assigned territories throughout the United States and through a growing
+international distribution network in Central and South America, Canada, Asia
+and Europe.
+
+         Elective surgery-related products appear to be influenced to some
+degree by seasonal factors, as the number of elective procedures decline during
+the summer months and the holiday seasons.
+
+         The Company's customers are the hospitals, surgeons and other
+physicians who employ its products in the course of their practices.  The
+business of the Company is dependent upon the relationships maintained by its
+distributors and salespersons with these customers as well as the Company's
+ability to design and manufacture products which will meet the physicians'
+technical requirements at a competitive price.
+
+         Biomet Products are marketed internationally primarily through direct
+factory sales representatives in the United Kingdom, Italy and Germany and
+through both independent and direct factory sales representatives and specialty
+medical product dealers in other international markets.  EBI products are sold
+internationally by EBI's wholly-owned subsidiary, EBI Medical Systems Ltd., a
+United Kingdom corporation which utilizes direct sales representatives and
+independent commission sales representatives in the United Kingdom and
+specialty medical product dealers in  other parts of the world.  The Company's
+products are distributed in approximately 100 countries worldwide.
+
+         For the three fiscal years ended May 31, 1994, 1993 and 1992, the
+Company's foreign sales were $85,079,000, $78,274,000 and $70,644,000
+respectively, or 23%, 23% and 26% of net sales, respectively.  Additional data
+concerning operating income and identifiable assets by geographic areas are set
+forth in Note I of the Notes to Consolidated Financial Statements included in
+Item 8 of this Report.
+
+         The Company consigns inventory to its United States distributors and
+direct salespersons for their use in marketing its products and in filling
+customer orders.  The Company also consigns inventory to hospitals in the
+United Kingdom, Italy and Germany.  As of May 31, 1994, inventory of
+approximately $29,632,000 was consigned to these distributors, salespersons and
+hospitals.
+
+         Under Title VI of the Social Security Amendments of 1983 (the "1983
+Amendments"), hospitals receive a predetermined amount of Medicare
+reimbursement for treating a particular patient based upon the patient's type
+of illness identified with reference to the patient's diagnosis under one or
+more of several hundred diagnosis-related groups ("DRG").  Other factors which
+affect a specific hospital's reimbursement rate include the size of the
+hospital, its teaching status and its geographic location.
+
+         The Prospective Payment Assessment Commission acts for Congress in
+evaluating, redefining and adjusting DRGs to encompass technology changes and
+efficiencies experienced by hospitals.  Biomet Products are primarily covered
+by DRG 209 (Major Joint and Limb Reattachment Procedures) and DRG 210 (Hip and
+Femur Procedures).
+
+         The 1983 Amendments have not adversely affected the Company's
+reconstructve device or electrical stimulation business.  However, the Company
+is experiencing pricing pressure in orthopedic support devices and operating
+room supplies and in some generic internal fixation device products.  The
+DRG-based prospective payment system may increase the future importance of
+price as a competitive factor within the orthopedic products and implantable
+bone growth stimulation markets.  Other effects of the prospective payment
+system on the industry and on the Company cannot be estimated at the present
+time.
+
+         During fiscal year 1994, the Company initiated "value added" services
+and programs collectively referred to as the Large Account Management Program
+("L.A.M.P.").  A group of individuals from the Warsaw, Indiana office work
+directly with the salesforce, orthopedic surgeons, clinics and hospital
+administrators to address various concerns, as they arise, in the providing of
+health care.
+
+COMPETITION
+
+         The business of the Company is highly competitive.  Approximately
+seven other manufacturers offer orthopedic implant products which compete with
+the Biomet Products.  Major companies in this industry include Zimmer, Inc., a
+subsidiary of Bristol-Myers Squibb Company; Howmedica, Inc., a subsidiary of
+Pfizer, Inc.; DePuy, a subsidiary of Boehringer-Mannheim Corporation; Richards
+Manufacturing Co., Inc., a subsidiary of Smith & Nephew Ltd.; Osteonics, Inc.,
+a subsidiary of Stryker Corporation; Johnson & Johnson Orthopaedics, Inc., a
+subsidiary of Johnson & Johnson; and Intermedics Orthopedics, Inc., a division
+of Sulzermedica.  Management believes these seven companies and Biomet have the
+predominant share of the orthopedic implant market.  Competition within the
+orthopedic implant industry is primarily on the basis of service and product
+design, although price competition  has recently taken on increasing importance
+as the orthopedic industry becomes more mature and as health care providers
+become more concerned with health care costs.  At the present time,  price is a
+factor in the sale of generic 
+
+
+                                      8
+<PAGE>   10
+internal fixation devices, orthopedic support devices and operating room
+supplies.  In addition, as health care providers become more cost-conscious,
+they have increasingly limited the use of higher-cost reconstructive devices to
+younger, more active patients.  Biomet's prices are at approximately the same
+levels as those of its major competitors. Biomet believes its future success
+will depend upon its service and responsiveness to distributors and orthopedic
+specialists, and upon its ability to design and market innovative products which
+meet the needs of the marketplace.  As discussed earlier, the Company has
+initiated L.A.M.P. to enhance the Company's offerings of products, services and
+programs.
+
+         In the past, new technologies and product concepts in the industry
+(principally in reconstructive products) have been introduced and applied at
+extremely rapid rates.  New developments in implant systems are frequently
+introduced into the market before earlier concepts can be fully absorbed.  It
+is management's opinion that this evolution in advanced technology products
+will continue for the foreseeable future.
+
+        EBI's electrical stimulation products compete with conventional
+surgical procedures and non-invasive electrical stimulation devices
+manufactured by others.  EBI has the predominant share of the bone growth
+stimulation market.  Other companies offering products in the electrical
+stimulation market include American Medical Electronics, Inc., Biolectron,
+Inc., OrthoLogic Corp. and Exogen.  Competition in the electrical stimulation
+market is on the basis of product design, service and success rates of various
+treatment alternatives.  EBI's non-invasive stimulators offer advantages over
+conventional surgery or invasive products in that their use eliminates
+hospital, surgeon and operating room costs, and these products can be used in
+the presence of infection without creating a risk of additional infection. 
+EBI's invasive stimulators offer the advantage of conformance to surgical
+practice and do not require patient compliance.  The Orthofix fixator competes
+with other external fixation devices primarily on the basis of ease of
+application and clinical results.
+
+         Arthrotek products compete in the areas of power instruments,
+visualization products, accessories and manual instruments.  Competitors
+include Linvatec Corp., a subsidiary of Bristol-Myers Squibb Company; Stryker
+Corporation; Dyonics, Inc., a subsidiary of Smith & Nephew Ltd.; Baxter Health
+Care Corporation; Acufex Microsurgical, Inc.; Olympus; Richard Wolf; and Karl
+Storz.
+
+         The Company's trauma and fixation product lines compete with those of
+ACE Orthopedics, a division of DePuy; Zimmer, Inc., a subsidiary of
+Bristol-Myers Squibb Company; Richards Manufacturing Co., Inc., a subsidiary of
+Smith & Nephew Ltd., and Synthes USA.
+
+         Lorenz Surgical primarily competes in the surgical instrumentation and
+oral-maxillofacial markets.  Its competitors include Synthes USA; Howmedica,
+Inc., a subsidiary of Pfizer, Inc.; Leibinger LP; ACE Surgical Supply Company,
+Inc.; and Karl Storz, a business group of American Cyanamid Company.
+
+RAW MATERIALS AND SUPPLIES
+
+         The raw materials used in the manufacture of the Biomet Products are
+principally nonferrous metallic alloys, stainless steel, polyethylene powder
+and fabrics.  With the exception of cobalt alloy, none of Biomet's raw material
+requirements are limited by critical supply or single origins to any material
+extent.  Biomet purchases its cobalt alloy from two outside suppliers and is
+aware of at least three additional suppliers of cobalt alloy.  EBI purchases
+all components of its electrical stimulators from approximately 250 outside
+suppliers, approximately 15 of whom are the single source of supply for their
+particular product.  In most cases, EBI believes that all components are
+replaceable with similar components.  In the event of a shortage, there are
+alternative sources of supply available for all components, but some time would
+likely elapse before EBI's orders could be filled.  Certain suppliers have
+discontinued supplying silicon, which is used as a component in all of EBI's
+implantable stimulators.  A shortage of this material is not anticipated during
+the next fiscal year and EBI is currently searching for additional suppliers of
+silicon and suppliers of silicon substitutes for future needs.  The results of
+the Company's operations are not materially dependent on raw material costs.
+
+EMPLOYEES
+
+         As of May 31, 1994, the Company's domestic operations (including
+Puerto Rico) employed 1,362 persons, of whom 727 were engaged in production and
+635 in sales, marketing, administrative and clerical efforts.  The Company's
+European subsidiaries employed 493 persons, of whom 353 were engaged in
+production and 140 in sales, marketing, administrative and clerical efforts.
+None of the Company's principal domestic manufacturing employees are
+represented by a labor union; the production employees at its Bridgend, South
+Wales, facility are organized.  Employees working at the Berlin, Germany
+facility are represented by a statutory Workers' Council which negotiates
+labor hours and termination rights.  The Workers' Council does not represent
+such employees with regard to collective bargaining of wages or benefits.  The
+Company believes that its relationship with all its employees is satisfactory.
+The establishment of Biomet's domestic operations in north central Indiana,
+near other members of the orthopedic industry, provides excellent access to
+both the highly skilled machine operators and the skilled soft 
+
+                                      9
+<PAGE>   11
+goods labor required for the manufacture of the Biomet Products.  The
+Company's European locations at Bridgend, South Wales, Swindon, England, and
+Berlin and Ansbach, Germany, also provide good sources for skilled manufacturing
+labor.  EBI's Puerto Rican operations principally involve the assembly of
+purchased components into finished products using skilled labor.
+
+PATENTS AND TRADEMARKS
+
+         As a result of the rapid rate of development of reconstructive
+products, patents have not historically been a major factor in the orthopedic
+industry.  However, patents on specific designs and processes can provide a
+competitive advantage.  Biomet has applied for and been issued patents on
+certain aspects of several of its major product offerings and has patent
+applications pending on several products.  Management believes that patent
+protection of products will become more significant as the industry matures.
+
+         EBI holds a United States Patent which covers the manufacture, use and
+sale of its primary product, the EBI Bone Healing System, which expires in
+1995.  In connection with the 1988 settlement of certain litigation against
+American Medical Electronics, Inc. ("AME"), EBI has granted to AME a license
+under this patent to make, use and sell certain products.
+
+         Biomet, EBI, W. Lorenz and Arthrotek are the Company's principal
+registered trademarks in the United States, and federal registration has been
+obtained or is in process with respect to various other trademarks associated
+with the Company's products.  The Company holds or has applied for
+registrations of various trademarks in its principal foreign markets.
+"Orthofix" is a registered trademark of Orthofix s.r.l. in the United States.
+
+
+ITEM 2.  PROPERTIES.
+
+         The Company has the following properties:
+
+<TABLE>
+<CAPTION>
+
+                                                                                                   OWNED/
+FACILITY                                     LOCATION                        SQUARE FEET           LEASED
+- - - - --------                                     ---------                       -----------           ------
+<S>                                         <C>                             <C>                    <C>
+
+Principal manufacturing facility
+and executive offices of Biomet              Warsaw, Indiana                  329,000              Owned
+
+Facility of Biomet/U.S. Surgical                                           
+cooperative effort                           Warsaw, Indiana                   11,000              Owned
+
+Office and manufacturing facility
+of EBI                                       Guaynabo, Puerto Rico             23,200              Owned
+
+Marketing and sales operations               Parsippany, New Jersey            63,000              Leased
+of EBIMS, including accounting,
+order entry and customer service
+for all EBI products and Orthofix
+sales and adminstrative offices
+of EBI
+
+United Kingdom manufacturing
+and administrative facilities of
+the Company                                  (1) Swindon, England              28,000              Owned
+
+                                             (2) Bridgend, South Wales         55,500              Owned
+
+Office and manufacturing facility
+of Arthrotek                                 (1) Ontario, California           35,400              Owned
+
+                                             (2) Aliso Viejo, California        4,165              Leased
+
+                                             (3) Redding, California            6,250              Leased
+
+Office and manufacturing facilities
+of Effner                                    (1) Berlin, Germany               17,800              Leased
+
+                                             (2) Ansbach, Germany               4,800              Leased
+
+</TABLE>
+
+
+
+                                      10
+<PAGE>   12
+ITEM 2. PROPERTIES. (continued)
+
+<TABLE>
+<CAPTION>
+
+                                                                                                   OWNED/
+FACILITY                                           LOCATION                   SQUARE FEET          LEASED
+- - - - --------                                           ---------                  ------------         ------
+<S>                                                <C>                        <C>                  <C>
+Administrative and distribution facility
+of Lorenz Surgical                                 Jacksonville, Florida      32,450               Owned
+
+
+Office and warehouse facility of Biomet SpA        Milan, Italy               10,764               Owned
+
+Office and warehouse facility of Biomet
+and EBI                                            Ontario, Canada             1,800               Leased
+</TABLE>
+
+
+         The Company believes that its facilities are adequate, well maintained
+and suitable for the development, manufacture and marketing of all its
+products.  The 28,000 square foot facility in Swindon is currently undergoing a
+12,000 square foot expansion which is to be completed in September 1994.  This
+expansion is expected to provide additional manufacturing, administrative and
+laboratory space.  The 55,500 square foot facility in Bridgend is currently
+undergoing a 13,000 square foot expansion to provide for additional
+manufacturing and administrative space.  The Bridgend expansion is expected to
+be complete in November 1994.
+
+ITEM 3.  LEGAL PROCEEDINGS.
+
+         On February 9, 1990, Pedro A. Ramos, M.D., filed a complaint in the
+United States District Court for the Southern District of Florida naming the
+Company as a defendant.  The plaintiff alleges the Company has infringed his
+patent.  In April 1993, the matter was tried before Judge Aronovitz of the
+Southern District of Florida.  Judge Aronovitz issued a memorandum opinion in
+August 1993, finding that U.S. Patent No.  4,383,090 was willfully infringed.
+On September 10, 1993, the trial court entered a final judgment and permanent
+injunction in favor of Dr.  Ramos.  An amended final judgment was entered on
+November 30, 1993 awarding Dr. Ramos a permanent injunction and damages of
+$6,008,000.  The Company, after consultation with legal counsel, believes the
+Court erred in its finding and that the judge's opinion is contrary to the
+facts and applicable law.  Biomet filed Notices of Appeal to the final judgment
+and amended final judgment on September 20, 1993 and December 13, 1993,
+respectively.  Biomet filed its Appeal Brief on March 3, 1994 and Dr. Ramos
+filed his Response Brief on April 12, 1994.  The appeal is scheduled for oral
+argument on September 8, 1994.  Biomet has negotiated a license under  the
+Ramos patent to continue selling its old bipolar design while it introduces a
+new bipolar product.  Management continues to conduct a vigorous defense of
+this matter.  Although the ultimate outcome of this matter cannot be
+determined, management of the Company, after consultation with legal counsel,
+believes the judgment against the Company will be reversed on appeal.
+Accordingly, no provision for any liability (except for accrued legal costs)
+that might result from this matter has been made in the consolidated financial
+statements.
+
+         There is no other pending litigation of a material nature in which the
+Company is involved and no such litigation was terminated during the fourth
+quarter of fiscal 1994.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+         Not applicable.
+
+
+                                      11
+<PAGE>   13
+
+EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         The name, age, business background, positions held with the Company
+and tenure as an executive officer of each of the Company's executive officers
+are set forth below.  No family relationship exists among any of the executive
+officers.  Except as otherwise stated, each executive officer has held the
+position indicated during the last five years.
+
+<TABLE>
+<CAPTION>
+                                       Served as Executive     Current Position(s)
+Name, Age and Business Experience        Officer Since          with the Company
+- - - - ---------------------------------      -------------------     -------------------
+<S>                                     <C>                    <C>
+DANE A. MILLER, PH. D., 48                                    
+- - - - ----------------------                                        
+  President and Chief Executive              1977               President and Chief
+  Officer of the Company;                                       Executive Officer and
+  Director of the Company since 1977                            Director of the Company.
+                                                               
+NILES L. NOBLITT, 43                                          
+- - - - ----------------                                              
+  Chairman of the Board of the               1978               Chairman of the Board
+  Company since September 1986;                                 and Director of the
+  President of EBI from July 1988                               Company.
+  to January 1990; Director of the                              
+  Company since 1978.                                        
+                                                              
+CHARLES E. NIEMIER, 38                                        
+- - - - ------------------                                            
+  Senior Vice President -                    1984               Senior Vice President -
+  International Operations of the                               International Operations
+  Company since November 1991;                                  and Director of the
+  Senior Vice President -                                       Company
+  Warsaw Operations from                                   
+  May 1990 to November 1991 and                               
+  Vice President - Finance                                   
+  of the Company from May 1984 to                             
+  November 1991; Director of the                             
+  Company since 1987.                                        
+                                                              
+GARRY L. ENGLAND, 40                                          
+- - - - ----------------                                              
+  Senior Vice President - Warsaw             1987               Senior Vice President 
+  Operations of the Company since                               - Warsaw Operations 
+  May 1994; Vice President - Research                           of the Company.  
+  and Development of the Company                             
+  from November 1991 to May 1994;                             
+  prior to November 1991,Vice                                
+  President - Manufacturing of the                           
+  Company.                                                   
+                                                              
+DANIEL P. HANN, 39                   
+- - - - --------------                       
+  Vice President and General Counsel         1989               Vice President and
+  of the Company since July 1989;                               General Counsel,
+  Secretary and Director of the                                 Secretary and Director
+  Company since September 1989.                                 of the Company.
+                                       
+JOEL P. PRATT, 40                      
+- - - - -------------                          
+  Vice President and General                 1990               Vice President and
+  Manager of Biomet                                             Manager of Biomet
+  Medical Products since March 1993;                            Medical Products.
+  Vice President - Sales and Marketing 
+  of the Company from January 1990 to 
+  March 1993; prior to January 1990, 
+  Director of Marketing of the Company.           
+                                       
+GREGORY D. HARTMAN, 37                 
+- - - - ------------------                     
+  Vice President - Finance of the            1991               Vice President - Finance of the Company.
+  Company since December 1991;                                  
+  prior to December 1991, Controller  
+  of the Company.                      
+                                       
+JAMES W. HALLER, 37
+- - - - ---------------    
+  Controller of the Company since            1991               Controller of the Company.
+  December 1991; Assistant Controller 
+  of the Company from June 1990 to 
+  December 1991; prior to June 1990, 
+  Accounting Manager of the Company.
+</TABLE>
+
+                                      12
+<PAGE>   14
+<TABLE>
+<S>                                          <C>                <C>
+DAVID L. MONTGOMERY, 46
+- - - - -------------------    
+  Vice President - Sales and 
+  Marketing of the                           1993               Vice President - Sales and Marketing of 
+  Company since March 1993;                                     the Company.
+  Director of Sales of the Company
+  from September 1990 to March 1993;
+  Director of Marketing of the
+  Company from January 1990 to
+  September 1990; prior to January
+  1990, Group Product Manager of the
+  Company.
+
+ANTHONY L. FLEMING, 35
+- - - - ------------------    
+  Vice President - Research and              1994               Vice President - Research
+  Development of the Company                                    and Development of the
+  since May 1994; prior to May 1994,                            Company.
+  Director of Product Development.                                 
+</TABLE>
+
+
+
+
+                                    PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+         MATTERS.
+
+
+The following table shows the quarterly range of high and low quotations for
+the Company's Common Shares as reported by the NASDAQ National Market System
+for each of the three most recent fiscal years ended May 31.
+
+<TABLE>
+<CAPTION>
+                                                                         High                        Low
+<S>      <C>                                                            <C>                      <C>
+1994
+         Fourth                                                         $11 5/8                    $ 9 3/4
+         Third                                                           11 7/8                      9 7/8
+         Second                                                          12 3/4                      8 3/8
+         First                                                           11 3/4                      8 3/8
+
+1993
+         Fourth                                                         $13 1/2                    $ 9 3/4
+         Third                                                           18 3/4                     10 3/4
+         Second                                                          22 1/4                     13 3/4
+         First                                                           22 1/4                     14 3/4
+
+1992
+         Fourth                                                         $23 1/4                    $15 1/2
+         Third                                                           32 3/8                     20
+         Second                                                          23                         16 1/4
+         First                                                           18 5/8                     13 1/8
+</TABLE>
+
+The quotations have been adjusted to give effect to all stock splits.  They
+reflect inter-dealer prices, without retail mark-up, mark-down or commission,
+and may not necessarily reflect actual transactions.  The approximate number of
+record holders of outstanding Common Shares as of May 31, 1994 was 14,200.  The
+Company has not paid any dividends within the last three years and the Company
+does not anticipate that any dividends will be paid in the foreseeable future.
+
+                                      13
+<PAGE>   15
+ITEM 6. SELECTED FINANCIAL DATA.
+
+<TABLE>
+<CAPTION>
+INCOME STATEMENT DATA
+(in thousands, except earnings per share)
+
+Years ended May 31,            1994               1993              1992             1991            1990           1989
+<S>                          <C>                <C>              <C>              <C>              <C>            <C>
+Net sales                    $373,295           $335,373         $274,795         $209,690         $162,379       $135,760
+Cost of sales                 114,829            104,741           85,657           63,652           51,428         44,312
+
+  Gross profit                258,466            230,632          189,138          146,038          110,951         91,448
+
+Selling, general and
+  administrative expenses     136,191            122,170          102,695           80,212           60,945         51,917
+Research and development
+  expense                      20,521             17,995           16,620           12,872            9,890          9,521
+
+  Operating income            101,754             90,467           69,823           52,954           40,116         30,010
+
+Other income, net               5,278              3,805            6,688            5,646            3,712          2,251
+
+  Income before income
+    taxes                     107,032             94,272           76,511           58,600           43,828         32,261
+
+Provision for income taxes     37,214             30,311           24,702           19,126           13,895         10,784
+
+  Net income                 $ 69,818           $ 63,961         $ 51,809         $ 39,474         $ 29,933       $ 21,477
+
+Earnings per share               $.61               $.56             $.46             $.35             $.27           $.19
+
+Weighted average number
+  of shares                   115,215            114,934          113,009          111,892          111,136        110,352
+
+
+<CAPTION>
+
+BALANCE SHEET DATA
+(in thousands)
+
+As of May 31,                   1994               1993            1992              1991            1990            1989
+<S>                          <C>                <C>              <C>              <C>              <C>            <C>
+Working capital              $288,408           $224,387         $167,707         $118,512         $ 92,573       $ 63,010
+Total assets                  418,077            354,409          279,234          210,660          153,548        119,000
+Shareholders' equity          357,283            301,319          232,467          172,928          129,374         97,665
+</TABLE>
+
+.  The selected consolidated financial information includes the results of
+     operations of Lorenz Surgical from June 1, 1992 and Effner GmbH from March
+     21, 1991
+.  Earnings per share data have been adjusted to give effect to all stock
+     splits.
+.  The Company paid no cash dividends during any of the periods presented.
+
+
+
+
+                                      14
+<PAGE>   16
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS.
+
+The following table shows the percentage relationship to net sales of items
+derived from the Consolidated Statements of Income and the percentage change
+from year to year.
+<TABLE>
+<CAPTION>
+                                         Percentage of                                       Percentage
+                                           Net Sales                                     Increase (Decrease)
+
+                                                                                 1994             1993
+Years ended May 31,            1994             1993             1992           VS. 1993         vs. 1992
+<S>                           <C>               <C>              <C>               <C>              <C>
+Net sales                     100.0%            100.0%           100.0%            11%              22%
+Cost of sales                  30.8              31.2             31.2             10               22
+
+     Gross profit              69.2              68.8             68.8             12               22
+Selling, general and
+ administrative expenses       36.5              36.4             37.4             11               19
+Research and development
+ expense                        5.5               5.4              6.0             14                8
+
+     Operating income          27.2              27.0             25.4             12               30
+Other income, net               1.5               1.1              2.4             39              (43)
+
+     Income before income
+      taxes                    28.7              28.1             27.8             14               23
+Provision for income
+ taxes                         10.0               9.0              8.9             23               23
+     Net income                18.7%             19.1%            18.9%             9%              23%
+</TABLE>
+
+1994 COMPARED TO 1993
+The Company achieved record net sales, net income and earnings per share in
+fiscal 1994.  Net sales increased 11% to $373,295,000 as compared to
+$335,373,000 in 1993.  The Company's U.S.-based revenue increased 12% to
+$288,216,000 in 1994, while foreign sales increased 9% to $85,079,000.  For
+fiscal year 1994, Biomet's foreign sales were adversely affected by
+approximately $6,500,000 due to a stronger U.S. Dollar relative to the British
+Pound Sterling.    Biomet's worldwide reconstructive device sales during fiscal
+1994 were $218,145,000, representing a 15% increase compared to fiscal 1993.
+These increases in revenue were primarily a result of Biomet's continued
+penetration of the reconstructive device market led by the Maxim Total Knee
+System introduced  in late fiscal 1993.  Sales of  EBI's products were
+$88,714,000 in fiscal 1994, representing an 8% increase over last year.  This
+increase was largely attributable to increased demand for Orthofix devices.
+The Company's "other products" revenues totaled $66,436,000, representing a 3%
+increase over fiscal year 1993, primarily as a result of increased sales of
+Arthrotek's IES 1000 System and Lorenz's  oral-maxillofacial implants.
+
+Cost of sales decreased as a percentage of net sales to 30.8% for 1994 compared
+to 31.2% for 1993 due to the continued shift in the Company's sales mix to
+reconstructive devices.  The Company's selling, general and administrative
+expenses slightly increased to 36.5% of net sales in 1994 compared to 36.4%
+last year.  Research and development expense also increased slightly from 5.4%
+of net sales last year to 5.5% this year, reflecting the Company's commitment
+to maintain its competitive position within the orthopedic market through
+technological advancements  and to capitalize on future opportunities available
+within the orthopedic market.  The increase in other income is a direct result
+of income earned on higher investment balances in fiscal 1994 compared to 1993.
+The effective income tax rate increased from 32.2% in fiscal 1993 to 34.8% this
+year.  This increase is due to the increase in the U.S. corporate income tax
+rate and changes in the Puerto Rico local tax structure resulting from the
+reduction of tax benefits from operating in Puerto Rico instituted by the
+Clinton Administration.  The Company's effective tax rate will continue to
+increase in future years as the full impact of the Clinton Administration's tax
+increase takes effect.  These factors resulted in a 9% increase in net income
+from $63,961,000 last year to $69,818,000 and a 9% increase in earnings per
+share to $.61 per share this year from $.56 per share last year.
+
+During fiscal 1995, the Company will strive to find ways to improve its current
+growth rate through increased marketing and product development efforts for
+both domestic and international markets.  During the past fiscal year, many
+promising products were introduced into the marketplace including EBI's Model
+1200 Bone Healing System, the Maxim Total Knee System, and the Impact Modular
+Revision Hip System.
+
+Management believes that some or all of the following factors may be
+influencing the orthopedic industry and the Company's recent operating results.
+First, although recessions historically have not had an adverse affect on the
+orthopedic market, management believes the prolonged worldwide economic
+weakness may be having a negative influence on elective surgical trends.  In
+addition, the Company is experiencing pricing pressure in orthopedic support
+devices and operating room supplies and in some generic internal fixation
+device products.  As health care providers become more concerned with health
+care costs, they have become more selective with respect to the use of
+higher-cost reconstructive devices which are increasingly limited for use in
+younger, more active patients.  The DRG-based prospective payment system may
+increase the future importance of price as a competitive factor within the
+orthopedic product and implantable bone growth stimulation markets.  Also, the
+shift by Medicare to fixed reimbursement rates payable to physicians based on
+Relative Value Units together with uncer
+
+                                      15
+<PAGE>   17
+tainties associated with the pending health care reform initiatives of the
+Clinton Administration have created some uncertainty in the orthopedic market.
+Finally, the Company has experienced some delays in receiving clearance of new
+products from the FDA, as a result of the FDA's attempts to follow the
+directives of Congress.  Although such delays have not had a material adverse
+impact on the financial operations of the Company, management is unable to
+determine at the present time what impact such delays may have in the future if
+they continue or become worse.
+
+LIQUIDITY AND CAPITAL RESOURCES
+The Company's cash and cash equivalents and short-term investments increased
+$47,219,000 to $140,842,000 at May 31,1994 despite purchases of the Company's
+common shares.  This increase is attributable to cash flows generated from
+operating activities and strict measures implemented in late fiscal 1993 to
+reduce manufacturing capacities and inventory growth.
+
+Cash flows provided by operating activities were $65,743,000 in 1994 compared
+to $43,750,000 in 1993.  The primary source of the 1994 cash flows from
+operating activities were profits from operations and an increase in accounts
+payable, partially offset by increases in accounts and notes receivable and
+inventories.  Accounts and notes receivable increased 14% from $84,708,000 last
+year to $96,800,000 at May 31, 1994, as  a direct result of the increase in net
+sales for the current fiscal year.  Inventories increased 11% to $92,263,000 at
+May 31, 1994 from $83,003,000 at May 31, 1993,  reflecting an increase in the
+number of units on consignment to support the current level of sales and the
+support of the recent introduction of several new products including the
+Mallory-Head and Impact Modular Total Hip Systems, the Maxim Total Knee System
+and Arthrotek's Integrated Endoscopy System (IES 1000).  Included in the
+aforementioned changes were decreases in accounts and notes receivable and
+inventories of approximately $608,000 and $858,000, respectively, attributable
+to the decrease from May 31, 1993 to May 31, 1994 in the exchange rates used to
+convert the financial statements of  the Company's foreign subsidiaries from
+their functional currency to the U.S. Dollar.  These decreases did not affect
+the Company's earnings during the year because foreign currency translation
+adjustments to balance sheet items are recognized as a component of
+shareholders' equity in the Company's consolidated balance sheet.  The Company
+will continue to be exposed to the effects of foreign currency translation
+adjustments.
+
+Cash flows used in investing activities were $26,979,000 in 1994 compared to
+$31,531,000 in 1993.  The primary uses of cash flows from investing activities
+include purchases of short-term investments and capital expenditures.  The
+Company increased its short-term investments by $21,407,000 due to more
+attractive investment yields on longer-term investments.  The Company's capital
+expenditures have slowed due to the major expansions completed in fiscal 1993.
+
+Cash flows used in financing activities were $12,440,000 in 1994 compared to
+$2,192,000 in 1993.  The primary use of cash flows from financing activities
+was the common share repurchase program.  On September 17, 1993, the Company's
+Board of Directors authorized the investment of up to $25 million in the
+outstanding common shares of the Company in open market or privately negotiated
+transactions through the close of business on September 16, 1994.  During
+fiscal 1994, the Company purchased 1,260,000 shares for $12,276,000.  Future
+purchases, if any, will be dependent upon market conditions.
+
+Currently available funds, together with the anticipated cash flows generated
+from future operations, are believed to be adequate to cover the Company's
+anticipated capital needs and research and development costs during the next
+two fiscal years.  The Company expects to spend approximately $65 million
+during the next two fiscal years for capital expenditures and research and
+development, and anticipates using a portion of its cash reserves to fund
+future acquisitions and other business development activities.
+
+In May 1993, the Financial Accounting Standards Board released Statement of
+Financial Accounting Standards No. 115, "Accounting for Certain Investments in
+Debt and Equity Securities", which is effective for fiscal years beginning
+after December 15, 1993.  This statement addresses the accounting for and
+reporting of investments in equity securities that have readily determinable
+fair values and for all debt securities.  The Company will adopt the new
+statement as of June 1, 1994, and the effect of implementation will not be
+material to the Company's consolidated financial statements.
+
+1993 COMPARED TO 1992
+In fiscal 1993 net sales increased 22%, or $60,578,000, to $335,373,000 as a
+result of increased unit sales for the Company's products, principally Biomet's
+reconstructive devices and EBI's external fixation products and the inclusion
+of the sales of Lorenz Surgical.  Net income and earnings per share increased
+23% and 22%, respectively.  These increases were possible as a result of strict
+measures to control selling, general and administrative costs.  Selling,
+general and administrative expenses decreased from 37.4% of net sales in fiscal
+1992 to 36.4% for fiscal 1993.  Research and development expenditures increased
+by 8% during fiscal 1993.  The decline in research and development expenditures
+as a percentage of net sales reflected, in part, the inclusion of Lorenz
+Surgical, the operations of which were not materially dependent upon research
+and development.  The decrease in other income was a direct result of lower
+investment rates available in fiscal 1993.
+
+During fiscal year 1993, the Company completed the 65,000 square foot expansion
+of its Warsaw facility.  This additional manufacturing and office space is
+expected to be sufficient to accommodate anticipated future growth.
+
+                                      16
+<PAGE>   18
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.
+
+         See Index to Consolidated Financial Statements and Schedules which
+         appears on page 20 herein.
+
+ITEM 9.  CHANGES IN AND  DISAGREEMENTS  WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE.
+
+                 Not Applicable
+
+                                    PART III
+
+ITEM 10.         DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+
+        The information included under the caption "Election of Directors" in
+the Company's definitive Proxy Statement filed pursuant to Regulation 14A in
+connection with its 1994 Annual Meeting of Shareholders (the "Proxy Statement")
+is incorporated herein by reference in response to this item.
+
+        Information regarding executive officers of the Company is included in
+Part I of this Report under the caption "Executive Officers of the Registrant"
+on pages 12 and 13.
+
+ITEM 11.  EXECUTIVE COMPENSATION.
+
+        The information included under the captions "Compensation of Directors"
+and "Executive Compensation" in the Proxy Statement is incorporated herein by
+reference in response to this item.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+        The information contained under the captions "Principal Shareholders"
+and "Share Ownership of Directors and Executive Officers" in the Proxy Statement
+is incorporated herein by reference in response to this item.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+        The information contained under the caption "Certain Transactions" in
+the Proxy Statement is incorporated herein by reference in response to this
+item.
+
+                                    PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K.
+
+(A)(1 AND 2) FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULES.
+
+           See Index to Consolidated Financial Statements and Schedules which 
+           appears on page 20 herein.
+
+   (3)     EXHIBITS.
+
+           See Index to Exhibits.
+
+(B)      REPORTS ON FORM 8-K.
+
+         None.
+
+                                      17
+<PAGE>   19
+                                   SIGNATURES
+
+        Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+
+                                  BIOMET, INC.
+
+
+                          By:      /s/   DANE A. MILLER
+                                         Dane A. Miller 
+                              President and Chief Executive Officer
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities indicated on July 19,1994.
+
+
+
+                          By:      /s/  NILES L. NOBLITT
+                                   Niles L. Noblitt, Director
+
+
+
+                          By:      /s/  DANE A. MILLER
+                                   Dane A. Miller, Director  (Principal
+                                   Executive Officer)
+
+
+
+                          By:       /s/  JERRY L. FERGUSON 
+                                   Jerry L. Ferguson, Director
+
+
+
+                          By:       /s/  M. RAY HARROFF                        
+                                   M. Ray Harroff, Director
+
+
+
+                          By:      /s/  KENNETH V. MILLER  
+                                   Kenneth V. Miller, Director
+
+
+
+                          By:      /s/  JERRY L. MILLER
+                                   Jerry L. Miller, Director
+
+
+
+                          By:      /s/  L. GENE TANNER 
+                                   L. Gene Tanner, Director
+
+
+
+                          By:      /s/  THOMAS F. KEARNS, JR                   
+                                   Thomas F. Kearns, Jr., Director
+
+
+
+
+
+                                      18
+<PAGE>   20
+                          By:      /s/  CHARLES E. NIEMIER                      
+                                   Charles E. Niemier, Director
+
+
+
+                          By:      /s/  JAMES M. NORRIS 
+                                   James M. Norris, Director
+
+
+
+                          By:      /s/  DANIEL P. HANN 
+                                   Daniel P. Hann, Director
+
+
+                          By:      /s/  MARILYN TUCKER QUAYLE         
+                                   Marilyn Tucker Quayle, Director
+
+
+                          By:      /s/  GREGORY D. HARTMAN                 
+                                   Gregory D. Hartman, Vice President -
+                                   Finance (Principal Financial Officer)
+
+
+                          By:      /s/  JAMES W. HALLER 
+                                   James W. Haller,
+                                   Controller (Principal Accounting Officer)
+
+
+                                      19
+<PAGE>   21
+                         BIOMET, INC. AND SUBSIDIARIES
+                        INDEX TO CONSOLIDATED FINANCIAL STATEMENTS AND SCHEDULES
+
+1.       FINANCIAL STATEMENTS:                                             PAGE 
+                                                                           ----
+
+Report of Independent Accountants.  . . . . . . . . . . . . . . . . . . .   21
+
+Consolidated Balance Sheets as of May 31, 1994 and 1993.  . . . . . . . .   22
+                                                                          
+Consolidated Statements of Income for the years ended                     
+ May 31, 1994, 1993 and 1992. . . . . . . . . . . . . . . . . . . . . . .   23
+                                                                          
+Consolidated Statements of Shareholders' Equity for                       
+the years ended May 31, 1994, 1993 and 1992.  . . . . . . . . . . . . . .   24
+                                                                          
+Consolidated Statements of Cash Flows for the years                       
+ended May 31, 1994, 1993 and 1992.  . . . . . . . . . . . . . . . . . . .   25
+                                                                          
+Notes to Consolidated Financial Statements. . . . . . . . . . . . . . .  26-32
+                                                                          
+                                                                          
+2.  FINANCIAL STATEMENT SCHEDULES:                                        
+                                                                          
+Schedule I - Marketable Securities and Other Investments  . . . . . . . .   33
+                                                                          
+Schedule VIII - Valuation and Qualifying Accounts.  . . . . . . . . . . .   34
+                                                                          
+Schedule IX - Short-Term Borrowings . . . . . . . . . . . . . . . . . . .   35
+                                                                          
+Schedule X - Supplementary Income Statement Information.  . . . . . . . .   36
+
+Schedules other than those listed above are omitted because they are not
+required or the information is included in the Notes to Consolidated Financial
+Statements.
+
+                                      20
+<PAGE>   22
+REPORT OF INDEPENDENT ACCOUNTANTS
+
+
+COOPERS              certified public accountants
+& LYBRAND            
+
+To the Shareholders and Board of Directors of Biomet, Inc.:
+
+We have audited the consolidated financial statements and the financial
+statement schedules of Biomet, Inc. and subsidiaries listed on page 20 of this
+Form 10-K.  These consolidated financial statements and financial statement
+schedules are the responsibility of the Company's management.  Our
+responsibility is to express an opinion on these consolidated financial
+statements and financial statement schedules based on our audits.
+
+We conducted our audits in accordance with generally accepted auditing
+standards.  Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements.  An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation.  We believe that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the consolidated financial position of
+Biomet, Inc. and subsidiaries as of May 31, 1994 and 1993, and the consolidated
+results of their operations and their cash flows for each of the three years in
+the period ended May 31, 1994 in conformity with generally accepted accounting
+principles.  In addition, in our opinion, the financial statement schedules
+referred to above, when considered in relation to the basic financial statements
+taken as a whole, present fairly, in all material aspects, the information
+required to be included therein.
+
+
+                                                             COOPERS & LYBRAND
+
+South Bend, Indiana
+July 1, 1994
+
+
+
+
+
+                                      21
+<PAGE>   23
+
+BIOMET, INC. AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS
+(in thousands)
+as of May 31,
+
+<TABLE>
+<CAPTION>
+                                                                                    1994         1993
+<S>                                                                               <C>           <C>
+ASSETS
+Current assets:
+  Cash and cash equivalents                                                       $  70,391     $  44,579
+  Short-term investments                                                             70,451        49,044
+  Accounts and notes receivable, less allowance for doubtful receivables
+    (1994 - $3,619 and 1993 - $3,175)                                                96,800        84,708
+  Inventories                                                                        92,263        83,003
+  Prepaid expenses and other                                                         12,322         9,705
+    Total current assets                                                            342,227       271,039
+Property, plant and equipment:
+  Land and improvements                                                               2,397         2,422
+  Buildings and leasehold improvements                                               25,740        24,387
+  Machinery and equipment                                                            55,323        50,869
+                                                                                     83,460        77,678
+  Less, Accumulated depreciation and amortization                                    32,336        24,609
+     Property, plant and equipment, net                                              51,124        53,069
+Intangible assets, net of accumulated amortization 
+   (1994 - $10,124 and 1993 - $8,010)                                                 9,599        11,417
+Excess acquisition costs over fair value of acquired net assets, net of
+  accumulated amortization (1994 - $7,655 and 1993 - $6,020)                         11,427         9,638
+Investments in and advances to affiliates                                             1,678         7,828
+Other assets                                                                          2,022         1,418
+    Total assets                                                                   $418,077      $354,409
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+  Short-term borrowings                                                            $  1,606      $  2,436
+  Accounts payable                                                                   18,604        12,959
+  Accrued income taxes                                                               13,620        12,202
+  Accrued wages and commissions                                                       8,249         7,227
+  Other accrued expenses                                                             11,740        11,828
+    Total current liabilities                                                        53,819        46,652
+Deferred federal income taxes                                                         3,529         2,564
+Other liabilities                                                                     3,446         3,874
+   Total liabilities                                                                 60,794        53,090
+Commitments and contingencies (Note J)
+
+Shareholders' equity
+  Preferred shares, $100 par value, authorized 5 shares; none issued                      -             -
+  Common shares, without par value:  Authorized 500,000 shares;
+    issued and outstanding (1994 - 114,424 shares and 1993 - 115,288 shares)         47,290        46,829
+  Additional paid-in capital                                                         13,606        13,106
+  Retained earnings                                                                 299,510       242,618
+  Cumulative translation adjustment                                                  (3,123)       (1,234)
+    Total shareholders' equity                                                      357,283       301,319
+    Total liabilities and shareholders' equity                                     $418,077      $354,409
+</TABLE>
+
+The accompanying notes are a part of the consolidated financial statements.
+
+
+                                      22
+<PAGE>   24
+
+BIOMET, INC. AND SUBSIDIARIES CONSOLIDATED STATEMENTS OF INCOME
+
+(in thousands, except earnings per share)
+for the years ended May 31,          
+
+<TABLE>
+<CAPTION>
+                                                                        1994               1993            1992
+<S>                                                                   <C>                <C>             <C>
+NET SALES                                                             $373,295           $335,373        $274,795
+Cost of sales                                                          114,829            104,741          85,657
+  Gross profit                                                         258,466            230,632         189,138
+Selling, general and administrative expenses                           136,191            122,170         102,695
+Research and development expense                                        20,521             17,995          16,620
+  Operating income                                                     101,754             90,467          69,823
+Other income, net                                                        5,867              4,730           7,516
+Interest expense                                                          (589)              (925)           (828)
+  Income before income taxes                                           107,032             94,272          76,511
+Provision for income taxes                                              37,214             30,311          24,702
+  NET INCOME                                                          $ 69,818           $ 63,961        $ 51,809
+EARNINGS PER SHARE, BASED ON THE WEIGHTED AVERAGE NUMBER
+  OF SHARES OUTSTANDING DURING THE YEAR                                   $.61               $.56            $.46
+Weighted average number of shares                                      115,215            114,934         113,009
+</TABLE>
+
+The accompanying notes are a part of the consolidated financial statements.
+
+
+                                      23
+<PAGE>   25
+
+BIOMET, INC. AND SUBSIDIARIES CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+
+(in thousands)
+for the years ended May 31, 1994, 1993 and 1992
+
+<TABLE>
+<CAPTION>
+                                                                              Additional                Cumulative
+                                                       Common Shares            Paid-in     Retained    Translation
+                                                     Number      Amount         Capital     Earnings    Adjustment
+<S>                                                  <C>         <C>           <C>          <C>         <C>
+Balance, June 1, 1991                                112,378     $ 40,534      $  7,959     $123,452    $     983
+
+  Issuance of shares                                     170        1,343            -            -           -
+  Exercise of stock options                              914        2,427            -            -           -
+  Tax benefit arising from the
+    exercise of stock options                              -            -        2,279            -           -
+  Net income                                               -            -            -       51,809           -
+  Translation adjustment                                   -            -            -            -       1,681
+
+Balance, May 31, 1992                                113,462       44,304        10,238      175,261      2,664
+
+  Issuance of shares                                       4           73            -            -           -
+  Exercise of stock options                              831        2,436            -            -           -
+  Tax benefit arising from the
+    exercise of stock options                              -            -        2,868            -           -
+  Acquisition of Lorenz Surgical                         991           16            -         3,396          -
+  Net income                                               -            -            -        63,961          -
+  Translation adjustment                                   -            -            -            -      (3,898)
+
+Balance, May 31, 1993                                115,288       46,829       13,106       242,618     (1,234)
+
+  Issuance of shares                                       7           62            -            -           -
+  Exercise of stock options                              389          911            -            -           -
+  Repurchase of shares                                (1,260)        (512)        (144)      (11,620)         -
+  Tax benefit arising from the
+    exercise of stock options                              -            -          644           -            -
+  Effect of change from cost to equity method
+    of accounting for certain unconsolidated
+    subsidiaries                                           -             -            -       (1,306)          -
+  Net income                                               -             -            -       69,818           -
+  Translation adjustment                                   -             -            -            -       (1,889)
+
+Balance, May 31, 1994                                114,424      $47,290        $13,606    $299,510      $(3,123)
+</TABLE>
+
+The accompanying notes are a part of the consolidated financial statements.
+
+
+                                      24
+<PAGE>   26
+
+BIOMET, INC. AND SUBSIDIARIES CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(in thousands)
+for the years ended May 31,                                               
+
+
+<TABLE>
+<CAPTION>
+                                                                       1994        1993        1992
+<S>                                                                <C>          <C>         <C>
+Cash flows from (used in) operating activities:                    
+      Net income                                                   $  69,818    $  63,961   $ 51,809
+      Adjustments to reconcile net income to net cash from 
+         operating activities:
+            Depreciation                                               8,167        7,590      5,542
+            Amortization                                               3,879        4,097      2,617
+            Gain on sale of marketable securities, net                (2,213)        (670)    (1,692)
+            Equity in losses of affiliates                             1,579          143        219
+            Deferred federal income taxes                             (1,130)        (401)       878
+            Changes in current assets and current liabilities:
+                  Accounts and notes receivable                      (13,092)     (14,328)   (13,664)
+                  Inventories                                        (10,097)     (22,171)   (14,986)
+                  Prepaid expenses and other                            (448)         332     (1,721)
+                  Accounts payable                                     6,414       (4,487)     1,246
+                  Accrued income taxes                                 1,818        6,054      4,341
+                  Accrued wages and commissions                        1,048        1,226      1,939
+                  Other accrued expenses                                   -        2,404        845
+            Net cash from operating activities                        65,743       43,750     37,373
+
+Cash flows from (used in) investing activities:
+      Proceeds from sales and maturities of short-term investments    21,259       13,784     16,118
+      Purchases of short-term investments                            (40,453)     (22,351)   (36,646)
+      Capital expenditures                                            (6,545)     (14,912)   (14,048)
+      Cash invested in affiliates                                     (1,466)      (2,625)    (1,653)
+      Payments on patents capitalized                                     -        (2,733)    (3,134)
+      Increase in other assets                                          (666)      (3,172)      (743)
+      Other                                                              892          478        423
+            Net cash (used in) investing activities                  (26,979)     (31,531)   (39,683)
+Cash flows from (used in) financing activities:
+      Increase (decrease) in short-term borrowings                      (719)           -        230
+      Payments on long-term debt                                        (418)      (4,701)         -
+      Issuance of shares                                                 973        2,509      3,770
+      Repurchase of shares                                           (12,276)           -          -
+      Net cash from (used in) financing activities                   (12,440)      (2,192)     4,000
+
+Effect of exchange rate changes on cash                                 (512)        (226)        (4)
+
+          Increase in cash and cash equivalents                       25,812        9,801      1,686
+Cash and cash equivalents, beginning of year                          44,579       34,778     33,092
+
+Cash and cash equivalents, end of year                             $  70,391    $  44,579   $ 34,778
+
+Supplemental disclosures of cash flow information:
+      Cash paid during the year for:
+            Interest                                               $     581    $     948        803
+
+            Income taxes                                              36,480       24,444     19,033
+</TABLE>
+
+
+The accompanying notes are a part of the consolidated financial statements.
+
+
+                                      25
+<PAGE>   27
+
+BIOMET INC. AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+for the years ended May 31, 1994, 1993 and 1992
+
+Note A:  Accounting Policies.
+
+The following is a summary of the accounting policies adopted by Biomet, Inc.
+and subsidiaries which have a significant effect on the consolidated financial
+statements.
+
+Principles of Consolidation - The consolidated financial statements include the
+accounts of Biomet, Inc. and its subsidiaries (individually and collectively,
+the "Company").  All intercompany accounts and transactions have been
+eliminated in the consolidated financial statements.  All foreign subsidiaries
+are consolidated on the basis of an April 30 fiscal year.  Investments in less
+than 20% owned affiliates are accounted for on the cost method, the carrying
+amount of which approximates market.  Investments in more than 20% owned
+affiliates are accounted for on the equity method.  The equity in losses of
+affiliates aggregated $1,579,000, $143,000 and $219,000, respectively, for the
+years ended May 31, 1994, 1993 and 1992 and consist primarily of research and
+development expense.  Accordingly, these amounts are included in research and
+development expense in the consolidated statements of income.
+
+Translation of Foreign Currency - Assets and liabilities of foreign
+subsidiaries are translated at rates of exchange in effect at the close of
+their fiscal year.  Revenues and expenses are translated at the weighted
+average exchange rates during the year.  Translation gains and losses are
+accumulated as a separate component of shareholders' equity.  Foreign currency
+transaction gains and losses are included in other income, net.
+
+Cash and Cash Equivalents - The Company considers all highly liquid investments
+with original maturities of three months or less to be cash equivalents.
+Investments which do not meet the definition of cash equivalents are classified
+as short-term investments.
+
+Short-Term Investments - Short-term investments, other than marketable equity
+securities, are carried at cost or amortized cost, which approximates market.
+Marketable equity securities are valued at the lower of aggregate cost or
+market value.  Dividend and interest income are accrued as earned.  The cost of
+marketable securities sold is determined by the specific identification method.
+
+Inventories - Inventories are stated at the lower of cost or market, with cost
+determined under the first-in, first-out method.
+
+Property, Plant and Equipment - Property, plant and equipment are carried at
+cost less accumulated depreciation and amortization.  Depreciation is computed
+based on the estimated useful lives using the straight-line method.  Leasehold
+improvements are amortized over the term of the lease using the straight-line
+method.  Gains or losses on the disposition of property, plant and equipment
+are included in income.  Maintenance and repairs are expensed as incurred.
+
+Intangible Assets - Intangible assets consist primarily of patents, trademarks,
+product technology and acquired license agreements and are carried at cost less
+accumulated amortization.  Amortization of intangibles is computed based on the
+straight-line method over periods ranging from eight to twelve years.  
+
+Excess Acquisition Costs Over Fair Value of Acquired Net Assets -
+Excess acquisition costs over fair value of acquired net assets (goodwill) are
+amortized using the straight-line method over periods ranging from eight to ten
+years.
+
+Short-Term Borrowings - The Company's German subsidiary, Effner Biomet GmbH,
+has short-term borrowings of $1,606,000 and $2,436,000 as of May 31, 1994 and
+1993 respectively.
+
+Income Taxes - Effective June 1, 1993, the Company adopted Statement of
+Financial Accounting Standards No. 109, "Accounting for Income Taxes" ("SFAS
+No. 109") which requires recognition of deferred tax assets and liabilities
+based on differences between the financial reporting and tax bases of assets
+and liabilities, measured using the enacted tax rates in effect for the years
+in which the differences are expected to reverse.  Prior to the adoption of
+SFAS No. 109, deferred  income taxes were determined using the deferred method
+pursuant to Accounting Principles Board Opinion No. 11.  Under the deferred
+method, tax expense was based on items of income and expense that were reported
+in different years in the financial statements and tax returns and were
+measured at the tax rate in effect in the year the difference originated.
+
+Revenue Recognition, Concentrations of Credit Risk and Allowance for Doubtful
+Receivables - Revenue is recognized when the product is shipped to the health
+care provider.  The Company provides credit, in the normal course of business,
+to hospitals, private and governmental institutions and health-care agencies,
+insurance providers and physicians.  The Company maintains an allowance for
+doubtful receivables and charges actual losses to the allowance when incurred.
+The Company invests the majority of its excess cash in certificates of deposit
+with financial institutions, money market securities, short-term municipal
+securities and common stocks.  The Company does not believe it is exposed to
+any significant credit risk on its cash and cash equivalents and short-term
+investments.  At May 31,1994, cash and cash equivalents and short-term
+investments included $30 million of deposits and $21 million of certificates of
+deposit, respectively, with financial institutions in Puerto Rico, and
+short-term investments also include $21 million of municipal bonds issued by
+state and local subdivisions in Puerto Rico.
+
+
+                                      26
+<PAGE>   28
+
+BIOMET INC. AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(CONTINUED)
+for the years ended May 31, 1994, 1993 and 1992
+
+Note B:  Acquisitions.
+
+During the year ended May 31, 1994, the Company increased its ownership in
+Polymers Reconstructive A/S ("Polymers"), a Dutch company involved in the
+manufacturing and distribution of a proprietary bone cement system, to 51% in
+several transactions.  Upon exceeding 20% ownership, the Company began
+accounting for this investment under the equity method, and upon achieving
+majority ownership, the Company began consolidating Polymers.  Goodwill
+recognized in the consolidation of Polymers aggregates $3.8 million and is
+being amortized over a ten-year period.   Also during the year ended May 31,
+1994, the Company began accounting for its investment in Catheter Research,
+Inc. ("CRI"), a company involved in various research and development
+activities, using the equity method to reflect its increased ownership.  The
+retroactive application of the equity method of accounting for Polymers and CRI
+resulted in a decrease in the Company's investment in Polymers and CRI of
+$492,000 and $814,000, respectively, which was charged against retained
+earnings (the prior years' consolidated financial statements were not restated
+to reflect the retroactive application of the equity method, since the amounts
+were immaterial to prior years' consolidated financial statements).
+
+On July 31, 1992, the Company through its wholly-owned subsidiary, Lorenz
+Surgical Acquisition Corp., issued 990,873 common shares of the Company for all
+of the issued and outstanding common shares of Walter Lorenz Surgical
+Instruments, Inc. ("Lorenz Surgical"), a leading marketer of oral-maxillofacial
+products based in Jacksonville, Florida.  The historical carrying value of the
+assets and liabilities of Lorenz Surgical at the date of acquisition were
+approximately $12,180,000 and $8,768,000, respectively.  The acquisition was
+accounted for as a pooling of interests and, accordingly, the results of
+operations of Lorenz Surgical are included in the Company's consolidated
+statements of income from June 1, 1992.  Prior years  consolidated financial
+statements were not restated to reflect the pooling of interests and pro forma
+consolidated results of operations are not presented as the amounts are not
+materially different from the Company's historical results.
+
+Note C:  Short-Term Investments.
+
+Marketable securities included in short-term investments as of May 31, 1994 and
+1993 consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                                 1994              1993
+                                                                            (in thousands)
+<S>                                                            <C>              <C>
+Aggregate cost:
+         Common stocks                                         $  4,771          $  3,634
+         Preferred stocks                                         1.797             4,231
+         Bonds                                                   41,283            19,579
+         Carrying amount                                        $47,851           $27,444
+
+Aggregate market value                                          $50,538           $29,527
+</TABLE>
+
+At May 31, 1994 gross unrealized gains aggregated $2,955,000 and gross
+unrealized losses aggregated $268,000.
+
+Investment income included in other income, net consists of the following:
+<TABLE>
+<CAPTION>
+                                                               1994    1993         1992
+                                                                            (in thousands)
+<S>                                                          <C>        <C>         <C>
+Interest income                                              $3,977     $2,839      $2,804
+Dividend income                                                 442        586         645
+Net realized gains                                            2,202        670       1,662
+
+     Total                                                   $6,621     $4,095      $5,111
+</TABLE>
+
+
+Note D: Inventories
+
+Inventories at May 31, 1994 and 1993 consist of the following:
+
+<TABLE>
+<CAPTION>
+                                                                       1994     1993
+                                                                           in thousands
+<S>                                                                 <C>         <C>
+Raw material                                                        $12,729     $11,374
+Work-in-process                                                       8,702       8,041
+Finished goods                                                       41,200      41,161
+Consigned Distributor                                                29,632      22,427
+
+         Total                                                       92,263      83,003
+</TABLE>
+
+
+                                      27
+<PAGE>   29
+BIOMET, INC. AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(CONTINUED)
+
+for the years ended May 31, 1994, 1993 and 1992
+
+Note E:  Team Member Benefit Plans.
+
+The Company has an Employee Stock Bonus Plan for eligible Team Members of the
+Company and certain subsidiaries.  The amounts expensed under this plan for the
+years ended May 31, 1994, 1993 and 1992 were $1,546,000, $1,322,000 and
+$1,162,000, respectively.
+
+The Company also has a defined contribution profit sharing plan which covers
+substantially all of the Team Members within the continental U.S.  and allows
+participants to make contributions by salary reduction pursuant to Section
+401(k) of the Internal Revenue Code.  The Company may match up to 50% of the
+Team Member's contribution up to a maximum of 5% of the Team Member's
+compensation.  The amounts expensed under this profit sharing plan for the
+years ended May 31, 1994, 1993 and 1992 were $1,075,000, $922,000 and $908,000,
+respectively.
+
+Biomet Ltd., a subsidiary based in the United Kingdom, has a defined benefit
+pension plan for all of its salaried Team Members.  Pension expense and related
+pension amounts are immaterial to the consolidated financial statements.
+
+Note F:  Stock Option Plans.
+
+The Company has three stock option plans:  the 1984 Employee Stock Option Plan,
+as amended, the 1992 Employee and Non-Employee Director Stock Option Plan (the
+"Employee Plans") and the 1992 Distributor Stock Option Plan (the "Distributor
+Plan").
+
+Under the Employee Plans, options may be granted to key employees, at the
+discretion of the stock option committee, and generally become exercisable in
+annual increments beginning one year after the date of grant.  In the case of
+options granted to an employee of the Company who is a 10% or more shareholder,
+the option price is an amount per share of not less than 110% of the fair
+market value per share on the date of granting the option, as determined by the
+Committee.  No options have been granted to employees who are 10% or more
+shareholders.  The option price for options granted to all other employees is
+an amount per share of not less than the fair market value per share on the
+date of granting the option.  The term of each option granted expires within
+the period prescribed by the Committee, but shall not be more than five years
+from the date the option is granted if the optionee is a 10% or more
+shareholder, and not more than ten years for all other optionees.
+
+An aggregate of 9,680,000 common shares have been reserved for granting under
+the 1984 Employee Stock Option Plan.  An aggregate of 3,000,000 common shares
+have been reserved for granting under the 1992 Employee and Non-Employee
+Director Stock Option Plan.   The 1992 Plan does not affect options granted
+under the 1984 Plan.
+
+The Distributor Plan provides for granting of options to purchase common shares
+of the Company to persons who serve as distributors of the Company's products.
+An aggregate of 4,000,000 common shares have been reserved for granting under
+this plan.  Under the Distributor Plan, options may be granted from time to
+time at the discretion of the stock option committee, and become exercisable in
+full at any time or on a cumulative basis from time to time, in accordance with
+the stock option agreement prescribed by the stock option committee.  The
+option price is determined by the stock option committee, but shall not be less
+than the fair market value of such shares on the date of grant, as determined
+by the committee.  All rights under the option terminate upon the termination
+of an optionee's distributorship with the Company unless such termination
+results from retirement, disability or death.  No option may have a term longer
+than ten years from the date the option is granted.
+
+The transactions for common shares under options for the years ended May 31,
+1994 and 1993 were as follows:
+
+<TABLE>
+<CAPTION>
+                                                                Number                 Per Share
+                                                              of Shares               Option Price
+<S>                                                          <C>                     <C>
+Outstanding, June 1, 1992                                     3,433,099              $ 1.38 - $26.13
+      Granted                                                   940,350               10.25 -  14.63
+      Exercised                                                (826,737)               1.38 -  16.25
+      Terminated                                               (576,132)               2.86 -  26.13
+
+Outstanding, May 31, 1993                                     2,970,580                1.53 -  15.00
+      Granted                                                 1,501,969                8.50 -  10.50
+      Exercised                                                (525,518)               1.53 -  10.50
+      Terminated                                               (885,678)               3.96 -  13.63
+
+Outstanding, May 31, 1994                                     3,061,353              $ 1.53 - $15.00
+</TABLE>
+
+
+                                      28
+<PAGE>   30
+
+BIOMET, INC. AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(CONTINUED)
+
+for the years ended May 31, 1994, 1993 and 1992
+
+Note F:  Stock Option Plans (Concluded).
+
+Options outstanding at May 31, 1994 which are currently exercisable represent
+974,000 shares.  The remaining options become exercisable in fiscal years 1995
+(599,000 shares); 1996 (381,000 shares); 1997 (416,000 shares); 1998 (356,000
+shares); 1999 (310,000 shares) and 2000 through 2002 (25,353 shares).  As of
+May 31, 1994, 6,956,092 shares were reserved for future options, compared with
+7,572,383 shares at May 31, 1993.
+
+No adjustment was made to the weighted average number of shares outstanding to
+reflect the exercise of outstanding stock options since the effect would be
+immaterial.
+
+Note G:  Shareholders' Equity.
+
+In September 1993, the Board of Directors authorized the Company to repurchase
+up to $25 million of the issued and outstanding common shares of the Company in
+open market purchases or privately negotiated transactions through the close of
+business on September 16, 1994.  During the year ended May 31, 1994, the
+Company purchased 1,260,000 shares of its common stock at an aggregate cost of
+$12,276,000.
+
+On December 2, 1989,  the Board of Directors of the Company approved the
+adoption of a Shareholder Rights Plan (the "Plan") under which the Company
+declared a dividend of one common share purchase right for each common share
+outstanding to shareholders of record on December 26, 1989 (the "Right").  Each
+Right entitles the shareholder to purchase from the Company one common share at
+a price of $37.50 per common share, subject to adjustment.  The Rights will not
+be exercisable or separable from the common shares until ten business days
+after a person or group acquires 15% or more or tenders for 30% or more of the
+Company's outstanding common shares.
+
+The Plan also provides that if any person or group becomes an "Acquiring
+Person", each Right, other than Rights beneficially owned by the Acquiring
+Person (which will thereafter be void), will entitle its holder to receive upon
+exercise that number of common shares having a market value of two times the
+exercise price of the Right.  In the event the Company is acquired in a merger
+or other business combination transaction, each Right will entitle its holder
+to receive upon exercise of the Right, at the Right's then current exercise
+price, that number of the acquiring company's common shares having a market
+value of two times the exercise price of the Right.  The Company is entitled to
+redeem the Rights at a price of one cent per Right at any time prior to them
+becoming exercisable, and the Rights expire on December 2, 1999.  The Plan was
+designed to protect the interests of the Company's shareholders against certain
+coercive tactics sometimes employed in takeover.
+
+Note H:  Income Taxes.
+
+Effective June 1, 1993, the Company adopted SFAS No. 109, (see Note A).  As
+permitted by SFAS No. 109, the Company has elected not to restate the financial
+statements of any prior years.  The adoption of SFAS No. 109 did not have a
+material effect in the Company's consolidated financial statements.
+
+The components of income before income taxes are as follows:
+
+
+
+<TABLE>
+<CAPTION>
+                                    1994             1993             1992
+                                                          (in thousands) 
+             
+<S>                              <C>              <C>                <C>    
+United States operations          $ 96,014          $86,356          $68,277
+Foreign operations                  11,018            7,916            8,234
+                        
+     Total                        $107,032          $94,272          $76,511
+</TABLE>                
+
+
+
+                                      29
+<PAGE>   31
+BIOMET, INC. AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(CONTINUED)
+
+for the years ended May 31, 1994, 1993 and 1992
+
+
+Note H:  Income Taxes (Concluded).
+
+The provision for income taxes is summarized as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                                                1994       1993         1992
+                                                                                             (in thousands)
+                                                                                               
+<S>                                                                           <C>         <C>         <C>
+Current:
+
+         Federal                                                               $25,937     $21,736     $14,840
+         State, including Puerto Rico                                            7,806       6,118       5,954
+         Foreign                                                                 4,601       2,858       3,030
+
+                                                                                38,344      30,712      23,824
+
+Deferred tax (credit) expense                                                   (1,130)       (401)        878
+
+         Total                                                                 $37,214     $30,311     $24,702
+
+Effective tax rate                                                                34.8%       32.2%       32.3%
+</TABLE>
+
+
+A reconciliation of the statutory federal income tax rate to the Company's
+effective tax rate follows:
+
+<TABLE>
+<CAPTION>
+                                                                                  1994        1993        1992
+         <S>                                                                     <C>          <C>           <C>
+     U.S. statutory income tax rate                                               35.0%       34.0%       34.0%
+     Add (deduct):
+         State taxes, less effect of federal reduction                             3.7         3.7         4.0
+         Foreign income taxes at rates different from the U.S. statutory rate       .3          .2          .3
+         Tax benefit relating to operations in Puerto Rico                        (4.8)       (5.4)       (5.5)
+         Research and development tax credit                                      ( .1)          -        ( .3)
+         Earnings of Foreign Sales Corporation                                    ( .5)       ( .4)       ( .3)
+         Other                                                                     1.2          .1          .1
+
+                                                                                  34.8%       32.2%       32.3%
+</TABLE>
+
+
+Deferred income taxes reflect the estimated future net tax effects of temporary
+differences between the carrying amounts of assets  and liabilities for
+financial reporting purposes and the amounts used for income tax purposes.  The
+components of the net deferred tax asset and liability at May 31, 1994 are as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                                        1994
+                                                                             (in thousands)
+                                                                                               
+<S>                                                                   <C>
+Current deferred tax asset:
+     Accounts receivable                                              $  1,156
+     Inventories                                                         1,932
+     Accrued expenses                                                    1,695
+     Investments in affiliates and joint ventures                        1,886
+
+         Net current deferred tax asset                               $  6,669
+
+Long term deferred tax asset (liability):
+     Depreciation                                                     $ (3,586)
+     Other                                                                  57
+         Net long-term deferred tax liability                         $ (3,529)
+</TABLE>
+
+No provision has been made for U.S. federal and state income taxes or foreign
+taxes of the undistributed earnings ($33,459,000 at May 31, 1994) of foreign
+subsidiaries because it is expected that such earnings will be reinvested
+overseas indefinitely.  Determination of the amount of any unrecognized
+deferred income tax liability on these undistributed earnings is not practical.
+
+
+
+                                      30
+<PAGE>   32
+BIOMET, INC. AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(CONTINUED)
+
+for the years ended May 31, 1994, 1993 and 1992
+
+Note I: Industry Segment and Geographic Information
+
+The Company operates in one dominant industry segment which includes the
+designing, manufacturing and marketing of reconstructive and trauma devices,
+electrical bone growth stimulators, orthopedic support devices, operating room
+supplies, powered surgical instruments, general surgical instruments,
+arthroscopy products and oral-maxillofacial implants and instruments used
+primarily by orthopedic medical specialists in both surgical and non-surgical
+therapy.
+
+Net sales, operating income and identifiable assets by geographic area are
+presented in the following table. The Company's major identifiable assets are
+located in the United States (North America) and the United Kingdom, Germany
+and Italy (Europe).
+
+
+
+<TABLE>
+<CAPTION>
+                                                 1994         1993        1992
+                                                                   (in thousands)
+<S>                                            <C>          <C>         <C>
+Net sales:
+         North America                         $316,936     $283,028    $227,737
+         Europe                                  56,359       52,345      47,058
+         Intercompany                            13,827        9,648       6,625
+         Eliminations                           (13,827)      (9,648)     (6,625)
+
+                                               $373,295     $335,373    $274,795
+
+Operating income:
+         North America                         $ 89,805     $ 81,811    $ 61,077
+         Europe                                  11,949        8,656       8,746
+
+                                               $101,754     $ 90,467    $ 69,823
+
+Identifiable assets:
+         North America                         $355,206     $300,884    $230,434
+         Europe                                  70,131       56,506      48,291
+         Eliminations                            (7,260)      (2,981)        509
+
+                                               $418,077     $354,409    $279,234
+</TABLE>
+
+Intercompany transfers, primarily from North America to Europe, are made at
+agreed upon prices which include a profit element.  Domestic export sales,
+primarily to European countries, aggregated $28,720,000, $25,929,000 and
+$23,586,000 for the years ended May 31, 1994, 1993 and 1992, respectively.
+
+
+Selected financial data of the Company's foreign subsidiaries is as follows:
+
+
+
+<TABLE>
+<CAPTION>
+                                                 1994         1993        1992
+                                                                   (in thousands)
+<S>                                            <C>          <C>         <C>
+Net sales                                      $ 61,197     $ 54,505    $ 49,701
+Net income                                     $  6,417     $  4,871    $  5,205
+Current assets                                 $ 53,515     $ 45,592    $ 36,344
+Property, plant and equipment                    11,151        9,377      10,285
+Intangible assets                                 2,734        3,261       3,571
+
+                                                 67,400       58,230      50,200
+
+Current liabilities                              18,332       15,777      14,683
+Intercompany loans                               13,803        8,746       2,517
+Long-term liabilities                             1,345        1,240       1,318
+
+                                                 33,480       25,763      18,518
+
+    Net assets                                 $ 33,920     $ 32,467    $ 31,682
+</TABLE>
+
+
+                                      31
+<PAGE>   33
+
+
+BIOMET, INC. AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS (CONCLUDED)
+for the years ended May 31, 1994, 1993 and 1992
+
+Note J:  Commitments and Contingencies.
+
+Leases - The Company's subsidiary, Electro-Biology, Inc. ("EBI"), leases its
+Parsippany facility under a ten-year lease agreement, expiring in 1997,
+accounted for as an operating lease, with the right to expand and/or purchase
+at its option.  Under the terms of the lease, EBI is obligated for normal
+expenses such as maintenance, insurance, utilities and real estate taxes.  At
+May 31, 1994, future minimum annual payments due under this lease are as
+follows:  1995 - $1,398,000; 1996 - $1,398,000 and 1997 - $932,000.  Total
+rental expense for all operating leases for the years ended May 31, 1994, 1993
+and 1992 aggregated $1,602,000, $1,577,000 and $1,096,000, respectively.
+
+Medical Insurance Plan - The Company maintains a self-insurance program for
+covered medical expenses for all Team Members within the continental U.S.  The
+Company is liable for claims up to $125,000 per Team Member annually.
+Self-insurance costs are accrued based upon the aggregate of the liability for
+reported claims and a management determined estimated liability for claims
+incurred but not reported.
+
+Liability Insurance - Subsequent to 1989, the Company began self-insuring for
+product liability claims.  Self-insurance retention liability is $2,000,000 per
+occurrence and $4,000,000 aggregate per year.  Liabilities in excess of these
+amounts are the responsibility of the umbrella carrier.  Self-insurance costs
+are accrued based on reserves set in consultation with the umbrella carrier for
+reported claims and a management determined estimated liability for claims
+incurred but not reported.  Based on historical experience, management does not
+anticipate that incurred but unreported claims would have a material impact on
+the Company's consolidated financial position.
+
+Litigation - On September 10, 1993, the judge of the United States District
+Court for the Southern District of Florida entered a judgment and permanent
+injunction, which concluded a patent of the plaintiff was valid and was
+willfully infringed by the Company.  The court held that the plaintiff was
+entitled to damages of $5.3 million, plus costs and accrued interest.  The
+Company, after consultation with legal counsel, believes the Court erred in its
+finding and that the judge's opinion is contrary to the facts and applicable
+law.  On September 20, 1993, the Company filed an appeal and on May 13, 1994,
+the briefing at the Court of Appeals for the Federal Circuit was completed.  A
+date for oral argument has not been set.  Although the ultimate outcome of this
+matter cannot be determined, management of the Company, after consultation with
+legal counsel, believes the judgment against the Company will be reversed on
+appeal.  Accordingly, no provision for any liability (except for accrued legal
+costs) that might result from this matter has been made in the consolidated
+financial statements.
+
+There are various other claims, lawsuits, disputes with third parties,
+investigations and pending actions involving various allegations against the
+Company incident to the operation of its business.  The results of litigation
+proceedings cannot be predicted with certainty; however, management believes
+the ultimate disposition of these matters will not have a material adverse
+effect on the consolidated financial position of the Company.
+
+Note K:  Subsequent Event (unaudited).
+
+On July 16, 1994, the Company and Kirschner Medical Corporation ("Kirschner")
+signed a definitive agreement to merge Kirschner with a wholly-owned subsidiary
+of the Company.  In the definitive agreement, Kirschner accepted the proposal
+of the Company to purchase all of the issued and outstanding shares
+(approximately 3.5 million shares are issued and outstanding) of Kirschner
+common stock for $10.75 per share in cash or an equivalent value in common
+stock of the Company.  The Company will select whether to use all cash or all
+stock in the transaction.  If stock is used, Kirschner shareholders will receive
+not less than 0.9 shares of stock of the Company for each share of Kirschner
+stock.   The consummation of the transaction is subject to certain conditions,
+including the approval of Kirschner shareholders.
+
+On August 12, 1994, the Company purchased from Figgie International, Inc.
+("Figgie") their entire stake in Kirschner (685,222 Kirschner shares
+representing 19.9% of the issued and outstanding shares) and a $2.5 million
+promissory note held by Figgie and issued to Kirschner's Spanish subsidiary,
+IQL.
+
+
+                                      32
+<PAGE>   34
+                         BIOMET, INC. AND SUBSIDIARIES
+            SCHEDULE I - MARKETABLE SECURITIES AND OTHER INVESTMENTS
+
+                                 May 31, 1994
+                                (in thousands) 
+
+
+                                                                               
+<TABLE>
+<CAPTION>
+              Col. A                    Col. B          Col. C               Col. D                    Col. E
+     
+                                       Number of                                                   Amount at which              
+                                       shares or                                                   each portfolio
+                                        units-                                                        of equity
+                                       principal                         Market value of          security issues and
+   Name of issuer                      amounts of                         each issue at             other security
+ and title of each                       bonds         Cost of            balance sheet           issues are carried in
+       issue                           and notes      each issue              date                  the balance sheet          
+- - - - ------------------------              ----------     -----------        ---------------          ----------------------
+<S>                                    <C>               <C>                 <C>                   <C>
+Marketable debt securities:
+
+Municipal security
+ mutual funds                          $  8,487          $  8,489            $  8,500              $  8,489
+
+U.S. state entities                       5,391             5,366               5,365                 5,366
+
+U.S. local
+ municipalities                           6,761             6,647               6,636                 6,647
+
+Puerto Rican entities                    10,094             9,985              10,022                 9,929
+
+Collateralized mortgage
+ obligations - Puerto Rico               10,964            10,898              10,759                10,852
+
+Marketable preferred stock                   78             1,797               1,742                 1,797
+
+Marketable common stock                     519             4,771               7,514                 4,771
+
+Certificates of deposit
+ (included in short-term
+ investments)                            22,600            22,600              22,600                22,600
+                                                           ------              ------                ------
+                                         
+    Total short-term investments                          $70,553             $73,138               $70,451
+                                                          =======             =======               =======
+
+</TABLE>
+
+
+                                      33
+<PAGE>   35
+                         BIOMET, INC. AND SUBSIDIARIES
+               SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+
+                for the years ended May 31, 1994, 1993 and 1992
+                                 (in thousands)
+
+
+<TABLE>
+<CAPTION>
+     Col. A               Col. B                            Col. C                  Col. D        Col. E
+                                                           Additions
+                                                  ----------------------------
+                                                     (1)              (2)
+                                                                   Charged to
+                               Balance at         Charged to         other                      Balance at
+                               beginning          costs and         accounts       Deductions       end
+   Description                 of period           expenses         describe        describe     of period
+   -----------                 ---------           --------         --------        --------     ---------
+<S>                               <C>              <C>              <C>           <C>               <C>
+Allowance for
+  doubtful accounts:
+
+For the year ended
+     May 31, 1994                 $3,175           $2,415           $129 (B)         $2,137 (A)     $3,619
+                                                                                       (37) (C)
+                                  ======           ======           ====             ======         ======
+
+For the year ended
+     May 31, 1993                 $2,891           $2,061           $265 (B)         $1,972 (A)     $3,175
+                                                                                         70 (C)
+                                  ======           ======           ====             ======         ======
+
+For the year ended
+     May 31, 1992                 $2,830           $2,086           $116 (B)         $2,170 (A)     $2,891
+                                                                                       (29) (C)
+                                  ======           ======           ====             ======         ======
+</TABLE>
+Notes:
+  (A) Uncollectible accounts written off
+  (B) Collection of previously written off accounts
+  (C) Effect of foreign currency translation adjustment
+
+
+
+                                      34
+<PAGE>   36
+                         BIOMET, INC. AND SUBSIDIARIES
+                      SCHEDULE IX - SHORT-TERM BORROWINGS
+
+                for the years ended May 31, 1994, 1993 and 1992
+                                 (in thousands)
+
+
+
+<TABLE>
+<CAPTION>
+          Col. A                            Col. B           Col. C            Col. D              Col. E             Col. F
+                                                                        
+                                                                            Maximum amount      Average amount    Weighted average
+        Category of                       Balance at        Weighted          outstanding        outstanding       interest rate
+      aggregate short-                       end             average          during the          during the        during the
+      term borrowings                     of period       interest rate         period              period            period
+      ----------------                    ---------       -------------      ------------       --------------    ---------------
+<S>                                         <C>               <C>                <C>                 <C>               <C>
+For the year ended May 31, 1994                                         
+       Bank Line                                                        
+     of Credit (A)                          $1,606            10.5%              $2,436              $2,021            10.5%
+
+For the year ended May 31, 1993                                         
+       Bank Line                                                     
+     of Credit (A)                          $2,436            10.5%              $2,436              $2,401            10.5%
+                                                                        
+For the year ended May 31, 1992                                         
+       Bank Line                                                    
+     of Credit (A)                          $2,367            10.5%              $2,367              $2,180            10.5%
+</TABLE>                                                                
+
+
+
+(A) Short-term borrowings were incurred in connection with the acquisition of
+Effner GmBH and represent borrowings under a $1,606 unsecured bank line of
+credit with interest at 10.5%.
+
+
+
+                                      35
+<PAGE>   37
+                         BIOMET, INC. AND SUBSIDIARIES
+            SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+
+                for the years ended May 31, 1994, 1993 and 1992
+                                 (in thousands)
+
+
+<TABLE>
+<CAPTION>
+          Col. A                                                   Col. B
+
+           Item                                          Charged to Costs and Expenses
+- - - - --------------------------------                        ------------------------------   
+
+                                                        1994         1993         1992
+                                                        ----         ----         ----        
+<S>                                                     <C>         <C>         <C>
+Amortization of deferred charges and
+  intangible assets:
+
+    Excess acquisition cost                             $1,635       $ 1,292      $1,023
+
+    Patents                                              2,114         2,030       1,497
+
+    Other deferred costs                                   130            79         116
+
+Royalties                                                6,278         4,444       3,334
+</TABLE>
+
+Items not shown above have been omitted because they are less than one percent
+of net sales in each year.
+
+
+
+                                      36
+<PAGE>   38
+                                  BIOMET, INC.
+                                   FORM 10-K
+                                  MAY 31, 1994
+
+                               INDEX TO EXHIBITS
+
+<TABLE>
+<CAPTION>
+                                                                                                 Sequential
+         Number Assigned                                                                      Numbering System
+         in Regulation                                                                          Page Number
+         S-K, Item 601                       Title of Exhibit                                    of Exhibit   
+         ---------------                     ----------------                                 -----------------
+<S>                       <C>              <C>                                                 <C>
+         (3)              3.1              Amended Articles of                              
+                                           Incorporation filed July 23,                     
+                                           1982.  (Incorporated by reference                
+                                           to Exhibit 3(a) to Biomet, Inc.                  
+                                           Form S-18 Registration Statement,                
+                                           File No. 2-78589C).                              
+                                                                                            
+                          3.2              Articles of Amendment to                         
+                                           Amended Articles of                              
+                                           Incorporation filed July 11,                     
+                                           1983.  (Incorporated by                          
+                                           reference to Exhibit 3.2 to                      
+                                           Biomet, Inc.  Form 10-K Report                   
+                                           for year ended May 31, 1983,                     
+                                           File No. 0-12515).                               
+                                                                                            
+                          3.3              Articles of Amendment to                         
+                                           Amended Articles of                              
+                                           Incorporation filed August 22,                   
+                                           1987.  (Incorporated by                          
+                                           reference to Exhibit 3.3 to                      
+                                           Biomet, Inc. Form 10-K Report                    
+                                           for year ended May 31, 1987,                     
+                                           File No. 0-12515).                               
+                                                                                            
+                          3.4              Articles of Amendment of the                     
+                                           Amended Articles of                              
+                                           Incorporation filed September                    
+                                           18, 1989.  (Incorporated by                      
+                                           reference to Exhibit 3.4 to                      
+                                           Biomet, Inc. Form 10-K Report                    
+                                           for year ended May 31, 1990,                     
+                                           File No. 0-12515.)                               
+                                                                                            
+                          3.5              Amended and Restated Bylaws.                     
+                                           (Incorporated by reference to                    
+                                           Exhibit 4.2 to Biomet, Inc.                      
+                                           Form S-3 Registration Statement,                 
+                                           File No. 33-33376).                              
+                                                                                            
+         (4)              4.1              Specimen certificate for                         
+                                           Common Shares.  (Incorporated                    
+                                           by reference to Exhibit 4.1 to                   
+                                           Biomet, Inc. Form 10-K Report                    
+                                           for year ended May 31, 1985,                     
+                                           File No. 0-12515).                               
+                                                                                            
+                          4.2              Rights Agreement between                         
+                                           Biomet, Inc. and Lake City                       
+                                           Bank, as Rights Agent, dated                     
+                                           as of December 2, 1989.                          
+                                           (Incorporated by reference to                    
+                                           Exhibit 4 to Biomet, Inc. Form                   
+                                           8-K current Report dated                         
+                                           December 22, 1989, File No.                      
+                                           0-12515).                                        
+                                                                                            
+         (9)                               No exhibit                                       
+                                                                                            
+         (10)             10.1             Employee Stock Option Plan, as                   
+                                           last amended December 14, 1991.
+                                           (Incorporated by reference to
+                                           Exhibit 10.1 to Biomet, Inc. Form 10-K
+                                           Report for year ended May 31, 1992,
+                                           File No. 0-12515).
+                                                                                            
+                          10.2             Form of Employee Stock Option Agreement.         
+                                           (Incoporated by reference to Exhibit 10.2
+                                           to Biomet, Inc. Form 10-K Report for year 
+                                           ended May 31, 1991, File No. 0-12515).
+
+                          10.3             Narrative statement as to terms                  
+                                           of cash bonus plan for executive                 
+                                           officers (Incorporated by reference              
+                                           to Exhibit 10.4 to Biomet, Inc.                  
+                                           Form 10-K Report for year ended                  
+                                           May 31, 1989, File No. 0-12515).                 
+                                                                                            
+                          10.4             Lease dated January 9, 1985                      
+                                           between EBI Medical Systems,                     
+                                           Inc. and Lincoln Property                        
+                                           Company No. 2071, Ltd.                           
+                                           (Incorporated by reference                       
+                                           to Exhibit (10)(m) to                            
+                                           Electro-Biology, Inc. Form                       
+                                           10-K Report for year ended                       
+                                           December 31, 1985, File No.                      
+                                           0-10806).                                        
+</TABLE>
+<PAGE>   39
+<TABLE>
+<S>                       <C>              <C>                                              
+                          10.5             English translation of                           
+                                           Distributorship                                  
+                                           Agreement relating to the                        
+                                           United Kingdom, dated January 1,                 
+                                           1989, between Orthofix s.r.l.                    
+                                           and EBI Medical Systems Ltd.                     
+                                           (UK) (Incorporated by reference                  
+                                           to Exhibit 10.10 to Biomet, Inc.                 
+                                           Form 10-K Report for year ended                  
+                                           May 31, 1989, File No. 0-12515).                 
+                                                                                            
+                          10.6             English translation of Agency                    
+                                           Agreement relating to United                     
+                                           States, Canada and the Caribbean                 
+                                           Island Basin dated June 1, 1990                  
+                                           between Orthofix s.r.l. and EBI                  
+                                           Medical Systems, Inc.  (Incorporated             
+                                           by reference to Exhibit 10.9 to                  
+                                           Biomet, Inc. Form 10-K Report for                
+                                           year ended May 31, 1990, File No.                
+                                           0-12515).                                        
+                          10.7             Agreement of Merger by and among Biomet, 
+                                           Inc., Lorenz Surgical Acquisition Corp., 
+                                           Walter Lorenz Surgical Instruments, Inc., 
+                                           and Walter Lorenz, dated as of July 23, 1992, 
+                                           and schedules thereto. (Incorporated by reference
+                                           to Exhibit 2.1 to Biomet, Inc. Form S-3 
+                                           Registration Statement, File No. 33-50420).
+
+                          10.8             Employee and Non-Employee Director Stock Option 
+                                           Plan, dated September 18, 1992.  (Incorporated by 
+                                           reference to Exhibit 19.1 to Biomet, Inc. Form 10-K 
+                                           Report for year ended May 31, 1993, File No. 0-12515).
+
+                          10.9             Form of Stock Option Agreement.  (Incorporated by 
+                                           reference to Exhibit 4.03 to Biomet, Inc. Form S-8 
+                                           Registration Statement, File No. 33-65700).
+
+         (11)             11.1             Computation of Earnings Per Common Share.                                    
+                                                                                            
+         (12)                              No exhibit.                                      
+
+         (13)                              No exhibit.
+                                                 
+         (16)                              No exhibit.                                      
+                                                                                            
+         (18)                              No exhibit.                                      
+                                                                                            
+         (21)             21.1             Subsidiaries of the Registrant.                  
+
+         (22)                              No exhibit.
+                                                                                            
+         (23)             23.1             Consent of Coopers & Lybrand.                    
+                                                                                            
+         (24)                              No exhibit.                                      
+                                                                                            
+         (27)                              No exhibit.                                      
+                                                                                            
+         (28)                              No exhibit.                                      
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11.1
+<SEQUENCE>2
+<DESCRIPTION>COMPUTATION OF EARNINGS PER COMMON SHARE
+<TEXT>
+
+<PAGE>   1
+
+
+                                  EXHIBIT 11.1
+
+                    COMPUTATION OF EARNINGS PER COMMON SHARE
+
+                         BIOMET, INC. AND SUBSIDIARIES
+
+                for the years ended May 31, 1994, 1993 and 1992
+                    (in thousands except earnings per share)
+
+                              ___________________
+
+
+Computation of EPS based on simple capital
+structure without regard to common stock
+equivalents (A):
+<TABLE>
+<CAPTION>
+                                                               1994               1993              1992
+                                                               ----               ----              ----
+     <S>                                                   <C>                  <C>               <C>
+     Net income applicable to common shares                $  69,818            $63,961           $51,809
+                                                                          
+     Weighted average number of shares                                    
+     outstanding during the year                             115,215            114,934           113,009
+                                                                          
+     Primary earnings per common share                          $.61               $.56              $.46
+</TABLE>                                                                  
+
+
+Computation of EPS using stock options as
+common stock equivalents:
+
+A computation of EPS using stock options is not presented since their inclusion
+would not result in a different earnings per share amount for the years ended
+May 31, 1994, 1993 and 1992.
+
+(A) Earnings per share data have been adjusted to give effect to all stock
+splits.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>3
+<DESCRIPTION>SUBSIDIARIES OF THE REGISTRANT
+<TEXT>
+
+<PAGE>   1
+                                  EXHIBIT 21.1
+
+                         SUBSIDIARIES OF THE REGISTRANT
+
+Biomet, Inc. (the Registrant; Indiana corporation)
+
+Domestic subsidiaries:
+
+          OEC Ltd., Inc. (Delaware corporation)
+          Biomet Acquisition Corp. (Delaware corporation)
+          Biomet International, Inc. (Virgin Islands corporation)
+          Biomet Investment Corp. (Delaware corporation)
+          Electro-Biology, Inc. (Delaware corporation)
+          EBI Holding, Inc. (Delaware corporation)
+          EBI Medical Systems, Inc. (Delaware corporation)
+          Arthrotek, Inc. (Indiana corporation)
+          BHC Laboratories, Inc. (Delaware corporation)
+          Vascu-Med, Inc. (Indiana corporation)
+          Poly-Medics, Inc. (Indiana corporation)
+          Walter Lorenz Surgical, Inc. (Florida corporation)
+          Polymers Reconstructive A/S (Danish corporation)
+
+Foreign subsidiaries:
+
+          Biomet Ltd. (U.K. corporation)
+          Effner Biomet GmbH (German corporation)
+          Biomet SpA (Italian corporation)
+          EBI Medical Systems Ltd. (U.K. corporation)
+          Biomet Ltda. (Brazilian corporation)
+
+Each subsidiary is wholly-owned by its immediate parent, except for the
+    following: BHC Laboratories, Inc. of which Biomet, Inc. owns 50% of the
+    outstanding shares; Polymers Reconstructive A/S of which Biomet, Inc. owns
+    51% of the outstanding shares; and Biomet SpA of which Biomet Ltd. owns 51%
+    of the outstanding shares.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>4
+<DESCRIPTION>CONSENT OF COOPERS & LYBRAND
+<TEXT>
+
+<PAGE>   1
+                                  EXHIBIT 23.1
+
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+
+
+
+We consent to the incorporation by reference in the Registration Statements of
+Biomet, Inc. on Form S-8 (File Nos. 33-7361, 33-26826, 33-37561, 33-50268,
+33-65700 and 33-75618) and on Form S-3 (File Nos. 33-33376 and 33-27008) and in
+the related Prospectus of our report dated July 1, 1994, on our audits of the
+consolidated financial statements and financial statement schedules of Biomet,
+Inc. and subsidiaries as of May 31, 1994 and 1993, and for each of the three
+years in the period ended May 31, 1994, which report is included in this Annual
+Report on Form 10-K.
+
+
+                                              COOPERS & LYBRAND L.L.P.
+
+South Bend, Indiana
+August 9, 1994
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

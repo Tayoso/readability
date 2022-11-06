@@ -1,0 +1,2116 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ cuw+Zik+07OcK141n3CMLWUxVRHm9pPBHmrGiy4M7WTcn8zW7oj3R8R11AJ2GfWB
+ jE7l2shRLt1aE65ekqjUTQ==
+
+<IMS-DOCUMENT>0000906280-94-000042.txt : 19941017
+<IMS-HEADER>0000906280-94-000042.hdr.sgml : 19941017
+ACCESSION NUMBER:		0000906280-94-000042
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940928
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PICCADILLY CAFETERIAS INC
+		CENTRAL INDEX KEY:			0000277923
+		STANDARD INDUSTRIAL CLASSIFICATION:	5812
+		IRS NUMBER:				720604977
+		STATE OF INCORPORATION:			LA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11754
+		FILM NUMBER:		94550679
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 2467
+		CITY:			BATON ROUGE
+		STATE:			LA
+		ZIP:			70821
+		BUSINESS PHONE:		5042939440
+
+	MAIL ADDRESS:	
+		STREET 1:		3232 SHERWOOD FOREST BLVD
+		CITY:			BATON ROUGE
+		STATE:			LA
+		ZIP:			70821
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+
+                                    UNITED STATES
+                         SECURITIES AND EXCHANGE COMMISSION
+                               WASHINGTON, D. C. 20549
+                                      FORM 10-K
+
+[X]  Annual  Report  Pursuant  to  Section  13  or  15(d)  of the
+       Securities Exchange Act of 1934 [Fee Required]
+For the fiscal year ended June 30, 1994
+                          _____________
+
+[ ]  Transition  Report  Pursuant to Section 13 or 15(d) of the
+       Securities Exchange Act of 1934 [No Fee Required]
+
+For the transition period from ______________  to _________________
+          
+Commission file Number         0-9037
+                          _______________
+
+                         Piccadilly Cafeterias, Inc.
+                         ____________________________
+
+               (Exact name of registrant as specified in its charter)
+          
+          Louisiana                               72-0604977
+     ________________________                  ________________
+ (State or other jurisdiction of              (I.R.S. Employer
+   incorporation or organization)             Identification No.)
+
+          3232 Sherwood Forest Blvd., Baton Rouge, Louisiana    70816
+        _______________________________________________________________
+          (Address of principal executive offices)          (Zip Code)
+
+Registrant's telephone number,  including area code (504) 293-9440
+                                                    _______________
+
+       Securities registered pursuant to Section 12(b) of the Act:
+Title of each class               Name of each exchange on which registered
+          
+ Common Stock                        New York Stock Exchange
+___________________               _____________________________
+
+        Securities registered pursuant to Section 12(g) of the Act:
+          None
+       ______________
+      (Title of class)
+
+          Indicate by check mark whether the registrant (1)  has  filed all
+          reports  required  to  be  filed  by  Section 13 or 15 (d) of the
+          Securities Exchange Act of 1934 during  the  preceding  12 months
+          (or  for such shorter period that the registrant was required  to
+          file such  reports),  and  (2)  has  been  subject to such filing
+          requirements for the past 90 days.   Yes [X] No [   ]
+
+          Indicate  by  check  mark  if  disclosure  of  delinquent  filers
+          pursuant  to  Item  405  of   Regulation   S-K (229.405  of  this
+          chapter) is not contained herein, and will not  be  contained, to
+          the  best  of  registrant's  knowledge,  in  definitive proxy  or
+          information statements incorporated by reference  in  Part III of
+          this Form 10-K or any amendment to this Form 10-K.        [   ]
+
+          The  aggregate  market  value  of  the voting stock held by  non-
+          affiliates of the registrant based on  the  closing price of such
+          stock on September 20, 1994 was $68,175,259.
+
+          The  number  of shares outstanding of Common Stock,  without  par
+          value, as of September 20, 1994 was 10,141,399.
+
+
+                             DOCUMENTS INCORPORATED BY REFERENCE
+
+            Portions of  the  Annual Shareholders Report for the year ended
+            June 30, 1994 are incorporated by reference into Part II.
+            Portions of the proxy  statement  for  the  year ended June 30,
+            1994 are incorporated by reference into Part III.
+            Exhibit Index is on Page 15.
+
+
+<PAGE> 2
+
+
+                                        PART I
+            Item 1.  Business
+
+            General Development of Business
+
+            Piccadilly Cafeterias, Inc. was incorporated  under the laws of
+            Louisiana  in 1965 and is the successor to various  predecessor
+            corporations   and  partnerships  which  operated  "Piccadilly"
+            cafeterias beginning  with the acquisition of the first unit in
+            1944.  Except where the  context otherwise indicates, the terms
+            "Company", "Piccadilly", and  "Registrant" as used herein refer
+            to  Piccadilly  Cafeterias,  Inc.,  its  predecessors  and  its
+            subsidiaries.
+            
+            At June 30, 1994, the Company  operated  130  cafeterias  in 16
+            states.    Of  these,  63  were  in  suburban malls, 22 were in
+            suburban  strip  centers,  and  45 were free-standing  suburban
+            locations.  Approximately 10 new  cafeterias are expected to be
+            opened  during the year ending June  30,  1995.  The  following
+            table sets  forth  certain information regarding development of
+            the Company's cafeteria  chain during the five years ended June
+            30, 1994:
+
+<TABLE>
+<CAPTION>
+
+____________________________________________________________________________________________________
+           Year Ended June 30                           1994      1993      1992      1991     1990
+____________________________________________________________________________________________________
+<S>                                                    <C>        <C>       <C>       <C>      <C>
+Net sales per unit (in thousands)<FN1>                 $1,916     $1,868    $1,880    $1,903   $2,001
+
+Units opened                                                3          1         3         2        9
+
+Units closed                                                4         11         5         0        0
+
+Units open at year-end                                    130        131       141       143      141
+
+Total customer volume (in thousands)                   48,098     50,564    54,298    56,441   58,155
+
+
+<FN1> Excludes cafeterias opened or closed during period.
+
+</TABLE>                              
+                             __________________________________
+
+
+            During  1988,  the  Company  acquired  substantially all of the
+            assets  of  the  Ralph  &  Kacoo's  seafood  restaurant  chain,
+            headquartered   in   Baton  Rouge,  Louisiana,  including   six
+            restaurants, a warehouse  and  seafood distribution facility, a
+            catering  facility,  and a seafood  processing  facility.   The
+            Company  holds  a  federally  registered  tradename,  "Ralph  &
+            Kacoo's," and a federally  registered  trademark on its Ralph &
+            Kacoo's catfish logo.
+            
+            At June 30, 1994 the Company operated seven "Ralph and Kacoo's"
+            seafood restaurants in Louisiana, Mississippi  and  Texas.  One
+            Ralph & Kacoo's seafood restaurant is expected to be  opened in
+            the year ending June 30, 1995.  The following table sets  forth
+            certain  information  regarding  development  of  the Company's
+            restaurant chain during the five years ended June 30, 1994:
+
+<TABLE>
+<CAPTION>
+
+____________________________________________________________________________________________________
+           Year Ended June 30                           1994      1993      1992      1991     1990
+____________________________________________________________________________________________________
+<S>                                                    <C>       <C>       <C>       <C>      <C>    
+Net sales per unit (in thousands)<FN1>                 $3,343    $3,362    $3,151    $3,995   $4,241
+Units opened                                                0         0         1         3        0
+Units closed                                                0         2         1         0        0
+Units open at year-end                                      7         7         9         9        6
+
+
+<FN1>    Excludes restaurants opened or closed during period.
+</TABLE>
+
+Although the  Company's  operations are in the southern, southwestern, and
+western regions of the United States, the Company does not consider its 
+growth to be limited to such areas.  During the year ended June 30, 1994, 
+the Company opened its first cafeterias in Kansas City, Kansas and St. Louis, 
+Missouri. During  the year ending June 30, 1995, the Company expects to open  
+its first cafeterias in Louisville, Kentucky and Chicago, Illinois. 
+Piccadilly evaluates numerous potential expansion locations each year, 
+focusing on demographic  data  such  as  population densities, population 
+profiles, income levels, traffic counts, as well as the extent of competition. 
+The number of new cafeterias and restaurants that the  Company can open depends
+upon its ability to secure appropriate locations, generate necessary financial
+Resources, and develop personnel for expansion.
+
+<PAGE> 3
+
+Financial Information about Industry Segments
+_______________________________________________
+
+Under the provisions of Statement 14 of the Financial Accounting Standards
+Board, the Company has determined that, during all periods included herein,
+its business constituted a single reportable industry segment --  "cafeteria
+and restaurant operations."
+
+Cafeteria and Restaurant Operations
+____________________________________
+
+The Company's cafeterias seat from 250 to 450 customers each.  Each unit
+offers a wide variety of food, at reasonable prices,  and with the convenience
+of cafeteria service, to a diverse luncheon and dinner  clientele.   Cafeteria
+personnel  cook  and prepare from scratch substantially all food served.   All
+items  are prepared  from  standardized  recipes.  Menus  are  varied  at  the
+discretion  of  unit  management  in  response  to  local  and  seasonal  food
+preferences.
+
+Like  most industry participants, the Company purchases foodstuffs (other than
+some basic staples) through local or regional suppliers in small quantities in
+order to  better  ensure freshness.  As a result, inventory is kept relatively
+low; average per-cafeteria-inventory  at  June  30, 1994 was $15,000.  Food is
+typically purchased on 30-day credit terms and sold  for  cash within such 30-
+day period, thereby favorably affecting cash flow.
+            
+Ralph  &  Kacoo's  restaurants  seat  from  250 to 600 customers  each.  These
+restaurants are full-service menu facilities.   All  of  the  food  served  is
+cooked  and  prepared  by  the  restaurant  staff  from  standardized recipes.
+Substantially all of the food, supplies, and other materials  required for the
+preparation of meals are supplied by the Company-owned commissary.
+
+The  commissary,  located  in  Baton  Rouge, Louisiana, contains approximately
+26,500 square feet of restaurant food and  supplies storage.  Seafood accounts
+for approximately 50% of inventory at the commissary.   In  order  to  provide
+consistent  quality,  selection, and price throughout the year, the commissary
+purchases in-season seafood in quantities sufficient to supply the restaurants
+during  periods  when such  products  would  otherwise  not  be  available  at
+reasonable prices in the marketplace.  On the average, seafood inventory turns
+approximately once  every four months.  Inventory maintained at the commissary
+at June 30, 1994, was  approximately  $2,692,000  while the average restaurant
+inventory level at year-end was approximately $44,000.   The commissary is not
+dependent upon a single supplier nor a small group of suppliers.
+
+Each cafeteria and restaurant is operated as a separate unit under the control
+of a manager and associate manager who have responsibility  for  virtually all
+aspects  of  the  unit's business including purchasing, food preparation,  and
+employee matters.   Twelve  district  managers, under the supervision of three
+region managers, the president, and the  chief  executive officer, oversee and
+regularly  inspect cafeteria operations. Three district  managers,  under  the
+supervision  of  a  region  manager  and  the chief executive officer, oversee
+restaurant operations.  The Company employed  approximately  7,300  persons at
+June  30,  1994,  of  whom  all  but  77  general  office  employees worked at
+Piccadilly's 137 cafeteria and restaurant locations and its commissary.
+
+The food service industry is highly competitive.  Competitive  factors include
+food  quality and variety, price, customer service, location, the  number  and
+proximity of competitors, decor, and public reputation.  The Company considers
+its principal  competitors to be other cafeterias, casual dining concepts, and
+fast-food operations.   Like  other  food service operations, the Company must
+remain attuned to changes in both consumer  preferences for food and habits in
+patronizing eating establishments.
+            
+Customer  volume at established cafeterias and  sales  volume  at  established
+restaurants  are  generally  higher in the Company's second fiscal quarter and
+lower  in the third quarter.  These  patterns  reflect  the  general  seasonal
+fluctuations of the retail industry.
+            
+Cost of  sales  is  affected  by  statutory minimum wage rates.  The Company's
+operations are subject to federal,  state,  and  local  laws  and  regulations
+relating to environmental protection, including regulation of discharges  into
+the  air  and  water,  and relating to safety and labor, including the Federal
+Occupational Safety and  Health Act and wage and hour laws.  Additionally, the
+Company's operations are regulated  pursuant to state and local sanitation and
+public health laws.  Operating units  utilize  electricity  and  natural  gas,
+which  are  subject  to  various  federal and state regulations concerning the
+allocation  of energy.  The Company's  operating  costs  have  been  and  will
+continue to be affected by increases in the cost of energy.
+
+
+<PAGE> 4
+
+Item 2.  Properties
+
+All but 18 of  the  cafeterias and restaurants operated by the Company at June
+30, 1994, were held under  long-term  leases  with  differing  provisions  and
+expiration  dates.  The 18 cafeterias and restaurants not held under long-term
+leases are owned.   Leases  provide for monthly rentals, typically computed on
+the basis of a fixed amount plus  a  percentage of sales.  Most leases contain
+provisions permitting the Company to renew  for  one  or more specified terms.
+These  leases  are  scheduled to expire, exclusive of renewal  provisions, as
+follows:
+
+                                 ________________________________________
+                                     Five-year
+                                      periods        Units    Units
+                                  ending June 30    Operating  Closed
+                                 _______________________________________        
+
+                                        1998           46        1
+                                        2003           27        1
+                                        2008           31       11
+                                        2013           14        3
+                                        2018            1        -
+                                 _______________________________________
+                                       Total          119       16
+                                 =======================================
+                                        _________________________
+
+Reference is made to  Note D of the Notes to Consolidated Financial Statements
+for certain additional information regarding the Company's leases.
+            
+All cafeterias and restaurants  have  been constructed or remodeled since 1984
+and  all cafeteria equipment is maintained  and  modernized  as  necessary  to
+maintain  appearance  and  utility.  For a discussion of the Company's current
+remodeling  program see Management's  Discussion  and  Analysis  of  Financial
+Condition and  Results  of  Operations  on  pages  10  and  11  of  the Annual
+Shareholders Report for the year ended June 30, 1994.  The list below provides
+a  general geographic review of the locations of the Company's cafeterias  and
+restaurants at June 30, 1994:
+
+                                 __________________________________________
+                                    State       Cafeterias    Restaurants
+                                 __________________________________________
+
+                                   Alabama           6
+                                   Arizona           4
+                                   California        1
+                                   Florida          22
+                                   Georgia          18
+                                   Kansas            1
+                                   Louisiana        26           5
+                                   Mississippi       3           1
+                                   Missouri          2
+                                   North Carolina    5
+                                   Oklahoma          5
+                                   South Carolina    2
+                                   Tennessee        11
+                                   Texas            17          1
+                                   Virginia          7
+
+                                      ___________________________________
+
+The  Company  utilizes  generally standardized building configurations for its
+new cafeterias and restaurants  in terms of seating, food display, preparation
+areas, and other factors and attempts  to  build  out  floor space to maximize
+efficient use of available space.
+
+The  Company  continues  to  pursue  strategies to increase the  capacity  and
+utilization of its cafeterias.  Although  most of the Company's cafeterias are
+single-line,  33 of the Company's cafeterias  are  double-line  which  provide
+increased capacity  at  peak hours.   The Company does not currently intend to
+convert any of its single-line cafeterias to double-line.
+
+Piccadilly's general offices  occupy  approximately  two-thirds  of a Company-
+owned  45,000 square foot office building completed in 1974 and located  on  a
+Company-owned  tract  comprising  approximately  five  acres  in  Baton Rouge,
+Louisiana.  The remainder of the building is leased to commercial tenants.
+
+<PAGE> 5
+Item 3.  Legal Proceedings
+
+The  Company  is  not  a  party to and does not have any property that is  the
+subject of any legal proceedings  pending  or, to the knowledge of management,
+threatened, other than ordinary routine litigation  incidental to its business
+and proceedings which are not material or as to which  management believes the
+Company has adequate insurance.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+None.
+
+Executive Officers of the Registrant
+
+On September 27, 1994 James W. Bennett resigned as Chairman of the Board and 
+Chief Executive Officer of the Company.  Dr. Paul W. Murrill has been named
+Chairman of the Board.  A committee of the Board, chaired by Dr. Murrill,
+will begin a search for a new Chief Executive Officer.  In the interim,
+the Board has appointed a Management Committee to assume the responsibilities
+of the office of the chief executive officer.  The members of the Management
+Committee are Malcolm T. Stein, who is chairman of the committee, Ronald A.
+LaBorde and James E. Durham.
+
+Executive  officers are elected annually by the Board of  Directors  and  hold
+office until  a  successor  is  duly  elected.   The  names  and  positions of
+executive officers of the Registrant, together with a brief description of the
+business  experience  of each such person during the past five years,  is  set
+forth below.
+
+W. Scott Bozzell, Vice President  and  Assistant  Controller, age 31, has held
+that  position  since May 1992.  He joined the Company  in  December  1988  as
+Assistant Controller.
+
+James E. Durham Jr.,  age  60,  became  Region Manager in 1981 and was elected
+Senior Executive Vice President in August 1988.  Mr. Durham is a member of the
+Management Committee.
+
+Frederick E. Fuchs Jr., Executive Vice President  and Director of Real Estate,
+age 47, has held that position since June 1986.
+
+Jere W. Goldsmith Jr., Executive Vice President and  Region  Manager,  age 48,
+has held that position since February 1992. From May 1987 to February 1992  he
+was Executive Vice President and Director of Training.
+
+Ronald  A.  LaBorde, age 38, Treasurer, Chief Financial Officer, and Executive
+Vice President,  has held such positions since January 1992.  Prior to that he
+was Executive Vice President, Secretary, and Controller.  Mr. LaBorde is a 
+member of the Management Committee.
+
+D. Thomas Landry,  Executive  Vice  President  and  Director  of  Maintenance,
+Construction,  Design,  and  Equipment  Manufacturing,  age 42, has held  that
+position since May 1992.  From July 1990 to May 1992 he was Vice President and
+Director  of  Maintenance.   Before joining the Company in January  1989,  Mr.
+Landry was a senior project manager with a mechanical contractor.
+
+Robert P. Listen, Executive Vice President and Director of Technical Services,
+age  46, has held that position  since  December  1992.   From  July  1987  to
+November 1992 he was Executive Vice President and a district manager
+
+Mark L. Mestayer, Executive Vice President, Secretary, and Controller, age 36,
+has held such positions since May 1992.  From January 1992 to May 1992, he was
+Vice President  and  Controller.   Prior  to  that,  he was Vice President and
+Controller, Ralph & Kacoo's, since joining the Company in December 1988.
+
+Joseph S. Polito, Executive Vice President and Director  of  Training, age 52,
+has held that position since November 1992.  From 1987 to October 1992, he was
+Executive Vice President and a district manager.
+
+<PAGE> 6
+
+Patrick R. Prudhomme, Executive Vice President and Region Manager, age 44, has
+held that position since February 1992.  From January 1989 to February 1992 he
+was Vice President and a district manager, Ralph & Kacoo's.  Prior  to that he
+was Vice President and a unit manager.
+
+C. Warriner Siddle, Executive Vice President and Region Manager, age  43,  has
+held that position since February 1992.  From October 1984 to February 1992 he
+was Executive Vice President and a district manager.
+
+Malcolm  T. Stein Jr., President and Chief Operating Officer, age 61, has held
+such positions  since  May 1993.  From February 1992 to May 1993 he was Senior
+Executive Vice President  and  Chief Operating Officer.  From December 1988 to
+February 1992 he was the General  Manager  of  the  Ralph & Kacoo's restaurant
+division.  Mr. Stein had been a Region Manager of cafeteria  operations  since
+1979.  Mr. Stein is a member of the Management Committee.
+
+Donovan  B. Touchet, Executive Vice President and Director of Data Processing,
+age 45, has held that position since June 1988.
+
+Brian G. Von  Gruben, Executive Vice President and Director of Administration,
+age 46, has held that position since May 1987.
+                                               
+                                               PART II
+
+Item 5.  Market  for the Registrant's Common Stock and Related Security Holder
+            Matters
+
+Information regarding  Common Stock market prices and dividends, on the inside
+front cover of the Annual  Shareholders  Report  for  the  year ended June 30,
+1994, is incorporated herein by reference.
+
+Item 6.  Selected Financial Data
+
+"Selected   Financial  Data",  on  the  inside  front  cover  of  the   Annual
+Shareholders  Report  for the year ended June 30, 1994, is incorporated herein
+by reference.
+
+Item 7.  Management's Discussion  and  Analysis  of  Financial  Condition  and
+            Results of Operations
+
+Management's  Discussion  and  Analysis  of Financial Condition and Results of
+Operations, on pages 10 and 11 of the Annual  Shareholders Report for the year
+ended June 30, 1994, is incorporated herein by reference.
+
+Item 8.  Financial Statements and Supplementary Data
+
+The  following  consolidated  financial  statements  and  supplementary  data,
+included on pages 12 through 20 of the Annual Shareholders Report for the year
+ended June 30, 1994, are incorporated herein by reference.
+
+Consolidated balance sheets--June 30, 1994 and 1993
+Consolidated statements of income--years ended June 30, 1994, 1993 and 1992
+Consolidated statements of changes in shareholders' equity--years ended
+            June 30, 1994, 1993 and 1992
+Consolidated  statements  of  cash flows--years ended June 30, 1994, 1993  and
+            1992
+Notes to consolidated financial statements--June 30, 1994, 1993 and 1992
+
+Item  9.  Changes in and Disagreements  with  Accountants  on  Accounting  and
+               Financial Disclosure
+
+None.
+
+                                               PART III
+
+In accordance  with  General Instruction G (3) to Form 10-K, Items 10, 11, 12,
+and 13 have been omitted  since  the  Company  will file with the Commission a
+definitive  proxy  statement  complying  with  Regulation  14A  involving  the
+
+<PAGE> 7
+
+election of directors not later than 120 days after  the  close  of its fiscal
+year.   The  Company incorporates by reference the information in response  to
+such items set forth in its definitive proxy statement.
+
+                                               
+                                               PART IV
+
+Item 14.  Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+(a)   (1)  Financial Statements--The following are incorporated herein by
+           reference in this Annual Report on Form 10-K from the indicated 
+           pages of the Registrant's Annual Shareholders Report for the year 
+           ended June 30, 1994:
+
+                                                               Annual
+                                                             Shareholders
+                    Description                              Report Page
+               ____________________                      ___________________
+
+Consolidated balance sheets--June 30, 1994 and 1993               12
+Consolidated statements of income--years ended 
+      June 30, 1994, 1993 and 1992                                13
+Consolidated statements of changes in shareholders' 
+      equity--years ended June 30, 1994, 1993 and 1992            13
+Consolidated statements of cash flows--years ended 
+     June 30, 1994, 1993 and 1992                                 14
+Notes to consolidated financial statements--
+     June  30, 1994, 1993 and 1992                              15 - 19
+Report of independent auditors                                     20
+
+
+      (2)  Schedules--The following consolidated schedules and information are
+           included in this annual report on Form 10-K on the pages indicated. 
+           All other schedules for which provision is made in the applicable 
+           accounting regulation of the Securities and Exchange Commission are 
+           not required under the related instructions or are inapplicable,
+           and therefore have been omitted.
+
+                                                               Annual Report
+                                                               on Form 10-K
+                       Description                                  Page
+                __________________________                   _________________
+           
+Schedule V--Property, plant and equipment                            10
+Schedule VI--Accumulated depreciation, depletion 
+   and amortization of property, plant and equipment                 11
+Schedule VIII--Valuation and qualifying accounts                     12
+Schedule IX--Short-term borrowings                                   13
+Schedule X--Supplementary income statement information               14
+
+         
+         (3)  Listing of Exhibits -- See sub-section (c) below.
+
+(b)   No reports on Form 8-K were filed during the last quarter of the year
+            covered by this report.
+
+(c)   Exhibits:
+            
+        (3) (a) Articles of Incorporation, incorporated by reference to Exhibit
+                3.1 to Registrant's Form S-1, Registration No. 2-63249 filed 
+                December 19,1978 (the "Form S-1"); amendment to Articles of 
+                Incorporation, incorporated by reference to Exhibit 3 to 
+                Registrant's Form 10-K, File No. 0-9037, filed September 14, 
+                1987; amendment to Articles of Incorporation, incorporated by 
+                reference to Exhibit 3 to Registrant's  Form  10-K, File No. 
+                0-9037, filed September 27, 1988; and amendment to Articles of 
+                Incorporation incorporated by reference to Exhibit 3(a) to 
+                Registrant's Form 10-K, as amended, File No. 0-9037,  filed 
+                September 28, 1989.
+
+            (b) Bylaws of the Company incorporated by reference to Exhibit 3(a)
+                to Registrant's Form 10-K, as amended, File No. 0-9037, filed 
+                September 14, 1993.
+
+        (4) (a) Piccadilly Cafeterias, Inc. Stockholders Rights Agreement,
+                incorporated by reference to Exhibit 4 to the Form 8-K, File 
+                No. 0-9037, filed August 22, 1988.
+<PAGE> 8
+
+            (b) Note Agreement dated as of January 31, 1989, relating to 
+                $30,000,000 principal amount of 10.15% Senior Notes due 
+                January 31, 1999, incorporated by reference to Exhibit 4 of 
+                the Form 10-Q, File No. 0-9037,  filed  February 11, 1989.
+
+        (10)(a) Piccadilly Cafeterias, Inc., Pension Plan, as amended, dated  
+                May 3, 1993 incorporated  by reference to Exhibit 10(a) to 
+                Registrant's Form 10-K, as amended, File No. 0-9037, filed 
+                September 14, 1993.
+
+            (b) Piccadilly Cafeteria, Inc. Employee Stock Purchase Plan, 
+                incorporated by reference to Exhibit A to Registrant's Form 
+                S-8, Registration No. 33-17737, filed October  7, 1989 and 
+                amendment to Employee Stock Purchase  Plan, incorporated by 
+                reference to Exhibit 10(b) to Registrant's Form 10-K, as 
+                amended, File No. 0-9037, filed September 27, 1991.
+
+            (c) Piccadilly Cafeterias, Inc. 1988 Stock Option Plan, 
+                incorporated by reference to Exhibit 4.1 to Registrant's Form 
+                S-8, Registration No. 33-27793, filed March 29, 1989; and 
+                amendment to 1988 Stock Option Plan dated August 2, 1993 
+                incorporated by reference to Exhibit 10(c) to Registrant's 
+                Form10-K, as amended, File No. 0-9037, filed September 14, 
+                1993.
+
+        (13)(a) The inside front  cover of the Registrant's Annual Shareholders
+                Report for the year ended June 30,1994, containing "Selected 
+                Financial Data", is on page 16.
+
+            (b) The inside front cover of the Registrant's Annual Shareholders 
+                Report for the year ended June 30, 1994, containing "Stock 
+                Information", is on page 17 .
+
+            (c) Pages 10 and 11 of the Registrant's Annual Shareholders Report 
+                for the year ended June 30, 1994, containing Management's 
+                Discussion and Analysis of Financial Condition and Results of 
+                Operations, are on pages 18 through 20.
+
+            (d) Pages 12 through 19 of the Registrant's Annual Shareholders 
+                Report for the year ended June 30, 1994, containing the 
+                Consolidated Financial Statements and the Notes to the 
+                Consolidated Financial Statements, are on pages 21 through 29.
+
+            (e) Page 20 of the Registrant's Annual Shareholders Report for the 
+                year ended June 30, 1994, containing the Report of Independent 
+                Auditors, is on page 30.
+
+        (21)   List of subsidiaries is on page 31.
+
+        (23)   Consent of independent auditors is on page 32.
+
+        (27)   Financial Data Schedules required in filings on EDGAR are on 
+               page 33.
+
+(d)    See response to Item 14(a)(2) of this report.
+
+<PAGE> 9
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934,  the  Registrant  has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+                                              PICCADILLY CAFETERIAS, INC.
+                                            _______________________________
+                                                   (Registrant)
+
+
+                                             By: /s/Ronald A. LaBorde
+                                                 ____________________
+                                                  Ronald A. LaBorde       
+                                             Executive Vice President
+
+                                             Date: September  27, 1994
+                                                   ____________________
+
+Pursuant to the requirements of  the  Securities  Exchange  Act  of 1934, this
+report  has  been  signed  below  by  the  following persons on behalf of  the
+Registrant and in the capacities and on the dates indicated.
+
+
+
+/s/ Paul W. Murrill       9/27/94       /s/ James E. Durham, Jr.   9/27/94
+________________________  ________      _________________________  _________
+Dr. Paul W. Murrill,       Date          James E. Durham, Jr.,       Date
+Chairman and Director                    Senior Vice President and
+                                         Director*
+                   
+
+/s/ O.Q. Quick            9/27/94       /s/ Julia H. R. Hamilton    9/27/94
+_______________________   _________     _________________________   ________
+O.Q. Quick, Director         Date       Julia H. R. Hamilton,         Date
+                                        Director
+
+/s/ Malcolm T. Stein, Jr. 9/27/94      /s/ Mark L. Mestayer         9/27/94
+_________________________ _________    __________________________   ________
+Malcolm T. Stein, Jr.,      Date       Mark L. Mestayer, Executive    Date
+President, Chief Operating             Vice President, Secretary,
+Officer and Director*                  and Controller (Principal
+                                       Accounting Officer)
+
+
+/s/ Ronald A. LaBorde      9/27/94
+_________________________  _________
+Ronald A. LaBorde,           Date
+Executive Vice President, 
+Chief Financial Officer 
+(Principal Financial Officer), 
+and Director*
+
+
+* Member of the Management Committee.
+
+
+<PAGE> 10
+<TABLE>
+<CAPTION>
+                                          SCHEDULE V - PROPERTY, PLANT AND EQUIPMENT
+
+_______________________________________________________________________________________________________________
+COL.   A                           COL. B         COL. C         COL. D        COL. E           COL. F
+_______________________________________________________________________________________________________________
+
+                                   Balance                                  Other Changes
+                                 at Beginning   Additions                   Add (Deduct)      Balance at
+Classification                    of Period      at Cost      Retirements     Describe       End of Period
+_______________________________________________________________________________________________________________
+<S>                            <C>            <C>             <C>           <C>                <C>
+Year ended June 30, 1994:
+
+ Land                          $  13,515,362  $  4,504,443    $    50,000   $                  $  17,969,805
+ Buildings and leasehold 
+  improvements                    92,912,145     8,776,196      1,858,770                         99,829,571
+ Furniture and fixtures           81,587,949     9,399,687      3,543,515                         87,444,121
+ Machinery and equipment          15,445,583     1,986,764      2,401,295                         15,031,052
+ Construction in progress          1,688,952    25,744,233          -        (18,516,652)<FN1>     8,916,533
+                               _______________ ______________ _____________ ________________  ________________   
+                               $ 205,149,991  $ 50,411,323   $  7,853,580   $(18,516,652)       $229,191,082
+                               =============== ============== ============= ================  ================
+Year ended June 30, 1993:
+ Land                          $  11,445,043  $  2,130,319   $     60,000   $                   $ 13,515,362
+ Buildings and leasehold 
+   improvements                  102,006,318     2,782,371     11,876,544                         92,912,145
+ Furniture and fixtures           84,576,886     2,596,190      5,585,127                         81,587,949
+ Machinery and equipment          15,269,338     1,201,190      1,024,945                         15,445,583
+ Construction in progress            481,545     3,932,685          -        ( 2,725,278)<FN1>     1,688,952
+                               _______________ ______________ ______________ ________________   _______________
+                               $ 213,779,130   $12,642,755   $ 18,546,616   $( 2,725,278)      $ 205,149,991
+                               =============== ============== ============== ================   ===============
+Year ended June 30, 1992:
+ Land                          $  11,448,840   $      -      $      3,797   $                  $  11,445,043
+ Buildings and leasehold 
+   improvements                  102,083,336     4,196,929      4,273,947                        102,006,318
+ Furniture and fixtures           84,055,153     4,060,735      3,539,002                         84,576,886
+ Machinery and equipment          13,746,732     2,432,945        910,339                         15,269,338
+ Construction in progress          1,430,154     3,462,861           -       ( 4,411,470)<FN1>       481,545
+                             ________________ ______________ ______________ _________________   _______________
+                              $  212,764,215   $14,153,470   $  8,727,085   $( 4,411,470)       $ 213,779,130
+                             ================ ============== ============== =================   ===============
+<FN1> Amounts represent items transferred to other fixed asset categories and are included in the amounts in Column C.
+
+</TABLE>
+<PAGE> 11
+
+<TABLE>
+<CAPTION>
+
+           SCHEDULE VI - ACCUMULATED DEPRECIATION, DEPLETION AND AMORTIZATION
+                                 OF PROPERTY, PLANT AND EQUIPMENT
+
+_______________________________________________________________________________________________________________
+COL.   A                           COL. B         COL. C         COL. D        COL. E           COL. F
+_______________________________________________________________________________________________________________
+
+                                   Balance                                  Other Changes
+                                 at Beginning   Additions                   Add (Deduct)      Balance at
+Classification                    of Period      at Cost      Retirements     Describe       End of Period
+_______________________________________________________________________________________________________________
+<S>                            <C>            <C>             <C>           <C>                <C>
+
+Year ended June 30, 1994:
+ Buildings and leasehold 
+   improvements                $29,593,622    $  3,440,205    $1,065,155                       $31,968,672
+ Furniture and fixtures         48,527,428       6,618,057     2,481,420                        52,664,065
+ Machinery and equipment         9,799,938       1,661,810     1,633,145                         9,828,603
+                              ______________  ______________ _____________                   _______________
+                               $87,920,988     $11,720,072    $5,179,720                       $94,461,340
+                              ==============  ============== =============                   ===============
+Year ended June 30, 1993:
+ Buildings and leasehold 
+   improvements                $27,991,286     $  3,239,902   $1,745,373       $107,807<FN1>   $29,593,622
+ Furniture and fixtures         44,111,905        7,155,676    3,144,579        404,426<FN1>    48,527,428
+ Machinery and equipment         8,499,011        1,444,889      207,718         63,756<FN1>     9,799,938
+                              ______________  ______________  ____________  ________________  ______________
+                               $80,602,202      $11,840,467   $5,097,670       $575,989        $87,920,988
+                              ==============  ==============  ============  ================  ==============
+Year ended June 30, 1992:
+ Buildings and leasehold 
+   improvements                $25,544,875     $  3,440,392   $1,084,693      $  90,712<FN1>  $27,991,286
+ Furniture and fixtures         36,911,070        8,219,369    1,260,230        241,696<FN1>   44,111,905
+ Machinery and equipment         7,833,797        1,636,020    1,013,317         42,511<FN1>    8,499,011
+                             _______________  ______________  ____________  ________________  ______________
+                               $70,289,742      $13,295,781   $3,358,240      $ 374,919       $80,602,202
+                             ===============  ==============  ============  ================  ==============
+
+<FN1>  Additions to accumulated depreciation on reserved units which have been charged to the allowance for unit closings.
+
+</TABLE>
+<PAGE> 12
+
+<TABLE>
+
+                            SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+
+
+_____________________________________________________________________________________________________________
+COL. A                            COL. B                COL. C                 COL. D              COL. E
+_____________________________________________________________________________________________________________
+                                                       Additions
+                                                    _______________
+                                                               (2)
+                                                     (1)      Charged to
+                                Balance at         Charged to    Other
+                                Beginning          cost and    Accounts-       Deduction--       Balance at
+Description                     of Period          expenses    Describe         Describe       End of Period
+_____________________________________________________________________________________________________________
+<S>                           <C>                                            <C>                <C>
+Reserves for Unit Closings:
+
+Year ended June 30, 1993:
+ Property, plant & equipment   
+  allowance                   $  1,832,143                                   $   475,484<FN1>   $ 1,356,659
+Current liability                  499,647                                       149,165<FN1>       350,482
+Long-term liability              7,804,739                                     1,302,253<FN1>     6,502,486
+                            ___________________                             __________________  _____________
+                              $ 10,136,529                                   $ 1,926,902          8,209,627
+                            ===================                             ==================  =============
+
+Year ended June 30, 1992:
+
+ Property, plant & equipment   
+   allowance                  $ 11,458,442                                   $9,626,299<FN1>    $ 1,832,143
+ Current liability               2,028,664                                    1,529,017<FN1>        499,647
+ Long-term liability            12,945,382                                    5,140,643<FN1>      7,804,739
+                           ___________________                              __________________  _____________ 
+                               $26,432,488                                  $16,295,959         $10,136,529
+                           ===================                              ==================  =============
+
+<FN1> Deductions are for the write-off of certain property, plant and equipment relating to units closed and
+       for the payment of other obligations (primarily rent) for those units closed and for those units for which
+       a provision for unit closing was recorded during the year ended June 30, 1992 but were operating during
+       the year ended June 30, 1993.
+
+</TABLE>
+<PAGE> 13
+
+                           SCHEDULE IX - SHORT-TERM BORROWINGS
+<TABLE>
+<CAPTION>
+_____________________________________________________________________________________________________
+COL. A              COL. B          COL. C          COL. D          COL. E             COL. F
+____________________________________________________________________________________________________
+Category of                       Weighted         Maximum          Average           Weighted
+ Aggregate          Balance        Average          Amount          Amount            Average
+Short-term            at          Interest        Outstanding     Outstanding      Interest Rate
+Borrowing         End of Year       Rate          During Year     During Year      During Year<FN1>
+___________________________________________________________________________________________________
+<S>                  <C>            <C>            <C>               <C>              <C>  
+Year ended 
+ June 30, 1994       $   -           -             $     -           $     -            -
+            
+Year ended 
+ June 30, 1993       $     -         -             $     -           $     -            -
+           
+Year ended 
+ June 30, 1992       
+       Bank<FN2>     $     -         -             $3,744,000        $1,088,000<FN4>   6.0%
+       Bank<FN3>     $     -         -             $3,000,000        $1,809,000<FN5>   6.7%
+
+
+<FN1> Computed by dividing the actual interest expense by average short-term
+        debt outstanding.
+<FN2> Unsecured line of credit.
+<FN3> Note(s) payable to bank(s).
+<FN4> Computed by dividing the total of daily outstanding principal balances by
+        number of days outstanding.
+<FN5> Computed by dividing the total of month-end outstanding principal balances by 12.
+
+</TABLE>
+<PAGE> 14
+
+
+             SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+
+______________________________________________________________________________
+   COL. A                                         COL. B
+______________________________________________________________________________
+    Item                              Charged to Costs and Expenses
+______________________________________________________________________________
+
+                                                Year Ended June 30
+                                    __________________________________________
+                                      1994           1993          1992
+                                    ___________  _____________  ____________
+Maintenance and repairs              $3,678,687   $3,303,169    $3,142,108
+Advertising                           1,208,431      973,512     3,502,779
+
+
+Depreciation and amortization of intangible  assets,  taxes other than payroll
+and income taxes, and royalties are not set forth inasmuch  as  such  items do
+not exceed 1%  of total  sales  as  shown in the accompanying statements of
+income.
+
+<PAGE> 15
+
+EXHIBIT INDEX
+
+(3) (a) Articles of Incorporation, incorporated by reference to Exhibit 3.1 to
+        Registrant's Form S-1, Registration No. 2-63249 filed December 19,1978
+        (the "Form S-1"); amendment to Articles of Incorporation, incorporated
+        by reference to Exhibit 3 to Registrant's Form 10-K, File No. 0-9037,
+        filed September 14, 1987; amendment to Articles of Incorporation, 
+        incorporated by reference to Exhibit 3 to Registrant's  Form  10-K,  
+        File No. 0-9037, filed September 27, 1988; and amendment to Articles 
+        of Incorporation incorporated by reference to Exhibit 3(a) to 
+        Registrant's Form 10-K, as amended, File No. 0-9037,  filed
+        September 28, 1989.
+
+    (b) Bylaws of the Company incorporated by reference to Exhibit 3(a)  to
+        Registrant's Form 10-K, as amended, File No. 0-9037, filed September 
+        14, 1993.
+
+(4) (a) Piccadilly Cafeterias, Inc. Stockholders Rights Agreement,incorporated
+        by reference to Exhibit 4 to the Form 8-K, File No. 0-9037, filed 
+        August 22, 1988.
+
+    (b) Note Agreement dated as of January 31, 1989, relating to $30,000,000
+        principal amount of 10.15% Senior Notes due January 31, 1999, 
+        incorporated by reference to Exhibit 4 of the Form 10-Q, File No. 
+        0-9037,  filed  February 11, 1989.
+
+(10)(a) Piccadilly Cafeterias, Inc., Pension Plan, as amended, dated  May  3,
+        1993 incorporated  by reference to Exhibit 10(a) to Registrant's Form
+        10-K, as amended, File No. 0-9037, filed September 14, 1993.
+
+    (b) Piccadilly Cafeteria, Inc. Employee Stock Purchase Plan, incorporated
+        by reference to Exhibit A to Registrant's Form S-8, Registration 
+        No. 33-17737, filed October  7, 1989 and amendment to Employee Stock 
+        Purchase  Plan, incorporated by reference to Exhibit 10(b) to 
+        Registrant's Form 10-K, as amended, File No. 0-9037, filed September
+        27, 1991.
+
+    (c) Piccadilly Cafeterias, Inc. 1988 Stock Option Plan, incorporated by
+        reference to Exhibit 4.1 to Registrant's Form S-8, Registration 
+        No. 33-27793, filed March 29, 1989; and amendment to 1988 Stock 
+        Option Plan dated August 2, 1993 incorporated by reference to 
+        Exhibit 10(c) to Registrant's Form 10-K, as amended, File No. 0-9037,
+        filed September 14, 1993.
+
+(13)(a) The inside front  cover of the Registrant's Annual Shareholders Report
+        for the year ended June 30,1994, containing "Selected Financial Data",
+        is on page 16.
+
+    (b) The inside front cover of the Registrant's Annual Shareholders Report 
+        for the year ended June 30, 1994, containing "Stock Information", is 
+        on page 17 .
+
+    (c) Pages 10 and 11 of the Registrant's Annual Shareholders Report for the
+        year ended June 30, 1994, containing Management's Discussion and 
+        Analysis of Financial Condition and Results of Operations, are on 
+        pages 18 through 20.
+
+    (d) Pages 12 through 19 of the Registrant's Annual Shareholders Report 
+        for the year ended June 30, 1994, containing the Consolidated 
+        Financial Statements and the Notes to the Consolidated Financial 
+        Statements, are on pages 21 through 29.
+
+    (e) Page 20 of the Registrant's Annual Shareholders Report for the year 
+        ended June 30, 1994, containing the Report of Independent Auditors, 
+        is on page 30.
+
+(21)   List of subsidiaries is on page 31.
+
+(23)   Consent of independent auditors is on page 32.
+
+(27)   Financial Data Schedules required in filings on EDGAR are on page 33.
+
+         
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<TEXT>
+
+<PAGE> 16
+
+EXHIBIT 13(a)
+
+Stock Information
+Piccadilly Cafeterias, Inc.
+
+The Company's Common Stock began trading  on  the  New  York Stock Exchange on
+March  3,  1993  under the symbol "PIC."  Prior to that time,  the  stock  was
+traded on the NASDAQ  National  Market  System  under  the symbol "PICC."  The
+following table sets forth the high and low sales prices on the New York Stock
+Exchange or on the NASDAQ National Market System for each  quarter  within the
+last  two  fiscal years.  As of August 8, 1994 there were approximately  2,502
+record holders of the Company's Common Stock.
+
+<TABLE>
+<CAPTION>
+____________________________________________________________________________________________________________
+                                                     Per                                              Per
+                                                    Share                                            Share
+                      Quarter    High    Low        Cash                   Quarter   High    Low     Cash
+                                                  Dividends                                        Dividends
+____________________________________________________________________________________________________________
+<S>                     <C>   <C>     <C>          <C>       <C>             <C>   <C>     <C>       <C>           
+Fiscal year ended                                            Fiscal year
+  July 30, 1994         1st   $10.88  $ 8.38       $.12      June 30,1993    1st   $14.25  $10.00    $.12
+                        2nd    12.63   10.50        .12                      2nd    14.00   10.50     .12
+                        3rd    15.50   11.63        .12                      3rd    12.00    9.00     .12
+                        4th    13.63    9.63        .12                      4th    10.88    9.50     .12
+                                          __________________________________
+</TABLE>
+<PAGE> 17
+
+
+
+
+
+EXHIBIT 13(b)
+
+Selected Financial Data
+Piccadilly Cafeterias, Inc.
+                                             
+<TABLE>                                             
+<CAPTION>
+                                                (Amounts in thousands--except per share data)
+_______________________________________________________________________________________________
+Year Ended June 30                  1994         1993         1992            1991       1990
+_______________________________________________________________________________________________
+<S>                              <C>          <C>           <C>             <C>        <C>
+Net Sales                        $276,223     $271,460      $295,114        $302,742   $306,655
+Cost of sales and other        
+  operating expense               247,661      247,453       266,792         270,500    269,619
+Net income (loss)                   7,047        4,825       (24,586)<FN1>     8,694    11,901
+Per share data:
+  Net income (loss)                   .70          .49         (2.51)<FN1>       .90      1.25
+  Cash dividends                      .48          .48           .48             .48       .48
+Total assets                      154,773      152,618       152,906         184,534   179,043
+Cash and marketable                
+  securities                          ---       14,094         9,438           4,936     1,598
+    securities
+Long-term debt                     24,000       36,000        39,000          45,430    45,000
+Shareholders' equity               75,874       72,192        71,018          99,385    94,299
+
+
+<FN1> Includes $30,904,000 ($3.14 per share) for the after-tax effect of the
+      write-off of intangible assets related to the Ralph & Kacoo's acquisition on
+      December 2, 1988 and estimated disposition costs of 15 cafeteria and
+      restaurant operating units.
+
+</TABLE>
+<PAGE> 18
+
+
+
+EXHIBIT 13(c)
+
+Management's Discussion and Analysis of Financial Condition and Results of
+    Operations
+    
+Piccadilly Cafeterias, Inc.
+
+
+Liquidity and Capital Resources
+
+The following  table  presents  comparable  balances  of  cash equivalents and
+   working capital:
+                                                                    
+                                                       (Amounts in thousands)
+______________________________________________________________________________
+Balances at June 30                            1994        1993        1992
+______________________________________________________________________________
+Cash and cash equivalents                       --        $14,094    $ 7,839
+Working capital surplus (deficit)           $(26,063)     $ 2,043    $  (856)
+
+                           ______________________________________
+
+  Opening cash balances of $14,094,000 combined with cash generated from
+operations  of $23,426,000 were primarily used to fund $35,645,000  of fiscal
+year  1994  capital expenditures and debt  maturities.   Working capital
+decreased $28,106,000 during fiscal year 1994 primarily due to the capital
+expenditures made in fiscal year 1994 and the increase  in  current maturities
+of long-term debt.  The Company has maintained a $10,000,000 unsecured, short-
+term line of credit. This facility was not utilized during fiscal  year  1994.
+As of August 8, 1994,  $5,150,000 of this facility was available.
+
+  For fiscal year 1995, total capital expenditures are expected to approximate
+$40,000,000 to $45,000,000 and will include purchases of land, construction of
+eight to ten new units, and major remodels to 25 to 30 existing cafeterias and
+restaurants. Also  during  fiscal year 1995, $5,250,000 of the note payable to
+bank and $6,000,000 of the 10.15%  senior  notes  will become due.  Management
+has begun negotiations and anticipates obtaining bank  financing  to fund both
+capital  expenditures  and  maturing  debt  in  excess of the resources to  be
+generated from operations.
+            
+  During fiscal year 1994, the Company accelerated its new unit expansion and
+completed  the first year of a five-year plan to remodel all of  its  existing
+cafeterias. The following table presents a summary of capital expenditures for
+the years ended June 30, 1994, 1993 and 1992:
+                                      
+                               (Amounts in thousands--except number of units)
+______________________________________________________________________________
+Year Ended June 30                     1994           1993            1992
+______________________________________________________________________________
+                                 Amounts  Units  Amounts Units  Amounts Units
+______________________________________________________________________________
+New units opened                  $ 5,612      3   $1,536    1   $3,470    4
+Remodels completed--major          10,368     17      373    1        -    -
+Remodels completed--minor           1,074             821         2,438    
+Net increase (decrease) in
+   construction-in-progress         7,228           1,207          (948)
+Land purchases                      4,455           2,070             -
+Other                               3,158           3,910         4,782
+__________________________________________         _______      ________
+     Total capital expenditures   $31,895          $9,917        $9,742
+__________________________________________         _______      ________
+
+                          _______________________________________
+
+ Historically, the Company has leased land for the majority of its freestanding
+cafeteria units.  Beginning in fiscal year 1993, the Company began to purchase
+land for the  majority  of its new units.  The total investment required for a
+freestanding unit is higher  than for strip-center or shopping mall locations.
+All of the units opened in  fiscal years 1994 and 1993 are freestanding units.
+Of the four units opened in fiscal year 1992, one is freestanding, one is in a
+shopping mall, and two are located  in  strip-centers.   The  Company  expects
+that, prospectively, most of its new unit openings will be freestanding.
+
+  Major unit remodels generally include a substantial redesign of the unit.
+Capital expenditures for these units include  replacement  of  decor,  carpet,
+furniture  and  fixtures,  and  exterior  signage.   Minor  unit  remodels are
+generally limited to replacement of carpeting, minor decor upgrades, additions
+of take-out stands, and/or in some cases, replacement of exterior  signage.
+
+<PAGE> 19
+
+Results of Operations
+
+FISCAL YEAR 1994 COMPARED TO FISCAL YEAR 1993.  The following table summarizes
+comparable  cafeteria customer traffic for the fiscal years ended June 30,
+1994 and 1993:
+                                                  (Customers in thousands)
+______________________________________________________________________________
+Year Ended June 30                    1994              1993         Customer
+____________________________________________________________________
+                              Customers  Units    Customers   Units   Change
+Units open 12 months in                                       
+   both periods                 46,412    126     47,993       126     -3.3%
+Units opened                     1,183      3        427         1
+Units closed                       503      4      2,144        11
+_______________________________________        ___________
+                        Total   48,098            50,564               -4.9%
+=======================================        ===========
+                               ______________________________________
+
+
+  Cafeteria sales for fiscal year 1994 increased $5,307,000, or 2.1%, from
+fiscal year 1993.   Price increases effective  November 1993 and May 1994 were
+sufficient to offset the  overall customer decline of 4.9%.  The overall check
+average increased 5.2% from $5.00 for fiscal year  1993  to  $5.26  for fiscal
+year 1994.
+            
+  Ralph & Kacoo's restaurant sales decreased $544,000, or 2.3%.  No Ralph  &
+Kacoo's restaurants were opened or closed during fiscal year 1994.
+  
+  During fiscal year 1994, operating profits (net sales less cost of sales and
+other operating expenses) improved from  8.8%  of  net  sales  to 10.3% of net
+sales. Food costs and labor costs as a percentage of sales decreased  1.5% and
+0.7%,   respectively.   These  improvements  were  somewhat  offset  by  other
+operating expense which increased from 32.7% of net sales for fiscal year 1993
+to 33.4% of net sales for fiscal year 1994.
+            
+  Four units closed in fiscal year 1994. All of these units had substantially 
+reached the end of their  respective  lease  terms.   Other  operating expense
+includes  a  provision  of  $100,000  relating to losses associated  with  the
+closing of these units.
+            
+  Other expense for 1994 increased $876,000 compared to fiscal year 1993. This
+increase is largely attributable to non-cash  write-offs  related to remodeled
+units amounting to $996,000.
+
+  The Revenue Reconciliation Act of 1993 was enacted into law on August  10,
+1993.  This Act,  combined  with  an increase in the Company's effective state
+income tax rate,  resulted in an increase  of  the Company's current effective
+income tax rate from 37% to 39% for fiscal year 1994.
+            
+FISCAL YEAR 1993 COMPARED TO FISCAL YEAR 1992. The following table summarizes
+comparable cafeteria customer traffic for the fiscal years ended June 30, 1993
+and 1992:
+                                                                  
+                                                  (Customers in thousands)
+______________________________________________________________________________
+Year Ended June 30                    1993              1992         Customer
+____________________________________________________________________
+                              Customers  Units    Customers   Units   Change
+Units open 12 months in             
+   both periods                 48,313       129    50,749      129    -4.8%
+Units opened                     1,672         1       650        3
+Units closed                       579        11     2,944        5
+________________________________________         ___________
+                        Total   50,564              54,343             -7.0%
+========================================         ===========
+                                  _________________________________
+
+  Cafeteria sales for fiscal year 1993 decreased $19,192,000, or 7.2%, from
+fiscal year 1992. The decrease in sales is attributable to the change in same-
+store customer traffic and the operations  of cafeterias reserved for closing.
+Sales  from these units, for the first three  quarters  of  fiscal  year  1992
+($10,109,000),  are  included  in  fiscal  year  1992 reported amounts.  Price
+changes  had  little  effect on the comparison of year-to-year  sales  as  the
+customer check average for fiscal year 1993 increased 0.7% to $5.00 from $4.96
+for fiscal year 1992.
+            
+  Ralph & Kacoo's restaurant sales decreased $4,466,000, or 15.7%. Most of the
+decline is attributable to the operations of restaurants reserved for closing.
+Sales from these units, for the first  three  quarters  of  fiscal  year  1992
+($3,220,000),  are  included  in  fiscal year 1992 reported amounts. Sales for
+restaurants open the entire 12 months  of  fiscal year 1993 and 1992 decreased
+3.8%.
+            
+  During fiscal year 1993, operating profits (net sales less cost of sales and
+other operating expenses) declined from 9.6% of  net  sales  to  8.8%  of  net
+sales.  Food  costs and labor costs as a percentage of sales increased .7% and
+
+<PAGE> 20
+
+1.2%, respectively.  These  costs  of  sales increase to the Company's
+emphasis on food quality and customer service.
+            
+ Provisions for write-offs of certain assets in the third quarter significantly
+impacted  operating  results  for  fiscal  year  1992.  The  Company  recorded
+provisions  of  $45,760,000  ($30,904,000  after-tax,   or  $3.16  per  share)
+consisting primarily of a provision for unit closings and the write-off of the
+remaining book value of intangible assets associated with  the  acquisition of
+the Ralph & Kacoo's  seafood  restaurant  chain  in  fiscal  year  1989.
+Management's decision  to write off the remaining book value of the intangible
+assets ($10,952,000 after-tax,  or  $1.12  per share) reflected the lower than
+expected financial performance of the restaurant  chain. Amortization of these
+intangibles, after-tax, was $815,000 for fiscal year  1992  ($.08  per share).
+The  remaining  $31,152,000  ($19,952,000  after-tax,  or  $2.04  per  share),
+reflected a provision for the closing of 15 units that had not performed  well
+and  appeared  to  have  limited potential for improvement in the future. This
+provision consisted primarily  of reserves for the write-off of assets and the
+payment of future lease obligations.   All  of  the units reserved for closing
+were closed or returned to operations as of June  30,  1993.  The  closure  of
+these  units has had a positive effect on after-tax cash flow from operations.
+Operating  results  prior  to March 31, 1992, for these 15 units, exclusive of
+provisions for unit closings  and the write-off of intangibles, are summarized
+as follows:
+
+                               (Amounts in thousands--except per share data)
+_____________________________________________________________________________
+Nine Months Ended March 31                                           1992
+_____________________________________________________________________________
+Net sales                                                          $13,329
+Cost of sales and other operating expenses                          16,891
+Loss (net of tax benefit)                                          $(2,241)
+=============================================================================
+Loss (net of tax benefit) per share                               $  (0.23)
+=============================================================================
+                           ______________________________________
+
+ As of June 30,1994, the Company had 12 properties for which it has continuing
+rent  obligations  not  offset  by  sublease  arrangements.  Several  of these
+properties are under varying stages of sublease negotiation.  Management  will
+continue  to  pursue disposition of those properties at terms favorable to the
+Company either through lease buy-out arrangements or subleasing.
+
+KNOWN TRENDS OR  UNCERTAINTIES.   Generally, the Company has experienced sales
+growth primarily from selling price  increases and net increases in the number
+of operating units. The Company believes  that same-store declines in customer
+traffic result primarily from the increased number of eating establishments in
+the  markets  where  the  Company operates.  The  Company  believes  that  its
+programs  to enhance product  quality,  service,  and  dining  atmosphere  are
+essential to  increase customer traffic and ensure long-term profitability and
+growth.
+
+ Most of the Company's operating costs are subject to inflationary pressures.
+Historically, the Company has generally  been  able  to maintain its operating
+margins through increases in selling prices.
+ 
+ Congress is considering several proposals for national health care
+legislation.  Management   cannot   predict   the  ultimate  passage of such
+legislation nor its impact on the Company. The  Company  does  provide  health
+insurance coverage to those employees who voluntarily participate in the plan.
+Generally,  the Company absorbs approximately 50% of the costs under the plan.
+The Company has  recorded  expenses  (net  of employee premiums) for the three
+fiscal years ended June 30, 1994, amounting  to  $3,180,000,  $3,224,000,  and
+$2,999,000, respectively. At June 30, 1994, approximately 25% of the Company's
+employees were participating in the plan.
+ 
+ The Company is not aware of other material trends that may be expected to
+cause reported financial information not to be indicative of future operating
+results or of future financial condition.
+
+<PAGE> 21
+
+EXHIBIT 13(d)
+
+Consolidated Balance Sheets
+Piccadilly Cafeterias, Inc.
+
+
+
+                                                       (Amounts in thousands)
+______________________________________________________________________________
+Balances at June 30                                         1994       1993
+______________________________________________________________________________
+ Assets
+
+ CURRENT ASSETS
+   Cash and cash equivalents                           $       -    $ 14,094
+   Accounts and notes receivable                              579        837
+   Inventories                                             10,108     12,012
+   Income taxes recoverable                                 1,320      1,930
+   Deferred income taxes                                    1,494      1,667
+   Other current assets                                     1,400      1,396
+______________________________________________________________________________
+ TOTAL CURRENT ASSETS                                      14,901     31,936
+
+ PROPERTY, PLANT & EQUIPMENT
+   Land                                                     17,970    13,515
+   Buildings and leasehold improvements                     99,829    92,912
+   Furniture and fixtures                                   87,444    81,588
+   Machinery and equipment                                  15,031    15,446
+   Construction in progress                                  8,917     1,689
+______________________________________________________________________________
+                                                           229,191   205,150
+   Less allowances for depreciation                         94,461    87,921
+   Less allowances for unit closings                         1,357     1,832
+______________________________________________________________________________
+     NET PROPERTY, PLANT AND EQUIPMENT                     133,373   115,397
+
+
+ OTHER ASSETS                                                6,499     5,285
+______________________________________________________________________________
+ TOTAL ASSETS                                              $154,773  $152,618
+==============================================================================
+
+Liabilities and Shareholders' Equity
+CURRENT LIABILITIES
+  Current portion of long-term debt                        $ 11,250  $  3,000
+  Accounts payable                                           18,004    15,357
+  Accrued salaries                                            4,252     4,330
+  Accrued taxes, other than income                            2,929     2,928
+  Accrued rent                                                4,179     3,778
+  Reserve for unit closings                                     350       500
+______________________________________________________________________________
+      TOTAL CURRENT LIABILITIES                             40,964    29,893
+Long-term Debt, less current portion                         24,000    36,000
+Deferred Income Taxes                                         7,433     6,728
+Reserve for Unit Closings, less current portion               6,502     7,805
+Shareholders' Equity
+Preferred Stock, no par value; authorized 50,000,000 
+   shares; issued and outstanding:  none                         --        --
+Common Stock, no par value, stated value $1.82 per share;
+   authorized  100,000,000 shares; issued and 
+   outstanding: 10,131,784 shares at June 30, 1994, and    
+   and 9,988,189 shares at June 30, 1993                      18,421   18,160
+Additional paid-in capital                                   16,324    15,119
+Retained earnings                                            41,129    38,913
+______________________________________________________________________________
+         TOTAL SHAREHOLDERS' EQUITY                          75,874    72,192
+______________________________________________________________________________
+TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY                 $154,773  $152,618
+==============================================================================
+See Notes to Consolidated Financial Statements
+
+<PAGE> 22
+
+Consolidated Statements of Income
+Piccadilly Cafeterias, Inc.
+
+_____________________________________________________________________________
+                               (Amounts in thousands -- except per share data)
+______________________________________________________________________________
+Year Ended June 30                                 1994     1993     1992
+______________________________________________________________________________
+Net Sales                                       $276,223 $271,460  $295,114
+Costs and expenses:
+  Cost of sales                                  155,411  158,777   166,900
+  Other operating expense                         92,250   88,676    99,892
+  Provision for unit closings                         --       --    31,152
+  Amortization and write-off of intangibles           --       --    15,849
+  General and administrative expense              13,541   13,324    13,304
+  Interest expense                                 3,089    3,521     4,044
+  Other expense (income)                             379     (497)     (295)
+______________________________________________________________________________
+                                                 264,670  263,801   330,846
+______________________________________________________________________________
+ INCOME (LOSS) BEFORE INCOME TAXES                11,553    7,659   (35,732)
+Provision for income taxes(benefit)                4,506    2,834   (11,146)
+______________________________________________________________________________
+  NET INCOME(LOSS)                                $7,047   $4,825  $(24,586)
+==============================================================================
+Weighted average number of shares outstanding     10,061    9,918     9,789
+==============================================================================
+ Net income (loss) per share                       $0.70    $0.49    $(2.51)
+==============================================================================
+See Notes to Consolidated Financial Statements
+
+
+
+
+Consolidated Statements of Changes in Shareholders' Equity
+Piccadilly Cafeterias, Inc.
+
+<TABLE>
+<CAPTION>
+                                                                          (Amounts in thousands)
+__________________________________________________________________________________________________
+                                                                           Additional
+                                                          Common Stock      Paid-In    Retained
+                                                        Shares   Amount     Capital    Earnings
+_________________________________________________________________________________________________
+<S>                                                    <C>      <C>        <C>         <C> 
+  BALANCES AT JUNE 30, 1991                            9,729    $17,690    $ 13,561    $ 68,134
+Net loss                                                                                (24,586)
+Cash dividends declared                                                                  (4,699)
+Sales under employee stock purchase plan                  89        161         526
+Sales under dividend reinvestment plan                    26         47         184
+_________________________________________________________________________________________________
+  BALANCES AT JUNE 30, 1992                            9,844     17,898      14,271      38,849
+Net income                                                                                4,825
+Cash dividends declared                                                                  (4,761)
+Sales under employee stock purchase plan                 124        226         669
+Sales under dividend reinvestment plan                    20         36         179
+_________________________________________________________________________________________________
+  BALANCES AT JUNE 30, 1993                            9,988     18,160      15,119      38,913
+Net income                                                                                7,047
+Cash dividends declared                                                                  (4,831)
+Sales under employee stock purchase plan                 103        188         843
+Sales under dividend reinvestment plan                    27         48         242
+Sales under employee stock option plan                    14         25         120
+__________________________________________________________________________________________________
+             BALANCES AT JUNE 30, 1994                10,132    $18,421     $16,324     $41,129
+==================================================================================================
+See Notes to Consolidated Financial Statements
+
+</TABLE>
+<PAGE> 23
+
+Consolidated Statements of Cash Flows
+Piccadilly Cafeterias, Inc.
+<TABLE>
+<CAPTION>
+_______________________________________________________________________________________________
+                                                                         (Amounts in thousands)
+_______________________________________________________________________________________________
+Year Ended June 30                                         1994         1993         1992
+_______________________________________________________________________________________________
+<S>                                                     <C>            <C>        <C> 
+ OPERATING ACTIVITIES
+  Net income (loss)                                     $  7,047       $ 4,825    $(24,586)
+  Adjustments to reconcile net income(loss) to net
+      cash provided by operating activities:
+    Depreciation                                          11,720        11,841      13,296
+    Amortization and write-off of intangibles               --            --        15,849
+    Provision for unit closings                             --            --        31,152
+    Cost associated with reserved units                   (1,587)       (2,309)       (602)
+    Provision for deferred income taxes(benefit)             878         4,183     (14,182)
+    Loss on disposition of assets                          1,336           126         177
+    Pension contributions in excess of pension            (1,157)       (1,289)       (869)
+       expense
+    Changes in operating assets and liabilities:
+       Accounts and notes receivable                         258           228        (109)
+       Inventories                                         1,904           229       1,637
+       Income taxes recoverable                              610        (1,662)        197
+       Other current assets                                 (483)           99          70
+       Other assets                                          (56)          832         452
+       Accounts payable                                    2,632           339         220
+       Accrued expenses and unit closing reserve             324          (660)        973
+______________________________________________________________________________________________
+       NET CASH PROVIDED BY OPERATING ACTIVITIES          23,426         16,782     23,675
+
+INVESTING ACTIVITIES
+  Purchases of property, plant and equipment             (31,895)        (9,917)   (9,742)
+  Proceeds from sale of property, plant and           
+     equipment                                             1,472          1,370     1,448
+  Proceeds from sales of marketable securities               --           1,671        --
+______________________________________________________________________________________________  
+      NET CASH USED BY INVESTING ACTIVITIES              (30,423)       (6,876)    (8,294)
+
+FINANCING ACTIVITIES
+  Payments on short-term debt due to banks - net             --             --       (618)
+  Payments on long-term debt                              (3,750)           --     (6,480)
+  Proceeds from sales of Common Stock                      1,466         1,110        917
+  Dividends paid                                          (4,813)       (4,761)    (4,699)
+______________________________________________________________________________________________
+      NET CASH USED BY FINANCING ACTIVITIES               (7,097)       (3,651)   (10,880)
+______________________________________________________________________________________________
+
+  Increase(decrease) in cash and cash equivalents        (14,094)        6,255      4,501
+  Cash and cash equivalents at beginning of year          14,094         7,839      3,338
+_______________________________________________________________________________________________  
+  Cash and cash equivalents at end of year               $    --       $14,094   $  7,839
+==============================================================================================
+SUPPLEMENTARY CASH FLOW DISCLOSURES
+  Income taxes paid (net of refunds received)            $  2,708      $   414   $  2,771
+==============================================================================================
+  Interest paid                                          $  3,433      $  3,313  $  4,312
+==============================================================================================
+See Notes to Consolidated Financial Statements
+
+</TABLE>
+<PAGE> 24
+
+
+Notes To Consolidated Financial Statements
+Piccadilly Cafeterias, Inc.
+
+Note A - Significant Accounting Policies
+       
+PRINCIPLES   OF   CONSOLIDATION.   The   accompanying  consolidated  financial
+statements  include  the  accounts  of Piccadilly  Cafeterias,  Inc.  and  its
+subsidiaries  (hereinafter  referred  to  as  the  Company).  All  significant
+intercompany balances and transactions have been eliminated in consolidation.
+
+INDUSTRY. The Company's principal industry  is  the operation of Company-owned
+cafeterias and seafood restaurants.
+            
+CASH EQUIVALENTS. Cash equivalents include those  temporary  investments  that
+are readily convertible to known amounts of cash, have original maturities  of
+three  months  or less, and have insignificant risk of changes in value due to
+changes in interest  rates. The carrying amounts reported in the balance sheet
+for these instruments approximate their fair values.
+            
+INVENTORIES. Inventories consist primarily of food and supplies and are stated 
+at the lower of cost (first-in, first-out method) or market.
+
+PROPERTY, PLANT AND EQUIPMENT.  Property,  plant  and  equipment  is stated at
+cost.  Depreciation  is  provided using the straight-line method for financial
+reporting purposes on the following estimated useful lives:
+     Buildings and component equipment                 10-30 years
+     Furniture and fixtures                               10 years
+     Machinery and equipment                               4 years
+Leasehold improvements are amortized over the life of the original lease term,
+including renewal periods  if  applicable.  The cost of leasehold improvements
+has  been  reduced  by  the amount of construction  allowances  received  from
+developers and landlords. Repairs and maintenance are charged to operations as
+incurred. Renewals and betterments  which  increase  the  value  or extend the
+lives  of  assets are capitalized and depreciated over their estimated  useful
+lives. When  assets  are  retired,  or are otherwise disposed of, cost and the
+related accumulated depreciation are  eliminated  from  the  accounts  and any
+resulting gain or loss is included in the determination of income.
+            
+INCOME  TAXES.  During fiscal 1992, the Company adopted Statement of Financial
+Accounting Standards  No. 109 (SFAS 109), "Accounting for Income Taxes," which
+prescribes the liability  method  for  computing  deferred  taxes, wherein tax
+rates are applied to cumulative temporary differences arising  from  different
+financial  and income tax accounting treatment of income and deductions  based
+on when and  how  these  differences  are expected to affect future income tax
+returns. Deferred income taxes are adjusted  for  tax rate changes. The effect
+of the adoption of SFAS 109 was not material.
+            
+UNIT OPENING EXPENSES. Salaries and wages, training  costs  and other expenses
+of opening new units are charged to expense during the first  month of the new
+unit's operation.
+            
+EARNINGS  PER  SHARE.  Earnings  per  share of Common Stock are based  on  the
+weighted average number of shares outstanding.
+
+Note B - Provision for Unit Closings and Asset Write-Offs
+In March 1992, the Company provided $45,760,000  ($30,904,000  after-tax)  for
+the  write-off  of  intangible  assets  and  estimated disposition costs of 15
+operating  units. The write-off of the remaining  book  value  of  $14,608,000
+($10,952,000  after-tax)  of the intangible assets associated with the Ralph &
+Kacoo's seafood chain reflected  the lower than expected financial performance
+of this chain. The remaining $31,152,000  ($19,952,000  after-tax) reflected a
+provision for the anticipated closing of 15 units that had  not performed well
+and  appeared  to have limited potential for improvement in the  future.  This
+provision consisted  primarily of reserves for the write-off of assets and the
+payment of future lease  obligations.  As  of  June 30, 1993, all of the units
+reserved for closing have been closed or returned  to  operations. Included in
+property,  plant  and equipment, net of related accumulated  depreciation,  is
+$2,671,000 and $3,622,000  at June 30, 1994 and 1993, respectively, for closed
+units.
+
+<PAGE> 25
+
+Note C - Income Taxes
+
+Significant components of the Company's deferred tax liabilities and assets 
+are as follows:
+                                                        (Amounts in thousands)
+______________________________________________________________________________
+June 30                                                1994         1993
+______________________________________________________________________________
+ Deferred tax liabilities:
+  Property, plant and equipment                       $11,932      $13,330
+  Inventories                                             840          840
+______________________________________________________________________________
+                                                       12,772       14,170
+______________________________________________________________________________
+ Deferred tax assets:
+  Unit closing reserves                                 2,704        3,347
+  Intangible assets                                     2,524        3,095
+  Accrued expenses--net                                   450          892
+  Jobs tax credit carryforward                            452          649
+  Minimum tax credit carryforward                         378        1,126
+  NOL carryforward                                        325           --
+______________________________________________________________________________
+                                                        6,833        9,109
+______________________________________________________________________________
+ Net deferred tax liabilities                         $ 5,939      $ 5,061
+==============================================================================
+
+The components of the provision for income taxes (benefit) are summarized 
+as follows:
+
+                                                    (Amounts in thousands)
+______________________________________________________________________________
+Year Ended June 30                                 1994      1993       1992
+______________________________________________________________________________
+ Current:
+  Federal                                        $ 3,079   $(1,034)  $  2,684
+  State                                              549      (315)       352
+______________________________________________________________________________
+                                                   3,628    (1,349)     3,036
+______________________________________________________________________________
+
+ Deferred:
+  Federal                                          1,168     3,298    (12,469)
+  State                                             (290)      885     (1,713)
+______________________________________________________________________________
+                                                     878     4,183    (14,182)
+______________________________________________________________________________
+Total provision for income taxes (benefit)        $ 4,506  $ 2,834   $(11,146)
+==============================================================================
+
+Differences between the provision for income taxes (benefit) and the amount
+computed by applying the federal statutory income tax rate to income (loss)
+before income taxes are as follows:
+
+
+                                                    (Amounts in thousands)
+______________________________________________________________________________
+Year Ended June 30                                 1994      1993       1992
+______________________________________________________________________________
+  Income tax (benefit) at statutory rate         $ 3,944   $ 2,604   $(12,149)
+    Add state income taxes (benefit), 
+      net of federal taxes                           259       570       (862)
+______________________________________________________________________________
+                                                   4,203     3,174    (13,011)
+  Amortization and write-off of intangibles           --       --       1,595
+  Job tax credits                                   (244)      --        (296)
+  Other items                                        547     (340)        566
+______________________________________________________________________________
+  Total provision for income taxes (benefit)     $ 4,506  $ 2,834    $(11,146)
+==============================================================================
+
+The  Company's  tax  returns  are  currently under examination by the Internal
+Revenue Service (IRS) for the fiscal  years  ended June 30, 1987 through 1992.
+The  IRS  has  proposed  adjustments to the Company's  tax  returns  primarily
+related to the amortization  of  intangible  assets  and the timing of certain
+other  deductions.  The  Company is vigorously contesting  these  matters  and
+believes that the ultimate  resolution  of  these  examinations  will  not  be
+material to the financial position of the Company.
+
+<PAGE> 26
+
+Note D - Commitments
+            
+The  Company rents most of its cafeteria and restaurant facilities under long-
+term leases  with  varying  provisions and with original lease terms generally
+being 20 to 30 years. The Company  has  the  option  to  renew  the leases for
+specified  periods  subsequent  to their original terms. Minimum future  lease
+commitments, including $18,533,000  for those units closed (see Note B), as of
+June 30, 1994, are as follows:
+
+                                                       (Amounts in thousands)
+______________________________________________________________________________
+Year Ending June 30                                 
+______________________________________________________________________________
+1995                                                                $ 8,857
+1996                                                                  8,569
+1997                                                                  8,214
+1998                                                                  7,877
+1999                                                                  7,727
+Subsequent                                                           58,605
+______________________________________________________________________________
+                                                                     99,849
+Less sublease income                                                  5,194
+______________________________________________________________________________
+Net minimum lease commitments                                       $94,655
+==============================================================================
+
+
+The  leases  generally  provide for percentage rentals based on sales. Certain
+leases also provide for payments of executory costs such as real estate taxes,
+insurance, maintenance and  other  miscellaneous charges. Rent expense for the
+periods shown below does not include these executory costs.
+
+                                                       (Amounts in thousands)
+______________________________________________________________________________
+Year Ended June 30                               1994       1993        1992
+______________________________________________________________________________
+Minimum rentals                               $  7,894   $  7,627    $  9,171
+Contingent rentals                               2,813      3,032       3,350
+______________________________________________________________________________
+Total                                          $10,707    $10,659     $12,521
+==============================================================================
+
+At  June  30, 1994, the estimated cost to complete new and remodel units under
+construction is $7,650,000.
+
+Note E - Long-Term Debt and Lines of Credit
+
+                                                      (Amounts in thousands)
+______________________________________________________________________________
+June 30                                                   1994        1993
+______________________________________________________________________________
+10.15% senior notes, due in equal, annual installments
+ beginning January 31, 1995, and ending January 31, 1999 
+ (Fair value at June 30,1994 - $33,336,000; 
+ June 30, 1993--$34,582,000)                            $30,000     $30,000
+Note payable to bank, due in equal, quarterly
+ installments of $750,000 beginning July 1, 1993, 
+ and a balloon payment of $4,500,000 due       
+ January 1, 1995 (Fair value at June 30, 1994--
+ $5,250,000; June 30, 1993 --$9,000,000)                  5,250       9,000
+______________________________________________________________________________
+Total                                                    $35,250     $39,000
+==============================================================================
+
+The aggregate maturities  of  long-term  debt  for  each  of  the five years
+following June 30, 1994, are as follows: 1995-$11,250,000, 1996-$6,000,000,
+1997-$6,000,000, 1998-$6,000,000, 1999-$6,000,000.  The  fair  value  of  the
+Company's  long-term  borrowings  are  estimated  using  discounted  cash flow
+analyses,  based  on  the  Company's  current  incremental borrowing rates for
+similar types of borrowing arrangements.
+
+In January 1989, the Company issued unsecured senior  notes  in  the principal
+amount  of $30,000,000 at an interest rate of 10.15%. These notes are  payable
+at $6,000,000  per  year beginning January 31, 1995, and ending on January 31,
+1999. The Company has  a prepayment option, subject to a premium, which can be
+exercised at any time during the term of the senior notes.
+
+The $5,250,000 note payable  to  bank is unsecured and bears interest based on
+applicable rates and margins. The  interest  rate  in effect at June 30, 1994,
+(5.734%) was based upon London InterBank Offered Rate  (LIBOR)  plus 50%. The
+
+<PAGE> 27
+
+Company  has  a prepayment option, without penalty, who any time during the
+term of the note.
+
+Both long-term  facilities  contain covenants which include provisions for the
+maintenance  of  net worth, limitations  on  the  level  of  liabilities,  and
+requirements for minimum  coverage  of  fixed  charges.  At June 30, 1994, the
+Company was in compliance with all such covenants.
+
+The Company has a line-of-credit arrangement with  a  bank  under  which up to
+$10,000,000  can  be  borrowed.   At  June 30, 1994, $10,000,000 was available
+under this agreement.
+
+The Company capitalized interest cost of  $300,000  in  1994  with  respect to
+qualifying construction. Total interest cost incurred was $3,389,000  in 1994,
+$3,521,000 in 1993 and $4,044,000 in 1992.
+
+Note F - Pension and Bonus Plan
+            
+The Company has a pension plan covering substantially all employees who meet
+certain  age and length-of-service requirements. Retirement benefits are based
+upon an employee's  years  of credited service and final average compensation.
+Annual contributions are made  in  amounts  sufficient to fund normal costs as
+accrued and to amortize prior service costs over a 40-year period. Assets of
+the  plan  are  invested  principally  in  obligations  of the  United  States
+Government and other marketable debt and equity securities  including  367,662
+shares  of the Company's Common Stock held at June 30, 1994 and 277,562 shares
+at June 30, 1993.
+
+The following tables set forth the plan's funded status and amounts recognized
+in the Company's financial statements.
+
+                                                    (Amounts in thousands)
+______________________________________________________________________________
+June 30                                                 1994        1993
+______________________________________________________________________________
+Accumulated benefit obligations, including vested
+ benefits of $30,456,000 in 1994 and $27,215,000 
+ in 1993.                                             $33,885     $30,515
+==============================================================================
+Fair value of plan assets                             $39,655     $38,045
+Projected benefit obligation                           39,477      36,041
+______________________________________________________________________________
+Plan assets over projected benefit obligation             178       2,004
+Unrecognized transition amount                         (1,525)     (2,353)
+Unrecognized prior service cost                           (50)        172
+Unrecognized net loss                                    7,071      4,694
+______________________________________________________________________________
+Prepaid pension cost included in other non-current 
+  assets                                               $ 5,674    $ 4,517
+==============================================================================
+
+                                                        (Amounts in thousands)
+______________________________________________________________________________
+Year Ended June 30                                  1994      1993      1992
+______________________________________________________________________________
+Net pension expense:
+Service cost                                       $ 1,673   $ 1,653  $ 1,833
+Interest cost on projected benefit obligation        2,912     2,680    2,674
+Actual return on plan assets                        (1,401)   (2,541)  (3,081)
+Net amortization and deferral                       (2,749)   (1,346)    (395)
+______________________________________________________________________________
+                                                   $   435   $   446  $ 1,031
+==============================================================================
+______________________________________________________________________________
+June 30                                              1994     1993      1992
+______________________________________________________________________________
+Actuarial assumptions:
+ Discount rate                                         8.0%    8.25%    8.25%
+ Compensation increases                                4.0%     4.0%     4.0%
+ Long-term rate of return                              9.0%     9.0%     9.0%
+
+
+
+<PAGE> 28
+
+The  Company  also  provides  bonus  compensation  to cafeteria and restaurant
+managers based on unit profitability. Charges to expense for such compensation
+amounted  to $9,982,000, $9,305,000, and $10,951,000  during  1994,  1993  and
+1992, respectively.
+
+Note G - Common Stock
+
+On August 3,  1987,  the Board of Directors adopted the Piccadilly Cafeterias,
+Inc. Dividend Reinvestment and Stock Purchase Plan. Shareholders of record may
+reinvest quarterly dividends  and/or up to $5,000 per quarter in the Company's
+Common Stock. Stock obtained through  reinvested  dividends  is issued at a 5%
+discount. The Company has reserved 500,000 shares for issuance under the plan.
+Common Shares issued under the plan were 26,366 and 19,962 for the years ended
+June  30,  1994 and 1993, respectively. At June 30, 1994, there  were  407,669
+unissued Common Shares reserved under the plan.
+
+On November  2,  1987,  the  Company's  stockholders  adopted the Piccadilly
+Cafeterias,  Inc.  Employee  Stock  Purchase  Plan.  Under  the plan, eligible
+employees  may  be  granted options to purchase up to 1,500 shares  of  Common
+Stock annually. Options  are exercisable at 85% of the applicable market value
+provided that this value is  greater  than book value per share. If 85% of the
+applicable  market  value  is less than book  value  per  share,  options  are
+exercisable at book value per share. Options are exercisable at the applicable
+market value if the applicable market value is less than book value per share.
+The applicable market value is the lower of the beginning of the plan year and
+the end of the plan year market  price.  Book value per share is determined as
+of  the  most  recent audited balance sheet date.  The  Company  has  reserved
+1,000,000 shares  of  stock  for issuance under the plan. Common Shares issued
+under the plan were 103,230 and  124,083 for the years ended June 30, 1994 and
+1993,  respectively. At June 30, 1994,  there  were  426,465  unissued  shares
+reserved under the plan.
+
+On August  8,  1988,  the Board of Directors adopted a stockholder rights plan
+and declared a dividend  distribution  of  one  right  on  each  Common  Share
+outstanding. Upon the occurrence of certain events, the holders of rights  are
+entitled  to purchase additional shares of the Company's Common Stock from the
+Company at  an  exercise  price of $60 per share. Additionally, the holders of
+rights  may be entitled to purchase  either  the  Company's  Common  Stock  or
+securities of an acquiring entity at half of market value.
+
+On November  1,  1993,  the  Company's  stockholders  approved  the Piccadilly
+Cafeterias, Inc. 1993 Incentive Compensation Plan (the 1993 Plan).  Under  the
+terms  of  the plan, which amends and restates the Piccadilly Cafeterias, Inc.
+1988 Stock Option  Plan  (the  1988  Plan),  incentive  stock options and non-
+qualified stock options, stock appreciation rights, stock  awards,  restricted
+stock,  performance shares and cash awards may be granted to officers  or  key
+employees.  Options  to  purchase  shares of the Company's Common Stock may be
+issued at no less than 100% of the fair  market  value  on  the date of grant.
+1,000,000 shares, in total, have been reserved for issuance under the 1988 and
+1993  Plans.  Transactions under the restated Plan for the last  three  fiscal
+years are summarized as follows:
+
+                             (Dollars in thousands -- except per share data)
+______________________________________________________________________________
+                                            Common           Option Price
+                                                          ___________________
+                                             Stock        Per Share
+                                             Shares        Average    Total
+______________________________________________________________________________
+   OUTSTANDING AT JUNE 30, 1991             298,000                  $ 4,184
+Cancelled                                   (77,000)        $14.08    (1,084)
+Granted                                     779,000          10.24     7,979
+_____________________________________________________                _________
+   OUTSTANDING AT JUNE 30, 1992           1,000,000                   11,079
+Cancelled                                   (34,000)         14.09      (480)
+Granted                                      14,000          12.75       179
+_____________________________________________________                _________
+   OUTSTANDING AT JUNE 30, 1993             980,000                   10,778
+Cancelled                                   (60,500)         14.00      (847)
+Exercised                                   (14,000)         10.38      (145)
+Granted                                      67,500          10.61       716
+_____________________________________________________                _________
+   OUTSTANDING AT JUNE 30, 1994             973,000                  $10,502
+=====================================================                =========
+
+<PAGE> 29
+
+Note H - Quarterly Results of Operations (Unaudited)
+            
+The following is a tabulation of the unaudited quarterly results of operations
+for the two years ended June 30, 1994.
+
+<TABLE>
+<CAPTION>
+
+                                                           (Amounts in thousands -- except per share data)
+______________________________________________________________________________________________________________
+                                       Year Ended June 30, 1994             Year Ended June 30, 1993
+______________________________________________________________________________________________________________
+                                   9/30     12/31      3/31     6/30      9/30      12/31     3/31     6/30
+<S>                              <C>       <C>       <C>       <C>       <C>       <C>       <C>      <C>
+Net sales                        $69,064   $71,175   $66,733   $69,251   $67,540   $69,340   $65,014  $69,566
+Cost of sales and other         
+  operating expense               61,922    63,109    59,730    62,900    61,674    63,612    58,998   63,169
+Net income                         1,950     2,333     1,687     1,077     1,331       970     1,158    1,366
+Net income per share             $   .20   $   .23   $   .17   $   .11   $   .14   $   .10   $   .12  $   .14
+
+</TABLE>
+<PAGE> 30
+
+EXHIBIT 13(e)
+
+Auditors' Report
+Piccadilly Cafeterias, Inc.
+
+Report of Ernst & Young LLP, Independent Auditors
+Shareholders and Board of Directors
+Piccadilly Cafeterias, Inc.
+Baton Rouge, Louisiana
+
+We  have  audited  the  accompanying consolidated balance sheets of Piccadilly
+Cafeterias, Inc. as of June  30,  1994  and 1993, and the related consolidated
+statements of income, changes in shareholders' equity, and cash flows for each
+of  the  three  years  in  the period ended June  30,  1994.  These  financial
+statements  are  the  responsibility   of   the   Company's   management.  Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We  conducted  our  audits  in  accordance  with  generally  accepted auditing
+standards.  Those  standards  require  that we plan and perform the  audit  to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes  examining, on a test basis, evidence
+supporting the amounts and disclosures in the  financial  statements. An audit
+also  includes  assessing  the  accounting  principles  used  and  significant
+estimates  made  by  management,  as well as evaluating the overall  financial
+statement presentation. We believe  that our audits provide a reasonable basis
+for our opinion.
+
+In our opinion, the financial statements  referred to above present fairly, in
+all  material  respects,  the consolidated financial  position  of  Piccadilly
+Cafeterias, Inc. at June 30,  1994  and  1993, and the consolidated results of
+its operations and its cash flows for each  of  the  three years in the period
+ended  June  30,  1994  in  conformity  with  generally  accepted   accounting
+principles.
+
+/s/ Ernst & Young LLP
+
+
+New Orleans, Louisiana
+August 1, 1994
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>3
+<TEXT>
+
+
+PAGE 31
+
+EXHIBIT 21
+
+List of Subsidiaries
+Piccadilly Cafeterias, Inc.
+
+(1)     Piccadilly Restaurants, Inc.
+        Louisiana Corporation
+        100% owned
+
+(2)     Cajun Bayou Distributors and Management, Inc.
+        Louisiana Corporation
+        100% owned
+
+(3)     Liquor PR, Inc.
+        Texas Corporation
+        49% owned
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>4
+<TEXT>
+
+
+PAGE 32
+
+EXHIBIT 23
+
+We consent to the incorporation by reference in this Annual Report (Form 10-K)
+of Piccadilly Cafeterias, Inc. of our report dated August 1, 1994, included in
+the 1994 Annual Report to Shareholders of Piccadilly Cafeterias, Inc.
+
+Our  audits  also  included  the  financial  statement schedules of Piccadilly
+Cafeterias, Inc. listed in Item 14(a).  These schedules are the responsibility
+of the Company's management.  Our responsibility  is  to  express  an  opinion
+based  on  our  audits.   In  our  opinion,  the financial statement schedules
+referred  to  above,  when  considered  in relation  to  the  basic  financial
+statements  taken as a whole, present fairly  in  all  material  respects  the
+information set forth therein.
+
+We  also consent  to  the  incorporation  by  reference  in  the  Registration
+Statements (Form S-8 No. 33-17737; Form S-3 No. 33-17131; and Form S-8 No. 33-
+27793)  and  in  the  related Prospectuses of our report dated August 1, 1994,
+with respect to the consolidated  financial  statements incorporated herein by
+reference and our report included in the preceding  paragraph  with respect to
+the financial statement schedules included in this Annual Report  (Form  10-K)
+of Piccadilly Cafeterias, Inc.
+
+
+/s/ Ernst & Young LLP
+
+
+New Orleans, Louisiana
+September  26, 1994
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM CONSOLIDATED
+FINANCIAL STATEMENTS AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH
+FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1994
+<PERIOD-END>                               JUN-30-1994
+<CASH>                                               0
+<SECURITIES>                                         0
+<RECEIVABLES>                                      579
+<ALLOWANCES>                                         0
+<INVENTORY>                                     10,108
+<CURRENT-ASSETS>                                14,901
+<PP&E>                                         229,191
+<DEPRECIATION>                                  94,461
+<TOTAL-ASSETS>                                 154,773
+<CURRENT-LIABILITIES>                           40,964
+<BONDS>                                              0
+<COMMON>                                        18,421
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                      57,453
+<TOTAL-LIABILITY-AND-EQUITY>                   154,773
+<SALES>                                        276,223
+<TOTAL-REVENUES>                               276,223
+<CGS>                                          155,411
+<TOTAL-COSTS>                                  261,581
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               3,089
+<INCOME-PRETAX>                                 11,553
+<INCOME-TAX>                                     4,506
+<INCOME-CONTINUING>                              7,047
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     7,047
+<EPS-PRIMARY>                                     0.70
+<EPS-DILUTED>                                     0.70
+        
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

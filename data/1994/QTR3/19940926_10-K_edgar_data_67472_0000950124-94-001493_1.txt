@@ -1,0 +1,3333 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ TOPihCO7UrIJMokdtdY2VacANRVCQ7SEFBRvRhQYYxNpWGGktj5H3vN5IFy+SVIn
+ DFxdrhCs9fPbhTgLPGuGow==
+
+<IMS-DOCUMENT>0000950124-94-001493.txt : 19941005
+<IMS-HEADER>0000950124-94-001493.hdr.sgml : 19941005
+ACCESSION NUMBER:		0000950124-94-001493
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19940630
+FILED AS OF DATE:		19940926
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MOLEX INC
+		CENTRAL INDEX KEY:			0000067472
+		STANDARD INDUSTRIAL CLASSIFICATION:	3678
+		IRS NUMBER:				362369491
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-07491
+		FILM NUMBER:		94550255
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2222 WELLINGTON CT
+		CITY:			LISLE
+		STATE:			IL
+		ZIP:			60532
+		BUSINESS PHONE:		7089694550
+
+	MAIL ADDRESS:	
+		STREET 1:		2222 WELLINGTON COURT
+		CITY:			LISLE
+		STATE:			IL
+		ZIP:			60532
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>   1
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C.  20549
+
+                                   FORM 10-K
+
+                ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+  For the fiscal year ended June 30, 1994       Commission File number 0-7491
+
+                               MOLEX INCORPORATED                             
+      -----------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+              Delaware                                         36-2369491       
+       -------------------------------                    ----------------------
+       (State or other jurisdiction of                      (I.R.S. Employer
+        incorporation or organization)                     Identification No.)
+
+       2222 WELLINGTON COURT, LISLE, ILLINOIS                      60532 
+    --------------------------------------------          ---------------------
+     (Address of principal executive offices)                  (Zip Code)
+
+    Registrant's telephone number, including area code     (708) 969-4550
+
+    Securities registered pursuant to Section 12(b) of the Act:  None
+
+    Securities registered pursuant to Section 12(g) of the Act:
+
+         Common Stock, par value $0.05
+
+         Class A Common Stock, par value, $0.05
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+    required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+    of 1934 during the preceding 12 months (or for such shorter period that the
+    registrant was required to file such reports), and (2) has been subject to
+    such filing requirements for the past 90 days.    Yes    X       No 
+                                                           -----         -----
+
+    On August 26, 1994, the following numbers of shares of the Company's common
+    stock were outstanding:
+
+                   Common Stock             31,907,332
+                   Class A Common Stock     31,639,575
+                   Class B Common Stock         94,255
+
+    The aggregate market value of the voting shares (based on the closing price
+    of these shares on the National Association of Securities Dealers Automated
+    Quotation System on such date) held by non-affiliates was approximately
+    $711.4 million.
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+    Portions of the Annual Report to Shareholders for the year ended June 30,
+    1994, are incorporated by reference into Parts I, II and IV of this report.
+
+    Portions of the Proxy Statement for the annual meeting of Stockholders, to
+    be held on October 21, 1994, are incorporated by reference into Part III of
+    this report.
+
+    Index to Exhibits listed on Pages 26 through 27.
+
+
+                                      1
+<PAGE>   2
+                               TABLE OF CONTENTS
+
+
+    Part I                                                                 Page
+                                                                           ----
+         Item 1.  Business                                                   3
+         Item 2.  Properties                                                 8
+         Item 3.  Legal Proceedings                                          9
+         Item 4.  Submission of Matters to a Vote of Security Holders        9
+                  Executive Officers of the Registrant                      10
+
+    Part II
+
+         Item 5.  Market for the Registrant's Common Equity and             12
+                  Related Stockholder Matters
+         Item 6.  Selected Financial Data                                   12
+         Item 7.  Management's Discussion and Analysis of Financial         13
+                  Condition and Results of Operations
+         Item 8.  Financial Statements and Supplementary Data               13
+         Item 9.  Changes in and Disagreements with Accountants on          13
+                  Accounting and Financial Disclosure
+
+    Part III
+
+         Item 10. Directors and Executive Officers of the Registrant        14
+         Item 11. Executive Compensation                                    14
+         Item 12. Security Ownership of Certain Beneficial Owners and       14
+                  Management
+         Item 13. Certain Relationships and Related Transactions            14
+
+    Part IV
+ 
+         Item 14. Exhibits, Financial Statement Schedules, and Reports      15
+                  on Form 8-K
+ 
+    Report of Independent Auditors - Ernst & Young                          17
+    Statements of Changes in Shares Outstanding                             18
+    Schedule II                                                             19
+    Schedule V                                                              20
+    Schedule VI                                                             21
+    Schedule VIII                                                           22
+    Schedule X                                                              23
+    Independent Auditors' Report on Schedules                               24
+    Signature Page                                                          25
+
+    Index to Exhibits                                                       26
+
+
+                                      2
+<PAGE>   3
+                                     PART I
+
+
+
+    Item 1 - BUSINESS
+
+
+                      GENERAL DEVELOPMENT OF THE BUSINESS
+
+         Molex Incorporated originated from an enterprise established in
+         1938.  It was incorporated in 1972 in the state of Delaware.  As
+         used herein the term "Molex" or "Company" includes Molex
+         Incorporated and its United States and international subsidiaries.
+
+         During fiscal 1994, Molex purchased the remaining shares
+         outstanding of Molex Nanco Ltd. and acquired an additional 20
+         percent interest in Dongguan Molex South-China Connector Co. Ltd.
+         During fiscal 1993, Molex increased its holdings in Molex India
+         Ltd. (formerly Jalex Connector Systems Ltd.) to 80 percent, and
+         made investments in Molex-G. Ostervig A/S, MEC International Pte.
+         Ltd. and Decoupage Moulage de Savoie S.A.  All of these companies
+         operate in the international connector industry.
+
+         Molex sold its remaining interest in Flexible Automation Systems
+         Pte. Ltd., a Singapore subsidiary of Molex, and sold a 15 percent
+         interest in Zetronic S.p.A. during fiscal 1993.
+
+                      GENERAL DESCRIPTION OF THE BUSINESS
+
+         Molex is a leading manufacturer of electrical, electronic and
+         fiber optic interconnection systems, ribbon cable, switches and
+         application tooling.  Molex offers its customers extensive global
+         design, engineering and manufacturing capabilities, while
+         providing local service through 41 plants in 19 countries.
+         Products manufactured and sold outside the United States generated
+         approximately 70% of Molex's fiscal 1994 sales.  Molex offers more
+         than 40,000 products to original equipment manufacturers in
+         industries that include the computer, computer peripheral,
+         business equipment, telecommunication, home appliance, home
+         entertainment, automotive, medical equipment and residential
+         construction industries.  Molex products are sold through direct
+         sales, distributors and manufacturer's representatives.  The
+         worldwide market for electronic connectors, cable assemblies and
+         backplanes was estimated to be $20.6 billion* in sales for fiscal
+         year 1994.  With a 4.7 percent market share, Molex is the second
+         largest independent connector manufacturer in the world.
+
+         * Source: Fleck International
+
+         Molex conducts business in one industry segment: the manufacture
+         and sale of electrical components.  The Company designs,
+         manufactures, and distributes electrical and electronic devices
+         such as terminals, connectors, planer cables, cable assemblies,
+
+
+                                      3
+<PAGE>   4
+         interconnection systems, fiber optic interconnection systems,
+         backplanes and mechanical and electronic switches.  Crimping
+         machines and terminal inserting equipment (known as "application
+         tooling") are offered on a lease or purchase basis to the
+         Company's customers for the purpose of applying the Company's
+         components to the customers' products.  Net revenue from
+         application tooling constitutes approximately 2% of the Company's
+         net revenues.  Molex products are designed for use in a broad
+         range of electrical and electronic applications as set forth
+         below:
+
+
+<TABLE>
+<CAPTION>
+                                     Percentage of
+                                      Fiscal 1994
+               Market                 Net Revenue        Products
+               ------                 -----------        --------
+         <S>                             <C>      <C>
+         Computer/business equipment/     47%     Computers, peripheral
+         telecommunications                       equipment, calculators,
+                                                  copiers, pagers and dictation
+                                                  equipment
+
+         Home entertainment and home      33%     Televisions, stereo high
+          appliance                               fidelity systems, compact disc
+                                                  players, video tape recorders,
+                                                  camcorders and electronic
+                                                  games, microwave ovens,
+                                                  refrigerators, freezers,
+                                                  dishwashers, disposals and air
+                                                  conditioners
+
+         Automotive                       12%     Automobiles, trucks,
+                                                  recreational vehicles and farm
+                                                  equipment.
+
+         Other                             8%     Electronic medical equipment,
+                                                  vending machines, security
+                                                  equipment and modular office
+                                                  furniture and premise wiring
+</TABLE>
+
+         The Company sells its products primarily to original equipment
+         manufacturers and their subcontractors and suppliers.  The
+         Company's customers include various multinational companies,
+         including Apple, AT&T, Canon, Compaq, Ford, General Motors,
+         Hewlett Packard, IBM, JVC, Matsushita, Motorola, Philips, Sony,
+         Thomson and Xerox, many of which Molex serves on a global basis.
+         Net revenues contributed by different industry groups fluctuate
+         due to various factors including model changes, new technology,
+         introduction of new products and composition of customers.  No
+         customer accounted for 10% or more of net revenues in fiscal years
+         1994, 1993 or 1992.  While its customers generally make purchasing
+         decisions on a decentralized basis, Molex believes that, due to
+         its financial strength and product development capabilities, it
+         has and will continue to benefit from the trend of many of its
+         customers towards the use of fewer vendors.
+
+
+                                      4
+<PAGE>   5
+         In the United States and Canada, the Company sells its products
+         primarily through direct sales engineers and industrial
+         distributors.  Internationally, Molex sells primarily through its
+         own sales organizations in Japan, Hong Kong, Singapore, Taiwan,
+         South Korea, Malaysia, Thailand, China, England, Italy, Ireland,
+         France, Spain, Germany, the Netherlands, Sweden, Norway, Denmark,
+         South Africa, India, Canada, Mexico and Brazil.
+
+         Outside of the United States and Canada, Molex also sells its
+         products through manufacturers' representative organizations, some
+         of which act as distributors, purchasing from the Company for
+         resale.  The manufacturers' representative organizations are
+         granted exclusive territories and are compensated on a commission
+         basis.  These relationships are terminable by either party on
+         short notice.  All sales orders received are subject to approval
+         by the Company.
+
+         The Company promotes its products through leading trade magazines,
+         direct mailings, catalogs and other promotional literature.  Molex
+         is a frequent participant in trade shows and also conducts
+         educational seminars for its customers and its manufacturers'
+         representative organizations.
+
+         There was no significant change in the Company's suppliers,
+         products, markets or methods of distribution during the last
+         fiscal year.
+
+         Molex generally seeks to locate manufacturing facilities to serve
+         local customers and currently has 41 manufacturing facilities in
+         19 countries on five continents.  Molex facilities in the Far East
+         and Europe are ISO 9000 certified, and programs are underway to
+         obtain certification for facilities in Molex's other regions.
+         Besides pursuing ISO 9000 quality certification in the United
+         States, Molex is working on the suggestions outlined in its
+         Malcolm Baldrige National Quality Award application feedback
+         report.
+
+         The principal raw materials and component parts Molex purchases
+         for the manufacture of its products include brass, copper,
+         aluminum, steel, tin, nickel, gold, silver, nylon and other
+         molding materials, and nuts, bolts, screws and rivets.  Virtually
+         all materials and components used in the Company's products are
+         available from several sources.  Although the availability of such
+         materials has generally been adequate, no assurance can be given
+         that additional cost increases or material shortages or
+         allocations imposed by its suppliers in the future will not have
+         a materially adverse effect on the operations of the Company.
+
+                                  COMPETITION
+
+         The business in which the Company is engaged is highly
+         competitive.  Most of the Company's competitors offer products in
+         some but not all of the industries served by the Company.  Molex
+
+
+                                      5
+<PAGE>   6
+         believes that the ability to meet customer delivery requirements
+         and maintenance of product quality and reliability are competitive
+         factors that are as important as product pricing.  Some of the
+         Company's competitors have been established longer and have
+         substantially larger manufacturing, sales, research and financial
+         resources.
+
+                               PATENTS/TRADEMARKS
+
+         As of June 30, 1994, the Company owned 439 United States patents
+         and had 124 patent applications on file with the United States
+         Patent Office.  The Company also has 497 corresponding patents
+         issued and 1,841 applied for in other countries as of June 30,
+         1994.  No assurance can be given that any patents will be issued
+         on pending or future applications.  As the Company develops
+         products for new markets and uses, it normally seeks available
+         patent protection.  The Company believes that its patents are of
+         importance but does not consider itself materially dependent upon
+         any single patent or group of related patents.
+
+                                    BACKLOG
+
+         The backlog of unfilled orders at June 30, 1994 was approximately
+         $175.8 million; this compares to $156.5 million at June 30, 1993.
+         Substantially all of these orders are scheduled for delivery
+         within twelve months.  The Company's experience is that orders are
+         normally delivered within ninety days from acceptance.
+
+                            RESEARCH AND DEVELOPMENT
+
+         Molex incurred total research and development costs of $64.8
+         million in 1994, $56.2 million in 1993, and $47.6 million in 1992.
+         The Company incurred costs relating to obtaining patents of
+         $3.3 million in 1994, $2.8 million in 1993, and $2.2 million in
+         1992 which are included in total research and development costs.
+         The Company's policy is to charge these costs to operations as
+         incurred.
+
+         The Company had approximately 606 full-time employees in 1994 (558
+         in 1993 and 532 in 1992), engaged in research, development and
+         engineering functions.
+
+         The Company introduced many new products during the year; however,
+         in the aggregate, these products did not require a material
+         investment of assets.
+
+
+                                      6
+<PAGE>   7
+                                   COMPLIANCE
+
+         The Company believes it is in full compliance with federal, state
+         and local regulations pertaining to environmental protection.  The
+         Company does not anticipate that the costs of compliance with such
+         regulations will have a material effect on its capital
+         expenditures, earnings or competitive position.
+
+                                   EMPLOYEES
+
+         As of June 30, 1994, the Company employed over 8,100 persons
+         worldwide.  The Company believes its relations with its
+         employees are favorable.
+
+                            INTERNATIONAL OPERATIONS
+
+         The Company is engaged in material operations in foreign
+         countries.  Net revenue derived from international operations
+         for the fiscal year ended June 30, 1994 was approximately 70% of
+         consolidated net revenue.
+
+         The Company believes the international net revenue and earnings
+         will continue to be significant.  The analysis of the Company's
+         operations by geographical area appears in footnote 10 on page 44
+         of the 1994 Annual Report to Shareholders and is incorporated
+         herein by reference.
+
+
+                                      7
+<PAGE>   8
+   ITEM 2 - PROPERTIES
+
+         Molex owns and leases manufacturing, warehousing and office space
+         in over 75 locations around the world.  The total square footage
+         of these facilities is presented below:
+
+                      Owned          Leased         Total
+                    ---------       -------       -------- 
+                    2,406,000       714,000       3,120,000
+
+         The leases are of varying terms with expirations ranging from
+         fiscal 1995 through fiscal 2017.  The leases in aggregate are not
+         considered material to the financial position of the Company.
+
+         The Company's buildings, machinery and equipment have been well
+         maintained and are adequate for its current needs.
+
+         A listing of principal manufacturing facilities is presented
+         below:
+
+         BRAZIL                  JAPAN               THAILAND
+         Manaus                  Kagoshima           Bangkok
+                                 Okayama
+         CANADA                  Shioya              UNITED STATES
+         Scarborough, Ontario    Shizuoka            Huntsville, Alabama
+                                 Yamato City         Maumelle, Arkansas
+         CHINA (P.R.C.)                              Orange, California
+         Shilong Town            MALAYSIA            Pinellas Park, Florida
+                                 Prai, Penang        St. Petersburg, Florida
+         ENGLAND                                     Addison, Illinois
+         Bordon, Hampshire       MEXICO              Des Plaines, Illinois
+                                 Guadalajara         Lisle, Illinois
+         FRANCE                  Magdalena           Naperville, Illinois
+         Chateau Gontier         Nogales             Schaumburg, Illinois
+                                                     Lincoln, Nebraska (3)
+         GERMANY                 PUERTO RICO
+         Biberach                Ponce (2)
+         Ettlingen
+                                 REPUBLIC OF KOREA
+         INDIA                   Ansan City (2)
+         Bangalore
+                                 SINGAPORE
+         IRELAND                 Jurong Town
+         Millstreet Town
+         Shannon                 SOUTH AFRICA
+                                 Bergvlei (Johannesburg)
+         ITALY
+         Padova                  TAIWAN (R.O.C.)
+                                 Taipei
+
+
+                                      8
+<PAGE>   9
+Item 3 - LEGAL PROCEEDINGS
+
+         None deemed material to the Company's financial position or
+         consolidated results of operations.
+
+Item 4 - SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         None.
+
+
+
+                                       9
+<PAGE>   10
+    Executive Officers of the Registrant
+
+         The following information relates to the executive officers of the
+    Registrant who serve at the discretion of the Board of Directors and
+    are customarily elected for one-year terms at the Regular Meeting of
+    the Board of Directors held immediately following the Annual
+    Stockholders' Meeting.  All of the executive officers named hold
+    positions as officers and/or directors of one or more subsidiaries of
+    the Registrant.  For purposes of this disclosure, only the principal
+    positions are set forth.
+
+<TABLE>
+<CAPTION>
+                                                                          Year
+                                                                        Employed
+                                Positions Held With Registrant             by
+         Name                   During the Last Five Years        Age  Registrant
+    ------------------------    -------------------------------   --- -----------
+
+     <S>                        <C>                               <C>    <C>
+     Frederick A. Krehbiel(a)   Chairman (1993-); Chief            53    1965(b)
+                                Executive Officer (1988-);
+                                Vice Chairman (1988-1993).
+
+     John H. Krehbiel, Jr.(a)   President (1975-).                 57    1959(b)
+
+     J. Joseph King             Corporate Vice President-          50    1975
+                                International Operations
+                                (1988-).
+
+     Raymond C. Wieser          Corporate Vice President and       56    1965(b)
+                                President of the Commercial
+                                Division-U.S. Operations (1994-);
+                                Group Vice President-
+                                U.S. Operations (1989-1994).
+
+     John C. Psaltis            Corporate Vice President           54    1973
+                                (1982-), Treasurer (1979-) and
+                                Chief Financial Officer (1994-).
+
+     Ronald L. Schubel          Corporate Vice President (1982-)   51    1981
+                                and President of Far East South
+                                Operations (1994-); President of
+                                the Commerical Division-U.S.
+                                Operations (1982-1994)
+</TABLE>
+
+
+
+
+
+                                       10
+<PAGE>   11
+<TABLE>
+<CAPTION>
+                                                                        Year
+                                                                      Employed
+                               Positions Held With Registrant            by
+         Name                  During the Last Five Years (b)   Age  Registrant
+    -----------------------    ------------------------------   ---  ----------
+
+    <S>                        <C>                              <C>    <C>
+     Werner W. Fichtner        Corporate Vice President          51     1981
+                               (1987-) and President of
+                               European Operations (1981-).
+
+     Goro Tokuyama             Corporate Vice President          60     1985
+                               (1990-), President of Far
+                               East North Operations (1988-)
+                               and President of Molex-Japan
+                               Co., Ltd.(1985-).
+
+     Martin P. Slark           Corporate Vice President          39     1976
+                               (1990-) and President of
+                               United States Operations
+                               (1994-); President of Far
+                               East South Operations (1988-
+                               1994).
+
+     James E. Fleischhacker    Corporate Vice President          50     1984
+                               (1994-) and President of
+                               the DataComm Division-U.S.
+                               Operations (1989-).
+
+     Kathi M. Regas            Corporate Vice President          38     1985
+                               (1994-) and Director, Human
+                               Resources-U.S. Operations
+                               (1989-1994).
+
+     Louis A. Hecht            Corporate Secretary (1977-)       50     1974
+                               and General Counsel (1975-).
+
+    ---------------------------------------------------------------------------
+</TABLE>
+
+    (a) John H. Krehbiel, Jr. and Frederick A. Krehbiel (the "Krehbiel Family")
+        are brothers.  The members of the Krehbiel Family may be considered to
+        be "control persons" of the Registrant.  The other officers listed above
+        have no relationship, family or otherwise, to the Krehbiel Family,
+        Registrant or each other.
+
+    (b) Includes period employed by Registrant's predecessor.
+
+                                       11
+<PAGE>   12
+
+                                    PART II
+
+
+    Item 5 - MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED
+             STOCKHOLDER MATTERS
+
+
+    (a)  Molex is traded on the National Market System of the NASDAQ in the
+     &   United States and on the London Stock Exchange.  The information
+    (b)  set forth under the captions "Financial Highlights" and "Fiscal
+         1994, 1993, and 1992 by Quarter (Unaudited)" on the inside front
+         cover and page 45, respectively, of the 1994 Annual Report to
+         Shareholders is incorporated herein by reference.
+
+    (c)  The following table presents quarterly dividends per common share
+         for the last two fiscal years.
+
+<TABLE>
+<CAPTION>
+                                                            Class A
+                                    Common Stock         Common Stock
+
+                                   Fiscal  Fiscal       Fiscal   Fiscal
+                                    1994    1993         1994     1993
+                                   ------  ------       ------    ------
+               <S>                 <C>     <C>         <C>       <C>
+               Quarter Ended -
+                 September 30,     $.0075  $.0040       $.0075    $.0040
+                 December 31,       .0100   .0075        .0100     .0075
+                 March 31,          .0100   .0075        .0100     .0075
+                 June 30,           .0100   .0075        .0100     .0075
+                                   ------  ------       ------    ------
+                     Total         $.0375  $.0265       $.0375    $.0265
+                                   ======  ======       ======    ======
+</TABLE>
+
+         Cash dividends on Common Shares have been paid every year since
+         1977.
+
+         A description of the Company's Common Stock appears in footnote 2
+         on pages 39 and 40 of the 1994 Annual Report to Shareholders and
+         is incorporated herein by reference.
+
+
+    Item 6 - SELECTED FINANCIAL DATA     
+
+         The information set forth under the caption "Ten Year
+         Financial Highlight Summary" (only the five years ended June 30,
+         1994,) on page 29 of the 1994 Annual Report to Shareholders is
+         incorporated herein by reference.
+
+
+
+                                       12
+<PAGE>   13
+
+  Item 7 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+           AND RESULTS OF OPERATIONS
+
+         The information set forth under the caption "Management's
+         Discussion of Financial Condition and Results of Operations" on
+         pages 30 through 33 of the 1994 Annual Report to Shareholders is
+         incorporated herein by reference.
+
+
+  Item 8 - FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA     
+
+         The following consolidated financial statements of the Company set
+         forth on pages 34 through 44 of the 1994 Annual Report to
+         Shareholders and the independent auditors' report set forth on
+         page 28 of the 1994 Annual Report to Shareholders are incorporated
+         herein by reference:
+
+               Independent Auditors' Report
+
+               Consolidated Balance Sheets - June 30, 1994 and 1993
+
+               Consolidated Statements of Income for the years ended      
+               June 30, 1994, 1993 and 1992
+
+               Consolidated Statements of Shareholders' Equity for the
+               years ended June 30, 1994, 1993 and 1992
+
+               Consolidated Statements of Cash Flows for the years ended
+               June 30, 1994, 1993 and 1992
+
+               Notes to Consolidated Financial Statements
+
+
+         The supplementary data regarding quarterly results of operations,
+         set forth under the caption "Fiscal 1994, 1993, and 1992 by
+         Quarter (Unaudited)" on page 45 of the 1994 Annual Report to
+         Shareholders, is incorporated herein by reference.
+
+         The statements of changes in shares outstanding appears on Page 18
+         of this Form 10-K.
+
+
+  Item 9 - CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+           AND FINANCIAL DISCLOSURE
+
+         None.
+
+
+
+
+                                       13
+<PAGE>   14
+
+                                    PART III
+
+
+  Item 10 - DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         The information under the caption "Election of Directors" in the
+         Company's Proxy Statement for the annual meeting of Shareholders
+         to be held on October 21, 1994 (The "Company's 1994 Proxy
+         Statement") is incorporated herein by reference.  The information
+         called for by Item 401 of Regulation S-K relating to the Executive
+         Officers is furnished in a separate item captioned "Executive
+         Officers of the Registrant" in Part I of this report.
+
+
+  Item 11 - EXECUTIVE COMPENSATION
+
+         The information under the caption "Executive Compensation" in the
+         Company's 1994 Proxy Statement is incorporated herein by
+         reference.
+
+
+  Item 12 - SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+            MANAGEMENT
+
+         The information under the caption "Security Ownership of
+         Management and of Certain Beneficial Owners" in the Company's 1994
+         Proxy Statement is incorporated herein by reference.
+
+
+  Item 13 - CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         The information under the captions "Election of Directors",
+         "Indebtedness of Management" and "Security Ownership of Management
+         and of Certain Beneficial Owners" in the Company's 1994 Proxy
+         Statement is herein incorporated by reference.
+
+
+
+
+
+                                       14
+<PAGE>   15
+
+                                    PART IV
+
+  Item 14 - EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON
+            FORM 8-K
+
+    (a)  1. Financial Statements
+
+         The following consolidated financial statements contained in the
+         Company's 1994 Annual Report to Shareholders have been
+         incorporated by reference in Item 8.
+
+                                                             Page(s) in
+                                                            Annual Report
+                       Item                                to Shareholders 
+         -----------------------------------------------   ----------------
+         Independent Auditors' Report                             28
+
+         Consolidated Balance Sheets - June 30, 1994
+           and 1993                                             34-35
+
+         Consolidated Statements of Income - for
+           the years ended June 30, 1994, 1993 and 1992           36
+
+         Consolidated Statements of Shareholders' Equity
+           - for the years ended June 30, 1994, 1993 and 1992     37
+
+         Consolidated Statements of Cash Flows - for the
+           years ended June 30, 1994, 1993 and 1992               38
+
+         Notes to Consolidated Financial Statements             39-44
+
+         Fiscal 1994, 1993 and 1992 by Quarter (Unaudited)        45
+
+
+         The independent auditors' report of Ernst & Young is included on
+         page 17 of this Form 10-K.
+
+
+    (a)  2. Financial Statement Schedules
+
+                                                           Page in the
+                                                            Form 10-K  
+                                                           ------------
+         Schedule II   - Amounts Receivable from Related          19
+                           Parties and Underwriters,
+                           Promoters and Employees Other
+                           than Related Parties
+
+         Schedule V    - Property, Plant and Equipment            20
+
+         Schedule VI   - Accumulated Depreciation and             21
+                           Amortization of Property,
+                           Plant and Equipment
+
+         Schedule VIII - Valuation and Qualifying Accounts        22
+
+         Schedule X    - Supplementary Income Statement           23
+                           Information
+
+
+                                       15
+<PAGE>   16
+         All other schedules are omitted because they are inapplicable, not
+         required under the instructions, or the information is included in
+         the consolidated financial statements or notes thereto.
+
+         Separate financial statements for the Company's unconsolidated
+         affiliated companies, accounted for by the equity method, have
+         been omitted because they do not constitute significant
+         subsidiaries.
+
+    (a)  3. Exhibits
+
+         The exhibits listed on the accompanying Index to Exhibits are
+         filed or incorporated herein as part of this Report.
+
+
+    (b)  Reports on Form 8-K
+
+         Molex filed no reports on Form 8-K with the Securities and
+         Exchange Commission during the last quarter of the fiscal year
+         ended June 30, 1994.
+
+
+
+
+
+                                       16
+<PAGE>   17
+                        Report of Independent Auditors
+
+
+
+The Board of Directors
+Molex Incorporated
+
+We have audited the statements of income and cash flows of the Domestic
+Component of Molex Incorporated (the Company), as defined in Note 1, for the
+year ended June 30, 1992 (not presented separately herein). We have also
+audited Schedules II, V, VI, VIII and X of the Company for the year ended June
+30, 1992 (not presented separately herein). These financial statements and
+schedules are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements and
+schedules based on our audit.
+
+We conducted our audit in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audit provides a reasonable basis
+for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the results of the Company's operations and its cash
+flows for the year ended June 30, 1992 in conformity with generally accepted
+accounting principles. Also, in our opinion, the related financial statement
+schedules, when considered in relation to the basic financial statements taken
+as a whole, present fairly in all material respects the information set forth
+therein.
+
+The Company is a part of Molex Incorporated and has no separate legal status or
+existence; the nature and extent of the Company's activities are determined and
+directed by Molex Incorporated. The method of determining the portions of the
+assets, liabilities, income and expenses of Molex Incorporated included in the
+financial statements of the Company is described in Note 1.
+
+/s/ ERNST & YOUNG
+
+July 31, 1992
+
+
+
+
+                                       17
+<PAGE>   18
+                               MOLEX INCORPORATED
+                  STATEMENTS OF CHANGES IN SHARES OUTSTANDING
+                FOR THE YEAR ENDED JUNE 30, 1994, 1993 AND 1992
+
+
+
+
+<TABLE>
+<CAPTION>
+                                                   Class A       Class B
+                                    Common         Common        Common       Treasury
+                                     Stock          Stock         Stock        Stock  
+                                   -------         -------       -------      --------
+<S>                               <C>            <C>              <C>        <C>
+Shares outstanding at
+    July 1, 1991                  25,754,051     25,847,933       94,255     1,746,609
+
+Exercise of stock options            186,741        146,646
+
+Purchase of treasury stock                                                      25,740
+
+Disposition of treasury stock                                                  (23,283)
+
+Issuance of stock bonus                6,620          6,620                           
+                                  ----------     ----------       ------     ---------
+Shares outstanding at
+    June 30, 1992                 25,947,412     26,001,199       94,255     1,749,066
+
+Exercise of stock options            172,136         93,187
+
+Purchase of treasury stock                                                      22,695
+
+Disposition of treasury stock                                                  (36,392)
+
+Stock split effected in
+  the form of a dividend           6,517,738      6,505,199                    436,839
+                                  ----------     ----------       ------     ---------
+Shares outstanding at
+    June 30, 1993                 32,637,286     32,599,585       94,255     2,172,208
+
+Exercise of stock options            281,551        155,704
+
+Purchase of treasury stock                                                      30,849
+
+Disposition of treasury stock                                                  (32,770)
+                                  ----------     ----------       ------     --------- 
+Shares outstanding at
+    June 30, 1994                 32,918,837     32,755,289       94,255     2,170,287
+                                  ==========     ==========       ======     =========
+
+</TABLE>
+
+
+
+                                             18
+<PAGE>   19
+                               MOLEX INCORPORATED
+           SCHEDULE II - AMOUNTS RECEIVABLE FROM RELATED PARTIES AND
+       UNDERWRITERS, PROMOTERS, AND EMPLOYEES OTHER THAN RELATED PARTIES
+                FOR THE YEAR ENDED JUNE 30, 1994, 1993 AND 1992
+                                     ($000)
+
+
+<TABLE>
+<CAPTION>
+                                      Balance at                                           Balance
+                                      Beginning                  Amounts      Amounts      at End
+Name of Debtor      Year              of Period    Additions    Collected    Written Off  of Period
+- - --------------      ----              ---------    ---------    ---------    -----------  ---------
+
+
+<S>            <C>                      <C>         <C>           <C>            <C>        <C>
+F. A. Krehbiel  1)  1994                  $507       $1,256       $1,330            -         $433
+
+
+                    1993                  $377       $1,953       $1,823            -         $507
+
+
+                    1992                  $234       $1,950       $1,807            -         $377
+
+
+M. Didier       2)  1994                  $518         $125         $100          $38         $505
+
+
+                    1993                  $471          $47            -            -         $518
+
+
+                    1992                  $501         $170            -         $200         $471
+
+
+W. Fichtner     3)  1994                $1,425          $78         $136            -       $1,367
+
+
+                    1993                $1,514            -            -          $89       $1,425
+
+
+                    1992                    $0       $1,514            -            -       $1,514
+
+
+G. Tokuyama     4)  1994                  $149          $94         $149            -          $94
+
+
+                    1993                   $22         $127            -            -         $149
+
+
+                    1992                   $67          $43          $88            -          $22
+</TABLE>
+
+  1) Amounts represent compensation advances with interest payable at the
+     floating six month federal interest rate (6.0% at June 30, 1994).
+
+  2) Amounts represent personal advances with interest payable at the 
+     prevailing rate offered by Banque Nationale de Paris in Paris France if
+     the advances are not paid by maturity.
+
+  3) Amounts represent personal advances with interest payable between 5% and
+     8% per annum.  All amounts are due on or before June 30, 1995.
+
+  4) Amounts represent interest free demand loans in order to exercise various
+     stock options.
+
+Note: The Company also has certain loans to employees made in connection with
+      relocations. These loans are excluded from this schedule as they are 
+      considered to arise in the normal course of business.
+
+
+
+
+                                                19
+<PAGE>   20
+                               MOLEX INCORPORATED
+                   SCHEDULE V - PROPERTY, PLANT AND EQUIPMENT
+                FOR THE YEAR ENDED JUNE 30, 1994, 1993 AND 1992
+                                     ($000)
+
+
+<TABLE>
+<CAPTION>
+                                  Balance at                                                 Balance
+                                   Beginning      Additions     Retirements  Translation     at End
+                                   of Period       at Cost      and Sales    Adjustments    of Period
+                                  ----------      ---------     -----------  -----------    ---------
+           1994
+<S>                                 <C>            <C>           <C>            <C>         <C>
+
+Land and improvements               $ 37,249       $  5,283      $(    118)     $ 2,111     $   44,525
+Buildings and leasehold
+  improvements                       175,851         14,786       (    919)       9,805        199,523
+Machinery and equipment              441,791         70,856       ( 17,588)      15,084        510,143
+Molds and dies                       199,286         38,533       (  6,181)      14,565        246,203
+                                    --------       --------       ---------     -------     ----------
+           TOTAL                    $854,177       $129,458       $(24,806)     $41,565     $1,000,394
+                                    ========       ========       =========     =======     ==========
+           1993
+
+Land and improvements               $ 33,982       $  1,200       $(    85)     $ 2,152       $ 37,249
+Buildings and leasehold
+  improvements                       158,339         13,564       (    757)       4,705        175,851
+Machinery and equipment              389,352         59,415       ( 16,856)       9,880        441,791
+Molds and dies                       177,035         19,002       (  4,788)       8,037        199,286
+                                    --------       --------       ---------     -------     ----------
+           TOTAL                    $758,708       $ 93,181       $(22,486)     $24,774       $854,177
+                                    ========       ========       =========     =======     ==========
+
+           1992
+
+Land and improvements               $ 30,167       $  1,487       $      0      $ 2,328       $ 33,982
+Buildings and leasehold
+  improvements                       117,957         30,617        (   326)      10,091        158,339
+Machinery and equipment              309,003         73,501        (15,767)      22,615        389,352
+Molds and dies                       144,401         27,067        ( 4,909)      10,476        177,035
+                                    --------       --------       ---------     -------     ----------
+           TOTAL                    $601,528       $132,672       $(21,002)     $45,510       $758,708
+                                    ========       ========       =========     =======     ==========
+
+</TABLE>
+
+
+
+
+                                               20
+<PAGE>   21
+                               MOLEX INCORPORATED
+ SCHEDULE VI - ACCUMULATED DEPRECIATION AND AMORTIZATION OF PROPERTY, PLANT AND
+                                   EQUIPMENT
+                FOR THE YEAR ENDED JUNE 30, 1994, 1993 AND 1992
+                                     ($000)
+
+
+<TABLE>
+<CAPTION>
+                                  Balance at      Provision                                  Balance
+                                   Beginning     Charged to     Retirements  Translation     at End
+                                   of Period       Income       and Sales    Adjustments    of Period
+                                  ----------     ----------     -----------  -----------    ---------
+           1994
+<S>                                <C>            <C>            <C>           <C>           <C>
+Buildings and leasehold
+  improvements                     $  50,684      $  7,809       $(   520)     $ 2,935       $ 60,908
+Machinery and equipment              264,761        51,668        (15,879)      13,583        314,133
+Molds and dies                       152,904        27,618        ( 4,745)       8,581        184,358
+                                   ---------      --------       ---------     -------       --------
+           TOTAL                   $ 468,349      $ 87,095       $(21,144)     $25,099       $559,399
+                                   =========      ========       ========      =======       ========
+           1993
+
+Buildings and leasehold
+  improvements                     $  41,478      $  7,380       $(   221)     $ 2,047       $ 50,684
+Machinery and equipment              228,098        44,132        (13,445)       5,976        264,761
+Molds and dies                       126,413        23,456        ( 3,742)       6,777        152,904
+                                   ---------      --------       ---------     -------       --------
+           TOTAL                   $ 395,989      $ 74,968       $(17,408)     $14,800       $468,349
+                                   =========      ========       ========      =======       ========
+
+           1992
+
+Buildings and leasehold
+  improvements                     $  33,034      $  5,963       $(   286)     $ 2,767       $ 41,478
+Machinery and equipment              184,694        40,062        (10,574)      13,916        228,098
+Molds and dies                       103,039        20,296        ( 4,354)       7,432        126,413
+                                   ---------      --------       ---------     -------       --------
+           TOTAL                   $ 320,767      $ 66,321       $(15,214)     $24,115       $395,989
+                                   =========      ========       ========      =======       ========
+
+</TABLE>
+
+
+
+
+                                              21
+<PAGE>   22
+
+                               MOLEX INCORPORATED
+               SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+                FOR THE YEAR ENDED JUNE 30, 1994, 1993 AND 1992
+                                     ($000)
+
+
+<TABLE>
+<CAPTION>
+Allowances for losses    Balance at                                               Balance
+and adjustments on       Beginning      Charged to     Accounts     Translation   at End
+receivables:             of Period      Income         Written Off  Adjustments   of Period
+- - ------------------       ---------      ----------     -----------  -----------   ---------
+          <S>              <C>            <C>          <C>           <C>            <C>
+          1994             $8,789         $2,354       $( 2,344)     $    117       $8,916
+                           ======         ======       =========     ========       ======
+
+          1993             $8,634         $1,683       $( 1,182)     $(   346)      $8,789
+                           ======         ======       =========     ========       ======
+
+
+          1992             $6,882         $1,488       $(   336)     $    600       $8,634
+                           ======         ======       =========     ========       ======
+
+</TABLE>
+
+                                          22
+<PAGE>   23
+                               MOLEX INCORPORATED
+            SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+                FOR THE YEAR ENDED JUNE 30, 1994, 1993 AND 1992
+                                     ($000)
+
+
+
+
+
+<TABLE>
+<CAPTION>
+                                     1994           1993          1992
+                                     ----           ----          ----
+
+<S>                                 <C>            <C>           <C>
+Maintenance and Repairs             $19,232        $18,483       $18,091
+                                    =======        =======       =======
+
+</TABLE>
+
+
+
+                                      23
+<PAGE>   24
+                          INDEPENDENT AUDITORS' REPORT
+
+
+         To the Board of Directors and
+         Shareholders of Molex Incorporated
+         Lisle, Illinois
+
+         We have audited the consolidated financial statements of
+         Molex Incorporated and its subsidiaries as of June 30, 1994
+         and 1993, and for each of the three years in the period ended
+         June 30, 1994, and have issued our report thereon dated
+         August 9, 1994; such financial statements and report are
+         included in your 1994 Annual Report to Shareholders and are
+         incorporated herein by reference.  Our audits also included
+         the statements of changes in shares outstanding and the
+         financial statement schedules of Molex Incorporated and its
+         subsidiaries, listed in Item 14(a)2.  These statements and
+         financial statement schedules are the responsibility of the
+         Company's management.  Our responsibility is to express an
+         opinion based on our audits.  In our opinion, which is based
+         upon our audits and the report of other auditors in 1992
+         included herein, such statements of changes in shares
+         outstanding and financial statement schedules, when
+         considered in relation to the basic financial statements
+         taken as a whole, present fairly, in all material respects,
+         the information set forth therein.
+
+
+
+         /s/ DELOITTE & TOUCHE LLP
+         Chicago, Illinois
+         August 9, 1994
+
+
+
+
+
+                                     24
+<PAGE>   25
+                              S I G N A T U R E S
+
+    Pursuant to the requirements of Section 13 or 15(d) of the Securities
+    Exchange Act of 1934, the Company has duly caused this Annual Report
+    to be signed on its behalf by the undersigned, there unto duly
+    authorized.
+
+                                   MOLEX INCORPORATED 
+                                   (Company)
+
+                                   /s/ JOHN C. PSALTIS
+    September 23, 1994         By: --------------------------------------
+                                   John C. Psaltis
+                                   Corporate Vice President, Treasurer
+                                   and Chief Financial Officer
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934,
+    this report has been signed below by the following persons on behalf
+    of the registrant and in the capacities and on the dates indicated.
+
+
+                                   /s/ F. A. KREHBIEL
+    September 23, 1994             --------------------------------------
+                                   F. A. Krehbiel
+                                   Chairman of the Board and Chief
+                                   Executive Officer
+
+                                   /s/ J. H. KREHBIEL, JR.
+    September 23, 1994             --------------------------------------
+                                   J. H. Krehbiel, Jr.
+                                   President and Director
+
+                                   /s/ JOHN C. PSALTIS
+    September 23, 1994             --------------------------------------
+                                   John C. Psaltis
+                                   Corporate Vice President, Treasurer
+                                   and Chief Financial Officer
+
+                                   /s/ F. L. KREHBIEL
+    September 23, 1994             --------------------------------------
+                                   F. L. Krehbiel 
+                                   Director
+
+                                   /s/ DR. ROBERT J. POTTER
+    September 23, 1994             --------------------------------------
+                                   Dr. Robert J. Potter
+                                   Director
+
+                                   /s/ E. D. JANNOTTA
+    September 23, 1994             --------------------------------------
+                                   E. D. Jannotta
+                                   Director
+
+
+
+
+
+                                       25
+<PAGE>   26
+                               MOLEX INCORPORATED
+                                 EXHIBIT INDEX
+
+
+<TABLE>
+<CAPTION>
+     Exhibit                                                       Page
+     Number            Exhibit                                  Reference(a)
+    -----------        ------------------------------------     ---------   
+      <S>              <C>                                     <C>
+       3               3.1  Certificate of Incorporation
+                       (incorporated by reference to 1990
+                       Form 10-K, Exhibit 3.1)
+
+       4               3.2  By-Laws (as amended)
+
+                       Instruments defining rights of
+                       security holders including
+                       indentures.                               See Exhibit 3.1
+
+      10               Material Contracts
+
+                       10.1  The 1985 Molex Incorporated
+                             Executive Stock Bonus Plan
+                             (incorporated by reference to
+                             Appendix A of the registrant's
+                             Proxy Statement for 1985)
+
+                       10.2  The 1981 Molex Incorporated
+                             Incentive Stock Option Plan
+                             (incorporated by reference to
+                             Appendix A of the registrant's
+                             Proxy Statement for 1982)
+
+                       10.3  The Molex Deferred Compensation
+                             Plan (incorporated by reference
+                             to 1984 Form 10-K, Exhibit 10.6)
+
+                       10.4  The 1990 Molex Incorporated
+                             Executive Stock Bonus Plan
+                             (incorporated by reference to
+                             1991 Form 10-K, Exhibit 10.4)
+
+                       10.5  The 1990 Molex Incorporated
+                             Stock Option Plan (incorporated
+                             by reference to 1991 Form 10-K,
+                             Exhibit 10.5)
+
+                       10.6  The 1991 Molex Incorporated
+                             Incentive Stock Option Plan
+                             (incorporated by reference to
+                             Appendix A of the registrant's
+                             Proxy Statement for 1991).
+
+</TABLE>
+
+
+
+                                       26
+<PAGE>   27
+<TABLE>
+<CAPTION>
+     Exhibit                                                       Page
+     Number            Exhibit                                  Reference(a)
+    -----------        ------------------------------------     ---------   
+       <S>             <C>                                          <C>
+       13              Molex Incorporated Annual Report to          __
+                       Shareholders for the year ended
+                       June 30, 1994.  (Such Report, except
+                       to the extent incorporated herein by
+                       reference, is being furnished for the
+                       information of the Securities and
+                       Exchange Commission only and is not
+                       to be deemed filed as a part of this
+                       annual report on Form 10-K)
+
+       22              Subsidiaries of registrant                   __
+
+
+       24              Independent Auditors' Consents               __
+
+
+       27              Financial Data Schedule                      __
+</TABLE>
+
+
+    (All other exhibits are either inapplicable or not required)
+
+       (a) - Included only in the electronically filed copy of the
+             report filed with the Securities Exchange Commission.
+
+
+
+
+
+                                      27
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>2
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>   1
+                                                                     EXHIBIT 13
+FINANCIAL HIGHLIGHTS
+(in thousands, except per share data)
+<TABLE>                                                                   
+<CAPTION>                                                                 
+                                                                                               1994           1993      Change
+                                                                                        -----------    -----------      ------
+<S>                                                                                     <C>            <C>               <C>
+OPERATIONS                                                                                                                
+Net revenue                                                                             $   964,108    $   859,283         12%
+Income before income taxes, minority interest and                                                                         
+  cumulative effect of change in accounting principle                                       159,477        133,478         19%
+Income before cumulative effect of change in                                                                              
+  accounting principle                                                                       94,852         74,660         27%
+Net income                                                                                   94,852         71,055         33%
+Income before cumulative effect of change in accounting                                                                   
+  principle as a percent of net revenue                                                        9.8%           8.7%          --
+Net income as a percent of net revenue                                                         9.8%           8.3%          --
+Return on beginning shareholders' equity before cumulative effect                                                         
+  of change in accounting principle                                                           12.6%          11.3%          --
+Return on beginning shareholders' equity                                                      12.6%          10.8%          --
+                                                                                                                          
+                                                                                                                          
+PER SHARE                                                                                                                 
+Earnings per common share before cumulative effect                                                                        
+  of change in accounting principle                                                            1.50           1.19         26%
+Net income                                                                                     1.50           1.13         33%
+Dividends per common share                                                                      .04            .03         33%
+Book value                                                                                    13.86          11.90         16%
+Outstanding shares of stock                                                              63,598,094     63,158,918          --
+Number of shareholders: Common Stock                                                          5,550          5,115          --
+                        Class A Common Stock                                                  3,502          3,648          --
+                                                                                                                          
+                                                                                                                          
+FINANCIAL POSITION                                                                                                        
+Total assets                                                                            $ 1,138,517    $   961,775         18%
+Working capital                                                                             381,218        332,192         15%
+Long-term debt                                                                                7,350          7,510         -2%
+Backlog                                                                                     175,836        156,512         12%
+Shareholders' equity                                                                        881,614        751,654         17%
+Long-term debt/Shareholders' equity                                                            0.8%           1.0%          --
+Number of employees                                                                           8,167          7,671          6%
+Current ratio                                                                                 2.9/1          3.0/1          --
+                                                                                                                          
+</TABLE>                                                             
+
+
+<TABLE>
+<S>             <C>                                                       <C>                                 
+USE OF NET   
+REVENUES         24.1%      Materials                                      Wages, Salaries, Benefits          26.5%
+                 20.8%      Other: Energy, Rent,                           Depreciation and Amortization       9.2%
+                            Insurance, Interest, etc.                      Net Income                          9.8%
+                  9.4%      Taxes: Business, Income and Payroll            
+                  0.2%      Dividends                                      Reinvested in Business             19.0%
+             
+             
+WORLDWIDE    
+MARKET*          Pacific Rim $2.553 Billion 10.8% Market                   North America $9.638 Billion 40.7% Market
+                 Japan $5.745 Billion 24.3% Market                         All Other $.825 Billion 3.4% Market
+                 Europe $4.927 Billion 20.8% Market                        
+
+                 $20.592 Billion (June, 1994)                              Eliminations $3.096 Billion
+                 (Electronic connectors, backplanes, cable assemblies)
+             
+MOLEX        
+MARKETS            12%      Automotive                                     Other                                 8%
+                   39%      Computer/Business Equipment                    Home Entertainment/
+                    8%      Telecommunications                                   Home Appliance                33%
+             
+             
+</TABLE>
+
+
+*Source: Fleck International
+<PAGE>   2
+
+MANAGEMENT'S STATEMENT OF RESPONSIBILITY
+
+The management of the Company is responsible for the information contained in
+the consolidated financial statements and in the other parts of this report.
+The accompanying consolidated financial statements of Molex Incorporated and
+its subsidiaries have been prepared in accordance with generally accepted
+accounting principles. In preparing these statements, management has made
+judgments based upon available information.  To ensure that this information
+will be as complete, accurate and factual as possible, management has com-
+municated to all appropriate employees requirements for accurate record keeping
+and accounting.  
+
+     The Company maintains an internal accounting control structure
+designed to provide reasonable assurance for the safeguarding of assets against
+loss from unauthorized use or disposition and reliability of financial records.
+Management believes that through the careful selection of employees, the
+division of responsibilities and the application of formal policies and
+procedures, the Company has an effective and responsive internal accounting
+control structure that is intended, consistent with reasonable cost, to provide
+reasonable assurance that transactions are executed as authorized.  
+
+        The Company's independent auditors, Deloitte & Touche LLP, are
+responsible for conducting an audit of the Company's consolidated financial
+statements in accordance with generally accepted auditing standards and for
+expressing their opinion as to whether these consolidated financial
+statements present fairly, in all material respects, the financial position,
+results of operations and cash flows of Molex Incorporated and its subsidiaries
+in conformity with generally accepted accounting principles.
+
+
+INDEPENDENT AUDITORS' REPORT
+
+TO THE SHAREHOLDERS AND BOARD OF DIRECTORS,
+MOLEX INCORPORATED, LISLE, ILLINOIS
+
+We have audited the accompanying consolidated balance sheets of Molex
+Incorporated (a Delaware Corporation) and its subsidiaries as of June 30, 1994
+and 1993, and the related consolidated statements of income, shareholders'
+equity, and cash flows for each of the three years in the period ended June 30,
+1994. These financial statements are the responsibility of the Company's
+management.  Our responsibility is to express an opinion on these financial
+statements based on our audits. We did not audit the financial statements of
+certain components of Molex Incorporated, which statements reflect total net
+revenue constituting 31% of consolidated total net revenue for the year ended
+June 30, 1992.  Such financial statements were audited by other auditors whose
+reports have been furnished to us, and our opinion, insofar as it relates to
+the amounts included for those components, is based solely on the reports of
+such other auditors.  
+
+        We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits and the reports of other
+auditors in 1992 provide a reasonable basis for our opinion. 
+
+        In our opinion, based on our audits and the reports of other auditors
+in 1992, such consolidated financial statements present fairly, in all material
+respects, the financial position of Molex Incorporated and its subsidiaries as
+of June 30, 1994 and 1993, and the results of their operations and their cash
+flows for each of the three years in the period ended June 30, 1994 in
+conformity with generally accepted accounting principles.
+
+        As discussed in Notes 1 and 6 to the consolidated financial statements,
+the Company changed its method of accounting for certain postretirement
+benefits to conform with the provisions of Statement of Financial Accounting
+Standards No. 106, "Employers' Accounting for Postretirement Benefits Other
+Than Pensions," in 1993.
+
+/s/ DELOITTE & TOUCHE LLP 
+Chicago, Illinois 
+August 9, 1994
+<PAGE>   3
+TEN YEAR FINANCIAL HIGHLIGHT SUMMARY
+(in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+                                                     ----------------------------------------------------------------------
+                                                          1994         1993         1992         1991         1990   
+                                                     ----------------------------------------------------------------------
+                                                                       
+<S>                                                      <C>          <C>          <C>          <C>          <C>      
+OPERATIONS                                                             
+Net revenue                                              $964,108      $859,283     $776,192    $707,950      $594,372 
+Gross profit                                              406,079       352,603      318,361     297,954       256,581 
+Income before income taxes,                                            
+ minority interest and                                                  
+ cumulative effect of change                                            
+ in accounting principle                                  159,477       133,478      117,412     117,936       110,041 
+Income taxes                                               63,186        58,371       49,814      53,402        47,495 
+Income before cumulative                                               
+ effect of change in                                                    
+ accounting principle                                      94,852        74,660       67,464      64,631        62,087 
+Net income                                                 94,852        71,055       67,464      64,631        62,087 
+Earnings per common share                                              
+ before cumulative effect                                               
+ of change in accounting                                                
+ principle(1)                                                1.50          1.19         1.08        1.04           .99 
+Earnings per common share(1)                                 1.50          1.13         1.08        1.04           .99 
+Income before cumulative                                               
+ effect of change in                                                    
+ accounting principle as a                                              
+ percent of net revenue                                      9.8%          8.7%         8.7%        9.1%         10.4% 
+Net income as a percent of                                             
+ net revenue                                                 9.8%          8.3%         8.7%        9.1%         10.4% 
+                                                     ----------------------------------------------------------------------
+FINANCIAL POSITION                                                     
+Current assets                                           $586,612      $497,560     $434,277    $402,208      $355,107 
+Current liabilities                                       205,394       165,368      168,209     155,593       109,949 
+Working capital                                           381,218       332,192      266,068     246,615       245,158 
+Current ratio                                                 2.9           3.0          2.6         2.6           3.2 
+Property, plant &                                                      
+ equipment, net                                           440,995       385,828      362,719     280,761       228,968 
+Total assets                                            1,138,517       961,775      849,689     726,740       606,899 
+Long-term debt                                              7,350         7,510        7,949       9,136         8,046 
+Shareholders' equity                                      881,614       751,654      660,389     550,742       481,281 
+Return on beginning                                                    
+ shareholders' equity                                                   
+ before cumulative effect                                               
+ of change in accounting                                                
+ principle                                                  12.6%         11.3%        12.2%       13.4%         14.5% 
+Return on beginning                                                    
+ shareholders' equity                                       12.6%         10.8%        12.2%       13.4%         14.5% 
+Dividends per common share(1)                                0.04          0.03         0.02        0.02          0.02 
+Weighted average common                                                
+ shares outstanding(1)                                     63,345        63,001       62,651      62,308        62,525 
+                                                     ----------------------------------------------------------------------
+</TABLE>                         
+
+(1)    Restated for the following stock split/dividends: 25%-November, 1992.
+
+<PAGE>   4
+                           MANAGEMENT'S DISCUSSION
+                            OF FINANCIAL CONDITION
+                          AND RESULTS OF OPERATIONS
+                                      
+
+Financial Highlights
+
+Molex achieved another year of record revenues, net income and backlog in
+fiscal 1994, despite facing difficult economic conditions in several of our
+largest geographic regions. One of Molex's financial goals is to increase net
+revenues at approximately twice the growth rate of the connector industry.
+Molex net revenues increased 12.2 percent to $964.1 million during fiscal 1994.
+This growth compares favorably to the 2.0 percent increase reported for the
+worldwide connector industry. We believe Molex was able to surpass this goal
+because both our product line and geographic breakdown place the Company in the
+faster growing product segments and geographic regions of the connector
+industry.
+
+GRAPH
+
+The Growth of Molex vs the Worldwide Connector Industry
+
+<TABLE>
+<CAPTION>
+
+                84    85    86    87    88    89    90    91    92    93    94
+               ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---
+<S>            <C>   <C>   <C>   <C>   <C>   <C>   <C>   <C>   <C>   <C>   <C>
+Molex          100   100   116   153   199   227   236   281   308   341   382  
+Worldwide
+  Connector
+  Industry *   100    93   103   120   134   135   140   141   148   148   154
+
+* Source: Fleck International
+</TABLE>
+
+       Income before the cumulative effect of change in accounting principle 
+increased 27.0 percent to a record $94.9 million, or 9.8 percent of net 
+revenues.  This substantial improvement over last year's 8.7 percent has the 
+Company well-positioned to return to our traditional goal of 10 percent. We have
+started to see the effects of our efforts to streamline the operations and
+reduce costs. Profitability has improved in the acquisitions we made in Germany
+and France three years ago, but these positive impacts were partially offset by
+the continued recessions in Japan and parts of Europe and by price erosion in
+some key product lines.
+
+Investor Returns
+
+GRAPH
+
+Stock Performance Chart
+
+<TABLE>
+<CAPTION>
+                         89      90      91      92      93      94
+                        ---     ---     ---     ---     ---     ---
+<S>                     <C>     <C>     <C>     <C>     <C>     <C>
+Molex                   100     139     172     194     237     301
+
+S&P MidCap 400          100     115     130     154     189     189
+
+</TABLE>
+
+Molex is also committed to providing its shareholders with a good return on
+their investment. Our total return to shareholders over the last five years has
+averaged an annual compounded return of 24.7 percent, compared to the 12.0
+percent return of the S&P MidCap 400 over the same period of time. A $100
+investment in Molex Common Stock at June 30, 1989, together with the
+reinvestment of dividends, would be worth $301 at June 30, 1994.
+
+International Operations
+
+GRAPH
+
+Worldwide Net Revenues
+(in millions of dollars)
+
+<TABLE>
+<CAPTION>
+
+Fiscal 1984                             Fiscal 1994
+        <S>                                     <C>
+        U.S. $116.7 - 46.3%                     U.S. $288.7 - 30.0%
+
+        International $135.5 - 53.7%            International $675.4 - 70.0%
+
+</TABLE>
+
+       In fiscal 1968, Molex entered the international connector market with
+annual net revenues of $54 thousand. Today, 26 years later, international
+customer sales have grown to $675.4 million and represent approximately 70
+percent of Molex's worldwide net revenues.  International net revenues as a
+percent of total net revenues decreased one percent from fiscal 1993 due to the
+impact of the recession in Japan and strong growth in the U.S. Region.
+
+       International operations are subject to currency exchange rate
+fluctuations and government actions. Molex monitors its foreign currency
+exposure in each country and implements strategies to respond to changing
+economic and political environments. Examples of these strategies include the
+prompt payment of intercompany balances utilizing a global netting system and
+the establishment of contra-currency accounts in several international
+subsidiaries. Due to the uncertainty of the foreign exchange markets, Molex
+cannot reasonably predict future trends related to foreign currency
+fluctuations. Foreign currency fluctuations have impacted results in the past
+and may impact results in the future.
+
+Financial Position & Liquidity
+
+One of Molex's many financial strengths is its exceptionally strong balance 
+sheet. This strength is a direct result of the Company's ability to generate 
+sufficient cash from operations for capital expenditures, debt payments and 
+dividends. Cash and short-term investments increased $42.9 million during 
+fiscal 1994. Cash and short-term investments at June 30, 1994 exceeded total 
+current liabilities by $23.5 million and represent 20 percent of total 
+consolidated assets. Cash provided from operations was $191.1 million during
+fiscal 1994, increasing $54.8 million or 40.2 percent from the $136.3 million
+provided from operations during fiscal 1993. Cash used for investments
+increased $45.9 million over the fiscal 1993 level due primarily to the higher
+level of spending for fixed assets during fiscal 1994.
+<PAGE>   5
+       During fiscal 1994, Molex continued its commitment to investing in new
+tooling, equipment and facilities. Capital expenditures equaled $129.5 million
+for fiscal 1994, increasing 38.9 percent from the $93.2 million expended during
+the previous fiscal year. Approximately 80 percent of the fixed asset purchases
+during fiscal 1994 were for tooling and equipment directly related to improving
+efficiencies and increasing revenues. Molex also spent $10 million to build new
+facilities in Bangalore, India and Lincoln, Nebraska, increasing the worldwide
+facility floor space to 3.1 million square feet.
+
+       For the fiscal year ending June 30, 1995, we expect capital expenditures
+to increase to between $165 and $175 million. This increase in capital
+expenditures is a result of stronger sales and the required investment in
+plants, equipment and technology to meet our customers' needs. One example is
+the investment in tooling and equipment we are making to support the U.S.
+automotive business from which we expect to generate increased revenues
+beginning in our fiscal year ending June 30, 1996.
+
+       During fiscal 1994, $3.1 million was expended to purchase the remaining
+shares outstanding of Molex Nanco Ltd. and to purchase an additional 20 percent
+interest in Dongguan Molex South-China Connector Co. Ltd. These expenditures
+were slightly higher than fiscal 1993 when $2.4 million was expended to
+purchase a controlling interest in Molex India Ltd. and to purchase minority
+interests in three international connector companies.
+
+       The net trade accounts receivable balance increased $32.6 million during
+fiscal year 1994 from $184.2 million at June 30, 1993 to $216.9 million at June
+30, 1994. The translation effects of foreign currency accounted for $7.1
+million of this increase. The non-currency related increase in net trade
+accounts receivable is consistent with the increase in annual net revenues and
+follows the unusually high sales volume the Company experienced during the
+month of June 1994. Factoring out the impact of currency translation, the
+average trade accounts receivable days outstanding of 79 days has increased one
+day from the prior fiscal year.
+
+       Inventory increased during fiscal year 1994 from $104.5 million at June
+30, 1993 to $113.3 million at June 30, 1994. Factoring out the change in
+exchange rates due to the generally weaker U.S. dollar, inventory at June 30,
+1994 increased $4.6 million over the prior year's balance. Average inventory
+days have not changed from the 79 days reported last fiscal year.
+
+       Molex's long-term corporate philosophy is to utilize internal sources of
+capital to fund investments in plant, equipment and acquisitions, using
+external borrowing only when a clear financial advantage exists.  Long-term
+debt continued to decrease during the fiscal year to $7.4 million at June 30,
+1994.
+
+       Management is confident that the Company's liquidity and financial
+flexibility are adequate to support its current and future growth.  The Company
+also has available lines of credit totaling $34.2 million of which $32.1
+million remained unused at June 30, 1994.
+
+       Molex is committed to increasing the returns earned by shareholders of
+the Company. On November 11, 1993, Molex declared a 33 percent increase in its
+annual cash dividend to $.04 per share from the former $.03 per share. The
+Company has also issued four stock dividends to its shareholders in the last 11
+years. The last Molex stock dividend was declared in October 1992. The weighted
+average shares outstanding for the current fiscal year increased to 63.3
+million from the 63.0 million for fiscal year 1993. The increase in shares
+outstanding is attributable to the exercise of employee stock options and the
+issuance of employee stock awards. The Company did not repurchase any treasury
+stock on the open market during fiscal years 1994 and 1993.
+
+       Molex ended the fiscal year with a new record backlog level of $175.8
+million, a 12.3 percent increase over the prior year's amount of $156.5
+million.
+
+       The Company is subject to environmental laws and regulations in the
+countries where it operates. Molex has designed an environmental program to
+reduce the generation of potentially hazardous materials during its
+manufacturing process and believes it continues to make good progress in
+exceeding local governmental regulations. The Company is a defendant to several
+pending legal proceedings incidental to the normal conduct of business.
+Management believes that the ultimate disposition of these matters will not
+have a materially adverse impact on the financial condition or consolidated
+results of operations of the Company.
+
+PERCENTAGE OF NET REVENUE
+Fiscal Year Ended June 30
+
+<TABLE>
+<CAPTION>
+                                                                            Percentage Change
+                                          1994      1993       1992         1994-93    1993-92
+                                         ------    ------     ------        -------    -------
+<S>                                      <C>       <C>        <C>          <C>         <C>
+
+Net revenue                               100.0%    100.0%     100.0%        12.2%       10.7%
+Cost of sales                              57.9      59.0       59.0         10.1%       10.7%
+                                          -----     -----      -----        -----       -----
+Gross profit                               42.1      41.0       41.0         15.2%       10.8%
+Operating expenses                         25.8      25.6       26.6         13.2%        6.6%
+                                          -----     -----      -----        -----       -----
+Income from operations                     16.3      15.4       14.4         18.4%       18.4%
+Total other income                          0.2       0.1        0.7        259.6%      -88.9%
+                                          -----     -----      -----        -----       -----
+Income before income taxes,
+  minority interest and
+  cumulative effect of change
+  in accounting principle                  16.5      15.5       15.1         19.5%       13.7%
+Income taxes                                6.6       6.8        6.4          8.2%       17.2%
+Minority interest                          -0.1       0.0        0.0       -221.9%     -233.6%
+                                          -----     -----      -----        -----       -----
+Income before cumulative effect of
+  change in accounting principle            9.8       8.7        8.7         27.0%       10.7%
+Cumulative effect of change in
+  method of accounting for
+  postretirement benefits other
+  than pensions, net of tax                   -       0.4          -            -           -
+                                          -----     -----      -----        -----       -----
+Net income                                  9.8%      8.3%       8.7%        33.5%        5.3%
+                                          =====     =====      =====        =====       =====
+</TABLE>
+
+Fiscal 1994 Compared to Fiscal 1993
+
+During fiscal year 1994, Molex net revenues increased 12.2 percent to an
+all-time high of $964.1 million, compared to $859.3 million during fiscal year
+1993. Excluding the change in exchange rates due to the generally weaker U.S.
+dollar, net revenue increased 10.9 percent.
+
+
+<PAGE>   6
+                MANAGEMENT'S DISCUSSION OF FINANCIAL CONDITION
+                    AND RESULTS OF OPERATIONS (CONTINUED)
+
+        The Far East North Region's customer net revenues increased 7.2 percent
+in U.S. dollars, but declined slightly in local currencies as the value of the
+U.S. dollar continued to decline against the Japanese yen. In Japan, the
+electronics industry suffered through its second consecutive year of decline.
+The softness in the electronics industry combined with ongoing price erosion
+affected our Japanese domestic sales, but demand for Molex Japan products
+remained strong outside the region as Japanese companies continued to relocate
+some of their production outside of Japan and other non-Japanese companies
+designed-in Molex Japan's micro-miniature products. During the fiscal year, the
+region also focused on productivity improvements and efficiencies that allowed
+the region to report a slight improvement in net return on sales from the prior
+fiscal year.
+
+        The customer net revenues in the U.S. Region increased 14.6 percent
+during fiscal year 1994 to $288.7 million. The sales growth is the result of
+increased customer penetration in the computer and telecommunications market,
+along with higher sales of newly-introduced products such as LFH and EBBI. We
+also continued to see increased customer demand for our fiber optic products.
+The region was able to overcome some of the effects of price erosion in the
+computer market through improved manufacturing efficiencies. 
+
+        Far East South customer net revenues increased 13.2 percent over the
+prior fiscal year. However, during the third quarter of fiscal 1993, Molex sold
+a manufacturing facility in Singapore and transferred part of the region's
+harness operations to a newly formed joint venture company. Adjusting for this
+change, Far East South net revenues increased 18 percent from last fiscal year.
+This strong growth was primarily due to increased customer penetration at many
+of the multinational companies who have relocated manufacturing operations to
+the region and to the continued strong growth in the personal computer and disk
+drive industries. Currency fluctuations did not significantly impact the
+regional results during fiscal year 1994. Profitability in the region has
+improved from last fiscal year's 12.2 percent return on net sales to the
+current fiscal year's 13.4 percent. This increase is due to the previously
+mentioned disposition of low margin operations in Singapore, improved factory
+utilization and to operational improvements in our Taiwanese R.F. Division that
+was acquired three years ago. Since purchasing the company, Molex has
+substantially upgraded the production equipment and improved operating
+efficiencies.  
+
+        In Europe, customer net revenues improved 20.7 percent in local
+currencies, but increased 10.2 percent in U.S. dollars as the dollar continued
+to gain strength against most of the major European currencies. Increased
+customer demand in the U.K., Ireland and France offset the continued weakness
+in the German connector market. Molex continued its efforts to improve the
+regional profitability through several restructuring actions during the fiscal
+year. First, we consolidated our French connector manufacturing operation into
+an enlarged facility in Biberach, Germany. Second, we are in the process of
+progressively improving the routing of our product flow from our manufacturing
+facilities to our customers. The above efforts contributed to increasing the
+regional profitability from 3.3 percent of sales during fiscal year 1993 to 6.7
+percent of sales during fiscal year 1994.  
+
+        Customer net revenue in the Americas (Non-U.S.) region grew 38.4
+percent from the prior year due to substantial revenue growth in Mexico and
+stronger sales in Brazil.  
+
+        The consolidated gross profit improved during fiscal 1994 to 42.1
+percent of net revenues compared to 41.0 percent during fiscal 1993. The
+Company was able to offset the effects of price erosion and increased
+depreciation charges with improved factory utilization, favorable changes in
+product mix and improved production efficiencies. Material prices and labor
+costs have remained relatively stable during fiscal 1994.  
+
+        Over the last five years, Molex has invested over $530 million in new
+facilities, equipment and tooling. This significant investment has resulted in
+depreciation and amortization expenses increasing 16.5 percent to $88.8 million
+from $76.2 million during fiscal 1993. As a percent of sales, depreciation and
+amortization charges currently represent 9.2 percent of sales compared to 8.9
+percent of sales during fiscal year 1993.  
+
+        Operating expenses as a percent of net revenue increased slightly from
+25.6 percent in fiscal 1993 to 25.8 percent in fiscal 1994.  This increase is
+due, in part, to higher research and development expenditures.
+
+        Research and development expenditures reached an all-time high and
+represented 6.7 percent of sales during fiscal 1994 increasing from 6.5 percent
+of sales during fiscal 1993. Approximately 23 percent of fiscal 1994 net
+revenues resulted from the sale of products that Molex has released within the
+past three years. These expenditures, coupled with the efforts of our
+engineering department, resulted in the release of 158 new product families and
+granting of 181 new patents during fiscal year 1994. The continued increase in
+research and development reflects Molex's long-term commitment to the
+reinvestment of its profits in new product design and tooling. We believe this
+commitment has significantly improved our competitive position. 
+
+        The foreign currency transaction losses decreased 29.8 percent from
+fiscal 1993 losses when the Company incurred high losses due to the abrupt
+devaluation of several European currencies. The majority of the exchange losses
+during fiscal 1994 were due to exchange losses in Brazil as a result of the
+severe devaluation of the cruzeiro against the U.S. dollar.  
+
+        Interest income, net of interest expense for fiscal 1994 has increased
+2.0 percent from fiscal 1993. Higher short-term investment balances during
+fiscal 1994 were able to offset lower interest rates earned in many of the
+countries where the Company has significant short-term investments.  Interest
+expense has remained relatively unchanged from fiscal 1993.  
+
+        The effective tax rate decreased to 39.6 percent during fiscal 1994
+from 43.7 percent during fiscal 1993. The decrease reflects increased pretax
+profitability in countries with lower effective tax rates coupled with the
+ability of the Company to utilize additional foreign tax credits.
+<PAGE>   7
+        Earnings before the cumulative effect of change in accounting principle
+increased 27.0 percent to $94.9 million. Earnings per share increased to $1.50
+during fiscal 1994 from $1.19 during fiscal 1993. Excluding the effects of
+currency fluctuations, earnings before the cumulative effect of change in
+accounting principle increased 24.0 percent over fiscal 1993 earnings.  
+
+Fiscal 1993 Compared to Fiscal 1992 
+
+Net revenue for fiscal 1993 increased 10.7 percent to $859.3 million, compared
+to $776.2 million for fiscal year 1992. Excluding the change in exchange rates
+due to the generally weaker U.S. dollar, net revenue increased 8.1 percent. The
+growth in net revenue was primarily due to the record sales by the United
+States and Far East South Regions and strong revenue growth in the
+Americas (Non-U.S.) Region during fiscal 1993. Revenues grew in these regions
+by 18.7%, 17.6% and 17.9%, respectively, over fiscal 1992.  
+
+        Net revenue in the Far East North Region increased 5.0 percent over
+fiscal 1992. The region experienced no growth in local currencies as the growth
+was due to the decline of the U.S. dollar against the Japanese yen. The 2.3
+percent growth reported in the European Region was impacted by the regional
+recession as well as the strength of the U.S. dollar against most European
+currencies. Excluding the effects of currency fluctuations, European net
+revenues increased 5.2 percent over fiscal 1992.  
+
+        During the fourth quarter of fiscal 1993, Molex adopted Statement of
+Financial Accounting Standards No. 106, ''Employees' Accounting for
+Postretirement Benefits Other Than Pensions'' (SFAS 106). SFAS 106 requires
+that the cost of retiree benefits be accrued over the period in which the
+employees become eligible for such benefits. Previously, these benefits were
+expensed as incurred. In adopting this standard, Molex elected to immediately
+recognize the cumulative effect and restate the previously reported fiscal 1993
+quarterly results; the charge to fiscal 1993 first quarter net income was $3.6
+million ($5.8 million before taxes) or six cents per share. Incremental annual
+service and interest charges were $.7 million ($1.1 million before taxes) or
+one cent per share.  
+
+        Earnings before the cumulative effect of change in accounting principle
+increased 10.7 percent to $74.7 million. Earnings per share increased to $1.19
+from $1.08 for fiscal 1992. Excluding the effects of currency fluctuations,
+earnings before the cumulative effect of change in accounting principle
+increased by 6.6 percent over the prior fiscal year's amount.  
+
+        The gross profit percentage of 41.0 percent remained unchanged from
+fiscal 1992 to fiscal 1993. The Company was able to offset the effects of price
+erosion and increased depreciation charges with increased sales volume,
+favorable changes in product mix and improved operating efficiencies.
+
+        Operating expenses as a percentage of net revenue decreased from 26.6
+percent in fiscal 1992 to 25.6 percent in fiscal 1993. The improvement was the
+result of the continued emphasis on streamlining the business and improving
+efficiency.  
+
+        Research and development expenditures represented 6.5 percent of sales
+during fiscal 1993, increasing from 6.1 percent of sales during fiscal 1992.
+The increase in research and development expenditures reflects Molex's
+long-term commitment to the reinvestment of profits in new product design and
+tooling.  
+
+        The foreign currency transaction losses for fiscal 1993 increased $4.0
+million over fiscal 1992 losses primarily due to the strength of the U.S.
+dollar and Japanese yen and the volatility of exchange rates in Europe during
+fiscal 1993.  
+
+        Interest income, net of interest expense, for fiscal 1993 decreased
+11.1 percent from the prior fiscal year. The decrease reflects lower interest
+rates in countries where the Company has significant short-term investments.  
+
+        The effective tax rate for fiscal 1993 increased to 43.7 percent from
+42.4 percent for the prior fiscal year. The increase reflects faster revenue
+growth and increased profitability in countries with higher effective tax rates
+coupled with the inability of the Company to utilize all of its foreign tax
+credits generated during fiscal 1993.    
+
+Outlook 
+
+The prospects for fiscal 1995 look promising. We believe that the connector
+industry is emerging from one of the most difficult economic climates since the
+Second World War. Molex has the people, products and resources to take
+significant advantage of this improving climate. We continue to make the
+necessary investments for continued success and have a world class organization
+that is totally committed to serving our customers and making Molex a premier
+global company. Molex will continue to push into new markets and expand our
+product line through the introduction of new and innovative products. We expect
+this effort to produce worldwide sales in excess of $1 billion during fiscal
+1995. 
+
+        During the past fiscal year, Molex has demonstrated its ability to
+control costs and improve productivity. We will continue to review and
+challenge all activities in the Company with the goal of improving customer
+service and operating efficiencies. We believe these efforts will allow Molex
+to achieve its corporate financial goal of generating 10 percent net return on
+sales for the fiscal year ending June 30, 1995.
+
+
+
+
+<PAGE>   8
+CONSOLIDATED BALANCE SHEETS 
+(in thousands, except per share data) 
+
+<TABLE>
+<CAPTION>
+ASSETS                                                                           June 30,
+                                                                    ---------------------------------
+                                                                          1994                  1993
+                                                                    -----------           -----------
+<S>                                                                 <C>                   <C>
+Current assets:
+Cash                                                                $    19,309           $    27,160
+Short-term investments                                                  209,617               158,893
+Accounts receivable:
+  Trade, less allowance of $8,916 in 1994 and
+     $8,789 in 1993 for doubtful accounts                               216,866               184,233
+  Employee                                                                4,808                 6,302
+Inventories                                                             113,266               104,488
+Deferred income taxes (Note 5)                                           18,665                12,305
+Prepaid expenses                                                          4,081                 4,179
+                                                                    -----------           -----------
+Total current assets                                                    586,612               497,560
+                                                                    -----------           -----------
+Property, plant and equipment
+  at cost (Notes 3 and 8):
+Land and improvements                                                    44,525                37,249
+Buildings and leasehold improvements                                    199,523               175,851
+Machinery and equipment                                                 510,143               441,791
+Molds and dies                                                          246,203               199,286
+                                                                    -----------           -----------
+                                                                      1,000,394               854,177
+Less accumulated depreciation and amortization                          559,399               468,349
+                                                                    -----------           -----------
+Net property, plant and equipment                                       440,995               385,828
+                                                                    -----------           -----------
+Other assets                                                            110,910                78,387
+                                                                    -----------           -----------
+                                                                    $ 1,138,517           $   961,775
+                                                                    ===========           ===========
+</TABLE>                                                            
+
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+<PAGE>   9
+<TABLE>
+<CAPTION>
+LIABILITIES AND SHAREHOLDERS' EQUITY                                                  June 30,
+                                                                         ---------------------------------
+                                                                                1994                  1993
+                                                                         -----------           -----------
+<S>                                                                      <C>                  <C>
+Current liabilities:
+Current portion of long-term debt (Note 3)                               $       184           $       350
+Accounts payable                                                              96,659                79,223
+Accrued expenses:
+  Salaries, commissions and bonuses                                           28,924                25,511
+  Other                                                                       37,113                24,601
+Income taxes (Note 5)                                                         41,878                35,210
+Dividends payable                                                                636                   473
+                                                                         -----------           -----------
+Total current liabilities                                                    205,394               165,368
+                                                                         -----------           -----------
+Deferred items: 
+Investment grants                                                              2,570                 2,638
+Income taxes (Note 5)                                                         12,042                 8,740
+                                                                         -----------           -----------
+Total deferred items                                                          14,612                11,378
+                                                                         -----------           -----------
+Accrued postretirement benefits (Notes 6 and 7)                               26,363                22,014
+                                                                         -----------           -----------
+Long-term debt (Note 3)                                                        7,350                 7,510
+                                                                         -----------           -----------
+Minority interest in subsidiaries                                              3,184                 3,851
+                                                                         -----------           -----------
+Shareholders' Equity (Notes 2, 4 and 9):
+Common Stock, $.05 par value; 60,000 shares authorized;
+  32,919 shares issued at 1994 and 32,637 shares issued at 1993                1,646                 1,632
+Class A Common Stock, $.05 par value; 60,000 shares authorized;
+  32,755 shares issued at 1994 and 32,600 shares issued at 1993                1,637                 1,630
+Class B Common Stock, $.05 par value; 146 shares authorized;
+  94 shares issued at 1994 and 1993                                                5                     5
+Paid-in capital                                                               56,464                47,052
+Retained earnings                                                            729,547               637,074
+Deferred unearned compensation                                                (7,223)               (6,235)
+Treasury stock (Common Stock, 1,048 shares at 1994 and 1,074 
+  shares at 1993; Class A Common Stock, 1,122 shares at 1994 
+  and 1,098 shares at 1993), at cost                                         (31,749)              (31,107)
+Cumulative translation adjustments                                           131,287               101,603
+                                                                         -----------           -----------
+Total shareholders' equity                                                   881,614               751,654
+                                                                         -----------           -----------
+                                                                         $ 1,138,517           $   961,775
+                                                                         ===========           ===========
+</TABLE>
+
+
+<PAGE>   10
+CONSOLIDATED STATEMENTS OF INCOME
+(in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+                                                                                 For the year ended June 30,
+                                                                       -----------------------------------------------
+                                                                              1994              1993              1992
+                                                                       -----------       -----------       -----------
+<S>                                                                    <C>               <C>              <C>
+
+Net revenue                                                            $   964,108       $   859,283       $   776,192
+Cost of sales                                                              558,029           506,680           457,831
+                                                                       -----------       -----------       -----------
+Gross profit                                                               406,079           352,603           318,361
+                                                                       -----------       -----------       -----------
+Operating expenses:
+Selling                                                                    109,531            98,486            91,546
+Administrative                                                             139,153           121,218           114,616
+                                                                       -----------       -----------       -----------
+Total operating expenses                                                   248,684           219,704           206,162
+                                                                       -----------       -----------       -----------
+Income from operations                                                     157,395           132,899           112,199
+                                                                       -----------       -----------       -----------
+Other income (expense):
+Foreign currency transaction loss                                           (3,291)           (4,689)             (715)
+Interest                                                                     5,373             5,268             5,928
+                                                                       -----------       -----------       -----------
+Total other income                                                           2,082               579             5,213
+                                                                       -----------       -----------       -----------
+Income before income taxes, minority interest and cumulative 
+  effect of change in accounting principle                                 159,477           133,478           117,412
+Income taxes (Note 5)                                                       63,186            58,371            49,814
+                                                                       -----------       -----------       -----------
+Income before minority interest and cumulative effect of change in
+      accounting principle                                                  96,291            75,107            67,598
+Minority interest                                                           (1,439)             (447)             (134)
+                                                                       -----------       -----------       -----------
+Income before cumulative effect of change in accounting principle           94,852            74,660            67,464
+Cumulative effect of change in method of accounting for 
+  postretirement benefits other than pensions, net of tax                      --              3,605                --
+                                                                       -----------       -----------       -----------
+Net income                                                             $    94,852       $    71,055       $    67,464
+                                                                       ===========       ===========       ===========
+Earnings per common share (Based upon weighted average 
+  common shares outstanding):
+Earnings per common share before cumulative effect of 
+  change in accounting principle                                       $      1.50       $      1.19       $      1.08
+Cumulative effect of change in method of accounting for 
+  postretirement benefits other than pensions per share                         --               .06                --
+                                                                       -----------       -----------       -----------
+Earnings per common share                                              $      1.50       $      1.13       $      1.08
+                                                                       -----------       -----------       -----------
+Dividends per common share (Note 2)                                    $     .0375       $     .0265       $     .0160
+                                                                       -----------       -----------       -----------
+Weighted average common shares outstanding                                  63,345            63,001            62,651
+                                                                       -----------       -----------       -----------
+</TABLE>
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+
+<PAGE>   11
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY 
+(in thousands)
+
+<TABLE>
+<CAPTION>
+                                                                                      For the year ended June 30,
+                                                                            ----------------------------------------------
+                                                                                   1994              1993             1992
+                                                                            -----------       -----------      -----------
+<S>                                                                         <C>               <C>              <C>
+Common Stock 
+Balance at beginning of period                                              $     1,632       $     1,297      $     1,288
+Exercise of stock options                                                            14                 9                8
+Issuance of stock bonus                                                              --                --                1
+Stock split effected in the form of a dividend                                       --               326               --
+                                                                            -----------       -----------      -----------
+Balance at end of period                                                          1,646             1,632            1,297
+
+Class A Common Stock
+Balance at beginning of period                                                    1,630             1,300            1,292
+Exercise of stock options                                                             7                 5                7
+Issuance of stock bonus                                                              --                --                1
+Stock split effected in the form of a dividend                                       --               325               --
+                                                                            -----------       -----------      -----------
+Balance at end of period                                                          1,637             1,630            1,300
+
+Class B Common Stock 
+Balance at beginning and end of period                                                5                 5                5
+
+Paid-in capital
+Balance at beginning of period                                                   47,052            42,094           34,632
+Exercise of stock options                                                         4,952             3,044            4,244
+Disposition of treasury stock                                                       650               467              330
+Stock options granted                                                             3,810             2,234            2,620
+Issuance of stock bonus                                                              --                --              268
+Stock split effected in the form of a dividend                                       --              (787)              --
+                                                                            -----------       -----------      -----------
+Balance at end of period                                                         56,464            47,052           42,094
+
+Retained earnings
+Balance at beginning of period                                                  637,074           567,695          501,231
+Net income                                                                       94,852            71,055           67,464
+Cash dividends                                                                   (2,379)           (1,676)          (1,000)
+                                                                            -----------       -----------      -----------
+Balance at end of period                                                        729,547           637,074          567,695
+
+Treasury stock 
+Balance at beginning of period                                                  (31,107)          (31,040)         (30,649)
+Purchase of treasury stock                                                       (1,120)             (720)            (809)
+Disposition of treasury stock                                                       478               653              418
+                                                                            -----------       -----------      -----------
+Balance at end of period                                                        (31,749)          (31,107)         (31,040)
+
+Deferred unearned compensation
+Balance at beginning of period                                                   (6,235)           (5,697)          (5,327)
+Stock options granted                                                            (3,810)           (2,234)          (2,620)
+Amortization of deferred unearned compensation                                    2,822             1,696            2,250
+                                                                            -----------       -----------      -----------
+Balance at end of period                                                         (7,223)           (6,235)          (5,697)
+
+Cumulative translation adjustments
+Balance at beginning of period                                                  101,603            84,735           48,270
+Net effect of translation adjustment                                             29,684            16,868           36,465
+                                                                            -----------       -----------      -----------
+Balance at end of period                                                        131,287           101,603           84,735
+                                                                            -----------       -----------      -----------
+Total shareholders' equity                                                  $   881,614       $   751,654      $   660,389
+                                                                            ===========       ===========      ===========
+
+</TABLE>
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+
+<PAGE>   12
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+
+<TABLE>
+<CAPTION>
+                                                                                      For the year ended June 30,
+                                                                            ----------------------------------------------
+                                                                                   1994              1993             1992
+                                                                            -----------       -----------      -----------
+<S>                                                                         <C>               <C>              <C>
+CASH AND SHORT-TERM INVESTMENTS, beginning of period                        $   186,053       $   157,157       $   149,570
+Cash and short-term investments were provided from (used for):
+Operations:
+Net income                                                                       94,852            71,055            67,464
+Add (deduct) non-cash items included in net income:
+Cumulative effect of change in accounting for
+  postretirement benefits other than pensions                                        --             3,605                --
+Depreciation and amortization                                                    88,787            76,193            67,556
+Deferred income taxes                                                            (1,212)           (1,497)            1,267
+(Gain) Loss on sale of property, plant and equipment                             (1,047)              947             1,482
+Minority interest                                                                 1,439               447               134
+Amortization of deferred unearned compensation                                    2,822             1,696             2,250
+Amortization of deferred investment grants                                         (240)             (271)             (273)
+Other charges to earnings--net                                                      613             1,517             2,455
+
+Current items:
+Accounts receivable                                                             (23,903)          (17,088)           (2,592)
+Inventories                                                                      (4,454)           (7,861)           (5,829)
+Prepaid expenses                                                                    172              (955)            1,883
+Accounts payable                                                                 12,615            (8,702)            2,233
+Accrued expenses                                                                 17,285             8,207            10,137
+Income taxes                                                                      3,385             8,987           (12,449)
+                                                                            -----------       -----------      ------------
+Net cash provided from operations                                               191,114           136,280           135,718
+                                                                            -----------       -----------      ------------
+Investments:
+Purchases of property, plant and equipment                                     (129,458)          (93,181)         (132,672)
+Proceeds from sale of property, plant and equipment                               4,709             4,132             4,692
+Purchases of business, net of cash acquired                                      (3,106)           (2,418)           (1,023)
+Increase in other assets                                                        (30,721)          (21,160)           (8,579)
+                                                                            -----------       -----------      ------------
+Net cash used for investments                                                  (158,576)         (112,627)         (137,582)
+                                                                            -----------       -----------      ------------
+Financing:
+Decrease in long-term debt                                                         (169)           (1,314)           (1,442)
+Cash dividends paid                                                              (2,217)           (1,584)           (1,004)
+Exercise of stock options                                                         2,915             1,998             2,900
+Disposition of treasury stock                                                     1,128             1,120               748
+                                                                            -----------       -----------      ------------
+Net cash provided from financing                                                  1,657               220             1,202
+                                                                            -----------       -----------      ------------
+Effect of exchange rate changes on cash                                           8,678             5,023             8,249
+                                                                            -----------       -----------      ------------
+Net increase in cash and short-term investments                                  42,873            28,896             7,587
+                                                                            -----------       -----------      ------------
+CASH AND SHORT-TERM INVESTMENTS, end of period                              $   228,926       $   186,053      $    157,157
+                                                                            ===========       ===========      ============
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+Cash paid during the period for:
+Interest                                                                    $       795       $       840      $      1,375
+Income taxes                                                                     57,721            49,555            58,556
+                                                                            -----------       -----------      ------------
+</TABLE>
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+
+<PAGE>   13
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(dollars in thousands, except per share data)
+
+(1) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+The following is a summary of the major accounting policies and
+practices of Molex Incorporated and subsidiaries that affect significant
+elements of the accompanying consolidated financial statements.  
+
+
+(A) PRINCIPLES OF CONSOLIDATION 
+The consolidated financial statements include the accounts of Molex 
+Incorporated (the Parent Company) and its subsidiaries.  All material 
+intercompany balances and transactions have been eliminated.  
+
+(B) SHORT-TERM INVESTMENTS  
+Short-term investments consist of a variety of highly-liquid investments with 
+original maturities of three months or less. Short-term investments are carried
+at cost, which approximates market.
+
+(C) FAIR VALUE OF FINANCIAL INSTRUMENTS 
+The Company's financial instruments include short-term investments and long-term
+debt. The carrying amounts of the financial instruments approximate their fair
+value.
+
+(D) INVENTORIES 
+Inventories are valued at the lower of first-in, first-out cost or market.  
+Inventories at June 30 consisted of the following:
+
+                                                 1994           1993
+                                                 ----           ----
+Raw materials                                 $ 20,940        $ 18,600 
+Work in progress                                42,865          39,379
+Finished goods                                  49,461          46,509
+                                              --------        --------
+                                              $113,266        $104,488
+                                              ========        ========
+
+(E) PROPERTY, PLANT AND EQUIPMENT AND RELATED RESERVES 
+Depreciation and amortization are provided substantially on a straight-line 
+basis for financial statement purposes and on accelerated methods for tax 
+purposes. The estimated useful lives are as follows: 
+
+        Buildings                       25-45 years 
+        Machinery and equipment          3-10 years 
+        Molds and dies                    3-4 years 
+
+        Cost of leasehold improvements are amortized over the terms of the
+related leases using various methods.  
+
+(F) RESEARCH AND DEVELOPMENT AND PATENT COSTS 
+Costs incurred in connection with the development of new products and 
+applications are charged to operations as incurred. Total research and 
+development costs equaled $64,772 in 1994; $56,204 in 1993 and $47,596 in 1992.
+
+        Included in these totals are patent costs of $3,252, $2,784 and $2,174
+for the years ended June 30, 1994, 1993 and 1992, respectively.  
+
+(G) REVENUE RECOGNITION 
+The Company recognizes revenue at the date of shipment. 
+
+(H) CURRENCY TRANSLATION 
+Assets and liabilities of international entities have been translated at 
+current exchange rates, and income and expenses have been translated using 
+average exchange rates.
+
+(I) ACCOUNTING CHANGES 
+Effective July 1, 1992, the Company adopted Statement of Financial Accounting 
+Standards (SFAS) No. 106, ''Employers' Accounting for Postretirement Benefits 
+Other Than Pensions.'' SFAS No. 106 requires the Company to accrue retiree 
+insurance benefits over the period in which employees become eligible for such 
+benefits. The Company implemented SFAS 106 by recognizing the transition 
+obligation immediately.
+
+(J) RECLASSIFICATIONS
+Certain reclassifications have been made to the prior years' financial
+statements in order to conform to the 1994 classifications.  
+
+(2) CAPITAL STOCK
+The shares of Common Stock, Class A Common Stock and Class B Common Stock are
+identical except as to voting rights. Class A Common Stock has no voting rights
+except in limited circumstances. So long as more than 50% of the authorized
+number of shares of Class B Common Stock continue to be outstanding, all
+matters, other than the election of directors, submitted to a vote of the
+shareholders must be approved by a majority of the Class B Common Stock, voting
+as a class, and by a majority of the Common Stock voting as a class. During
+such period, holders of a majority of the Class B Common Stock could veto
+corporate action that requires shareholder approval other than the election of
+directors.  
+
+        During Fiscal 1990, the shareholders approved an amendment to the
+Certificate of Incorporation affecting the capital structure of the Company.
+The amendment provided for the creation of 60.0 million shares of a new class
+of non-voting Class A Common Stock, 25.0 million shares of a new class of
+Preferred Stock, and the elimination of the previously authorized class of
+Preferred Stock. The issuance, terms and conditions of the new Preferred Stock
+are at the discretion of the Board of Directors. There were no shares of the
+new class of Preferred Stock issued or outstanding during the three years ended
+June 30, 1994.
+
+
+<PAGE>   14
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+        The Class B Common Stock can be converted into Common Stock on a share
+for share basis at any time at the option of the holder. The authorized Class A
+Common Stock would automatically convert into Common Stock on a share for share
+basis at the discretion of the Board of Directors upon the occurrence of
+certain events. Upon such conversion, the voting interests of the holders of
+Common Stock and Class B Common Stock would be diluted.  
+
+        The holders of the Common Stock, Class A Common Stock, and Class B
+Common Stock participate equally, share for share, in any dividends which may
+be paid thereon, if, as and when declared by the Board of Directors, or in any
+assets available upon liquidation or dissolution of the Company. 
+
+(3) DEBT 
+The details relative to long-term debt are as follows: 
+
+<TABLE>
+                                             1994                 1993
+                                           ------               ------
+<S>                                     <C>                   <C>
+Industrial development bonds
+  2% to 4%, secured by certain
+  land, buildings and equipment; 
+  payable in periodic installments
+  through November, 2009.                  $7,410               $7,661
+Other                                         124                  199
+                                           ------               ------
+                                            7,534                7,860 
+Less current portion                          184                  350
+                                           ------               ------
+Long-term portion                          $7,350               $7,510
+                                           ======               ======
+</TABLE>
+
+
+        The long-term portion as of June 30, 1994 is due subsequent to fiscal
+year 2000.  
+
+        The provisions of certain loan agreements contain restrictive
+covenants, the more significant of which require the Company to maintain
+specified liquidity and debt-to-equity ratios.
+
+(4) DEFERRED UNEARNED COMPENSATION 
+Under the 1979 Stock Option Plan and 1990 Stock Option Plan all shares issued 
+are nonqualified. The option price per share is less than the fair market value
+at the date of grant, thus creating deferred unearned compensation. The 
+difference between the fair market value and the option price was recorded as 
+deferred unearned compensation and is charged to operations over a five year 
+period.  In fiscal 1994, $2,822 was charged to operations ($1,696 in 1993 and 
+$2,250 in 1992).
+
+(5) INCOME TAXES 
+Effective July 1, 1991 the Company adopted Statement of Financial Accounting 
+Standards No. 109, ''Accounting for Income Taxes'' (SFAS 109). Under SFAS 109, 
+the deferred tax provision is determined under the liability method. Under 
+this method, deferred tax assets and liabilities are recognized based on 
+differences between the financial statement and tax bases of assets and 
+liabilities using presently enacted tax rates. Adoption of the statement did 
+not have a material effect on the results of operations. 
+
+        Income tax provisions are as follows:
+
+<TABLE>
+<CAPTION>                   
+                                     1994              1993             1992
+                                 --------          --------         --------
+<S>                             <C>               <C>              <C>
+Currently payable:          
+  U.S. federal                    $ 9,921           $ 8,427          $ 7,120
+  State                             2,426             2,057            1,904
+  International                    52,031            49,075           39,470
+                                 --------          --------         --------
+                                   64,378            59,559           48,494
+                                 --------          --------         --------
+Deferred:                   
+  International              
+  taxes                              (833)           (2,139)           2,002
+  Other, net                         (359)              951             (682)
+                                 --------          --------         --------
+                                   (1,192)           (1,188)           1,320
+                                 --------          --------         --------
+Total provision for         
+  income taxes               
+  before cumulative          
+  effect of change           
+  in accounting              
+  principle                       $63,186           $58,371          $49,814
+                                 ========          ========         ========
+                                 
+</TABLE>                         
+
+        The Company's tax rate, before the cumulative effect of change in
+accounting principle, differs from the U.S. federal income tax rate as follows:
+
+<TABLE>
+<CAPTION>                       
+                                     1994              1993             1992
+                                 --------          --------         --------
+<S>                                 <C>               <C>              <C>
+U.S. federal income             
+  tax rate                           35.0%             34.0%            34.0%
+Certain tax exemptions               (4.4)             (4.7)            (4.6)
+State income taxes,             
+  net of federal                
+  tax benefit                         1.0%              1.0%             1.1%
+International tax rates         
+  different from                  
+  U.S. federal rate                   8.0%             13.4%            11.9%
+                                 --------          --------         --------
+                                     39.6%             43.7%            42.4%
+                                 ========          ========         ========
+</TABLE>                        
+
+        Income before income taxes, minority interest and cumulative effect of
+change in accounting principle is summarized as follows: 
+
+<TABLE>
+                                     1994              1993             1992
+                                 --------          --------         --------
+<S>                              <C>              <C>               <C>
+United States                    $ 46,584          $ 35,806         $ 35,136
+International                     112,893            97,672           82,276
+                                 --------          --------         --------
+                                 $159,477          $133,478         $117,412
+                                 ========          ========         ========
+</TABLE>
+
+<PAGE>   15
+
+        Temporary differences that give rise to a significant portion of net
+deferred taxes are as follows:
+
+<TABLE>
+<CAPTION>
+                                                       1994                       1993
+                                                       ----                       ----
+<S>                                                   <C>                        <C>
+International/local taxes                              $ 3,547                    $ 4,072
+Employee benefit plans                                   7,826                      6,818
+Depreciation and amortization                           (3,759)                    (1,515)
+Allowance for doubtful accounts                          1,381                      1,117 
+Difference between book and
+  tax asset bases                                        2,264                      1,755
+Other deferred items                                     7,177                      3,749
+                                                       -------                    -------
+                                                       $18,436                    $15,996
+                                                       =======                    =======
+</TABLE>
+
+
+        The net deferred tax accounts reported on the balance sheet as of June
+30 are as follows: 
+
+<TABLE>
+<CAPTION>
+                                                       1994                       1993
+                                                       ----                       ----
+<S>                                                   <C>                        <C>
+Net deferred:
+  Current asset                                         $18,665                    $12,305
+  Long-term asset                                        14,609                     13,675
+  Current liability                                      (2,796)                    (1,244)
+  Long-term liability                                   (12,042)                    (8,740)
+                                                       --------                    ------- 
+                                                        $18,436                    $15,996
+                                                       ========                    =======
+
+</TABLE>
+
+(6) POSTRETIREMENT BENEFITS OTHER THAN PENSIONS 
+In addition to providing pension benefits, the Parent Company and certain of
+its subsidiaries provide certain health care and life insurance benefits to its
+employees. The majority of the Parent Company employees may become eligible for
+these benefits if they reach age 55, with age plus years of service equal to
+70. During fiscal 1994, the Company made several modifications to the
+cost-sharing and benefit provisions of its postretirement plans. There are no
+significant postretirement health care benefit plans outside of the United
+States.  
+
+        During fiscal 1993, the Company adopted Statement of Financial
+Accounting Standards No. 106, ''Employers' Accounting for Postretirement
+Benefits Other Than Pensions.'' SFAS No. 106 requires that the cost of retiree
+insurance benefits be accrued over the period in which the employees become
+eligible for such benefits. The Company elected to immediately recognize the
+effect of the change in accounting for postretirement benefits of $3.6 million
+($5.8 million before tax), or six cents per share which represents the
+accumulated postretirement benefit obligation (APBO) existing at July 1, 1992.
+The Company continues to fund benefit costs primarily as claims are paid.  
+
+        Net periodic postretirement benefit cost for fiscal years 1994 and 1993
+included the following components:
+
+<TABLE>
+<CAPTION>
+                                                       1994                       1993
+                                                       ----                       ----
+<S>                                                   <C>                        <C>
+
+Service cost, benefits attributed to
+  employee service during the period                   $492                       $  578
+Interest cost on accumulated
+  postretirement benefit obligation                     405                          490
+Unrecognized prior service cost                        (107)                          --
+                                                       ----                       ------
+Net periodic postretirement
+  benefit cost                                         $790                       $1,068
+                                                       ====                       ======
+</TABLE>
+
+
+The following table sets forth the plans' combined status as of June 30:
+<TABLE>
+<CAPTION>
+                                                       1994                       1993
+                                                       ----                       ----
+<S>                                                   <C>                        <C>
+
+Accumulated postretirement
+  benefit obligation:
+Retirees and beneficiaries                             $  675                     $  707
+Active employees                                        5,207                      6,176
+                                                       ------                     ------
+Total accumulated postretirement
+  benefit obligation                                    5,882                      6,883
+Fair value of plan assets                                  --                         --
+                                                       ------                     ------
+Unfunded accumulated benefit
+  obligation in excess of
+  plan assets                                           5,882                      6,883
+Unrecognized prior service cost                         2,335                         --
+Unrecognized net loss                                    (504)                        --
+                                                       ------                     ------
+Accrued postretirement benefit costs                   $7,713                     $6,883
+                                                       ======                     ======
+
+</TABLE>
+
+        The discount rate used in determining the APBO was 7.5% and 8.5% as of
+June 30, 1994 and 1993, respectively. The assumed health care cost trend rate
+used in measuring the accumulated postretirement benefit obligation was 11.1%
+in 1994, declining per year to an ultimate rate of 5.0% by 2017. The health
+care cost trend rate assumption has a significant effect on the amount of the
+obligation and periodic cost reported. An increase in the assumed health care
+cost trend rate by 1% in each year would increase the APBO as of June 30, 1994
+by $1,035 and the aggregate of the service and interest cost components of the
+net periodic postretirement benefit cost for the year then ended by $191.  
+
+        In fiscal 1992 the costs relating to the health care and life insurance
+benefits for retirees of $95 was recognized as expense primarily as claims were
+paid.
+
+
+<PAGE>   16
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+(7) PENSION AND PROFIT SHARING PLANS 
+The Company sponsors and/or contributes to pension plans covering substantially
+all U.S. hourly employees and certain employees in international subsidiaries.
+The Company also sponsors several defined benefit plans for certain domestic
+and international employees. The benefits are primarily based on years of
+service and the employees' compensation for certain periods during the last     
+years of employment.  
+
+        Total pension expense for all benefit plans, including defined benefit
+plans, amounted to $4,584 in 1994, $5,160 in 1993 and $4,511 in 1992. Net
+periodic pension expense for the Company's defined benefit plans consists of
+the following for the year ended June 30:
+
+<TABLE>
+<CAPTION>
+                                                 1994                          1993                            1992
+                                 --------------------          --------------------          ----------------------
+                                 U.S.   International          U.S.   International          U.S.     International
+                                 Plans          Plans          Plans          Plans          Plans            Plans
+                                 ----------     -----          ----------     -----          ----------       -----
+<S>                             <C>            <C>            <C>            <C>            <C>              <C>
+Service costs                    $412           $1,826         $ 607          $2,230         $ 596            $1,611
+Interest costs on projected
+  benefit obligation              368            1,039           398             923           399               800
+Actual return on plan assets     (198)            (444)         (489)           (435)         (401)             (376)
+Net amortization and deferral    (142)              33           307              68           278                19
+                                 ----           ------         -----          ------         -----            ------
+Net periodic pension expense     $440           $2,454         $ 823          $2,786         $ 872            $2,054
+                                 ====           ======         =====          ======         =====            ======
+</TABLE>
+
+The funded status for the Company's defined benefit plans is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                               1994                            1993
+                                                               --------------------          ----------------------
+                                                               U.S.   International          U.S.     International
+                                                               Plans          Plans          Plans           Plans
+                                                               ----------     -----          ----------       -----
+<S>                                                           <C>            <C>            <C>              <C>
+Actuarial present value of:
+  Vested benefit obligation                                    $ 3,893        $ 12,073       $ 3,819          $  9,633
+  Nonvested benefit obligation                                     186             151           173                96
+                                                               -------        --------       -------          --------
+Accumulated benefit obligation                                   4,079          12,224         3,992             9,729
+
+Projected benefit obligation                                     5,654          19,157         5,074            15,494
+Plan assets at fair value                                        6,369           7,079         5,438             5,231
+                                                               -------        --------       -------          --------
+Plan assets in excess of (less than) projected 
+  benefit obligation                                               715         (12,078)          364           (10,263)
+Unrecognized net transition liability                              618              65           728                64
+Unrecognized prior service costs                                   741              --           822                --
+Unrecognized net gain                                           (1,830)         (2,036)       (2,161)           (1,481)
+                                                               -------        --------       -------          --------
+Accrued pension asset (liability) included                       
+  in the consolidated balance sheet                            $   244        $(14,049)      $  (247)         $(11,680)
+                                                               =======        ========       =======          ========
+
+</TABLE>
+
+
+The assumptions used in computing the above information are presented below:
+
+<TABLE>
+<CAPTION>
+                                                                                         1994                             1993
+                                                                   --------------------------        --------------------------
+                                                                                International                     International
+                                                                                        Plans                             Plans
+                                                                                    (weighted                         (weighted
+                                                                   U.S. Plans        average)         U.S. Plans       average)
+                                                                   -----------  -------------         ----------  -------------
+<S>                                                                <C>              <C>              <C>             <C>
+
+Discount rates                                                      7.5%             6.2%             7.5%            6.2%
+Rates of increase in compensation                                   4.0%             4.1%             4.0%            4.1%
+Expected long-term rates of return on plan assets                   7.0%             8.0%             7.0%            8.0%
+
+</TABLE>
+
+        The Parent Company and certain of its subsidiaries also provide
+discretionary savings and other defined contribution plans covering
+substantially all of their salaried employees. Employer contributions of
+$4,892, $4,736 and $2,617 were charged to operations during 1994, 1993, and
+1992, respectively.
+
+<PAGE>   17
+
+(8) COMMITMENTS 
+(A) PRODUCTION EQUIPMENT
+As of June 30, 1994, the Company has entered into firm commitments for capital
+expenditures of approximately $38,575 for machinery, molds and dies.  
+
+(B) OPERATING LEASES 
+The Company and its subsidiaries rent certain facilities and equipment under
+lease arrangements classified as operating leases. Some of the leases have      
+renewal options. 
+
+Future minimum rental payments under noncancellable operating
+leases with initial or remaining terms of one year or more as of June 30, 1994
+are as follows: 
+
+<TABLE>
+<CAPTION>
+
+Fiscal Year                Amount
+                           ------
+<S>                       <C>
+1995                       $ 8,698
+1996                         5,482
+1997                         3,378
+1998                         2,536
+1999                         2,147
+Thereafter                   6,832
+                           -------
+                           $29,073
+                           =======
+</TABLE>
+
+
+Rental expense was $9,872 in 1994, $8,328 in 1993 and $7,694 in 1992.  
+
+(9) STOCK OPTION PLANS 
+In December 1979, the Company adopted the 1979 Stock Option Plan. The most
+significant terms of this plan provide that (1) options may be granted for 3.1
+million shares of Common Stock and Class A Common Stock, (2) the options are
+not exercisable for one year after the date of grant and thereafter up to
+twenty-five percent (25%) of the options may be exercised cumulatively  during
+each of the four succeeding years, and (3) the option price shall be fifty
+percent (50%) of the fair market value of the stock of the Company on the date
+of grant. The options expire five years from the date of the grant. The plan
+expired as of June 30, 1989, and therefore, no future grants will be made under
+the plan.  
+
+        Stock option transactions relating to the 1979 Plan are summarized as
+follows:
+
+<TABLE>
+<CAPTION>
+                                        Shares 
+1979 PLAN                       (in thousands)            Price Per Share
+                                --------------            ---------------
+<S>                                 <C>                   <C>
+Outstanding at 7/1/92                394                   $6.25-$8.66
+  Exercised                          142                   $6.25-$8.66
+  Cancelled                           30 
+Outstanding at 6/30/93               222                   $6.25-$8.66
+  Exercised                          212                   $6.25-$8.66 
+  Cancelled                           10 
+Outstanding at 6/30/94                 0 
+Options exercisable at 6/30/93       222 
+Options exercisable at 6/30/94         0 
+
+</TABLE>
+
+        In October 1981, the Board of Directors adopted the 1981 Stock Option
+Plan. The most significant terms of this plan provide that (1) options may be
+granted for 2.9 million shares of Common Stock and Class A Common Stock, (2)
+the options are not exercisable for one year after the date of grant and
+thereafter up to twenty-five percent (25%) of the options may be exercised
+cumulatively during each of the four succeeding years, and (3) the option price
+shall be the fair market value of the stock of the Company on the date of
+grant. The options expire five years from the date of the grant. The plan
+expired as of June 30, 1991 and therefore, no future grants will be made under
+the plan.  
+
+        Stock option transactions relating to the 1981 Plan are summarized as
+follows:
+
+<TABLE>
+<CAPTION>                              Shares 
+1981 PLAN                       (in thousands)            Price Per Share
+                                --------------            ---------------
+<S>                                 <C>                   <C>
+Outstanding at 7/1/92                296                   $12.50-$17.49 
+  Exercised                           68                   $12.50-$17.49 
+Outstanding at 6/30/93               228                   $12.50-$17.49
+  Exercised                          113                   $12.50-$17.49 
+Outstanding at 6/30/94               115                   $15.00-$17.49 
+Options exercisable at 6/30/93       160 
+Options exercisable at 6/30/94        25 
+
+</TABLE>
+
+        In July 1990, the Board of Directors adopted the 1990 Stock Option
+Plan. The most significant terms of this plan provide that (1) options may be
+granted for 1.9 million shares of Common Stock, (2) the options are not
+exercisable for one year after the date of grant and thereafter up to
+twenty-five percent (25%) of the options may be exercised cumulatively during
+each of the four succeeding years, and (3) the option price shall be fifty
+percent (50%) of the fair market value of the stock of the Company on the date
+of grant. The options expire five years from the date of the grant.  
+
+        Stock option transactions relating to the 1990 Plan are summarized as
+follows:
+
+<TABLE>
+<CAPTION>                              Shares 
+1990 PLAN                       (in thousands)            Price Per Share
+                                --------------            ---------------
+<S>                                 <C>                   <C>
+Outstanding at 7/1/92                552                   $7.70-$11.60
+  Granted                            225                  $13.13-$15.75
+  Exercised                           79                   $7.80-$11.60
+  Cancelled                           31                     
+Outstanding at 6/30/93               667                   $7.70-$15.75
+  Granted                            227                  $16.75-$17.75
+  Exercised                          112                   $7.80-$13.50
+  Cancelled                           22 
+Outstanding at 6/30/94               760                   $7.70-$17.75 
+Options exercisable at 6/30/93       105 
+Options exercisable at 6/30/94       182
+</TABLE>
+
+        In July 1991, the Board of Directors adopted the 1991 Stock Option
+Plan. The most significant terms of this plan provide that (1) options may be
+granted for 1.3 million shares of Common Stock, (2) the options are not
+exercisable for one year after the date of grant and thereafter up to
+twenty-five percent (25%) of the options may be exercised cumulatively during
+each of the four succeeding years, and (3) the option price shall be the fair
+market value of the stock on the date of the grant. The options expire five
+years from the date of the grant. 
+
+
+<PAGE>   18
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+ Stock option transactions relating to the 1991 Plan are summarized as
+follows:
+
+<TABLE>
+<CAPTION>
+                                                 Shares 
+1991 PLAN                                 (in thousands)        Price Per Share
+                                          --------------        ---------------
+<S>                                            <C>               <C>
+Outstanding at 7/1/92                            59              $24.20-$26.62
+  Granted                                        71              $25.20-$31.68
+  Exercised                                       2              $24.20
+Outstanding at 6/30/93                          128              $24.20-$31.68
+  Granted                                       181              $30.62-$37.68
+  Exercised                                       1              $24.20-$25.20
+Outstanding at 6/30/94                          308              $24.20-$37.68 
+Options exercisable at 6/30/93                   13 
+Options exercisable at 6/30/94                   44 
+
+</TABLE>
+
+(10) OPERATIONS BY GEOGRAPHIC AREA       
+
+The Company and its subsidiaries operate in one product segment: the 
+manufacture and sale of electrical components.  
+
+        Net revenue by geographic area is summarized in the following tables:
+<TABLE>
+<CAPTION>
+                                                 Customer               Intercompany 
+1994                                              Revenue                    Revenue              Total
+                                                 --------               ------------              -----
+<S>                                             <C>                    <C>                       <C>
+United States                                    $288,732               $  28,729                 $ 317,461 
+Far East North                                    303,161                  68,161                   371,322 
+Far East South                                    173,425                  18,151                   191,576 
+Europe                                            159,553                  11,479                   171,032 
+Americas (Non-U.S.)                                31,841                     811                    32,652 
+Other                                               7,396                  31,016                    38,412 
+Eliminations                                           --                (158,347)                 (158,347)
+                                                 --------               ---------                 ---------
+Consolidated                                     $964,108               $      --                 $ 964,108
+                                                 ========               =========                 =========
+
+<CAPTION>
+                                                 Customer               Intercompany 
+1993                                              Revenue                    Revenue              Total
+                                                 --------               ------------              -----
+<S>                                             <C>                    <C>                       <C>
+
+United States                                    $251,973               $  26,354                 $ 278,327 
+Far East North                                    282,836                  56,220                   339,056  
+Far East South                                    153,142                  17,541                   170,683 
+Europe                                            144,798                   9,288                   154,086 
+Americas (Non-U.S.)                                23,011                     713                    23,724 
+Other                                               3,523                  26,841                    30,364 
+Eliminations                                           --                (136,957)                 (136,957)
+                                                 --------               ---------                 ---------
+Consolidated                                     $859,283               $      --                 $ 859,283
+                                                 ========               =========                 =========
+
+<CAPTION>
+                                                 Customer               Intercompany 
+1992                                              Revenue                    Revenue              Total
+                                                 --------               ------------              -----
+<S>                                             <C>                    <C>                       <C>
+United States                                    $212,229               $  26,351                 $ 238,580 
+Far East North                                    269,279                  32,608                   301,887 
+Far East South                                    130,168                  16,674                   146,842 
+Europe                                            141,490                   5,442                   146,932 
+Americas (Non-U.S.)                                19,514                     485                    19,999 
+Other                                               3,512                  21,546                    25,058 
+Eliminations                                           --                (103,106)                 (103,106)
+                                                 --------               ---------                 ---------
+Consolidated                                     $776,192               $      --                 $ 776,192
+                                                 ========               =========                 =========
+
+</TABLE>
+
+
+        Net income by geographic area is as follows: 
+<TABLE>
+<CAPTION>
+                                                   1994       1993        1992
+                                                 --------     ------      -----
+<S>                                               <C>        <C>         <C>
+United States                                      $ 30,020   $ 21,548     $ 23,558 
+Far East North                                       40,083     37,173       32,854 
+Far East South                                       25,656     20,768       17,220 
+Europe                                               11,529      5,109        6,912 
+Americas (Non-U.S.)                                   1,099      1,390          414 
+Other                                               (13,362)   (14,009)     (13,578) 
+Eliminations                                           (173)      (924)          84
+                                                   --------   --------     --------
+Consolidated                                       $ 94,852   $ 71,055     $ 67,464
+                                                   ========   ========     ========
+
+</TABLE>
+
+        Identifiable assets by geographic area are as follows: 
+<TABLE>
+<CAPTION>
+                                                   1994          1993           1992
+                                                  ----------    --------        -------
+<S>                                               <C>           <C>            <C>
+United States                                      $  357,261    $303,045       $274,589 
+Far East North                                        447,384     383,553        311,717 
+Far East South                                        157,975     138,285        129,240 
+Europe                                                149,604     124,093        168,902 
+Americas (Non-U.S.)                                    17,102      15,139         11,540 
+Other                                                  40,218      33,134         34,032 
+Eliminations                                          (31,027)    (35,474)       (80,331)
+                                                      --------   --------        -------
+Consolidated                                       $1,138,517    $961,775       $849,689
+                                                    =========    ========       ========
+</TABLE>
+
+
+        Intercompany net revenues are generally at cost plus the normal mark-up
+charged to unaffiliated customers. Identifiable assets are those assets of the
+Company that are identified with operations in each country. During 1994, 1993
+and 1992, the largest single customer accounted for less than 10% of
+consolidated net revenues.
+
+(11) ACQUISITIONS AND INVESTMENTS 
+The Company periodically engages in the acquisition and/or divestiture
+of companies within the connector industry. These transactions have not been
+material to the financial position or results of operations of the Company,
+either individually or in the aggregate, and are therefore not separately
+identified herein.  
+
+        During fiscal 1994, Molex purchased the remaining shares outstanding of
+Molex Nanco Ltd. and acquired an additional 20 percent interest in Dongguan
+Molex South-China Connector Co. Ltd. During fiscal 1993, the Company increased
+its ownership percentage in Molex India Ltd. to 80 percent, and made minority
+investments in three international connector companies. Molex also sold its
+remaining shares in a majority owned company and sold a portion of one of its
+minority owned investments in fiscal 1993.
+
+        The majority owned investments have been accounted for as purchases.
+Operating results have been included in the financial statements from the date
+of acquisition and did not have a significant effect on consolidated operating
+results. The minority investments have been accounted for on the equity basis of
+accounting.
+
+<PAGE>   19
+
+FISCAL 1994, 1993, AND 1992 BY QUARTER 
+(in thousands, except per share--unaudited)
+<TABLE>
+<CAPTION>
+
+                                                             Quarter         1994                   1993(2)               1992     
+                                                            --------         -------                -------              --------  
+<S>                                                         <C>              <C>                    <C>                   <C>      
+                                                                                                                                   
+Net revenue                                                  1st             $233,244               $215,201              $186,968 
+                                                             2nd              224,896                202,487               189,304 
+                                                             3rd              238,568                206,011               191,688 
+                                                             4th              267,400                235,584               208,232 
+                                                                                                                                   
+Gross profit                                                 1st               96,861                 88,722                75,520 
+                                                             2nd               94,196                 82,113                76,941 
+                                                             3rd              100,103                 83,167                77,943 
+                                                             4th              114,919                 98,601                87,957 
+                                                                                                                                   
+Income before income taxes, minority interest                                                                                      
+      and cumulative effect of change in                                                                                           
+      accounting principle                                   1st               37,142                 32,708                27,444 
+                                                             2nd               35,917                 30,193                28,675 
+                                                             3rd               39,659                 31,102                28,677 
+                                                             4th               46,759                 39,475                32,616 
+                                                                                                                                   
+Income taxes                                                 1st               15,357                 14,394                12,509 
+                                                             2nd               14,256                 13,621                12,351 
+                                                             3rd               15,761                 13,563                12,030 
+                                                             4th               17,812                 16,793                12,924 
+                                                                                                                                   
+Net income                                                   1st               21,382                 14,660                14,882 
+                                                             2nd               21,405                 16,543                16,390 
+                                                             3rd               23,596                 17,408                16,595 
+                                                             4th               28,469                 22,444                19,597 
+                                                                                                                                   
+Earnings per common share(1)                                 1st                 0.34                   0.23                  0.24 
+                                                             2nd                 0.34                   0.26                  0.26 
+                                                             3rd                 0.37                   0.28                  0.27 
+                                                             4th                 0.45                   0.36                  0.31 
+                                                                                                                                
+</TABLE>                                                     
+
+<TABLE>
+<CAPTION>                                                 
+                                                                    LOW        HIGH       LOW        HIGH       LOW         HIGH
+<S>                                                         <C>    <C>        <C>        <C>        <C>        <C>         <C>
+National Market System                                    
+Price of Stock: Common Stock(1)                              1st    30 1/4    38 1/4      23 7/8     30 1/4      22           27 7/8
+                                                             2nd    31 3/4    36 1/2      26         30 7/8      22 7/8       29
+                                                             3rd    33 1/2    38 1/2      25 3/4     33          24 1/4       31 5/8
+                                                             4th    30 1/4    38 7/8      28 3/4     32 1/4      23 5/8       27 5/8
+                                                          
+Class A Common Stock(1)                                      1st    27 1/2    35          23 1/4     28 3/8      20 7/8       26 7/8
+                                                             2nd    29 1/2    34 3/4      24 3/4     29          22 7/8       27 7/8
+                                                             3rd    32 1/2    36 3/4      24 3/8     30 1/2      22 7/8       30 1/4
+                                                             4th    30 1/4    36 3/4      26 1/4     30          23           26 5/8
+                                                          
+</TABLE>                                                  
+
+(1)Restated for the 25% stock dividend--November, 1992.
+
+(2)During the fourth quarter of fiscal 1993, the Company retroactively changed
+   its method of accounting for postretirement benefits other than pensions.  
+   The first three quarters of fiscal year 1993 have been restated to 
+   reflect this accounting change.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-22
+<SEQUENCE>3
+<DESCRIPTION>REGISTRANT'S SUBSIDIARIES
+<TEXT>
+
+<PAGE>   1
+
+
+                                   EXHIBIT 22
+
+ REGISTRANT'S SUBSIDIARIES
+      The following list sets forth the subsidiaries of Registrant, the state
+ or country of incorporation or organization of each, and the names under which
+ the subsidiaries do business.  All of the listed subsidiaries are included in
+ the consolidated financial statements of the Registrant.  Unless otherwise
+ indicated, all the subsidiaries are wholly-owned by the Registrant either
+ directly or indirectly through one or more intermediaries.
+
+<TABLE>
+<CAPTION>
+ COMPANY NAME                                                                JURISDICTION                        OWNERSHIP
+ ------------------------------------------------------------                ------------------                  ---------
+ <S>                                                                         <C>                                    <C>
+ Molex US Inc.                                                               Delaware, U.S.A.                       100.0%
+    Molex Caribe Inc.                                                        Delaware, U.S.A.                       100.0%
+    Molex Electrical Systems Inc.                                            Delaware, U.S.A.                       100.0%
+    Molex-ETC Inc.                                                           Delaware, U.S.A.                       100.0%
+       ETC Leasing Inc.                                                      Delaware, U.S.A.                       100.0%
+    Molex S.A. de C.V.                                                       Mexico                                 100.0%
+
+
+ Molex International, Inc.                                                   Delaware, U.S.A.                       100.0%
+    Ulti-Mate, Inc.                                                          California, U.S.A.                     100.0%
+    Molex Overseas Inc. dba Molex Espana                                     Delaware, U.S.A.                       100.0%
+    Molex Eletronica Ltda.                                                   Brazil                                 100.0%
+    Molex da Amazonia Ltda.                                                  Brazil                                 100.0%
+    Molex Electronics Ltd.                                                   Canada                                 100.0%
+    Dongguan Molex South-China Connector Co. Ltd.                            China (P.R.C.)                          90.0%
+    G. Ostervig-Molex A/S                                                    Denmark                                 30.0%
+    Molex France S.A.R.L.                                                    France                                 100.0%
+    Molex Eastern Europe S.A.R.L.                                            France                                  85.0%
+    Decoupage Moulage De Savoie S.A.                                         France                                  19.0%
+    Molex Elektronik GmbH                                                    Germany                                100.0%
+       Molex Services GmbH                                                   Germany                                100.0%
+       Molex GmbH                                                            Germany                                 90.0%
+ * Molex Hong Kong Ltd.                                                      Hong Kong                              100.0%
+    Molex-Nanco Ltd.                                                         Hong Kong                              100.0%
+    Molex (India) Ltd.                                                       India                                   80.0%
+    Molex Italia S.p.A.                                                      Italy                                  100.0%
+ * Molex Elettronica S.r.l.                                                  Italy                                  100.0%
+        Zetronic S.p.A.                                                      Italy                                   31.0%
+    Molex-Japan Co., Ltd.                                                    Japan                                  100.0%
+    Molex (Malaysia) Sdn. Bhd.                                               Malaysia                               100.0%
+    Molex de Mexico S.A. de C.V.                                             Mexico                                 100.0%
+    Molex (Benelux) B.V.                                                     Netherlands                            100.0%
+</TABLE>
+<PAGE>   2
+<TABLE>
+<CAPTION>
+ COMPANY NAME                                                                   JURISDICTION                       OWNERSHIP
+ ------------------------------------------------------------                ------------------                    ---------
+ <S>                                                                         <C>                                    <C>
+   Molex B.V.                                                                Netherlands                            100.0%
+   Molex European Distribution Center B.V.                                   Netherlands                            100.0%
+   Molex - G. Knutsen A/S                                                    Norway                                  25.0%
+   Molex Far East-South Management Pte. Ltd.                                 Singapore                              100.0%
+   Molex Singapore Pte. Ltd.                                                 Singapore                              100.0%
+     MEC International Pte. Ltd.                                             Singapore                               30.0%
+   Hi-P Tool & Die Pte.Ltd.                                                  Singapore                               34.0%
+   Molex Property Holding Pty. Ltd.                                          South Africa                           100.0%
+   Technor (Pty.) Ltd.                                                       South Africa                            87.0%
+   Molex Korea Co., Ltd.                                                     South Korea                            100.0%
+ * Suministro Iberico de Conexiones S.A.                                     Spain                                   25.0%
+   Molex Svenska A.B.                                                        Sweden                                 100.0%
+   Molex Interconnect AG                                                     Switzerland                            100.0%
+   Molex Illinois S.A.                                                       Switzerland                            100.0%
+       Smithstown Light Engineering Ltd.                                     Ireland                                 50.0%
+       Molex Ireland Ltd.                                                    Ireland                                100.0%
+   Molex Taiwan Ltd.                                                         Taiwan (R.O.C.)                        100.0%
+       Land Win Electronic Corporation                                       Taiwan (R.O.C.)                         20.0%
+   Molex (Thailand) Ltd.                                                     Thailand                                95.0%
+   Molex Electronics Ltd.                                                    United Kingdom                         100.0%
+   *  Molex European Management Ltd.                                         United Kingdom                         100.0%
+   *  Molex Ltd.                                                             United Kingdom                         100.0%
+
+
+  Beta Phase, Inc.                                                           Delaware, U.S.A.                        38.0%
+  Molex Fiber Optic Interconnect Technologies, Inc.                          Illinois, U.S.A.                        75.0%
+ *Molex Alin International, Incorporated                                     British Virgin Is.                     100.0%
+                                                                    
+ -------------------------------------------------------------------
+</TABLE>
+ *Inactive company
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>4
+<DESCRIPTION>INDEPENDENT AUDITORS' CONSENT
+<TEXT>
+
+<PAGE>   1
+
+                                   EXHIBIT 24
+
+
+
+
+
+                         INDEPENDENT AUDITORS' CONSENT
+
+
+         We consent to the incorporation by reference in Registration
+         Statements (File Nos. 33-9737, 33-9738, 33-1138, 2-87344, 2-
+         79949, 2-74447, 2-71557, 33-32055 and 33-37683) of Molex
+         Incorporated and its subsidiaries on Form S-8 of our reports
+         dated August 9, 1994, appearing in and incorporated by
+         reference in this Annual Report on Form 10-K of Molex
+         Incorporated and its subsidiaries for the year ended June 30,
+         1994.
+
+
+
+
+
+         /s/ DELOITTE & TOUCHE LLP
+         Chicago, Illinois
+         September 24, 1994
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>F.D.S.
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+MOLEX INC. ANNUAL REPORT TO SHAREHOLDERS FOR THE YEAR ENDED JUNE 30, 1994
+AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL
+STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+<CURRENCY> U.S. DOLLARS
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1994
+<PERIOD-END>                               JUN-30-1994
+<EXCHANGE-RATE>                                      1
+<CASH>                                          19,309
+<SECURITIES>                                   209,617
+<RECEIVABLES>                                  225,782
+<ALLOWANCES>                                   (8,916)
+<INVENTORY>                                    113,266
+<CURRENT-ASSETS>                               586,612
+<PP&E>                                       1,000,394
+<DEPRECIATION>                               (559,399)
+<TOTAL-ASSETS>                               1,138,517
+<CURRENT-LIABILITIES>                          205,394
+<BONDS>                                          7,350
+<COMMON>                                         3,288
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<OTHER-SE>                                     878,326
+<TOTAL-LIABILITY-AND-EQUITY>                 1,138,517
+<SALES>                                        964,108
+<TOTAL-REVENUES>                               964,108
+<CGS>                                          558,029
+<TOTAL-COSTS>                                  806,713
+<OTHER-EXPENSES>                                 3,291
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                             (5,373)
+<INCOME-PRETAX>                                159,477
+<INCOME-TAX>                                    63,186
+<INCOME-CONTINUING>                             96,291
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    94,852
+<EPS-PRIMARY>                                     1.50
+<EPS-DILUTED>                                     1.50
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

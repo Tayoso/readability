@@ -1,0 +1,3049 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ qS+cyPyostSrp8KjEGr3qV7wmVVvsR59zblBxxkrt2juq+wKdS6C92tRFKTq7xR4
+ 1sTtC86uxKlBtEv3IRyuGw==
+
+<IMS-DOCUMENT>0000950114-94-000088.txt : 19940801
+<IMS-HEADER>0000950114-94-000088.hdr.sgml : 19940801
+ACCESSION NUMBER:		0000950114-94-000088
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19940430
+FILED AS OF DATE:		19940727
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KELLWOOD CO
+		CENTRAL INDEX KEY:			0000055080
+		STANDARD INDUSTRIAL CLASSIFICATION:	2330
+		IRS NUMBER:				362472410
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07340
+		FILM NUMBER:		94540239
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 KELLWOOD PKWY
+		STREET 2:		P O BOX 14374
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63178
+		BUSINESS PHONE:		3145763100
+
+	MAIL ADDRESS:	
+		STREET 1:		600 KELLYWOOD PKWY
+		STREET 2:		P O BOX 14374
+		CITY:			ST LOUIS
+		STATE:			MO
+		ZIP:			63178
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>KELLWOOD COMPANY FORM 10-K
+<TEXT>
+
+<PAGE> 1
+==============================================================================
+
+                         SECURITIES AND EXCHANGE COMMISSION
+                               Washington, D.C.  20549
+
+                                      FORM 10-K
+
+(Mark One)
+[X]    ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+       SECURITIES EXCHANGE ACT OF 1934     [FEE REQUIRED]
+       For the fiscal year ended       April 30, 1994
+                                 ---------------------------
+                                         OR
+[ ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+       SECURITIES EXCHANGE ACT OF 1934     [NO FEE REQUIRED]
+       For the transition period from ---------------- to ---------------
+
+
+                         Commission File Number    1-7340
+                                               ----------------
+                                  KELLWOOD COMPANY
+- - ------------------------------------------------------------------------------
+               (Exact name of registrant as specified in its charter)
+
+            DELAWARE                                      36-2472410
+- - -------------------------------                     ------------------------
+(State or other jurisdiction of                        (I.R.S. Employer
+ incorporation or organization)                     Identification Number)
+
+600 KELLWOOD PARKWAY, P.O. BOX 14374, ST. LOUIS, MO               63178
+- - ---------------------------------------------------         ----------------
+     (Address of principal executive offices)                  (Zip Code)
+
+Registrant's telephone number, including area code       (314)576-3100
+                                                   -------------------------
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                                    NAME OF EACH EXCHANGE
+              TITLE OF EACH CLASS                    ON WHICH REGISTERED
+              -------------------                    -------------------
+        Common Stock, par value $.01                New York Stock Exchange
+        Preferred Stock Purchase Rights             New York Stock Exchange
+
+    Securities registered pursuant to Section 12(g) of the Act: None
+
+==============================================================================
+
+Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file
+such reports), and (2) has been subject to such filing requirements
+for the past 90 days.                Yes [X]   No [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant
+to Item 405 of Regulation S-K is not contained herein, and will not
+be contained, to the best of registrant's knowledge, in definitive
+proxy or information statements incorporated by reference in Part
+III of this Form 10-K or any amendment to this Form 10-K.   [X]
+
+At June 27, 1994, Kellwood Company had 21,050,831 shares of Common
+Stock, par value $.01, outstanding.  While it is difficult to
+determine the number of shares owned by nonaffiliates, the Company
+estimates that the aggregate market value of the Common Stock on
+June 27, 1994 (based upon the closing price of these shares on the
+New York Stock Exchange) held by nonaffiliates was approximately
+$434,173,000.
+- - ------------------------------------------------------------------------------
+                         DOCUMENTS INCORPORATED BY REFERENCE
+
+Annual Report to Shareowners for fiscal year ended April 30, 1994
+(Item 1 in Part I; Items 5, 6, 7 and 8 in Part II, and Part IV).
+
+Proxy Statement for Annual Meeting of Shareowners to be held on
+August 25, 1994 (Items 10, 11, 12 and 13 in Part III).
+
+
+<PAGE> 2
+                                       PART I
+
+ITEM 1.      BUSINESS
+
+       (a)  Kellwood Company and its subsidiaries (the "Company")
+manufacture and market apparel and related soft goods.  Kellwood
+Company was founded in 1961 as the successor by merger of fifteen
+independent suppliers to Sears.
+
+            During the second half of the 1980's, the Company
+implemented a business strategy to expand its branded label
+products, broaden its customer base, increase its channels of
+distribution and further develop its global product sourcing
+capability.  Since 1985, Kellwood has acquired the following 12
+domestic companies.
+
+<TABLE>
+<CAPTION>
+             Company Name                               Date of Acquisition
+             ------------                               -------------------
+  <S>                                                    <C>
+  *  Cape Cod-Cricket Lane, Inc.(1)  . . . . . . . . . .  March, 1985
+  *  Parsons Place Apparel Company, Ltd. (Sag Harbor)(1)  June, 1986
+  *  E Z Sportswear (Melrose)(1) . . . . . . . . . . . .  December, 1986
+  *  En Chante, Inc.(1)  . . . . . . . . . . . . . . . .  December, 1986
+  *  Robert Scott Ltd., Inc. (SBH Group)(1)  . . . . . .  July, 1987
+        David Brooks Ltd., Inc.,(1)
+        and Andrew Harvey Ltd.(1)
+  *  American Recreation Products, Inc.  . . . . . . . .  November, 1988
+  *  Slumberjack, Inc. . . . . . . . . . . . . . . . . .  September, 1989
+  *  Crowntuft Manufacturing Corp.(1)  . . . . . . . . .  October, 1989
+  *  decorp INC.(1)  . . . . . . . . . . . . . . . . . .  October, 1990
+  *  California Ivy, Inc.. . . . . . . . . . . . . . . .  July, 1992
+  *  A. J. Brandon, Inc.(1). . . . . . . . . . . . . . .  December, 1992
+  *  Goodman Knitting Co., Inc.(1) . . . . . . . . . . .  July, 1993
+
+<FN>
+     (1)     Subsequent to acquisition, these companies were
+             liquidated and consolidated into Kellwood Company
+             as separate divisions.  The purpose of these
+             consolidations was to simplify the Company's
+             organizational structure, and has no impact on the
+             operations of these divisions.
+
+</TABLE>
+
+            These companies are principally marketers of branded
+apparel except for American Recreation Products, Inc. and
+Slumberjack which are manufacturers and marketers of branded
+camping soft goods and Crowntuft Manufacturing Corp. which is a
+vertically integrated manufacturer of chenille robes.
+
+            In addition to its domestic acquisitions, in the early
+1980's, the Company acquired Smart Shirts Limited of Hong Kong, a
+leading shirt and blouse manufacturer in the Far East.  Smart
+Shirts has, since its acquisition, continued to diversify its
+manufacturing capabilities from its principal base of Hong Kong to
+the People's Republic of China, Sri Lanka, Saipan and Costa Rica.
+
+            Kellwood has invested $231 million acquiring the 12 U.S.
+companies above and companies in Saipan and Costa Rica since the
+inception of the acquisition program that began in 1985.  These
+investments were primarily financed by cash provided from
+operations and short-term borrowings.  Kellwood's short-term
+borrowings related to these acquisitions were subsequently replaced
+with long-term notes due insurance companies or repaid with cash
+repatriated from Kellwood's Far East operations, other cash
+provided by operations, or cash provided by the public sale of
+common stock.  The total investment in subsidiaries was
+approximately $28,324,000, $42,266,000, and $10,301,000 for 1994,
+1993 and 1992, respectively.
+
+            As a result of the above business strategy, the Company
+has redirected its focus from primarily the manufacturing of
+private label apparel and home fashions for Sears to a marketing-
+driven emphasis on branded apparel and related soft goods.  The
+Company's acquisition strategy has further diversified its customer
+base and has broadened its channels of distribution.  As a result
+of these efforts, sales to Sears declined to 9% of total sales in
+fiscal year 1994, compared to 50% in fiscal year 1985.
+
+       (b)  All of the Company's operations are in the apparel and
+related soft goods industry.
+
+                                    -2-
+<PAGE> 3
+
+       (c)  The Company manufactures and markets apparel and other
+soft goods products made from cloth or fabric or knitted from yarn.
+These products are manufactured primarily domestically and in the
+Far East.
+
+            (i)     The Company's products include diversified lines of
+men's, women's and children's clothing, furnishings for the home,
+sleeping bags, and other soft goods.  Products are mainly sold to
+retailers under either the Company's or customer's brands and
+labels.
+
+            (ii)    The Company anticipates no significant change in
+products or new industry segments which would require a material
+investment.  However, business acquisitions within the apparel and
+related soft goods industry are continually being considered, and
+it is anticipated that external and internal growth will generate
+increasing requirements for capital.  The Company has negotiated a
+$120 million fully committed revolving credit agreement to replace
+its current $60 million agreement which expired on July 1, 1994.
+The combined operating, cash and equity position of the Company
+should continue to provide the capital flexibility necessary to
+fund future opportunities as well as to meet existing obligations.
+
+            (iii)   The Company purchases the majority of its raw
+materials directly from numerous textile mills and yarn producers
+and converters.  The Company has not experienced difficulty in
+obtaining raw materials essential to its business.
+
+            (iv)    The Company holds patents covering various aspects
+of its products, the machinery used to manufacture its products,
+and various manufacturing processes.  The Company is a licensee of
+certain trade names and patented machines and processes.  The
+expiration, or invalidation, of any of the patents or licenses
+would not, in the opinion of management, have a material effect
+upon the continuation of business.
+
+            (v)     Although specific styles are seasonal, the Company's
+various product lines are manufactured and sold on a year-round
+basis.  Products are primarily manufactured and sold prior to each
+of the principal retail selling seasons including spring, summer,
+fall and holiday.
+
+            (vi)    Consistent with the seasonality of specific product
+offerings, the Company carries necessary levels of inventory to
+meet the anticipated delivery requirements of its customers.
+
+            (vii)   Approximately $150,130,000 (12%) of the
+Company's sales in the fiscal year ended April 30, 1994, were to J.
+C. Penney Company, Inc. ("J. C. Penney").  No other customer
+accounts for more than 10% of the Company's revenues.
+Approximately $112,236,000 (9%) of the Company's sales in the
+fiscal year ended April 30, 1994, were to Sears, Roebuck and
+Co. ("Sears").  Other information relating to J. C. Penney and
+Sears is set forth in the Company's 1994 Annual Report to
+Shareowners, under the caption "Significant Customers" in the Notes
+to Consolidated Financial Statements, which information is
+incorporated herein by reference.  The Company's management
+believes that the relationships with J. C. Penney and Sears will
+continue into the foreseeable future.
+
+            (viii)  Approximately 30% of the Company's domestic
+sales are produced under contracts for distribution on a seasonal
+basis.  It is normal for the merchandise manufactured under these
+contracts to be sold within 12 months after production.  Because of
+this, the Company does not believe backlog is important for this
+merchandise.  In addition to these contracts, the backlog for
+domestic operations totalled approximately $302 million as of April
+30, 1994 ($209 million - 1993).  The backlog for Far East
+operations totalled approximately $90 million ($89 million - 1993).
+All of the Company's backlog is expected to be filled within 12
+months.
+
+            (ix)    Government contracts or subcontracts with the
+Company are not material.
+
+            (x)     The Company has substantial competition from
+numerous manufacturers and marketers, but accurate statistics
+relative to the competitive position of the Company are not
+available.
+
+                                    -3-
+<PAGE> 4
+
+            (xi)    The Company has a continuing program for the purpose
+of improving its products and production machinery.  The Company is
+not engaged in any material customer sponsored research and
+development programs.  The dollar amount spent in the research and
+development activities during fiscal 1994, 1993 and 1992 was not
+material.
+
+            (xii)   In the opinion of management, there will be no
+material effect on the Company resulting from compliance with any
+federal, state or local provisions which have been enacted or
+adopted regulating the discharge of materials into the environment
+or otherwise relating to the protection of the environment.
+
+            (xiii)  At the end of fiscal 1994, there were
+approximately 15,500 people employed by the Company.  Substantially
+all of the work force is non-union, and the Company considers its
+relations with its employees to be satisfactory.
+
+       (d)  Except for its Far East operations, the Company's foreign
+activities including foreign manufacturing operations and customers
+have not been material.  The Company owns all of the outstanding
+shares of Smart Shirts Limited, a Hong Kong corporation engaged in
+apparel manufacturing, and other Far East companies under Smart
+Shirts' management.  The sales, operating profit, and identifiable
+assets attributable to each geographic area is set forth in the
+Company's 1994 Annual Report to Shareowners, under the caption
+"Industry Segment and Geographic Area Information" in the Notes to
+Consolidated Financial Statements, which note is incorporated
+herein by reference.  The risk attendant to the Company's Far East
+operations is slightly greater than that of domestic operations
+primarily due to quota allocations and political instability.
+Utilization of existing quota rights and diversification of Far
+East manufacturing capacity to various countries help to mitigate
+these risks.
+
+ITEM 2.     PROPERTIES
+
+       At April 30, 1994, the Company operated 32 production plants
+and various distribution facilities.  Domestic business operated 19
+plants in eight states, two plants in the Dominican Republic, one
+plant in Honduras and one plant in Canada.  These domestically
+managed plants aggregated to approximately 3,350,000 square feet
+and were operating at an estimated 87% of capacity at April 30,
+1994.  Nineteen of these domestically managed plants were primarily
+producing private label goods and four were primarily producing
+branded goods.  The Company's Far East subsidiaries operated nine
+plants which aggregated to approximately 800,000 square feet and
+were operating at an estimated 90% of capacity.  Far East
+subsidiaries manage operations in Hong Kong, Sri Lanka, Saipan,
+Costa Rica and China.
+
+       In management's opinion, current facilities generally are well
+maintained and provide adequate production capacity for future
+operations.  However, management continues to evaluate the need to
+reposition the Company's portfolio of businesses and facilities to
+meet the needs of the changing markets it serves and reflect the
+international business environment.
+
+       The Company's operating facilities are primarily leased under
+long-term capital leases with renewal options at decreasing
+rentals.  Certain facilities are leased under operating leases that
+generally contain renewal options.  The Company also leases its
+corporate space in St. Louis County, Missouri and major showrooms
+in New York City, New York; Chicago, Illinois; Dallas, Texas; and
+Los Angeles, California.
+
+ITEM 3.     LEGAL PROCEEDINGS
+
+       The Company is involved in several routine lawsuits incidental
+to the Company's business.  Management and general counsel are of
+the opinion that the ultimate disposition of such litigation should
+have no material adverse effect on the Company's financial position
+or results of operations.
+
+ITEM 4.     SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+       None.
+
+                                    -4-
+<PAGE> 5
+
+<TABLE>
+              EXECUTIVE OFFICERS OF THE REGISTRANT AS OF JUNE 27, 1994
+
+
+<CAPTION>
+      Name of                                 Office and Employment During
+      Officer               Age                the Last Five Fiscal Years
+- - --------------------        ---          --------------------------------------
+<S>                         <C>          <C>
+William J. McKenna          67           Chairman, President and Chief
+                                         Executive Officer since May 1,
+                                         1991; President and Chief Executive
+                                         Officer (1984-1991)
+
+George K. Hansen            64           Executive Vice President Operations
+                                         since February 26, 1991; Chairman
+                                         and Chief Executive Officer of
+                                         Bayly Corp. (1987-1991)
+
+Harry B. Holding            57           Executive Vice President Marketing
+                                         since May 30, 1991; President and
+                                         Chief Executive Officer of the
+                                         Hartwell Company (1967-1991)
+
+James C. Jacobsen           59           Executive Vice President
+                                         Administration since May 31, 1989;
+                                         Senior Vice President Finance-
+                                         Administration (1989)
+
+Hal J. Upbin                55           Executive Vice President Corporate
+                                         Development since May 28, 1992;
+                                         Vice President Corporate
+                                         Development (1990-1992); President
+                                         of American Recreation Products,
+                                         Inc. (1988-1992)
+
+F. Lee Fox                  59           Vice President Human Resources
+                                         since May 31, 1990; Director of
+                                         Personnel (1982-1990)
+
+Lawrence E. Hummel          51           Vice President Controller since
+                                         February 25, 1992; Controller
+                                         (1983-1992)
+
+Roger D. Joseph             52           Vice President Treasurer since
+                                         February 25, 1992; Treasurer (1986-
+                                         1992)
+
+Robert E. Madden            54           Vice President since August 24,
+                                         1993; Chief Executive Officer of
+                                         SBH Group (1987-1993)
+
+Leon M. McWhite             52           Vice President since March 24,
+                                         1994; President of Kellwood
+                                         Lingerie/Activewear (1989-1994)
+
+Verner L. Page              63           Vice President since February 26,
+                                         1991; Vice President, Catalog
+                                         Merchandising and Marketing for
+                                         Sears, Roebuck and Co. (1989-1990)
+
+Thomas H. Pollihan          44           Vice President, Secretary and
+                                         General Counsel since May 27, 1993;
+                                         General Counsel and Secretary
+                                         (1989-1993)
+
+Paul M. Rivard              52           Vice President Information Services
+                                         since May 27, 1993; Director of
+                                         Management Information Services
+                                         (1990-1993); Computer Services
+                                         Director (1984-1990)
+
+John A. Turnage             48           Vice President Manufacturing and
+                                         Sourcing since February 28, 1989
+</TABLE>
+
+                                    -5-
+<PAGE> 6
+
+                                       PART II
+
+ITEM 5.     MARKET FOR THE REGISTRANT'S COMMON STOCK AND RELATED
+            SECURITY HOLDER MATTERS
+
+       The information required by this Item is set forth in the
+Company's 1994 Annual Report to Shareowners, at the "Financial
+Highlights" page inside the front cover under the caption "Common
+Stock Data," which information is incorporated herein by reference.
+
+ITEM 6.     SELECTED FINANCIAL DATA
+
+       The information required by this Item is set forth in the
+Company's 1994 Annual Report to Shareowners, at page 20 under the
+caption "Supplemental Selected Financial Data," which information
+is incorporated herein by reference.
+
+ITEM 7.     MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+            CONDITION AND RESULTS OF OPERATIONS
+
+       The information required by this Item is set forth in the
+Company's 1994 Annual Report to Shareowners, at pages 21 to 22
+under the caption "Management's Discussion and Analysis of
+Financial Condition and Results of Operations," which information
+is incorporated herein by reference.
+
+ITEM 8.     FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+       The consolidated financial statements, together with the
+report thereon of Price Waterhouse dated June 1, 1994, appearing at
+pages 10 to 22 of the Company's 1994 Annual Report to Shareowners,
+are incorporated herein by reference.
+
+ITEM 9.     DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+       None.
+
+                                      PART III
+
+ITEM 10.    DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+       (a)   The information required by this Item regarding
+directors is set forth in the Company's Proxy Statement for the
+1994 Annual Meeting of Shareowners, at pages 3 and 4 under the
+captions "Nominees for Election to Serve Until 1996" and "Directors
+Continuing to Serve Until 1995," which information is incorporated
+herein by reference.
+
+       (b)   Reference is made to "Executive Officers of the
+Registrant as of June 27, 1994" in Part I after Item 4.
+
+       (c)   The information called for with respect to the
+identification of certain significant employees is not applicable
+to the registrant.
+
+       (d)   There are no family relationships between the
+directors and executive officers listed above.  There are no
+arrangements nor understandings between any named officer and any
+other person pursuant to which such person was selected as an
+officer.
+
+       (e)   Each of the officers named in Part I was elected to
+serve in the office indicated until the first meeting of the Board
+of Directors following the Annual Meeting of Shareowners in August
+1994 and until his successor is elected and qualified.
+
+       (f)   There are no legal proceedings involving directors,
+nominees for directors, or officers.
+
+       The information required by this Item regarding compliance
+with Section 16(a) of the Exchange Act is set forth in the
+Company's Proxy Statement for the 1994 Annual Meeting of
+Shareowners at page 13 under the caption "Compliance with
+
+                                    -6-
+<PAGE> 7
+
+Section 16(a) of the Exchange Act," which information is incorporated
+herein by reference.
+
+ITEM 11.    EXECUTIVE COMPENSATION
+
+       The information required by this Item is set forth in the
+Company's Proxy Statement for the 1994 Annual Meeting of
+Shareowners, at pages 6 through 13 under the captions "Compensation
+of Executive Officers," "Retirement Program," and "Other Officer
+Agreements," which information is incorporated herein by reference.
+
+ITEM 12.    SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+            MANAGEMENT
+
+       The information required by this Item is set forth in the
+Company's Proxy Statement for the 1994 Annual Meeting of
+Shareowners, at pages 2 and 5 under the captions "Security
+Ownership of Certain Beneficial Owners" and "Management Ownership
+of the Company's Stock," which information is incorporated herein
+by reference.
+
+ITEM 13.    CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+       The information required by this Item is set forth in the
+Company's Proxy Statement for the 1994 Annual Meeting of
+Shareowners, at page 4 under the caption "Transactions Since May 1,
+1993 in Which Nominees for Directors, Directors, Officers and Major
+Shareowners Had Interests," which information is incorporated
+herein by reference.
+
+                                       PART IV
+
+ITEM 14.    EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON
+            FORM 8-K
+
+(a)    FINANCIAL STATEMENTS AND SCHEDULES
+
+       The consolidated financial statements, together with the
+report thereon of Price Waterhouse dated June 1, 1994, appearing at
+pages 10 to 22 of the 1994 Annual Report to Shareowners are
+incorporated by reference in this Form 10-K.  With the exception of
+the aforementioned information and information incorporated in
+Items 1, 5, 6, 7 and 8, the 1994 Annual Report to Shareowners is
+not to be deemed filed as part of this Form 10-K.  The following
+financial statement schedule should also be read in conjunction
+with the financial statements in such 1994 Annual Report to
+Shareowners.  Financial statement schedules not included in this
+Form 10-K have been omitted because they are not applicable or the
+required information is shown in the financial statements or notes
+thereto.  Separate financial statements of 50% or less owned
+persons accounted for by the equity method which are not shown
+herein have been omitted because, if considered in the aggregate,
+they would not constitute a significant subsidiary.
+
+            (i)     Financial Statements:
+
+                    Report of Independent Accountants
+
+                    Consolidated Statement of Earnings, Years Ended
+                    April 30, 1994, 1993 and 1992
+
+                    Consolidated Balance Sheet, April 30, 1994 and 1993
+
+                    Consolidated Statement of Cash Flows, Years Ended
+                    April 30, 1994, 1993 and 1992
+
+                    Consolidated Statement of Shareowners' Equity,
+                    Years Ended April 30, 1994, 1993 and 1992
+
+                    Notes to Consolidated Financial Statements
+
+            (ii)    Report of Independent Accountants on Financial
+                    Statement Schedule:
+
+                                    -7-
+<PAGE> 8
+
+                    Financial Statement Schedule for the Years Ended
+                    April 30, 1994, 1993 and 1992
+
+                    Valuation and Qualifying Accounts (Schedule VIII)
+
+                    Consent of Independent Accountants
+
+            (iii)   Exhibits:
+
+                    Exhibits filed as part of this report are listed
+                    below.  Certain exhibits have been previously filed
+                    with the Commission and are incorporated herein by
+                    reference.
+
+<TABLE>
+<CAPTION>
+S.E.C. EXHIBIT
+REFERENCE NO.                                DESCRIPTION
+- - --------------                               -----------
+<S>                    <C>
+      3.1           -  Restated Certificate of Incorporation of Kellwood
+                       Company, as amended, incorporated herein by
+                       reference to Form 10-Q for the quarter ended July
+                       31, 1987, SEC File No. 1-7340.
+
+      3.2           -  By-Laws, as amended through November 23, 1993,
+                       incorporated herein by reference to Form 10-Q for
+                       the quarter ended October 31, 1993, SEC File No.
+                       1-7340.
+
+      4.1           -  Note Purchase Agreement dated December 29, 1986,
+                       with exhibits, incorporated herein by reference
+                       to Form 10-Q for the quarter ended January 31,
+                       1987, SEC File No. 1-7340.
+
+      4.2           -  Indenture between the Registrant and Centerre
+                       Trust Company of St. Louis, and the 9%
+                       Convertible Subordinated Debentures due 1999,
+                       incorporated herein by reference to Registration
+                       Statement on Form S-2, Registration No. 2-93522,
+                       effective October 18, 1984.
+
+      4.3           -  Note Agreement dated July 1, 1993, incorporated
+                       herein by reference to Form 10-Q for the quarter
+                       ended July 31, 1993, SEC File No. 1-7340.
+
+      4.4           -  Rights to Acquire Series A Junior Preferred
+                       Stock, pursuant to a Rights Agreement between the
+                       registrant and Centerre Trust Company of St.
+                       Louis, incorporated herein by reference to
+                       Registration Statement on Form 8-A, effective
+                       June 24, 1986 and Amendment dated August 21,
+                       1990, incorporated herein by reference to Form
+                       10-Q for the quarter ended October 31, 1990, SEC
+                       File No. 1-7340.
+
+      4.5           -  Note Purchase Agreement dated December 1, 1987,
+                       with exhibits, incorporated herein by reference
+                       to Form 10-Q for the quarter ended January 31,
+                       1988, SEC File No. 1-7340.
+
+      4.6           -  Note Purchase Agreement dated December 15, 1989,
+                       with exhibits, incorporated herein by reference
+                       to the Form 10-Q for the quarter ended January
+                       31, 1990, SEC File No. 1-7340.
+
+                                    -8-
+<PAGE> 9
+
+<CAPTION>
+S.E.C. EXHIBIT
+REFERENCE NO.                                DESCRIPTION
+- - --------------                               -----------
+      4.7           -  Credit Agreement dated July 1, 1991, with
+                       exhibits, incorporated herein by reference, to
+                       the Form 10-Q for the quarter ended July 31,
+                       1991, SEC File No. 1-7340.
+
+      10.1          -  Sears Master Agreement and Supplements,
+                       incorporated herein by reference to Registration
+                       Statement on Form S-2, Registration No. 2-93522,
+                       effective October 18, 1984.
+
+      10.2*         -  Employment Agreement dated December 9, 1992,
+                       between Kellwood Company and William J. McKenna,
+                       effective December 1, 1992, incorporated herein
+                       by reference to the Form 10-Q for the quarter
+                       ended January 31, 1993, SEC File No. 1-7340, and
+                       Amendment dated May 28, 1993, effective May 1,
+                       1993, incorporated herein by reference to Form
+                       10-K for the fiscal year ended April 30, 1993,
+                       SEC File No. 1-7340.
+
+      10.3*         -  Form of Employment Agreement dated November 30,
+                       1984, between Kellwood Company and executive
+                       officers, incorporated herein by reference to
+                       Form 10-K for the fiscal year ended April 30,
+                       1985, SEC File No. 1-7340.
+
+      10.4*         -  1990 Omnibus Incentive Stock Option Plan,
+                       incorporated herein by reference to Exhibit A to
+                       the Company's definitive proxy statement dated
+                       June 28, 1990, SEC File No. 1-7340.
+
+      10.5*         -  Deferred Compensation Retirement Benefit
+                       Agreement dated November 14, 1991, between
+                       Kellwood Company and Harry B. Holding,
+                       incorporated herein by reference to Form 10-K for
+                       the fiscal year ended April 30, 1992, SEC File
+                       No. 1-7340.
+
+      10.6*         -  Death Benefit Compensation Agreement dated
+                       November 14, 1991, between Kellwood Company and
+                       Harry B. Holding, effective July 17, 1991,
+                       incorporated herein by reference to Form 10-K for
+                       the fiscal year ended April 30, 1992, SEC File
+                       No. 1-7340.
+
+      10.7*         -  Corporate Development Incentive Plan of 1986 (As
+                       Amended) formerly the Key Executive Long-Term
+                       Incentive Plan of 1983; filed herewith.
+
+      13            -  Portions of the Annual Report to Shareowners for
+                       the fiscal year ended April 30, 1994, which are
+                       incorporated by reference at Item 1 in Part I,
+                       Items 5, 6, 7 and 8 in Part II, and Part IV;
+                       filed herewith.
+
+      21            -  Subsidiaries of the Company
+
+      23            -  Consent of Independent Accountants, appearing at
+                       page 11 of this report.
+
+      24            -  Powers of Attorney:  Ms. Dickerson and Messrs.
+                       Bentele, Bottum, Conerly, Fung, Kerley, Marcus
+                       and Wenzel; filed herewith.
+
+<FN>
+* Denotes management contract or compensatory plan.
+</TABLE>
+
+(b)    REPORTS ON FORM 8-K:
+
+       No reports were filed on Form 8-K during the three months
+ended April 30, 1994.
+
+                                    -9-
+<PAGE> 10
+                                     SIGNATURES
+
+
+    Pursuant to the requirements of Section 13 or 15(d) of the
+Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+                                              KELLWOOD COMPANY
+
+
+
+Dated:  July 21, 1994                          /s/ Thomas H. Pollihan
+                                              ------------------------------
+                                              Thomas H. Pollihan
+                                              Vice President, Secretary and
+                                              General Counsel
+
+       Pursuant to the requirements of the Securities Exchange Act
+of 1934, this report has been signed below by the following on
+behalf of Kellwood Company and in the capacities and on the dates
+indicated.
+
+
+        Signature                          Title                       Date
+        ---------                          -----                       ----
+
+ /s/ William J. McKenna         Director, Chairman of the          July 21, 1994
+- - -------------------------       Board, President and
+     William J. McKenna         Chief Executive Officer
+                                (principal executive and
+                                operating officer)
+
+ /s/ James C. Jacobsen          Director, Executive Vice           July 21, 1994
+- - -------------------------       President Administration
+     James C. Jacobsen          (principal financial and
+                                accounting officer)
+
+
+    Raymond F. Bentele          Director
+                                                     /s/ Thomas H. Pollihan
+                                                    ---------------------------
+    Edward S. Bottum            Director            Thomas H. Pollihan
+                                                    Attorney-in-fact
+    Richard P. Conerly          Director            July 21, 1994
+
+    Kitty G. Dickerson          Director
+
+    Wai Yiu Fung                Director
+
+    James J. Kerley             Director
+
+    James S. Marcus             Director
+
+    Fred W. Wenzel              Director
+
+
+                                    -10-
+<PAGE> 11
+                        REPORT OF INDEPENDENT ACCOUNTANTS ON
+                            FINANCIAL STATEMENT SCHEDULE
+
+
+To the Board of Directors
+of Kellwood Company
+
+       Our audits of the consolidated financial statements referred
+to in our report dated June 1, 1994 appearing at page 10 of the
+1994 Annual Report to Shareowners of Kellwood Company (which report
+and consolidated financial statements are incorporated by reference
+in this Annual Report on Form 10-K) also included an audit of the
+Financial Statement Schedule listed in Item 14(a) of this Form 10-
+K.  In our opinion, this Financial Statement Schedule presents
+fairly, in all material respects, the information set forth therein
+when read in conjunction with the related consolidated financial
+statements.
+
+
+
+/s/ PRICE WATERHOUSE
+
+St. Louis, Missouri
+June 1, 1994
+
+
+
+
+
+
+
+
+                         CONSENT OF INDEPENDENT ACCOUNTANTS
+
+
+       We hereby consent to the incorporation by reference in the
+Registration Statement on Form S-8 (No. 33-38106) of Kellwood
+Company of our report dated June 1, 1994 appearing at page 10 of
+the 1994 Annual Report to Shareowners which is incorporated in this
+Annual Report on Form 10-K.  We also consent to the incorporation
+by reference of our report on the Financial Statement Schedule,
+which appears at page 11 on this Form 10-K.
+
+
+
+/s/ PRICE WATERHOUSE
+
+St. Louis, Missouri
+July 21, 1994
+
+                                    -11-
+<PAGE> 12
+                   KELLWOOD COMPANY AND SUBSIDIARIES
+<TABLE>
+        SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+                         (In Thousands)
+
+<CAPTION>
+Column A           Column B         Column C         Column D    Column E
+- - --------           --------  ---------------------   --------    --------
+                                    Additions
+                             ---------------------
+                  Balance at Charged to Charged to               Balance
+                  beginning  costs and     other                 at end
+   Description    of period   expenses   accounts   Deductions  of period
+   -----------    ---------- ---------- ----------  ----------  ---------
+
+YEAR ENDED APRIL 30, 1994:
+<S>                 <C>        <C>        <C>        <C>          <C>
+Allowance for
+doubtful accounts   $4,118      1,152      --        $  997(A)     4,273
+
+<CAPTION>
+YEAR ENDED APRIL 30, 1993:
+
+Allowance for
+doubtful accounts    3,448     $1,667      --           997(A)    $4,118
+
+
+<CAPTION>
+YEAR ENDED APRIL 30, 1992:
+
+Allowance for
+doubtful accounts    3,715      2,748      --         3,015(A)     3,448
+
+<FN>
+(A) Write-off bad debts, net of recoveries.
+</TABLE>
+
+                                    -12-
+<PAGE> 13
+
+                          EXHIBIT INDEX
+                          -------------
+
+<TABLE>
+<CAPTION>
+S.E.C. Exhibit
+Reference No.                                Description
+- - --------------                               -----------
+<S>                    <C>
+
+      3.1           -  Restated Certificate of Incorporation of
+                       Kellwood Company, as amended, incorporated
+                       herein by reference to Form 10-Q for the
+                       quarter ended July 31, 1987, SEC File No.
+                       1-7340.
+
+      3.2           -  By-Laws, as amended through November 23, 1993,
+                       incorporated herein by reference to Form 10-Q
+                       for the quarter ended October 31, 1993, SEC
+                       File No. 1-7340.
+
+      4.1           -  Note Purchase Agreement dated December 29,
+                       1986, with exhibits, incorporated herein by
+                       reference to Form 10-Q for the quarter ended
+                       January 31, 1987, SEC File No. 1-7340.
+
+      4.2           -  Indenture between the Registrant and Centerre
+                       Trust Company of St. Louis, and the 9%
+                       Convertible Subordinated Debentures due 1999,
+                       incorporated herein by reference to
+                       Registration Statement on Form S-2,
+                       Registration No. 2-93522, effective
+                       October 18, 1984.
+
+      4.3           -  Note Agreement dated July 1, 1993,
+                       incorporated herein by reference to Form 10-Q
+                       for the quarter ended July 31, 1993, SEC File
+                       No. 1-7340.
+
+      4.4           -  Rights to Acquire Series A Junior Preferred
+                       Stock, pursuant to a Rights Agreement between
+                       the registrant and Centerre Trust Company of
+                       St. Louis, incorporated herein by reference to
+                       Registration Statement on Form 8-A, SEC File
+                       No. 1-7340, effective June 24, 1986 and
+                       Amendment dated August 21, 1990, incorporated
+                       herein by reference to Form 10-Q for the
+                       quarter ended October 31, 1990, SEC File No.
+                       1-7340.
+
+      4.5           -  Note Purchase Agreement dated December 1,
+                       1987, with exhibits, incorporated herein by
+                       reference to Form 10-Q for the quarter ended
+                       January 31, 1988, SEC File No. 1-7340.
+
+      4.6           -  Note Purchase Agreement dated December 15,
+                       1989, with exhibits, incorporated herein by
+                       reference to the Form 10-Q for the quarter
+                       ended January 31, 1990, SEC File No. 1-7340.
+
+      4.7           -  Credit Agreement dated July 1, 1991, with
+                       exhibits, incorporated herein by reference, to
+                       the Form 10-Q for the quarter ended July 31,
+                       1991, SEC File No. 1-7340.
+
+      10.1          -  Sears Master Agreement and Supplements,
+                       incorporated herein by reference to
+                       Registration Statement on Form S-2,
+                       Registration No. 2-93522, effective October
+                       18, 1984.
+
+
+                                    -13-
+<PAGE> 14
+
+
+<CAPTION>
+S.E.C. Exhibit
+Reference No.                                Description
+- - --------------                               -----------
+      10.2*         -  Employment Agreement dated December 9, 1992,
+                       between Kellwood Company and William J.
+                       McKenna, effective December 1, 1992,
+                       incorporated herein by reference to the Form
+                       10-Q for the quarter ended January 31, 1993,
+                       SEC File No. 1-7340, and Amendment dated
+                       May 28, 1993, effective May 1, 1993,
+                       incorporated herein by reference to Form 10-K
+                       for the fiscal year ended April 30, 1993, SEC
+                       File No. 1-7340.
+
+      10.3*         -  Form of Employment Agreement dated
+                       November 30, 1984, between Kellwood Company
+                       and executive officers, incorporated herein by
+                       reference to Form 10-K for the fiscal year
+                       ended April 30, 1985, SEC File No. 1-7340.
+
+      10.4*         -  1990 Omnibus Incentive Stock Option Plan,
+                       incorporated herein by reference to Exhibit A
+                       to the Company's definitive proxy statement
+                       dated June 28, 1990, SEC File No. 1-7340.
+
+      10.5*         -  Deferred Compensation Retirement Benefit
+                       Agreement dated November 14, 1991, between
+                       Kellwood Company and Harry B. Holding,
+                       incorporated herein by reference to Form 10-K
+                       for the fiscal year ended April 30, 1992, SEC
+                       File No. 1-7340.
+
+      10.6*         -  Death Benefit Compensation Agreement dated
+                       November 14, 1991, between Kellwood Company
+                       and Harry B. Holding, effective July 17, 1991,
+                       incorporated herein by reference to Form 10-K
+                       for the fiscal year ended April 30, 1992, SEC
+                       File No. 1-7340.
+
+      10.7*         -  Corporate Development Incentive Plan of 1986
+                       (As Amended) formerly the Key Executive Long-
+                       Term Incentive Plan of 1983; filed herewith.
+
+      13            -  Portions of the Annual Report to Shareowners
+                       for the fiscal year ended April 30, 1994,
+                       which are incorporated by reference at Item 1
+                       in Part I, Items 5, 6, 7 and 8 in Part II, and
+                       Part IV; filed herewith.
+
+      21             - Subsidiaries of the Company
+
+      23            -  Consent of Independent Accountants, appearing
+                       at page 11
+
+      24            -  Powers of attorney:  Ms. Dickerson and Messrs.
+                       Bentele, Bottum, Conerly, Fung, Kerley, Marcus
+                       and Wenzel; filed herewith.
+
+
+<FN>
+*Denotes management contract or compensatory plan.
+</TABLE>
+
+                                    -14-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>2
+<DESCRIPTION>MATERIAL CONTRACT
+<TEXT>
+
+<PAGE> 1
+                                                    EXHIBIT 10.7*
+                                                    -------------
+
+                        KELLWOOD COMPANY
+
+    CORPORATE DEVELOPMENT INCENTIVE PLAN OF 1986, AS AMENDED
+         (Formerly known as the Key Executive Long-Term
+               Incentive Plan of 1983, as amended)
+
+
+1.   Purpose
+
+     A.   To cause the interests of key executives and stockholders
+          to coincide by basing certain of the executive long-term
+          incentives on the achievement of long range corporate
+          goals.
+     B.   To provide meaningful incentive to Participants to
+          improve the Company's long-term growth and profitability.
+     C.   To encourage Participants to enhance the growth and
+          profitability of the entire Company rather than
+          concentrating efforts on only a specific segment of the
+          Company.
+     D.   To encourage acceptance and continuation of employment.
+
+2.   Name of Plan
+
+     The Plan shall be known as the Kellwood Company Corporate
+     Development Incentive Plan of 1986, as amended.
+
+3.   Definitions
+
+     The following words and phrases, when used in this Plan, shall
+     have the meanings indicated herein:
+
+     (1)  Award:              A number of Shares in Stock earned
+                              by a Participant under the Plan.
+
+     (2)  Board of Directors
+            or Board:         The Board of Directors of the
+                              Company.
+
+     (3)  Change in Control:  Change in Control of the Company
+                              shall be defined to have occurred if
+                              (i) any "person" (as such term is
+                              used in Section 13(d) and 14(d) of
+                              the Exchange Act) is or becomes the
+                              "beneficial owner" (as defined in
+                              Rule 13d-3 under the Exchange Act),
+                              directly or indirectly, of
+                              securities of the Company
+                              representing 25% or more of the
+                              combined voting power of the
+
+                                    1                      Rev. 3-94
+<PAGE> 2
+
+                              Company's then outstanding
+                              securities; or (ii) during any
+                              period of two consecutive years,
+                              individuals who, at the beginning of
+                              the two year period, were members of
+                              the Board cease for any reason to
+                              constitute at least a majority of
+                              the Board.
+
+     (4)  Chief Executive
+            Officer:          The Chief Executive Officer of the
+                              Company.
+
+     (5)  Committee:          The Compensation and Stock Option
+                              Committee of the Company's Board of
+                              Directors, no members of which will
+                              be eligible to participate in this
+                              Plan.
+
+     (6)  Company:            Kellwood Company.
+
+     (7)  Disability:         A physical or mental condition,
+                              which in the judgment of the
+                              Committee, based on medical evidence
+                              acceptable to the Committee, would
+                              result in a Participant being
+                              determined to be totally and
+                              permanently disabled under normal
+                              Company policy.
+
+     (8)  Employer:           Kellwood Company and each of its
+                              subsidiaries, affiliates and related
+                              companies to which the Plan has been
+                              extended by the Committee.
+
+     (9)  Escrow Agent:       The Escrow Agent selected by the
+                              Committee to receive and hold
+                              restricted Stock under the Plan.
+
+     (10) Fiscal Year:        The Company's fiscal year.
+
+     (11) Measurement Period: The Company's fiscal year.
+
+     (12) Participant:        An Employee of the Employer selected
+                              by the Committee to whom an Award
+                              has been made under the provisions
+                              of the Plan.  A Participant will be
+                              selected by the Committee in its
+                              sole discretion, based upon the
+                              Committee's judgment of the
+                              employee's ability to significantly
+                              affect major decisions and actions
+
+                                    2                         Rev. 3-94
+<PAGE> 3
+
+                              which influence the continued
+                              profitable growth and development of
+                              the total Employer, the value of the
+                              employee's continuing service and
+                              the probable detriment of his or her
+                              employment with competitors.
+
+     (13) Plan:               The Kellwood Company Corporate
+                              Development Incentive Plan of 1986
+                              as amended.
+
+     (14) Retires or
+            Retirement:       The termination of a Participant's
+                              employment with all Employers after
+                              (a) he has fulfilled all requirement
+                              for a pension under any pension or
+                              retirement plan of an Employer or
+                              (b), if he is not a participant
+                              under any such plan of an Employer,
+                              he is terminated after having
+                              attained the Company's Normal
+                              Retirement Date as defined by the
+                              Kellwood Company Pension Plan.
+
+     (15) Sale of Part of
+            the Company:      A sale of any part of the Company at
+                              a price equal to or greater than Ten
+                              Million Dollars ($10,000,000).
+
+     (16) Share(s) or Stock:  Share(s) of the Company's common
+                              stock.
+
+     (17) Stockholder:        An owner of one or more Shares.
+
+     (18) Targeted Criterion: The level of performance during the
+                              Company's next Fiscal Year which
+                              must be met for the full amount of
+                              an Award to be earned by a
+                              Participant.  The measures and
+                              objectives may be based on earnings
+                              per share or on other criteria which
+                              the Committee establishes.
+
+     (19) Targeted Shares:    The number of restricted Shares
+                              which a Participant can earn at 100%
+                              of the Targeted Criterion.
+
+4.   Shares Reserved for Awards
+
+     The total number of Shares reserved for distribution as Awards
+     under this Plan shall be 787,500 shares, subject to adjustment
+     as provided in Section 9 hereof.  No more than 157,500 Shares
+
+                                    3                         Rev. 3-94
+<PAGE> 4
+
+     of Stock shall be subject to Awards in any one Fiscal Year.
+
+5.   Award Procedure
+
+     A.   The Committee, upon the recommendation of the Chief
+          Executive Officer, shall determine each Participant, each
+          Participant's Targeted Shares and shall make Awards to
+          the Participants in accordance with further provisions of
+          the Plan.
+
+     B.   The Committee shall determine the following at the time
+          of setting the Targeted Criterion:
+          1.   The Targeted Criterion level for the measurement
+               Period necessary for a Participant to receive any
+               Award.
+          2.   The Targeted Criterion level for the Measurement
+               Period necessary to meet the Targeted Shares.
+          3.   Any known or anticipated Board actions or changes
+               in tax laws or regulations which are to be
+               excluded, if any, from the Targeted Criterion
+               levels identified by the Committee.
+
+     C.   The Committee shall determine the following at the time
+          of making each Award:
+          1.   The extent that the Targeted Criterion of the
+               Company have been met.
+          2.   The value of each Award shall be determined in
+               accordance with the attached "Schedule for
+               Determination of Award".
+
+6.   Adjustments to Targeted Criterion
+
+     The Committee shall have the power, exercisable at its sole
+     discretion, to adjust the Targeted Criterion to reflect any
+     major alterations in the course of the business or to exclude
+     the effects of any action by the Board or of any changes in
+     the tax laws or regulations which impact significantly on the
+     Targeted Criterion and which were not anticipated on the date
+     a Participant's Targeted Shares were determined.
+
+7.   Payment
+
+     A.   The payment of a Participant's Award shall be made in
+          restricted Company Stock.
+     B.   A total of 25% of the stock comprising the award will be
+          paid to a participant by the Company on the first
+          business day in December each year.
+     C.   The Company shall place in escrow with the escrow agent,
+          in the name of the participant, as restricted stock, 100%
+          of the stock earned by the participant under this Plan.
+          The restrictions on the stock placed in escrow shall
+          lapse, and the stock shall be transferred to the
+
+                                    4                         Rev. 3-94
+<PAGE> 5
+
+          participant from the escrow at the rate of 25% a year,
+          with the first release on the first business day in
+          December each year, and the remaining 75% in three equal
+          installments commencing on the first business day in June
+          of the year following the calendar year in which the
+          award is earned and on each first business day of each
+          June thereafter.
+     D.   In the event of the death, Disability or Retirement of a
+          Participant during a Fiscal Year, the Participant or his
+          beneficiary shall be entitled to receive a pro rata
+          portion of the Award which would otherwise have been due
+          to him had he remained an Employee until the end of the
+          Company's Fiscal Year based on the number of full months
+          during which the Employee was employed during the
+          Company's Fiscal Year.
+     E.   In the event of Disability or Retirement of a
+          Participant, or in the case of an officer of the Company,
+          termination of employment within one year following a
+          Change in Control of the Company, the restricted stock
+          which was in escrow as of the date of the Participant's
+          Disability or Retirement shall be released from escrow in
+          accordance with the release dates at the same rate as if
+          the Participant continued as an Employee.  The
+          Compensation Committee, in its sole discretion, may
+          accelerate the lapse of restrictions in the event of a
+          particular hardship affecting the employee at or after
+          the employee's retirement.
+     F.   In the event of the death of a Participant, any
+          restricted Stock, which was in escrow as of the date of
+          the Participant's death, shall be released and shall be
+          paid to such one or more beneficiaries as the Participant
+          may have designated in writing and filed with the
+          Secretary of the Committee.  Beneficiaries may be named
+          contingently or successively and may share in different
+          portions, if so designated by the Participant.  If no
+          beneficiary has been designated, the payments shall be
+          made to the estate of the decedent.
+     G.   In the event of a Sale of Part of the Company and as a
+          result of it the Participant is terminated, the
+          Committee, in its sole discretion, may accelerate all of
+          the release dates on restricted Stock and cash of Awards
+          earned by the terminated Participant.  The acceleration
+          may be immediate or for a period of not to exceed three
+          (3) years after the termination.
+     H.   The Compensation Committee, in its sole discretion, may
+          accelerate the lapse of restrictions in the event of a
+          particular hardship affecting the employee at or after
+          the employee's retirement.
+
+                                    5                         Rev. 3-94
+<PAGE> 6
+
+8.   Forfeitures
+
+     Upon the termination of employment of a Participant from the
+     services of all Employers due to any reason other than death,
+     Disability, Retirement, or in the case of an officer of the
+     Company within one year following a Change in Control of the
+     Company, any restricted Stock then in the escrow on the date
+     of such termination shall be forfeited by the Participant,
+     except as provided in Section 7, G.  Any restricted Stock
+     forfeited hereunder shall be available for further awards
+     under the Plan.
+
+9.   Change in Capitalization
+
+     A.   In the event of any Stock dividend, split-up,
+          reclassification or other changes in the Stock, the
+          Committee shall make such adjustments as it deems
+          equitable to accomplish the purpose of the Plan.  A
+          Committee's determination as to any adjustments shall be
+          final and conclusive.
+     B.   Each participant who receives an Award of restricted
+          Stock under the Plan shall be entitled to dividends on
+          the shares of restricted Stock and to all the rights of
+          a stockholder with respect to the restricted stock from
+          the date restricted Stock was issued.  Any Stock received
+          as a result of a Stock dividend or Stock split, or
+          otherwise in respect of any restricted Stock, shall be
+          subject to the same restrictions as the original Stock.
+
+10.  Administration and Interpretation of the Plan
+
+     The Committee shall have full responsibility for the
+     administration of the Plan and may establish rules deemed by
+     it to be appropriate to carry out the purposes of the Plan.
+     The decision of the Committee with respect to selection of
+     Participants, the amount of Targeted Shares and Awards, and
+     the interpretation of the Plan shall be conclusive and binding
+     on all parties.
+
+11.  Miscellaneous
+
+     A.   By acceptance of any Award under this Plan, the
+          Participant agrees that the value of any Stock issued to
+          him pursuant to an Award is special compensation and that
+          the value of the Stock will not be taken into account in
+          determining the amount of any pension or other retirement
+          benefits under any Employer's retirement program, the
+          amount of life insurance coverage under any Employer's
+          program, or be considered as "income" in determining the
+          gross monthly indemnity under any Employer's long-term
+          disability benefit program.
+     B.   No interest of a Participant may be sold, donated,
+
+                                    6                         Rev. 3-94
+<PAGE> 7
+
+          pledged, or otherwise assigned or otherwise transferred
+          in whole or in part, except by will or the laws of
+          descent and distribution.
+     C.   The Awards hereunder shall not be funded in any way by
+          the Company, but shall remain unfunded obligations of the
+          Company.
+     D.   Participation in the Plan does not give a Participant any
+          right to be retained as an Employee of any Employer.
+     E.   The delivery of any Stock under the Plan to a Participant
+          may also be subject to such other provisions as the
+          Committee determines appropriate, including any which may
+          be considered necessary to comply with federal or state
+          securities laws or stock exchange requirements or
+          withholding tax requirements.
+     F.   The titles and headings of the sections in this Plan are
+          for convenience or reference only and in the event of any
+          conflict, the text of this Plan, rather than such
+          headings, shall control.
+
+12.  Adoption Amendments or Termination of the Plan
+
+     A.   After the initial approval of this Plan by the
+          Stockholders of the Company, the Committee shall have the
+          right to extend the length of this Plan, amend or modify
+          this Plan from time to time, or to terminate this Plan
+          entirely or to discontinue the establishment of Targeted
+          Shares, either temporarily or permanently; provided,
+          however, no amendment or modification of this Plan or its
+          termination shall affect or impair the provisions of any
+          Award theretofore made without the written consent of
+          each Participant whose Award would be affected or
+          impaired by the amendment, modification or termination.
+     B.   This Plan is effective as of May 1, 1983.
+     C.   Unless extended by the Board, no Award may be made under
+          this Plan after July 1, 1996.
+
+13.  Immediate Release from Escrow
+
+     Notwithstanding the other provisions of this Plan, upon (i) a
+     Change in Control of the Company, or (ii) a resolution to the
+     following effect by the Committee passed after commencement of
+     a tender offer or other acquisition plan or program by any
+     person which, if consummated in accordance with its terms,
+     would result in a Change in Control of the Company; then all
+     restrictions on stock in escrow shall automatically and
+     immediately lapse, and all restricted stock which was in
+     escrow as of the above pertinent date shall be released from
+     escrow immediately and transferred to the Participants.
+
+14.  Withholding
+
+     When a participant is required to pay to the Company an amount
+
+                                    7                         Rev. 3-94
+<PAGE> 8
+
+     required to be withheld under applicable tax laws, in
+     connection with the release of shares under the Plan, the
+     Committee may, in its discretion and subject to such rules as
+     it may adopt, permit the participant to satisfy the
+     obligation, in whole or in part, by electing to have the
+     Company withhold shares of Common Stock having a fair market
+     value equal to the amount required to be withheld.  The
+     election must be made on or before the date that the amount of
+     tax to be withheld is determined (the "Tax Date").  The fair
+     market value of the shares to be withheld is the average of
+     the high and low market price of the Common Stock on the New
+     York Stock Exchange on the Tax Date.  Fractional amounts will
+     be paid in cash.  Elections will be subject to the following
+     restrictions:  (1) they must be made on or prior to the Tax
+     Date, (2) they will be irrevocable, and (3) they will be
+     subject to the disapproval of the Committee.  Elections by
+     participants whose transactions in Common Stock are subject to
+     Section 16(b) of the Securities Exchange Act of 1934
+     ("Officers") will be subject to the following additional
+     restrictions:  (1) they may not be made within six months of
+     the grant of the award (except that this limitation will not
+     apply in the event death or disability of the participant
+     occurs prior to the expiration of the six-month period), and
+     (2) they must be made either six months or more prior to the
+     Tax Date or in a ten day "window period" beginning on the
+     third day following the release of the Company's quarterly or
+     annual summary statement of sales and earnings.
+
+                                    8                         Rev. 3-94
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>3
+<DESCRIPTION>EXCERPTS FROM 1994 ANNUAL REPORT
+<TEXT>
+
+<PAGE> 1
+CONTENTS
+
+1   To Our Shareowners
+
+5   Designed To Compete
+
+11  Financial Review
+
+23  Directors and Officers
+
+24  Shareowner Information
+
+
+<TABLE>
+FINANCIAL HIGHLIGHTS
+- - -----------------------------------------------------------------------------------------
+<CAPTION>
+(Dollars in thousands except per share data)                Year ended April 30,
+                                                  ---------------------------------------
+                                                         1994          1993          1992
+- - -----------------------------------------------------------------------------------------
+<S>                                               <C>           <C>           <C>
+Net Sales.................................        $ 1,203,086   $ 1,077,655   $   914,926
+                                                  -----------   -----------   -----------
+
+Net Earnings..............................        $    35,614   $    28,694   $    22,837
+                                                  -----------   -----------   -----------
+
+Per Share Data:
+Net Earnings:
+     Primary..............................        $      1.71   $      1.39   $      1.26
+                                                  -----------   -----------   -----------
+
+     Fully diluted........................        $      1.68   $      1.36   $      1.23
+                                                  -----------   -----------   -----------
+
+Cash Dividends Declared...................        $       .55   $       .53   $       .53
+                                                  -----------   -----------   -----------
+</TABLE>
+
+
+
+<TABLE>
+COMMON STOCK DATA
+
+
+<CAPTION>
+- - ---------------------------------------------------------------------------------------------------
+                                             Fiscal 1994                      Fiscal 1993
+                                     -----------------------------      ---------------------------
+                                        Stock Price                        Stock Price
+                                     ------------------  Dividends      ----------------- Dividends
+                                     High           Low       Paid      High          Low      Paid
+- - ---------------------------------------------------------------------------------------------------
+<S>                                  <C>        <C>        <C>          <C>       <C>       <C>
+First Quarter (July 31)..........    $20 3/4    $18        $.133        $19 3/8   $16 1/8   $.133
+Second Quarter (October 31)......     26 1/2     19 5/8     .133         19 1/2    14 1/4    .133
+Third Quarter (January 31).......     27         24 3/4     .133         18 7/8    14 7/8    .133
+Fourth Quarter (April 30)........     26 7/8     22 5/8     .150         20 1/8    15 7/8    .133
+</TABLE>
+
+Common stock of Kellwood Company is traded on the New York Stock Exchange,
+ticker symbol KWD.  At June 10, 1994, there were approximately 2,405
+shareowners.  All per share and common stock data have been adjusted to
+reflect stock splits.  The current annual dividend rate per year is $.60.
+
+1----------------------------
+GROWTH IN NET SALES
+(dollars in millions)
+
+[ GRAPH ]
+
+2-----------------------------
+GROWTH IN NET EARNINGS
+(dollars in millions)
+
+[ GRAPH ]
+
+
+3-----------------------------
+AVERAGE INVENTORY DAYS' SUPPLY
+
+[ GRAPH ]
+
+
+
+<PAGE> 2
+10
+
+REPORTS OF MANAGEMENT AND INDEPENDENT ACCOUNTANTS
+                                             Kellwood Company and Subsidiaries
+- - ------------------------------------------------------------------------------
+
+- - ------------------------------------------------------------------------------
+REPORT OF MANAGEMENT
+
+The management of Kellwood Company is responsible for the fair
+presentation of the financial statements and other financial information
+included in this report.  The financial statements have been prepared in
+conformity with generally accepted accounting principles applying estimates
+and management's best judgments as required to present fairly Kellwood
+Company's financial position, results of operations and cash flows.
+
+   The accounting systems and internal accounting controls of Kellwood are
+designed to provide reasonable assurance that the financial records are
+reliable for preparing financial statements and maintaining accountability
+for assets and that, in all material respects, assets are safeguarded against
+loss from unauthorized use or disposition.  Qualified personnel throughout
+the organization maintain and monitor these internal accounting controls on
+an ongoing basis, and internal auditors systematically review the adequacy
+and effectiveness of the controls.  Price Waterhouse also studies and
+evaluates internal controls for the purpose of establishing a basis for
+reliance thereon relative to the scope of their audits of the financial
+statements.  It is management's opinion that the Company has an effective
+system of internal accounting controls.
+
+   The Board of Directors, through its Audit Committee consisting solely of
+nonmanagement directors, meets periodically with management, the internal
+auditors and Price Waterhouse to discuss audit and financial reporting
+matters.  Both the internal auditors and Price Waterhouse have direct access
+to the Audit Committee.
+
+
+
+
+
+/s/ WILLIAM J. MCKENNA
+William J. McKenna
+Chairman, President and
+Chief Executive Officer
+
+
+
+
+
+/s/ JAMES C. JACOBSEN
+James C. Jacobsen
+Executive Vice President Administration
+(Chief Financial Officer)
+
+
+
+REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Shareowners and Board of Directors of Kellwood Company:
+
+In our opinion, the accompanying consolidated balance sheets and the
+related consolidated statements of earnings, of cash flows and of
+shareowners' equity present fairly, in all material respects, the financial
+position of Kellwood Company and its subsidiaries at April 30, 1994 and 1993,
+and the results of their operations and their cash flows for each of the
+three years in the period ended April 30, 1994, in conformity with generally
+accepted accounting principles.  These financial statements are the
+responsibility of Kellwood's management; our responsibility is to express an
+opinion on these financial statements based on our audits.  We conducted our
+audits of these statements in accordance with generally accepted auditing
+standards which require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of
+material misstatement.  An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements,
+assessing the accounting principles used and significant estimates made by
+management, and evaluating the overall financial statement presentation.  We
+believe that our audits provide a reasonable basis for the opinion expressed
+above.
+
+
+
+/s/ PRICE WATERHOUSE
+St. Louis, Missouri
+June 1, 1994
+
+
+
+<PAGE> 3
+                                                                              11
+<TABLE>
+CONSOLIDATED STATEMENT OF EARNINGS            Kellwood Company and Subsidiaries
+- - --------------------------------------------------------------------------------
+<CAPTION>
+(Dollars in thousands except per share data)
+- - --------------------------------------------------------------------------------
+                                                    Year ended April 30,
+                                          --------------------------------------
+                                                1994          1993          1992
+- - --------------------------------------------------------------------------------
+<S>                                     <C>            <C>           <C>
+Net Sales...............................  $1,203,086    $1,077,655      $914,926
+
+Costs and Expenses:
+  Cost of products sold.................     949,075       865,814       736,505
+  Selling, general and administrative
+   expenses.............................     170,232       143,771       123,404
+  Amortization of intangible assets.....      12,808         9,317         7,580
+  Gain on disposal of assets............      (3,047)       (4,089)       (5,019)
+  Interest expense......................      15,634        13,829        14,155
+  Interest income and other, net........      (2,630)       (2,881)       (3,216)
+                                          ----------    ----------      --------
+
+Earnings Before Income Taxes............      61,014        51,894        41,517
+
+Income Taxes............................      25,400        23,200        18,680
+                                          ----------    ----------      --------
+
+Net Earnings............................  $   35,614    $   28,694      $ 22,837
+                                          ----------    ----------      --------
+
+Earnings Per Share:
+
+  Primary...............................  $     1.71    $     1.39      $   1.26
+                                          ----------    ----------      --------
+
+
+  Fully diluted.........................  $     1.68    $     1.36      $   1.23
+                                          ----------    ----------      --------
+
+See notes to consolidated financial statements.
+
+</TABLE>
+
+
+
+<PAGE> 4
+
+12
+
+<TABLE>
+CONSOLIDATED BALANCE SHEET                    Kellwood Company and Subsidiaries
+- - -------------------------------------------------------------------------------
+<CAPTION>
+(Dollars in thousands except per share data)
+- - -------------------------------------------------------------------------------
+                                                                  April 30,
+                                                           --------------------
+                                                               1994        1993
+- - -------------------------------------------------------------------------------
+<S>                                                        <C>         <C>
+ASSETS
+
+Current Assets:
+  Cash, including time deposits of $6,945
+   ($10,265 in 1993)....................................   $ 17,666    $ 39,178
+  Receivables, net......................................    180,724     178,621
+  Inventories...........................................    196,017     192,432
+  Prepaid taxes and expenses............................     18,650      15,597
+                                                           --------    --------
+
+      Total Current Assets..............................    413,057     425,828
+
+Property, Plant and Equipment...........................    177,896     169,556
+  Less accumulated depreciation and amortization........    109,921     101,297
+                                                           --------    --------
+
+                                                             67,975      68,259
+
+Intangible Assets, net..................................    107,692      96,036
+Other Assets............................................     53,133      46,332
+                                                           --------    --------
+
+                                                           $641,857    $636,455
+                                                           --------    --------
+
+LIABILITIES AND SHAREOWNERS' EQUITY
+
+Current Liabilities:
+  Current portion of long-term debt.....................   $  8,916    $  7,576
+  Notes payable.........................................      9,010      93,309
+  Accounts payable......................................     63,238      63,527
+  Accrued expenses......................................     69,487      63,898
+                                                           --------    --------
+
+      Total Current Liabilities.........................    150,651     228,310
+
+Long-Term Debt..........................................    153,014     102,923
+Deferred Income Taxes and Other.........................     31,236      25,362
+Commitments and Contingencies...........................          -           -
+
+Shareowners' Equity:
+  Common stock, par value $.01 per share, authorized
+   50,000,000 shares; issued and outstanding
+   20,960,675 shares (20,712,742 in 1993)...............     90,657      85,851
+  Retained earnings.....................................    255,290     231,145
+  Cumulative translation adjustment.....................     (8,926)     (8,882)
+                                                           --------    --------
+
+                                                            337,021     308,114
+  Less treasury stock, at cost..........................     30,065      28,254
+                                                           --------    --------
+
+                                                            306,956     279,860
+                                                           --------    --------
+
+
+                                                           $641,857    $636,455
+                                                           --------    --------
+
+See notes to consolidated financial statements.
+
+</TABLE>
+
+
+
+
+<PAGE> 5
+                                                                            13
+<TABLE>
+CONSOLIDATED STATEMENT OF CASH FLOWS                    Kellwood Company and Subsidiaries
+- - -----------------------------------------------------------------------------------------
+<CAPTION>
+(Dollars in thousands except per share data)
+- - -----------------------------------------------------------------------------------------
+                                                              Year ended April 30,
+                                                        ---------------------------------
+                                                            1994        1993        1992
+- - -----------------------------------------------------------------------------------------
+
+<S>                                                     <C>         <C>         <C>
+OPERATING ACTIVITIES:
+  Net earnings..........................................$ 35,614    $ 28,694    $ 22,837
+  Add (deduct) items not affecting operating
+   cash flows:
+    Depreciation and amortization.......................  25,113      21,282      18,515
+    Gain on disposal of assets..........................  (3,047)     (4,089)     (5,019)
+    Increase in prepaid pension costs...................  (6,967)     (6,900)     (6,953)
+    Deferred income taxes...............................    (540)      2,488       3,743
+    Other...............................................     767        (414)        323
+                                                        --------    --------    --------
+                                                          50,940      41,061      33,446
+
+Changes in noncash working capital components,
+ net of effects of acquisitions:
+  Receivables...........................................   6,147     (38,916)    (22,127)
+  Inventories...........................................   7,419      (1,341)    (25,418)
+  Prepaid expenses......................................     522        (263)        470
+  Accounts payable and accrued expenses.................   2,549      (8,448)     16,086
+                                                        --------    --------    --------
+       Net cash provided by (used for)
+        operating activities............................  67,577      (7,907)      2,457
+                                                        --------    --------    --------
+
+INVESTING ACTIVITIES:
+  Additions to property, plant and equipment............ (12,464)    (16,823)    (12,595)
+  Proceeds from disposal of assets......................   3,047       4,089       5,019
+  Investment in subsidiaries, net of cash acquired...... (28,324)    (42,266)    (10,301)
+  Other investing activities............................   1,084       2,627         936
+                                                        --------    --------    --------
+       Net cash (used for) investing activities......... (36,657)    (52,373)    (16,941)
+                                                        --------    --------    --------
+
+FINANCING ACTIVITIES:
+  Proceeds from (reduction of) notes payable, net....... (95,389)     77,144     (15,399)
+  Proceeds from issuance of long-term debt..............  60,000           -           -
+  Reduction of long-term debt...........................  (8,569)     (9,550)     (7,371)
+  Proceeds from public sale of common stock.............       -           -      45,102
+  Stock transactions under incentive plans..............   2,995       2,094       1,121
+  Dividends paid........................................ (11,469)    (11,019)     (9,496)
+                                                        --------    --------    --------
+       Net cash (used for) provided by financing
+        activities...................................... (52,432)     58,669      13,957
+                                                        --------    --------    --------
+Net (decrease) in cash and time deposits................ (21,512)     (1,611)       (527)
+Cash and time deposits - beginning of year..............  39,178      40,789      41,316
+                                                        --------    --------    --------
+Cash and time deposits - end of year....................$ 17,666    $ 39,178    $ 40,789
+                                                        --------    --------    --------
+
+See notes to consolidated financial statements.
+
+</TABLE>
+
+
+
+
+<PAGE> 6
+14
+
+<TABLE>
+CONSOLIDATED STATEMENT OF SHAREOWNERS' EQUITY                 Kellwood Company and Subsidiaries
+- - -----------------------------------------------------------------------------------------------
+<CAPTION>
+(Dollars in thousands except per share data)
+- - -----------------------------------------------------------------------------------------------
+                                        Common Stock         Treasury                Cumulative
+                                   ----------------------       Stock    Retained   Translation
+                                       Shares      Amount      Amount    Earnings    Adjustment
+- - -----------------------------------------------------------------------------------------------
+<S>                                <C>           <C>         <C>         <C>         <C>
+Balance, May 1, 1991..........     17,696,846    $ 58,306    $(49,363)   $200,129      $ (8,849)
+  Net earnings................                                             22,837
+  Cash dividends declared,
+   $.53 per share.............                                             (9,496)
+  Public sale of common stock.      2,587,500      22,090      23,012
+  Shares issued under stock
+   plans......................        300,217       2,715
+  Treasury stock acquired in
+   conjunction with incentive
+   plans......................        (89,142)                 (1,594)
+  Debentures converted........         40,875         251
+  Currency translation
+   adjustment.................                                                               (5)
+                                   ----------    --------    --------    --------      --------
+Balance, April 30, 1992.......     20,536,296      83,362     (27,945)    213,470        (8,854)
+  Net earnings................                                             28,694
+  Cash dividends declared,
+   $.53 per share.............                                            (11,019)
+  Shares issued under stock
+   plans......................        179,867       2,403
+  Treasury stock acquired in
+   conjunction with incentive
+   plans......................        (16,990)                   (309)
+  Debentures converted........         13,569          86
+  Currency translation
+   adjustment.................                                                              (28)
+                                   ----------    --------    --------    --------      --------
+Balance, April 30, 1993.......     20,712,742      85,851     (28,254)    231,145        (8,882)
+  Net earnings................                                             35,614
+  Cash dividends declared,
+   $.55 per share.............                                            (11,469)
+  Shares issued under stock
+   plans......................        292,579       4,585          71
+  Treasury stock acquired in
+   conjunction with incentive
+   plans......................        (80,627)                 (1,882)
+  Debentures converted........         35,981         221
+  Currency translation
+   adjustment.................                                                              (44)
+                                   ----------    --------    --------    --------      --------
+Balance, April 30, 1994.......     20,960,675    $ 90,657    $(30,065)   $255,290      $ (8,926)
+                                   ----------    --------    --------    --------      --------
+
+See notes to consolidated financial statements.
+
+</TABLE>
+
+
+
+<PAGE> 7
+
+                                                                             15
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS    Kellwood Company and Subsidiaries
+- - -------------------------------------------------------------------------------
+
+(Dollars in thousands except per share data)
+- - -------------------------------------------------------------------------------
+
+
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+ 1.   PRINCIPLES OF CONSOLIDATION: The consolidated financial statements include
+the accounts of the Company and all majority-owned subsidiaries. Substantially
+all foreign subsidiaries are consolidated based upon a fiscal year ending March
+31.  All significant intercompany accounts and transactions have been
+eliminated.
+
+
+ 2.   INVENTORIES AND REVENUE RECOGNITION: Inventories are stated at the lower
+of cost or market.  The first-in, first-out (FIFO) method is used to determine
+the value of 54% of the domestic inventories, and the last-in, first-out
+(LIFO) method is used to value the remaining domestic inventories.  Inventories
+of foreign subsidiaries are valued using the specific identification method.
+Sales are recognized when goods are shipped.
+
+
+ 3.   PROPERTY, PLANT AND EQUIPMENT: Property, plant and equipment are stated at
+cost.  A significant portion of domestic manufacturing facilities and some
+machinery and equipment are leased under long-term capital leases which are
+recorded at the beginning of the lease term at the present value of the minimum
+lease payments.
+      Depreciation is computed generally on the declining balance method over
+estimated useful lives of 15 to 40 years for buildings and of 3 to 10 years for
+machinery and equipment. Leasehold improvements are amortized principally on the
+straight-line basis over the shorter of their estimated useful lives or the
+remaining lease term.
+
+
+ 4.   INTANGIBLE ASSETS: The excess costs over net tangible assets of businesses
+acquired are recorded as intangible assets.  These intangibles are amortized
+using the straight-line method over their estimated useful lives which range
+from 1 to 20 years.
+
+
+ 5.   POSTRETIREMENT BENEFITS OTHER THAN PENSIONS: Effective in 1994, Kellwood
+adopted Statement of Financial Accounting Standards (SFAS) No. 106, "Employers'
+Accounting for Postretirement Benefits Other Than Pensions."  The principles of
+SFAS 106 require recognition of postretirement benefits on an accrual basis.
+The adoption of SFAS 106 had an insignificant effect on the Company's financial
+position and results of operations.
+
+
+ 6.   INCOME TAXES: Effective in 1993, Kellwood adopted Statement of Financial
+Accounting Standards (SFAS) No. 109, "Accounting for Income Taxes."  The
+adoption of SFAS 109 had an insignificant effect on the Company's financial
+position and results of operations.
+      In accordance with the requirements of SFAS 109, deferred income taxes are
+recognized for the effect of temporary differences between the financial
+statement and income tax basis of assets and liabilities.  For 1992, deferred
+taxes were recognized for the effect of timing differences between financial
+and tax reporting in accordance with the requirements of Accounting Principles
+Board Opinion (APB) No. 11.
+
+
+ 7.   FOREIGN CURRENCY TRANSLATION: Foreign currency financial statements and
+transactions are translated into United States dollars using period-end rates of
+exchange for assets and liabilities and monthly average rates of exchange for
+sales, costs and expenses.  Gains and losses resulting from translation are
+accumulated in the Cumulative Translation Adjustment component of Shareowners'
+Equity.  Gains or losses from foreign currency transactions are included in
+income in the period in which they occur.  The net foreign currency gains and
+losses recognized in 1994, 1993 and 1992 were not significant.
+
+
+ 8.   EARNINGS PER SHARE: Primary earnings per share are computed by dividing
+net earnings by the weighted average number of shares of common stock
+outstanding of 20,851,328 for the year ended April 30, 1994 (20,655,642 for 1993
+and 18,083,040 for 1992).  Common stock equivalents are excluded from the
+primary earnings per share computation because their dilutive effect is not
+significant. During 1994, 35,981 shares of common stock were issued upon
+conversion of 9% convertible subordinated debentures.  Had the conversions taken
+place on May 1, 1993, primary earnings per share for 1994 would not have been
+significantly different.
+      In March 1992, 2,587,500 shares of common stock, previously held as
+treasury stock, were sold through a public offering. Proceeds from the sale of
+the stock were used in part to repay domestic short-term borrowings under demand
+notes.  Had the portion of the offering necessary to repay such year-to-date
+average borrowings of $29,719 been outstanding since May 1, 1991, and
+considering the related reduction in after tax interest expense, primary
+earnings per share would have been $1.21 for 1992.
+      The calculation of fully diluted earnings per share includes common stock
+equivalents in addition to the weighted average shares outstanding as defined
+above and assumes that all convertible debentures were converted to common stock
+at the beginning of the year.  The average number of shares used in the fully
+diluted computation was 21,251,760 in 1994 (21,036,805 in 1993 and 18,565,300 in
+1992).  Net earnings are increased by the after tax interest on the convertible
+debentures in the computation of fully diluted earnings per share.
+
+<PAGE> 8
+
+16
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS    Kellwood Company and Subsidiaries
+- - -------------------------------------------------------------------------------
+
+(Dollars in thousands except per share data)
+- - -------------------------------------------------------------------------------
+
+ACQUISITIONS:
+
+On July 1, 1993, all of the capital stock of Goodman Knitting
+Co., Inc., a designer and marketer of branded apparel, was
+purchased for cash.  The acquisition has been accounted for
+using the purchase method and, accordingly, the results of
+operations are included in the Consolidated Statement of Earnings
+from the date of acquisition.  Assets acquired and liabilities
+assumed were recorded at their estimated fair market value, and
+the excess costs over net tangible assets are being amortized
+over the estimated useful lives of the related intangible assets.
+Had the purchase taken place May 1, 1992, unaudited pro forma
+consolidated net sales would have been $1,210,838 and $1,128,775
+for the years ended April 30, 1994 and 1993, respectively.
+Consolidated net earnings and earnings per share would not have
+been significantly different.
+      All of the capital stock of AJ Brandon, Inc., and California
+Ivy, Inc., was purchased for cash on December 30, 1992, and
+July 10, 1992, respectively.  Both companies design and market
+branded sportswear apparel.  These acquisitions were also
+accounted for using the purchase method with the excess costs
+over net tangible assets being amortized over the estimated
+useful lives of the related intangible assets.  Had the purchases
+taken place May 1, 1991, unaudited pro forma consolidated net
+sales would have been $1,137,170 and $1,036,211 for the years
+ended April 30, 1993 and 1992, respectively.  Consolidated net
+earnings and earnings per share would not have been significantly
+different.
+
+
+ALLOWANCE FOR DOUBTFUL ACCOUNTS:
+
+The allowance for doubtful accounts at April 30, 1994, was
+$4,273  ($4,118 at April 30, 1993).
+
+
+INVENTORIES:
+
+Inventory valued under the LIFO method totalled $71,211 at April
+30, 1994 ($72,693 at April 30, 1993).  The remainder of the
+inventory was valued using the FIFO and specific identification
+methods. If LIFO inventories had been valued at current
+replacement costs, they would have totalled $80,382 at April 30,
+1994 ($81,687 at April 30, 1993).
+
+<TABLE>
+<CAPTION>
+- - ---------------------------------------------------------------------------
+April 30,                                                  1994        1993
+- - ---------------------------------------------------------------------------
+<S>                                                   <C>         <C>
+Finished goods...................................     $  81,998   $  82,160
+Work in process..................................        46,896      48,966
+Raw materials....................................        67,123      61,306
+                                                      ---------   ---------
+                                                      $ 196,017   $ 192,432
+                                                      ---------   ---------
+</TABLE>
+
+
+PROPERTY, PLANT AND EQUIPMENT:
+
+
+<TABLE>
+<CAPTION>
+- - ---------------------------------------------------------------------------
+April 30,                                                  1994        1993
+- - ---------------------------------------------------------------------------
+<S>                                                   <C>         <C>
+Land..............................................    $   3,068   $   3,611
+Buildings and improvements........................       82,567      77,641
+Machinery and equipment...........................       92,261      88,304
+                                                      ---------   ---------
+                                                        177,896     169,556
+
+Less accumulated depreciation
+ and amortization.................................      109,921     101,297
+                                                      ---------   ---------
+                                                      $  67,975   $  68,259
+                                                      ---------   ---------
+</TABLE>
+
+
+The amounts above include the cost and accumulated amortization
+of assets under capital leases (primarily buildings) of $21,940
+and $18,817 at April 30, 1994, and $21,940 and $17,895 at April
+30, 1993.
+      Certain machinery and equipment are leased under operating
+leases having remaining terms ranging up to 6 years.  Rent
+expense under all operating leases for the year ended April 30,
+1994 totalled $11,615 ($11,942 for 1993 and $9,455 for 1992).
+
+<TABLE>
+      The future minimum lease payments under capital and
+operating leases at April 30, 1994, were as follows:
+
+
+<CAPTION>
+- - ----------------------------------------------------------------------------
+                                                         Capital  Operating
+- - ----------------------------------------------------------------------------
+<S>                                                   <C>         <C>
+1995...............................................   $      603  $  11,290
+1996...............................................          711     10,004
+1997...............................................          701      8,599
+1998...............................................          668      6,931
+1999...............................................          615      5,078
+Later years........................................        2,505      9,988
+                                                      ----------  ---------
+Total minimum lease payments.......................        5,803  $  51,890
+                                                                  ---------
+Less amount representing interest..................        1,591
+                                                      ----------
+Present value of net minimum lease payments........   $    4,212
+                                                      ----------
+</TABLE>
+
+Minimum lease payments were not reduced for future minimum
+sublease rentals of $2,104.
+
+
+
+
+
+<PAGE> 9
+                                                                             17
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS    Kellwood Company and Subsidiaries
+- - -------------------------------------------------------------------------------
+
+(Dollars in thousands except per share data)
+- - -------------------------------------------------------------------------------
+
+<TABLE>
+INTANGIBLE ASSETS:
+
+<CAPTION>
+- - ---------------------------------------------------------------------------
+April 30,                                                   1994       1993
+- - ---------------------------------------------------------------------------
+<S>                                                   <C>         <C>
+Goodwill..........................................    $   73,373  $  56,240
+Other identifiable intangibles....................        94,218     86,887
+                                                      ----------  ---------
+                                                         167,591    143,127
+Less accumulated amortization.....................        59,899     47,091
+                                                      ----------  ---------
+
+                                                      $  107,692  $  96,036
+                                                      ----------  ---------
+</TABLE>
+
+Identifiable intangible assets consist primarily of trademarks,
+customer lists, contractor networks and agreements not to
+compete.  They arise from the allocation of purchase prices of
+businesses acquired.  Values assigned to such identifiable
+intangibles were based on independent appraisals or internal
+estimates.  Goodwill represents any residual purchase price after
+allocation to all identifiable net assets.
+
+
+NOTES PAYABLE AND LONG-TERM DEBT:
+
+1.    NOTES PAYABLE: A revolving credit agreement dated July 1,
+1991, provides a $60,000 line of credit through July 1, 1994, with
+interest at the interbank rate plus 5/8% to 3/4% and a fee of
+3/10% on any unused portion.  Covenants under the credit agreement
+are substantially the same as for Kellwood's notes due insurance
+companies.  At April 30, 1994, unused committed credit under this
+facility totalled $60,000, and unused uncommitted lines of credit
+totalled $166,500 with various banks at rates less than prime.
+The Company is currently negotiating a new revolving credit
+agreement in the amount of $120,000, which will become effective
+July 1, 1994.
+      During the year ended April 30, 1994, the highest level of
+borrowings under all lines was $128,887 ($118,051 for 1993).  For
+the year, the average daily short-term borrowings were $54,840
+($60,036 for 1993) and the weighted average interest rate was
+3.8% (4.1% for 1993).
+
+<TABLE>
+2.    LONG-TERM DEBT:
+
+<CAPTION>
+- - ---------------------------------------------------------------------------
+April 30,                                                   1994       1993
+- - ---------------------------------------------------------------------------
+<S>                                                   <C>         <C>
+Notes due insurance companies, 5.34% - 10.77%.....    $  156,625  $ 103,875
+Capital lease obligations, 4.9% - 10.0%...........         4,212      5,303
+9% convertible subordinated debentures............         1,093      1,321
+                                                      ----------  ---------
+                                                         161,930    110,499
+Less current maturities...........................         8,916      7,576
+                                                      ----------  ---------
+                                                      $  153,014  $ 102,923
+                                                      ----------  ---------
+</TABLE>
+
+Aggregate maturities on long-term debt for the next five
+years are as follows:  1995 - $8,916; 1996 - $8,255; 1997 -
+$18,256; 1998 - $15,481; 1999 - $15,462.
+
+Notes payable to insurance companies are due in quarterly
+and semiannual installments from June 1994 through September
+2005.  Restrictive covenants of these notes include the
+maintenance of minimum working capital and certain key ratios as
+well as a limitation on the payment of dividends and the
+repurchase of Company stock.  Under the most restrictive
+covenants, future dividends and purchases of Company stock are
+limited to $61,706 plus 45% of net earnings after April 30, 1994,
+excluding gains and losses on the disposal of capital assets.
+      The 9% convertible subordinated debentures may be converted
+into common stock by debenture holders at a rate of $6.33 per
+share at any time prior to maturity on October 15, 1999, subject
+to certain restrictions.  Also, subject to certain restrictions,
+the debentures are redeemable, in whole or in part, at the option
+of the Company at predetermined redemption prices.  During 1994,
+$228 principal amount of these debentures was converted into
+35,981 shares of common stock.  Interest on outstanding
+debentures is paid semiannually.  The debentures are subordinated
+to senior indebtedness, as provided for in the agreements.
+
+
+<TABLE>
+ACCRUED EXPENSES:
+
+<CAPTION>
+- - ---------------------------------------------------------------------------
+April 30,                                                   1994       1993
+- - ---------------------------------------------------------------------------
+<S>                                                   <C>         <C>
+Salaries and employee benefits..............          $   27,363  $  23,991
+Income taxes................................              14,103      9,847
+Other accrued expenses......................              28,021     30,060
+                                                      ----------  ---------
+                                                      $   69,487  $  63,898
+                                                      ----------  ---------
+</TABLE>
+
+
+EMPLOYEE BENEFIT PLANS:
+
+1.    RETIREMENT PLANS AND POSTRETIREMENT BENEFITS: Various
+contributory and noncontributory retirement plans cover
+substantially all domestic and certain foreign employees. Benefits
+under pension plans are generally based on years of service and
+compensation.  Pension plans are funded in accordance with the
+applicable laws and regulations plus such amounts, if any, as the
+actuarial consultants advise to be appropriate. Company
+contributions under the contributory retirement plan are
+determined based on formulas defined in the plan.
+      The total credit under all retirement plans was $(3,569),
+$(3,661), and $(4,086) in 1994, 1993, and 1992, respectively.
+The total credits reflect $(6,638), $(6,563), and $(6,620) for
+defined benefit plans.
+
+
+<PAGE> 10
+
+18
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS    Kellwood Company and Subsidiaries
+- - -------------------------------------------------------------------------------
+
+(Dollars in thousands except per share data)
+- - -------------------------------------------------------------------------------
+<TABLE>
+The net credit for defined benefit plans included the following components:
+
+<CAPTION>
+- - -----------------------------------------------------------------------------------
+                                                           1994      1993      1992
+- - -----------------------------------------------------------------------------------
+<S>                                                    <C>       <C>       <C>
+Current service cost.................................  $  1,793  $  1,689  $  1,423
+Interest cost on projected benefit
+ obligation..........................................     3,970     3,563     3,455
+Return on assets:
+           Actual return.............................    (9,943)  (13,537)   (8,675)
+           Deferred actuarial gain...................     1,593     5,773     1,228
+                                                       --------  --------  --------
+           Assumed return............................    (8,350)   (7,764)   (7,447)
+Amortization of transition asset and
+ prior service costs.................................    (4,051)   (4,051)   (4,051)
+                                                       --------  --------  --------
+           Net pension credit........................  $ (6,638) $ (6,563) $ (6,620)
+                                                       --------  --------  --------
+</TABLE>
+
+
+<TABLE>
+The funded status of the defined benefit plans at April 30 was as follows:
+
+<CAPTION>
+- - ------------------------------------------------------------------------------------
+                                                                     1994       1993
+- - ------------------------------------------------------------------------------------
+<S>                                                             <C>        <C>
+Plan assets at fair value.....................................  $ 114,873  $ 110,417
+Actuarial present value of benefit obligation:
+           Vested benefits....................................     41,694     38,393
+           Nonvested benefits.................................      2,976      2,954
+                                                                ---------  ---------
+           Accumulated benefit obligation.....................     44,670     41,347
+           Impact of future salary increases..................      4,400      3,880
+                                                                ---------  ---------
+Projected benefit obligation..................................     49,070     45,227
+                                                                ---------  ---------
+Plan assets in excess of projected benefit obligation.........     65,803     65,190
+Unamortized transition asset..................................    (15,280)   (19,208)
+Unamortized prior service costs...............................       (560)      (684)
+Unrecognized actuarial gains..................................     (2,898)    (5,200)
+                                                                ---------  ---------
+           Prepaid pension costs included in other assets.....  $  47,065  $  40,098
+                                                                ---------  ---------
+</TABLE>
+
+The assumed long-term rate of return on plan assets used in
+determining the projected benefit obligation was 8.0%.  The
+discount rate was 8.25% for 1994 and 8.5% for 1993 and 1992.  The
+rate of increase in future compensation levels was 5.5% for 1994
+and 6% for 1993 and 1992.  The change in actuarial assumptions
+had an insignificant effect on the net pension credit for 1994.
+The assets of the retirement plans consist primarily of U.S.
+Government obligations, corporate debt obligations, short-term
+marketable debt securities, marketable equity securities and
+guaranteed income contracts.
+      The Company provides health care insurance benefits to
+certain employees upon retirement.  The annual costs of these
+benefits in 1994, 1993 and 1992 were not significant.
+
+2.    INCENTIVE COMPENSATION PLANS: Options to purchase common
+stock have been granted to key employees under various plans at
+option prices not less than the fair market value on the date of
+the grant.  At April 30, 1994, 122 officers and other key
+employees held options to purchase shares.  The options expire 10
+years after grant on dates ranging from May 1994 to February 2004
+and are exercisable in  cumulative installments only after stated
+intervals of time and are conditional upon active employment,
+except for periods following disability or retirement.
+
+<TABLE>
+Stock options outstanding under all plans were as follows:
+- - ------------------------------------------------------------------------------------
+<S>
+Shares under option:                                                       <C>
+      Balance, May 1, 1993...............................................    857,328
+      Granted, ranging from $19.96 to $20.50 per share...................    283,200
+      Cancelled..........................................................     (4,352)
+      Exercised, ranging from $5.07 to $18.46 per share..................   (232,248)
+                                                                           ---------
+
+      Balance, April 30, 1994............................................    903,928
+                                                                           ---------
+Shares exercisable at April 30, 1994:
+      Number of shares exercisable.......................................    199,768
+                                                                           ---------
+      Price range of options:  From......................................  $    6.04
+                                                                           ---------
+                               To........................................  $   18.46
+                                                                           ---------
+      Average exercise price.............................................  $   13.16
+                                                                           ---------
+</TABLE>
+
+
+The amended Restricted Stock Compensation Plan of 1969 and
+the Corporate Development Incentive Plan of 1986 provide for the
+granting of common stock to key employees as performance and
+incentive bonuses.  The shares granted may not be transferred,
+sold, pledged or otherwise disposed of prior to the lapse of
+certain restrictions.  Under the plans, $1,459 was charged to
+earnings in 1994 for shares to be issued after the end of the
+year ($1,062 in 1993 and $1,320 in 1992).  At April 30, 1994,
+473,613 shares were available to be granted under these plans to
+qualified employees.
+
+
+CAPITAL STOCK:
+
+The Board of Directors declared a three-for-two split of the
+common stock effective March 18, 1994.  All share and per share
+data for the periods presented in the consolidated financial
+statements and notes thereto have been adjusted to reflect the
+split.
+      The reported outstanding shares of common stock have been
+reduced by treasury stock totalling 3,232,992 shares at April 30,
+1994 (3,159,990 at April 30, 1993, and 3,143,000 at April 30,
+1992).
+      Authorized capital includes 500,000 shares of preferred
+stock, none of which have been issued.  Nonvoting share purchase
+rights, exercisable only upon satisfaction of certain conditions,
+entitle the holder to purchase Series A Junior Preferred Stock
+(160,000 shares reserved) or, under certain conditions, common
+shares at prices specified in the rights agreement.  None of the
+rights were exercisable as of April 30, 1994.
+
+<PAGE> 11
+                                                                             19
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS    Kellwood Company and Subsidiaries
+- - -------------------------------------------------------------------------------
+
+(Dollars in thousands except per share data)
+- - -------------------------------------------------------------------------------
+
+GAIN ON DISPOSAL OF ASSETS:
+
+The gain on disposal of assets represents gains on the sale
+of certain excess export quota rights.
+
+<TABLE>
+INTEREST INCOME AND OTHER, NET:
+
+<CAPTION>
+- - -------------------------------------------------------------------------------------
+Year ended April 30,                                     1994        1993        1992
+- - -------------------------------------------------------------------------------------
+<S>                                                 <C>         <C>         <C>
+Interest income...........................                839       1,146       2,171
+Other, net................................              1,791       1,735       1,045
+                                                    ---------   ---------   ---------
+                                                    $   2,630   $   2,881   $   3,216
+                                                    ---------   ---------   ---------
+</TABLE>
+
+INCOME TAXES:
+
+<TABLE>
+The provision for income taxes consisted of:
+
+<CAPTION>
+- - -------------------------------------------------------------------------------------
+Year ended April 30,                                     1994        1993        1992
+- - -------------------------------------------------------------------------------------
+<S>                                                 <C>         <C>         <C>
+Current:
+           Domestic:
+             Federal..............................  $  19,784   $  14,893   $  10,902
+             State................................      3,000       3,500       2,252
+           Foreign................................      3,156       2,319       1,783
+                                                    ---------   ---------   ---------
+                                                       25,940      20,712      14,937
+
+Deferred (primarily federal)......................       (540)      2,488       3,743
+                                                    ---------   ---------   ---------
+                                                    $  25,400   $  23,200   $  18,680
+                                                    ---------   ---------   ---------
+</TABLE>
+
+
+<TABLE>
+Current income taxes are the amounts payable under the
+respective tax regulations on each year's earnings and on foreign
+earnings remitted during the year.  Deferred income taxes
+included the following:
+
+<CAPTION>
+- - -------------------------------------------------------------------------------------
+Year ended April 30,                                     1994        1993        1992
+- - -------------------------------------------------------------------------------------
+<S>                                                 <C>         <C>         <C>
+Employee related costs....................          $   1,671   $   4,103   $   1,409
+Depreciation and amortization.............               (299)     (1,417)        265
+Allowance for asset valuations............             (1,235)       (905)        625
+Provision for business and
+ facilities realignment...................                 76         (86)        726
+Other.....................................               (753)        793         718
+                                                    ---------   ---------   ---------
+                                                    $    (540)  $   2,488   $   3,743
+                                                    ---------   ---------   ---------
+</TABLE>
+
+
+<TABLE>
+A reconciliation of the federal statutory income tax rate to the
+effective tax rate (provision for taxes) was as follows:
+
+<CAPTION>
+
+- - -------------------------------------------------------------------------------------
+Year ended April 30,                                       1994      1993      1992
+- - -------------------------------------------------------------------------------------
+<S>                                                        <C>       <C>       <C>
+Statutory rate......................................       35.0%     34.0%     34.0%
+Foreign tax differences.............................        -         3.2       -
+Amortization of intangible assets...................        5.6       4.1       5.2
+State tax...........................................        3.2       4.5       4.3
+Other...............................................       (2.2)     (1.1)      1.5
+                                                           ----      ----      ----
+                                                           41.6%     44.7%     45.0%
+                                                           ----      ----      ----
+</TABLE>
+
+<TABLE>
+Deferred income tax liabilities and assets consisted of the
+following:
+<CAPTION>
+- - ------------------------------------------------------------------------------------
+April 30,                                                            1994       1993
+- - ------------------------------------------------------------------------------------
+<S>                                                            <C>         <C>
+Employee related costs..................................       $   11,647  $   9,943
+Depreciation and amortization...........................           12,114      9,274
+Allowance for asset valuations..........................           (5,950)    (4,899)
+Other ..................................................           (2,365)      (983)
+                                                               ----------  ---------
+                                                               $   15,446  $  13,335
+                                                               ----------  ---------
+Included in:
+Prepaid taxes and expenses..............................       $  (14,557) $ (11,139)
+Deferred income taxes and other.........................           30,003     24,474
+                                                               ----------  ---------
+                                                               $   15,446  $  13,335
+                                                               ----------  ---------
+</TABLE>
+
+Earnings before income taxes included $17,319 of Far East
+earnings in 1994 ($15,298 in 1993 and $13,339 in 1992).
+      Federal income taxes are provided on earnings of foreign
+subsidiaries except to the extent that such earnings are expected
+to be indefinitely reinvested abroad.  Undistributed foreign
+earnings considered to be indefinitely reinvested abroad totalled
+$84,251 through April 30, 1994.
+
+
+CASH FLOWS:
+
+For purposes of the Consolidated Statement of Cash Flows, all
+highly liquid short-term time deposits maintained under cash
+management activities are considered cash equivalents.  The effect
+of foreign currency exchange rate fluctuations on cash and
+time deposits was not significant for the years ended April 30,
+1994, 1993 and 1992.
+      Interest paid in 1994 was $14,838 ($13,736 in 1993 and
+$14,359 in 1992) and income taxes paid were $18,700 ($14,822 in
+1993 and $16,882 in 1992).  Liabilities assumed in connection
+with the Investment in Subsidiaries totalled $16,491 in 1994 and
+$20,065 in 1993.  Cash acquired totalled $208 in 1993.  No
+liabilities were assumed in 1992, and no cash was acquired in
+1994 and 1992.
+
+SIGNIFICANT CUSTOMERS:
+
+Sales to J.C. Penney Company, Inc., totalled $150,130 for the year
+ended April 30, 1994 ($112,687 for 1993 and $63,666 for 1992).
+Receivables included $16,994 due from J.C. Penney at April 30, 1994
+($20,386 at April 30, 1993).
+      Sales to Sears, Roebuck and Co. totalled $112,236 for the
+year ended April 30, 1994 ($156,295 for 1993 and $154,192 for
+1992).  Receivables included $20,511 due from Sears at April 30,
+1994 ($31,078 at April 30, 1993).
+
+<PAGE> 12
+
+20
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS    Kellwood Company and Subsidiaries
+- - -------------------------------------------------------------------------------
+
+(Dollars in thousands except per share data)
+- - -------------------------------------------------------------------------------
+
+COMMITMENTS AND CONTINGENCIES:
+
+There are various lawsuits and other legal proceedings against the
+Company.  Management and general counsel are of the opinion that the
+ultimate disposition of such litigation will have no material adverse
+effect on the Company's financial position or results of operations.
+
+
+<TABLE>
+SELECTED QUARTERLY DATA (UNAUDITED):
+
+<CAPTION>
+- - -------------------------------------------------------------------------------------
+Quarter                                      First     Second       Third     Fourth
+- - -------------------------------------------------------------------------------------
+<S>                                      <C>        <C>         <C>        <C>
+Fiscal 1994:
+    Net sales....................        $ 298,480  $ 342,058   $ 251,600  $ 310,948
+    Gross profit.................           62,329     72,185      50,950     68,547
+    Net earnings.................            9,908     10,706       3,509     11,491
+    Earnings per share:
+      Primary....................              .48        .51         .17        .55
+      Fully diluted..............              .47        .50         .17        .54
+Fiscal 1993:
+    Net sales....................        $ 250,931  $ 281,830   $ 235,893  $ 309,001
+    Gross profit.................           49,744     53,162      43,159     65,776
+    Net earnings.................            8,436      7,432       2,469     10,357
+    Earnings per share:
+      Primary....................              .41        .36         .12        .50
+      Fully diluted..............              .40        .35         .12        .49
+
+
+NOTE:  Quarterly results reflect pretax gains on disposal of
+assets of $3,047 and $3,391 in the first quarter of 1994 and
+1993, respectively, and $698 in the fourth quarter of 1993.
+
+</TABLE>
+
+
+INDUSTRY SEGMENT AND GEOGRAPHIC AREA INFORMATION:
+
+All operations are in the apparel and related soft goods
+industry.  A summary of operations by geographic area is
+presented in the column to the right.  Substantially all
+Domestic and Far East sales are to U.S. customers.  Sales
+and transfers between geographic areas were not significant
+and intercompany accounts have been eliminated.
+
+<TABLE>
+<CAPTION>
+- - ------------------------------------------------------------------------------------
+Year ended April 30,                                    1994         1993       1992
+- - ------------------------------------------------------------------------------------
+<S>                                             <C>           <C>          <C>
+Net sales to customers:
+    Domestic............................        $  1,044,409  $   914,541  $ 759,322
+    Far East............................             158,677      163,114    155,604
+                                                ------------  -----------  ---------
+                                                $  1,203,086  $ 1,077,655  $ 914,926
+                                                ------------  -----------  ---------
+Operating profit:
+    Domestic............................        $     78,208  $    63,347  $  56,821
+    Far East............................              14,375       11,275      8,454
+                                                ------------  -----------  ---------
+                                                      92,583       74,622     65,275
+Gain on disposal of assets..............               3,047        4,089      5,019
+Interest expense........................             (15,634)     (13,829)   (14,155)
+General corporate expense...............             (18,982)     (12,988)   (14,622)
+                                                ------------  -----------  ---------
+Earnings before income taxes............        $     61,014  $    51,894  $  41,517
+                                                ------------  -----------  ---------
+Assets at end of year:
+    Domestic............................        $    475,639  $   465,943  $ 360,144
+    Far East............................             103,269       99,162    108,677
+    Corporate...........................              62,949       71,350     69,171
+                                                ------------  -----------  ---------
+                                                $    641,857  $   636,455  $ 537,992
+                                                ------------  -----------  ---------
+Capital expenditures:
+    Domestic............................        $      6,666  $    11,913  $   6,274
+    Far East............................               5,368        4,341      6,025
+    Corporate...........................                 430          569        296
+                                                ------------  -----------  ---------
+                                                $     12,464  $    16,823  $  12,595
+                                                ------------  -----------  ---------
+Depreciation and amortization:
+    Domestic............................        $     19,745  $    15,815  $  13,447
+    Far East............................               4,038        4,140      3,763
+    Corporate...........................               1,330        1,327      1,305
+                                                ------------  -----------  ---------
+                                                $     25,113  $    21,282  $  18,515
+                                                ------------  -----------  ---------
+
+
+All of the gains on disposal of assets were Far East gains.
+</TABLE>
+
+<TABLE>
+SUPPLEMENTAL SELECTED FINANCIAL DATA
+<CAPTION>
+- - ----------------------------------------------------------------------------------------------------------
+(Dollars in thousands except per share data)           1994         1993       1992        1991       1990
+- - ----------------------------------------------------------------------------------------------------------
+<S>                                             <C>          <C>          <C>         <C>        <C>
+Net sales..................................     $ 1,203,086  $ 1,077,655  $ 914,926   $ 807,953  $ 779,866
+Net earnings...............................          35,614       28,694     22,837      12,447     14,025
+Earnings per share:
+     Primary...............................            1.71         1.39       1.26         .70        .80
+     Fully diluted.........................            1.68         1.36       1.23         .69        .78
+Cash dividends declared per share..........             .55          .53        .53         .53        .53
+Working Capital............................         262,406      197,518    218,931     177,940    181,605
+Total assets...............................         641,857      636,455    537,992     484,312    468,901
+Long-term debt.............................         153,014      102,923    110,566     120,009    127,781
+Total debt.................................         170,940      203,808    126,589     149,618    155,162
+Shareowners' equity........................         306,956      279,860    260,033     200,223    197,099
+Equity per share...........................           14.64        13.51      12.66       11.31      11.17
+
+
+NOTE:  All per share data have been adjusted to reflect stock splits.
+</TABLE>
+<PAGE> 13
+
+                                                                             21
+
+SUPPLEMENTAL DATA                             Kellwood Company and Subsidiaries
+- - -------------------------------------------------------------------------------
+
+
+- - -------------------------------------------------------------------------------
+
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS (UNAUDITED)
+
+Domestic operations include marketing-oriented branded businesses
+offering apparel and camping soft goods, and manufacturing-oriented
+private label units offering apparel and home fashions product lines.
+Domestic operations produce goods in the United States, the
+Caribbean, and Canada.  Far East operations produce high quality,
+competitively priced, private label cotton and cotton-blended shirts
+and blouses in Hong Kong, China, Sri Lanka, Saipan and Costa Rica.
+In addition to the Company's owned and leased plants, products are
+sourced through contracting relationships with other manufacturers in
+various countries.  The Company sells its products through multiple
+channels of distribution, including national retail chains,
+department stores, specialty stores, mass merchants, mail order
+houses, sporting goods stores and other manufacturers.
+
+
+RESULTS OF OPERATIONS
+
+FISCAL 1994
+
+Kellwood Company achieved record sales and net earnings for the year
+ended April 30, 1994.  The fiscal 1994 growth came from a combination
+of internal growth and acquisitions.  The internal growth was
+attributable to increased volume with existing and new accounts as
+well as several marketing programs initiated in 1994. These marketing
+programs also provide growth opportunities for the upcoming fiscal
+year and beyond.
+      Sales by Domestic branded operations were up $175 million or
+28% reflecting the continued success of Kellwood's acquisition
+strategy.  The increase in branded sales is approximately 55%
+attributable to recent acquisitions with the remaining 45% from
+internal growth of existing business units.  Sales from the
+branded portfolio accounted for 66% of Kellwood's total volume
+for fiscal 1994.  This compares to 58% last year and puts the
+Company well on its way to achieving its goal of 75% from the
+branded sector.  The growth in the Domestic branded operations
+with their overall higher margins contributed significantly to
+the improvement in total Company earnings.
+      Sales by Domestic private label operations were down 16%, or
+$45 million, below the level reported last year principally
+because Sears closed its catalog operation.  Operating profits in
+the Domestic private label portfolio were adversely affected by
+the decline in sales and by continuing margin pressure,
+especially in the lingerie market.
+      Sales by Far East operations, principally of high quality
+private label shirts sold to U.S. department stores and premier
+mail order houses, decreased $4 million or 3% below the prior
+year.  The decline in sales was caused by changes in capacity as
+production was shifted among plants.  During 1994, Kellwood's
+manufacturing capacity was expanded in China and Sri Lanka, and
+productivity was improved in Saipan and Hong Kong.  Far East
+operating margins improved significantly from last year because
+of these changes.
+      Sales to J.C. Penney in 1994 exceeded $150 million, an
+increase of $37 million, or 33% over 1993.  J.C. Penney is now
+Kellwood's largest customer and is being serviced by all 15
+operating units of the Company.
+      Improved earnings were achieved as the result of greater
+sales volume, more effective sourcing, increased branded product
+sales, and a reduction in the overall effective tax rate.  The
+increase in amortization expense results from increased
+intangible assets associated with recent acquisitions.  The
+increase in interest expense correlates with the increase in
+average outstanding debt.  The decrease in the effective tax rate
+is due to changes in the earnings mix.
+      Operating results include gains in the disposal of certain
+excess export quota rights.  Additional quota disposals, which
+would result in gains, are continually evaluated based upon
+operating needs and market conditions.  Quota prices for the
+categories held by Kellwood have dropped substantially since the
+first quarter of fiscal 1994.
+
+
+FISCAL 1993
+
+In terms of results and positioning the Company for future growth,
+1993 was a productive year for Kellwood.  Sales increased 18% in
+1993, and net earnings increased 26%.  The growth in sales was broad-
+based across all three business portfolios and every channel of
+distribution.
+      The sales increase was most significant in the Domestic
+branded portfolio which experienced an increase of 27% or $134.5
+million for the year.  Approximately half of the increase was due
+to the acquisitions of California Ivy, Inc., and AJ Brandon, Inc.
+The Domestic branded businesses with their overall higher margins
+continued to contribute significantly to total earnings; however,
+their profits were partially offset by costs associated with
+restructuring Kellwood's two start-up divisions into other
+business units.
+      Sales to Sears, which represented 15% of total Kellwood
+sales in 1993, increased 1% as the result of additional volume
+from Domestic branded and Far East operations even though there
+was
+
+<PAGE> 14
+
+22
+
+SUPPLEMENTAL DATA                             Kellwood Company and Subsidiaries
+- - -------------------------------------------------------------------------------
+
+
+- - -------------------------------------------------------------------------------
+
+
+a 4% decline in Domestic private label sales to Sears.  Total
+sales by Domestic private label units were up 8%, or $21 million,
+because of additional business with customers other than Sears.
+      Sales by Far East operations increased 5%, or $7.5 million.
+Far East operating margins improved significantly from 1992
+because of a shift of production from operations in Taiwan to
+more efficient plants in Hong Kong, China and Sri Lanka.
+      The 26% increase in net earnings for 1993 was primarily
+attributable to increased volume, improved operating efficiency
+and product sourcing, and a shift in mix to higher margin branded
+volume.  These gains were partially offset by the higher
+amortization expense of intangible assets associated with recent
+acquisitions and lower income from the disposal of certain excess
+export quota rights in Hong Kong.
+
+
+FISCAL 1992
+
+Sales by Domestic branded units increased $70 million, or 17%,
+including a $62 million, or 15%, increase in ongoing branded
+businesses and additional volume attributable to decorp, acquired
+in October 1990.  Sales have increased across Kellwood's various
+branded product offerings with sales to the national retail
+chains and specialty stores showing the largest growth.  Sales to
+Sears increased 4% because of the additional branded volume, even
+though there was a 2% decline in Domestic private label sales to
+Sears.  Total sales by Domestic private label units were up 7%
+because of additional business with customers other than Sears.
+Sales by Far East operations increased $20 million, or 15%, in
+1992 because of strong demand for their high-quality products and
+a broadening of Smart Shirts' customer base.
+      Gross profit margin increased to 20% of sales in 1992
+reflecting improvements by both Domestic and Far East operations.
+The improvement in overall operating results was primarily
+attributable to higher volume and better gross margins generated
+by Domestic branded businesses.  Operating problems related to
+plants in Costa Rica and Saipan adversely affected earnings
+before income taxes by $3 million in 1992.  The 83% increase in
+net earnings for 1992 reflects the improvement in sales and
+margins and lower interest expense, even though gains on disposal
+of assets and interest income were down.  The 1992 gain on disposal
+of assets represents gains on the sale of certain excess export quota
+rights in Hong Kong.
+
+
+FINANCIAL CONDITION
+
+The current ratio was 2.7 to 1 at April 30, 1994, as compared to 1.9
+to 1 at April 30, 1993.  Accounts receivable and inventory levels,
+especially after netting for the effects of recent acquisitions, are
+at very satisfactory levels.  The improved net accounts receivable
+and inventory levels contributed significantly to the increase in
+cash provided by operating activities.
+      The decrease in the cash used for investing activities
+resulted primarily from the completion of only one significant
+acquisition (Goodman Knitting Co.) during 1994 versus two
+acquisitions (AJ Brandon, Inc. and California Ivy, Inc.) last
+year.  Viable acquisition candidates that would expand and
+complement Kellwood's existing portfolio of companies are
+continually being considered.  Capital expenditures, excluding
+acquisitions and related payments, were $12.5 million in 1994,
+compared with $16.8 million in 1993 and $12.6 million in 1992.
+There are no material commitments for capital expenditures as of
+April 30, 1994.  Ten million dollars was repatriated from Far
+East operations in 1994, compared with $20 million in 1993 and
+$10 million in 1992.
+      Total debt represents 36% of capitalization at April 30,
+1994, compared to 42% at April 30, 1993.  During 1994, Kellwood
+converted $60 million of its short-term borrowings to long-term
+debt.  The remaining short-term borrowings were repaid with cash
+generated from operations.  The Company is currently negotiating
+a $120 million fully committed revolving credit agreement that
+will replace its current $60 million agreement which expires on
+July 1, 1994.
+      Cash provided by operations and borrowings under various
+lines of credit are the primary sources of liquidity.  The
+combined operating, cash and equity position of the Company
+should continue to provide the capital flexibility necessary to
+fund future opportunities and to meet existing obligations.
+
+
+OUTLOOK
+
+Almost every economic indicator points to an improving economy and a
+more receptive consumer.  The consumer, while perhaps more willing to
+buy, is definitely looking for value when shopping for apparel.  This
+plays to one of the Company's core strengths.  Kellwood is poised to
+respond through its market niche brands and broad based private label
+capability.
+
+<PAGE> 15
+                          Appendix
+
+     The Inside Front Cover of the printed Annual Report includes three
+bar graphs. The first bar graph plots the Growth in Net Sales for 1992,
+1993, and 1994.  The second bar graph plots the Growth in Net Earnings
+for 1992, 1993, and 1994.  The third bar graph plots the Average
+Inventory Days' Supply for 1992, 1993, and 1994.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>4
+<DESCRIPTION>SUBSIDIARIES OF THE REGISTRANT
+<TEXT>
+
+<PAGE> 1
+
+                                                                    EXHIBIT 21
+
+PARENTS AND SUBSIDIARIES
+
+      The Company and its subsidiaries* as of June 27, 1994 are as follows:
+
+<TABLE>
+<CAPTION>
+                                      State (Country) of          Percentage of Voting
+Name of Company                         Incorporation               Securities Owned
+- - ---------------                       ------------------          --------------------
+
+<S>                                      <C>                            <C>
+Kellwood Company                         Delaware                       Parent
+American Recreation Products, Inc.       Delaware                        100%
+Kellwood Asia Limited                    Hong Kong                       100%
+Smart Shirts Limited                     Hong Kong                       100%
+Keeta Company Limited                    Hong Kong                       100%
+South Asia Garment Limited               Hong Kong                       100%
+KWD Holdings, Inc.                       Delaware                        100%
+RSDB Sportswear, Inc.                    Delaware                        100%
+Tri-W Corporation                        North Carolina                  100%
+California Ivy, Inc.                     California                      100%
+
+
+<FN>
+* Some of the above subsidiaries also have subsidiaries which are
+not listed because, in the aggregate, they are not considered to be
+significant.
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>5
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+
+<PAGE> 1
+
+
+                                                              EXHIBIT 24
+                                                              ----------
+
+                          POWER OF ATTORNEY
+                          -----------------
+
+
+        The undersigned, a director of Kellwood Company (the "Company"),
+does hereby constitute and appoint Thomas H. Pollihan his/her true and lawful
+attorney-in-fact and agent, with full power of substitution and
+resubstitution, for him/her and in his/her name, place and stead, to sign
+the Company's Form 10-K Annual Report pursuant to Section 13 of the
+Securities Exchange Act of 1934 as Amended for the fiscal year ended
+April 30, 1994, and to file the same, with all exhibits thereto, and
+other documents in connection therewith, with the Securities and
+Exchange Commission, granting unto the attorney-in-fact full power and
+authority to sign such document on behalf of the undersigned and to make
+such filing, as fully to all intents and purposes as the undersigned
+might or could do in person, hereby ratifying and confirming all that the
+attorney-in-fact, or his substitutes, may lawfully do or cause to be done
+by virtue hereof.
+
+Dated:  June 1, 1994
+
+
+
+/s/ RAYMOND F. BENTELE                   /s/ JAMES C. JACOBSEN
+- - ------------------------------------     -------------------------------------
+Raymond F. Bentele                       James C. Jacobsen
+
+
+/s/ EDWARD S. BOTTUM                     /s/ JAMES J. KERLEY
+- - ------------------------------------     -------------------------------------
+Edward S. Bottum                         James J. Kerley
+
+
+/s/ RICHARD P. CONERLY                   /s/ JAMES S. MARCUS
+- - ------------------------------------     -------------------------------------
+Richard P. Conerly                       James S. Marcus
+
+
+/s/ KITTY G. DICKERSON                   /s/ WILLIAM J. MCKENNA
+- - ------------------------------------     -------------------------------------
+Kitty G. Dickerson                       William J. McKenna
+
+
+/s/ WAI YIU FUNG                         /s/ FRED W. WENZEL
+- - ------------------------------------     -------------------------------------
+Wai Yiu Fung                             Fred W. Wenzel
+
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
