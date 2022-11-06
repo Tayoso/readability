@@ -121,6 +121,12 @@ if __name__ == '__main__':
     md = (r'd:\my files_\GIT\Job Applications\Mentorcruise\Tunyi\data\Loughran-McDonald_MasterDictionary_1993-2021.csv')
     master_dictionary, md_header, sentiment_categories, sentiment_dictionaries, stopwords, total_documents = \
         load_masterdictionary(md, True, f_log, True)
+
+    
     with open('./data/readme.txt', 'w') as f:
         f.write(f'\n\nRuntime: {(dt.datetime.now()-start)}')
         f.write(f'\nNormal termination.\n{dt.datetime.now().strftime("%c")}\n')
+
+    with open('.\data\1994\QTR3\19940701_10-K_edgar_data_98537_0000098537-94-000008_1.txt', 'r') as g:
+        g.write(f'\n\nRuntime: {(dt.datetime.now()-start)}')
+        g.write(f'\nNormal termination.\n{dt.datetime.now().strftime("%c")}\n')
